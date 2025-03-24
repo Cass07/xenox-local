@@ -1,0 +1,113 @@
+[
+  {
+    "text": "장비 아이템",
+    "children": [
+      {
+        "id": "WPN_PcList_ms",
+        "text": "이너 웨펀"
+      },
+      {
+        "id": "AMR_PcList_ms",
+        "text": "이너 슈트"
+      },
+      {
+        "id": "WPN_DlList_ms",
+        "text": "돌 웨펀"
+      },
+      {
+        "id": "AMR_DlList_ms",
+        "text": "돌 아머"
+      },
+      {
+        "id": "CHR_DlList_ms",
+        "text": "돌 프레임"
+      }
+    ]
+  },
+  {
+    "text": "디바이스",
+    "children": [
+      {
+        "id": "BattleSkill_ms",
+        "text": "이너 디바이스"
+      },
+      {
+        "id": "BattleSkill_DL_ms",
+        "text": "돌 디바이스"
+      }
+    ]
+  },
+  {
+    "text": "아츠/스킬",
+    "children": [
+      {
+        "id": "BTL_ArtsList_ms",
+        "text": "이너 아츠"
+      },
+      {
+        "id": "BTL_SkillClass_ms",
+        "text": "이너 스킬"
+      },
+      {
+        "id": "BTL_DlArtsList_ms",
+        "text": "돌 아츠"
+      }
+    ]
+  },
+  {
+    "text": "버프",
+    "children": [
+      {
+        "id": "BTL_BuffList_ms",
+        "text": "버프"
+      }
+    ]
+  },
+  {
+    "text": "아이템",
+    "children": [
+      {
+        "id": "ITM_RareRscList_ms",
+        "text": "레어 리소스"
+      },
+      {
+        "id": "ITM_CollectList_ms",
+        "text": "컬렉션 아이템"
+      },
+      {
+        "id": "ITM_MaterialList_ms",
+        "text": "마테리얼"
+      },
+      {
+        "id": "ITM_BattleItem_ms",
+        "text": "배틀 아이템"
+      },
+      {
+        "id": "ITM_FashionEquip_ms",
+        "text": "패션 아이템"
+      }
+    ]
+  },
+  {
+    "text": "에너미",
+    "children": [
+      {
+        "id": "CHR_EnList_ms",
+        "text": "에너미 (스포주의)"
+      }
+    ]
+  },
+  {
+    "text": "기타",
+    "children": [
+      {
+        "id": "fieldnamelist_ms",
+        "text": "지역 이름"
+      },
+      {
+        "id": "FLD_WeatherNameList_ms",
+        "text": "날씨 이름"
+      }
+    ]
+  }
+]

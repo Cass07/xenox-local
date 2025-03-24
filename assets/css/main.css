@@ -1,0 +1,69 @@
+.div_image_center {
+    vertical-align: middle;
+    text-align: center;
+    display: flex;
+}
+
+.div_image_center img {
+    margin: auto;
+}
+
+.content {
+    margin: 1.2em 0 0.8em 0;
+}
+
+.table > :not(:first-child) {
+    border-top: 0;
+}
+
+img.skill{
+
+}
+
+img.weapon_rank{
+    margin : 0 4px;
+}
+
+a{
+    color : inherit;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+p{
+    word-break: keep-all;
+}
+
+td{
+    word-break: keep-all;
+}
+
+.transition200{
+    transition: all 200ms ease-in-out
+}
+
+.word-break-keep{
+    word-break: keep-all;
+}
+
+div.route {
+    width: 23px;
+    height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+div.usable-white{
+    background: url("../../image/icon/white.png") no-repeat center;
+}
+
+div.usable-black{
+    background: url("../../image/icon/black.png") no-repeat center;
+}
+
+div.usable-valla{
+    background: url("../../image/icon/valla.png") no-repeat center;
+}
