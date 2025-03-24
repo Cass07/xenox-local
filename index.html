@@ -96,6 +96,8 @@
 
 
     $(document).ready(function () {
+        $("#table").bootstrapTable();
+
         let firstJson = "";
         $.ajaxSetup({ async: false });
 
@@ -107,7 +109,6 @@
             });
             firstJson = jsonDataTable[0].children[0].id;
         }).then(function () {
-            $("#table").bootstrapTable();
             updateTable(firstJson);
         });
 
