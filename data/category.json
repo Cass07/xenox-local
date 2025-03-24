@@ -107,6 +107,10 @@
       {
         "id": "FLD_WeatherNameList_ms",
         "text": "날씨 이름"
+      },
+      {
+        "id": "npc_union_ms",
+        "text": "NPC 이름 (스포주의)"
       }
     ]
   }
