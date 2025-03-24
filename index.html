@@ -123,7 +123,6 @@
         let dir = `data/${jsonName}.json`;
 
         $.getJSON(dir, jsonDataTable => {
-            console.log(jsonDataTable);
             $("#table").bootstrapTable('load', jsonDataTable);
         });
     }
