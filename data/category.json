@@ -111,6 +111,10 @@
       {
         "id": "npc_union_ms",
         "text": "NPC 이름 (스포주의)"
+      },
+      {
+        "id": "npc_relatelist_ms",
+        "text": "인연 맵 관계성 (스포주의)"
       }
     ]
   }
