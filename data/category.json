@@ -51,6 +51,10 @@
       {
         "id": "BTL_DlArtsList_ms",
         "text": "돌 아츠"
+      },
+      {
+        "id": "BTL_EnArtsList_ms",
+        "text": "적 아츠 (스포주의)"
       }
     ]
   },
@@ -115,6 +119,14 @@
       {
         "id": "npc_relatelist_ms",
         "text": "인연 맵 관계성 (스포주의)"
+      },
+      {
+        "id": "quest_ms",
+        "text": "퀘스트명, 진행도 텍스트 (스포주의!!!)"
+      },
+      {
+        "id": "MNU_Achievement_ms",
+        "text": "어치브먼트 (스포주의)"
       }
     ]
   }
