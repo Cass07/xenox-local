@@ -71,16 +71,24 @@
     "text": "아이템",
     "children": [
       {
+        "id": "ITM_MaterialList_ms",
+        "text": "마테리얼"
+      },
+      {
         "id": "ITM_RareRscList_ms",
         "text": "레어 리소스"
+      },
+      {
+        "id": "ITM_BeaconList_ms",
+        "text": "데이터 프로브"
       },
       {
         "id": "ITM_CollectList_ms",
         "text": "컬렉션 아이템"
       },
       {
-        "id": "ITM_MaterialList_ms",
-        "text": "마테리얼"
+        "id": "ITM_PreciousList_ms",
+        "text": "귀중품"
       },
       {
         "id": "ITM_BattleItem_ms",
@@ -89,6 +97,10 @@
       {
         "id": "ITM_FashionEquip_ms",
         "text": "패션 아이템"
+      },
+      {
+        "id": "ITM_Blueprint_ms",
+        "text": "설계도"
       }
     ]
   },
@@ -127,6 +139,14 @@
       {
         "id": "MNU_Achievement_ms",
         "text": "어치브먼트 (스포주의)"
+      },
+      {
+        "id": "ITM_InfoList_ms",
+        "text": "인포메이션 (스포주의)"
+      },
+      {
+        "id": "ITM_FigList_ms",
+        "text": "홀로 피겨 (스포주의)"
       }
     ]
   }
