@@ -60,9 +60,9 @@
 </a>
 <div class="container">
     <br>
-    <div class="row">
-        <div class ="col">
-            <p>DE 추가데이터 없음 (나중에 추가함)</p>
+    <div class = "row">
+        <div class="col">
+            <p>돌 웨펀 - 웨펀별 아츠 매칭한 데이터<br>중복은 원본데이터부터 여러개 중복으로 있는거임</p>
         </div>
     </div>
     <div class="row">
@@ -70,7 +70,8 @@
             <table id="table"
                    data-show-fullscreen="true"
                    data-search="true"
-                   data-show-columns="true">
+                   data-show-columns="true"
+            style = "display: none;">
                 <thead>
                 <tr>
                     <th data-field="weapon_id" data-sortable="true" data-visible="false">id</th>
@@ -120,6 +121,7 @@
 
         $.getJSON(categoryDir, jsonDataTable => {
             $("#table").bootstrapTable('load', jsonDataTable);
+            $("#table").show();
         });
 
     });
