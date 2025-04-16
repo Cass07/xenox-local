@@ -3,14 +3,14 @@
 
 <head>
 
-    <title>제노블레이드 크로스 단어사전</title>
+    <title>제노블레이드 크로스 에너미 리스트</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
-    <meta name="description" content="제노블레이드 크로스 단어사전">
-    <meta property="og:title" content="제노블레이드 크로스 단어사전">
+    <meta name="description" content="제노블레이드 크로스 에너미 리스트">
+    <meta property="og:title" content="제노블레이드 크로스 에너미 리스트">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="제노블레이드 크로스 단어사전">
-    <meta property="og:site_name" content="제노블레이드 크로스 단어사전">
+    <meta property="og:description" content="제노블레이드 크로스 에너미 리스트">
+    <meta property="og:site_name" content="제노블레이드 크로스 에너미 리스트">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -37,19 +37,29 @@
         crossorigin="anonymous"></script>
 <script src="https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.js"></script>
 
+<style>
+    label {
+        margin-right: 10px;
+    }
+
+    .filter-row {
+        margin-bottom: 10px;
+    }
+</style>
+
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light" id="navBar">
     <div class="container-fluid" style="margin : 0 10px">
-        <a class="navbar-brand" href="#">제노블레이드 크로스 단어사전</a>
+        <a class="navbar-brand" href="index.html">제노블레이드 크로스 단어사전</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item"><a class="nav-link active" href="index.html">단어사전</a></li>
+                <li class="nav-item"><a class="nav-link" href="index.html">단어사전</a></li>
                 <li class="nav-item"><a class="nav-link" href="doll-weapon-arts.html">돌 웨펀 정보</a></li>
-                <li class="nav-item"><a class="nav-link" href="doll-weapon-arts.html">에너미 리스트</a></li>
+                <li class="nav-item"><a class="nav-link active" href="doll-weapon-arts.html">에너미 리스트</a></li>
             </ul>
         </div>
     </div>
@@ -66,18 +76,18 @@
     <br>
     <div class="row">
         <div class ="col">
-            <p>스포일러 필터링은 따로 없으니 사용 시 스포 주의하세요</p>
+            <p>에너미 명 스포주의하세요</p>
         </div>
     </div>
     <div class="row">
         <div class="col">
-            <label for = "dropdown_category">카테고리</label>
-            <select class="select_class" id="dropdown_category" style="width : 100%;">
-            </select>
             <table id="table"
                    data-show-fullscreen="true"
                    data-search="true"
-                   data-show-columns="true">
+                   data-show-columns="true"
+                   data-detail-view="true"
+                   data-detail-formatter="enemyDetailFormatter"
+                   style="display: none;">
                 <thead>
                 <tr>
                     <th data-field="id" data-sortable="true" data-visible="false">id</th>
@@ -96,40 +106,31 @@
 </body>
 </html>
 <script>
-    let categoryDir = "data/category.json";
-
+    const categoryDir = "data/CHR_EnList_ms.json";
+    const $table = $("#table");
+    let abortController;
 
     $(document).ready(function () {
-        $("#table").bootstrapTable();
+        $table.bootstrapTable();
 
-        let firstJson = "";
-        $.ajaxSetup({ async: false });
+        $.ajaxSetup({async: true});
 
         $.getJSON(categoryDir, jsonDataTable => {
-            $('#dropdown_category').select2({
-                data: jsonDataTable,
-                placeholder: "카테고리",
-                width: 'element',
-            });
-            firstJson = jsonDataTable[0].children[0].id;
-        }).then(function () {
-            updateTable(firstJson);
+            $table.bootstrapTable('load', jsonDataTable);
+            $table.show();
         });
 
     });
 
-    $('#dropdown_category').on('select2:select', function (e) {
-        let jsonName = e.params.data.id;
-        updateTable(jsonName);
-    });
 
+    function enemyDetailFormatter(index, row) {
+        let html = [];
+        let enName = row.us;
+        enName = enName.replaceAll(" ", "_");
 
-    function updateTable(jsonName) {
-        let dir = `data/${jsonName}.json`;
+        html.push(`<p><a href = 'https://www.xenoserieswiki.org/wiki/${enName}' target='_blank'>XenoSeries Wiki Weapon Page</a></p>`);
 
-        $.getJSON(dir, jsonDataTable => {
-            $("#table").bootstrapTable('load', jsonDataTable);
-        });
+        return html.join('');
     }
 
     function scrollTop_func() {
