@@ -37,6 +37,16 @@
         crossorigin="anonymous"></script>
 <script src="https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.js"></script>
 
+<style>
+    label {
+        margin-right: 10px;
+    }
+
+    .filter-row {
+        margin-bottom: 10px;
+    }
+</style>
+
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light" id="navBar">
     <div class="container-fluid" style="margin : 0 10px">
@@ -60,10 +70,77 @@
 </a>
 <div class="container">
     <br>
-    <div class = "row">
+    <div class="row">
         <div class="col">
-            <p>돌 웨펀 - 웨펀별 아츠 매칭한 데이터<br>중복은 원본데이터부터 여러개 중복으로 있는거임<br>게임 표기 히트 수 = 매거진 * 히트 프레임수<br>(0이라면 곱하지 않고 제외. 예외: 드래군 랜스 3히트, 플랩 샷은 매거진 * 7히트로 보임)
+            <p>돌 웨펀 - 웨펀별 아츠 매칭한 데이터<br>중복은 원본데이터부터 여러개 중복으로 있는거임<br>게임 표기 히트 수 = 매거진 * 히트 프레임수<br>(0이라면 곱하지 않고 제외. 예외:
+                드래군 랜스 3히트, 플랩 샷은 매거진 * 7히트로 보임)
                 <br>추가효과 변수 : 연료 흡수를 제외한 나머지는 %p인 것으로 보임</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <h4>필터</h4>
+        </div>
+    </div>
+    <div class="row filter-row">
+        <div class="col">
+            <h5>속성</h5>
+            <input type="checkbox" id="element-physical" class="filter-checkbox" data-kind="element" data-value="물리">
+            <label for="element-physical">물리</label>
+            <input type="checkbox" id="element-beam" class="filter-checkbox" data-kind="element" data-value="빔">
+            <label for="element-beam">빔</label>
+            <input type="checkbox" id="element-ether" class="filter-checkbox" data-kind="element" data-value="에테르">
+            <label for="element-ether">에테르</label>
+            <input type="checkbox" id="element-thermal" class="filter-checkbox" data-kind="element" data-value="히트">
+            <label for="element-thermal">히트</label>
+            <input type="checkbox" id="element-electric" class="filter-checkbox" data-kind="element" data-value="볼트">
+            <label for="element-electric">볼트</label>
+            <input type="checkbox" id="element-gravity" class="filter-checkbox" data-kind="element" data-value="중력">
+            <label for="element-gravity">중력</label>
+            <input type="checkbox" id="element-none" class="filter-checkbox" data-kind="element" data-value="-">
+            <label for="element-none">-</label>
+        </div>
+    </div>
+    <div class="row filter-row">
+        <div class="col">
+            <h5>무기 종류</h5>
+            <input type="checkbox" id="weapontype-back" class="filter-checkbox" data-kind="weapon_type"
+                   data-value="백 웨펀">
+            <label for="weapontype-back">백 웨펀</label>
+            <input type="checkbox" id="weapontype-shoulder" class="filter-checkbox" data-kind="weapon_type"
+                   data-value="숄더 웨펀">
+            <label for="weapontype-shoulder">숄더 웨펀</label>
+            <input type="checkbox" id="weapontype-arm" class="filter-checkbox" data-kind="weapon_type"
+                   data-value="암 웨펀">
+            <label for="weapontype-arm">암 웨펀</label>
+            <input type="checkbox" id="weapontype-hand" class="filter-checkbox" data-kind="weapon_type"
+                   data-value="핸드 웨펀">
+            <label for="weapontype-hand">핸드 웨펀</label>
+            <input type="checkbox" id="weapontype-spare" class="filter-checkbox" data-kind="weapon_type"
+                   data-value="스페어 웨펀">
+            <label for="weapontype-spare">스페어 웨펀</label>
+        </div>
+    </div>
+    <div class="row filter-row">
+        <div class="col">
+            <h5>공격 타입</h5>
+            <input type="checkbox" id="attacktype-melee" class="filter-checkbox" data-kind="attack_type"
+                   data-value="격투력">
+            <label for="attacktype-melee">격투력</label>
+            <input type="checkbox" id="attacktype-range" class="filter-checkbox" data-kind="attack_type"
+                   data-value="사격력">
+            <label for="attacktype-range">사격력</label>
+        </div>
+    </div>
+    <div class="row filter-row">
+        <div class="col">
+            <h5>초병기 여부</h5>
+            <input type="checkbox" id="issuperweapon-true" class="filter-checkbox" data-kind="is_superweapon"
+                   data-value="true">
+            <label for="issuperweapon-true">초병기</label>
+            <input type="checkbox" id="issuperweapon-false" class="filter-checkbox" data-kind="is_superweapon"
+                   data-value="false">
+            <label for="issuperweapon-false">일반 무기</label>
         </div>
     </div>
     <div class="row">
@@ -72,7 +149,9 @@
                    data-show-fullscreen="true"
                    data-search="true"
                    data-show-columns="true"
-            style = "display: none;">
+                   data-detail-view="true"
+                   data-detail-formatter="dwDetailFormatter"
+                   style="display: none;">
                 <thead>
                 <tr>
                     <th data-field="weapon_id" data-sortable="true" data-visible="false">id</th>
@@ -106,6 +185,7 @@
                     <th data-field="element" data-sortable="true">속성</th>
                     <th data-field="is_right_only" data-sortable="true" data-visible="false">우측 전용</th>
                     <th data-field="weapon_type" data-sortable="true">무기타입</th>
+                    <th data-field="is_superweapon" data-sortable="true" data-visible="false">초병기</th>
                 </tr>
                 </thead>
             </table>
@@ -117,20 +197,48 @@
 </body>
 </html>
 <script>
-    let categoryDir = "data/doll_weapons_arts.json";
-
+    const categoryDir = "data/doll_weapons_arts.json";
+    const $table = $("#table");
 
     $(document).ready(function () {
-        $("#table").bootstrapTable();
+        $table.bootstrapTable();
 
-        $.ajaxSetup({ async: false });
+        $.ajaxSetup({async: true});
 
         $.getJSON(categoryDir, jsonDataTable => {
-            $("#table").bootstrapTable('load', jsonDataTable);
-            $("#table").show();
+            $table.bootstrapTable('load', jsonDataTable);
+            $table.show();
         });
 
     });
+
+    $(".filter-checkbox").on("click", function () {
+        let filter_object = {};
+        $(".filter-checkbox:checked").each(function (index, item) {
+            let $item = $(item);
+            if (filter_object[$item.data("kind")]) {
+                filter_object[$item.data("kind")].push($item.data("value"));
+            } else {
+                filter_object[$item.data("kind")] = [$item.data("value")];
+            }
+        });
+
+        filter(filter_object);
+    });
+
+    function filter(filter_obj) {
+        $table.bootstrapTable('filterBy', filter_obj)
+    }
+
+    function dwDetailFormatter(index, row) {
+        let html = [];
+        let enName = row.weapon_en;
+        enName = enName.replaceAll(" ", "_");
+
+        html.push(`<p><a href = 'https://www.xenoserieswiki.org/wiki/${enName}' target='_blank'>XenoSeries Wiki Weapon Page</a></p>`);
+
+        return html.join('');
+    }
 
     function scrollTop_func() {
         $('html, body').animate({
