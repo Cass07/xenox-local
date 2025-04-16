@@ -75,8 +75,9 @@
 <div class="container">
     <br>
     <div class="row">
-        <div class ="col">
+        <div class="col">
             <p>에너미 명 스포주의하세요</p>
+            <button type="button" id="show-table-button" class="btn btn-success">리스트 보기</button>
         </div>
     </div>
     <div class="row">
@@ -117,9 +118,22 @@
 
         $.getJSON(categoryDir, jsonDataTable => {
             $table.bootstrapTable('load', jsonDataTable);
-            $table.show();
+
+            let cookieValue = document.cookie.match('(^|;) ?enemylist=([^;]*)(;|$)');
+            cookieValue = cookieValue? cookieValue[2] : null;
+            if(cookieValue === "show") {
+                $table.show();
+            }
         });
 
+    });
+
+    $("#show-table-button").on("click", function () {
+        let date = new Date();
+        date.setTime(date.getTime() + 30 * 24 * 60 * 60 * 1000);
+        document.cookie = 'enemylist=show;expires=' + date.toUTCString();
+
+        $table.show();
     });
 
 
