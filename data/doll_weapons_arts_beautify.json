@@ -67196,7 +67196,7 @@
    "fuel": 50,
    "ammo": 0,
    "hits": 3,
-   "enhance": null,
-   "is_superweapon": null
+   "enhance": 0,
+   "is_superweapon": false
  }
 ]
