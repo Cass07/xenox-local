@@ -3,14 +3,14 @@
 
 <head>
 
-    <title>제노블레이드 크로스 단어사전</title>
+    <title>제노블레이드 크로스 돌 웨펀 정보</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
-    <meta name="description" content="제노블레이드 크로스 단어사전">
-    <meta property="og:title" content="제노블레이드 크로스 단어사전">
+    <meta name="description" content="제노블레이드 돌 웨펀 정보">
+    <meta property="og:title" content="제노블레이드 돌 웨펀 정보">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="제노블레이드 크로스 단어사전">
-    <meta property="og:site_name" content="제노블레이드 크로스 단어사전">
+    <meta property="og:description" content="제노블레이드 돌 웨펀 정보">
+    <meta property="og:site_name" content="제노블레이드 돌 웨펀 정보">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -50,13 +50,16 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light" id="navBar">
     <div class="container-fluid" style="margin : 0 10px">
-        <a class="navbar-brand" href="#">제노블레이드 크로스 단어사전</a>
+        <a class="navbar-brand" href="index.html">제노블레이드 크로스 단어사전</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item"><a class="nav-link" href="index.html">단어사전</a></li>
+                <li class="nav-item"><a class="nav-link active" href="doll-weapon-arts.html">돌 웨펀 정보</a></li>
+            </ul>
         </div>
     </div>
 </nav>
@@ -141,6 +144,31 @@
             <input type="checkbox" id="issuperweapon-false" class="filter-checkbox" data-kind="is_superweapon"
                    data-value="false">
             <label for="issuperweapon-false">일반 무기</label>
+        </div>
+    </div>
+    <div class="row filter-row">
+        <div class="col">
+            <h5>슬롯</h5>
+            <input type="checkbox" id="doubleshoulder-true" class="filter-checkbox" data-kind="double_slot_shoulder"
+                   data-value="true">
+            <label for="doubleshoulder-true">숄더 2슬롯</label>
+            <input type="checkbox" id="doubleshoulder-false" class="filter-checkbox" data-kind="double_slot_shoulder"
+                   data-value="false">
+            <label for="doubleshoulder-false">숄더 2슬롯 아님</label>
+            <br>
+            <input type="checkbox" id="doubleback-true" class="filter-checkbox" data-kind="double_slot_back"
+                   data-value="true">
+            <label for="doubleback-true">백 2슬롯</label>
+            <input type="checkbox" id="doubleback-false" class="filter-checkbox" data-kind="double_slot_back"
+                   data-value="false">
+            <label for="doubleback-false">백 2슬롯 아님</label>
+            <br>
+            <input type="checkbox" id="isrightonly-true" class="filter-checkbox" data-kind="is_right_only"
+                   data-value="true">
+            <label for="isrightonly-true">우측 전용</label>
+            <input type="checkbox" id="isrightonly-false" class="filter-checkbox" data-kind="is_right_onlyk"
+                   data-value="false">
+            <label for="isrightonly-false">우측 전용 아님</label>
         </div>
     </div>
     <div class="row">
