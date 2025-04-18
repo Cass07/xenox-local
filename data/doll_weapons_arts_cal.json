@@ -2420,7 +2420,7 @@
     "damage_ratio": 1500,
     "recast_frame": 3600,
     "recast_sec": 120,
-    "attack_type": "격투력",
+    "attack_type": "사격력",
     "double_slot_shoulder": true,
     "double_slot_back": true,
     "caption_en": "(1200 Fuel) Deals beam damage + Inflicts Beam Res Down",
