@@ -1,0 +1,539 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+
+    <title>제노블레이드 크로스 돌 대미지 계산기</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <meta name="description" content="제노블레이드 크로스 돌 대미지 계산기">
+    <meta property="og:title" content="제노블레이드 크로스 돌 대미지 계산기">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="제노블레이드 크로스 돌 대미지 계산기">
+    <meta property="og:site_name" content="제노블레이드 크로스 돌 대미지 계산기">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="shortcut icon" href="image/icon/favicon_57.png" type="image/x-icon"/>
+    <link rel="icon" href="image/icon/favicon_57.png" type="image/x-icon"/>
+    <link rel="apple-touch-icon" sizes="57x57" href="image/icon/favicon_57.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="image/icon/favicon_114.png"/>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.css">
+    <link rel="stylesheet" href="assets/css/select2.min.css"/>
+    <link rel="stylesheet" href="assets/css/main.css?ver=231126"/>
+
+</head>
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/select2.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
+        integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+        integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+        crossorigin="anonymous"></script>
+<script src="https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.js"></script>
+
+<style>
+    label {
+        margin-right: 10px;
+    }
+
+    .input-row {
+        margin-bottom: 10px;
+    }
+</style>
+
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light" id="navBar">
+    <div class="container-fluid" style="margin : 0 10px">
+        <a class="navbar-brand" href="index.html">제노블레이드 크로스 단어사전</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item"><a class="nav-link" href="index.html">단어사전</a></li>
+                <li class="nav-item"><a class="nav-link" href="doll-weapon-arts.html">돌 웨펀 정보</a></li>
+                <li class="nav-item"><a class="nav-link" href="enemy-wikipage.html">에너미 리스트</a></li>
+                <li class="nav-item"><a class="nav-link active" href="doll-damage.html">돌 대미지 계산기</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<a style="position : fixed; bottom : 20px; right : 20px; width : 50px; height : 50px; border-radius: 100px; z-index: 9999;"
+   href="#"
+   onclick="scrollTop_func();return false;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="#009e9f" class="bi bi-arrow-up-circle-fill"
+         viewBox="0 0 16 16">
+        <path d="M16 8A8 8 0 1 0 0 8a8 8 0 0 0 16 0zm-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"></path>
+    </svg>
+</a>
+<div class="container">
+    <br>
+    <div class="row input-row">
+        <div class="col-md-12">
+            <label for="dollDropdown">돌 리스트</label>
+            <select class="select_class" id="dollDropdown" style="width : 100%;">
+            </select>
+        </div>
+    </div>
+    <div class="row input-row">
+        <div class="col-md-3">
+            <label for="meleeUp">
+                격투력 업
+            </label>
+            <input id="meleeUp" type="number" class="form-control doll-inputs" min="0" step="100" value="0">
+        </div>
+        <div class="col-md-3">
+            <label for="meleeBoost">
+                격투력 부스트 (%)
+            </label>
+            <input id="meleeBoost" type="number" class="form-control doll-inputs" min="0" max="100" step="10" value="0">
+        </div>
+        <div class="col-md-3">
+            <label for="meleeDrive">
+                격투력 드라이브 (%)
+            </label>
+            <input id="meleeDrive" type="number" class="form-control doll-inputs" min="0" max="100" step="10" value="0">
+        </div>
+        <div class="col-md-3">
+            <label for="meleeBuff">
+                격투력 업 버프 (%) (실드 클록 50%)
+            </label>
+            <input id="meleeBuff" type="number" class="form-control doll-inputs" min="0" max="80" step="10" value="0">
+        </div>
+    </div>
+    <div class="row input-row">
+        <div class="col-md-3">
+            <label for="rangeUp">
+                사격력 업
+            </label>
+            <input id="rangeUp" type="number" class="form-control doll-inputs" min="0" step="100" value="0">
+        </div>
+        <div class="col-md-3">
+            <label for="rangeBoost">
+                사격력 부스트 (%)
+            </label>
+            <input id="rangeBoost" type="number" class="form-control doll-inputs" min="0" max="100" step="10" value="0">
+        </div>
+        <div class="col-md-3">
+            <label for="rangeDrive">
+                사격력 드라이브 (%)
+            </label>
+            <input id="rangeDrive" type="number" class="form-control doll-inputs" min="0" max="100" step="10" value="0">
+        </div>
+        <div class="col-md-3">
+            <label for="rangeBuff">
+                사격력 업 버프 (%) (실드 클록 50%)
+            </label>
+            <input id="rangeBuff" type="number" class="form-control doll-inputs" min="0" max="80" step="10" value="0">
+        </div>
+    </div>
+    <div class="row input-row">
+        <div class="col-md-3">
+            <label for="elementBoost">
+                속성 대미지 업 (%)
+            </label>
+            <input id="elementBoost" type="number" class="form-control additive-inputs" min="0" step="10" value="0">
+        </div>
+        <div class="col-md-3">
+            <label for="openBoost">
+                개막 아츠 대미지 업 (%)
+            </label>
+            <input id="openBoost" type="number" class="form-control additive-inputs" min="0" step="100" value="0">
+        </div>
+        <div class="col-md-3">
+            <label for="raceBoost">
+                종족 대미지 업 (%)
+            </label>
+            <input id="raceBoost" type="number" class="form-control additive-inputs" min="0" step="10" value="0">
+        </div>
+        <div class="col-md-3">
+            <input class="form-check-input doll-inputs" type="checkbox" value="" id="synchrony5">
+            <label class="form-check-label" for="synchrony5">
+                심기일체 5레벨
+            </label>
+        </div>
+    </div>
+    <div class = "row">
+        <div class="col-md-12">
+            <input class="form-check-input doll-inputs" type="checkbox" value="" id="statDirect">
+            <label class="form-check-label" for="statDirect">
+                최종 스탯 직접 입력
+            </label>
+        </div>
+    </div>
+    <div class = "row">
+        <div class="col-md-3">
+            <label for="finalMelee">
+                최종 격투력
+            </label>
+            <input id="finalMelee" type="number" class="form-control doll-inputs-direct" min="0" step="100" value="0" disabled>
+        </div>
+        <div class="col-md-3">
+            <label for="finalRange">
+                최종 사격력
+            </label>
+            <input id="finalRange" type="number" class="form-control doll-inputs-direct" min="0" step="100" value="0" disabled>
+        </div>
+    </div>
+    <div class = "row">
+        <div class = "col">
+            <p id = "dollCalText" style="white-space: pre-line; font-size: 14px; color : #009e9f"></p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <table id="table"
+                   data-show-fullscreen="true"
+                   data-search="true"
+                   data-show-columns="true"
+                   data-detail-view="true"
+                   data-detail-formatter="detailFormatter"
+                   style="display: none;">
+                <thead>
+                <tr>
+                    <th data-field="id" data-sortable="true" data-visible="false">id</th>
+                    <th data-field="weapon_kr" data-sortable="true">무기</th>
+                    <th data-field="arts_kr" data-sortable="true">아츠</th>
+                    <th data-field="caption_kr" data-sortable="true" data-visible="false">아츠 설명</th>
+                    <th data-field="target_kr" data-sortable="true" data-visible="false">아츠 타깃</th>
+                    <th data-field="finalDamage" data-sortable="true">최종 대미지</th>
+                    <th data-field="damage_ratio" data-sortable="true">배율(%)</th>
+                    <th data-field="force" data-sortable="true">위력</th>
+                    <th data-field="recast_sec" data-sortable="true" data-visible="false">리캐스트(초)</th>
+                    <th data-field="fuel" data-sortable="true" data-visible="false">연료</th>
+                    <th data-field="element" data-sortable="true">속성</th>
+                    <th data-field="weapon_type" data-sortable="true">무기 종류</th>
+                </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+    <div style="height : 50px"></div>
+</div>
+
+</body>
+</html>
+<script>
+    const dollDir = "data/doll.json";
+    const weaponDir = "data/doll_weapons_arts_cal.json";
+    const $table = $("#table");
+    const $dollDropdown = $("#dollDropdown");
+    const $statDirect = $("#statDirect");
+    const $dollInputs = $(".doll-inputs");
+    const $dollInputsDirect = $(".doll-inputs-direct");
+    const $additiveInputs = $(".additive-inputs");
+    let DOLL_STATUS;
+    let WEAPON_TABLE;
+    let ADDITIVES;
+    let DAMAGEUP40;
+    let DAMAGEUP100;
+
+    $(document).ready(function () {
+
+        $table.bootstrapTable();
+
+        const dollPromise = $.ajax({
+            url: dollDir,
+            dataType: 'json'
+        });
+
+        const weaponPromise = $.ajax({
+            url: weaponDir,
+            dataType: 'json'
+        });
+
+        Promise.all([dollPromise, weaponPromise])
+            .then(([dollData, weaponData]) => {
+                // Process doll data
+                $dollDropdown.select2({
+                    data: dollData,
+                    placeholder: "돌",
+                    width: 'element',
+                });
+
+                DOLL_STATUS = dollData[0];
+                DOLL_STATUS.direct = false;
+                updateDollStatus(DOLL_STATUS);
+
+                ADDITIVES = 0;
+
+                WEAPON_TABLE = weaponData;
+
+                updateTable();
+                $table.show();
+            })
+            .catch(error => {
+                console.error("Error loading data:", error);
+            });
+
+    });
+
+    $statDirect.on('click', function() {
+        if($(this).is(":checked")) {
+            $("#finalMelee").prop("disabled", false);
+            $("#finalRange").prop("disabled", false);
+            let doll_status = getDirectDollStatus();
+            updateDollStatus(doll_status);
+        } else {
+            $("#finalMelee").prop("disabled", true);
+            $("#finalRange").prop("disabled", true);
+
+            //선택된 돌 데이터를 가지고 다시만들어야함
+            DOLL_STATUS = $dollDropdown.select2('data')[0];
+            DOLL_STATUS.direct = false;
+
+            updateDollStatus(DOLL_STATUS);
+        }
+
+        updateTable();
+    });
+
+    $dollInputsDirect.on('input', function () {
+        let doll_status = getDirectDollStatus();
+        updateDollStatus(doll_status);
+        updateTable();
+    });
+
+    $dollInputs.on('input', function () {
+        if($statDirect.is(":checked")) {
+            return;
+        }
+
+        updateDollStatus(DOLL_STATUS);
+        updateTable();
+    });
+
+    $dollDropdown.on('select2:select', function (e) {
+        DOLL_STATUS = e.params.data;
+        DOLL_STATUS.direct = false;
+
+        updateDollStatus(DOLL_STATUS);
+        updateTable();
+        //updateTable(DOLL_STATUS);
+    });
+
+    $additiveInputs.on('input', function () {
+        ADDITIVES = calculateElementBuff();
+        updateTable();
+
+    });
+
+    function getDirectDollStatus() {
+        let doll_status = {};
+        doll_status.melee = parseInt($("#finalMelee").val());
+        doll_status.range = parseInt($("#finalRange").val());
+        doll_status.direct = true;
+
+        return doll_status;
+    }
+
+    function updateDollStatus(doll_status) {
+        if(doll_status.direct === false) {
+            DOLL_STATUS = calculateFinalDollStats(doll_status);
+            updateDollText(DOLL_STATUS);
+        } else {
+            DOLL_STATUS = doll_status;
+            DOLL_STATUS.meleeFinal = doll_status.melee;
+            DOLL_STATUS.rangeFinal = doll_status.range;
+            $("#dollCalText").text("");
+        }
+    }
+
+
+    function updateDollText(dollResult) {
+        let dollText = makeDollCalText(dollResult);
+        $("#dollCalText").text(dollText);
+
+        $("#finalMelee").val(dollResult.meleeFinal);
+        $("#finalRange").val(dollResult.rangeFinal);
+    }
+
+    function calculateFinalDollStats(doll_status) {
+        let meleeUp = parseInt($("#meleeUp").val());
+        let meleeBoost = parseInt($("#meleeBoost").val());
+        let meleeDrive = parseInt($("#meleeDrive").val());
+        let meleeBuff = parseInt($("#meleeBuff").val());
+
+        let rangeUp = parseInt($("#rangeUp").val());
+        let rangeBoost = parseInt($("#rangeBoost").val());
+        let rangeDrive = parseInt($("#rangeDrive").val());
+        let rangeBuff = parseInt($("#rangeBuff").val());
+
+        let synchrony5 = $("#synchrony5").is(":checked");
+
+        let initialMelee = doll_status.melee;
+        let initialRange = doll_status.range;
+
+        let meleeFinalBoost = meleeBoost + meleeDrive;
+        let rangeFinalBoost = rangeBoost + rangeDrive;
+
+        let meleeFinalUp = initialMelee + meleeUp;
+        let rangeFinalUp = initialRange + rangeUp;
+
+        let meleeFinal = Math.floor(Math.floor(meleeFinalUp * (1 + (meleeFinalBoost / 100) + (synchrony5 ? 0.12 : 0))) * (1 + (meleeBuff / 100)));
+        let rangeFinal = Math.floor(Math.floor(rangeFinalUp * (1 + (rangeFinalBoost / 100) + (synchrony5 ? 0.12 : 0))) * (1 + (rangeBuff / 100)));
+
+        let melee100RealUp = Math.floor((100 * (1 + (meleeFinalBoost / 100) + (synchrony5 ? 0.12 : 0))) * (1 + (meleeBuff / 100)));
+        let range100RealUp = Math.floor((100 * (1 + (rangeFinalBoost / 100) + (synchrony5 ? 0.12 : 0))) * (1 + (rangeBuff / 100)));
+
+        let dollResult = {};
+        dollResult.melee = doll_status.melee;
+        dollResult.range = doll_status.range;
+
+        dollResult.meleeFinalUp = meleeFinalUp;
+        dollResult.rangeFinalUp = rangeFinalUp;
+        dollResult.meleeUp = meleeUp;
+        dollResult.rangeUp = rangeUp;
+        dollResult.meleeFinal = meleeFinal;
+        dollResult.rangeFinal = rangeFinal;
+        dollResult.isSyncrony5 = synchrony5;
+
+        dollResult.meleeFinalBoost = meleeFinalBoost;
+        dollResult.rangeFinalBoost = rangeFinalBoost;
+
+        dollResult.melee100RealUp = melee100RealUp;
+        dollResult.range100RealUp = range100RealUp;
+
+        dollResult.meleeBuff = meleeBuff;
+        dollResult.rangeBuff = rangeBuff;
+        dollResult.direct = false;
+
+        return dollResult;
+    }
+
+    function makeDollCalText(doll_status) {
+        let synchrony5 = doll_status.isSyncrony5? 12: 0;
+        let text = `최종 격투력 : ${doll_status.meleeFinal} [${doll_status.meleeFinalUp} * (${100 + doll_status.meleeFinalBoost + synchrony5}%) * (${100 + doll_status.meleeBuff}%)]\n`;
+        text += `최종 사격력 : ${doll_status.rangeFinal} [${doll_status.rangeFinalUp} * (${100 + doll_status.rangeFinalBoost + synchrony5}%) * (${100 + doll_status.rangeBuff}%)]\n`;
+
+        return text;
+    }
+
+    function calculateElementBuff() {
+        let elementBoost = parseInt($("#elementBoost").val());
+        let openBoost = parseInt($("#openBoost").val());
+        let raceBoost = parseInt($("#raceBoost").val());
+
+        let sum = elementBoost + openBoost + raceBoost;
+        DAMAGEUP40 = Math.floor(( 1 + (sum / 100) + 0.4) / (1 + (sum / 100)) * 10000) / 100;
+        DAMAGEUP100 = Math.floor(( 1 + (sum / 100) + 1) / (1 + (sum / 100)) * 10000) / 100;
+
+
+        return elementBoost + openBoost + raceBoost;
+    }
+
+    function calculateWeaponDamage(weaponTable, doll_status, additives) {
+        let melee = doll_status.meleeFinal;
+        let range = doll_status.rangeFinal;
+
+
+        weaponTable.forEach((weapon, index, array) => {
+            let weaponDamage = 0;
+            let weaponSpeDamage = 0;
+            let force = weapon.force;
+            let damage_ratio = weapon.damage_ratio;
+
+            let attack_type = weapon.attack_type;
+            let weapon_type = weapon.weapon_type;
+
+            let real_hit = weapon.real_hit;
+            let damageUpPlus = weapon.damageUpPlus;
+
+            let finalAtk = 0;
+
+            let calcText = "";
+
+            // 핸드 웨펀이라면 대미지 배율은 타수로 나뉜다
+            if(weapon_type === "핸드 웨펀" && real_hit > 1) {
+                calcText += `<p>핸드 웨펀 배율 수정 : (${damage_ratio} / ${real_hit}) = `;
+                damage_ratio /= real_hit;
+                calcText += `${Math.round(damage_ratio * 100) / 100}%</p>`;
+            }
+
+            calcText += `<p>기본 대미지 = `;
+
+            if(attack_type === "격투력") {
+                finalAtk = melee * (damage_ratio / 100);
+                calcText += `(${melee} * ${Math.round(damage_ratio * 100) / 100}%`;
+            } else if(attack_type === "사격력") {
+                finalAtk = range * (damage_ratio / 100);
+                calcText += `(${melee} * ${Math.round(damage_ratio * 100) / 100}%`;
+            }
+
+
+            weaponDamage = Math.floor((finalAtk + force) * (1 + (additives / 100))) * real_hit;
+            calcText += ` + ${force}) * (1 + ${additives}%) * ${real_hit} = ${weaponDamage}</p>`;
+
+            weaponSpeDamage = Math.floor((finalAtk + force) * (1 + (additives / 100) + (damageUpPlus / 100))) * real_hit;
+            if(damageUpPlus !== 0) {
+                calcText += `<p>조건부 대미지 = (${finalAtk} + ${force}) * (1 + ${additives}% + ${damageUpPlus}%) * ${real_hit} = ${weaponSpeDamage}</p>`;
+            }
+
+            array[index].calcText = calcText;
+
+            let statUpStats = 0;
+            if(doll_status.direct === false) {
+                if(attack_type === "격투력") {
+                    statUpStats = (melee + doll_status.melee100RealUp) * (damage_ratio / 100);
+                } else if(attack_type === "사격력") {
+                    statUpStats = (range + doll_status.range100RealUp) * (damage_ratio / 100);
+                }
+            }
+
+            // 사격력 100마다 오르는 양
+            let statUpRatio = Math.round( (statUpStats + force) / (finalAtk + force) * 10000) / 100;
+
+
+            array[index].finalDamage = weaponDamage;
+            array[index].finalSpeDamage = weaponSpeDamage;
+
+            array[index].stat100Ratio = statUpRatio;
+        });
+    }
+
+    function updateTable() {
+        ADDITIVES = calculateElementBuff();
+
+        calculateWeaponDamage(WEAPON_TABLE, DOLL_STATUS, ADDITIVES);
+
+
+        $table.bootstrapTable('load', WEAPON_TABLE);
+    }
+
+
+    function detailFormatter(index, row) {
+        let html = [];
+        let enName = row.weapon_en;
+        enName = enName.replaceAll(" ", "_");
+
+        html.push(`<p><a href = 'https://www.xenoserieswiki.org/wiki/${enName}' target='_blank'>XenoSeries Wiki Weapon Page</a></p>`);
+        html.push(`<p>최종 대미지 : ${row.finalDamage}</p>`);
+        html.push(`<p>${row.calcText}</p>`);
+        if(row.damageUpPlus !== 0) {
+            html.push(`<p>(아츠의 조건부 대미지 업 ${row.damageUpPlus}%p)</p>`);
+        }
+
+        if(DOLL_STATUS.direct === false) {
+            html.push(`<p>대미지 업 +40%p 시 대미지 상승률 : ${DAMAGEUP40}%</p>`);
+            html.push(`<p>대미지 업 +100%p 시 대미지 상승률 : ${DAMAGEUP100}%</p>`);
+            html.push(`<p>격투력/사격력 업 +100 시 대미지 상승률 : ${row.stat100Ratio}%</p>`);
+        }
+
+
+        return html.join('');
+    }
+
+    function scrollTop_func() {
+        $('html, body').animate({
+            scrollTop: $("#navBar").offset().top
+        }, 50, 'linear');
+    }
+
+</script>
