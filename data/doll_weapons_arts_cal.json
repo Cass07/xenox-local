@@ -2431,7 +2431,7 @@
     "is_right_only": true,
     "weapon_type": "백 웨펀",
     "fuel": 1200,
-    "real_hit": 1,
+    "real_hit": 3,
     "is_superweapon": true,
     "damageUpPlus": 0
   },
