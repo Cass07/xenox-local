@@ -468,9 +468,12 @@
                 calcText += `(${melee} × ${Math.round(damage_ratio * 100) / 100}%`;
             }
 
-
+            let singleHitDamage = Math.floor((finalAtk + force) * (1 + (additives / 100)));
             weaponDamage = Math.floor((finalAtk + force) * (1 + (additives / 100))) * real_hit;
             calcText += ` + ${force}) × (1 + ${additives}%) × ${real_hit} = ${weaponDamage}</p>`;
+            if(real_hit > 1) {
+                calcText += `<p>(${singleHitDamage} × ${real_hit})</p>`;
+            }
 
             weaponSpeDamage = Math.floor((finalAtk + force) * (1 + (additives / 100) + (damageUpPlus / 100))) * real_hit;
             if(damageUpPlus !== 0) {
