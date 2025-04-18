@@ -461,19 +461,19 @@
 
             if(attack_type === "격투력") {
                 finalAtk = melee * (damage_ratio / 100);
-                calcText += `(${melee} * ${Math.round(damage_ratio * 100) / 100}%`;
+                calcText += `(${melee} × ${Math.round(damage_ratio * 100) / 100}%`;
             } else if(attack_type === "사격력") {
                 finalAtk = range * (damage_ratio / 100);
-                calcText += `(${melee} * ${Math.round(damage_ratio * 100) / 100}%`;
+                calcText += `(${melee} × ${Math.round(damage_ratio * 100) / 100}%`;
             }
 
 
             weaponDamage = Math.floor((finalAtk + force) * (1 + (additives / 100))) * real_hit;
-            calcText += ` + ${force}) * (1 + ${additives}%) * ${real_hit} = ${weaponDamage}</p>`;
+            calcText += ` + ${force}) × (1 + ${additives}%) × ${real_hit} = ${weaponDamage}</p>`;
 
             weaponSpeDamage = Math.floor((finalAtk + force) * (1 + (additives / 100) + (damageUpPlus / 100))) * real_hit;
             if(damageUpPlus !== 0) {
-                calcText += `<p>조건부 대미지 = (${finalAtk} + ${force}) * (1 + ${additives}% + ${damageUpPlus}%) * ${real_hit} = ${weaponSpeDamage}</p>`;
+                calcText += `<p>조건부 대미지 = (${finalAtk} + ${force}) × (1 + ${additives}% + ${damageUpPlus}%) × ${real_hit} = ${weaponSpeDamage}</p>`;
             }
 
             array[index].calcText = calcText;
