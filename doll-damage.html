@@ -410,8 +410,8 @@
 
     function makeDollCalText(doll_status) {
         let synchrony5 = doll_status.isSyncrony5? 12: 0;
-        let text = `최종 격투력 : ${doll_status.meleeFinal} [${doll_status.meleeFinalUp} * (${100 + doll_status.meleeFinalBoost + synchrony5}%) * (${100 + doll_status.meleeBuff}%)]\n`;
-        text += `최종 사격력 : ${doll_status.rangeFinal} [${doll_status.rangeFinalUp} * (${100 + doll_status.rangeFinalBoost + synchrony5}%) * (${100 + doll_status.rangeBuff}%)]\n`;
+        let text = `최종 격투력 : ${doll_status.meleeFinal} [${doll_status.meleeFinalUp} × (${100 + doll_status.meleeFinalBoost + synchrony5}%) × (${100 + doll_status.meleeBuff}%)]\n`;
+        text += `최종 사격력 : ${doll_status.rangeFinal} [${doll_status.rangeFinalUp} × (${100 + doll_status.rangeFinalBoost + synchrony5}%) × (${100 + doll_status.rangeBuff}%)]\n`;
 
         return text;
     }
