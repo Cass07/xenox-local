@@ -154,6 +154,14 @@
             <input id="raceBoost" type="number" class="form-control additive-inputs" min="0" step="10" value="0">
         </div>
         <div class="col-md-3">
+            <label for="wpCustomUp">
+                웨펀 아츠 공격력 업 (%)
+            </label>
+            <input id="wpCustomUp" type="number" class="form-control wpcustom-inputs" min="0" step="10" value="0">
+        </div>
+    </div>
+    <div class = "row">
+        <div class="col-md-3">
             <input class="form-check-input doll-inputs" type="checkbox" value="" id="synchrony5">
             <label class="form-check-label" for="synchrony5">
                 심기일체 5레벨
@@ -230,6 +238,7 @@
     const $dollInputs = $(".doll-inputs");
     const $dollInputsDirect = $(".doll-inputs-direct");
     const $additiveInputs = $(".additive-inputs");
+    const $wpcustomInputs = $(".wpcustom-inputs");
     let DOLL_STATUS;
     let WEAPON_TABLE;
     let ADDITIVES;
@@ -324,6 +333,10 @@
         ADDITIVES = calculateElementBuff();
         updateTable();
 
+    });
+
+    $wpcustomInputs.on('input', function () {
+        updateTable();
     });
 
     function getDirectDollStatus() {
@@ -433,6 +446,7 @@
     function calculateWeaponDamage(weaponTable, doll_status, additives) {
         let melee = doll_status.meleeFinal;
         let range = doll_status.rangeFinal;
+        let wpCustomUp = parseInt($("#wpCustomUp").val());
 
 
         weaponTable.forEach((weapon, index, array) => {
@@ -462,22 +476,22 @@
 
             if(attack_type === "격투력") {
                 finalAtk = melee * (damage_ratio / 100);
-                calcText += `(${melee} × ${Math.round(damage_ratio * 100) / 100}%`;
+                calcText += `[${melee} × ${Math.round(damage_ratio * 100) / 100}%`;
             } else if(attack_type === "사격력") {
                 finalAtk = range * (damage_ratio / 100);
-                calcText += `(${melee} × ${Math.round(damage_ratio * 100) / 100}%`;
+                calcText += `[${melee} × ${Math.round(damage_ratio * 100) / 100}%`;
             }
 
-            let singleHitDamage = Math.floor((finalAtk + force) * (1 + (additives / 100)));
-            weaponDamage = Math.floor((finalAtk + force) * (1 + (additives / 100))) * real_hit;
-            calcText += ` + ${force}) × (1 + ${additives}%) × ${real_hit} = ${weaponDamage}</p>`;
+            let singleHitDamage = Math.floor((finalAtk + force * (1 + wpCustomUp /100)) * (1 + (additives / 100)));
+            weaponDamage = Math.floor((finalAtk + force * (1 + wpCustomUp /100)) * (1 + (additives / 100))) * real_hit;
+            calcText += ` + ${force} × (1 + ${wpCustomUp}%)] × (1 + ${additives}%) × ${real_hit} = ${weaponDamage}</p>`;
             if(real_hit > 1) {
                 calcText += `<p>(${singleHitDamage} × ${real_hit})</p>`;
             }
 
-            weaponSpeDamage = Math.floor((finalAtk + force) * (1 + (additives / 100) + (damageUpPlus / 100))) * real_hit;
+            weaponSpeDamage = Math.floor((finalAtk + force * (1 + wpCustomUp /100)) * (1 + (additives / 100) + (damageUpPlus / 100))) * real_hit;
             if(damageUpPlus !== 0) {
-                calcText += `<p>조건부 대미지 = (${finalAtk} + ${force}) × (1 + ${additives}% + ${damageUpPlus}%) × ${real_hit} = ${weaponSpeDamage}</p>`;
+                calcText += `<p>조건부 대미지 = [${finalAtk} + ${force} × (1 + ${wpCustomUp}%)] × (1 + ${additives}% + ${damageUpPlus}%) × ${real_hit} = ${weaponSpeDamage}</p>`;
             }
 
             array[index].calcText = calcText;
@@ -492,7 +506,7 @@
             }
 
             // 사격력 100마다 오르는 양
-            let statUpRatio = Math.round( (statUpStats + force) / (finalAtk + force) * 10000) / 100;
+            let statUpRatio = Math.round( (statUpStats + force * (1 + wpCustomUp /100)) / (finalAtk + force * (1 + wpCustomUp /100)) * 10000) / 100;
 
 
             array[index].finalDamage = weaponDamage;
