@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051503_MSG0001",
+      "style": 1,
+      "name": "후훗, 드론고 카라반…… 아니!\n노폰 최강의 전사 루리리타 등장이다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051503_MSG0002",
+      "style": 1,
+      "name": "오늘은 당신에게 이 행성에서\n가장 강한 자는 누구인지 가르쳐 주러 왔다모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051503_MSG0003",
+      "style": 1,
+      "name": "……응? 루리리타가 싸우는 거냐고?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051503_MSG0004",
+      "style": 1,
+      "name": "그런 엄청난 일은 못 한다모!\n다치면 어떡할 거냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051503_MSG0005",
+      "style": 1,
+      "name": "싸우는 건 루리리타가\n많은 돈을 들여 키운\n난폭한 노포히포 군단이다모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev051503_MSG0006",
+      "style": 1,
+      "name": "자, 간다모! 루리리타는……\n안전한 곳에서 구경하겠다모~![ST:wait ]"
+    }
+  ]
+}

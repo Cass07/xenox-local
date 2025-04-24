@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev027006MSG0001",
+      "style": 1,
+      "name": "어서 오잖앙…… 수고가 많잖앙……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev027006MSG0002",
+      "style": 1,
+      "name": "적을 쓰러뜨렸나 보잖앙\n그건 기쁜 일이잖앙\n하지만……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev027006MSG0003",
+      "style": 1,
+      "name": "문제가 조금 생겼잖앙[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev027006MSG0004",
+      "style": 1,
+      "name": "…………위로금을, 내놓으라고 하잖앙[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev027006MSG0005",
+      "style": 1,
+      "name": "다름 아닌 여기에 서 있는\n헤라도트가 주장하고 있잖앙[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev027006MSG0006",
+      "style": 1,
+      "name": "흥, 흥\n저 정말로 삐졌다고용~![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev027006MSG0007",
+      "style": 1,
+      "name": "아무래도 자기를 미끼로 삼아\n적의 위치를 찾는 작전이\n나중에서야 불쾌해졌나 보잖앙[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev027006MSG0008",
+      "style": 1,
+      "name": "솔직히 진지하게 생각하면 누구든\n진짜 열받는다고 생각할 작전이잖앙?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev027006MSG0009",
+      "style": 1,
+      "name": "그래서 위로금으로 평생 먹을 피자 대금을\n내놓으라고 하는 거잖앙![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev027006MSG0010",
+      "style": 1,
+      "name": "그 정도면 막대한 금액이잖앙![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev027006MSG0011",
+      "style": 1,
+      "name": "일이 이렇게 된 건 작전을 제안한\n너 때문이잖앙! 책임져야 하잖앙![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev027006MSG0012",
+      "style": 1,
+      "name": "책임지고 평생 먹을 피자 대금\n500000G를 벌어 오는 거잖앙![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev027006_JNK0010",
+      "style": 4,
+      "name": "대금 조달"
+    },
+    {
+      "$id": 14,
+      "label": "qev027006_SEL0011",
+      "style": 3,
+      "name": "피자값을 번다"
+    },
+    {
+      "$id": 15,
+      "label": "qev027006_JNK0020",
+      "style": 4,
+      "name": "대안 제시"
+    },
+    {
+      "$id": 16,
+      "label": "qev027006_SEL0021",
+      "style": 3,
+      "name": "다른 방법을 생각한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev027006MSG0013",
+      "style": 1,
+      "name": "이해가 빠르잖앙![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev027006MSG0014",
+      "style": 1,
+      "name": "뭐, 애초에 네가 뿌린 씨앗이잖앙!\n당연히 해야 할 애프터케어잖앙![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev027006MSG0015",
+      "style": 1,
+      "name": "애프터케어는 장사의 기본이잖앙![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev027006MSG0016",
+      "style": 1,
+      "name": "돈으로 해결하는 건\n내키지 않는 모양이잖앙?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev027006MSG0017",
+      "style": 1,
+      "name": "성의를 보이며 설명하고 사과하겠다는 거잖앙?\n너희 지구인은 그렇게 하고 싶다는 거잖앙?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev027006MSG0018",
+      "style": 1,
+      "name": "안 되잖앙, 안 되잖앙\n그런 걸로는 부족하잖앙![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev027006MSG0019",
+      "style": 1,
+      "name": "마 논에게 그런 논리는 통하지 않잖앙![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev027006MSG0020",
+      "style": 1,
+      "name": "성의는 돈으로 보여 주는 게\n원활한 관계 형성의 첫 단계잖앙[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev027006MSG0021",
+      "style": 1,
+      "name": "이렇게 돈 얘기만 하면\n탐욕스럽게 보일지도 모르지만[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev027006MSG0022",
+      "style": 1,
+      "name": "금전적으로 확실히 매듭지어야\n나중에 문제도 일어나지 않고\n오히려 홀가분하잖앙![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev027006MSG0023",
+      "style": 1,
+      "name": "그러니, 포기하고 피자값을 벌어 오는 거잖앙?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev027006MSG0024",
+      "style": 1,
+      "name": "500000G가 다 모이면\n다시 여기로 돌아오잖앙[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev027006MSG0025",
+      "style": 1,
+      "name": "딱히 포장할 필요는 없으니까\n헤라도트에게 그 금액 그대로\n위로금을 전하면 되잖앙![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev027006MSG0026",
+      "style": 1,
+      "name": "헤라도트, 이러면 만족하잖앙?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev027006MSG0027",
+      "style": 1,
+      "name": "흥, 흥\n오케이예용![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev027006MSG0028",
+      "style": 1,
+      "name": "교섭 성립이잖앙!\n그러면 피자값 500000G\n열심히 벌어 오는 거잖앙~~~![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev027006MSG0029",
+      "style": 1,
+      "name": "필요한 위로금은 500000G잖앙![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev027006MSG0030",
+      "style": 1,
+      "name": "열심히 벌어서 헤라도트에게 내면 되잖앙\n잘 부탁하잖앙~![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092706_MSG0010",
+      "style": 0,
+      "name": "リーゼル！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092706_MSG0020",
+      "style": 0,
+      "name": "突然応答がなくなって心配したのよ！\n一体何があったの？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092706_MSG0030",
+      "style": 0,
+      "name": "ああ　原生生物に襲われた[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092706_MSG0040",
+      "style": 0,
+      "name": "襲われ[ST:wide ]―　えっ！？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092706_MSG0045",
+      "style": 0,
+      "name": "それってどういう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092706_MSG0050",
+      "style": 0,
+      "name": "データは記録しているし\nついでだが戦闘ログも取っておいた[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092706_MSG0060",
+      "style": 0,
+      "name": "当初の予定より遅れたが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092706_MSG0070",
+      "style": 0,
+      "name": "ここにいるブレイドのおかげで\nなんとか帰還できた[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092706_MSG0080",
+      "style": 0,
+      "name": "もう[ST:wide ]―　あなたって人は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092706_MSG0090",
+      "style": 0,
+      "name": "ごめんなさい[ST:wide ]―\n依頼を受けてくれたブレイドの人ね？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092706_MSG0100",
+      "style": 0,
+      "name": "ありがとう　本当に助かったわ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092706_MSG0110",
+      "style": 0,
+      "name": "私はアリシャ\nグラナダのエンジニアよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092706_MSG0120",
+      "style": 0,
+      "name": "そして　このドール[ST:wide ]―\n“フレスベルグ”の主任技術者でもある[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092706_MSG0130",
+      "style": 0,
+      "name": "リーゼルとは長い付き合いの[ST:wide ]―\n友人といったところかしら[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092706_MSG0140",
+      "style": 0,
+      "name": "地球にいた頃からの付き合いなのに\nまだ友人どまりだったのか　おれ達は？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092706_MSG0150",
+      "style": 0,
+      "name": "あら　ふふっ　ごめんなさい[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092706_MSG0155",
+      "style": 0,
+      "name": "“親友”だったわね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092706_MSG0160",
+      "style": 0,
+      "name": "それにしても[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092706_MSG0170",
+      "style": 0,
+      "name": "フレスベルグ量産の承認を得て\n最終調整をしていた時に[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092706_MSG0180",
+      "style": 0,
+      "name": "まさか　こんなトラブルに遭うなんて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092706_MSG0190",
+      "style": 0,
+      "name": "アリシャ　そのことだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092706_MSG0200",
+      "style": 0,
+      "name": "フレスベルグは　従来のドールに比べて\nかなり高度なテクニックを要求される[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092706_MSG0210",
+      "style": 0,
+      "name": "特に駆動系へのフィードバックが最悪だ\n演習時ですらここまでではなかったぞ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092706_MSG0220",
+      "style": 0,
+      "name": "えっ？　そんなはずは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092706_MSG0230",
+      "style": 0,
+      "name": "コンピュータ処理を噛ませていたはずだが\nプログラム上のエラーか？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092706_MSG0240",
+      "style": 0,
+      "name": "おかしいわね[ST:wide ]―\n待って　すぐ確認するわ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092706_MSG0250",
+      "style": 0,
+      "name": "本当ね　数値が[ST:wide ]―\nいえ　でもこの程度ならまだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092706_JNK0260",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 29,
+      "label": "qev092706_SEL0270",
+      "style": 3,
+      "name": "何があったんだ？と尋ねる"
+    },
+    {
+      "$id": 30,
+      "label": "qev092706_MSG0280",
+      "style": 0,
+      "name": "ドール[ST:wide ]―　フレスベルグは[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092706_MSG0290",
+      "style": 0,
+      "name": "人間の操縦から駆動系への信号の間に\nコンピュータ処理が介在している[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092706_MSG0300",
+      "style": 0,
+      "name": "操縦者が意図しない挙動を\n抑止するためのものだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092706_MSG0310",
+      "style": 0,
+      "name": "ここに問題があれば\nドールの機動に支障が出るんだ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092706_JNK0320",
+      "style": 4,
+      "name": "協力"
+    },
+    {
+      "$id": 35,
+      "label": "qev092706_SEL0330",
+      "style": 3,
+      "name": "手を貸そうと伝える"
+    },
+    {
+      "$id": 36,
+      "label": "qev092706_MSG0340",
+      "style": 0,
+      "name": "いや　申し出はありがたいが\n恐らく必要ない[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092706_MSG0350",
+      "style": 0,
+      "name": "アリシャは優秀な技術者だからな[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092706_MSG0360",
+      "style": 0,
+      "name": "原因がわかったわ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092706_MSG0365",
+      "style": 0,
+      "name": "例の“特殊機構”の制御系が悪さしてたみたい[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092706_MSG0370",
+      "style": 0,
+      "name": "干渉しないように\n弾いておいたから　もう問題ないわ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092706_MSG0380",
+      "style": 0,
+      "name": "そうか[ST:wide ]―　これでいよいよ完成だな[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092706_MSG0390",
+      "style": 0,
+      "name": "ええ　あとは\nロールアウトの発表を待つだけね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092706_MSG0400",
+      "style": 0,
+      "name": "ひとまずこれで一区切りだが\n次は例の特殊機構の開発が――[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092706_MSG0410",
+      "style": 0,
+      "name": "は　はい[ST:wide ]―　あ[ST:wide ]―\nわかりました　はい　それでは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092706_MSG0420",
+      "style": 0,
+      "name": "[ST:wide ]―部長か？[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092706_MSG0430",
+      "style": 0,
+      "name": "お察しの通り[ST:wide ]―　今すぐ来いって[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092706_MSG0440",
+      "style": 0,
+      "name": "くだらない[ST:wide ]―\n文句があるならそっちが来ればいいだろう[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092706_MSG0450",
+      "style": 0,
+      "name": "それと　あなたも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092706_MSG0460",
+      "style": 0,
+      "name": "やれやれ[ST:wide ]―\n連れてこいってことか[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092706_MSG0470",
+      "style": 0,
+      "name": "きっと私が独断で\nブレイドに依頼をしたから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092706_MSG0480",
+      "style": 0,
+      "name": "いや　もとは連絡できず\nとどまっていたおれのミスだ[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092706_MSG0490",
+      "style": 0,
+      "name": "すまない　一緒に来てくれないか[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092706_MSG0495",
+      "style": 0,
+      "name": "部長の相手はおれとアリシャでするから[ST:wait ]"
+    }
+  ]
+}

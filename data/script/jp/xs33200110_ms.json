@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33200110_MSG0010",
+      "style": 0,
+      "name": "これは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33200110_MSG0020",
+      "style": 0,
+      "name": "ふむ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33200110_MSG0025",
+      "style": 0,
+      "name": "エルマさん　何かわかったんですか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33200110_MSG0026",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "xs33200110_MSG0030",
+      "style": 0,
+      "name": "どうやら古代サマールにまつわる情報を\n記録したデータベースのようね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33200110_MSG0035",
+      "style": 0,
+      "name": "古代サマール[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33200110_MSG0036",
+      "style": 0,
+      "name": "ももっ！　なんだか\nダイハッケンのニオイがプンプンですも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33200110_MSG0040",
+      "style": 0,
+      "name": "少し待って[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33200110_MSG0050",
+      "style": 0,
+      "name": "何か有益な情報が掴めるかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33200110_MSG0060",
+      "style": 0,
+      "name": "断片的ではあるけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33200110_MSG0070",
+      "style": 0,
+      "name": "とりあえずわかったことだけ伝えるわ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33200110_MSG0080",
+      "style": 0,
+      "name": "この一帯はもともと狭間の世界にあって[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33200110_MSG0085",
+      "style": 0,
+      "name": "ヴォイドを封じる役割を持っていたようね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33200110_MSG0090",
+      "style": 0,
+      "name": "そして今私達がいる構造物は[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33200110_MSG0100",
+      "style": 0,
+      "name": "古代サマールによって造られた封印機構[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33200110_MSG0110",
+      "style": 0,
+      "name": "いわばヴォイドの力を抑制するための\n巨大な装置のようなものらしいわ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33200110_MSG0115",
+      "style": 0,
+      "name": "この塔　やっぱり\nヴォイドに関係していたんですね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33200110_MSG0120",
+      "style": 0,
+      "name": "今は停止状態にあるけど[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33200110_MSG0130",
+      "style": 0,
+      "name": "幸い動力はまだ生きている[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33200110_MSG0135",
+      "style": 0,
+      "name": "それじゃあ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33200110_MSG0140",
+      "style": 0,
+      "name": "ええ　再起動すれば\nヴォイドの弱体化が望めるかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33200110_MSG0150",
+      "style": 0,
+      "name": "実際何が起きるかは未知数だけど[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33200110_MSG0155",
+      "style": 0,
+      "name": "試してみる価値はある[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs33200110_MSG0160",
+      "style": 0,
+      "name": "起動するわ\n何が起きてもいいように備えて[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs33200110_MSG0170",
+      "style": 0,
+      "name": "もももーっ！\nな　なんか揺れてますも！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs33200110_MSG0180",
+      "style": 0,
+      "name": "エ　エルマさん！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs33200110_MSG0190",
+      "style": 0,
+      "name": "退避するわ　急いで！[ST:wait ]"
+    }
+  ]
+}

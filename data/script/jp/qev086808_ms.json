@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086808_MSG0001",
+      "style": 0,
+      "name": "いやぁ　ほんとにセレネハーブを\n一人で確保してくるとはなぁ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086808_MSG0002",
+      "style": 0,
+      "name": "一人でなんて\nロックや皆が助けてくれたから[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086808_MSG0003",
+      "style": 0,
+      "name": "エルマから詳しい報告を聞いてる[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086808_MSG0004",
+      "style": 0,
+      "name": "そいつを見つけたのは\nあんた一人の力だってな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086808_MSG0005",
+      "style": 0,
+      "name": "おっちゃん\nそれで適性試験はどうなったですも？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086808_MSG0006",
+      "style": 0,
+      "name": "もちろん 文句なしの合格だ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086808_MSG0007",
+      "style": 0,
+      "name": "やったぁ！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086808_MSG0008",
+      "style": 0,
+      "name": "よかったわね　セリカ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086808_MSG0009",
+      "style": 0,
+      "name": "あの　それじゃあロックは[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086808_MSG0010",
+      "style": 0,
+      "name": "ブレイドメンバーの家族ってことで\n問題ないだろ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086808_MSG0011",
+      "style": 0,
+      "name": "元々　お前さん達関係なしに\nグロウスとはやりあってるんだしな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086808_MSG0012",
+      "style": 0,
+      "name": "そういうわけにはいかん[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086808_MSG0013",
+      "style": 0,
+      "name": "グロウスとは和解の可能性が\nゼロというわけではない[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086808_MSG0014",
+      "style": 0,
+      "name": "無用の危険を冒す必要などない[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086808_MSG0015",
+      "style": 0,
+      "name": "そんな[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086808_MSG0016",
+      "style": 0,
+      "name": "だが　君自身が社会にとって\n無用の存在ではないと証明できれば話は別だ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086808_MSG0017",
+      "style": 0,
+      "name": "もう　だから何度も言っているじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086808_MSG0017_02",
+      "style": 0,
+      "name": "ロックさんは戦いたくなんか[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086808_JNK0010",
+      "style": 4,
+      "name": "冷静"
+    },
+    {
+      "$id": 20,
+      "label": "qev086808_SEL0011",
+      "style": 3,
+      "name": "ロックも戦うべきだと諦める"
+    },
+    {
+      "$id": 21,
+      "label": "qev086808_JNK0020",
+      "style": 4,
+      "name": "感情"
+    },
+    {
+      "$id": 22,
+      "label": "qev086808_SEL0021",
+      "style": 3,
+      "name": "ロックには戦わせないと叫ぶ"
+    },
+    {
+      "$id": 23,
+      "label": "qev086808_MSG0018",
+      "style": 0,
+      "name": "なんてこと言うんですか！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086808_MSG0019",
+      "style": 0,
+      "name": "あなたらしくない言葉ね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086808_MSG0020",
+      "style": 0,
+      "name": "見損なったですも！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086808_MSG0021",
+      "style": 0,
+      "name": "いや　彼を戦わせるつもりはもうなくなった[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086808_MSG0022",
+      "style": 0,
+      "name": "適性のない者に戦闘訓練を施すコストも\n無視できないと気づいたのでね[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086808_MSG0023",
+      "style": 0,
+      "name": "え　じゃあ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086808_MSG0024",
+      "style": 0,
+      "name": "ほう　では彼の分まで\n君達が戦ってくれるというのかね？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086808_MSG0025",
+      "style": 0,
+      "name": "そんな 僕のためにみんなをもっと\n危険な目にあわせるなんて[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086808_MSG0026",
+      "style": 0,
+      "name": "ボク　怖いけどやっぱり戦う[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086808_MSG0027",
+      "style": 0,
+      "name": "君の気持ちは理解した[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086808_MSG0028",
+      "style": 0,
+      "name": "だが　人にはやはり適性にあった\n貢献を求める方が効率的だと私は考えた[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086808_MSG0029",
+      "style": 0,
+      "name": "え　じゃあ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086808_MSG0030",
+      "style": 0,
+      "name": "工業エリアで　重機が入れぬ工事現場での\n作業要員を捜している[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086808_MSG0031",
+      "style": 0,
+      "name": "君のように優れた腕力の持ち主ならば\n好待遇で迎えたいと考えているが　どうかね？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086808_MSG0032",
+      "style": 0,
+      "name": "えっ？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086808_MSG0033",
+      "style": 0,
+      "name": "君には自由意志による選択権がある[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086808_MSG0034",
+      "style": 0,
+      "name": "この街への貢献を拒否して\n出て行くのも自由だ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086808_MSG0035",
+      "style": 0,
+      "name": "ボク　戦わなくても必要としてもらえるの？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086808_MSG0036",
+      "style": 0,
+      "name": "そうだ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086808_MSG0037",
+      "style": 0,
+      "name": "やるよ　やらせて！[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev086808_MSG0038",
+      "style": 0,
+      "name": "よかったね　ロック[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086808_MSG0039",
+      "style": 0,
+      "name": "ったく　何かコソコソやってると思ったら\nそういうことだったか[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev086808_MSG0040",
+      "style": 0,
+      "name": "コソコソとは何だね[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev086808_MSG0041",
+      "style": 0,
+      "name": "物事を手配するには\n準備というものが必要なのだ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev086808_MSG0042",
+      "style": 0,
+      "name": "はいはい[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev086808_MSG0043",
+      "style": 0,
+      "name": "素直じゃないわね[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev086808_JNK0030",
+      "style": 4,
+      "name": "改心"
+    },
+    {
+      "$id": 50,
+      "label": "qev086808_SEL0031",
+      "style": 3,
+      "name": "誤解していたと伝え謝罪する"
+    },
+    {
+      "$id": 51,
+      "label": "qev086808_JNK0040",
+      "style": 4,
+      "name": "好感"
+    },
+    {
+      "$id": 52,
+      "label": "qev086808_SEL0041",
+      "style": 3,
+      "name": "モーリスを羨望の眼差しで見つめる"
+    },
+    {
+      "$id": 53,
+      "label": "qev086808_MSG0044",
+      "style": 0,
+      "name": "私も モーリス行政長官\nすみませんでした[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev086808_MSG0045",
+      "style": 0,
+      "name": "なんだね　急に[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev086808_MSG0046",
+      "style": 0,
+      "name": "行政長官の苦心もわからずに\n感情的になってしまって[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev086808_MSG0047",
+      "style": 0,
+      "name": "い　いや構わん[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev086808_MSG0048",
+      "style": 0,
+      "name": "素敵です　行政長官！[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev086808_MSG0049",
+      "style": 0,
+      "name": "タツも勘違いしてたですも\nモーリスさんはすごく良い人ですも[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev086808_MSG0050",
+      "style": 0,
+      "name": "な　何を言い出すんだ君達は[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev086808_MSG0051",
+      "style": 0,
+      "name": "顔が赤くなってるぜ[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev086808_MSG0052",
+      "style": 0,
+      "name": "仕事があるので私はこれで失礼する[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev086808_MSG0053",
+      "style": 0,
+      "name": "モーリス行政長官も\nああ見えてツンデレなのね[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev086808_MSG0054",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    }
+  ]
+}

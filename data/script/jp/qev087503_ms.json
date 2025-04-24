@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087503_MSG0001",
+      "style": 0,
+      "name": "今　開発中の大型ビーム砲ですけど\nあと８００ギガ出力を上げたいんです！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087503_MSG0002",
+      "style": 0,
+      "name": "そうすれば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087503_MSG0003",
+      "style": 0,
+      "name": "グロウスが使ってるビームコーティング層も\n撃ち抜けるようになると思うんです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087503_MSG0004",
+      "style": 0,
+      "name": "ここから定常出力を８００ギガも！？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087503_MSG0005",
+      "style": 0,
+      "name": "そうです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087503_MSG0006",
+      "style": 0,
+      "name": "理論上は可能かもしれませんが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087503_MSG0007",
+      "style": 0,
+      "name": "実現する上では\n何かハードルがあるということね？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087503_MSG0008",
+      "style": 0,
+      "name": "その通りです[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087503_MSG0009",
+      "style": 0,
+      "name": "出力を上げれば　それだけ運動量の大きい\nプラズマを保持しなければならないわけで[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087503_MSG0010",
+      "style": 0,
+      "name": "そのためにはもっと効率の良い磁場トラップが\n必要になります[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087503_MSG0011",
+      "style": 0,
+      "name": "あ　そっか[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087503_MSG0012",
+      "style": 0,
+      "name": "いずれは実現してみたいと思いますが\n今の地球の技術力では[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087503_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 14,
+      "label": "qev087503_SEL0011",
+      "style": 3,
+      "name": "仕方がないと言って諦める"
+    },
+    {
+      "$id": 15,
+      "label": "qev087503_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 16,
+      "label": "qev087503_SEL0021",
+      "style": 3,
+      "name": "ここがどこか思い出させる"
+    },
+    {
+      "$id": 17,
+      "label": "qev087503_MSG0013",
+      "style": 0,
+      "name": "ですよね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087503_MSG0014",
+      "style": 0,
+      "name": "ちょっと待って\n地球にない技術だからって諦めてしまうの？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087503_MSG0015",
+      "style": 0,
+      "name": "今　私達が居る場所はどこかしら[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087503_MSG0016",
+      "style": 0,
+      "name": "確かにそうね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087503_MSG0017",
+      "style": 0,
+      "name": "地球の技術としては\n存在しないかもしれないけれど[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087503_MSG0018",
+      "style": 0,
+      "name": "この惑星ミラだったらどうかしら？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087503_MSG0019",
+      "style": 0,
+      "name": "どういう意味ですか？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087503_MSG0020",
+      "style": 0,
+      "name": "そっか　この星にはいろんな異星人が\nいるじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087503_MSG0021",
+      "style": 0,
+      "name": "どこかの技術を参考にすれば[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087503_MSG0022",
+      "style": 0,
+      "name": "なるほど　そういうことですか[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087503_MSG0023",
+      "style": 0,
+      "name": "これはなんですも？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087503_MSG0024",
+      "style": 0,
+      "name": "グロウスのドールです[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev087503_MSG0025",
+      "style": 0,
+      "name": "このタイプは大出力のビーム砲を\n搭載していることが確認されてまして[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev087503_MSG0026",
+      "style": 0,
+      "name": "我々のものより優れたキャパシタを\n使っていると思われます[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev087503_MSG0027",
+      "style": 0,
+      "name": "じゃあ　それを解析すれば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev087503_MSG0028",
+      "style": 0,
+      "name": "ええ　磁場トラップの問題を\nクリアできそうです[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev087503_MSG0029",
+      "style": 0,
+      "name": "やったぁ！\nエルマさん　さっそく探しに行きましょう！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087503_MSG0030",
+      "style": 1,
+      "name": "グロウスの高性能キャパシタは\n忘却の渓谷にいるクムーバが落とす[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087503_MSG0031",
+      "style": 1,
+      "name": "クムーバ・キャパシタから\n手に入れられると思います[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev087503_MSG0032",
+      "style": 1,
+      "name": "そうですね[ST:wide ]―\n解析用に　クムーバ・キャパシタを\n3つほど入手してきてもらえませんか？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev087503_MSG0033",
+      "style": 1,
+      "name": "800ギガもの出力アップを行おうと言うんです\n磁場トラップの問題を解決しただけでは\n大型ビーム砲は完成しないでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev087503_MSG0034",
+      "style": 1,
+      "name": "もう一人の技術者[ST:wide ]―\nブレナに問題点を相談してみてください[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev087503_MSG0035",
+      "style": 1,
+      "name": "彼女　少々頭が固いところがあるのですが[ST:wide ]―\n腕は確かですから\nきっと助けになってくれると思いますよ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev087503_MSG0036",
+      "style": 1,
+      "name": "頑張ってくださいね！\nあなた方の勇敢なチャレンジ　応援してますよ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev087503_MSG0037",
+      "style": 1,
+      "name": "[ST:wide ]―なるほど　ブレナもあなた方の\n新兵器開発に協力してくれましたか[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev087503_MSG0038",
+      "style": 1,
+      "name": "ふふっ　あの頭が固い彼女をも動かす\nリンちゃんの情熱[ST:wide ]―　お見事です[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev087503_MSG0039",
+      "style": 1,
+      "name": "さぁ　その熱意の成果を持って\nヴァンダム司令のもとに　お戻りください[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev087503_MSG0040",
+      "style": 1,
+      "name": "僕に用事ですか？[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev087503_MSG0041",
+      "style": 1,
+      "name": "[ST:wide ]―でも　あなたはブレナに何か\n集めてくるように言われてるんですよね？[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev087503_MSG0042",
+      "style": 1,
+      "name": "それならまず　そちらを終わらせてから\n改めて来て下さいよ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086705_MSG0001",
+      "style": 0,
+      "name": "저는 테스터먼트 나스타샤입니다\n엘마 팀 여러분, 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086705_MSG0002",
+      "style": 0,
+      "name": "저희를 아시나요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086705_MSG0003",
+      "style": 0,
+      "name": "당연하죠\n그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086705_MSG0004",
+      "style": 0,
+      "name": "위험한 임무를 차례로 성공시켜 온 당신들을\n모르는 블레이드는 없어요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086705_MSG0005",
+      "style": 0,
+      "name": "우리 팀에는\n린 씨 팬도 있는걸요?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086705_MSG0006",
+      "style": 0,
+      "name": "네에에~~!?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086705_MSG0007",
+      "style": 0,
+      "name": "괜찮으면 나중에 사인이라도 해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086705_MSG0008",
+      "style": 0,
+      "name": "아, 네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086705_MSG0009",
+      "style": 0,
+      "name": "그럼, 누님\n타츠도 알고 있어모?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086705_MSG0010",
+      "style": 0,
+      "name": "당연하지, 귀여운 노폰인 타츠[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086705_MSG0011",
+      "style": 0,
+      "name": "타츠, 왠지 부끄럽다모~~![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086705_MSG0012",
+      "style": 0,
+      "name": "지구에서 탈출했을 때\n우리에게 더 이상 미래는 없다고 생각했어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086705_MSG0013",
+      "style": 0,
+      "name": "하지만 이렇게 생명은 이어지는구나\n새로운 대지에서……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086705_JNK0010",
+      "style": 4,
+      "name": "희망"
+    },
+    {
+      "$id": 15,
+      "label": "qev086705_SEL0011",
+      "style": 3,
+      "name": "새로운 고향 미라를 바라본다"
+    },
+    {
+      "$id": 16,
+      "label": "qev086705_JNK0020",
+      "style": 4,
+      "name": "기대"
+    },
+    {
+      "$id": 17,
+      "label": "qev086705_SEL0021",
+      "style": 3,
+      "name": "미라에서의 인류의 번영을 생각한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev086705_MSG0014",
+      "style": 0,
+      "name": "이제 두 번 다시 고향을 잃고 싶지 않아[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086705_MSG0015",
+      "style": 0,
+      "name": "그러기 위해서는 우리의 손으로\n이 새로운 고향을 지켜 나가야만 해[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086705_MSG0016",
+      "style": 0,
+      "name": "이 행성에서도 인류는\n번영할 수 있을까요?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086705_MSG0017",
+      "style": 0,
+      "name": "아니, 해야만 하겠죠\n우리 손으로[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086705_MSG0018",
+      "style": 0,
+      "name": "지구 인류만이 아니다모[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086705_MSG0019",
+      "style": 0,
+      "name": "노폰도 다른 종족도\n다 같이 번영시키는 거다모[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086705_MSG0020",
+      "style": 0,
+      "name": "그렇네[ST:wait ]"
+    }
+  ]
+}

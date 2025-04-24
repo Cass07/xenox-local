@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091501_MSG0001",
+      "style": 0,
+      "name": "형……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091501_JNK0010",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 3,
+      "label": "qev091501_SEL0011",
+      "style": 3,
+      "name": "이번 임무가 불안한 거냐며 걱정한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev091501_JNK0020",
+      "style": 4,
+      "name": "동정"
+    },
+    {
+      "$id": 5,
+      "label": "qev091501_SEL0021",
+      "style": 3,
+      "name": "프라이가 상대해 주지 않는 것에 동정한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev091501_MSG0002",
+      "style": 0,
+      "name": "신경 써 주셔서 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091501_MSG0003",
+      "style": 0,
+      "name": "도시 방위는 걱정되지 않아요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091501_MSG0004",
+      "style": 0,
+      "name": "당신과 함께 여러 임무를 달성한 게\n좋은 경험이 되었거든요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091501_MSG0005",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091501_MSG0006",
+      "style": 0,
+      "name": "하지만 형 쪽은 조금 불안해요\n안 좋은 예감이 든다고 할지……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091501_MSG0007",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091501_MSG0008",
+      "style": 0,
+      "name": "그건 익숙해서 괜찮지만요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091501_MSG0009",
+      "style": 0,
+      "name": "형 쪽은 조금 불안해요\n안 좋은 예감이 든다고 할지……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091501_MSG0010",
+      "style": 0,
+      "name": "하지만 걱정해도 달라지는 건 없겠죠[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091501_MSG0011",
+      "style": 0,
+      "name": "임무는 이미 시작됐으니까\n주어진 역할을 다해야 해요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091501_MSG0012",
+      "style": 0,
+      "name": "일단 도시 동쪽에 있는\n월터 씨에게 가죠[ST:wait ]"
+    }
+  ]
+}

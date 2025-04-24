@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06080100_MSG0001",
+      "style": 0,
+      "name": "放射性物質は検出されず\n赤外　振動反応もなし[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06080100_MSG0002",
+      "style": 0,
+      "name": "完全に沈黙してるな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs06080100_MSG0003",
+      "style": 0,
+      "name": "すごいすごい！\nこれドールですよね！？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06080100_MSG0004",
+      "style": 0,
+      "name": "地球のドールともグロウスのとも違う\nどこで作られたんだろう[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs06080100_MSG0005",
+      "style": 0,
+      "name": "ああもう　装甲材質も何だかわかんない！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs06080100_MSG0006",
+      "style": 0,
+      "name": "何だろう　この威圧感は[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs06080100_MSG0007",
+      "style": 0,
+      "name": "この機体から発散されている何かが\nそう感じさせるのか[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs06080100_MSG0008",
+      "style": 0,
+      "name": "何か[ST:wide ]―　そう　この機体には\n搭乗していた者の気が残っている[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06080100_MSG0009",
+      "style": 0,
+      "name": "それにこの機体のコアを\n構成しているマテリアル[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs06080100_MSG0010",
+      "style": 0,
+      "name": "これはダークマター[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs06080100_MSG0011",
+      "style": 0,
+      "name": "こんなモノが作れるのは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs06080100_JNK0010",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 13,
+      "label": "xs06080100_SEL0011",
+      "style": 3,
+      "name": "このドールが何なのか尋ねる"
+    },
+    {
+      "$id": 14,
+      "label": "xs06080100_JNK0020",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 15,
+      "label": "xs06080100_SEL0021",
+      "style": 3,
+      "name": "思案するエルマに呼びかける"
+    },
+    {
+      "$id": 16,
+      "label": "xs06080100_MSG0012",
+      "style": 0,
+      "name": "えっ　いえ　知らないわ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs06080100_MSG0013",
+      "style": 0,
+      "name": "えっ　ごめんなさい\n少し考え事を　ね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs06080100_MSG0014",
+      "style": 0,
+      "name": "さて　これで対象の確保はできたわね\n回収ヘリをまわしてもらって任務完了よ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs06080100_MSG0015",
+      "style": 0,
+      "name": "リン　ヴァンダムに連絡をお願い[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs06080100_MSG0016",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    }
+  ]
+}

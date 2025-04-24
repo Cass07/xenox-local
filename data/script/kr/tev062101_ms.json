@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev062101_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev062101_SEL0011",
+      "style": 3,
+      "name": "타츠의 안경에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev062101_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev062101_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev062101_SEL1021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev062101_SEL2021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev062101_SEL0031",
+      "style": 3,
+      "name": "타츠에 관해 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev062101_SEL0051",
+      "style": 3,
+      "name": "앞으로의 일에 관해 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev062101_MSG0001",
+      "style": 1,
+      "name": "타츠 오빠가 안경을\n왜 쓰는지 알아모?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev062101_MSG0002",
+      "style": 1,
+      "name": "눈이 나빠서?\n땡~ 틀렸다모~[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev062101_MSG0003",
+      "style": 1,
+      "name": "그거…… 멋으로 쓰는 거다모[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev062101_MSG0004",
+      "style": 1,
+      "name": "아빠처럼 되겠다며\n쓰기 시작한 거다모[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev062101_MSG0005",
+      "style": 1,
+      "name": "타츠 오빠에게는\n아빠 같은 패션 센스가 없다모……\n엄청 촌스럽다모……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev062101_MSG0008",
+      "style": 1,
+      "name": "타츠 오빠, 지구인 씨에게\n폐 끼치는 거 아니야모!?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev062101_MSG0009",
+      "style": 1,
+      "name": "폐 끼치고 빚지면서\n내년의 용사가 되겠단 생각은\n절대로 하면 안 돼모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev062101_MSG0010",
+      "style": 1,
+      "name": "지츠 오빠는 믿음직스럽지 못하고\n사츠 오빠는 잠만 자고[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev062101_MSG0011",
+      "style": 1,
+      "name": "요요츠 언니는 먹기만 하고\n고츠는 망상을 퍼뜨리기만 한다모![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev062101_MSG0012",
+      "style": 1,
+      "name": "무츠츠는 막내인데도\n가족을 제일 걱정하고 있다모!\n다들 똑바로 좀 해라모~[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev062101_MSG0013",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev062101_MSG0014",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev062101_MSG0015",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev062101_MSG0016",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev062101_MSG0017",
+      "style": 1,
+      "name": "어휴~ 사츠 오빠도 참\n놀라게 하고 그래모[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev062101_MSG0018",
+      "style": 1,
+      "name": "……그래도 정말 즐거운\n탐험을 했다모[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev062101_MSG0019",
+      "style": 1,
+      "name": "무츠츠는 어리니까\n혼자서 카라반 밖으로 나간 건\n이번이 처음이었다모~[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev062101_MSG0020",
+      "style": 1,
+      "name": "용사가 되면\n다양한 곳에 갈 수 있는 거야모?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev062101_MSG0021",
+      "style": 1,
+      "name": "무츠츠, 용사가 되는 것도\n괜찮겠다는 생각이 살짝 들었다모![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev062101_MSG0025",
+      "style": 1,
+      "name": "타츠 오빠를\n왜 아빠라 부르는지……\n가르쳐 줄게모[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev062101_MSG0026",
+      "style": 1,
+      "name": "타츠 오빠가 아빠처럼\n강한 노폰이 됐으면 해서다모![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev062101_MSG0027",
+      "style": 1,
+      "name": "빚이 잔뜩 있어도\n불평 없이 부지런히 일해서다모!\n훌륭하다모![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev062101_MSG0028",
+      "style": 1,
+      "name": "무츠츠는 아빠 같은\n서방님을 찾겠다고 결심했다모!\n남자 친구 모집 중이다모![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev062101_MSG0035",
+      "style": 1,
+      "name": "그로우스라는 무서~운 녀석들\n이제 없어진 거야모?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev062101_MSG0036",
+      "style": 1,
+      "name": "……그렇다는 건\n흑강의 대륙에 있는 성은 텅 빈 거지모?\n앗싸~! 성에 노폰 도시를 만들 거다모![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev062101_MSG0037",
+      "style": 1,
+      "name": "물론 무츠츠가 리더…… 아니지\n성에 어울리게 무츠츠는 공주님이다모![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev062101_MSG0038",
+      "style": 1,
+      "name": "그리고 고츠는 무츠츠가 돌봐 줘야 하니까\n특별히 왕자님을 시켜 주겠다모![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev062101_MSG0039",
+      "style": 1,
+      "name": "좋~아, 오늘부터 무츠츠는\n공주님이 되기 위해 특훈할 거다모!\n절하라모~! 시중을 들라모~![ST:wait ]"
+    }
+  ]
+}

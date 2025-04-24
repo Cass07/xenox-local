@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001892_MSG0001",
+      "style": 1,
+      "name": "今　考え事をしてるんです\n邪魔しないでください[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001892_MSG0002",
+      "style": 1,
+      "name": "[ST:wide ]―どうすればサクラバ重工に侵入して\n盗み出せるか[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001892_MSG0003",
+      "style": 1,
+      "name": "深夜はセキュリティが厳しそうだから\n白昼堂々　お掃除屋さんの恰好をして\nビルに入れば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001892_MSG0004",
+      "style": 1,
+      "name": "って　センパイじゃないですか！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001892_MSG0005",
+      "style": 1,
+      "name": "わたしの独り言　聞いてしまいましたね！？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001892_JNK0010",
+      "style": 4,
+      "name": "説教する"
+    },
+    {
+      "$id": 7,
+      "label": "tev001892_SEL0011",
+      "style": 3,
+      "name": "ミーアを説教し　悪事に\n加担するのをやめさせる"
+    },
+    {
+      "$id": 8,
+      "label": "tev001892_JNK0020",
+      "style": 4,
+      "name": "否定する"
+    },
+    {
+      "$id": 9,
+      "label": "tev001892_SEL0021",
+      "style": 3,
+      "name": "聞いていないふりをする"
+    },
+    {
+      "$id": 10,
+      "label": "tev001892_MSG0006",
+      "style": 1,
+      "name": "はぁー　センパイの長話は十分なんです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001892_MSG0007",
+      "style": 1,
+      "name": "わたしを諦めさせて　代わりにセンパイが\nこの依頼にありつこうって魂胆ですね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001892_MSG0008",
+      "style": 1,
+      "name": "この件だけは譲れないんです\n引き受けたわたしがやり遂げないと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001892_MSG0009",
+      "style": 1,
+      "name": "絶対に引き下がりませんよ！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001892_MSG0010",
+      "style": 1,
+      "name": "ウソです！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001892_MSG0011",
+      "style": 1,
+      "name": "今回も前回もタイミングが\nよすぎるじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001892_MSG0012",
+      "style": 1,
+      "name": "絶対に話を聞いていて　事情がなんとなく\n分かってるから声を掛けてきたに\n違いありません[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001892_MSG0013",
+      "style": 1,
+      "name": "この件だけは譲れないんです\n引き受けたわたしがやり遂げないと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001892_MSG0014",
+      "style": 1,
+      "name": "絶対に引き下がりませんよ！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001892_JNK0030",
+      "style": 4,
+      "name": "助力"
+    },
+    {
+      "$id": 20,
+      "label": "tev001892_SEL0031",
+      "style": 3,
+      "name": "だったら何か手伝えることは\nないか尋ねる"
+    },
+    {
+      "$id": 21,
+      "label": "tev001892_JNK0040",
+      "style": 4,
+      "name": "強制"
+    },
+    {
+      "$id": 22,
+      "label": "tev001892_SEL0041",
+      "style": 3,
+      "name": "ミーアを気絶させてでも\n悪事に加担するのを止める"
+    },
+    {
+      "$id": 23,
+      "label": "tev001892_MSG0015",
+      "style": 1,
+      "name": "う　うまい文句ですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001892_MSG0016",
+      "style": 1,
+      "name": "ちょっと手伝ってほしいかなぁって\n思うところはもちろんあるんですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001892_MSG0017",
+      "style": 1,
+      "name": "でも　わたし一人でがんばります[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001892_MSG0018",
+      "style": 1,
+      "name": "一人は不安ですけど\nリスクは少ないんです[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001892_MSG0019",
+      "style": 1,
+      "name": "もし　センパイが手伝ってくれるのなら\nわたしを信じて応援してください\nそれだけで十分です[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001892_MSG0020",
+      "style": 1,
+      "name": "[ST:wide ]―じゃあ　これからプランBとCとDを\n組み立てなきゃならないので　失礼します！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001892_MSG0021",
+      "style": 1,
+      "name": "また　どこかでお会いしましょう！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001892_MSG0022",
+      "style": 1,
+      "name": "ちょっ！　ちょっと待ってください！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001892_MSG0023",
+      "style": 1,
+      "name": "今　わたしを殺すような目\nしてませんでした！？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001892_MSG0024",
+      "style": 1,
+      "name": "ダメダメ　ダメですよ！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001892_MSG0025",
+      "style": 1,
+      "name": "わたしを気絶させてしまえば\nこれまでの計画がパーっと\nおじゃんになってしまいます[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001892_MSG0026",
+      "style": 1,
+      "name": "そうしたら　全人類が困るに違いありません[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001892_MSG0027",
+      "style": 1,
+      "name": "ここはわたしを信じて見守っていてください[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001892_MSG0028",
+      "style": 1,
+      "name": "大丈夫　犯罪を犯さずともちゃちゃっと\nブツは入手できる予定なんですから[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001892_MSG0029",
+      "style": 1,
+      "name": "[ST:wide ]―じゃあ　これからプランAを\nさらに入念に練るので　これで失礼します！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001892_MSG0030",
+      "style": 1,
+      "name": "また　どこかでお会いしましょう！[ST:wait ]"
+    }
+  ]
+}

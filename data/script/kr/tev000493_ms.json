@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000493_MSG0001",
+      "style": 1,
+      "name": "아, [ST:playername ] 씨\n마침 잘 왔습니다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000493_MSG0002",
+      "style": 1,
+      "name": "절 데려가 주실래요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000493_JNK0010",
+      "style": 4,
+      "name": "긍정[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000493_SEL0011",
+      "style": 3,
+      "name": "HB를 데려간다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000493_JNK0020",
+      "style": 4,
+      "name": "부정[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000493_SEL0021",
+      "style": 3,
+      "name": "단호히 거절한다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000493_MSG0008",
+      "style": 1,
+      "name": "훌륭한 대응입니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000493_MSG0009",
+      "style": 1,
+      "name": "자주 있는 일이지만\n저와 친해지려 하는 여성들이\n나타나서 곤란했거든요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000493_MSG0010",
+      "style": 1,
+      "name": "제가 평범한 패스파인더에\n만족할 그릇이었다면\n이런 일이 일어나진 않았겠죠[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000493_MSG0011",
+      "style": 1,
+      "name": "엘리트인 것이 죄라고 할 수 있겠네요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000493_MSG0012",
+      "style": 1,
+      "name": "당신도 저와 같은 상황을\n자주 겪지 않나요?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000493_MSG0013",
+      "style": 1,
+      "name": "이성이 말을 거는 일이 자주 있죠?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000493_JNK0110",
+      "style": 4,
+      "name": "긍정[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000493_SEL0111",
+      "style": 3,
+      "name": "이성에게 인기가 있긴 하다며 끄덕인다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000493_JNK0120",
+      "style": 4,
+      "name": "부정[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000493_SEL0121",
+      "style": 3,
+      "name": "그런 일은 없다며 부정한다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000493_MSG0019",
+      "style": 1,
+      "name": "그래요, 그렇겠죠[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000493_MSG0020",
+      "style": 1,
+      "name": "저에게 있어 당신은 같은 고민을\n공유할 수 있는 보기 드문 존재니까요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000493_MSG0022",
+      "style": 1,
+      "name": "그거 유감이네요……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000493_MSG0023",
+      "style": 1,
+      "name": "NLA 시민들은 대체 왜 그러는 거죠?\n저 말고도 이렇게 훌륭한 사람이 있잖아요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000493_MSG0025",
+      "style": 1,
+      "name": "……여기서 한가롭게\n이야기나 할 때가 아니었네요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000493_MSG0026",
+      "style": 1,
+      "name": "자, 어디든 데려가 주세요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000493_MSG0027",
+      "style": 1,
+      "name": "나중에 여성들에게 원망받을 사람은\n제가 아니라 당신이에요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000493_MSG0028",
+      "style": 1,
+      "name": "그 대신 보답은 제대로 해 드릴게요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000493_MSG0032",
+      "style": 1,
+      "name": "무슨……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000493_MSG0033",
+      "style": 1,
+      "name": "말도 안 되는 판단을 하시네요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000493_MSG0034",
+      "style": 1,
+      "name": "여기에 있는 여성들은 제 유망한 장래를 보고\n아첨하고 있을 뿐이라고요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000493_MSG0035",
+      "style": 1,
+      "name": "하지만 너무 매몰차게 행동하면\n제 악평이 퍼지고 말겠죠[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000493_MSG0036",
+      "style": 1,
+      "name": "블레이드 사령관이 되려면\n그런 사태는 반드시 피해야만 해요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000493_JNK0210",
+      "style": 4,
+      "name": "생각을 바꾼다[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000493_SEL0211",
+      "style": 3,
+      "name": "HB를 데려간다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000493_JNK0220",
+      "style": 4,
+      "name": "지적[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000493_SEL0221",
+      "style": 3,
+      "name": "진심으로 좋아하는 걸지도\n모른다고 지적한다[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000493_MSG0042",
+      "style": 1,
+      "name": "훌륭한 결단입니다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000493_MSG0043",
+      "style": 1,
+      "name": "이제 그녀들이 불평불만을 쏟아 낼 사람은\n제가 아니라 당신이 되겠네요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000493_MSG0044",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000493_MSG0045",
+      "style": 1,
+      "name": "자, 사소한 일에 신경 쓰지 말고\n임무든 뭐든 하러 가자고요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000493_MSG0048",
+      "style": 1,
+      "name": "……으음[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000493_MSG0049",
+      "style": 1,
+      "name": "그녀들이 진심일지도 모른다니……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000493_MSG0050",
+      "style": 1,
+      "name": "더더욱 피곤해지겠는데요……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000493_MSG0051",
+      "style": 1,
+      "name": "저는 여성에게 신경 써 줄 생각이 없어요[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000493_MSG0052",
+      "style": 1,
+      "name": "그러니 어차피 그녀들의 바람은\n이루어지지 않는 셈이죠[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000493_MSG0053",
+      "style": 1,
+      "name": "……게다가 당신과 함께 있는 것도\n또 다른 문제를 낳을 가능성이 있고요[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000493_MSG0054",
+      "style": 1,
+      "name": "저는 곧장 블레이드 에어리어로 돌아갈게요\n무언가 대책을 세워야 하니까요……[ST:wait ]"
+    }
+  ]
+}

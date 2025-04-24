@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev080401_MSG0001",
+      "style": 1,
+      "name": "그건 그렇고\n최근에 엄마가 안 보이는데\n혹시 아는 거 있어?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev080401_MSG0002",
+      "style": 1,
+      "name": "혹시 너무 시끄럽게 구는 게\n[ST:playername ]의 역린을 건드려서\n고철로 만든 뒤 내다 버린 거야?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev080401_JNK0010",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 4,
+      "label": "qev080401_SEL0011",
+      "style": 3,
+      "name": "에리오의 어머니에게\n그런 짓은 안 한다고 말한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev080401_JNK0020",
+      "style": 4,
+      "name": "동의"
+    },
+    {
+      "$id": 6,
+      "label": "qev080401_SEL0021",
+      "style": 3,
+      "name": "그렇게 하고 싶은 마음이\n굴뚝같다고 투덜거린다"
+    },
+    {
+      "$id": 7,
+      "label": "qev080401_MSG0003",
+      "style": 1,
+      "name": "역시 다정하구나, 넌……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev080401_MSG0004",
+      "style": 1,
+      "name": "하지만 말이지, 1시간이라도 옆에서\n그 수다를 들어 봐\n절대로 못 버틸 거야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev080401_MSG0005",
+      "style": 1,
+      "name": "그 오만하고 방약무인한 성격을\n혼내 주고 싶어져도 이상하지 않지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev080401_MSG0006",
+      "style": 1,
+      "name": "그 마음 잘 알아[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev080401_MSG0007",
+      "style": 1,
+      "name": "닥터 B가 다시 만들어 주긴 했지만\n건방진 어린아이 같으니까……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev080401_MSG0008",
+      "style": 1,
+      "name": "그게 우리를 낳았다고 생각하면\n살짝 머리가 지끈거려……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev080401_MSG0009",
+      "style": 1,
+      "name": "흠…… 아무튼\n[ST:playername ][KR:Particle char=ga ] 모른다면\n조금 신경 쓰이네[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev080401_MSG0010",
+      "style": 1,
+      "name": "이제 자매들에게 직접 지시를 보내진 않지만\n아직 엄마를 숭배하는 자도 적지 않아[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev080401_MSG0011",
+      "style": 1,
+      "name": "최근에도 리비아라고 하는 데피니아와\n이야기를 자주 나누는 것 같고……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev080401_MSG0012",
+      "style": 1,
+      "name": "……있잖아\n일단 엄마의 행방을 찾아 주지 않을래?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev080401_MSG0013",
+      "style": 1,
+      "name": "만약 도망쳤다면\n분명 이상한 계획을 꾸미고 있는 걸 테니까[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev080401_MSG0014",
+      "style": 1,
+      "name": "언제나 폐만 끼치네, 고마워[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev080401_MSG0015",
+      "style": 1,
+      "name": "그럼 우선은…… 엄마와 이야기를 나눴던\n리비아라고 하는 데피니아를 찾아 봐 줘[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev080401_MSG0016",
+      "style": 1,
+      "name": "아직 NLA에 있을 것 같지만……\n데피니아니까 지구인으로 변했을 거야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev080401_MSG0017",
+      "style": 1,
+      "name": "목격 정보를 모아서 진짜 정체를 밝혀낸 후에\n엄마의 행방을 알아내 줘[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev080401_MSG0018",
+      "style": 1,
+      "name": "사라지기 직전까지 리비아라는 데피니아가\n엄마를 자주 찾아왔었어[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev080401_MSG0019",
+      "style": 1,
+      "name": "엄마에게 물어보니\n고민 상담을 해 주고 있다고 했지만……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev080401_MSG0020",
+      "style": 1,
+      "name": "잘 생각해 보면 그 사리사욕덩어리가\n선의로 남의 고민을 들어 줄 리가 없어\n분명 리비아와의 사이에 뭔가가 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev080401_MSG0021",
+      "style": 1,
+      "name": "이 도시에 있는 리비아의 정체를 밝혀내서\n엄마의 행방을 알아내 줘[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev080401_MSG0022",
+      "style": 1,
+      "name": "지구인의 눈이 이렇게나 많이 있잖아\n분명 목격 정보도 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev080401_MSG0023",
+      "style": 1,
+      "name": "망각의 계곡 웨인 석굴에 있는 건가……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev080401_MSG0024",
+      "style": 1,
+      "name": "왠지 나쁜 예감이 드네\n부탁이야, 서둘러 엄마를 데리고 돌아와 줘[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev080401_MSG0025",
+      "style": 1,
+      "name": "나도 준비를 마치는 대로 갈게[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev080401_MSG0026",
+      "style": 1,
+      "name": "아, [ST:playername ]\n잠깐 물어보고 싶은 게 있는데[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev080401_MSG0027",
+      "style": 1,
+      "name": "……넌 누구야?\n라는 표정이네[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev080401_MSG0028",
+      "style": 1,
+      "name": "에리오야\n데피니아……인[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev080401_MSG0029",
+      "style": 1,
+      "name": "NLA에서 살기 위해 이런 모습이 되었어\n나름 즐거워[ST:wait ]"
+    }
+  ]
+}

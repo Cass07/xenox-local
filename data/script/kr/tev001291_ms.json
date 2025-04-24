@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001291_MSG0001",
+      "style": 1,
+      "name": "……앗, [ST:playername ] 씨\n신형 병기 테스트 하세요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001291_MSG0002",
+      "style": 1,
+      "name": "저는 플라이트 팩의 흡배기 바이패스를\n잘 개량할 수 없을까~ 해서[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001291_MSG0003",
+      "style": 1,
+      "name": "저는 플라이트 팩의 에너지 성능을\n더 효율적으로 만들 수 없을까~ 해서[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001291_MSG0004",
+      "style": 1,
+      "name": "암즈 컴퍼니의 메카닉분에게\n이런저런 이야기를 듣고 있었어요![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001291_MSG0005",
+      "style": 1,
+      "name": "역시 최전선에서 병기 개발을 하는 사람의\n이야기는 대단하네요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001291_MSG0006",
+      "style": 1,
+      "name": "블레이드 임무로 밖에 나가 있는 동안에도\nNLA 기술은 이렇게나 진보하고 있구나 싶어서\n깜짝 놀랐어요![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001291_JNK0010",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 8,
+      "label": "tev001291_SEL0011",
+      "style": 3,
+      "name": "메카닉 일에\n집중하고 싶지는 않은지 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001291_JNK0020",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 10,
+      "label": "tev001291_SEL0021",
+      "style": 3,
+      "name": "임무에 집중하는 편이\n좋지 않겠냐고 물어본다"
+    },
+    {
+      "$id": 11,
+      "label": "tev001291_MSG0007",
+      "style": 1,
+      "name": "하긴 일선에서 최신 기술을 접하는 사람이\n부러울 때도 있지만[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001291_MSG0008",
+      "style": 1,
+      "name": "블레이드 일이\n개발에 도움이 되기도 한다고요?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001291_MSG0009",
+      "style": 1,
+      "name": "예를 들면…… 얼마 전 임무 중에\n넓은 하늘을 날고 있는 아퀼라를 발견했는데요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001291_MSG0010",
+      "style": 1,
+      "name": "그 활공 자세를 가만히 관찰하다가……\n새로운 뒤꼬리 날개에 관한 아이디어가 떠오른 거예요![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001291_MSG0011",
+      "style": 1,
+      "name": "그때 블레이드 하기를 잘했구나~ 하고\n살짝 감동해 버린 거 있죠?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001291_MSG0012",
+      "style": 1,
+      "name": "……[ST:playername ] 씨\n여러모로 걱정해 줘서 고마워요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001291_MSG0013",
+      "style": 1,
+      "name": "임무에 지장이 없도록\n하고 있기는 한데……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001291_MSG0014",
+      "style": 1,
+      "name": "역시 집중하지 않는 것처럼 보이나요?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001291_MSG0015",
+      "style": 1,
+      "name": "음…… 다음부터는 조심할게요……\n신경 쓰지 않으면\n원시 생물과 싸울 때도 무심코[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001291_MSG0016",
+      "style": 1,
+      "name": "몸의 움직임이나 구조 같은 걸……\n돌에 적용할 수 없을까 하고\n저도 모르게 생각하게 된단 말이죠……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001291_MSG0017",
+      "style": 1,
+      "name": "뭐랄까, 언제나 솔직하게\n문제점을 지적해 줘서 고마워요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001291_MSG0018",
+      "style": 1,
+      "name": "지금도 이렇게 개발을 계속할 수 있는 건\n언제나 엘마 씨와 [ST:playername ] 씨가\n도와주고 있기 때문이에요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001291_JNK0030",
+      "style": 4,
+      "name": "칭찬"
+    },
+    {
+      "$id": 24,
+      "label": "tev001291_SEL0031",
+      "style": 3,
+      "name": "린이 노력한 덕분이라며\n머리를 쓰다듬는다"
+    },
+    {
+      "$id": 25,
+      "label": "tev001291_JNK0040",
+      "style": 4,
+      "name": "지적"
+    },
+    {
+      "$id": 26,
+      "label": "tev001291_SEL0041",
+      "style": 3,
+      "name": "더그를 잊었다고 지적한다"
+    },
+    {
+      "$id": 27,
+      "label": "tev001291_MSG0019",
+      "style": 1,
+      "name": "에헤헤…… [ST:playername ] 씨는\n왠지 아빠 같네요……\n고마워요![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001291_MSG0020",
+      "style": 1,
+      "name": "에헤헤…… [ST:playername ] 씨는\n왠지 엄마 같네요……\n고마워요![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001291_MSG0021",
+      "style": 1,
+      "name": "더욱더 힘내서 여러분에게 도움이 되는\n머신을 많이 만들고 싶어요![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001291_MSG0022",
+      "style": 1,
+      "name": "얼마 전에는 부스터 엔진이\n대폭발하는 사고도 있었지만……\n저는 절대 포기하지 않을 거예요![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001291_MSG0023",
+      "style": 1,
+      "name": "그러니까 [ST:playername ] 씨도\n테스트 파일럿으로서\n함께 실험에 참여해 주세요![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001291_JNK0050",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 33,
+      "label": "tev001291_SEL0051",
+      "style": 3,
+      "name": "공포심을 억누르면서도\n웃으며 엄지손가락을 들어 올려 보인다"
+    },
+    {
+      "$id": 34,
+      "label": "tev001291_JNK0060",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 35,
+      "label": "tev001291_SEL0061",
+      "style": 3,
+      "name": "전력으로 거절한다"
+    },
+    {
+      "$id": 36,
+      "label": "tev001291_MSG0024",
+      "style": 1,
+      "name": "정말요!?\n여러 가지 시험해 보고 싶은 게 있었는데\n더그 씨만으로는 부족했거든요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001291_MSG0025",
+      "style": 1,
+      "name": "그러면 잔뜩 만들어 놓을 테니까\n다음에 착~실하게 테스트에 참여해 주세요!\n잘 부탁해요![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001291_MSG0026",
+      "style": 1,
+      "name": "얼굴이 창백한데……\n어디 몸이라도 안 좋으세요?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001291_MSG0027",
+      "style": 1,
+      "name": "음~ 안타깝지만\n그렇다면 어쩔 수 없네요[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001291_MSG0028",
+      "style": 1,
+      "name": "일단 한동안은 더그 씨에게\n열심히 해 달라고 할게요![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001291_MSG0029",
+      "style": 1,
+      "name": "이런~!\n완전히 잊고 있었어요![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001291_MSG0030",
+      "style": 1,
+      "name": "그렇네요, 더그 씨의 몸이 튼튼해서\n지금까지 테스트를 계속할 수 있었던 거예요![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001291_MSG0031",
+      "style": 1,
+      "name": "다음 플라이트 테스트도\n상당히 힘든 실험이 될 것 같지만……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001291_MSG0032",
+      "style": 1,
+      "name": "더그 씨라면 분명 괜찮겠죠!\n더 열심히 해 달라고 하려고요![ST:wait ]"
+    }
+  ]
+}

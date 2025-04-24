@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085102_MSG0001",
+      "style": 0,
+      "name": "엘마 씨, 이거……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085102_MSG0002",
+      "style": 0,
+      "name": "모닥불 흔적이다모[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085102_MSG0003",
+      "style": 0,
+      "name": "남아 있는 열기로 보면\n여기서 떠난 지 얼마 안 된 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085102_MSG0004",
+      "style": 0,
+      "name": "모닥불……\n그 외계인들이 이런 걸 피울까?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085102_JNK0010",
+      "style": 4,
+      "name": "억측"
+    },
+    {
+      "$id": 6,
+      "label": "qev085102_SEL0011",
+      "style": 3,
+      "name": "가능성은 있다고 지적한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev085102_JNK0020",
+      "style": 4,
+      "name": "경계"
+    },
+    {
+      "$id": 8,
+      "label": "qev085102_SEL0021",
+      "style": 3,
+      "name": "수상한 소리를 눈치채고 경고한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev085102_MSG0005",
+      "style": 0,
+      "name": "그렇네……\n좀 더 이 주변을 조사해 보자[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085102_MSG0006",
+      "style": 0,
+      "name": "엘마 씨, 무슨 소리가 들렸다모![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085102_MSG0007",
+      "style": 0,
+      "name": "소리라니……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085102_MSG0008",
+      "style": 0,
+      "name": "누가 오고 있어\n다들 숨어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085102_MSG0009",
+      "style": 0,
+      "name": "한발 늦었나[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085102_MSG0010",
+      "style": 0,
+      "name": "그 이인조는 어디로 도망간 거야[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085102_MSG0011",
+      "style": 0,
+      "name": "한 명은 돌만큼 크잖아[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085102_MSG0012",
+      "style": 0,
+      "name": "몸을 숨길 수 있는 장소가\n그리 많지 않을 텐데……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085102_MSG0013",
+      "style": 0,
+      "name": "대장에게 보고해 두자[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085102_MSG0014",
+      "style": 0,
+      "name": "저 녀석들…… 그로우스다모[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085102_MSG0015",
+      "style": 0,
+      "name": "엘마 씨\n지금 한 명은 돌만큼 크댔어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085102_MSG0016",
+      "style": 0,
+      "name": "그리고 이인조라고 했어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085102_MSG0017",
+      "style": 0,
+      "name": "그 외계인이 맞다면 어째서……\n그로우스 멤버잖아요?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085102_MSG0018",
+      "style": 0,
+      "name": "타츠에게 당해서\n그로우스에서 쫓겨난 거다모![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085102_MSG0019",
+      "style": 0,
+      "name": "누 구 에 게?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085102_MSG0020",
+      "style": 0,
+      "name": "하지만 그럴 가능성도 있네요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085102_MSG0021",
+      "style": 0,
+      "name": "그 이인조일 가능성은 높아[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085102_MSG0022",
+      "style": 0,
+      "name": "저 그로우스 병사에게\n직접 확인해 보면 어떨까요?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085102_MSG0023",
+      "style": 0,
+      "name": "당신은 어떻게 생각해?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085102_JNK0030",
+      "style": 4,
+      "name": "찬성"
+    },
+    {
+      "$id": 29,
+      "label": "qev085102_SEL0031",
+      "style": 3,
+      "name": "린의 의견을 지지한다"
+    },
+    {
+      "$id": 30,
+      "label": "qev085102_JNK0040",
+      "style": 4,
+      "name": "반대"
+    },
+    {
+      "$id": 31,
+      "label": "qev085102_SEL0041",
+      "style": 3,
+      "name": "탐색을 계속할 것을 제안한다"
+    },
+    {
+      "$id": 32,
+      "label": "qev085102_MSG0024",
+      "style": 0,
+      "name": "그렇네, 저 부대……\n적은 소수야, 정보를 알아내 보자[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085102_MSG0025",
+      "style": 0,
+      "name": "그렇네, 괜히 소란 피울 거 없지\n가자[ST:wait ]"
+    }
+  ]
+}

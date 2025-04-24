@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091901_MSG0001",
+      "style": 0,
+      "name": "거기 너![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091901_MSG0001_2",
+      "style": 0,
+      "name": "혹시 신형 병기 테스트를 위해 와 준 사람이야?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091901_MSG0002",
+      "style": 0,
+      "name": "응, 인상은 제법 괜찮네\n기대해도 되겠어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091901_MSG0003",
+      "style": 0,
+      "name": "내 이름은 아크세나\n암즈 소속이야, 잘 부탁해[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091901_MSG0004",
+      "style": 0,
+      "name": "그러면 바로 시작해 볼까, 한시라도 빨리\n돌 신형 병기를 시험해 보고 싶거든[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091901_MSG0005",
+      "style": 0,
+      "name": "너는 강해 보이니까\n좋은 데이터를 얻을 수 있을 거야![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091901_JNK0010",
+      "style": 4,
+      "name": "질문한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev091901_SEL0011",
+      "style": 3,
+      "name": "자신이 무엇을 하면 되는지 질문한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev091901_JNK0020",
+      "style": 4,
+      "name": "걱정한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev091901_SEL0021",
+      "style": 3,
+      "name": "혹시 돌을 상대로\n싸워야 하는 건지 걱정한다"
+    },
+    {
+      "$id": 11,
+      "label": "qev091901_MSG0006",
+      "style": 0,
+      "name": "미안해, 더 자세하게 설명해 줬어야 했는데[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091901_MSG0007",
+      "style": 0,
+      "name": "나는 암즈고, 지금 맡은 일은\n돌 신형 병기 테스트야[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091901_MSG0008",
+      "style": 0,
+      "name": "테스트 데이터를 얻으려면\n실험 상대가 필요하겠지?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091901_MSG0009",
+      "style": 0,
+      "name": "그런 의미에서 네가\n그 실험 상대가 되었으면 해[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091901_MSG0010",
+      "style": 0,
+      "name": "물론 반격해도 돼\n그래야 나도 승부욕이 불타오르니까![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091901_MSG0011",
+      "style": 0,
+      "name": "응?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091901_MSG0012",
+      "style": 0,
+      "name": "혹시 싫어서 그래?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091901_MSG0013",
+      "style": 0,
+      "name": "괜찮아![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091901_MSG0014",
+      "style": 0,
+      "name": "일방적으로 어설트 라이플 탄환을\n맞아야 하는 것도 아니고, 반격해도 돼[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091901_MSG0015",
+      "style": 0,
+      "name": "그래야 실전에 가까운 좋은 데이터를 얻을 수 있고\n게다가 나도 승부욕이 불타오르니까![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091901_MSG0016",
+      "style": 0,
+      "name": "이제 진짜로 시작해 볼까[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091901_MSG0017",
+      "style": 0,
+      "name": "사양하지 말고 전력을 다해 싸워 줘!\n내 돌은 보통이 아니거든![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091901_MSG0018",
+      "style": 0,
+      "name": "아아아아아아아~~[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091901_MSG0019",
+      "style": 0,
+      "name": "너 정말 강하구나\n내 돌을 이겨 버릴 줄이야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091901_MSG0020",
+      "style": 0,
+      "name": "내 돌……이라고 하지 말아 줄래?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091901_MSG0021",
+      "style": 0,
+      "name": "사쿠라바 중공업에서\n테스트용으로 제공받은 물건이니까 말이야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091901_MSG0022",
+      "style": 0,
+      "name": "티카! 방금 봤어?\n이 사람, 상당히 강해[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091901_MSG0023",
+      "style": 0,
+      "name": "저기, 안 봤을 리가 없잖아\n내가 그 무기의 개발 주임인데[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091901_MSG0024",
+      "style": 0,
+      "name": "테스트 데이터는 어땠어?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091901_MSG0025",
+      "style": 0,
+      "name": "최고의 데이터를 얻었지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091901_MSG0026",
+      "style": 0,
+      "name": "물론, 누구 씨 덕분에 고객님의\n소중한 돌을 수리하러 보내게 됐지만[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091901_MSG0027",
+      "style": 0,
+      "name": "뭐, 그걸 메꿀 만큼의 성과는 있었네[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091901_MSG0028",
+      "style": 0,
+      "name": "돌이 망가진 건 내 잘못 아니야\n테스트를 하려면 어쩔 수 없었다고[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091901_MSG0029",
+      "style": 0,
+      "name": "반격해도 된다고 말한 거 다 들었어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091901_MSG0030",
+      "style": 0,
+      "name": "~♪[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091901_MSG0031",
+      "style": 0,
+      "name": "하아……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091901_MSG0032",
+      "style": 0,
+      "name": "당신, 재능이 있네[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091901_MSG0033",
+      "style": 0,
+      "name": "괜찮다면 아크세나 대신\n다음 테스트를 맡아 주지 않겠어?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091901_JNK0030",
+      "style": 4,
+      "name": "수락한다"
+    },
+    {
+      "$id": 40,
+      "label": "qev091901_SEL0031",
+      "style": 3,
+      "name": "의뢰를 맡는다"
+    },
+    {
+      "$id": 41,
+      "label": "qev091901_JNK0040",
+      "style": 4,
+      "name": "고민한다"
+    },
+    {
+      "$id": 42,
+      "label": "qev091901_SEL0041",
+      "style": 3,
+      "name": "잠시 검토할 시간을 달라고 부탁한다"
+    },
+    {
+      "$id": 43,
+      "label": "qev091901_JNK0050",
+      "style": 4,
+      "name": "거절한다"
+    },
+    {
+      "$id": 44,
+      "label": "qev091901_SEL0051",
+      "style": 3,
+      "name": "의뢰를 거절하기로 한다"
+    },
+    {
+      "$id": 45,
+      "label": "qev091901_MSG0034",
+      "style": 0,
+      "name": "잠깐만! 나도 갈래![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091901_MSG0035",
+      "style": 0,
+      "name": "강한 사람 곁에 있으면 나도 공부가 되니까\n돌 조종을 더 잘할 수 있게 될지도 모르잖아[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091901_MSG0036",
+      "style": 0,
+      "name": "그러면 내가 갈래!\n물론 너도 데리고 갈 거지만[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091901_MSG0037",
+      "style": 0,
+      "name": "강한 사람 곁에 있으면 나도 공부가 되니까\n돌 조종을 더 잘할 수 있게 될지도 모르잖아[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091901_MSG0038",
+      "style": 0,
+      "name": "거절당하고 말았네[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091901_MSG0039",
+      "style": 0,
+      "name": "그렇다면 역시 아크세나가\n힘낼 수밖에 없으려나[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091901_MSG0040",
+      "style": 0,
+      "name": "어째서~? 너도 같이 가자![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091901_MSG0041",
+      "style": 0,
+      "name": "나, 강해져서 돌 조종도 더 잘하고 싶어\n그러려면 강한 사람 곁에서 배워야 해[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091901_MSG0042",
+      "style": 0,
+      "name": "그러면 결정됐네[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091901_MSG0043",
+      "style": 0,
+      "name": "부탁하고 싶은 건 램제트의 평가 테스트야[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091901_MSG0044",
+      "style": 0,
+      "name": "실전 데이터를 모으고 싶으니까\n원시 생물을 토벌하고 와 줬으면 해[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091901_MSG0045",
+      "style": 0,
+      "name": "혹시, 돌 웨펀!?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091901_MSG0046",
+      "style": 0,
+      "name": "유감이지만 이너 웨펀이야\n하기 싫어졌어?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091901_MSG0047",
+      "style": 0,
+      "name": "아니, 할 거야[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091901_MSG0048",
+      "style": 0,
+      "name": "물론 돌 웨펀 테스트였다면\n엄청나게 들떴겠지만 말이야[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091901_MSG0049",
+      "style": 0,
+      "name": "그래도 이 평범한 한 걸음이\n내일로 이어질 거라고 믿으며 열심히 할래[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091901_MSG0050",
+      "style": 0,
+      "name": "말이 거창하네[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091901_MSG0051",
+      "style": 0,
+      "name": "그러면 램제트의 테스트……\n덤으로 아크세나도 잘 부탁해[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091901_MSG0052",
+      "style": 0,
+      "name": "기대하고 있을게, 신입 테스터![ST:wait ]"
+    }
+  ]
+}

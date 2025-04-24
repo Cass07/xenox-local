@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086602_MSG0001",
+      "style": 0,
+      "name": "ずいぶん集まったですも～～[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086602_MSG0002",
+      "style": 0,
+      "name": "この辺りで回収できるのは\nこれで全てのようね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086602_MSG0003",
+      "style": 0,
+      "name": "何か役に立つ情報が\n手に入るといいんですけど[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086602_MSG0004",
+      "style": 0,
+      "name": "やれやれ　先を越されちまったなぁ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086602_MSG0005",
+      "style": 0,
+      "name": "ダグさん！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086602_MSG0006",
+      "style": 0,
+      "name": "さすがエルマだ　行動が早い[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086602_MSG0007",
+      "style": 0,
+      "name": "司令に声をかけられたのは\nあなたのチームだったのね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086602_MSG0008",
+      "style": 0,
+      "name": "他にもいるみたいだぜ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086602_MSG0009",
+      "style": 0,
+      "name": "一番乗りのつもりだったのに\nエルマにはかなわねえや[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086602_MSG0010",
+      "style": 0,
+      "name": "知ってるか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086602_MSG0011",
+      "style": 0,
+      "name": "あの地球事変の時も異星人部隊の本陣に\n真っ先に突入したのは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086602_MSG0011_2",
+      "style": 0,
+      "name": "エルマのドールだったんだぜ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086602_MSG0012",
+      "style": 0,
+      "name": "ええっ　そうだったんですか！？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086602_MSG0013",
+      "style": 0,
+      "name": "昔の話よ　それもなんの意味もなかった[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086602_MSG0014",
+      "style": 0,
+      "name": "そういや　あのドールって\nタンデムだったんだよな　確か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086602_MSG0015",
+      "style": 0,
+      "name": "これ　救難信号ですよ！\n発信者は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086602_MSG0016",
+      "style": 0,
+      "name": "イリーナじゃねえか！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086602_MSG0017",
+      "style": 0,
+      "name": "ここから近いわね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086602_MSG0018",
+      "style": 0,
+      "name": "先に行くぜ　エルマ\n現地で合流しよう！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086602_MSG0019",
+      "style": 0,
+      "name": "タツ達も急ぐですも！[ST:wait ]"
+    }
+  ]
+}

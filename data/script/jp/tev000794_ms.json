@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000794_MSG0001",
+      "style": 1,
+      "name": "よう　[ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000794_MSG0002",
+      "style": 1,
+      "name": "見てくれよ\nついに新車を買ったんだぜ！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000794_MSG0003",
+      "style": 1,
+      "name": "どうだ？　いいだろ？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000794_JNK0010",
+      "style": 4,
+      "name": "強くうなずく[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000794_SEL0011",
+      "style": 3,
+      "name": "とてもいいと羨ましがる[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000794_JNK0020",
+      "style": 4,
+      "name": "尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000794_SEL0021",
+      "style": 3,
+      "name": "何のために買ったのかを尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000794_JNK0030",
+      "style": 4,
+      "name": "茶化す[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000794_SEL0031",
+      "style": 3,
+      "name": "これでアヴァランチの任務に行くのか尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000794_MSG0004",
+      "style": 1,
+      "name": "そうだろー？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000794_MSG0005",
+      "style": 1,
+      "name": "しかも　見た目よりも安いんだぜ？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000794_MSG0006",
+      "style": 1,
+      "name": "グレイアムの野郎に貸しがあってな\n格安で譲ってもらったんだ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000794_MSG0007",
+      "style": 1,
+      "name": "何のためって[ST:wide ]―\nそりゃあ　お前[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000794_MSG0008",
+      "style": 1,
+      "name": "これからNLAはどんどん発展していくんだぜ？\n車がないと買い物行くにも不便だろ？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000794_MSG0009",
+      "style": 1,
+      "name": "街の中をドールで走るわけにはいかんし\n何より燃費がな[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000794_MSG0010",
+      "style": 1,
+      "name": "行くかよ！？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000794_MSG0011",
+      "style": 1,
+      "name": "これでNLAの外に出たら\n5分でスクラップだぜ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000794_MSG0012",
+      "style": 1,
+      "name": "さすがに任務に行くときはドールを使うさ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000794_MSG0013",
+      "style": 1,
+      "name": "それよりお前が買うならどんな車だ？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000794_JNK0040",
+      "style": 4,
+      "name": "スポーツカー[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000794_SEL0041",
+      "style": 3,
+      "name": "スピードが出る二人乗りの車[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000794_JNK0050",
+      "style": 4,
+      "name": "SUV[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000794_SEL0051",
+      "style": 3,
+      "name": "スポーツ用多目的車[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000794_JNK0060",
+      "style": 4,
+      "name": "バス[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000794_SEL0061",
+      "style": 3,
+      "name": "40人乗り程度の大型のバス[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000794_MSG0014",
+      "style": 1,
+      "name": "俺と一緒の趣味してんな[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000794_MSG0015",
+      "style": 1,
+      "name": "やっぱドライブを満喫するにはスポーツカーで\nないとな[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000794_MSG0016",
+      "style": 1,
+      "name": "ただスピード違反には気をつけないとな[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000794_MSG0017",
+      "style": 1,
+      "name": "ブレイドは特に厳しく取り締まられるんだ\n罰金も相当払わなきゃなんねぇからな[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000794_MSG0018",
+      "style": 1,
+      "name": "俺の趣味とは合わないが\nなかなかいい選択だと思うぜ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000794_MSG0019",
+      "style": 1,
+      "name": "オフロードにも弱くはないし\nエルマやリンを乗せて\n原初の荒野にドライブに行けるかもな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000794_MSG0020",
+      "style": 1,
+      "name": "もっとも10分でスクラップも同然だろうがな\nハハハッ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000794_MSG0021",
+      "style": 1,
+      "name": "バス！？[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000794_MSG0022",
+      "style": 1,
+      "name": "エルマやリンと一緒に\nみんなでどこかに出かけるのか？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000794_MSG0023",
+      "style": 1,
+      "name": "いやそれだけじゃ埋まらねぇな\n知り合い全員乗せるつもりか？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000794_MSG0024",
+      "style": 1,
+      "name": "[ST:playername ]は\nみんなといるのが余程好きなんだな……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000794_MSG0025",
+      "style": 1,
+      "name": "おもしろいよな\n車を選ぶだけで　そいつの人生が\n分かるんだからよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000794_MSG0026",
+      "style": 1,
+      "name": "アイツなら[ST:wide ]―ラオならSUVを選んだだろうな[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000794_MSG0027",
+      "style": 1,
+      "name": "それで家族三人で旅行やキャンプに\n行くんだ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000794_MSG0028",
+      "style": 1,
+      "name": "[ST:wide ]―そんな平和な世界だったら\nよかったんだが　あいにくと今は\nそれどころじゃない[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000794_MSG0029",
+      "style": 1,
+      "name": "ただひと時の休暇を俺は満喫するぜ\nじゃあな[ST:wait ]"
+    }
+  ]
+}

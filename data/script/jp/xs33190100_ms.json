@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33190100_MSG0010",
+      "style": 0,
+      "name": "こんなところに不時着してたんですね\n見つかってよかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33190100_MSG0020",
+      "style": 0,
+      "name": "これで調査範囲を広げて行動できるわ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33190100_MSG0030",
+      "style": 0,
+      "name": "周辺をくまなく捜索して\n一刻も早くみんなと合流しましょう[ST:wait ]"
+    }
+  ]
+}

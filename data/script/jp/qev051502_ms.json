@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051502_MSG0001",
+      "style": 1,
+      "name": "久しいな　[ST:playername ]！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051502_MSG0002",
+      "style": 1,
+      "name": "……もしかしたら　貴様は私のことなど\n忘れてしまったかもしれないがな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051502_MSG0003",
+      "style": 1,
+      "name": "私は……ひと時もあの敗北の屈辱を忘れず\n修行に打ち込んできたのだ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051502_MSG0004",
+      "style": 1,
+      "name": "今こそその成果……兄様より\n教わりし剣の真の形！　見せてやろう！　[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051502_MSG0005",
+      "style": 1,
+      "name": "それでは……行くぞ！\n全力で　かかってこい！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev051502_MSG0006",
+      "style": 1,
+      "name": "久しいな　[ST:playername ]！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev051502_MSG0007",
+      "style": 1,
+      "name": "あの日……全力でお前にぶつかり……\n私は負けた！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev051502_MSG0008",
+      "style": 1,
+      "name": "だがな　お前に突き付けられた三本の刀に\n秘められた兄の気持ちに応えるため[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev051502_MSG0009",
+      "style": 1,
+      "name": "今日の今日まで　必死に修行を重ねてきたのだ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev051502_MSG0010",
+      "style": 1,
+      "name": "今こそその成果……兄様より\n教わりし剣の真の形！　見せてやろう！　[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev051502_MSG0011",
+      "style": 1,
+      "name": "それでは……行くぞ！\n全力で　かかってこい！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087302_MSG0001",
+      "style": 0,
+      "name": "저기가 블레이드 사람들이 잡혀 있을 가능성이\n가장 높은 거점이네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087302_MSG0002",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087302_MSG0003",
+      "style": 0,
+      "name": "좋아, 내가 적의 눈을 돌리겠다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087302_MSG0004",
+      "style": 0,
+      "name": "그사이에 자네들이 잠입해서\n구출하는 건 어떤가?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087302_MSG0005",
+      "style": 0,
+      "name": "찬성할 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087302_MSG0006",
+      "style": 0,
+      "name": "여기서 또 다른 거점으로 이동했을 가능성이 있어\n소란을 피우고 싶지는 않아[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087302_MSG0007",
+      "style": 0,
+      "name": "그렇군[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087302_MSG0008",
+      "style": 0,
+      "name": "왜 그래? 당신답지 않네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087302_MSG0009",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087302_MSG0010",
+      "style": 0,
+      "name": "혹시 초조한 거야?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087302_MSG0011",
+      "style": 0,
+      "name": "이전에 애벌란시가 전멸했을 때와\n같은 일을 되풀이할까 봐?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087302_MSG0012",
+      "style": 0,
+      "name": "초조해한다니, 그렇게 보이나?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087302_MSG0013",
+      "style": 0,
+      "name": "그렇군, 자각하고 있지는 않지만\n자네들이 그렇게 생각한다면 부정할 순 없겠지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087302_MSG0014",
+      "style": 0,
+      "name": "명령해 다오, 리더\n난 한 명의 블레이드로서 따를 뿐이다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087302_MSG0015",
+      "style": 0,
+      "name": "그럼 어디까지나 적에게 발견되지 않고\n잠입하는 것을 우선시한다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087302_MSG0016",
+      "style": 0,
+      "name": "잡힌 블레이드 전원을 발견할 때까지\n적이 구출 작전을 눈치채지 못하도록[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087302_MSG0017",
+      "style": 0,
+      "name": "알겠다[ST:wait ]"
+    }
+  ]
+}

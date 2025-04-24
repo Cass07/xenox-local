@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092908_MSG0010",
+      "style": 0,
+      "name": "후~ 깜짝 놀랐네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092908_MSG0015",
+      "style": 0,
+      "name": "네가 없었다면 어떻게 됐을지……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092908_JNK0020",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 4,
+      "label": "qev092908_SEL0030",
+      "style": 3,
+      "name": "다치지 않았냐고 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "qev092908_MSG0040",
+      "style": 0,
+      "name": "응, 난 괜찮아\n네가 냉정하게 대응한 덕분이지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092908_MSG0050",
+      "style": 0,
+      "name": "너한테 의뢰하길 잘했어\n나도 참 운이 좋다니까, 아하하[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092908_JNK0060",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 8,
+      "label": "qev092908_SEL0070",
+      "style": 3,
+      "name": "방금 본 돌에 관해 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "qev092908_MSG0080",
+      "style": 0,
+      "name": "적어도 우연히 지나가던 건 아닐 거야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092908_MSG0090",
+      "style": 0,
+      "name": "그건 그렇고 그 쌍둥이 같은 기체\n어디에선가 본 것 같은데……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092908_MSG0100",
+      "style": 0,
+      "name": "으~음, 떠오르질 않네……\n돌아가면 조사해 봐야겠어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092908_MSG0110",
+      "style": 0,
+      "name": "좋아~ 일단 의뢰는 이걸로 종료야!\n지금까지 고생했어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092908_MSG0120",
+      "style": 0,
+      "name": "기회가 있다면\n또 의뢰를 맡기고 싶네[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092908_MSG0130",
+      "style": 0,
+      "name": "아, 개인적인 만남도 대환영이야\n당분간 NLA에 머무를 예정이거든[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092908_MSG0140",
+      "style": 0,
+      "name": "내가 필요하면 얼마든지 말해\n힘이 되어 줄게[ST:wait ]"
+    }
+  ]
+}

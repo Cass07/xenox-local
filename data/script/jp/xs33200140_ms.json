@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33200140_MSG0010",
+      "style": 0,
+      "name": "今度のデータも\nこの装置に関する情報のようだけれど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33200140_MSG0020",
+      "style": 0,
+      "name": "[ST:wide ]―ダメね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33200140_MSG0030",
+      "style": 0,
+      "name": "データの大半が破損していて\nどれも意味をなしていないわ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33200140_MSG0040",
+      "style": 0,
+      "name": "ハズレを引いちゃったですも？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33200140_MSG0050",
+      "style": 0,
+      "name": "せっかく見つけたのにガッカリですも[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33200140_MSG0060",
+      "style": 0,
+      "name": "唯一　かろうじて読み取れるのは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33200140_MSG0070",
+      "style": 0,
+      "name": "“殻より解き放たれし楔”\n“魂を刑する軛とならん”[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33200140_MSG0080",
+      "style": 0,
+      "name": "[ST:wide ]―？　どういう意味なんでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33200140_MSG0090",
+      "style": 0,
+      "name": "これまでの情報から\n“楔”はおそらくこの装置のことでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33200140_MSG0100",
+      "style": 0,
+      "name": "その“楔”が解き放たれると\n“軛”となる[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33200140_MSG0110",
+      "style": 0,
+      "name": "単純に読み解けば\nそういう意味に取れるけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33200140_MSG0120",
+      "style": 0,
+      "name": "ももも[ST:wide ]―　タツにはサッパリですも[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33200140_MSG0130",
+      "style": 0,
+      "name": "ムズカシイことは\nリンさんにおまかせしますも[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33200140_MSG0140",
+      "style": 0,
+      "name": "私にだってわからないよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33200140_MSG0150",
+      "style": 0,
+      "name": "考えるのは後にしましょう[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33200140_MSG0160",
+      "style": 0,
+      "name": "この言葉が何を意味するのか[ST:wide ]―\nいずれわかる時がくるかもしれない[ST:wait ]"
+    }
+  ]
+}

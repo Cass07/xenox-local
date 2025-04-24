@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040106_MSG0001",
+      "style": 1,
+      "name": "모모모?\n도판 카라반에 무슨 일이냐모?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040106_MSG0002",
+      "style": 1,
+      "name": "NLA에서 온 노폰을 찾는다고?\n으음……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev040106_MSG0003",
+      "style": 1,
+      "name": "그러고 보니 일꾼을 대동한 예쁜 노폰이\n흑강의 대륙에 간다고 했었다모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev040106_MSG0004",
+      "style": 1,
+      "name": "벌써 출발한 지 한참 됐으니까\n슬슬 도착했을 거다모[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090903_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090903_MSG0002",
+      "style": 0,
+      "name": "こんな所に人が[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090903_MSG0003",
+      "style": 0,
+      "name": "[ST:wide ]―あなたもブレイド？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090903_MSG0004",
+      "style": 0,
+      "name": "ええ　討伐任務でこの辺りに来ました[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090903_MSG0005",
+      "style": 0,
+      "name": "アタシもそうなんだけど\nヘマうっちゃってね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090903_MSG0006",
+      "style": 0,
+      "name": "足をやられて　動けなくなっちゃったの[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090903_MSG0007",
+      "style": 0,
+      "name": "[ST:wide ]―でも　アタシのことはいいから\n早く倒しに行ってちょうだい！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090903_MSG0008",
+      "style": 0,
+      "name": "このままじゃアイツ　もっと沢山の子供を\n産んで取り返しがつかなくなる[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090903_MSG0009",
+      "style": 0,
+      "name": "行って[ST:wide ]―！\nアタシはどうでもいいから使命を果たして[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090903_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―確かに　奴の繁殖力は異常です[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090903_MSG0011",
+      "style": 0,
+      "name": "この人をＮＬＡに連れ帰り　時間を置けば\nそれだけ被害は増えていく[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090903_MSG0012",
+      "style": 0,
+      "name": "僕が取るべき判断は[ST:wide ]―\nやはり　任務を[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090903_JNK0010",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 14,
+      "label": "qev090903_SEL0011",
+      "style": 3,
+      "name": "仲間の命を見捨てるべきではないと説く"
+    },
+    {
+      "$id": 15,
+      "label": "qev090903_JNK0020",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 16,
+      "label": "qev090903_SEL0021",
+      "style": 3,
+      "name": "何故　そんなにも任務の達成を急ぐか問う"
+    },
+    {
+      "$id": 17,
+      "label": "qev090903_MSG0013",
+      "style": 0,
+      "name": "君は　ヴァンダム司令のようなことを\n言うのですね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090903_MSG0014",
+      "style": 0,
+      "name": "残念ですよ　君はもっと\n柔軟な人間だと思っていましたが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090903_JNK0030",
+      "style": 4,
+      "name": "説得"
+    },
+    {
+      "$id": 20,
+      "label": "qev090903_SEL0031",
+      "style": 3,
+      "name": "ヴァンダムの言っていることは\n間違っていないと説く"
+    },
+    {
+      "$id": 21,
+      "label": "qev090903_JNK0040",
+      "style": 4,
+      "name": "怒る"
+    },
+    {
+      "$id": 22,
+      "label": "qev090903_SEL0041",
+      "style": 3,
+      "name": "仲間の命を軽視するHBを\n怒鳴りつける"
+    },
+    {
+      "$id": 23,
+      "label": "qev090903_MSG0015",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090903_MSG0016",
+      "style": 0,
+      "name": "クソッ[ST:wide ]―　そんなの僕だって分かってます\nだけど　それを認めたら僕の立場は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090903_MSG0019",
+      "style": 0,
+      "name": "ヴァンダム司令は　こう言っていました[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090903_MSG0020",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090903_MSG0022",
+      "style": 0,
+      "name": "ヴァンダム司令も　そんな風に\n僕を怒鳴りつけてこう言ったんです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090903_MSG0023",
+      "style": 0,
+      "name": "一人でも多くの者が生きていれば\nそれだけ多くのことを成しうることができる[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090903_MSG0024",
+      "style": 0,
+      "name": "見捨てていい仲間なんてどこにもいない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090903_MSG0027",
+      "style": 0,
+      "name": "[ST:wide ]―何でそんなことを[ST:wide ]―\nただ僕はＮＬＡの人々を守りたくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090903_MSG0028",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090903_JNK0050",
+      "style": 4,
+      "name": "問い正す"
+    },
+    {
+      "$id": 33,
+      "label": "qev090903_SEL0051",
+      "style": 3,
+      "name": "嘘偽りなく人々のためだけに言っているか問う"
+    },
+    {
+      "$id": 34,
+      "label": "qev090903_JNK0060",
+      "style": 4,
+      "name": "疑う"
+    },
+    {
+      "$id": 35,
+      "label": "qev090903_SEL0061",
+      "style": 3,
+      "name": "個人的な事情があるのではないかと疑う"
+    },
+    {
+      "$id": 36,
+      "label": "qev090903_MSG0029",
+      "style": 0,
+      "name": "人々のため[ST:wide ]―　守るべき命のために僕は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev090903_MSG0030",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev090903_MSG0031",
+      "style": 0,
+      "name": "[ST:wide ]―違う[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev090903_MSG0033",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev090903_MSG0034",
+      "style": 0,
+      "name": "[ST:wide ]―司令部にいる旧友が　僕の最近のやり方は\n甘すぎると言ってきましてね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev090903_MSG0035",
+      "style": 0,
+      "name": "このままじゃ　今の位置にいることすら\n叶わなくなる[ST:wide ]―　なんて挑発してきたんです[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev090903_MSG0036",
+      "style": 0,
+      "name": "もっと効率的に人を使って\nエリートらしく任務をこなせ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev090903_MSG0037",
+      "style": 0,
+      "name": "いずれ蘇る命なんだから\n犠牲など気にするなと言われましたよ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev090903_MSG0039",
+      "style": 0,
+      "name": "[ST:wide ]―君は全てお見通しですね[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev090903_MSG0040",
+      "style": 0,
+      "name": "こんな風だから　僕はヴァンダム司令に\nお叱りを受けたのでしょう[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev090903_MSG0040_02",
+      "style": 0,
+      "name": "あの時　こう言っていました[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev090903_MSG0041_02",
+      "style": 0,
+      "name": "わかりました[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev090903_MSG0042",
+      "style": 0,
+      "name": "一度　この人を連れてＮＬＡに戻りましょう[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev090903_MSG0043",
+      "style": 0,
+      "name": "その間に奴らの手下がどれだけ殖えようとも\nまた倒せばいいだけですからね！[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev090903_MSG0045_02",
+      "style": 0,
+      "name": "な～んだ　つまんないの[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev090903_MSG0045_03",
+      "style": 0,
+      "name": "[ST:wide ]―いい仲間がいてよかったわね\nＨＢオニーサン[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev090903_MSG0045_04",
+      "style": 0,
+      "name": "大切なこと気づかせてくれた仲間に\n感謝しなさい[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev090903_MSG0047",
+      "style": 0,
+      "name": "えっ[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev090903_MSG0048",
+      "style": 0,
+      "name": "アタシね　懲りずにここに来たオニーサンが\nまた仲間の命を軽んじるような真似をしたら[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev090903_MSG0049",
+      "style": 0,
+      "name": "思いっきりぶん殴って　連れ帰って来いって\nヴァンダム司令から特別任務を受けたの[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev090903_MSG0050",
+      "style": 0,
+      "name": "なっ[ST:wide ]―　それじゃケガは[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev090903_MSG0051",
+      "style": 0,
+      "name": "こんな小芝居までさせて試させるなんて\nよっぽどオニーサンって[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev090903_MSG0052",
+      "style": 0,
+      "name": "司令のお気に入りなのね[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev090903_MSG0052_02",
+      "style": 0,
+      "name": "あなたみたいな美男子をぶっ飛ばすの\n楽しみにしてたんだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev090903_MSG0053",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev090903_MSG0054",
+      "style": 0,
+      "name": "さあ　あなた達は任務をこのまま続けて[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev090903_MSG0055",
+      "style": 0,
+      "name": "アタシは一足先にＮＬＡに戻って\nブレイドエリアで待ってる[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev090903_MSG0057",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev090903_MSG0058",
+      "style": 0,
+      "name": "あの　僕はこのようなイヤガラセを受ける程\n司令に嫌われているんですか？[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev090903_JNK0070",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 66,
+      "label": "qev090903_SEL0071",
+      "style": 3,
+      "name": "きっと憎まれていると言う"
+    },
+    {
+      "$id": 67,
+      "label": "qev090903_JNK0080",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 68,
+      "label": "qev090903_SEL0081",
+      "style": 3,
+      "name": "かなり愛されていると言う"
+    },
+    {
+      "$id": 69,
+      "label": "qev090903_MSG0059",
+      "style": 0,
+      "name": "いずれブレイド司令の座を\n奪おうとしているのです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev090903_MSG0060",
+      "style": 0,
+      "name": "甘んじてその憎悪　受け止めますよ[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev090903_MSG0061",
+      "style": 0,
+      "name": "それはないと思いますが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev090903_MSG0062",
+      "style": 0,
+      "name": "仮に親しみを感じているのだとすれば\nかなり屈折したものを感じますね[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev090903_MSG0063",
+      "style": 0,
+      "name": "[ST:wide ]―まぁいいです\nとにかく　先へ進みましょうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev090903_MSG0080",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 75,
+      "label": "qev090903_MSG0081",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

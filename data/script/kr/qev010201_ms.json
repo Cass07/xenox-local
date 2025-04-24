@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev010201_MSG0001",
+      "style": 1,
+      "name": "아아…… 큰일이네요\n여기 녀석들은\n왜 이렇게 쩨쩨한 건지[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev010201_MSG0002",
+      "style": 1,
+      "name": "돌 파츠 한두 개쯤……\n열 개 스무 개쯤은\n양보해 줘도 되잖아요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev010201_MSG0003",
+      "style": 1,
+      "name": "거기 당신도 그렇게 생각하지 않아요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev010201_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 5,
+      "label": "qev010201_SEL0011",
+      "style": 3,
+      "name": "돌 파츠는 비싸니까\n값을 내려야 한다고 긍정한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev010201_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 7,
+      "label": "qev010201_SEL0021",
+      "style": 3,
+      "name": "상식적으로 생각해서\n민간인에게 줄 리가 없다고 부정한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev010201_MSG0004",
+      "style": 1,
+      "name": "아무래도 당신은 여기 고지식하신 녀석들과\n확실히 다른 존재인 것 같군요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev010201_MSG0005",
+      "style": 1,
+      "name": "인류의 존망이 걸린 이 시기에\n암즈 컴퍼니 녀석들은\n이익을 챙길 생각이나 하고……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev010201_MSG0006",
+      "style": 1,
+      "name": "정말 마음에 안 드는 녀석들이에요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev010201_MSG0007",
+      "style": 1,
+      "name": "그리고 저로서는 값을 내릴 뿐만 아니라\n외상도 가능하게 했으면 좋겠어요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev010201_MSG0008",
+      "style": 1,
+      "name": "그건 성급한 판단이에요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev010201_MSG0009",
+      "style": 1,
+      "name": "저도 양심이 있으니 그냥 달라는 게 아니라\n외상으로 해 달라고 부탁하는데도\n딱 잘라 거절당했어요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev010201_MSG0010",
+      "style": 1,
+      "name": "그리고 전 돌 파츠가 갖고 싶지만\n돌에 사용하려는 게 아니에요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev010201_MSG0011",
+      "style": 1,
+      "name": "저에게는 장대한 계획이 있는데……\n무조건 수리해야 하는 머신이 있거든요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev010201_MSG0012",
+      "style": 1,
+      "name": "머신을 사용할 수 있게 되면\n돈도 왕창 벌 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev010201_MSG0013",
+      "style": 1,
+      "name": "돌 파츠값 정도는\n2, 3일 만에 갚을 수 있을걸요?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev010201_MSG0014",
+      "style": 1,
+      "name": "……말을 너무 많이 했군요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev010201_MSG0015",
+      "style": 1,
+      "name": "아무튼 여기서 블레이드인 당신과\n만나게 된 것도 무언가의 인연[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev010201_MSG0016",
+      "style": 1,
+      "name": "이참에 돌 파츠 같은\n고급품이 아니어도 괜찮으니……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev010201_MSG0017",
+      "style": 1,
+      "name": "머신을 수리하기 위한 재료를\n모아 주시면 안 될까요?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev010201_MSG0018",
+      "style": 1,
+      "name": "물론 보수는 왕창 벌고 나서 드릴게요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev010201_MSG0019",
+      "style": 1,
+      "name": "잘 부탁해요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev010201_MSG0020",
+      "style": 1,
+      "name": "진척은 어떤가요?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev010201_MSG0021",
+      "style": 1,
+      "name": "물건은 모두 원초의 황야에서 얻을 수 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev010201_MSG0022",
+      "style": 1,
+      "name": "의뢰한 물건을 당신이 가져올 때까지\n전 여기서 융통성 없는 암즈 녀석들을\n지켜보고 있을게요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev010201_MSG0023",
+      "style": 1,
+      "name": "기다리고 있었어요~[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev010201_MSG0024",
+      "style": 1,
+      "name": "의뢰한 물건은 다 모으셨나요?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev010201_MSG0025",
+      "style": 1,
+      "name": "감사해요\n이 정도면 충분해요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev010201_MSG0026",
+      "style": 1,
+      "name": "머신을 완벽하게 수리할 수 있겠어요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev010201_MSG0027",
+      "style": 1,
+      "name": "이걸로 저는 일확천금, 부자가 될 게 틀림없어요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev010201_MSG0028",
+      "style": 1,
+      "name": "지금은 사례를 할 수 없지만\n다음에 만날 때는 반드시……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev010201_MSG0029",
+      "style": 1,
+      "name": "정말 감사했습니다[ST:wait ]"
+    }
+  ]
+}

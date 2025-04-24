@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095201_MSG0001",
+      "style": 1,
+      "name": "어떤 의미로는 도박이나 다름없는 임무……\n하지만 각오를 다지고 도전할 수밖에 없어……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095201_MSG0002",
+      "style": 1,
+      "name": "문제는 이 임무를\n누구에게 맡기느냐인데……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095201_MSG0003",
+      "style": 1,
+      "name": "어중간한 블레이드에게 맡겼다가는\n그 사람의 목숨이 위험해질 테니까……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev095201_JNK0010",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 5,
+      "label": "qev095201_SEL0011",
+      "style": 3,
+      "name": "임무 내용을 자세히 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "qev095201_JNK0020",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 7,
+      "label": "qev095201_SEL0021",
+      "style": 3,
+      "name": "율리우스가 하는 일에 관해 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "qev095201_MSG0004",
+      "style": 1,
+      "name": "리스크가 큰 임무를\n블레이드에게 맡겨야만 하는 상황이야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095201_MSG0005",
+      "style": 1,
+      "name": "흥미가 있다면 설명해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095201_MSG0006",
+      "style": 1,
+      "name": "블레이드 본부에서\n통신 관련 업무에 종사하고 있는데[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095201_MSG0007",
+      "style": 1,
+      "name": "그쪽 일로 리스크가 높은 임무를\n블레이드에게 맡겨야만 하는 상황이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095201_MSG0008",
+      "style": 1,
+      "name": "……위험한 임무이기는 하지만\n내버려둘 수도 없거든[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095201_MSG0009",
+      "style": 1,
+      "name": "야광의 숲 조사가\n제법 진전된 건 알고 있지?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095201_MSG0010",
+      "style": 1,
+      "name": "그 덕분인지 몰라도\n이상한 신호를 수신했어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095201_MSG0011",
+      "style": 1,
+      "name": "노이즈가 심해서 분석하기 어렵지만\n아무래도 양지의 협곡에서\n구조 신호를 발신하고 있는 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev095201_MSG0012",
+      "style": 1,
+      "name": "지구의 신호와 비슷하지만 조금 달라……\n마치 모방해서 만든 것 같은 반응이야[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev095201_JNK0030",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 18,
+      "label": "qev095201_SEL0031",
+      "style": 3,
+      "name": "가 볼 가치는 있다고 말한다"
+    },
+    {
+      "$id": 19,
+      "label": "qev095201_JNK0040",
+      "style": 4,
+      "name": "지적"
+    },
+    {
+      "$id": 20,
+      "label": "qev095201_SEL0041",
+      "style": 3,
+      "name": "함정일 가능성을 지적한다"
+    },
+    {
+      "$id": 21,
+      "label": "qev095201_MSG0013",
+      "style": 1,
+      "name": "확실히 도전해 볼 만한 일이야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095201_MSG0014",
+      "style": 1,
+      "name": "함정일지도 모르지만 어쩌면\n그로우스를 배신한 사람일지도 모르니까[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095201_MSG0015",
+      "style": 1,
+      "name": "유익한 정보를 가졌을 가능성도 있고[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095201_MSG0016",
+      "style": 1,
+      "name": "맞아, 그래서 나도 고민하고 있지[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095201_MSG0016_m",
+      "style": 1,
+      "name": "맞아, 그래서 나도 고민하고 있지[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095201_MSG0016_f",
+      "style": 1,
+      "name": "맞아, 그래서 나도 고민하고 있지[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev095201_MSG0017",
+      "style": 1,
+      "name": "양지의 협곡 근처에서\n행방불명된 블레이드는 없어[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095201_MSG0018",
+      "style": 1,
+      "name": "이 신호를 발신하는 게\n지구인이 아니라는 건 분명해[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev095201_MSG0019",
+      "style": 1,
+      "name": "어때?\n큰 이득이 있을지도 모르지만\n아주 위험한 임무지?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev095201_MSG0020",
+      "style": 1,
+      "name": "이 임무를 맡길 수 있는 건\n우수한 블레이드뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev095201_MSG0021",
+      "style": 1,
+      "name": "이봐, 네가 가 줄 수 있겠어?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev095201_MSG0022",
+      "style": 1,
+      "name": "위험한 임무를 맡아 줘서 고마워[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev095201_MSG0023",
+      "style": 1,
+      "name": "건투를 빌게[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev095201_MSG0024",
+      "style": 1,
+      "name": "양지의 협곡에서 발신된\n구조 신호를 조사하러 가 줘[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev095201_MSG0025",
+      "style": 1,
+      "name": "일단…… 장소를 고려하면\n낮보다는 밤일 때\n접근하기 쉬울지도 모르겠어[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev095201_MSG0026",
+      "style": 1,
+      "name": "아주 잘했어![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev095201_MSG0027",
+      "style": 1,
+      "name": "설마 그로우스에 붙잡혀 있던\n외계인들을 구출할 줄이야![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev095201_MSG0028",
+      "style": 1,
+      "name": "게다가 고도로 발달한 문명을\n가지고 있는 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev095201_MSG0029",
+      "style": 1,
+      "name": "우리는 논리적인 지성체일세\n지구인보다도 월등히 높은 기술력을\n소유하고 있지[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev095201_MSG0030",
+      "style": 1,
+      "name": "그러니 NLA 발전에\n큰 도움이 될 수 있을걸세[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev095201_MSG0031",
+      "style": 1,
+      "name": "모리스 행정장관의 허가도 받았어[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev095201_MSG0032",
+      "style": 1,
+      "name": "조건은 미라 조사 협력과\n그로우스에 대항하기 위한 기술적 지원[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev095201_MSG0033",
+      "style": 1,
+      "name": "그리고 새로운 암즈 컴퍼니를\n설립하는 것이야[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev095201_MSG0034",
+      "style": 1,
+      "name": "우리는 그로우스의 병기 개발에도 협력했었네\n이제 그 기술력을 지구인을 위해 쓰도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev095201_MSG0035",
+      "style": 1,
+      "name": "그 대신 지구인은 우리를 보호해 주시게[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev095201_MSG0036",
+      "style": 1,
+      "name": "상부상조하는 관계군[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev095201_MSG0037",
+      "style": 1,
+      "name": "동맹이란 그런 것이지[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev095201_MSG0038",
+      "style": 1,
+      "name": "아주 리스크가 큰 도박이었지만\n성공해서 다행이야[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev095201_MSG0039",
+      "style": 1,
+      "name": "그렇다\n우리 오르페인도 자네에게 감사를 표하네[ST:wait ]"
+    }
+  ]
+}

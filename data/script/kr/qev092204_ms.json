@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092204_MSG0001",
+      "style": 1,
+      "name": "흑강의 대륙은 원초의 황야에서\n한참 북쪽으로 가면 나오는 것 같지만……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092204_MSG0002",
+      "style": 1,
+      "name": "어중간한 힘으로는 그 사이에 있는\n백목의 대륙을 통과하기 어렵다고 해[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092204_MSG0003",
+      "style": 1,
+      "name": "바다를 헤엄쳐 건너서\n흑강의 대륙 서쪽 해안에 상륙하는\n우회로도 있다고 하니까[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092204_MSG0004",
+      "style": 1,
+      "name": "자신이 없으면 백목의 대륙을 피하는 것도 방법이야\n뭐가 됐든 반드시 히메리와 함께 살아서 돌아와 줘[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092204_MSG0005",
+      "style": 0,
+      "name": "급한 상담? 미안해……\n히메리는 지금 외출 중이라……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092204_MSG0006",
+      "style": 0,
+      "name": "……어머, 돌아왔구나! 어땠어?\n임무는 무사히 달성했니?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092204_MSG0007",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092204_MSG0007_2",
+      "style": 0,
+      "name": "루리리타 씨, 정말 기뻐 보였어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092204_MSG0008",
+      "style": 0,
+      "name": "잘됐네, 그건 그렇고\n또 평소처럼 무급 노동이야?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092204_MSG0009",
+      "style": 0,
+      "name": "네…… 하지만 협력해 주신 분께\n답례하고 싶어서……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092204_MSG0009_m",
+      "style": 0,
+      "name": "네…… 하지만 협력해 주신 분께\n답례하고 싶어서……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092204_MSG0009_f",
+      "style": 0,
+      "name": "네…… 하지만 협력해 주신 분께\n답례하고 싶어서……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092204_MSG0010",
+      "style": 0,
+      "name": "그래그래, 하여튼 언제나 그렇지만\n일을 하고 올 때마다 적자라니까[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092204_MSG0011",
+      "style": 0,
+      "name": "……이건 모두가 히메리를 위해\n기부해 준 물건인데, 가져가[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092204_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 16,
+      "label": "qev092204_SEL0011",
+      "style": 3,
+      "name": "감사히 받는다"
+    },
+    {
+      "$id": 17,
+      "label": "qev092204_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 18,
+      "label": "qev092204_SEL0021",
+      "style": 3,
+      "name": "사양하며 받지 않는다"
+    },
+    {
+      "$id": 19,
+      "label": "qev092204_MSG0012",
+      "style": 0,
+      "name": "그래, 네가 히메리도 아닌데\n무료 봉사 같은 건 하지 마[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092204_MSG0013",
+      "style": 0,
+      "name": "괜찮다니까, 어차피 여기에 놔둬도\n이 애는 하나도 쓰려고 하지 않거든[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092204_MSG0014",
+      "style": 0,
+      "name": "이야기는 이쯤 하고, 자 받아\n이 아이를 도와줘서 고마워![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092204_MSG0015",
+      "style": 0,
+      "name": "저기……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092204_MSG0015_2",
+      "style": 0,
+      "name": "그것만으로는 아직 도와주신 일에\n전부 보답할 수 없다고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092204_MSG0016",
+      "style": 0,
+      "name": "부탁드릴게요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092204_MSG0016_2",
+      "style": 0,
+      "name": "당분간 제가 함께 활동해도 될까요……?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092204_MSG0017",
+      "style": 0,
+      "name": "어머, 히메리가 이렇게 적극적으로\n남에게 부탁하는 건 드문 일인데……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092204_MSG0018",
+      "style": 0,
+      "name": "분명 좋은 경험이 될 거야\n나도 부탁할게[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092204_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 29,
+      "label": "qev092204_SEL0031",
+      "style": 3,
+      "name": "이쪽이야말로 잘 부탁한다고 말한다"
+    },
+    {
+      "$id": 30,
+      "label": "qev092204_JNK0040",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 31,
+      "label": "qev092204_SEL0041",
+      "style": 3,
+      "name": "시민들에게서 받는 의뢰는\n괜찮은 거냐고 묻는다"
+    },
+    {
+      "$id": 32,
+      "label": "qev092204_MSG0019",
+      "style": 0,
+      "name": "감사합니다!\n발목 잡지 않도록 노력할게요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092204_MSG0020",
+      "style": 0,
+      "name": "이럴 때를 위해 조수가 있는 거지\n그쪽 일은 나에게 맡겨 주렴![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092204_MSG0021",
+      "style": 0,
+      "name": "고마워요, 오르넬라 씨……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092204_MSG0022",
+      "style": 0,
+      "name": "……그러면 잘 부탁드립니다[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092204_MSG0023",
+      "style": 0,
+      "name": "함께 NLA 사람들을 행복하게 해 드려요[ST:wait ]"
+    }
+  ]
+}

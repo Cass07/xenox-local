@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090504_MSG0001",
+      "style": 1,
+      "name": "[ST:wide ]―前に　先生が話してたんだ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090504_MSG0002",
+      "style": 1,
+      "name": "あなたのこと[ST:wide ]―\n今まで俺が出会ったどんな軍人にもない\nトクベツなものを持ってる人だって[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090504_MSG0003",
+      "style": 1,
+      "name": "だから先生は　あんたと一緒に\n行動してるんだって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090504_MSG0004",
+      "style": 1,
+      "name": "その話を聞いた時は　ちょっと悔しかったけど\nためらいなく　依頼を受けてくれたのを見て\nその理由が少し分かった気がしました[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090504_MSG0005",
+      "style": 1,
+      "name": "お願いします[ST:wide ]―\n先生と共に夜光の森へ行き\nクラリッサを　連れ帰ってきてください[ST:wait ]"
+    }
+  ]
+}

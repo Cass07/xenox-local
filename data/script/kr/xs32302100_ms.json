@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32302100_MSG0010",
+      "style": 0,
+      "name": "좋아! 됐다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32302100_MSG0020",
+      "style": 0,
+      "name": "끝났어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32302100_MSG0030",
+      "style": 0,
+      "name": "빠르네요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32302100_MSG0040",
+      "style": 0,
+      "name": "역시 엘마 팀 여러분[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32302100_MSG0050",
+      "style": 0,
+      "name": "다음 흑강의 대륙이 마지막이에요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32302100_MSG0060",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32302100_MSG0070",
+      "style": 0,
+      "name": "채취가 끝나면 야광의 숲으로 돌아갈게[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32302100_MSG0080",
+      "style": 0,
+      "name": "네, 저도 끝나면 돌아가겠습니다[ST:wait ]"
+    }
+  ]
+}

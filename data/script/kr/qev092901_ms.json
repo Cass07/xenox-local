@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092901_MSG0010",
+      "style": 0,
+      "name": "……응?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092901_MSG0020",
+      "style": 0,
+      "name": "너는……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092901_JNK0030",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 4,
+      "label": "qev092901_SEL0040",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "qev092901_MSG0050",
+      "style": 0,
+      "name": "……응?\n내가 곤란한 것처럼 보여?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092901_MSG0060",
+      "style": 0,
+      "name": "흐~음, 그렇구나[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092901_MSG0065",
+      "style": 0,
+      "name": "……조금 의외라서 말이야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092901_MSG0070",
+      "style": 0,
+      "name": "그게, 지구인은 외계인과의 교류에\n익숙하지 않다고 들었거든[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092901_MSG0080",
+      "style": 0,
+      "name": "솔직히 말을 거는 사람이\n있으리라고는 생각 못 했어……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092901_MSG0090",
+      "style": 0,
+      "name": "앗, 혹시 불쾌했다면 미안해[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092901_MSG0100",
+      "style": 0,
+      "name": "저기, 너도 블레이드라는\n조직의 일원이지?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092901_MSG0110",
+      "style": 0,
+      "name": "괜찮다면 이야기를 들어 주겠어?\n네가 말한 대로, 조금 곤란하거든……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092901_MSG0120",
+      "style": 0,
+      "name": "고마워, 넌 정말 친절하구나[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092901_MSG0130",
+      "style": 0,
+      "name": "그래서 할 말이 뭐냐면……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092901_MSG0140",
+      "style": 0,
+      "name": "우와~ 다들 쳐다보네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092901_MSG0150",
+      "style": 0,
+      "name": "있잖아, 클루인이 그렇게 특이해?\n개체 형태는 지구인과 큰 차이 없을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092901_MSG0160",
+      "style": 0,
+      "name": "뭐, 아무튼 이대로는\n너도 불편하겠지[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092901_MSG0170",
+      "style": 0,
+      "name": "자리를 옮긴 후에 이야기할까?[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092803_MSG0010",
+      "style": 0,
+      "name": "いない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092803_JNK0020",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 3,
+      "label": "qev092803_SEL0030",
+      "style": 3,
+      "name": "心当たりを聞く"
+    },
+    {
+      "$id": 4,
+      "label": "qev092803_MSG0040",
+      "style": 0,
+      "name": "わからない[ST:wide ]―\nアリシャが外に出ること自体　稀なんだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092803_MSG0050",
+      "style": 0,
+      "name": "[ST:wide ]―こうなったら仕方ない[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092803_JNK0060",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 7,
+      "label": "qev092803_SEL0070",
+      "style": 3,
+      "name": "二手に別れようと提案する"
+    },
+    {
+      "$id": 8,
+      "label": "qev092803_MSG0080",
+      "style": 0,
+      "name": "[ST:wide ]―その必要はない[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092803_MSG0090",
+      "style": 0,
+      "name": "あまりこの手は使いたくなかったが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092803_MSG0100",
+      "style": 0,
+      "name": "アリシャの端末には\n万が一のためにトラッカーが仕込んである[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092803_MSG0110",
+      "style": 0,
+      "name": "おれの仕事には　主任技術者である\n彼女の護衛も含まれているからな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092803_MSG0120",
+      "style": 0,
+      "name": "だが　この速度は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092803_MSG0125",
+      "style": 0,
+      "name": "まさかドールに乗っているのか？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092803_MSG0130",
+      "style": 0,
+      "name": "進行ルートの先には[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092803_MSG0140",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092803_MSG0150",
+      "style": 0,
+      "name": "アリシャの居所がわかった[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092803_MSG0155",
+      "style": 0,
+      "name": "[ST:wide ]―“あの場所”だ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092803_MSG0160",
+      "style": 0,
+      "name": "急ごう\nなんだか[ST:wide ]―　嫌な予感がする[ST:wait ]"
+    }
+  ]
+}

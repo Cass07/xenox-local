@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev027201_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev027201_SEL0011",
+      "style": 3,
+      "name": "임무에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev027201_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev027201_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev027201_SEL0031",
+      "style": 3,
+      "name": "임무에 관해 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev027201_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev027201_SEL1031",
+      "style": 3,
+      "name": "카라반에서의 생활에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev027201_MSG0001",
+      "style": 1,
+      "name": "노폰과의 우호 조약인가 뭔가로\n여기 카라반으로 파견 나오게 됐어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev027201_MSG0002",
+      "style": 1,
+      "name": "처음에는 너무 건조하고\n자꾸 모래도 씹히고 그래서\n임명한 반담 사령관님을 저주했지만[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev027201_MSG0003",
+      "style": 1,
+      "name": "리더인 츠무지……\n입은 험해도 좋은 녀석이야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev027201_MSG0004",
+      "style": 1,
+      "name": "여러 가지 맛있는 음식도 주고\n추울 때는 다 같이 내 주변에 모여서\n따끈따끈하게 해 주고……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev027201_MSG0005",
+      "style": 1,
+      "name": "뭐, 노폰이 귀여우니까 용서가 됐어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev027201_MSG0008",
+      "style": 1,
+      "name": "망각의 계곡은\n성가신 날씨가 잦네[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev027201_MSG0014",
+      "style": 1,
+      "name": "혹서 때는 너무 더우니까!\n나른해져서 접근전으로 싸우기 힘들어지고[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev027201_MSG0015",
+      "style": 1,
+      "name": "모래 폭풍이 일 때는 시야가 안 좋아서\n공격을 맞히기가 어려워져[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev027201_MSG0020",
+      "style": 1,
+      "name": "베테랑 블레이드는\n혹서의 열을 이용해서 히트 속성을 중심으로\n싸우기도 하는 모양인데……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev027201_MSG0021",
+      "style": 1,
+      "name": "나는 그런 건 좀……\n더울 때 뜨거운 공격은 하기 싫어……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev027201_MSG0009",
+      "style": 1,
+      "name": "우호 조약을 위한 파견은\n언제 끝나는 걸까?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev027201_MSG0010",
+      "style": 1,
+      "name": "지금 NLA의 블레이드들은\n그로우스라는 적과의 전투로\n힘든 상황이잖아?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev027201_MSG0011",
+      "style": 1,
+      "name": "……나는 돕지 않아도 되는 걸까?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev027201_MSG0012",
+      "style": 1,
+      "name": "여기서 노폰들에게 둘러싸인 채로……\n편안하게 보고 업무만 해도 괜찮은 거야?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev027201_MSG0013",
+      "style": 1,
+      "name": "[ST:playername ]……\n난 명령으로 여기서 움직일 수 없지만\nNLA를 잘 부탁해[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev027201_MSG0016",
+      "style": 1,
+      "name": "헤나헤나의 병이 나아서 다행이야[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev027201_MSG0017",
+      "style": 1,
+      "name": "이전까지는 코세 콩 한 알을 먹는 데\n일주일은 걸렸는데……\n지금은 3초 만에 한 양동이를 다 먹고……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev027201_MSG0018",
+      "style": 1,
+      "name": "……물론 자꾸자꾸 자꾸자꾸\n옆으로 길어지고 있어……\n괜찮은…… 걸까?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev027201_MSG0019",
+      "style": 1,
+      "name": "뭐, 건강하면 상관없나!\n남자 친구도 찾았고 말이지[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev027201_MSG1001",
+      "style": 1,
+      "name": "임무 수고했어![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev027201_MSG1002",
+      "style": 1,
+      "name": "블레이드 본부로부터\n그로우스를 쓰러뜨렸다는 정보를 들었을 때[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev027201_MSG1003",
+      "style": 1,
+      "name": "츠무지가 잘했다고\n작은 파티를 열어 줬어[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev027201_MSG1004",
+      "style": 1,
+      "name": "그 왜, NLA에서는 많이 한 모양인데\n난 여기서 움직일 수 없었으니까[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev027201_MSG1005",
+      "style": 1,
+      "name": "츠무지……\n입은 험하지만 정말 좋은 녀석이야[ST:wait ]"
+    }
+  ]
+}

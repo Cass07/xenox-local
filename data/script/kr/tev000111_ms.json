@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000111_MSG0010",
+      "style": 1,
+      "name": "센트럴 라이프에서의 사건 이후\n이해할 수 없는 일이 너무나 많다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000111_MSG0020",
+      "style": 1,
+      "name": "이렇게 된 이상, 내 눈으로 직접\n상황을 파악해야겠군……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000111_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 4,
+      "label": "tev000111_SEL0040",
+      "style": 3,
+      "name": "나기를 멤버에 넣는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev000111_MSG0050",
+      "style": 1,
+      "name": "흠, 상황 판단이 빨라서 좋군\n백문이 불여일견이라고들 하지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000111_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000111_SEL0070",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000111_MSG0080",
+      "style": 1,
+      "name": "당분간 현장은 자네에게 맡기지\n……부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000111_MSG0090",
+      "style": 1,
+      "name": "오오, 무사했나[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000111_MSG0100",
+      "style": 1,
+      "name": "나는 큰 문제 없었지만……\n이 상황, 그다지 좋다고는 할 수 없군[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000111_MSG0110",
+      "style": 1,
+      "name": "한시라도 빨리 다른 이들과 합류하여\n부대를 재편성해야 한다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000111_MSG0120",
+      "style": 1,
+      "name": "들은 바와 같이\n이번 작전의 총지휘는\n반담에게 맡기겠다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000111_MSG0130",
+      "style": 1,
+      "name": "나 또한 이번 작전에 출격한다\n지금 이 상황에 전력을 아끼는 것은\n무의미할 테니 말이다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000111_MSG0140",
+      "style": 1,
+      "name": "지금 나는 일개 블레이드 대원인 나기다\n그래…… 나기 선배라고 불러 다오[ST:wait ]"
+    }
+  ]
+}

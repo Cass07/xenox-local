@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06080100_MSG0001",
+      "style": 0,
+      "name": "방사성 물질은 검출되지 않고\n적외선, 진동 반응도 없음[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06080100_MSG0002",
+      "style": 0,
+      "name": "완전히 침묵 상태군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs06080100_MSG0003",
+      "style": 0,
+      "name": "대단해요, 대단해!\n이거 돌이죠!?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06080100_MSG0004",
+      "style": 0,
+      "name": "지구의 돌과도 그로우스의 돌과도 달라요\n어디서 만들어진 걸까?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06080100_MSG0005",
+      "style": 0,
+      "name": "아아, 장갑 재질도 뭔지 모르겠어![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs06080100_MSG0006",
+      "style": 0,
+      "name": "이 위압감은 뭐지?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs06080100_MSG0007",
+      "style": 0,
+      "name": "이 기체에서 발산되고 있는 무언가가\n그렇게 느끼게 하는 걸까[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs06080100_MSG0008",
+      "style": 0,
+      "name": "무언가…… 그래, 이 기체에는\n탑승했던 자의 기운이 남아 있어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06080100_MSG0009",
+      "style": 0,
+      "name": "게다가 이 기체의 코어를\n구성하고 있는 마테리얼[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs06080100_MSG0010",
+      "style": 0,
+      "name": "이건 다크 매터……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs06080100_MSG0011",
+      "style": 0,
+      "name": "이런 걸 만들 수 있는 건……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs06080100_JNK0010",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 13,
+      "label": "xs06080100_SEL0011",
+      "style": 3,
+      "name": "이 돌이 무엇인지 묻는다"
+    },
+    {
+      "$id": 14,
+      "label": "xs06080100_JNK0020",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 15,
+      "label": "xs06080100_SEL0021",
+      "style": 3,
+      "name": "생각에 빠져 있는 엘마를 부른다"
+    },
+    {
+      "$id": 16,
+      "label": "xs06080100_MSG0012",
+      "style": 0,
+      "name": "응? 아니, 모르겠어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs06080100_MSG0013",
+      "style": 0,
+      "name": "응? 미안\n조금 생각을 하느라[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs06080100_MSG0014",
+      "style": 0,
+      "name": "자, 그럼 이걸로 목표물은 확보했네\n회수 헬기가 오면 임무 완료야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs06080100_MSG0015",
+      "style": 0,
+      "name": "린, 반담에게 연락 부탁해[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs06080100_MSG0016",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    }
+  ]
+}

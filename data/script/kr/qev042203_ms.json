@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev042203_MSG0001",
+      "style": 1,
+      "name": "어머나~\n지고 말았네모오~[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev042203_MSG0002",
+      "style": 1,
+      "name": "[ST:playername ]\n진짜 엄청나게 강해모오~[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev042203_MSG0003",
+      "style": 1,
+      "name": "나포폰, 강한 사람은 좋아하지만\n그래도 진 건 분하네모오~[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev042203_JNK0010",
+      "style": 4,
+      "name": "위로한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev042203_SEL0011",
+      "style": 3,
+      "name": "즐거운 싸움이었다며 위로한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev042203_JNK0020",
+      "style": 4,
+      "name": "부정한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev042203_SEL0021",
+      "style": 3,
+      "name": "전혀 즐겁지 않았다고 말한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev042203_MSG0004",
+      "style": 1,
+      "name": "아아앗!\n[ST:playername ]에게\n반해 버릴 것만 같아모오![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev042203_MSG0005",
+      "style": 1,
+      "name": "……하지만 금단의 사랑이야모오……\n나포폰의 마음 깊은 곳에\n추억으로만 남겨 둘게모오……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev042203_MSG0006",
+      "style": 1,
+      "name": "으아앙! 나포폰이\n[ST:playername ][KR:Particle char=wo ]\n힘들게 하고 말았어모오~[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev042203_MSG0007",
+      "style": 1,
+      "name": "나포폰, 그럴 생각은 전혀 없었는데모오~[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev042203_MSG0008",
+      "style": 1,
+      "name": "[ST:playername ][KR:Particle char=ga ]\n즐거워해 주길 바랐을 뿐이야모오……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev042203_MSG0009",
+      "style": 1,
+      "name": "몬가라~ 헨가라~\n훙가라몬가라, 모모모모모~[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev042203_MSG0010",
+      "style": 1,
+      "name": "[ST:playername ][KR:Particle char=ga ]\n가지고 온 노폰의 원석에\n세례를 해 주었어모오~[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev042203_MSG0011",
+      "style": 1,
+      "name": "이걸로 한 발짝, 노폰의 기원에\n다가설 수 있을 거야모오~[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev042203_MSG0012",
+      "style": 1,
+      "name": "그러면 안녕이야모오~[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev042203_MSG0013",
+      "style": 1,
+      "name": "아, 소극적인 노포폰한테\n얼른 여자 친구라도 사귀라고 말해 줘모오~[ST:wait ]"
+    }
+  ]
+}

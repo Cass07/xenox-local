@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31095100_MSG0010",
+      "style": 0,
+      "name": "역시 위터였어![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31095100_MSG0020",
+      "style": 0,
+      "name": "하지만 대체 누가 조종을?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31095100_MSG0030",
+      "style": 0,
+      "name": "지, 지금 그건 뭔가요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31095100_MSG0040",
+      "style": 0,
+      "name": "어떻게 알겠어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs31095100_MSG0050",
+      "style": 0,
+      "name": "왠지 안 좋은 예감이 드는걸[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs31095100_MSG0060",
+      "style": 0,
+      "name": "코어를 빼냈어……?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs31095100_MSG0070",
+      "style": 0,
+      "name": "올 거야[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091703_MSG0001",
+      "style": 0,
+      "name": "さあ　異星人の賞金首のこと\n詳しく聞かせてもらおうかしら[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091703_MSG0002",
+      "style": 0,
+      "name": "さすがマードレスさん　耳が早いですね\nでも殺害は任務内容には入ってませんよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091703_MSG0003",
+      "style": 0,
+      "name": "そうなの？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091703_MSG0004",
+      "style": 0,
+      "name": "今回の任務は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091703_MSG0005",
+      "style": 0,
+      "name": "オルフェ人のマッドサイエンティスト\nランクロドを捕えることです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091703_MSG0006",
+      "style": 0,
+      "name": "以前　水源管理施設のガードロボが悉く\nハッキングされ　暴走した事件があったんです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091703_MSG0007",
+      "style": 0,
+      "name": "その首謀者をヤれってことね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091703_MSG0008",
+      "style": 0,
+      "name": "捕まえる　です[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091703_MSG0009",
+      "style": 0,
+      "name": "殺す方が手っ取り早いじゃないの[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091703_MSG0010",
+      "style": 0,
+      "name": "オルフェ人の方々はランクロドとの\n和解を望んでまして[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091703_MSG0011",
+      "style": 0,
+      "name": "それをないがしろにはできないんです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091703_MSG0012",
+      "style": 0,
+      "name": "友好条約も面倒ね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091703_MSG0013",
+      "style": 0,
+      "name": "いくらマードレス[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091703_MSG0014",
+      "style": 0,
+      "name": "殺人者って通り名であっても\n条約は守るようにしてくださいね！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091703_MSG0015",
+      "style": 0,
+      "name": "はいはい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091703_MSG0016",
+      "style": 0,
+      "name": "あとこれは余力があればでいいのですが[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091703_MSG0017",
+      "style": 0,
+      "name": "ランクロドの研究データも持ってきて\nくださったら　別途報酬を支払います[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091703_MSG0018",
+      "style": 0,
+      "name": "すばらしいじゃない\n必ずどちらもクリアしてみせるわ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091703_MSG0019",
+      "style": 0,
+      "name": "それで[ST:wide ]―　ランクロドの居場所は？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091703_MSG0020",
+      "style": 0,
+      "name": "わかりません[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091703_MSG0021",
+      "style": 0,
+      "name": "もしかして居場所を調べるところからやるの？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091703_MSG0022",
+      "style": 0,
+      "name": "もちろんです　だからこそ\n４０万Ｇもの大金が課せられてるのですよ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091703_MSG0023",
+      "style": 0,
+      "name": "４０万Ｇか[ST:wide ]―　研究データを持ってくると？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091703_MSG0024",
+      "style": 0,
+      "name": "合計で６０万Ｇになります[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091703_MSG0025",
+      "style": 0,
+      "name": "やるしかないわね[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091703_MSG0026",
+      "style": 0,
+      "name": "オルフェ人は\nどこかのグロウスの拠点にいるはずよね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091703_MSG0027",
+      "style": 0,
+      "name": "片っ端からあたって情報を集めましょう[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091703_MSG0028",
+      "style": 0,
+      "name": "通信の記録や行動のログが\n残ってるかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091703_MSG0029",
+      "style": 0,
+      "name": "それを集めれば\n現在の居場所が特定できるはず[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091703_MSG0030",
+      "style": 0,
+      "name": "俄然　目が輝いてきましたね[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091703_MSG0031",
+      "style": 0,
+      "name": "大変そうですけど　がんばってください\nお気を付けて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091703_MSG0032",
+      "style": 0,
+      "name": "お帰りなさい　首尾はどうでしたか？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091703_MSG0033",
+      "style": 0,
+      "name": "完璧よ　本部に研究データと死体になりかけの\n虫ケラが届いた頃じゃないかしら[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091703_MSG0034",
+      "style": 0,
+      "name": "死体になりかけ！？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091703_MSG0035",
+      "style": 0,
+      "name": "クライアントは納得しないかもしれないけど[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091703_MSG0036",
+      "style": 0,
+      "name": "約束通り連れてきたんだから\n報酬は出るでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091703_MSG0037",
+      "style": 0,
+      "name": "それは出ると思いますけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091703_MSG0038",
+      "style": 0,
+      "name": "出なかったら　あなたも半殺しにするわよ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091703_MSG0039",
+      "style": 0,
+      "name": "ひぇっ！？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091703_MSG0040",
+      "style": 0,
+      "name": "ど　どうして今日は\nそんな物騒なこと言うんですか？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091703_JNK0010",
+      "style": 4,
+      "name": "からかう"
+    },
+    {
+      "$id": 42,
+      "label": "qev091703_SEL0011",
+      "style": 3,
+      "name": "大金がもらえるので上機嫌だから"
+    },
+    {
+      "$id": 43,
+      "label": "qev091703_JNK0020",
+      "style": 4,
+      "name": "真面目に説明する"
+    },
+    {
+      "$id": 44,
+      "label": "qev091703_SEL0021",
+      "style": 3,
+      "name": "オルフェの長話に腹を立てたから"
+    },
+    {
+      "$id": 45,
+      "label": "qev091703_MSG0041",
+      "style": 0,
+      "name": "なるほど　それでいつになく\n浮かれている感じなんですね[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091703_MSG0042",
+      "style": 0,
+      "name": "私なんか固定給だから\nそんな大金一度にもらったことないですよ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091703_MSG0043",
+      "style": 0,
+      "name": "なるほど　わかります\n私も長話は苦手なんです[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091703_MSG0044",
+      "style": 0,
+      "name": "特に行政長官の演説は\n途中で眠くなってしまいますよね[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091703_MSG0045",
+      "style": 0,
+      "name": "あなたの話はどうでもいいけど\n報酬の支払いをお願い[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091703_MSG0046",
+      "style": 0,
+      "name": "はい　ちょうど今　許可が下りました\nこれが今回の報酬です[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091703_MSG0047",
+      "style": 0,
+      "name": "マードレスさんは報酬をもらう瞬間が\n一番幸せそうな顔をしますよね[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091703_MSG0048",
+      "style": 0,
+      "name": "バカじゃないの　そんなところに\n楽しみを見つけないでほしいんだけれど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091703_MSG0049",
+      "style": 0,
+      "name": "でも夢が近づくのだから　当然のことでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091703_JNK0030",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 55,
+      "label": "qev091703_SEL0031",
+      "style": 3,
+      "name": "マードレスの夢について興味を持つ"
+    },
+    {
+      "$id": 56,
+      "label": "qev091703_JNK0040",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 57,
+      "label": "qev091703_SEL0041",
+      "style": 3,
+      "name": "報酬と夢がどう関係するのか疑問に思う"
+    },
+    {
+      "$id": 58,
+      "label": "qev091703_MSG0050",
+      "style": 0,
+      "name": "あなたには話してなかったかしら？[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091703_MSG0051",
+      "style": 0,
+      "name": "虫ケラを捕えた時に言ったと思うけど　私は\n大富豪の娘で不自由のない暮らしをしていたの[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091703_MSG0052",
+      "style": 0,
+      "name": "エフィンジャー家の長女であり\n唯一の跡取りだった[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091703_MSG0053",
+      "style": 0,
+      "name": "でも　とある事件が起きて　私はスラムで\n孤児同然の暮らしを強いられた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091703_MSG0054",
+      "style": 0,
+      "name": "とんだ没落人生よね[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091703_MSG0055",
+      "style": 0,
+      "name": "だけど　私は諦めなかった[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev091703_MSG0056",
+      "style": 0,
+      "name": "お金を稼ぎまくってもう一度\nエフィンジャー家を再興したいと思ったの[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev091703_MSG0057",
+      "style": 0,
+      "name": "それが私の夢の一つね[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev091703_MSG0058",
+      "style": 0,
+      "name": "そうなんですか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev091703_MSG0059",
+      "style": 0,
+      "name": "お金を呆れるくらいに貯めて\nエフィンジャー家を再興するのが[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev091703_MSG0060",
+      "style": 0,
+      "name": "私の夢の一つだからよ[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev091703_MSG0061",
+      "style": 0,
+      "name": "エフィンジャー家って？[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev091703_MSG0062",
+      "style": 0,
+      "name": "私の生まれ育った家[ST:wide ]―\nそれなりに大富豪だったの[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev091703_MSG0063",
+      "style": 0,
+      "name": "でも　とある事件が起きて\n一気に崩壊してしまった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev091703_MSG0064",
+      "style": 0,
+      "name": "それから私はスラムで育ったの[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev091703_MSG0065",
+      "style": 0,
+      "name": "そうなんですか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev091703_MSG0066",
+      "style": 0,
+      "name": "別に暗い顔をする必要はないわ\n大金が入ったんだし　明るくしてほしいわね[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev091703_MSG0067",
+      "style": 0,
+      "name": "そうですね！[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev091703_MSG0068",
+      "style": 0,
+      "name": "では　せっかくなので\n大金持ちのマードレスさんに[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev091703_MSG0069",
+      "style": 0,
+      "name": "カフェで食事をおごっていただきたいです[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev091703_MSG0070",
+      "style": 0,
+      "name": "いやよ　断る　おごりたくない[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev091703_MSG0071",
+      "style": 0,
+      "name": "ええっ？[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev091703_MSG0071_2",
+      "style": 0,
+      "name": "大富豪の娘なら懐の深さを見せてほしいです[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev091703_MSG0072",
+      "style": 0,
+      "name": "さあ　こんな小娘放っておいて\n次の任務に行きましょ[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev091703_MSG0073",
+      "style": 0,
+      "name": "１日でも早く夢を叶えるためにね[ST:wait ]"
+    }
+  ]
+}

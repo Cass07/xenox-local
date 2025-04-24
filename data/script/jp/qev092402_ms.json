@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092402_MSG0001",
+      "style": 1,
+      "name": "例のアレの件だけどさ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092402_MSG0002",
+      "style": 1,
+      "name": "あたしの方でも　あの子に世話になった連中に\n声をかけて動いてみるからさ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092402_MSG0003",
+      "style": 1,
+      "name": "あんたも街を駆け回って色々と\n情報を集めて来てちょうだいよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092402_MSG0004",
+      "style": 1,
+      "name": "頼んだわよ\n何かわかったら　ここに戻ってきてね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092402_MSG0005",
+      "style": 0,
+      "name": "どうだった？\n例のアレについての情報は　何かわかった？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092402_MSG0006",
+      "style": 0,
+      "name": "[ST:wide ]―へぇ　いまだ未発見の書籍関連の\nデータが収められた白鯨の残骸[ST:wide ]―　か[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092402_MSG0007",
+      "style": 0,
+      "name": "うん　有用な情報ありがと！\nなんだかそこにありそうな気がするよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092402_MSG0008",
+      "style": 0,
+      "name": "それじゃ　その情報を足掛かりに\nクエンティンに調べてもらうわ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092402_MSG0009",
+      "style": 0,
+      "name": "アイツ　グチっぽい奴だけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092402_MSG0010",
+      "style": 0,
+      "name": "フロンティアネットがらみの技術に関しちゃ\nすっごい有能みたいだから[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092402_MSG0011",
+      "style": 0,
+      "name": "きっと　すぐに見つかるはず！\nしばらくしたら話を聞きに行ってみてよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092402_MSG0012",
+      "style": 0,
+      "name": "[ST:wide ]―例のアレとは　なんですか？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092402_MSG0013",
+      "style": 0,
+      "name": "今回の任務で　一体なにを探しているのか\nなにも教えてくれないんですよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092402_MSG0014",
+      "style": 0,
+      "name": "ええっと[ST:wide ]―　いや！\n例のアレって言ったら　例のアレよ！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092402_MSG0015",
+      "style": 0,
+      "name": "ほら　ねぇ？\nアレについては[ST:wide ]―　アレよねぇ？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092402_JNK0010",
+      "style": 4,
+      "name": "嘘をつく"
+    },
+    {
+      "$id": 17,
+      "label": "qev092402_SEL0011",
+      "style": 3,
+      "name": "極秘の研究素材だと\n適当なことを言う"
+    },
+    {
+      "$id": 18,
+      "label": "qev092402_JNK0020",
+      "style": 4,
+      "name": "ごまかす"
+    },
+    {
+      "$id": 19,
+      "label": "qev092402_SEL0021",
+      "style": 3,
+      "name": "曖昧に言葉を濁して\nこの場をやりすごす"
+    },
+    {
+      "$id": 20,
+      "label": "qev092402_MSG0016",
+      "style": 0,
+      "name": "チームの人間にすら言えない程\n重要なもの[ST:wide ]―　ですか[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092402_MSG0017",
+      "style": 0,
+      "name": "私　気持ちを引き締め直して\nこの任務に当たりたいと思います[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092402_MSG0018",
+      "style": 0,
+      "name": "科学技術の発展のため\n頑張って見つけだしましょう[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092402_MSG0019",
+      "style": 0,
+      "name": "どうしたんですか？\nそんなにも言いづらいものなんでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092402_MSG0020",
+      "style": 0,
+      "name": "[ST:wide ]―ならばなにも聞きません\n黙って　付いていきます[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092402_MSG0021",
+      "style": 0,
+      "name": "きっと　そうすることが最善だと[ST:wide ]―\nあなたのこと　信じていますから[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092402_MSG0022",
+      "style": 0,
+      "name": "[ST:wide ]―うん　それじゃ頑張って！\nこっちでも色々と聞いて回ってるから[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092402_MSG0023",
+      "style": 0,
+      "name": "一段落したら戻ってきて[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092402_MSG0024",
+      "style": 1,
+      "name": "例のアレをちゃんとプレゼントしたら\n一度　戻ってきてちょうだいね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092402_MSG0025",
+      "style": 1,
+      "name": "あの子がちゃんと元気になったか\n顔を見て確認しないと　安心できないからさ[ST:wait ]"
+    }
+  ]
+}

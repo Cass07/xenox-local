@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33180100_MSG0010",
+      "style": 0,
+      "name": "気が付いたのね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33180100_MSG0020",
+      "style": 0,
+      "name": "見たところ怪我はないようだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33180100_MSG0030",
+      "style": 0,
+      "name": "大丈夫？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33180100_MSG0040",
+      "style": 0,
+      "name": "よかった\nお互い無事だったのが不幸中の幸いね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33180100_MSG0050",
+      "style": 0,
+      "name": "とはいえ[ST:wide ]―\n状況はあまり芳しくないわ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33180100_MSG0060",
+      "style": 0,
+      "name": "見て[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33180100_MSG0070",
+      "style": 0,
+      "name": "どうやら私達は　ヴォイドによって\nここまで飛ばされたようね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33180100_MSG0080",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "xs33180100_MSG0090",
+      "style": 0,
+      "name": "あの時　あなたも見たでしょうけど[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33180100_MSG0100",
+      "style": 0,
+      "name": "アルはアレスと一緒に\nヴォイドに取り込まれてしまった[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33180100_MSG0101",
+      "style": 0,
+      "name": "仲間ともはぐれ\nドールはいずこかへと墜落[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33180100_MSG0102",
+      "style": 0,
+      "name": "まさに八方塞がりといったところね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33180100_JNK0103",
+      "style": 4,
+      "name": "希望"
+    },
+    {
+      "$id": 14,
+      "label": "xs33180100_SEL0104",
+      "style": 3,
+      "name": "まずは仲間と合流しようと提案する"
+    },
+    {
+      "$id": 15,
+      "label": "xs33180100_MSG0105",
+      "style": 0,
+      "name": "そうね　あなたの言う通りだわ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33180100_JNK0106",
+      "style": 4,
+      "name": "絶望"
+    },
+    {
+      "$id": 17,
+      "label": "xs33180100_SEL0107",
+      "style": 3,
+      "name": "終わりだ[ST:wide ]―とうつむく"
+    },
+    {
+      "$id": 18,
+      "label": "xs33180100_MSG0108",
+      "style": 0,
+      "name": "落ち着いて[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33180100_MSG0109",
+      "style": 0,
+      "name": "諦めるにはまだ早いわ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33180100_MSG0110",
+      "style": 0,
+      "name": "ヴォイドといえど[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33180100_MSG0120",
+      "style": 0,
+      "name": "全てのコアを起動するには[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33180100_MSG0125",
+      "style": 0,
+      "name": "相応の時間が必要のはず[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33180100_MSG0130",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "xs33180100_MSG0140",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "xs33180100_MSG0150",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "xs33180100_MSG0160",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "xs33180100_MSG0170",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "xs33180100_MSG0180",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "xs33180100_MSG0190",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "xs33180100_MSG0200",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "xs33180100_MSG0210",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "xs33180100_MSG0220",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "xs33180100_MSG0230",
+      "style": 0,
+      "name": "まずは周囲を捜索して部隊と合流しましょう[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs33180100_MSG0240",
+      "style": 0,
+      "name": "救難用のビーコンから位置情報を辿れば\nきっと見つけられるわ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs33180100_MSG0250",
+      "style": 0,
+      "name": "私達のドールも\nおそらくどこかに不時着しているはずよ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs33180100_MSG0260",
+      "style": 0,
+      "name": "捜索の移動手段として\nできるだけ早く回収したいところね[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs33180100_MSG0270",
+      "style": 0,
+      "name": "いずれにせよ\n焦らず　ひとつずつ対処していきましょう[ST:wait ]"
+    }
+  ]
+}

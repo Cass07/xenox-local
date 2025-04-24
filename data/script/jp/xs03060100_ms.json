@@ -1,0 +1,726 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03060100_MSG0001",
+      "style": 0,
+      "name": "なんで　あんなに私達地球人を\n憎んでたんでしょう[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs03060100_MSG0002",
+      "style": 0,
+      "name": "分からないわ[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs03060100_MSG0003",
+      "style": 0,
+      "name": "ただ　敵性異星人の出現は\n今の私達にとって脅威よ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs03060100_MSG0004",
+      "style": 0,
+      "name": "一刻も早くこの情報を\nＮＬＡに持ち帰りましょう[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs03060100_MSG0005",
+      "style": 0,
+      "name": "そうですね\nせっかく安住出来そうな星だと思ってたのに[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs03060100_MSG0006",
+      "style": 0,
+      "name": "待ってほしいんですも！\n行かないでほしいんですも～～ッ！[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs03060100_MSG0007",
+      "style": 0,
+      "name": "こ　ここから出してほしいんですも～～ッ！！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs03060100_MSG0008",
+      "style": 0,
+      "name": "まだ異星人が！？\nど　どうしましょうか！？[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs03060100_MSG0009",
+      "style": 0,
+      "name": "注意して　リン！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs03060100_MSG0010",
+      "style": 0,
+      "name": "あなたの考えを聞かせて？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs03060100_JNK0010",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 12,
+      "label": "xs03060100_SEL0011",
+      "style": 3,
+      "name": "思い切ってコンテナを開ける"
+    },
+    {
+      "$id": 13,
+      "label": "xs03060100_JNK0020",
+      "style": 4,
+      "name": "慎重"
+    },
+    {
+      "$id": 14,
+      "label": "xs03060100_SEL0021",
+      "style": 3,
+      "name": "コンテナには触れないでおく"
+    },
+    {
+      "$id": 15,
+      "label": "xs03060100_MSG0011",
+      "style": 0,
+      "name": "やっと出られたですも！\nありがとうですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs03060100_MSG0012",
+      "style": 0,
+      "name": "そうね　やっぱりやめておきましょう[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs03060100_MSG0013",
+      "style": 0,
+      "name": "ですね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs03060100_MSG0014",
+      "style": 0,
+      "name": "ももも～！！\nちょ　ちょ　ちょっと待つですも！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs03060100_MSG0015",
+      "style": 0,
+      "name": "困っている人は助けないといけないって\nカーチャンがいってたですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 20,
+      "label": "xs03060100_JNK0030",
+      "style": 4,
+      "name": "赦す"
+    },
+    {
+      "$id": 21,
+      "label": "xs03060100_SEL0031",
+      "style": 3,
+      "name": "苦笑しつつコンテナを開ける"
+    },
+    {
+      "$id": 22,
+      "label": "xs03060100_JNK0040",
+      "style": 4,
+      "name": "遊ぶ"
+    },
+    {
+      "$id": 23,
+      "label": "xs03060100_SEL0041",
+      "style": 3,
+      "name": "ニヤニヤしながら眺める"
+    },
+    {
+      "$id": 24,
+      "label": "xs03060100_MSG0016",
+      "style": 0,
+      "name": "遅いですも！\nタツ窒息するところだったですも！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs03060100_MSG0017",
+      "style": 0,
+      "name": "死んでしまうですも～！\n窒息ですも～！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs03060100_MSG0018",
+      "style": 0,
+      "name": "あれっ？　もももっ　でられたですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "xs03060100_MSG0019",
+      "style": 0,
+      "name": "どうやらこの星の食材は動くようね[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs03060100_MSG0020",
+      "style": 0,
+      "name": "そうですね\n[ST:wide ]―ていうか　しゃべってますね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs03060100_MSG0021",
+      "style": 0,
+      "name": "やっぱり地球の食材とはひと味違いますね\n料理好きの腕がなります！[ST:wait ]\n"
+    },
+    {
+      "$id": 30,
+      "label": "xs03060100_MSG0021_m",
+      "style": 0,
+      "name": "I know what we're having for dinner tonight!\nYou don't know it yet, New Guy,\nbut I'm a pretty mean cook.[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "xs03060100_MSG0021_f",
+      "style": 0,
+      "name": "I know what we're having for dinner tonight!\nYou don't know it yet, New Girl,\nbut I'm a pretty mean cook.[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "xs03060100_MSG0022",
+      "style": 0,
+      "name": "食材じゃないですも！\nウデならさないで欲しいですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs03060100_MSG0023",
+      "style": 0,
+      "name": "いや　あいつらは食べるつもりだったけど\nタツは決して食べものじゃないですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs03060100_MSG0024",
+      "style": 0,
+      "name": "バイアス人のやつら　このミラにきてから\nノポンをいっぱいいじめたですも[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs03060100_MSG0025",
+      "style": 0,
+      "name": "タツもいっぱいいじめられたですも\nこのままだとノポンは滅んでしまいますも[ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "xs03060100_MSG0026",
+      "style": 0,
+      "name": "絶滅危惧種ですも！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs03060100_MSG0027",
+      "style": 0,
+      "name": "みなさんはノポン人であるこのタツを\n保護する義務があるですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 38,
+      "label": "xs03060100_MSG0028",
+      "style": 0,
+      "name": "食材のクセにずいぶんと上から目線ね[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs03060100_MSG0029",
+      "style": 0,
+      "name": "ちょっと待って[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs03060100_MSG0030",
+      "style": 0,
+      "name": "あなたを捕まえていたあの種族\nバイアス人だったかしら？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs03060100_MSG0031",
+      "style": 0,
+      "name": "そうですも[ST:wait ]\n"
+    },
+    {
+      "$id": 42,
+      "label": "xs03060100_MSG0032",
+      "style": 0,
+      "name": "このミラに来てからと言ってたわね\n彼らはミラの先住者ではないということ？[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs03060100_MSG0033",
+      "style": 0,
+      "name": "そうですも[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "xs03060100_MSG0034",
+      "style": 0,
+      "name": "詳しく教えてほしかったら\nタツを助けるんですも[ST:wait ]\n"
+    },
+    {
+      "$id": 45,
+      "label": "xs03060100_MSG0035",
+      "style": 0,
+      "name": "情報安く売ってやるんですも[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "xs03060100_MSG0036",
+      "style": 0,
+      "name": "エルマさん　食べちゃいましょうか？[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs03060100_MSG0037",
+      "style": 0,
+      "name": "ウソですも！\nいらないですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "xs03060100_MSG0038",
+      "style": 0,
+      "name": "や　やっぱりタダで教えるから\n助けてくださいですも～～！[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs03060100_MSG0039",
+      "style": 0,
+      "name": "概ね理解できたわ[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs03060100_MSG0040",
+      "style": 0,
+      "name": "つまりあなた達ノポン人は\nこのミラにずっと住んでいた種族で[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs03060100_MSG0041",
+      "style": 0,
+      "name": "最近現れたバイアス人に\n脅かされているというわけね[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs03060100_MSG0042",
+      "style": 0,
+      "name": "そうなんですも[ST:wait ]\n"
+    },
+    {
+      "$id": 53,
+      "label": "xs03060100_MSG0043",
+      "style": 0,
+      "name": "バイアス人には仲間がたくさんいて\n悪さばっかりしてるですも[ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "xs03060100_MSG0044",
+      "style": 0,
+      "name": "仲間って[ST:wide ]―\n他の異星人もいるってこと？[ST:wait ]\n"
+    },
+    {
+      "$id": 55,
+      "label": "xs03060100_MSG0045",
+      "style": 0,
+      "name": "そうなんですも[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs03060100_MSG0046",
+      "style": 0,
+      "name": "そいつらみんなで寄ってたかって\nタツの仲間のノポンにひどいことしたですも[ST:wait ]\n"
+    },
+    {
+      "$id": 57,
+      "label": "xs03060100_MSG0047",
+      "style": 0,
+      "name": "悔しいから　タツもあいつらを\n食べてやりたいですも[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs03060100_JNK0050",
+      "style": 4,
+      "name": "同情"
+    },
+    {
+      "$id": 59,
+      "label": "xs03060100_SEL0051",
+      "style": 3,
+      "name": "タツの背中をそっと撫でる"
+    },
+    {
+      "$id": 60,
+      "label": "xs03060100_JNK0060",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 61,
+      "label": "xs03060100_SEL0061",
+      "style": 3,
+      "name": "タツがどんな味かを想像する"
+    },
+    {
+      "$id": 62,
+      "label": "xs03060100_MSG0048",
+      "style": 0,
+      "name": "君　タツをなぐさめてくれるですも？\nいいやつですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 63,
+      "label": "xs03060100_MSG0049",
+      "style": 0,
+      "name": "タツ　気に入ったですも！\n君たちの村についていってあげるですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 64,
+      "label": "xs03060100_MSG0050",
+      "style": 0,
+      "name": "君　バイアス人と同じ目をしていますも\nタツを食べる気ですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 65,
+      "label": "xs03060100_MSG0051",
+      "style": 0,
+      "name": "タツ美味しいですけど　やめるですも！[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs03060100_MSG0052",
+      "style": 0,
+      "name": "そうですよ\nこんな調理器具一つない場所で食べるだなんて[ST:wait ]\n"
+    },
+    {
+      "$id": 67,
+      "label": "xs03060100_MSG0053",
+      "style": 0,
+      "name": "食材には　その食材に合った\n調理法っていうものがあるんですから[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs03060100_MSG0054",
+      "style": 0,
+      "name": "そうですも！\n君は料理というものを全然わかってないですも[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs03060100_MSG0055",
+      "style": 0,
+      "name": "だから　タツが君たちの村についていって\n教えてあげるですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 70,
+      "label": "xs03060100_MSG0056",
+      "style": 0,
+      "name": "[ST:wide ]―って　ア　アレ？[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs03060100_MSG0057",
+      "style": 0,
+      "name": "[ST:wide ]―だそうですけど　どうしますか？[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs03060100_MSG0058",
+      "style": 0,
+      "name": "彼一人くらいでＮＬＡに害は\nなせないでしょうし　情報も欲しいところね[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs03060100_MSG0059",
+      "style": 0,
+      "name": "いいわ[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs03060100_MSG0060",
+      "style": 0,
+      "name": "ヴァンダムへ今回の件を\n報告しなければならないし[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs03060100_MSG0061",
+      "style": 0,
+      "name": "防疫キットで問題なければ\nＮＬＡにつれていきましょう[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs03060100_MSG0062",
+      "style": 0,
+      "name": "さっそく検査してみますね[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs03060100_MSG0063",
+      "style": 0,
+      "name": "問題なしです！[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs03060100_MSG0064",
+      "style": 0,
+      "name": "タツ　一緒にいけるんですも？[ST:wait ]\n"
+    },
+    {
+      "$id": 79,
+      "label": "xs03060100_MSG0065",
+      "style": 0,
+      "name": "やったですも！\n君たち　よい異星人ですも[ST:wait ]\n"
+    },
+    {
+      "$id": 80,
+      "label": "xs03060100_MSG0065_m",
+      "style": 0,
+      "name": "やったですも！\n君たち　よい異星人ですも[ST:wait ]\n"
+    },
+    {
+      "$id": 81,
+      "label": "xs03060100_MSG0065_f",
+      "style": 0,
+      "name": "やったですも！\n君たち　よい異星人ですも[ST:wait ]\n"
+    },
+    {
+      "$id": 82,
+      "label": "xs03060100_MSG0066",
+      "style": 0,
+      "name": "そうだ！[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs03060100_MSG0067",
+      "style": 0,
+      "name": "お礼にいいものを\nトクベツに！タダで！[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs03060100_MSG0068",
+      "style": 0,
+      "name": "みなさんに貸してあげるですも！[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs03060100_MSG0069",
+      "style": 0,
+      "name": "えーー　お礼なのにくれないの？[ST:wait ]\n"
+    },
+    {
+      "$id": 86,
+      "label": "xs03060100_MSG0070",
+      "style": 0,
+      "name": "なっ　なっ　なっ[ST:wide ]―\nなに恐ろしいこといってるですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 87,
+      "label": "xs03060100_MSG0071",
+      "style": 0,
+      "name": "あげるだなんてそんなお金にもならないこと[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "xs03060100_MSG0072",
+      "style": 0,
+      "name": "コーエキショーニンのノポンの誇りが\n赦さないですも[ST:wait ]\n"
+    },
+    {
+      "$id": 89,
+      "label": "xs03060100_MSG0073",
+      "style": 0,
+      "name": "ノポンは誇り高き種族なんですも！[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "xs03060100_MSG0074",
+      "style": 0,
+      "name": "誇り高きって　要するに\nただ守銭奴なだけでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "xs03060100_MSG0075",
+      "style": 0,
+      "name": "聞いてないし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "xs03060100_MSG0076",
+      "style": 0,
+      "name": "みなさんひょっとして\n道に迷いまくりなんじゃないですも？[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "xs03060100_MSG0076_m",
+      "style": 0,
+      "name": "みなさんひょっとして\n道に迷いまくりなんじゃないですも？[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "xs03060100_MSG0076_f",
+      "style": 0,
+      "name": "みなさんひょっとして\n道に迷いまくりなんじゃないですも？[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "xs03060100_JNK0070",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 96,
+      "label": "xs03060100_SEL0071",
+      "style": 3,
+      "name": "ここがどこかすら分からないと首を振る"
+    },
+    {
+      "$id": 97,
+      "label": "xs03060100_JNK0080",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 98,
+      "label": "xs03060100_SEL0081",
+      "style": 3,
+      "name": "迷うことそれもまた人生と目を瞑る"
+    },
+    {
+      "$id": 99,
+      "label": "xs03060100_MSG0077",
+      "style": 0,
+      "name": "やっぱりだったですも\nみなさんはラッキーですも[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "xs03060100_MSG0078",
+      "style": 0,
+      "name": "素直じゃないですも[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "xs03060100_MSG0079",
+      "style": 0,
+      "name": "そういうひねくれた考え方のやつは崖から\n落ちてロフィルに食われちゃえばいいですも[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "xs03060100_MSG0080",
+      "style": 0,
+      "name": "ナビゲーションボール！[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "xs03060100_MSG0081",
+      "style": 0,
+      "name": "この光のボールは\nノポン秘伝の超便利アイテムですも[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "xs03060100_MSG0082",
+      "style": 0,
+      "name": "道に迷ったときは\nこのボールの後をついて行けば楽勝ですも[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "xs03060100_MSG0082_m",
+      "style": 0,
+      "name": "道に迷ったときは\nこのボールの後をついて行けば楽勝ですも[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "xs03060100_MSG0082_f",
+      "style": 0,
+      "name": "道に迷ったときは\nこのボールの後をついて行けば楽勝ですも[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "xs03060100_MSG0083",
+      "style": 0,
+      "name": "しょうがないからみなさんに\n貸してやるですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 108,
+      "label": "xs03060100_MSG0084",
+      "style": 0,
+      "name": "感謝するですも！[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "xs03060100_MSG0085",
+      "style": 0,
+      "name": "ナビゲーションボールとは\nまた身も蓋もないド直球なネーミングね[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "xs03060100_MSG0086",
+      "style": 0,
+      "name": "なにをいってるですも[ST:wait ]\n"
+    },
+    {
+      "$id": 111,
+      "label": "xs03060100_MSG0087",
+      "style": 0,
+      "name": "ウォラーレ・ウェネーフィカとか[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "xs03060100_MSG0088",
+      "style": 0,
+      "name": "なんだかイミのわからない\n◎※△◇病をこじらせた名前より[ST:wait ]\n"
+    },
+    {
+      "$id": 113,
+      "label": "xs03060100_MSG0089",
+      "style": 0,
+      "name": "ずっとわかりやすくていいんですも[ST:wait ]\n"
+    },
+    {
+      "$id": 114,
+      "label": "xs03060100_MSG0090",
+      "style": 0,
+      "name": "怪しいなぁ\nほんとうにコレ　役に立つんでしょうね？[ST:wait ]"
+    },
+    {
+      "$id": 115,
+      "label": "xs03060100_MSG0091",
+      "style": 0,
+      "name": "使った途端にドッカーン！とか嫌なんだからね[ST:wait ]"
+    },
+    {
+      "$id": 116,
+      "label": "xs03060100_MSG0092",
+      "style": 0,
+      "name": "ドッカーン！で思いだしたですも[ST:wait ]\n"
+    },
+    {
+      "$id": 117,
+      "label": "xs03060100_MSG0093",
+      "style": 0,
+      "name": "キチョーなナビゲーションボール\n壊したらベンショーしてもらうですも[ST:wait ]"
+    },
+    {
+      "$id": 118,
+      "label": "xs03060100_MSG0094",
+      "style": 0,
+      "name": "やっぱり守銭奴[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

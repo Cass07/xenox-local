@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025307_MSG0001",
+      "style": 1,
+      "name": "サンシャインカフェへようこそ\nどうぞ　ゆっくりくつろいでいってよ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025307_MSG0002",
+      "style": 1,
+      "name": "……えっ？　なに？\n今　マ・ノン人のためにNLAならではの\n食べ物を探して回ってるの？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025307_MSG0003",
+      "style": 1,
+      "name": "それなら当店自慢のホットドッグはどうかしら\n熱々の作りたてで600G\nきっとそいつも　満足してくれると思うわよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025307_JNK0010",
+      "style": 4,
+      "name": "買う[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev025307_SEL0011",
+      "style": 3,
+      "name": "600Gで\nホットドッグを購入する[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev025307_JNK0020",
+      "style": 4,
+      "name": "買わない[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev025307_SEL0021",
+      "style": 3,
+      "name": "必要ないと断る[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev025307_MSG0004",
+      "style": 1,
+      "name": "ありがとう　それじゃどうぞ\n……おいしそうだからって\nつまみ食いしちゃダメだからね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev025307_MSG0005",
+      "style": 1,
+      "name": "あら　買わないの？\n損はさせないから　気が変わったら\nまた来てちょうだい[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025307_MSG0006",
+      "style": 1,
+      "name": "……って　もしかしてお金が足りない？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025307_MSG0007",
+      "style": 1,
+      "name": "値段なりの味は保証するからさ\nちゃんと600Gを持って　また来てちょうだい[ST:wait ]"
+    }
+  ]
+}

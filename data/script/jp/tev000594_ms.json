@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000594_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]！\nこんにちは！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000594_MSG0002",
+      "style": 1,
+      "name": "今　[ST:playername ]のとこの\n犬を撫でてたんですよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000594_MSG0003",
+      "style": 1,
+      "name": "かわいいっすね！\n心が癒されますよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000594_MSG0004",
+      "style": 1,
+      "name": "種類は違いますけど　地球にいたころ\n近所のヨークシャー・テリアが\n羨ましかったのを思い出したっす[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000594_JNK0010",
+      "style": 4,
+      "name": "食事"
+    },
+    {
+      "$id": 6,
+      "label": "tev000594_SEL0011",
+      "style": 3,
+      "name": "ご飯がおいしそう\nだったから？"
+    },
+    {
+      "$id": 7,
+      "label": "tev000594_JNK0020",
+      "style": 4,
+      "name": "飼い主"
+    },
+    {
+      "$id": 8,
+      "label": "tev000594_SEL0021",
+      "style": 3,
+      "name": "飼い主が美人だったから？"
+    },
+    {
+      "$id": 9,
+      "label": "tev000594_MSG0005",
+      "style": 1,
+      "name": "確かにお金持ちの家のペットだったから\nエサも豪華そうでした[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000594_MSG0006",
+      "style": 1,
+      "name": "間違いなく今の僕の晩飯よりも\n金が掛かってましたよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000594_MSG0007",
+      "style": 1,
+      "name": "いや　でも\n羨ましいのはそこじゃなくてですね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000594_MSG0008",
+      "style": 1,
+      "name": "見たことあるんですか！？\n確かに奥さんが\nものすごい美人だったんですよね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000594_MSG0009",
+      "style": 1,
+      "name": "お金持ちの家なんですけれど\n親切だし　偉ぶることがなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000594_MSG0010",
+      "style": 1,
+      "name": "いや　羨ましいのはそこじゃなくてですね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000594_MSG0011",
+      "style": 1,
+      "name": "家族のように大切にされていたんですよ\n人間でも大切にされない場合があるのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000594_MSG0012",
+      "style": 1,
+      "name": "毎日一緒に散歩したり　ご飯食べたり\nテレビも見てたとか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000594_MSG0020",
+      "style": 1,
+      "name": "ずっと一緒にいたみたいです[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000594_MSG0013",
+      "style": 1,
+      "name": "僕の場合[ST:wide ]―うちの両親は多忙でしたから\n毎日のように構ってくれたことはなくて[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000594_MSG0014",
+      "style": 1,
+      "name": "一人でいたり\n友達といる時間が大半だったんです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000594_MSG0015",
+      "style": 1,
+      "name": "[ST:wide ]―でも　今なら分かりますけど\nイリーナ中尉に比べると全然幸せだったと\n思います[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000594_MSG0016",
+      "style": 1,
+      "name": "僕は両親のこと好きでしたから\nもっと一緒にいてほしいと思ったんすよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000594_MSG0017",
+      "style": 1,
+      "name": "大きくなってからは　犬を飼い始めたので\n寂しさは　ずいぶんまぎれたんすけど\n[ST:wide ]―暗い話してしまったっすね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000594_MSG0018",
+      "style": 1,
+      "name": "とにかく一つ言えるのは\n犬はかわいいってことです[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000594_MSG0019",
+      "style": 1,
+      "name": "NLAの外が原生生物ではなく犬ばかりだったら\nよかったのにと思わずにはいられません[ST:wait ]"
+    }
+  ]
+}

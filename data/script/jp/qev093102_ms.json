@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093102_MSG0010",
+      "style": 0,
+      "name": "遅かったな　待ちわびたぜ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093102_MSG0020",
+      "style": 0,
+      "name": "早速おっぱじめてもいいんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093102_MSG0025",
+      "style": 0,
+      "name": "普通に戦うんじゃイマイチ燃えないな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093102_MSG0030",
+      "style": 0,
+      "name": "[ST:wide ]―よし　こうしよう[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093102_MSG0040",
+      "style": 0,
+      "name": "もしオレに勝てたら\n一つだけお前の願いを聞いてやる[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093102_MSG0050",
+      "style": 0,
+      "name": "先に吹っ掛けたのはオレだからな\n特別サービスだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093102_MSG0060",
+      "style": 0,
+      "name": "どうだ　何か望みはあるか？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093102_JNK0070",
+      "style": 4,
+      "name": "傲慢"
+    },
+    {
+      "$id": 9,
+      "label": "qev093102_SEL0080",
+      "style": 3,
+      "name": "アレスをもらうと伝える"
+    },
+    {
+      "$id": 10,
+      "label": "qev093102_JNK0090",
+      "style": 4,
+      "name": "謙虚"
+    },
+    {
+      "$id": 11,
+      "label": "qev093102_SEL0100",
+      "style": 3,
+      "name": "アレスに乗ってみたいと伝える"
+    },
+    {
+      "$id": 12,
+      "label": "qev093102_MSG0110",
+      "style": 0,
+      "name": "おいおい[ST:wide ]―\nマジで言ってるのか？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093102_MSG0120",
+      "style": 0,
+      "name": "まさかの“アレスを寄越せ”ときたか\n負けたらオレの愛機を差し出せと？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093102_MSG0130",
+      "style": 0,
+      "name": "一応聞くが[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093102_MSG0140",
+      "style": 0,
+      "name": "アレスは生身の身体でなければ\n乗ることはできない[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093102_MSG0150",
+      "style": 0,
+      "name": "それをわかった上で言ってるのか？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093102_MSG0160",
+      "style": 0,
+      "name": "お前[ST:wide ]―　けっこう無茶苦茶だな\nさりげなく強引なところはお姫様と良い勝負だ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093102_MSG0170",
+      "style": 0,
+      "name": "だが[ST:wide ]―　面白い[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093102_MSG0180",
+      "style": 0,
+      "name": "そこまで大口叩かれちゃ\n嫌でも火がつくってもんだ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093102_MSG0190",
+      "style": 0,
+      "name": "ただし　オレからアレスを奪うつもりなら\nそれなりの覚悟はしてもらうぞ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093102_MSG0200",
+      "style": 0,
+      "name": "お前の全てを　オレに見せてくれ[ST:wait ]"
+    }
+  ]
+}

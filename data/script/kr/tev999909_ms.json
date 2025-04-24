@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999909_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999909_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999909_JNK0030",
+      "style": 4,
+      "name": "배틀 멤버에 넣는다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999909_SEL0031",
+      "style": 3,
+      "name": "활동 중인 블레이드 대원[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999909_MSG0001",
+      "style": 1,
+      "name": "음……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999909_MSG0101",
+      "style": 1,
+      "name": "흠……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999909_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999909_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999909_MSG2001",
+      "style": 1,
+      "name": "알겠다\n전투 지원은 우리 유니언에 맡기게[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999909_MSG2101",
+      "style": 1,
+      "name": "확실히 알았다\n사력을 다해 전투를 지원하겠네[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999909_MSG3001",
+      "style": 1,
+      "name": "피가 끓어오르는군[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999909_MSG3101",
+      "style": 1,
+      "name": "드디어 출전의 때가 온 것인가\n등을 맡겨 주게나[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999909_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999909_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999909_MSG5001",
+      "style": 1,
+      "name": "지금은 이야기할 때가 아닐세\n잠시 기다리게[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999909_MSG5101",
+      "style": 1,
+      "name": "지금은 정신 통일을 하고 있다네\n이야기는 나중에 하지……[ST:wait ]"
+    }
+  ]
+}

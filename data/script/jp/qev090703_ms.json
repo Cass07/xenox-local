@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090703_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―グッ　[ST:wide ]―ウウ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090703_MSG0002",
+      "style": 0,
+      "name": "お前達は[ST:wide ]―　助けに[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090703_MSG0003",
+      "style": 0,
+      "name": "君は護衛のブレイドですか？\nすまないが　今の状況を確認させてください[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090703_MSG0004",
+      "style": 0,
+      "name": "皆[ST:wide ]―　やられちまった[ST:wide ]―\n原生生物が[ST:wide ]―　大量に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090703_MSG0005",
+      "style": 0,
+      "name": "無事なのは　もうあの学者さん[ST:wide ]―\nだけ[ST:wide ]―　奥にある車に[ST:wide ]―　隠れさせた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090703_MSG0006",
+      "style": 0,
+      "name": "クソッ[ST:wide ]―　アッ　グゥ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090703_MSG0007",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090703_MSG0008",
+      "style": 0,
+      "name": "なるほど　一刻の猶予もないようですね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090703_MSG0009",
+      "style": 0,
+      "name": "まずはこの奥の原生生物の掃討　その後\n車に隠れているという学者を救助しましょう[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090703_JNK0010",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 11,
+      "label": "qev090703_SEL0011",
+      "style": 3,
+      "name": "瀕死のブレイドの\n心配をする"
+    },
+    {
+      "$id": 12,
+      "label": "qev090703_JNK0020",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 13,
+      "label": "qev090703_SEL0021",
+      "style": 3,
+      "name": "HBと共に原生生物の\nもとへと向かう"
+    },
+    {
+      "$id": 14,
+      "label": "qev090703_MSG0010",
+      "style": 0,
+      "name": "彼か　貴重な学者か[ST:wide ]―\n今助けるべきなのは誰か[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090703_MSG0011",
+      "style": 0,
+      "name": "冷静に判断してください[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090703_MSG0012",
+      "style": 0,
+      "name": "それに彼だって　きっと自分の身より\n依頼人の安全を願うはずです[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090703_MSG0013",
+      "style": 0,
+      "name": "的確な判断能力がある人で良かった\n君となら　安心して共に戦えそうですよ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090703_MSG0014",
+      "style": 0,
+      "name": "では行きますよ[ST:wide ]―\n慎重かつ迅速に片付けましょう[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33680100_MSG0010",
+      "style": 0,
+      "name": "아, 너인가\n무사해서 다행이다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33680100_MSG0020",
+      "style": 0,
+      "name": "적어도 돌이 있으면 움직일 수 있었겠지만[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33680100_MSG0030",
+      "style": 0,
+      "name": "이 상황에서 내가 할 수 있는 건\n거의 없어서 말이야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33680100_MSG0040",
+      "style": 0,
+      "name": "기분 나쁜 장소지만……\n넌 보이드에게 돌아갈 거지?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33680100_MSG0050",
+      "style": 0,
+      "name": "그래, 물론 나도 간다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33680100_MSG0060",
+      "style": 0,
+      "name": "아리샤도 내가 돌아오길 기다리고 있어\n살아서 돌아가기 위해서라면 뭐든 할 거야[ST:wait ]"
+    }
+  ]
+}

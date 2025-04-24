@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086502_MSG0001",
+      "style": 0,
+      "name": "어? 아빠다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086502_MSG0002",
+      "style": 0,
+      "name": "아빠~![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086502_MSG0003",
+      "style": 0,
+      "name": "아빠, 배고프다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086502_MSG0004",
+      "style": 0,
+      "name": "아빠, 선물 줘모![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086502_MSG0005",
+      "style": 0,
+      "name": "너희들 잠깐 기다려 봐라모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086502_MSG0006",
+      "style": 0,
+      "name": "타츠는 아빠가 아니라\n형이고 오빠다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086502_MSG0007",
+      "style": 0,
+      "name": "어라~~~?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086502_MSG0008",
+      "style": 0,
+      "name": "정말이지, 왜 매번 틀리는 거냐모!\n그런데 엄마는 어디에 있어모?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086502_MSG0009",
+      "style": 0,
+      "name": "엄마는 물고기를 잡으러 갔다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086502_MSG0010",
+      "style": 0,
+      "name": "그런데 벌써 3일째 돌아오지 않아모![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086502_MSG0011",
+      "style": 0,
+      "name": "오빠, 배고프다모![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086502_MSG0012",
+      "style": 0,
+      "name": "형, 물고기 먹고 싶다모![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086502_MSG0013",
+      "style": 0,
+      "name": "자, 잠깐 기다려라모!\n3일이나 안 돌아왔냐모?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086502_MSG0014",
+      "style": 0,
+      "name": "그건 자주 있는 일인가모?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086502_MSG0015",
+      "style": 0,
+      "name": "아니다모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086502_MSG0016",
+      "style": 0,
+      "name": "처음이야모![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086502_MSG0017",
+      "style": 0,
+      "name": "큰일이잖아![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086502_MSG0018",
+      "style": 0,
+      "name": "서둘러서 엄마를 찾으러 가자모![ST:wait ]"
+    }
+  ]
+}

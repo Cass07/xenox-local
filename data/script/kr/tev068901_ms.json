@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev_068901_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev_068901_MSG0002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev_068901_MSG0003",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "tev_068901_MSG0004",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "tev_068901_MSG0005",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev_068901_MSG0006",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev_068901_MSG0007",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev_068901_MSG0008",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev_068901_MSG0009",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev_068901_MSG0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev_068901_MSG0015",
+      "style": 1,
+      "name": "그쪽은…… [ST:playername ]인가[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev_068901_MSG0016",
+      "style": 1,
+      "name": "그런 악당에게 주기엔 아까운 거금이라서\n내 나름 수를 썼던 건데[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev_068901_MSG0017",
+      "style": 1,
+      "name": "그쪽에겐 미안한 일을 했다고 생각해[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev_068901_MSG0018",
+      "style": 1,
+      "name": "해야만 하는 일이 있으니\n이 돈을 전부 줄 수는 없지만……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev_068901_MSG0019",
+      "style": 1,
+      "name": "이건 그쪽의 몫이야, 받아 줘[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev_068901_MSG0020",
+      "style": 1,
+      "name": "……그럼 이만 실례하지\n더 만날 일은 없을 것 같네, 건강해라[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086802_MSG0001",
+      "style": 0,
+      "name": "よう　エルマ　あのセリカっていう女の子\nお前さんが助けた異星人だったよな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086802_MSG0002",
+      "style": 0,
+      "name": "ええ　そうだけど[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086802_MSG0003",
+      "style": 0,
+      "name": "何かあったんですか！？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086802_MSG0004",
+      "style": 0,
+      "name": "ああ　それがなぁ[ST:wide ]―\nなんだか思い詰めた顔で[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086802_MSG0005",
+      "style": 0,
+      "name": "ブレイドに入るにはどうしたらいいんですか\nなんて言いだしたんだよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086802_MSG0006",
+      "style": 0,
+      "name": "なんて答えたの？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086802_MSG0007",
+      "style": 0,
+      "name": "手頃な任務を一人でこなせたら\n適性試験合格だ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086802_MSG0008",
+      "style": 0,
+      "name": "って言ったら真剣な顔で\nどっか行っちまってなぁ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086802_MSG0009",
+      "style": 0,
+      "name": "それって大変じゃないですか！\nすぐ捜さないと！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086802_MSG0010",
+      "style": 0,
+      "name": "そうしてくれ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086802_MSG0011",
+      "style": 0,
+      "name": "ヘタすると　無茶なことしかねない\nそういう顔だったぞ　あれ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086802_MSG0012",
+      "style": 0,
+      "name": "当たり前です！\n真面目な人をからかっちゃダメですよ！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086802_MSG0013",
+      "style": 0,
+      "name": "ダメですも！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086802_MSG0014",
+      "style": 0,
+      "name": "ううっ　面目ない[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086802_MSG0015",
+      "style": 0,
+      "name": "とにかく捜してみましょう\nまだきっと　ＮＬＡの中にいるはずよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086802_MSG0016",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "qev086802_MSG0017",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "qev086802_MSG0018",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "qev086802_MSG0019",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "qev086802_MSG0020",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

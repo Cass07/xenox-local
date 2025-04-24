@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev300241_MSG0001",
+      "style": 1,
+      "name": "오버의 목소리가 들린다네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev300241_MSG0002",
+      "style": 1,
+      "name": "미라늄을 모아\nNLA를 위해 새로운 회사를 세우고\n모두의 도움이 되라고 말일세[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev300241_JNK0010",
+      "style": 4,
+      "name": "건네준다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev300241_SEL0011",
+      "style": 3,
+      "name": "미라늄 7000gm을 건네준다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev300241_JNK0020",
+      "style": 4,
+      "name": "건네주지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev300241_SEL0021",
+      "style": 3,
+      "name": "아직은 건네주지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev300241_MSG0004",
+      "style": 1,
+      "name": "고생이 많군\n반드시 이 도시의 발전에 공헌하겠네[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev300241_MSG0005",
+      "style": 1,
+      "name": "흠……\n그 미라늄이 다른 곳에 쓰이는 것도\n오버의 의지인가[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev300241_MSG0006",
+      "style": 1,
+      "name": "블레이드분……\n미라늄 7000gm을 가지고 와 주시게[ST:wait ]"
+    }
+  ]
+}

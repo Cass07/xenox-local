@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev071302_MSG0001",
+      "style": 1,
+      "name": "힘없는 저희가 데피니아를 찾아내더라도\n승률은 0.03%조차 없습니다……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev071302_MSG0002",
+      "style": 1,
+      "name": "제발 부탁드립니다……\n순오살라그를 구해 주십시오……[ST:wait ]"
+    }
+  ]
+}

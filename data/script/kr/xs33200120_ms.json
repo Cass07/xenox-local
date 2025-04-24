@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33200120_MSG0010",
+      "style": 0,
+      "name": "이 데이터는……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33200120_MSG0020",
+      "style": 0,
+      "name": "고대 서멀인이 남긴 수기……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33200120_MSG0030",
+      "style": 0,
+      "name": "같은 걸까?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33200120_MSG0040",
+      "style": 0,
+      "name": "읽어 줄게[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33200120_MSG0050",
+      "style": 0,
+      "name": "\"이 우주에 시간과 공간이 탄생한 이후\n가장 뛰어난 지성을 가진 자……\"[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33200120_MSG0060",
+      "style": 0,
+      "name": "\"그자는 서멀의 동포임에도\n돌이킬 수 없는 화를 가져왔다\"[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33200120_MSG0070",
+      "style": 0,
+      "name": "\"그자에게 벌을 내려야 한다\n그러나 죽음에 의한 단죄는 우리의 법도에 반한다\"[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33200120_MSG0080",
+      "style": 0,
+      "name": "\"영원한 유폐에 의한 지성의 마모……\n영혼의 감옥이야말로 그자에게는 어울린다\"[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33200120_MSG0090",
+      "style": 0,
+      "name": "이건……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33200120_MSG0100",
+      "style": 0,
+      "name": "역시 보이드를 말하는 걸까[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33200120_MSG0110",
+      "style": 0,
+      "name": "어쨌든 이 장소가[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33200120_MSG0120",
+      "style": 0,
+      "name": "보이드에게 감옥이라는 건\n틀림없는 것 같네[ST:wait ]"
+    }
+  ]
+}

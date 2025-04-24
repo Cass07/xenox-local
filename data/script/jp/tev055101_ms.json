@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev055101_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 2,
+      "label": "tev055101_SEL0011",
+      "style": 3,
+      "name": "キャラバンにいる\n動物について聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev055101_JNK0020",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 4,
+      "label": "tev055101_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev055101_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev055101_SEL0041",
+      "style": 3,
+      "name": "噂話を聞く"
+    },
+    {
+      "$id": 9,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev055101_SEL0051",
+      "style": 3,
+      "name": "ズ・ハッグとの戦いに\nついて聞く[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev055101_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev055101_SEL1011",
+      "style": 3,
+      "name": "ノポンの商売について聞く[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev055101_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev055101_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev055101_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev055101_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev055101_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev055101_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev055101_SEL2041",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev055101_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev055101_SEL2041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev055101_MSG0001",
+      "style": 1,
+      "name": "これはノポンが飼いならしたヒッポ[ST:wide ]―\nノポヒッポだも！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev055101_MSG0002",
+      "style": 1,
+      "name": "重たい荷物を　いーっぱい運べるし\nクチの中に入れば　危ない奴らから\n身を隠して移動できるも！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev055101_MSG0003",
+      "style": 1,
+      "name": "どうだも？　興味出たかも？\nクチの中に入ってみたくなったかも？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev055101_MSG0004",
+      "style": 1,
+      "name": "ちょっぴりぬめぬめぬるぬるだけど\n生温かくて　なかなか快適だも！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev055101_MSG009",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev055101_MSG010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev055101_MSG011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev055101_MSG012",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev055101_MSG017",
+      "style": 1,
+      "name": "ドロンゴ・キャラバンに住む　ナルが\nグロウスに脅されてるみたいなんだも！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev055101_MSG018",
+      "style": 1,
+      "name": "かわいそうだも　悲劇のヒロインだも！[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev055101_MSG019",
+      "style": 1,
+      "name": "ワナナじゃ　ちょっぴり力不足だったけど\nあんたなら助けてあげられそうだも！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev055101_MSG020",
+      "style": 1,
+      "name": "ドロンゴ・キャラバンは　ずーっと北に行った\n溶岩グツグツの場所にあるから……\nもし立ち寄ったら　助けてあげて欲しいんだも[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev055101_MSG025",
+      "style": 1,
+      "name": "あのものすっごくデッカイ奴が暴れたせいで\nいまだに　ノポヒッポが怯えてるんだも！[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev055101_MSG026",
+      "style": 1,
+      "name": "夜も眠れないみたいだし　食欲もないし……\nグロウス　許すまじだも！[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev055101_MSG027",
+      "style": 1,
+      "name": "地球人が倒してくれてなかったら\nワナナ怒りの右ストレートが\nあいつのボディをフンサイしてたも！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev055101_MSG1001",
+      "style": 1,
+      "name": "ミラは危険だも！　だけど危険だからこそ\n商品を遠くへ持って行くと　値段が上がるも！[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev055101_MSG1002",
+      "style": 1,
+      "name": "クッタは　伝説の運び屋として\n北はグツグツ大陸から　南の大荒野まで[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev055101_MSG1003",
+      "style": 1,
+      "name": "たーっくさんの商品を運びまくって\n荒稼ぎしてる　実は凄いノポンなんだも！[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev055101_MSG1004",
+      "style": 1,
+      "name": "今も　このミラの空の下\nすっごい物を運びまくってるはずだも！\nいつか伝説は神話になるも～[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev055101_MSG2001",
+      "style": 1,
+      "name": "最近　ドロンゴ・キャラバンのナルと\n文通をしてるんだけども[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev055101_MSG2002",
+      "style": 1,
+      "name": "彼女……あの過酷な黒鋼の大陸で\nグロウスに脅されたり　原生生物に襲われたり\nいっぱい苦労してるみたいなんだも……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev055101_MSG2003",
+      "style": 1,
+      "name": "[ST:wide ]―とっても　かわいそうだも！\nだからワナナ　ナルを助けてあげるために\n色々と入用な物を送ってあげてるんだも！[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev055101_MSG2004",
+      "style": 1,
+      "name": "そしたら　ワナナのこと大好きだって\nお手紙　返してくれたも！\n嬉しいも～　もっといっぱい送ってあげるも～[ST:wait ]"
+    }
+  ]
+}

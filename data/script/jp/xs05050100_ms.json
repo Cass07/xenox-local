@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05050100_MSG0001",
+      "style": 0,
+      "name": "メニスナ谷に到着ですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs05050100_MSG0001_1",
+      "style": 0,
+      "name": "忘却の渓谷でしょ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs05050100_MSG0001_2",
+      "style": 0,
+      "name": "ボーキャクのケーコク？\nなんですもそれ？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs05050100_MSG0001_3",
+      "style": 0,
+      "name": "この大陸の名前よ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs05050100_MSG0001_4",
+      "style": 0,
+      "name": "なにを言っているですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs05050100_MSG0001_5",
+      "style": 0,
+      "name": "ここは　砂嵐が吹きすさび\n旅人の視界を奪う大地[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs05050100_MSG0001_6",
+      "style": 0,
+      "name": "メニスナ谷っていう[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs05050100_MSG0001_7",
+      "style": 0,
+      "name": "ご先祖様がつけた\n由緒正しき名前があるですも！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs05050100_MSG0001_8",
+      "style": 0,
+      "name": "センジューミンに内緒で\n変な名前をつけないで欲しいですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs05050100_MSG0001_9",
+      "style": 0,
+      "name": "ご　ごめんなさい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs05050100_MSG0001_10",
+      "style": 0,
+      "name": "反省しているようだから\n今回だけは赦してあげるですも[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs05050100_MSG0001_11",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "xs05050100_MSG0001_12",
+      "style": 0,
+      "name": "何もない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs05050100_MSG0002",
+      "style": 0,
+      "name": "おかしいわ\nいくら比較対象物がなかったとはいえ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs05050100_MSG0003",
+      "style": 0,
+      "name": "さすがに視認できないほど\n小さかったとは考えにくい[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs05050100_MSG0004",
+      "style": 0,
+      "name": "そうですよね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs05050100_MSG0005",
+      "style": 0,
+      "name": "あっ　エルマさん　あれ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs05050100_MSG0006",
+      "style": 0,
+      "name": "見たことのない異星人ね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs05050100_MSG0007",
+      "style": 0,
+      "name": "ちょっと待ってください\n会話が拾えそうです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs05050100_MSG0008",
+      "style": 0,
+      "name": "無理だヨ！\nだからボク達だけじゃ無理って言ったのに！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs05050100_MSG0009",
+      "style": 0,
+      "name": "そんなこと今さら言ったって！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs05050100_MSG0010",
+      "style": 0,
+      "name": "ボク達が何とかしないと船の皆が！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs05050100_MSG0011",
+      "style": 0,
+      "name": "でもでもでも　どうやって砲台を壊すノ？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs05050100_MSG0012",
+      "style": 0,
+      "name": "グロウス兵だって\nきっとワンサカいるんだヨ！？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs05050100_MSG0013",
+      "style": 0,
+      "name": "グロウス兵ではなさそうね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs05050100_MSG0014",
+      "style": 0,
+      "name": "会話からすると\nどうも敵対しているようですね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs05050100_MSG0015",
+      "style": 0,
+      "name": "タツ　知ってますも\n確かマ・ノン人とかいうやつらですも[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "xs05050100_MSG0016",
+      "style": 0,
+      "name": "みなさんがくる一年程前に\nこの星に来たやつらですも[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "xs05050100_MSG0017",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "xs05050100_MSG0018",
+      "style": 0,
+      "name": "どうしたんですか？\n何か不審な点でも？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs05050100_MSG0019",
+      "style": 0,
+      "name": "いえ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs05050100_MSG0020",
+      "style": 0,
+      "name": "タツだけでなくグロウスやあの異星人達\n何故会話が出来るのか　不思議に思ってね[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs05050100_MSG0021",
+      "style": 0,
+      "name": "あ　確かに[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs05050100_JNK0010",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 35,
+      "label": "xs05050100_SEL0011",
+      "style": 3,
+      "name": "地球言語が通じていると語る"
+    },
+    {
+      "$id": 36,
+      "label": "xs05050100_JNK0020",
+      "style": 4,
+      "name": "憶測"
+    },
+    {
+      "$id": 37,
+      "label": "xs05050100_SEL0021",
+      "style": 3,
+      "name": "翻訳機の存在を熱く主張する"
+    },
+    {
+      "$id": 38,
+      "label": "xs05050100_MSG0022",
+      "style": 0,
+      "name": "そうかしら[ST:wide ]―\nタツは私達の言葉を知ってるの？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs05050100_MSG0023",
+      "style": 0,
+      "name": "確かにそうかもしれませんね[ST:wait ]\n"
+    },
+    {
+      "$id": 40,
+      "label": "xs05050100_MSG0024",
+      "style": 0,
+      "name": "でも　私達はタツと話す時に\n[System:Ruby rt=デバイス ]端末[/System:Ruby]は使っていないわよね[ST:wait ]\n"
+    },
+    {
+      "$id": 41,
+      "label": "xs05050100_MSG0025",
+      "style": 0,
+      "name": "タツは地球の言葉を知ってるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs05050100_MSG0026",
+      "style": 0,
+      "name": "タツは私達の言葉を知ってるの？[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs05050100_MSG0027",
+      "style": 0,
+      "name": "知らないですも[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs05050100_MSG0028",
+      "style": 0,
+      "name": "では　どこの言葉をしゃべってるの？[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs05050100_MSG0029",
+      "style": 0,
+      "name": "どこって　ノポン語ですも\nみなさんもノポン語お上手ですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "xs05050100_MSG0030",
+      "style": 0,
+      "name": "ね[ST:wait ]\n"
+    },
+    {
+      "$id": 47,
+      "label": "xs05050100_MSG0031",
+      "style": 0,
+      "name": "体型や骨格が違えば\n発声器官の構造も変わってくる[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs05050100_MSG0032",
+      "style": 0,
+      "name": "異星人に地球言語の発声は困難なはず[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs05050100_MSG0033",
+      "style": 0,
+      "name": "それでも会話が成立している[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs05050100_MSG0034",
+      "style": 0,
+      "name": "発声できないのに会話できるなんて\nそんなのあり得ないですよ[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs05050100_MSG0035",
+      "style": 0,
+      "name": "普通に考えればね[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs05050100_MSG0036",
+      "style": 0,
+      "name": "でも　もし言葉を\n音として知覚しているのではなく[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs05050100_MSG0037",
+      "style": 0,
+      "name": "意志として認識しているのだとしたら[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs05050100_MSG0038",
+      "style": 0,
+      "name": "それを可能とする何かが\nこの星にあるとしたら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs05050100_MSG0039",
+      "style": 0,
+      "name": "エルマさん　何か嬉しそうですね[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs05050100_MSG0040",
+      "style": 0,
+      "name": "こういう現象を解明するのって\n楽しそうじゃない？[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs05050100_MSG0041",
+      "style": 0,
+      "name": "知的好奇心への刺激ということね[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs05050100_MSG0042",
+      "style": 0,
+      "name": "何だかルーさんみたい\n意外です[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs05050100_MSG0043",
+      "style": 0,
+      "name": "そんなことより\nさぁ　早く行くんですも！[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs05050100_MSG0044",
+      "style": 0,
+      "name": "行って助けて　タツが勇者として\n崇め奉られるようにするんですも！[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs05050100_MSG0045",
+      "style": 0,
+      "name": "こいつは[ST:wide ]―\nそろそろ食べた方がいいかしら[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs05050100_MSG0046",
+      "style": 0,
+      "name": "も　もももー！[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs05050100_MSG0047",
+      "style": 0,
+      "name": "彼らの力になれるかは分からないけど\nまずは話を聞いてみましょう[ST:wait ]\n"
+    }
+  ]
+}

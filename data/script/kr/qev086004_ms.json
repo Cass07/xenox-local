@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086004_MSG0042",
+      "style": 1,
+      "name": "제대로 점검해 보니……\n확실히 전송 손실이 일어나고 있는 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086004_MSG0041",
+      "style": 1,
+      "name": "이런 것까지 알아채다니\n역시 린 씨는 대단하네요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086004_MSG0001",
+      "style": 0,
+      "name": "파츠 가져왔습니다!\n바로 교환할게요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086004_MSG0002",
+      "style": 0,
+      "name": "대단한데요?\n이제 전송 손실이 계측되지 않아요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086004_MSG0003",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "qev086004_MSG0004",
+      "style": 0,
+      "name": "밥이다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086004_MSG0005",
+      "style": 0,
+      "name": "린 씨, 역시 대단하네요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086004_MSG0006",
+      "style": 0,
+      "name": "이걸로 한동안은 버틸 거예요\n하지만 이걸로 된 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086004_MSG0007",
+      "style": 0,
+      "name": "네?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086004_MSG0008",
+      "style": 0,
+      "name": "교환한 파츠는 소모품이에요\n언젠가 다시 효율은 떨어지겠죠[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086004_MSG0009",
+      "style": 0,
+      "name": "이대로 작업을 끝낼 수는 없어요……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086004_MSG0010",
+      "style": 0,
+      "name": "그럴 수가~~\n타츠의 밥은 아직이냐모~~[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086004_MSG0011",
+      "style": 0,
+      "name": "린의 마음은 이해해\n하지만 타츠도 한계인 것 같고……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086004_MSG0012",
+      "style": 0,
+      "name": "어떻게 생각해?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086004_JNK0010",
+      "style": 4,
+      "name": "타츠의 편을 든다"
+    },
+    {
+      "$id": 16,
+      "label": "qev086004_SEL0011",
+      "style": 3,
+      "name": "자신도 배가 고프다며 탄식한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev086004_JNK0020",
+      "style": 4,
+      "name": "린의 편을 든다"
+    },
+    {
+      "$id": 18,
+      "label": "qev086004_SEL0021",
+      "style": 3,
+      "name": "어중간한 일 처리는 안 된다며\n고개를 젓는다"
+    },
+    {
+      "$id": 19,
+      "label": "qev086004_MSG0013",
+      "style": 0,
+      "name": "그래, 이 이상 기다리게 하면\n타츠가 아사해 버릴 거야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086004_MSG0014",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086004_MSG0015",
+      "style": 0,
+      "name": "괜찮아, 린[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086004_MSG0016",
+      "style": 0,
+      "name": "문제가 일어나면 우리가 책임지고\n다시 파츠를 회수하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086004_MSG0017",
+      "style": 0,
+      "name": "그렇……네요\n무슨 일이 있으면 바로 연락해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086004_MSG0018",
+      "style": 0,
+      "name": "네, 물론이죠![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086004_MSG0019",
+      "style": 0,
+      "name": "자, 기다리게 해서 미안, 타츠\n블레이드 홈으로 돌아가서 밥 먹자![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086004_MSG0020",
+      "style": 0,
+      "name": "신난다모~~![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086004_MSG0021",
+      "style": 0,
+      "name": "그렇지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086004_MSG0022",
+      "style": 0,
+      "name": "흰고래에서 사용되던 파츠에는 한계가 있어\n언젠가는 고갈될 거야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086004_MSG0023",
+      "style": 0,
+      "name": "맞아요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086004_MSG0024",
+      "style": 0,
+      "name": "역시 NLA에서도 정밀도가 높은 파츠를\n생산할 수 있게 해야 하지 않을까요?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086004_MSG0025",
+      "style": 0,
+      "name": "그렇게 되면 문제가 일어나도\n바로 교환할 수 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086004_MSG0026",
+      "style": 0,
+      "name": "지금까지는 왜 할 수 없었던 거야?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086004_MSG0027",
+      "style": 0,
+      "name": "원자재 문제예요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086004_MSG0028",
+      "style": 0,
+      "name": "흰고래에서 사용되던 파츠를 찾아 오는 것보다\n어려운 점이 있거든요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086004_MSG0029",
+      "style": 0,
+      "name": "필요한 재료는 세 종류인데, 모두 이 행성 미라에서는\n입수하기 어려운 것들뿐이에요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086004_MSG0030",
+      "style": 0,
+      "name": "하지만 찾아내면 앞으로 메인터넌스가\n편해지는 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086004_MSG0031",
+      "style": 0,
+      "name": "그럼 찾아야죠!\n예전이었으면 어려웠을 테지만……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086004_MSG0032",
+      "style": 0,
+      "name": "지금의 엘마 팀에는 모두가 함께잖아요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086004_MSG0033",
+      "style": 0,
+      "name": "알겠어, 린의 말이 맞아……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086004_MSG0034",
+      "style": 0,
+      "name": "이 임무, 완수하도록 하자[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086004_MSG0035",
+      "style": 0,
+      "name": "아아아, 타츠의 밥이 또 뒤로 밀려났다모~~[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086004_MSG0036",
+      "style": 0,
+      "name": "미안해, 타츠\n하지만 지금은 블레이드로서 이쪽을 우선시하고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev086004_MSG0037",
+      "style": 0,
+      "name": "그 대신에 임무가 끝나면\n맛있는 걸 만들어 줄게![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086004_MSG0038",
+      "style": 0,
+      "name": "맛있는 거라고모!?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev086004_MSG0039",
+      "style": 0,
+      "name": "그 말을 들으니 타츠에게도\n블레이드로서의 사명감이 싹트기 시작했다모![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev086004_MSG0040",
+      "style": 0,
+      "name": "빨리 임무를 끝내는 거다모![ST:wait ]"
+    }
+  ]
+}

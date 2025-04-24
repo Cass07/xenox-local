@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087601_MSG0001",
+      "style": 0,
+      "name": "누가 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087601_MSG0002",
+      "style": 0,
+      "name": "제군들, 드디어 자네들이\n명예로운 임무를 맡아 줄 날이 왔네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087601_MSG0003",
+      "style": 0,
+      "name": "그 말은…… 아무래도 라스인과\n우호 관계를 맺을 준비가 된 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087601_MSG0004",
+      "style": 0,
+      "name": "그렇다, 엘마[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087601_MSG0005",
+      "style": 0,
+      "name": "자네들이 가져와 준 데이터 박스를 분석한 결과[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087601_MSG0006",
+      "style": 0,
+      "name": "그들 라스인은\n그로우스와 완전히 결별했다는 것이 판명됐네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087601_MSG0007",
+      "style": 0,
+      "name": "그렇다면 우리 지구인과 손을 잡는 것은\n틀림없이 서로에게 이익이 될 걸세[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087601_MSG0008",
+      "style": 0,
+      "name": "그래서 자네들이 라스인의 대표에게\n우리의 서신을 전해 줬으면 하네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087601_MSG0009",
+      "style": 0,
+      "name": "그들이 어떻게 받아들일지는 모르지만\n제안하는 것 자체는 유의미하다고 생각해[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087601_MSG0010",
+      "style": 0,
+      "name": "우리가 맡을게[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087601_MSG0011",
+      "style": 0,
+      "name": "하지만 라스인들이 어디 있는지는 알아냈나요?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087601_MSG0012",
+      "style": 0,
+      "name": "그게 문제일세[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087601_MSG0013",
+      "style": 0,
+      "name": "데이터 박스에 남겨진 항법 기록으로 봤을 때[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087601_MSG0014",
+      "style": 0,
+      "name": "그들이 망각의 계곡에\n거점을 두고 있는 건 확실한 것 같다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087601_MSG0015",
+      "style": 0,
+      "name": "하지만 그 이상은 좁혀 내지 못했다네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087601_MSG0016",
+      "style": 0,
+      "name": "그렇다면 타츠가 찾아내겠다모!\n식은 죽 먹기다모![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087601_MSG0017",
+      "style": 0,
+      "name": "잘 부탁하네[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087601_MSG0018",
+      "style": 0,
+      "name": "알겠어\n좋은 답변을 받을 수 있도록 노력해 볼게[ST:wait ]"
+    }
+  ]
+}

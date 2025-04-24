@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00050100_MSG0001",
+      "style": 0,
+      "name": "白鯨が大破した時　ポッドの多くは\nこうして放り出されてしまった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00050100_MSG0002",
+      "style": 0,
+      "name": "あなたは幸運だったと言えるわね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs00050100_MSG0003",
+      "style": 0,
+      "name": "ああ　白鯨のことも覚えてなかったのね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00050100_MSG0004",
+      "style": 0,
+      "name": "白鯨は　地球脱出船Ｌ―００２の通称\n地球のことは覚えてる？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs00050100_MSG0005",
+      "style": 0,
+      "name": "あなた[ST:wide ]―　いえ　私達の母星[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs00050100_MSG0005_2",
+      "style": 0,
+      "name": "母星だったと言うべきかしらね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs00050100_MSG0006",
+      "style": 0,
+      "name": "地球はあの日　異星人同士の\n大規模な戦闘に巻きこまれて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs00050100_MSG0007",
+      "style": 0,
+      "name": "消滅してしまった[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs00050100_MSG0008",
+      "style": 0,
+      "name": "何か思い出した？[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs00050100_MSG0009",
+      "style": 0,
+      "name": "無理はしないで\n少しずつ思い出していけばいい[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs00050100_MSG0010",
+      "style": 0,
+      "name": "でも今は　のんびりしている場合\nじゃないみたいね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs00050100_MSG0011",
+      "style": 0,
+      "name": "ここは楽園ではないわ\n襲い来る敵とは戦わなくてはならない[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs00050100_MSG0012",
+      "style": 0,
+      "name": "どう　戦える？[ST:wait ]\n"
+    }
+  ]
+}

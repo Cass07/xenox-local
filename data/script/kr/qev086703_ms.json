@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086703_MSG0001",
+      "style": 0,
+      "name": "엘마 씨[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086703_MSG0002",
+      "style": 0,
+      "name": "미안해, 무리하게 싸울 필요 없었는데\n모두를 위험하게 해 버렸어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086703_MSG0003",
+      "style": 0,
+      "name": "이래선 팀 리더 실격이네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086703_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 5,
+      "label": "qev086703_SEL0011",
+      "style": 3,
+      "name": "리더 교체라며 나선다"
+    },
+    {
+      "$id": 6,
+      "label": "qev086703_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 7,
+      "label": "qev086703_SEL0021",
+      "style": 3,
+      "name": "자극적이었다며 웃어넘긴다"
+    },
+    {
+      "$id": 8,
+      "label": "qev086703_MSG0004",
+      "style": 0,
+      "name": "무슨 말을 하는 거예요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086703_MSG0005",
+      "style": 0,
+      "name": "오히려 평소와 다른 엘마 씨의 모습을\n볼 수 있어서 기뻤어요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086703_MSG0006",
+      "style": 0,
+      "name": "전 이전보다 더 엘마 씨가\n좋아졌어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086703_MSG0007",
+      "style": 0,
+      "name": "맞아요, 지금 일로 리더 실격이면\n저도 블레이드 실격이에요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086703_MSG0008",
+      "style": 0,
+      "name": "이런 일로 엘마 씨와의 신뢰는\n흔들리지 않아요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086703_MSG0009",
+      "style": 0,
+      "name": "고마워[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086703_MSG0010",
+      "style": 0,
+      "name": "하지만 혹시 괜찮으면……\n그 원시 생물에 관해 얘기해 주실래요?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086703_MSG0011",
+      "style": 0,
+      "name": "원수였어, 대니와 보리스의……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086703_MSG0012",
+      "style": 0,
+      "name": "대니 씨와 보리스 씨라면 분명……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086703_MSG0013",
+      "style": 0,
+      "name": "엘마 팀의 블레이드였던 사람들이죠?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086703_MSG0014",
+      "style": 0,
+      "name": "맞아, 녀석과 싸우다가\n내 판단 미스로 B.B.를 잃었어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086703_MSG0015",
+      "style": 0,
+      "name": "그 후에 저희가 팀에 들어오고\n타츠를 발견했죠[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086703_MSG0016",
+      "style": 0,
+      "name": "감사 인사를 해야겠네\n내 팀에 들어와 줘서 정말 고마워[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086703_MSG0017",
+      "style": 0,
+      "name": "감사해야 할 건 오히려 저희예요\n그리고 이걸로 선배들의 원수를 갚은 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086703_MSG0018",
+      "style": 0,
+      "name": "그래, 그것도 그렇지만……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086703_MSG0019",
+      "style": 0,
+      "name": "그것보다 저 녀석을 쓰러뜨릴 만큼 강해진\n너희들이 자랑스러워[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086703_MSG0020",
+      "style": 0,
+      "name": "엘마 씨, 모두를 믿어라모\n다들 강하다모[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086703_MSG0020_2",
+      "style": 0,
+      "name": "저런 원시 생물, 이기는 게 당연하다모![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086703_MSG0020_2_m",
+      "style": 0,
+      "name": "저런 원시 생물, 이기는 게 당연하다모![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086703_MSG0020_2_f",
+      "style": 0,
+      "name": "저런 원시 생물, 이기는 게 당연하다모![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086703_MSG0021",
+      "style": 0,
+      "name": "엘마 씨는 리더 실격 같은 게 아니다모[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086703_MSG0021_m",
+      "style": 0,
+      "name": "엘마 씨는 리더 실격 같은 게 아니다모[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086703_MSG0021_f",
+      "style": 0,
+      "name": "엘마 씨는 리더 실격 같은 게 아니다모[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086703_MSG0022",
+      "style": 0,
+      "name": "타츠, 고마워[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086703_MSG0023",
+      "style": 0,
+      "name": "엘마 팀, 응답해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086703_MSG0024",
+      "style": 0,
+      "name": "여기는 블레이드 사령부[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086703_MSG0025",
+      "style": 0,
+      "name": "엘마야, 긴급 사태?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086703_MSG0026",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086703_MSG0027",
+      "style": 0,
+      "name": "망각의 계곡에서 교전 중인 테스터먼트에게서\n이머전시 콜입니다[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086703_MSG0028",
+      "style": 0,
+      "name": "설마, 상대는 그로우스?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086703_MSG0029",
+      "style": 0,
+      "name": "아니요, 원시 생물인 것 같습니다[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086703_MSG0030",
+      "style": 0,
+      "name": "알겠어, 서둘러 구조하러 갈게[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086703_MSG0031",
+      "style": 0,
+      "name": "들었지? 어서 가자[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086703_MSG0032",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    }
+  ]
+}

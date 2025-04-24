@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs10060100_MSG0001",
+      "style": 0,
+      "name": "これが壊れたデータプローブですね\n修理が終わるまで少し待っていてください[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs10060100_MSG0002",
+      "style": 0,
+      "name": "これで良し　と[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs10060100_MSG0003",
+      "style": 0,
+      "name": "お待たせしました\nこれでバッチリです！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs10060100_MSG0004",
+      "style": 0,
+      "name": "さすがね　リン\n助かるわ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs10060100_MSG0005",
+      "style": 0,
+      "name": "ありがとうございます！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs10060100_MSG0006",
+      "style": 0,
+      "name": "ただ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs10060100_MSG0007",
+      "style": 0,
+      "name": "これまでに打ち込んだ全てのプローブにも\n修正パッチを当てた方がいいと思います[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs10060100_MSG0008",
+      "style": 0,
+      "name": "いずれ稼働しなくなるかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs10060100_MSG0009",
+      "style": 0,
+      "name": "な　なんですも！？[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs10060100_MSG0010",
+      "style": 0,
+      "name": "プローブを一つ一つ回って\n修正ポッチするですも！？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs10060100_MSG0011",
+      "style": 0,
+      "name": "タツ　おじいさんになってしまうですも！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs10060100_MSG0012",
+      "style": 0,
+      "name": "ううん　そうじゃないよ\n今回は　私が直したけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs10060100_MSG0013",
+      "style": 0,
+      "name": "これ以外のプローブは　修正したプログラムを\n転送するだけで直るんだよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs10060100_MSG0014",
+      "style": 0,
+      "name": "よくわかりませんが　安心しましたですも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs10060100_MSG0015",
+      "style": 0,
+      "name": "この星のプローブの数\nいっぱい　いーっぱいありますも[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs10060100_MSG0016",
+      "style": 0,
+      "name": "そうだよね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs10060100_MSG0017",
+      "style": 0,
+      "name": "これまでいくつものプローブを\n打ち込んでがんばってきたよね[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs10060100_MSG0018",
+      "style": 0,
+      "name": "リンさん？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs10060100_MSG0019",
+      "style": 0,
+      "name": "私達だけじゃない\nたくさんのチームが作業を続けてます[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs10060100_MSG0020",
+      "style": 0,
+      "name": "でも　いくらフロンティアネットが広がっても\nセントラルライフはみつからない[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs10060100_MSG0021",
+      "style": 0,
+      "name": "どうしてなんですか[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "xs10060100_MSG0023",
+      "style": 0,
+      "name": "もしかしたら　私達が探してるものは\nこの星の上にないんじゃ[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "xs10060100_MSG0024",
+      "style": 0,
+      "name": "ううん\n地上に落ちた時に壊れてしまったのかも[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "xs10060100_MSG0025",
+      "style": 0,
+      "name": "そんなはずはないわ[ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "xs10060100_MSG0026",
+      "style": 0,
+      "name": "でも！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs10060100_MSG0027",
+      "style": 0,
+      "name": "私達の[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]を動かしている意識は\nこの身体の中にあるわけじゃない[ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "xs10060100_MSG0028",
+      "style": 0,
+      "name": "セントラルライフにある[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "xs10060100_MSG0029",
+      "style": 0,
+      "name": "当然　通信のラグを感じさせない距離で\n健在だということになるわ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs10060100_MSG0030",
+      "style": 0,
+      "name": "そうですよね[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 30,
+      "label": "xs10060100_MSG0030_2",
+      "style": 0,
+      "name": "ごめんなさい[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs10060100_MSG0030_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "xs10060100_MSG0031",
+      "style": 0,
+      "name": "いいのよ　疲れて当然だわ\n見知らぬ星に流れ着いて[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs10060100_MSG0032",
+      "style": 0,
+      "name": "ずっと[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]で生きていかなくては\nならなくて　大人だって疲れる[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs10060100_MSG0033",
+      "style": 0,
+      "name": "今日まで耐えてきたあなたは偉いわ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs10060100_MSG0034",
+      "style": 0,
+      "name": "[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]をデザインした人って\n何を考えてたんでしょう[ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "xs10060100_MSG0035",
+      "style": 0,
+      "name": "なにか困ったことでもあるんですも？[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "xs10060100_MSG0036",
+      "style": 0,
+      "name": "だって[ST:wide ]―　こんないっぱい涙流せるように\nしなくてもいいのに[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs10060100_MSG0037",
+      "style": 0,
+      "name": "恥ずかしいよ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs10060100_MSG0038",
+      "style": 0,
+      "name": "涙は必要なものよ\n洗い流すという大事な機能[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs10060100_MSG0039",
+      "style": 0,
+      "name": "目に入ったゴミや埃を[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs10060100_MSG0040",
+      "style": 0,
+      "name": "そして　心の中にたまったものもね[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs10060100_MSG0041",
+      "style": 0,
+      "name": "よくできてるんですね\n人の身体も[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]も[ST:wait ]\n"
+    },
+    {
+      "$id": 43,
+      "label": "xs10060100_MSG0042",
+      "style": 0,
+      "name": "いつかデザイナーに会えたら\nお礼を言うといいわ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs10060100_MSG0043",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs10060100_MSG0044",
+      "style": 0,
+      "name": "な　なんですも　この音は？[ST:wait ]\n"
+    }
+  ]
+}

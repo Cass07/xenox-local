@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001492_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]!\n마침 잘 왔어![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001492_MSG0002",
+      "style": 1,
+      "name": "네가 키우는 강아지가 있길래\n잡아서 집까지 데려다주려고 했는데……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001492_MSG0003",
+      "style": 1,
+      "name": "갑자기 깽깽 짖어 대서\n수습이 안 되고 있어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001492_MSG0004",
+      "style": 1,
+      "name": "내가 뭘 어쨌다고![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001492_JNK0010",
+      "style": 4,
+      "name": "반성"
+    },
+    {
+      "$id": 6,
+      "label": "tev001492_SEL0011",
+      "style": 3,
+      "name": "교육이 안 되어 있던 걸 사과한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001492_JNK0020",
+      "style": 4,
+      "name": "지적"
+    },
+    {
+      "$id": 8,
+      "label": "tev001492_SEL0021",
+      "style": 3,
+      "name": "강아지가 무서워하고 있다며\n이리나의 태도를 나무란다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001492_MSG0005",
+      "style": 1,
+      "name": "아니…… 저 녀석 잘못이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001492_MSG0006",
+      "style": 1,
+      "name": "난 항상 이래\n옛날부터 동물들이 싫어하거든[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001492_MSG0007",
+      "style": 1,
+      "name": "귀여워하려고 해도\n녀석들이 금방 저런 식으로 굴어서\n제대로 만져 본 적도 없어……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001492_MSG0008",
+      "style": 1,
+      "name": "내가 무섭게 한 거야?\n딱히 아무 짓도 안 했는데[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001492_MSG0009",
+      "style": 1,
+      "name": "조심조심 천천히 다가가서\n잡으려고 했을 뿐이라고……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001492_MSG0010",
+      "style": 1,
+      "name": "……있잖아, 어떻게 해야 너나 린처럼\n저 녀석을 만질 수 있을까?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001492_MSG0011",
+      "style": 1,
+      "name": "요령 같은 걸 알려 줘\n나도 수많은 원시 생물을\n상대해 온 블레이드야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001492_MSG0012",
+      "style": 1,
+      "name": "요령만 알면 강아지 정도야\n쉽게 달랠 수 있지 않겠어?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001492_JNK0030",
+      "style": 4,
+      "name": "돌격"
+    },
+    {
+      "$id": 18,
+      "label": "tev001492_SEL0031",
+      "style": 3,
+      "name": "오직 돌격이라고 가르쳐 준다"
+    },
+    {
+      "$id": 19,
+      "label": "tev001492_JNK0040",
+      "style": 4,
+      "name": "해방"
+    },
+    {
+      "$id": 20,
+      "label": "tev001492_SEL0041",
+      "style": 3,
+      "name": "경계심을 풀고 자신의 모든 것을\n드러내야 한다고 말한다"
+    },
+    {
+      "$id": 21,
+      "label": "tev001492_JNK0050",
+      "style": 4,
+      "name": "먹이"
+    },
+    {
+      "$id": 22,
+      "label": "tev001492_SEL0051",
+      "style": 3,
+      "name": "먹이로 낚으면 된다고 말한다"
+    },
+    {
+      "$id": 23,
+      "label": "tev001492_MSG0013",
+      "style": 1,
+      "name": "좋아, 그런 거라면 내 특기지![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001492_MSG0014",
+      "style": 1,
+      "name": "그럼 간다, 타하아아아아아앗!![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001492_MSG0015",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev001492_MSG0016",
+      "style": 1,
+      "name": "……이봐! 아까보다 더 확연하게\n경계심을 드러내고 있잖아![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001492_MSG0017",
+      "style": 1,
+      "name": "젠장~!\n난 평생 저 따뜻해 보이는 걸\n쓰다듬어 줄 수 없는 거냐고![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001492_MSG0018",
+      "style": 1,
+      "name": "나도…… 나도……\n한 번쯤은 펫을 귀여워해 보고 싶은데![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001492_MSG0019",
+      "style": 1,
+      "name": "내가 저런 강아지를 무서워하고 있다는 거야?\n그런 말도 안 되는……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001492_MSG0020",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001492_MSG0021",
+      "style": 1,
+      "name": "……아니, 어쩌면 그랬을 수도\n어릴 때 여러 일들이 있었거든[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001492_MSG0022",
+      "style": 1,
+      "name": "모르는 강아지를 건드렸더니 물려 버려서 말이야\n그래서 강해져야 한다는 생각으로\n어깨에 힘주고 살아왔으니까……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001492_MSG0023",
+      "style": 1,
+      "name": "겁쟁이가 됐던 걸지도 몰라\n좋았어…… 긴장을 풀고\n말을 걸어 보면 되는 거지?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001492_MSG0024",
+      "style": 1,
+      "name": "……아이, 착하다\n난 너의 적이 아니란다\n너도 내 적이 아니잖아?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001492_MSG0025",
+      "style": 1,
+      "name": "괜찮아, 믿어 줘\n그리고 너의 따뜻한 몸을 쓰다듬게 해 줘[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001492_MSG0026",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev001492_MSG0027",
+      "style": 1,
+      "name": "오…… 짖지도 않고 꼬리까지 흔들고 있어……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001492_MSG0028",
+      "style": 1,
+      "name": "다행이다…… 이 정도라면 저 녀석……\n도망가지 않겠지?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001492_MSG0029",
+      "style": 1,
+      "name": "나머지는 나한테 맡겨 줘\n저 녀석은 내가 책임지고 데려갈게[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001492_MSG0030",
+      "style": 1,
+      "name": "헤헤헤, 드디어 안을 수 있어……\n고맙다, [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001492_MSG0031",
+      "style": 1,
+      "name": "좋아, 그럼 남은 휴대 식량이라도 줘 볼까![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001492_MSG0032",
+      "style": 1,
+      "name": "별로 맛있진 않지만……\n영양만큼은 만점이라고, 먹어 봐![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001492_MSG0033",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev001492_MSG0034",
+      "style": 1,
+      "name": "……이봐! 필요 없나 봐!\n아까보다 사나워졌잖아![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001492_MSG0035",
+      "style": 1,
+      "name": "젠장~!\n난 평생 저 따뜻해 보이는 걸\n쓰다듬어 줄 수 없는 거냐고![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001492_MSG0036",
+      "style": 1,
+      "name": "나도…… 나도……\n한 번쯤은 펫을 귀여워해 보고 싶은데![ST:wait ]"
+    }
+  ]
+}

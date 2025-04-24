@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33560100_MSG0010",
+      "style": 0,
+      "name": "ああ　よかった[ST:wide ]―！\n照明弾に気づいてくれたんですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33560100_MSG0020",
+      "style": 0,
+      "name": "私一人じゃ\nどうしてもここから出られなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33560100_MSG0021",
+      "style": 0,
+      "name": "本当に助かりました[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33560100_MSG0030",
+      "style": 0,
+      "name": "あなたには助けられてばかりですが\n今度は[ST:wide ]―　私があなたの力になります[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33560100_MSG0040",
+      "style": 0,
+      "name": "私達でこの戦いを終わらせて[ST:wide ]―\nみんなで無事に帰りましょう！[ST:wait ]"
+    }
+  ]
+}

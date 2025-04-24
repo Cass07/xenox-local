@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086601_MSG0001",
+      "style": 0,
+      "name": "誰か来たですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086601_MSG0002",
+      "style": 0,
+      "name": "新しい任務があるんだが　頼めるか？\nモンティのチームが失敗したんだわ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086601_MSG0003",
+      "style": 0,
+      "name": "モンティ[ST:wide ]―　彼はテスタメントだったわね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086601_MSG0004",
+      "style": 0,
+      "name": "白鯨の遺留品でも見つかったの？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086601_MSG0005",
+      "style": 0,
+      "name": "そういうことだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086601_MSG0006",
+      "style": 0,
+      "name": "最近　この辺りにいくつかのパーツが\n流れ着いていてな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086601_MSG0007",
+      "style": 0,
+      "name": "こいつを全て回収したい[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086601_JNK0010",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 9,
+      "label": "qev086601_SEL0011",
+      "style": 3,
+      "name": "回収のメリットは何か尋ねる"
+    },
+    {
+      "$id": 10,
+      "label": "qev086601_JNK0020",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 11,
+      "label": "qev086601_SEL0012",
+      "style": 3,
+      "name": "モンティらが無事か確認する"
+    },
+    {
+      "$id": 12,
+      "label": "qev086601_MSG0008",
+      "style": 0,
+      "name": "流れ着いたパーツを分析すれば\nどの船内区画のものだか分かる[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086601_MSG0009",
+      "style": 0,
+      "name": "そうすれば　ライフが落着した位置を\n割り出す材料にもなるってわけだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086601_MSG0010",
+      "style": 0,
+      "name": "ああ　最初にそいつを言っとくべきだったな\n大丈夫だ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086601_MSG0011",
+      "style": 0,
+      "name": "装備をいくらか失ったが\n本人達はピンピンしてるよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086601_MSG0012",
+      "style": 0,
+      "name": "ＮＬＡで生産できないパーツが拾えるかも\nしれませんし　楽しみですね！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086601_MSG0013",
+      "style": 0,
+      "name": "ああ　テスタメントの連中が盛り上がってる[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086601_MSG0014",
+      "style": 0,
+      "name": "とはいえ　まだ原生生物の排除が\nすんでいないエリアなんでな[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086601_MSG0015",
+      "style": 0,
+      "name": "経験の少ないチームでは危険ね\n了解した　私達が回収してくる[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086601_MSG0016",
+      "style": 0,
+      "name": "よろしく頼むぜ　他のチームにも声かけるんで\n手柄は早い者勝ちだ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086601_MSG0017",
+      "style": 0,
+      "name": "むむむ　これは負けてられないですも！\n急いで行くですも！[ST:wait ]"
+    }
+  ]
+}

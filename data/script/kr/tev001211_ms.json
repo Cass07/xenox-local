@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001211_MSG0010",
+      "style": 1,
+      "name": "저기……!\n저도 임무에 데려가 주세요![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001211_MSG0020",
+      "style": 1,
+      "name": "요리라도 할까 했는데\n그…… 자꾸 이런저런 생각이 들고\n집중이 안 돼서……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001211_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 4,
+      "label": "tev001211_SEL0040",
+      "style": 3,
+      "name": "린을 멤버에 넣는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001211_MSG0050",
+      "style": 1,
+      "name": "고마워요!\n저 열심히 할게요……![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001211_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001211_SEL0070",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001211_MSG0080",
+      "style": 1,
+      "name": "……알겠어요\n저 나름대로 지금 할 수 있는 것을 찾아 볼게요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001211_MSG0090",
+      "style": 1,
+      "name": "NLA가 사라져 버렸네요……\n우리의 제2의 고향이 될 곳이었는데……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001211_MSG0100",
+      "style": 1,
+      "name": "그래도…… 이 작전이 성공하면\n분명 재건할 수 있겠죠?\n우리가 살아 있는 한 몇 번이고……![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001211_MSG0110",
+      "style": 1,
+      "name": "그러니까……\n반드시 이겨요![ST:wait ]"
+    }
+  ]
+}

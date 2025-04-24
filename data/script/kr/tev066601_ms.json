@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev066601_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev066601_SEL0011",
+      "style": 3,
+      "name": "그로우스를 나온 뒤의\n일에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev066601_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev066601_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev066601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev066601_SEL0031",
+      "style": 3,
+      "name": "앞으로의 일에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev066601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev066601_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev066601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev066601_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev066601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev066601_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev066601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev066601_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev066601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev066601_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev066601_MSG0001",
+      "style": 1,
+      "name": "망각의 계곡에 숨어 살던 때\n그로우스가 몇 번이고 자객을 보냈습니다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev066601_MSG0002",
+      "style": 1,
+      "name": "그때마다 저희는 굶주린 몸을 떨면서도\n그들을 격퇴했지요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev066601_MSG0003",
+      "style": 1,
+      "name": "……그러나 환경이 너무도 가혹했어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev066601_MSG0004",
+      "style": 1,
+      "name": "부상자도 늘어나고, 형님은 그들을 돕고자\n있는 힘껏 싸우다 살해당하고 말았습니다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev066601_MSG0005",
+      "style": 1,
+      "name": "여러분도 그로우스를 증오하고 계시겠지만\n저희에게도 녀석들과 싸울 이유가 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev066601_MSG0010",
+      "style": 1,
+      "name": "그때는 저지 누님을 구해 주셔서\n진심으로 감사드립니다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev066601_MSG0011",
+      "style": 1,
+      "name": "누님은 여전히 녀석을 쓰러뜨리겠다며\n언제 뛰쳐나갈지 모르는 상태입니다만\n다음엔 이 몸을 바쳐서라도 막을 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev066601_MSG0012",
+      "style": 1,
+      "name": "저에게는 당신과 같은 힘이 없으니\n녀석을 쓰러뜨릴 수는 없겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev066601_MSG0013",
+      "style": 1,
+      "name": "조 가문의 가장으로서\n누님을 지켜 낸다는 책임만은\n목숨 걸고 완수하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev066601_MSG0018",
+      "style": 1,
+      "name": "이 『빌디잉』이라는\n네모난 건물에 사는 분들께서\n경호 일을 해 보지 않겠냐고 말씀하셨어요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev066601_MSG0019",
+      "style": 1,
+      "name": "그로우스와의 싸움도 일단락되어\n우리 용병단의 일도 거의 없어졌으니[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev066601_MSG0020",
+      "style": 1,
+      "name": "이러한 일을 통해 생계를 꾸리는 것도\n나쁘지 않겠다…… 싶습니다만[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev066601_MSG0021",
+      "style": 1,
+      "name": "저지 누님은\n그런 건 무사가 할 일이 아니다!\n라며 꾸짖으셨어요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev066601_MSG0022",
+      "style": 1,
+      "name": "이 힘을 활용할 수 있는 일이라면\n괜찮을 것 같습니다만…… 어렵군요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev066601_MSG1001",
+      "style": 1,
+      "name": "저지 누님을 구해 주셨을 뿐 아니라\n심지어 그 악한까지 쓰러뜨려 주셨다니……![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev066601_MSG1002",
+      "style": 1,
+      "name": "감사드립니다\n조 가문은 당신의 은혜를 영원히 잊지 않겠습니다![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev066601_MSG1003",
+      "style": 1,
+      "name": "앞으로는 누님도\n복수 같은 것에 마음을 빼앗기지 않을 것이니……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev066601_MSG1004",
+      "style": 1,
+      "name": "조 가문의 귀공녀로서\n훌륭한 무사에게 시집보내고 싶습니다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev066601_MSG1005",
+      "style": 1,
+      "name": "그게 조 가문의 가장으로서 저의 새로운 사명!\n이 또한 어려운 길이겠으나\n필히 완수하고야 말겠어요![ST:wait ]"
+    }
+  ]
+}

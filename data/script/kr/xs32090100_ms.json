@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32090100_MSG0010",
+      "style": 0,
+      "name": "이번에는 정말 죽는 줄 알았엉![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32090100_MSG0020",
+      "style": 0,
+      "name": "살아서 다행이다모[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32090100_MSG0030",
+      "style": 0,
+      "name": "멍멍이한테 감사해라모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32090100_MSG0040",
+      "style": 0,
+      "name": "동감이야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32090100_MSG0050",
+      "style": 0,
+      "name": "당신들이 와 주지 않았다면\n이렇게 이야기조차 할 수 없었겠지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32090100_MSG0060",
+      "style": 0,
+      "name": "고마워[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32090100_MSG0070",
+      "style": 0,
+      "name": "같은 별에 사는 자들끼리\n서로 돕는 건 당연하다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32090100_MSG0080",
+      "style": 0,
+      "name": "부상까지 당했는데[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32090100_MSG0090",
+      "style": 0,
+      "name": "장치도 없었다니, 지지리 운도 없지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32090100_MSG0100",
+      "style": 0,
+      "name": "괜찮앙![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32090100_MSG0110",
+      "style": 0,
+      "name": "다음 목적지는 이미 파악됐엉![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32090100_MSG0120",
+      "style": 0,
+      "name": "이번에는 장치도 운도 있을 거양![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32090100_MSG0130",
+      "style": 0,
+      "name": "정말이야? 벌써 3번째라고?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32090100_MSG0140",
+      "style": 0,
+      "name": "노 프라블럼이양![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32090100_MSG0150",
+      "style": 0,
+      "name": "방금까지 생사의 갈림길에 서 있었는데\n상당히 속 편한 소리를 하는구나[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32090100_MSG0160",
+      "style": 0,
+      "name": "살아 있으면 전부 오케이양![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32090100_MSG0170",
+      "style": 0,
+      "name": "다음 목적지로 가자공![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32090100_MSG0180",
+      "style": 0,
+      "name": "[ST:undisp ]하아……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32090100_MSG0190",
+      "style": 0,
+      "name": "하하하하~[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32090100_MSG0191",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "xs32090100_MSG0192",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "xs32090100_MSG0193",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "xs32090100_MSG0200",
+      "style": 0,
+      "name": "정식으로 인사할게[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32090100_MSG0210",
+      "style": 0,
+      "name": "그들을 구해 줘서 고마워[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32090100_MSG0220",
+      "style": 0,
+      "name": "전하로부터 지구인과는\n서로 도우라는 명이 내려왔기 때문이다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32090100_MSG0230",
+      "style": 0,
+      "name": "전하[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32090100_MSG0240",
+      "style": 0,
+      "name": "우리 동료를 구해 주셔서 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32090100_MSG0250",
+      "style": 0,
+      "name": "인사는 필요 없다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32090100_MSG0260",
+      "style": 0,
+      "name": "서로 돕고 살아야지 않겠는가[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32090100_MSG0270",
+      "style": 0,
+      "name": "그건 그렇고……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32090100_MSG0280",
+      "style": 0,
+      "name": "설마 보이드가 이곳에 나타날 줄이야[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32090100_MSG0290",
+      "style": 0,
+      "name": "보이드를 알고 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32090100_MSG0300",
+      "style": 0,
+      "name": "위터는 혼에 가까운 보이드를\n받아들이기 위한 그릇[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32090100_MSG0310",
+      "style": 0,
+      "name": "지구에서 벌어진 전투 때에도\n위터에 의식을 넣어 그로우스를 이끌었다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32090100_MSG0320",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs32090100_MSG0330",
+      "style": 0,
+      "name": "지구 소멸의 혼란 속에서\n보이드의 의식은 위터를 떠나……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs32090100_MSG0340",
+      "style": 0,
+      "name": "그 빈 껍데기는[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs32090100_MSG0350",
+      "style": 0,
+      "name": "너희의 우주선이 그랬듯 미라로 이끌려[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs32090100_MSG0360",
+      "style": 0,
+      "name": "추락한 것이다[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs32090100_MSG0370",
+      "style": 0,
+      "name": "알 씨[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs32090100_MSG0380",
+      "style": 0,
+      "name": "전에 이야기했던……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs32090100_MSG0390",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs32090100_MSG0400",
+      "style": 0,
+      "name": "틈새의 세계에서 위터와 의식만\n연결되어 있던 게 아니냐는 추측과는[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs32090100_MSG0410",
+      "style": 0,
+      "name": "모순되지 않는군[ST:wait ]"
+    }
+  ]
+}

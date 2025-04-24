@@ -1,0 +1,618 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32020100_MSG0010",
+      "style": 0,
+      "name": "ヴォイドの出現以降[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32020100_MSG0020",
+      "style": 0,
+      "name": "各地でなりを潜めていたグロウスの\n残党が息を吹き返してきた[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32020100_MSG0030",
+      "style": 0,
+      "name": "消失現象やゴーストは彼らにとっても\n脅威のはずだけど[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32020100_MSG0040",
+      "style": 0,
+      "name": "新しい目的を得たことで\n士気が上がっているのでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32020100_MSG0050",
+      "style": 0,
+      "name": "目的[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32020100_MSG0060",
+      "style": 0,
+      "name": "ヴォイドがいる浮遊大陸か[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32020100_MSG0070",
+      "style": 0,
+      "name": "あの場所を聖地として\nヴォイドの声を聞いた者たちの巡礼が始まった[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32020100_MSG0080",
+      "style": 0,
+      "name": "創造主とともに新世界を目指すため[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32020100_MSG0090",
+      "style": 0,
+      "name": "それは　残党とされ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32020100_MSG0100",
+      "style": 0,
+      "name": "隠者のごとき日々を暮らしていた\nグロウスにとっては[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32020100_MSG0110",
+      "style": 0,
+      "name": "最高の動機となる[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32020100_MSG0120",
+      "style": 0,
+      "name": "なら黙って集結すればいいのによ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32020100_MSG0130",
+      "style": 0,
+      "name": "あちこちでいざこざを起こしやがる[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32020100_MSG0140",
+      "style": 0,
+      "name": "活気づいたのをいいことに[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32020100_MSG0150",
+      "style": 0,
+      "name": "暴動だの略奪だの　やりたい放題[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32020100_MSG0160",
+      "style": 0,
+      "name": "たまんないっすよね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32020100_MSG0170",
+      "style": 0,
+      "name": "もとはサマールの末裔である我々の\n駆逐を目的として活動していた群体だ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32020100_MSG0180",
+      "style": 0,
+      "name": "それが本性というものなのだろう[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32020100_MSG0190",
+      "style": 0,
+      "name": "これも生き残りのための闘争ってことか[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32020100_MSG0200",
+      "style": 0,
+      "name": "この[System:Ruby rt=ミラ ]惑星[/System:Ruby]で生きていく[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32020100_MSG0210",
+      "style": 0,
+      "name": "ここを安住の地　第二の故郷にと\nここまでやってきたが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32020100_MSG0220",
+      "style": 0,
+      "name": "消失現象　ゴースト　グロウス[ST:wide ]―\nあらゆる脅威から同胞を護らねばならん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32020100_MSG0240",
+      "style": 0,
+      "name": "それには[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32020100_MSG0250",
+      "style": 0,
+      "name": "ヴォイドからコアを取り戻し\n別の世界に転移する[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32020100_MSG0260",
+      "style": 0,
+      "name": "つまり　この[System:Ruby rt=ミラ ]惑星[/System:Ruby]を捨てる以外に道はない[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32020100_MSG0270",
+      "style": 0,
+      "name": "さしずめ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32020100_MSG0280",
+      "style": 0,
+      "name": "第二次汎移民計画ってところだ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32020100_MSG0290",
+      "style": 0,
+      "name": "せっかくルクザールのやつを追っ払って\n輪が広がってこれからって時に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32020100_MSG0300",
+      "style": 0,
+      "name": "そっすね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32020100_MSG0310",
+      "style": 0,
+      "name": "ここでの生活にも馴染んで来たんすけどね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32020100_JNK0010",
+      "style": 4,
+      "name": "悲しむ"
+    },
+    {
+      "$id": 32,
+      "label": "xs32020100_SEL0010",
+      "style": 3,
+      "name": "捨てたくないと憤る"
+    },
+    {
+      "$id": 33,
+      "label": "xs32020100_MSG0320",
+      "style": 0,
+      "name": "まさに　断腸の思いです[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32020100_JNK0020",
+      "style": 4,
+      "name": "諦める"
+    },
+    {
+      "$id": 35,
+      "label": "xs32020100_SEL0020",
+      "style": 3,
+      "name": "仕方がないと心の整理をする"
+    },
+    {
+      "$id": 36,
+      "label": "xs32020100_MSG0330",
+      "style": 0,
+      "name": "まぁな[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs32020100_MSG0340",
+      "style": 0,
+      "name": "わかっちゃいるんだけどな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs32020100_MSG0350",
+      "style": 0,
+      "name": "皆の気持ちは分かる[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs32020100_MSG0360",
+      "style": 0,
+      "name": "だがな[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs32020100_MSG0370",
+      "style": 0,
+      "name": "現実も見なくちゃならん[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs32020100_MSG0380",
+      "style": 0,
+      "name": "消失現象は止まることなく拡がり\n着実にこの星を飲み込んでいっている[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs32020100_MSG0390",
+      "style": 0,
+      "name": "この事実は　変えられん[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs32020100_MSG0400",
+      "style": 0,
+      "name": "今回は　地球種のみには限定していない[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs32020100_MSG0410",
+      "style": 0,
+      "name": "ミラに生きる『すべての種族』を脱出させる[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs32020100_MSG0420",
+      "style": 0,
+      "name": "すべての種族[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs32020100_MSG0430",
+      "style": 0,
+      "name": "もちろん　こちらの提案に同意した\n『すべての種族』だ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs32020100_MSG0440",
+      "style": 0,
+      "name": "残念だが[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs32020100_MSG0450",
+      "style": 0,
+      "name": "意思疎通が不可能な生命種は\n基本的に含まれない[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs32020100_MSG0460",
+      "style": 0,
+      "name": "それはまた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs32020100_MSG0470",
+      "style": 0,
+      "name": "何と言うか　エゴイスティックですね[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs32020100_JNK0030",
+      "style": 4,
+      "name": "怒り"
+    },
+    {
+      "$id": 52,
+      "label": "xs32020100_SEL0030",
+      "style": 3,
+      "name": "生命を選別してはいけないと抗議する"
+    },
+    {
+      "$id": 53,
+      "label": "xs32020100_MSG0480",
+      "style": 0,
+      "name": "君の気持ちは分かる[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs32020100_MSG0490",
+      "style": 0,
+      "name": "私もやりたくはない[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs32020100_MSG0500",
+      "style": 0,
+      "name": "だがな　現実的には難しいのだ[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs32020100_MSG0510",
+      "style": 0,
+      "name": "有害なもの　凶暴なもの様々なものがいる[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs32020100_MSG0520",
+      "style": 0,
+      "name": "残りの時間と今いる隊員だけでは\n全てに対応することはできん[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs32020100_JNK0040",
+      "style": 4,
+      "name": "諦め"
+    },
+    {
+      "$id": 59,
+      "label": "xs32020100_SEL0040",
+      "style": 3,
+      "name": "現実的には難しいと納得する"
+    },
+    {
+      "$id": 60,
+      "label": "xs32020100_MSG0530",
+      "style": 0,
+      "name": "そうだ[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs32020100_MSG0540",
+      "style": 0,
+      "name": "できればやりたくはない[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs32020100_MSG0550",
+      "style": 0,
+      "name": "だが　人類はこれまで幾度となく自分たちの\n都合のままに生命を選別して来た[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs32020100_MSG0560",
+      "style": 0,
+      "name": "神ではない[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs32020100_MSG0570",
+      "style": 0,
+      "name": "自分勝手な罪を背負って生きる\n一生命体でしかないのだ[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs32020100_MSG0580",
+      "style": 0,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs32020100_MSG0590",
+      "style": 0,
+      "name": "それにしたって全種族っていうのは[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs32020100_MSG0595",
+      "style": 0,
+      "name": "可能なんすか？[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs32020100_MSG0600",
+      "style": 0,
+      "name": "そうです[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs32020100_MSG0610",
+      "style": 0,
+      "name": "脱出用の船をこれから建造するなら[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs32020100_MSG0620",
+      "style": 0,
+      "name": "かなりの時間と\nそれに大きさが必要なはずです[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs32020100_MSG0630",
+      "style": 0,
+      "name": "船については　マ・ノン人との\n協力体制を取り付けた[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs32020100_MSG0640",
+      "style": 0,
+      "name": "ＮＬＡに浮いている\nあのマ・ノン船を使うんですか？[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs32020100_MSG0650",
+      "style": 0,
+      "name": "そういうことだ[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs32020100_MSG0660",
+      "style": 0,
+      "name": "計算上　あの船ならば全種族の収容が可能だ[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs32020100_MSG0670",
+      "style": 0,
+      "name": "アレスを使った転移システムの構築や[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs32020100_MSG0680",
+      "style": 0,
+      "name": "セントラルライフの原形質溶液の搬入を含む\n諸々の改修は必要だが[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs32020100_MSG0690",
+      "style": 0,
+      "name": "協力してあたれば\n消失現象が来る前には終わる[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs32020100_MSG0700",
+      "style": 0,
+      "name": "故事に言う　一石三鳥　ですね[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs32020100_MSG0710",
+      "style": 0,
+      "name": "ああ　すべて万事順調というわけだ[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "xs32020100_MSG0720",
+      "style": 0,
+      "name": "確認できる種族が生活する範囲にも\n計画の内容は伝えてある[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs32020100_MSG0730",
+      "style": 0,
+      "name": "ミラと運命を共にすると\n返して来た者もいるらしいが[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs32020100_MSG0740",
+      "style": 0,
+      "name": "大半はＮＬＡに向けて移動を開始している[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs32020100_MSG0750",
+      "style": 0,
+      "name": "のんびりしてらんねぇな[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs32020100_MSG0760",
+      "style": 0,
+      "name": "そうね[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs32020100_MSG0770",
+      "style": 0,
+      "name": "今より所属する全ブレイド隊員は[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs32020100_MSG0780",
+      "style": 0,
+      "name": "この計画を成功させることが最優先事項となる[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "xs32020100_MSG0790",
+      "style": 0,
+      "name": "現段階でやることは　２つ[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "xs32020100_MSG0800",
+      "style": 0,
+      "name": "脱出船の建造協力と\nＮＬＡへの移住希望者の補助[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "xs32020100_MSG0810",
+      "style": 0,
+      "name": "この非常事態だ[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "xs32020100_MSG0820",
+      "style": 0,
+      "name": "所属ユニオン関係なく任務に\nついてもらう場合もある[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "xs32020100_MSG0830",
+      "style": 0,
+      "name": "準備をしておいてくれ[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "xs32020100_MSG0840",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "xs32020100_MSG0841",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 94,
+      "label": "xs32020100_MSG0842",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 95,
+      "label": "xs32020100_MSG0843",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 96,
+      "label": "xs32020100_MSG0844",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 97,
+      "label": "xs32020100_MSG0845",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 98,
+      "label": "xs32020100_MSG0846",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 99,
+      "label": "xs32020100_MSG0847",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 100,
+      "label": "xs32020100_MSG0848",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

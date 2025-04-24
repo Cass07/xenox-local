@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050908_MSG0001",
+      "style": 1,
+      "name": "지구인을 대표해서\n내가 연락원으로서 어떤 특성을 지녔는지\n설명하는 일을 도와주길 바란다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050908_MSG0002",
+      "style": 1,
+      "name": "지구인 쪽의 의견도 있으면\n소대장님께서도 긍정적인 판단을\n해 주실 것 같은 기분이 든다![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050908_MSG0003",
+      "style": 1,
+      "name": "블레이드여……\n핏빛 페이스와 강화 블레이드 부품\n그리고 차세대 메인 코어 부품이다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050908_MSG0004",
+      "style": 1,
+      "name": "정말 미안하다……\n잘 부탁한다……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050908_MSG0005",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev041204_MSG0001",
+      "style": 1,
+      "name": "므……\n므하~[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev041204_MSG0002",
+      "style": 1,
+      "name": "그 흉포한 집단을\n정말로 전부 쓰러뜨려 버렸다모~[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev041204_MSG0003",
+      "style": 1,
+      "name": "그만한 실력이 있으면\n경호원으로 돈을 벌 수 있을 것 같다모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev041204_MSG0004",
+      "style": 1,
+      "name": "뭐, 비즈니스를 힘으로 어떻게 하려는\n그 태도에는 익숙해질 수 없겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev041204_MSG0005",
+      "style": 1,
+      "name": "이 세상에는 아주 드물게 그런 일도 있다모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev041204_MSG0006",
+      "style": 1,
+      "name": "앗, 지금 여유 부릴 때가 아니다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev041204_MSG0007",
+      "style": 1,
+      "name": "그로우스에게 싸움을 걸었으니\n도망치지 않으면 잡아먹힐 거다모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev041204_MSG0008",
+      "style": 1,
+      "name": "므믄은 도망가겠다모!\n너희도 빨리 도망가는 게 좋을 거다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev041204_MSG0009",
+      "style": 1,
+      "name": "살아 있으면 또 보자모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev041204_MSG0010",
+      "style": 1,
+      "name": "안녕이다모~![ST:wait ]"
+    }
+  ]
+}

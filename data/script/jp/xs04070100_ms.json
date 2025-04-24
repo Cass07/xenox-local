@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04070100_MSG0001",
+      "style": 0,
+      "name": "ルーさんはノポンを知ってますも！？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04070100_MSG0002",
+      "style": 0,
+      "name": "ええ　私の作るゲージュツ品を\nよく買ってくださいます[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04070100_MSG0003",
+      "style": 0,
+      "name": "故事に言う　カモといったところですね[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs04070100_MSG0004",
+      "style": 0,
+      "name": "それ　お得意様って言わないんだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs04070100_MSG0005",
+      "style": 0,
+      "name": "この星に古くから暮らしているとのことだけど[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs04070100_MSG0006",
+      "style": 0,
+      "name": "はい　ここは静かでいい星ですよ[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs04070100_MSG0007",
+      "style": 0,
+      "name": "動物達も虫達も皆\nおとなしく気立てのいい者ばかり[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs04070100_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 9,
+      "label": "xs04070100_SEL0011",
+      "style": 3,
+      "name": "何となくうなずく"
+    },
+    {
+      "$id": 10,
+      "label": "xs04070100_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 11,
+      "label": "xs04070100_SEL0021",
+      "style": 3,
+      "name": "何度も襲われたとツッコむ"
+    },
+    {
+      "$id": 12,
+      "label": "xs04070100_MSG0008",
+      "style": 0,
+      "name": "えーー　何回も襲われているじゃないですか！[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs04070100_MSG0009",
+      "style": 0,
+      "name": "そうですも！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs04070100_MSG0010",
+      "style": 0,
+      "name": "タツがいなかったら　みんな今頃\nエサになってましたも！[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs04070100_MSG0011",
+      "style": 0,
+      "name": "そうね　次に襲われたら\n差し出す餌もあることだし[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs04070100_MSG0011_01",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "xs04070100_MSG0012",
+      "style": 0,
+      "name": "だから　それは\nお腹が減っていただけなんです[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs04070100_MSG0013",
+      "style": 0,
+      "name": "全然　おとなしくないんじゃ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs04070100_MSG0014",
+      "style": 0,
+      "name": "ただねぇ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs04070100_MSG0015",
+      "style": 0,
+      "name": "ただ？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs04070100_MSG0016",
+      "style": 0,
+      "name": "最近は　騒がしい連中が次々とこの星に現れて[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs04070100_MSG0017",
+      "style": 0,
+      "name": "ああ　あなた方のことじゃありませんよ\nバイアス人とか　そういった連中のことです[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs04070100_MSG0018",
+      "style": 0,
+      "name": "ルーさんは　バイアス人が嫌いなんですか？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs04070100_MSG0019",
+      "style": 0,
+      "name": "それはもう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs04070100_MSG0019_2",
+      "style": 0,
+      "name": "私の平穏な暮らしを破壊してくれた\n憎むべき連中ですよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs04070100_MSG0020",
+      "style": 0,
+      "name": "故事に言うところの　不倶戴天の仲です[ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "xs04070100_MSG0021",
+      "style": 0,
+      "name": "ルー　あなた\nずいぶん地球の言語に詳しいようね[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs04070100_MSG0022",
+      "style": 0,
+      "name": "ちょっと間違えているような気もするけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs04070100_MSG0023",
+      "style": 0,
+      "name": "実はこの先にある宇宙船の\n残骸のようなものの中で[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs04070100_MSG0024",
+      "style": 0,
+      "name": "データ[System:Ruby rt=デバイス ]端末[/System:Ruby]というものを見つけましてね[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "xs04070100_MSG0025",
+      "style": 0,
+      "name": "私の知的好奇心の泉は\nそれで満たされているのですよ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs04070100_MSG0026",
+      "style": 0,
+      "name": "この先ってことは\nライフポイントのことでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs04070100_MSG0027",
+      "style": 0,
+      "name": "どうやらそうみたいね[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs04070100_MSG0027_2",
+      "style": 0,
+      "name": "ルー　よければその[System:Ruby rt=デバイス ]端末[/System:Ruby]を貸してくれない？[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs04070100_MSG0028",
+      "style": 0,
+      "name": "ええ　もちろんですよ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs04070100_MSG0029",
+      "style": 0,
+      "name": "ありがとう\nリン　ちょっとこれを解析してみて[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs04070100_MSG0030",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs04070100_MSG0031",
+      "style": 0,
+      "name": "結果出ました　書籍データのようです[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs04070100_MSG0032",
+      "style": 0,
+      "name": "ちょっと見せて[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs04070100_MSG0033",
+      "style": 0,
+      "name": "なるほど　この先にあるのはライフの一部\nデータベースユニットの可能性が高いわね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs04070100_MSG0034",
+      "style": 0,
+      "name": "じゃあ　ライフの本体じゃないんだ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs04070100_MSG0035",
+      "style": 0,
+      "name": "あれだけバラバラになって\n墜ちていったのだから[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs04070100_MSG0036",
+      "style": 0,
+      "name": "一緒に見つかったら\n奇跡と言っていいでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs04070100_MSG0037",
+      "style": 0,
+      "name": "そうですか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs04070100_MSG0038",
+      "style": 0,
+      "name": "リン　落ち込む事はないわ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs04070100_MSG0039",
+      "style": 0,
+      "name": "たとえ本命ではないデータベースだけ\nだったとしても　それも人類の大切な遺産よ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs04070100_MSG0040",
+      "style": 0,
+      "name": "とにかく現地で確認してみましょう[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs04070100_MSG0041",
+      "style": 0,
+      "name": "そうですね[ST:wait ]\n"
+    },
+    {
+      "$id": 49,
+      "label": "xs04070100_MSG0042",
+      "style": 0,
+      "name": "今はやめた方がいいですよ[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs04070100_MSG0043",
+      "style": 0,
+      "name": "どうしてですも？[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs04070100_MSG0044",
+      "style": 0,
+      "name": "先ほどまで残骸の近くにいたのですが[ST:wait ]\n"
+    },
+    {
+      "$id": 52,
+      "label": "xs04070100_MSG0045",
+      "style": 0,
+      "name": "あの憎っくきバイアス人が\n現れたので戻ってきたのですよ[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs04070100_MSG0046",
+      "style": 0,
+      "name": "バイアスが[ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "xs04070100_MSG0047",
+      "style": 0,
+      "name": "エルマさん　悪い予感がします！[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs04070100_MSG0048",
+      "style": 0,
+      "name": "そうね　急ぎましょう[ST:wait ]\n"
+    },
+    {
+      "$id": 56,
+      "label": "xs04070100_MSG0049",
+      "style": 0,
+      "name": "あなた方は私にとっては\nもはや友人といってよい方々だ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs04070100_MSG0050",
+      "style": 0,
+      "name": "私も一緒に参りましょう\nこれぞ故事に言う　寄らば文殊の知恵！[ST:wait ]\n"
+    },
+    {
+      "$id": 58,
+      "label": "xs04070100_MSG0051",
+      "style": 0,
+      "name": "やっぱりまちがえてる[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

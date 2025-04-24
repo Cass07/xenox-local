@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087701_MSG0001",
+      "style": 0,
+      "name": "ラース兵のようね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087701_MSG0002",
+      "style": 0,
+      "name": "ううう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087701_MSG0003",
+      "style": 0,
+      "name": "あ　あなた方は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087701_MSG0004",
+      "style": 0,
+      "name": "地球人よ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087701_MSG0005",
+      "style": 0,
+      "name": "あなた方ラースに好意的な異星人\nそう把捉してもらえると嬉しいわ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087701_MSG0006",
+      "style": 0,
+      "name": "ラースのオトモダチ　ノポンもいるですも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087701_MSG0007",
+      "style": 0,
+      "name": "何かあったんですか？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087701_MSG0008",
+      "style": 0,
+      "name": "グロウスの残党に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087701_MSG0009",
+      "style": 0,
+      "name": "グロウスですも！？\nあいつら　まだ悪さしてたんですも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087701_MSG0010",
+      "style": 0,
+      "name": "私はラースの武士ニ・ザイン\n地球とノポンの方々　お願いがあり申す[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087701_MSG0011",
+      "style": 0,
+      "name": "聞かせて　力になりたいと思う[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087701_MSG0012",
+      "style": 0,
+      "name": "かたじけない　殿下を\nデルグ殿下にご助力いただきたいのです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087701_MSG0013",
+      "style": 0,
+      "name": "デルグデンカ\nあぁ　あのワンコさんですも[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087701_MSG0014",
+      "style": 0,
+      "name": "我らが一時期　グロウスに与していたことは\nあなた方もご存知だと思います[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087701_MSG0015",
+      "style": 0,
+      "name": "その頃　奴らに求められ\n我らのドールを提供してしまったのです[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087701_MSG0016",
+      "style": 0,
+      "name": "そりゃ　ラース製ドールって\n機動性が高くて優秀ですもんね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087701_MSG0017",
+      "style": 0,
+      "name": "奴らは今でもその機体の複製を\n使い続けています[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087701_MSG0018",
+      "style": 0,
+      "name": "それを赦せないとお考えになった殿下は\n我らを率いて破壊に向かったのですが[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087701_MSG0019",
+      "style": 0,
+      "name": "作戦は失敗した[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087701_MSG0020",
+      "style": 0,
+      "name": "グロウス残党の奇襲を受け\n部隊は散り散りに[ST:wide ]―　私もこの様です[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087701_MSG0021",
+      "style": 0,
+      "name": "かといって　あきらめるような\n殿下ではないでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087701_MSG0022",
+      "style": 0,
+      "name": "ですよね　あの人なら\n一人でも乗り込んでっちゃいそう[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087701_MSG0023",
+      "style": 0,
+      "name": "分かったわ　殿下は私達地球人との間に\n友好関係を築いてくれた方[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087701_MSG0024",
+      "style": 0,
+      "name": "見過ごすわけにはいかない[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087701_MSG0025",
+      "style": 0,
+      "name": "感謝します[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087701_MSG0026",
+      "style": 0,
+      "name": "ドールが保管されているのはこの場所です\n何卒お急ぎを[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087701_MSG0027",
+      "style": 0,
+      "name": "でもワンコのおっちゃん\n置いてっちゃっていいんですも？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087701_JNK0010",
+      "style": 4,
+      "name": "積極"
+    },
+    {
+      "$id": 29,
+      "label": "qev087701_SEL0011",
+      "style": 3,
+      "name": "デルグの応援が優先だと主張"
+    },
+    {
+      "$id": 30,
+      "label": "qev087701_JNK0020",
+      "style": 4,
+      "name": "慎重"
+    },
+    {
+      "$id": 31,
+      "label": "qev087701_SEL0021",
+      "style": 3,
+      "name": "ニ・ザインの治療が優先だと語る"
+    },
+    {
+      "$id": 32,
+      "label": "qev087701_MSG0028",
+      "style": 0,
+      "name": "ええ　そうしてください[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev087701_MSG0029",
+      "style": 0,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087701_MSG0030",
+      "style": 0,
+      "name": "まず彼の治療が優先よ\nＮＬＡに連れて行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087701_MSG0031",
+      "style": 0,
+      "name": "そうね　ここは人命優先ね[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev087701_MSG0032",
+      "style": 0,
+      "name": "助かります[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev087701_MSG0033",
+      "style": 0,
+      "name": "ですが　すでに救援の手配はしております\nそれよりも　デルグ殿下を[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev087701_MSG0034",
+      "style": 0,
+      "name": "分かったわ　確かに聞き届けた[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev087701_MSG0035",
+      "style": 0,
+      "name": "ありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev087701_MSG0036",
+      "style": 0,
+      "name": "皆　行くわよ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086401_MSG0001",
+      "style": 0,
+      "name": "오, 타츠다모\n마침 잘됐다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086401_MSG0002",
+      "style": 0,
+      "name": "어머, 친구?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086401_MSG0004_02",
+      "style": 0,
+      "name": "친구 같은 거 아니다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086401_JNK0010",
+      "style": 4,
+      "name": "상상"
+    },
+    {
+      "$id": 5,
+      "label": "qev086401_SEL0011",
+      "style": 3,
+      "name": "분명 형제일 거라고 지적한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev086401_JNK0020",
+      "style": 4,
+      "name": "억측"
+    },
+    {
+      "$id": 7,
+      "label": "qev086401_SEL0021",
+      "style": 3,
+      "name": "설마 적이냐고 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "qev086401_MSG0005",
+      "style": 0,
+      "name": "실례다모!\n토라와 타츠는 전혀 닮지 않았다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086401_MSG0006",
+      "style": 0,
+      "name": "그렇게 말한들\n노폰인은 구별하기 힘든걸……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086401_MSG0007",
+      "style": 0,
+      "name": "바로 그거다모!\n이 녀석과는 언젠가 반드시 결판을 낼 거다모![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086401_MSG0008",
+      "style": 0,
+      "name": "토라와 타츠는 평생의 라이벌이다모![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086401_MSG0009",
+      "style": 0,
+      "name": "평생의 라이벌 말이지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086401_MSG0010",
+      "style": 0,
+      "name": "이 도시에 온 후로 알게 된 사이다모\n눈이 마주친 순간 찌릿하고 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086401_MSG0011",
+      "style": 0,
+      "name": "이 녀석은 언젠가 자웅을 가릴\n강적이라 쓰고 친구라고 읽는 노폰이다모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086401_MSG0012",
+      "style": 0,
+      "name": "그럼 친구 맞잖아?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086401_MSG0013",
+      "style": 0,
+      "name": "모모?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086401_MSG0014",
+      "style": 0,
+      "name": "그건 그렇고 널 찾고 있었다모[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086401_MSG0015",
+      "style": 0,
+      "name": "라이벌에게도 도움을 주는 토라는\n좋은 노폰이다모[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086401_MSG0016",
+      "style": 0,
+      "name": "찾았다고모?\n뭔가 용건이라도 있냐모?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086401_MSG0017",
+      "style": 0,
+      "name": "있다모, 물론 있다모[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086401_MSG0018",
+      "style": 0,
+      "name": "야광의 숲에 노폰의 카라반이\n왔다고 한다모[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086401_MSG0019",
+      "style": 0,
+      "name": "그게 어쨌다는 건가모?\n타츠와는 상관없는 이야기다모[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086401_MSG0020",
+      "style": 0,
+      "name": "그런가모?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086401_MSG0021",
+      "style": 0,
+      "name": "그게 도돈가 카라반이라고 해도 말인가모?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086401_MSG0022",
+      "style": 0,
+      "name": "뭐, 뭐라고모~~!?[ST:wait ]"
+    }
+  ]
+}

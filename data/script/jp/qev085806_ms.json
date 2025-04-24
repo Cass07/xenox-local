@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085806_MSG0001",
+      "style": 0,
+      "name": "ええっ　ラオさんが戻ってきた！？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085806_MSG0002",
+      "style": 0,
+      "name": "そうなんだよ　俺達がエルマチームに\n救われた話もしたんだけど[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085806_MSG0003",
+      "style": 0,
+      "name": "礼を言っとけ の一言で終わりでさ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085806_MSG0004",
+      "style": 0,
+      "name": "そのまま　またどこかへ行ってしまいましたわ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085806_MSG0005",
+      "style": 0,
+      "name": "全く落ち着かない人ね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085806_MSG0006",
+      "style": 0,
+      "name": "でも　あれでいいんだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085806_MSG0007",
+      "style": 0,
+      "name": "ラオさんは　あれでいい[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085806_MSG0008",
+      "style": 0,
+      "name": "そうだな\nミラに降り立ったばかりの時を思えば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085806_MSG0009",
+      "style": 0,
+      "name": "どういうこと？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085806_MSG0010",
+      "style": 0,
+      "name": "ラオさんのパスファインダーとしての\n能力は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085806_MSG0011",
+      "style": 0,
+      "name": "人類がミラに落ち着くにあたって\n有用なものです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085806_MSG0012",
+      "style": 0,
+      "name": "でも　ラオさん自身は自分の能力を\n活かすために白鯨に乗ったわけではないのです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085806_MSG0013",
+      "style": 0,
+      "name": "ラオさん　奥さんと娘さんを\n白鯨に乗せたかったんですよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085806_MSG0014",
+      "style": 0,
+      "name": "自分の能力があれば　家族にも乗船券を\n手に入れてやれるかもって　でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085806_MSG0015",
+      "style": 0,
+      "name": "乗れなかった[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085806_MSG0016",
+      "style": 0,
+      "name": "家族を呼び寄せる直前に\nあの異星人の戦争が始まってしまいましてね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085806_MSG0017",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085806_MSG0018",
+      "style": 0,
+      "name": "だから　ミラに着いたばかりの時[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085806_MSG0019",
+      "style": 0,
+      "name": "ラオさんの魂は\n死んでしまったも同然だったのですよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085806_MSG0020",
+      "style": 0,
+      "name": "それが最近は　何か目的を見つけたようで\nはつらつとしていらっしゃる[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085806_MSG0021",
+      "style": 0,
+      "name": "私はそれが嬉しいのです[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085806_MSG0022",
+      "style": 0,
+      "name": "でも　残される俺らは大変ですけどね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085806_MSG0023",
+      "style": 0,
+      "name": "だから　何度も言ってるだろう[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085806_MSG0024",
+      "style": 0,
+      "name": "お前が一人前になって\nラオさんを安心させてあげればよいのだ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085806_MSG0025",
+      "style": 0,
+      "name": "は　はい[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085806_MSG0026",
+      "style": 0,
+      "name": "みんな　ラオさんのことが好きなんですね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085806_MSG0027",
+      "style": 0,
+      "name": "リンさんやタツ達もエルマさんが好きですも！\n負けてないですも！[ST:wait ]"
+    }
+  ]
+}

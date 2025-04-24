@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012101_MSG0001",
+      "style": 1,
+      "name": "여기요……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012101_MSG0002",
+      "style": 1,
+      "name": "이쪽, 이쪽~\n이쪽이에요~[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012101_MSG0003",
+      "style": 1,
+      "name": "선배~![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev012101_MSG0004",
+      "style": 1,
+      "name": "저예요~\n귀여운 후배 미아예요~![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev012101_MSG0005",
+      "style": 1,
+      "name": "선배도 올라오지 않을래요~?\n여기 전망이 진짜 좋아서\n기분 좋다고요~![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev012101_JNK0010",
+      "style": 4,
+      "name": "따른다"
+    },
+    {
+      "$id": 7,
+      "label": "qev012101_SEL0011",
+      "style": 3,
+      "name": "올라간다"
+    },
+    {
+      "$id": 8,
+      "label": "qev012101_JNK0020",
+      "style": 4,
+      "name": "거절한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev012101_SEL0021",
+      "style": 3,
+      "name": "사양하고 떠난다"
+    },
+    {
+      "$id": 10,
+      "label": "qev012101_MSG0006",
+      "style": 1,
+      "name": "조심하세요~!\n저는 여기 올라올 때까지\n3번 정도 떨어졌으니까요~![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev012101_MSG0007",
+      "style": 1,
+      "name": "보통 사람이라면\n울면서 돌아가겠지만\n전 울지도 않고 돌아가지도 않아요~[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev012101_MSG0008",
+      "style": 1,
+      "name": "그러니까 칭찬해 주세요~~~[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev012101_MSG0009",
+      "style": 1,
+      "name": "아, 빨리 올라오세요~!\n이제 큰 소리로 말하기 힘드니까~![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev012101_MSG0010",
+      "style": 1,
+      "name": "네~?\n왜요~?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev012101_MSG0011",
+      "style": 1,
+      "name": "이 경치를 안 보다니 너무 아까워요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev012101_MSG0012",
+      "style": 1,
+      "name": "선배를 위해 하는 말이에요\n무조건 올라오는 게 좋다니까요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev012101_MSG0013",
+      "style": 1,
+      "name": "진짜예요! 틀림없어요![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev012101_MSG0014",
+      "style": 1,
+      "name": "자, 자, 빨리![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev012101_MSG0015",
+      "style": 1,
+      "name": "수고하셨습니다![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev012101_MSG0016",
+      "style": 1,
+      "name": "역시 선배!\n저보다 몇 배나 빠른 속도로\n올라오셨네요![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev012101_MSG0017",
+      "style": 1,
+      "name": "어때요? 여기서 보는 전망……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev012101_MSG0018",
+      "style": 1,
+      "name": "이런 경치와 만날 수 있는 것도\n모험의 묘미죠![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev012101_MSG0019",
+      "style": 1,
+      "name": "낯선 장소에 가서\n처음 느끼는 공기를 마시고\n처음 보는 풍경과 만났을 때[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev012101_MSG0020",
+      "style": 1,
+      "name": "사진이나 동영상으로는 절대 맛볼 수 없는 감각!\n마치 파도에 맞은 듯이\n온몸에 팍~ 하고 전해져 오는 그 감각이[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev012101_MSG0021",
+      "style": 1,
+      "name": "전 정말 좋아요![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev012101_MSG0022",
+      "style": 1,
+      "name": "역시 부모님의 영향인 걸까요……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev012101_MSG0023",
+      "style": 1,
+      "name": "제 부모님은 모험가였어요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev012101_MSG0024",
+      "style": 1,
+      "name": "지구에서는 나름 유명인이었고\n에베레스트 커플 등정 같은 것도\n몇 번 성공해 내서[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev012101_MSG0025",
+      "style": 1,
+      "name": "방송국이 스폰서가 될 정도였어요![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev012101_MSG0026",
+      "style": 1,
+      "name": "하지만 제가 15살 때……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev012101_MSG0027",
+      "style": 1,
+      "name": "그렇게까지 어렵지도 않은 산에 도전하다가……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev012101_MSG0028",
+      "style": 1,
+      "name": "등정 성공 연락은 무사히 받았는데\n돌아오는 길에…… 행방불명돼서……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev012101_MSG0029",
+      "style": 1,
+      "name": "대대적인 수색이 이루어졌지만\n결국 부모님은 발견되지 않았어요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev012101_MSG0030",
+      "style": 1,
+      "name": "방심해서 그런 건 아니었을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev012101_MSG0031",
+      "style": 1,
+      "name": "그날도 평소처럼 주의를 기울여서 준비하고\n평소처럼 진지한 얼굴로\n나가셨으니까……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev012101_MSG0032",
+      "style": 1,
+      "name": "엄마, 아빠는 저에게 모험의 즐거움과\n험난함을 가르쳐 주셨어요![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev012101_MSG0033",
+      "style": 1,
+      "name": "그러니까 저도 두 분의 마음을 이어받아서……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev012101_MSG0034",
+      "style": 1,
+      "name": "아빠랑 엄마였다면\n분명 구석구석까지 다 모험했을\n미라라는 이 행성 전부를[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev012101_MSG0035",
+      "style": 1,
+      "name": "보고 다녀야 할 것만 같은\n기분이 들어요[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev012101_MSG0036",
+      "style": 1,
+      "name": "그렇잖아요, 봐요![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev012101_MSG0038",
+      "style": 1,
+      "name": "여기에는 지구에서는 절대 볼 수 없는\n이런 풍경이 수없이 많으니까요……![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev012101_MSG0039",
+      "style": 1,
+      "name": "아무리 열심히 돌아다녀도\n극히 일부밖에 보지 못할 수도 있어요![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev012101_MSG0040",
+      "style": 1,
+      "name": "그러니 제게 주어진 전속력을 내서\n아빠랑 엄마 몫까지\n모험을 해 줘야 한다고요~![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev012101_MSG0041",
+      "style": 1,
+      "name": "……어!?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev012101_MSG0042",
+      "style": 1,
+      "name": "안 돼애애애애, 떨어진다~~~!"
+    },
+    {
+      "$id": 46,
+      "label": "qev012101_MSG0043",
+      "style": 1,
+      "name": "아아아아앗!? 이게 뭐야~~~!?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev012101_MSG0044",
+      "style": 1,
+      "name": "도와준………… 게 아니잖아!?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev012101_MSG0045",
+      "style": 1,
+      "name": "설마! 먹히는 거야!?\n나 먹히는 거야!?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev012101_MSG0046",
+      "style": 1,
+      "name": "싫어어어어~~~!\n선배! 살려 주세요~~!"
+    }
+  ]
+}

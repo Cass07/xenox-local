@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001691_MSG0001",
+      "style": 1,
+      "name": "やあ　[ST:playername ]！\n今日もドールを見てるんだ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001691_MSG0002",
+      "style": 1,
+      "name": "動いていないとさすがに見飽きてきたけど\n動いているところは見飽きないよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001691_MSG0003",
+      "style": 1,
+      "name": "アームズが性能試験場で動かしているのを\n見るだけでもワクワクしてくるんだよね！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001691_JNK0010",
+      "style": 4,
+      "name": "呆れる"
+    },
+    {
+      "$id": 5,
+      "label": "tev001691_SEL0011",
+      "style": 3,
+      "name": "他にやることはないのかと\n呆れる"
+    },
+    {
+      "$id": 6,
+      "label": "tev001691_JNK0020",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 7,
+      "label": "tev001691_SEL0021",
+      "style": 3,
+      "name": "オフの日もドールを\n見ているのか尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "tev001691_MSG0004",
+      "style": 1,
+      "name": "他にやることかぁ……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001691_MSG0005",
+      "style": 1,
+      "name": "ドールの整備も手伝ったりしてるよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001691_MSG0006",
+      "style": 1,
+      "name": "それから他のユニオンのドール乗りの人に話を\n聞いて　参考にしたり[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001691_MSG0007",
+      "style": 1,
+      "name": "あ[ST:wide ]―今　やっぱり　ドールバカだとか\n思ったでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001691_MSG0008",
+      "style": 1,
+      "name": "オフの日はね[ST:wide ]―教会に行ったあと\n買い物して　友達の家に行って\nご飯を食べる！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001691_MSG0009",
+      "style": 1,
+      "name": "どう　わりと普通の過ごし方でしょ？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001691_MSG0010",
+      "style": 1,
+      "name": "まあ[ST:wide ]―帰りはハンガーに寄って\n整備中のドール見ながら\nメカニックのみんなと話したりするんだけどね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001691_MSG0011",
+      "style": 1,
+      "name": "あ[ST:wide ]―今　ドールバカだとか思ったでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001691_JNK0030",
+      "style": 4,
+      "name": "肯定する"
+    },
+    {
+      "$id": 17,
+      "label": "tev001691_SEL0031",
+      "style": 3,
+      "name": "限りなく力強くうなずく"
+    },
+    {
+      "$id": 18,
+      "label": "tev001691_JNK0040",
+      "style": 4,
+      "name": "否定する"
+    },
+    {
+      "$id": 19,
+      "label": "tev001691_SEL0041",
+      "style": 3,
+      "name": "熱中できることはいいことだ\nと返答する"
+    },
+    {
+      "$id": 20,
+      "label": "tev001691_MSG0012",
+      "style": 1,
+      "name": "ぐぅっ……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001691_MSG0013",
+      "style": 1,
+      "name": "気持ちいいくらいに肯定されてしまった……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001691_MSG0014",
+      "style": 1,
+      "name": "でもね　うちのお父さんは言ってたよ\nなんであれ一番になるのがいいって[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001691_MSG0015",
+      "style": 1,
+      "name": "ドールの知識や技術は一番にはなれないけど\nドールへの愛情に掛けては一番だと\n思うんだよね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001691_MSG0016",
+      "style": 1,
+      "name": "って　やっぱり今\nNLAで一番のドールバカだと思ったでしょ！？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001691_MSG0017",
+      "style": 1,
+      "name": "でしょ！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001691_MSG0018",
+      "style": 1,
+      "name": "仕事をする上でモチベーションって\nすごく大事だよね！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001691_MSG0019",
+      "style": 1,
+      "name": "あたしなんかドールのことになれば\n200％の力を出すよ！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001691_MSG0020",
+      "style": 1,
+      "name": "それ以外だと50％くらいなんだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001691_MSG0021",
+      "style": 1,
+      "name": "って　冗談冗談[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001691_MSG0022",
+      "style": 1,
+      "name": "みんなに認めてもらって\n専属パイロットになりたいから\nどんな任務でもがんばるよ！！[ST:wait ]"
+    }
+  ]
+}

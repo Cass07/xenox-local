@@ -1,0 +1,636 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092501_MSG0001",
+      "style": 0,
+      "name": "やっぱりお前さんが来たか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092501_MSG0002",
+      "style": 0,
+      "name": "空飛ぶドールなんてメチャクチャな代物の\nテストに付き合ってくれる大馬鹿者なんて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092501_MSG0003",
+      "style": 0,
+      "name": "ダグかお前さんくらいしか\nいないと思ってたぜ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092501_MSG0004",
+      "style": 0,
+      "name": "そんな言い方ひどいです　ヴァンダム司令！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092501_MSG0005",
+      "style": 0,
+      "name": "確かに今までは　テストフライトで\nエンジンがちょっとだけ大爆発起こしたり[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092501_MSG0006",
+      "style": 0,
+      "name": "暴走して海の方まで飛んで行って\n墜落しちゃったりしたけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092501_MSG0007",
+      "style": 0,
+      "name": "そう言うのって開発過程では\nよくあることなんです！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092501_MSG0008",
+      "style": 0,
+      "name": "[ST:wide ]―ですよね？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092501_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 10,
+      "label": "qev092501_SEL0011",
+      "style": 3,
+      "name": "よくあることだとうなずく"
+    },
+    {
+      "$id": 11,
+      "label": "qev092501_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 12,
+      "label": "qev092501_SEL0021",
+      "style": 3,
+      "name": "あるわけがないと首を振る"
+    },
+    {
+      "$id": 13,
+      "label": "qev092501_MSG0009",
+      "style": 0,
+      "name": "おいおい　お前さんまで　リンと一緒にいて\nおかしくなっちまったのか？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092501_MSG0010",
+      "style": 0,
+      "name": "ダグも最近　グチりながらもよ\nあのスリルが病み付きになってきたとか[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092501_MSG0011",
+      "style": 0,
+      "name": "ワケの分からねーこと言ってやがるからな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092501_MSG0012",
+      "style": 0,
+      "name": "ヴァンダム司令は　科学の進歩に殉じる\n尊い精神ってものがわかってないんです！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092501_MSG0013",
+      "style": 0,
+      "name": "へいへい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092501_MSG0014",
+      "style": 0,
+      "name": "もうっ！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092501_MSG0014_2",
+      "style": 0,
+      "name": "みなさん　科学の進歩に殉じる尊い精神\nってものがわかってないですよぉ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092501_MSG0015",
+      "style": 0,
+      "name": "まぁ　そういう損な役目を負うのは\nダグ一人で十分だ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092501_MSG0016",
+      "style": 0,
+      "name": "[ST:wide ]―さあ　そろそろコイツに\nリンの自信作の話を聞かせてやってくれ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092501_MSG0017",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092501_MSG0018",
+      "style": 0,
+      "name": "私がこれまで　どうしてフライトパックの\n製作に失敗し続けてきたのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092501_MSG0019",
+      "style": 0,
+      "name": "最近になってようやく理由がわかったんです[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092501_MSG0020",
+      "style": 0,
+      "name": "従来のドールじゃ必要なエネルギーも\n揚力も生み出せなかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092501_MSG0021",
+      "style": 0,
+      "name": "だから　根本から見直して\n一からドールを作りあげることにしたんですよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092501_MSG0022",
+      "style": 0,
+      "name": "それが\nフライトパック一体型飛行特化ドール[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092501_MSG0023",
+      "style": 0,
+      "name": "ドールフライトカスタムなんです！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092501_MSG0024",
+      "style": 0,
+      "name": "そのために莫大な予算を引っ張ってきて\nやったのは俺なんだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092501_MSG0025",
+      "style": 0,
+      "name": "あとアームズカンパニーの協力を\n取り付けたのもな[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092501_MSG0026",
+      "style": 0,
+      "name": "さっすがブレイド司令！\n頼りになりますね！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092501_MSG0027",
+      "style": 0,
+      "name": "おべんちゃらはよせよ\nさすがにもう失敗はできないんだぞ？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092501_MSG0028",
+      "style": 0,
+      "name": "今回ばかりは大丈夫だ\n[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092501_MSG0029",
+      "style": 0,
+      "name": "そのためにワシらも開発に\n参加させてもらったんだからな[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092501_MSG0030",
+      "style": 0,
+      "name": "イソベさんにジャジャニさん！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092501_MSG0031",
+      "style": 0,
+      "name": "サクラバ重工と偽りなき真心堂の\n重鎮がついてるなら　安心だよな[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092501_MSG0032",
+      "style": 0,
+      "name": "デモデモ　ちょっとばかりマテリアルが\n足りないのは不安要素ジャン[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092501_MSG0033",
+      "style": 0,
+      "name": "おいおい　大丈夫なのか？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092501_MSG0034",
+      "style": 0,
+      "name": "さっき最終チェックで\n問題が一つ見つかっちゃったんですよね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092501_MSG0035",
+      "style": 0,
+      "name": "今のままだと　成功確率は１０％くらいジャン[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092501_MSG0036",
+      "style": 0,
+      "name": "相当低いじゃねぇか\n問題を解決すれば　どれくらいになる？[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092501_MSG0037",
+      "style": 0,
+      "name": "９９．９９９９９９９９９９％\n成功しますよね？[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092501_MSG0038",
+      "style": 0,
+      "name": "オー　イエース！　もちろんネ！！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092501_MSG0039",
+      "style": 0,
+      "name": "ならやるべきだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092501_MSG0040",
+      "style": 0,
+      "name": "最終テストの前に悪いが\nマテリアルを集めて来てくれるな？[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092501_JNK0030",
+      "style": 4,
+      "name": "自信"
+    },
+    {
+      "$id": 47,
+      "label": "qev092501_SEL0031",
+      "style": 3,
+      "name": "収集任務なら任せておけと\n胸を張る"
+    },
+    {
+      "$id": 48,
+      "label": "qev092501_JNK0040",
+      "style": 4,
+      "name": "謙虚"
+    },
+    {
+      "$id": 49,
+      "label": "qev092501_SEL0041",
+      "style": 3,
+      "name": "収集の任務は苦手だと言う"
+    },
+    {
+      "$id": 50,
+      "label": "qev092501_MSG0041",
+      "style": 0,
+      "name": "さすがです！\nあなたなら　すぐですよね！[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092501_MSG0042",
+      "style": 0,
+      "name": "またまた～！\n相変わらず　謙虚ですね！[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092501_MSG0043",
+      "style": 0,
+      "name": "大丈夫！\nあなたならすぐに集められますよ！[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092501_MSG0044",
+      "style": 0,
+      "name": "それじゃ　マテリアルを手に入れたら\nここに持って来てくれ[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092501_MSG0045",
+      "style": 0,
+      "name": "リン　お前はそれまでもう一度最終点検だ\n本当にラストチャンスなんだからな[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092501_MSG0046",
+      "style": 0,
+      "name": "はい！　がんばります！[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092501_MSG0046_2",
+      "style": 0,
+      "name": "必ずこの子を　ミラの大空へ\n連れて行ってあげますから！[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092501_MSG0047",
+      "style": 0,
+      "name": "よく帰ったな\n見事なフライトだったじゃねぇか[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092501_MSG0049",
+      "style": 0,
+      "name": "合格だ　すぐに量産機の製造に入ってもらう[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092501_MSG0050",
+      "style": 0,
+      "name": "やったぁ！[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092501_MSG0050_2",
+      "style": 0,
+      "name": "今までがんばってきて本当によかったぁ！[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092501_MSG0051",
+      "style": 0,
+      "name": "ダグさんにも迷惑かけちゃったし\n沢山の貴重な資材をムダにしちゃったけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev092501_MSG0052",
+      "style": 0,
+      "name": "私[ST:wide ]―　これだけはどうしても\nちゃんとした形にしなきゃならなかったんです[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev092501_JNK0050",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 64,
+      "label": "qev092501_SEL0051",
+      "style": 3,
+      "name": "そこまで完成させたかった\n理由を詳しく聞く"
+    },
+    {
+      "$id": 65,
+      "label": "qev092501_JNK0060",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 66,
+      "label": "qev092501_SEL0061",
+      "style": 3,
+      "name": "どれだけ失敗を\n繰り返してきたか尋ねる"
+    },
+    {
+      "$id": 67,
+      "label": "qev092501_MSG0053",
+      "style": 0,
+      "name": "お父さんとお母さん　亡くなる直前まで\n二人だけで独自に行っていた研究があって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev092501_MSG0054",
+      "style": 0,
+      "name": "未完の設計書を残したまま\n天国にいってしまったんです[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev092501_MSG0055",
+      "style": 0,
+      "name": "その設計書が　フライトパック[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev092501_MSG0056",
+      "style": 0,
+      "name": "自由自在に　どんなドールでも空を\n飛びまわれるようになる　夢のような装置[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092501_MSG0057",
+      "style": 0,
+      "name": "二人がどんな想いで　この研究に\n打ち込んでいたかは私にはわかりません[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092501_MSG0058",
+      "style": 0,
+      "name": "だけど　この宿題を終わらせないと[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092501_MSG0059",
+      "style": 0,
+      "name": "絶対　一人前のメカニックになんて\nなれないと思って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092501_MSG0060",
+      "style": 0,
+      "name": "私　どうしても完成させたかったんです[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092501_MSG0061",
+      "style": 0,
+      "name": "そりゃあ立派なこだわりだ[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092501_MSG0062",
+      "style": 0,
+      "name": "お前さんの両親も　あの空の上で\n娘のことを誇りに思ってるはずだぜ[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092501_MSG0063",
+      "style": 0,
+      "name": "そりゃあもう　数え切れないくらいの\nドールをダメにしちゃって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092501_MSG0064",
+      "style": 0,
+      "name": "ブレイド本部からも\n何度もやめるように言われてたんですよ[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092501_MSG0065",
+      "style": 0,
+      "name": "一時期は原生生物に\n破壊されたドールより[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092501_MSG0066",
+      "style": 0,
+      "name": "お前さんに壊されたドールのが\n多かったぐらいだからな[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092501_MSG0067",
+      "style": 0,
+      "name": "でも[ST:wide ]―　ヴァンダム司令は\n開発を続けられるように[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092501_MSG0068",
+      "style": 0,
+      "name": "いろんな所に\nかけあってくれたんですよね？[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092501_MSG0069",
+      "style": 0,
+      "name": "お前さんの目を見りゃあ　生半可な理由で\nやってるワケじゃねぇってのは分かったからな[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092501_MSG0070",
+      "style": 0,
+      "name": "俺はそいつに賭けたかったのさ\nそしてよ[ST:wide ]―　賭けに勝ったんだ[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev092501_MSG0071",
+      "style": 0,
+      "name": "良くやったな[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev092501_MSG0072",
+      "style": 0,
+      "name": "[ST:wide ]―それにお前さんも\nここまで協力してくれて　ありがとうな[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev092501_JNK0070",
+      "style": 4,
+      "name": "意気込む"
+    },
+    {
+      "$id": 88,
+      "label": "qev092501_SEL0071",
+      "style": 3,
+      "name": "ドールフライトカスタムを使い\n皆を守ってみせると誓う"
+    },
+    {
+      "$id": 89,
+      "label": "qev092501_JNK0080",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 90,
+      "label": "qev092501_SEL0081",
+      "style": 3,
+      "name": "より高いドール操縦技術が\n必要になることを心配する"
+    },
+    {
+      "$id": 91,
+      "label": "qev092501_MSG0078",
+      "style": 0,
+      "name": "その意気だ[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev092501_MSG0078_2",
+      "style": 0,
+      "name": "こいつを自在に扱えれば\nグロウスなど恐るるに足りん[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev092501_MSG0079",
+      "style": 0,
+      "name": "そうだな　これからはドールライセンス試験も\nドールフライトカスタムの研修が必須になる[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev092501_MSG0080",
+      "style": 0,
+      "name": "俺もとっとと若い奴らが泣きだしちまうような\n新しい試験を作っちまわないと[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev092501_MSG0081",
+      "style": 0,
+      "name": "よしっ　羽ばたこうぜ\nリンが作り上げた　この大きな翼で[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev092501_MSG0082",
+      "style": 0,
+      "name": "そして　辿りついてみせようや\n人類の希望[ST:wide ]―　セントラルライフへ　よ！[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev092501_MSG0083",
+      "style": 1,
+      "name": "今回は　フライトパックだけの制作じゃない\nドールを一から作り直して[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev092501_MSG0084",
+      "style": 1,
+      "name": "飛行特化型ドール　ドールフライトカスタム\nなんて大層なもんを　こしらえちまった[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev092501_MSG0085",
+      "style": 1,
+      "name": "それなりの予算もかかってるしな\n今回だけは失敗したら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev092501_MSG0086",
+      "style": 1,
+      "name": "俺もちょっと　フォローしきれんかもしれん\nなんとしても成功させないとな[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev092501_MSG0087",
+      "style": 1,
+      "name": "さあ　ドールフライトカスタムに乗り込むんだ[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev092501_MSG0088",
+      "style": 1,
+      "name": "[ST:wide ]―そして飛べ\nブレイドの未来を　乗せてな！[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev092501_MSG0089",
+      "style": 1,
+      "name": "こいつが実用化されれば\nブレイドの行動範囲は\n信じられんくらいに広がるぞ[ST:wait ]"
+    }
+  ]
+}

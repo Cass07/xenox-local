@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs10050100_MSG0001",
+      "style": 0,
+      "name": "イイねぇ　イイ面構えしてんじゃないカ\nゾクゾク来ちゃうヨ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs10050100_MSG0002",
+      "style": 0,
+      "name": "地球人メ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs10050100_MSG0002_2",
+      "style": 0,
+      "name": "アタシに恥かかせたコト　後悔させてやるヨ！[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs10050100_MSG9000",
+      "style": 0,
+      "name": "[ST:wide ]―　グロウス兵器格納庫　[ST:wide ]―[ST:wait ]\n"
+    }
+  ]
+}

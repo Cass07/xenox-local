@@ -1,0 +1,360 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086404_MSG0001",
+      "style": 0,
+      "name": "네가 살아 있었다니\n생각도 못 했단다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086404_MSG0002",
+      "style": 0,
+      "name": "바이어스에게 끌려갔을 때는\n이제 틀렸다고 생각했지모[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086404_MSG0003",
+      "style": 0,
+      "name": "하지만 이 친구들이 구해 줬다모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086404_MSG0004",
+      "style": 0,
+      "name": "인사가 늦었네요모, 타츠의 엄마인 카카예요모\n타츠를 구해 줘서 고마워요모![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086404_MSG0005",
+      "style": 0,
+      "name": "처음 뵙겠습니다, 카카 씨\n타츠 친구인 엘마예요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086404_MSG0006",
+      "style": 0,
+      "name": "처음 뵙겠습니다, 린이에요![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086404_JNK0010",
+      "style": 4,
+      "name": "예절"
+    },
+    {
+      "$id": 8,
+      "label": "qev086404_SEL0011",
+      "style": 3,
+      "name": "카카의 눈을 보고 이름을 말한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev086404_JNK0020",
+      "style": 4,
+      "name": "식욕"
+    },
+    {
+      "$id": 10,
+      "label": "qev086404_SEL0021",
+      "style": 3,
+      "name": "카카의 눈을 보고 침을 삼킨다"
+    },
+    {
+      "$id": 11,
+      "label": "qev086404_MSG0007",
+      "style": 0,
+      "name": "모두 예의가 바르네요모\n타츠는 좋은 친구를 뒀어요모[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086404_MSG0007_m",
+      "style": 0,
+      "name": "모두 예의가 바르네요모\n타츠는 좋은 친구를 뒀어요모[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086404_MSG0007_f",
+      "style": 0,
+      "name": "모두 예의가 바르네요모\n타츠는 좋은 친구를 뒀어요모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086404_MSG0008",
+      "style": 0,
+      "name": "그 눈, 본 적 있어요모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086404_MSG0009",
+      "style": 0,
+      "name": "우리 카라반을 공격한\n그 녀석들과 닮았어요모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086404_MSG0010",
+      "style": 0,
+      "name": "아이 아빠가 없다고 해서 얕보지 마세요모!\n아이들은 내가 지키겠어요모![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086404_MSG0011",
+      "style": 0,
+      "name": "덤벼 보세요모![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086404_MSG0012",
+      "style": 0,
+      "name": "카카 씨, 진정하세요![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086404_MSG0013",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086404_MSG0014",
+      "style": 0,
+      "name": "그런데 엄마, 용케 무사했다모[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086404_MSG0015",
+      "style": 0,
+      "name": "그 녀석들에게 공격당했을 때\n잠시 뿔뿔이 흩어졌었지모[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086404_MSG0016",
+      "style": 0,
+      "name": "그러셨군요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086404_MSG0017",
+      "style": 0,
+      "name": "타츠, 이제 돌아갈 곳이 없다고 생각했다모[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086404_MSG0018",
+      "style": 0,
+      "name": "그렇구나……\n잘됐네, 타츠[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086404_MSG0019",
+      "style": 0,
+      "name": "고맙다모[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086404_MSG0020",
+      "style": 0,
+      "name": "그래서 엄마~\n타츠, 얼마 전에 13살이 됐다모![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086404_MSG0021",
+      "style": 0,
+      "name": "13살이라고 하면 어엿한 어른 노폰……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086404_MSG0022",
+      "style": 0,
+      "name": "타츠가 13살이 되면 주겠다고 했던\n안경을 쓰고 싶다모![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086404_MSG0023",
+      "style": 0,
+      "name": "아아, 그거 말이구나……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086404_MSG0024",
+      "style": 0,
+      "name": "뭔가 특별한 안경이야?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086404_MSG0025",
+      "style": 0,
+      "name": "아빠가 젊었을 때 쓴\n안경이다모![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086404_MSG0026",
+      "style": 0,
+      "name": "타츠가 받았는데, 어른이 되기 전까지\n쓰지 않겠다고 약속했었다모![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086404_MSG0027",
+      "style": 0,
+      "name": "타츠의 아빠라면……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086404_MSG0028",
+      "style": 0,
+      "name": "그건 묻지 않았으면 한다모……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086404_MSG0029",
+      "style": 0,
+      "name": "미, 미안[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086404_MSG0030",
+      "style": 0,
+      "name": "미안하구나, 타츠[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086404_MSG0031",
+      "style": 0,
+      "name": "엄마는 네가 잡아먹힌 줄 알고……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086404_MSG0032",
+      "style": 0,
+      "name": "안경을 바다에 흘려 보냈단다모[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086404_MSG0033",
+      "style": 0,
+      "name": "뭐라고모~~!?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086404_MSG0034",
+      "style": 0,
+      "name": "노폰의 풍습이야모[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086404_MSG0035",
+      "style": 0,
+      "name": "떠난 자에게 닿길 기도하며\n바다에 흘려 보내는 거지모[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086404_MSG0036",
+      "style": 0,
+      "name": "그, 그럴 수가……모[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev086404_MSG0037",
+      "style": 0,
+      "name": "그건 아빠와 타츠의\n유일한 추억의 물건이었는데모[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086404_JNK0030",
+      "style": 4,
+      "name": "수색"
+    },
+    {
+      "$id": 45,
+      "label": "qev086404_SEL0031",
+      "style": 3,
+      "name": "포기하지 말고 찾을 것을 제안한다"
+    },
+    {
+      "$id": 46,
+      "label": "qev086404_JNK0040",
+      "style": 4,
+      "name": "위안"
+    },
+    {
+      "$id": 47,
+      "label": "qev086404_SEL0041",
+      "style": 3,
+      "name": "추억보다 앞으로가 중요하다고 말한다"
+    },
+    {
+      "$id": 48,
+      "label": "qev086404_MSG0038",
+      "style": 0,
+      "name": "맞아요, 바다에 흘려 보냈다면\n어딘가의 뭍에 도착했을지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev086404_MSG0039",
+      "style": 0,
+      "name": "역시 린 씨다모!\n중요한 걸 알아챘다모![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev086404_MSG0040",
+      "style": 0,
+      "name": "무, 무슨 말을 하는 거예요~![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev086404_MSG0041",
+      "style": 0,
+      "name": "아빠와의 추억을 그렇게 쉽게\n잊으라고 하다니 너무해요![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev086404_MSG0042",
+      "style": 0,
+      "name": "카카 씨[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev086404_MSG0043",
+      "style": 0,
+      "name": "안경을 흘려 보낸 장소를 가르쳐 주세요\n조수의 흐름으로 계산해 볼게요[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev086404_MSG0044",
+      "style": 0,
+      "name": "아, 그거라면……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev086404_MSG0045",
+      "style": 0,
+      "name": "나왔어요!\n여기네요![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev086404_MSG0046",
+      "style": 0,
+      "name": "NLA에서 가깝네[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev086404_MSG0047",
+      "style": 0,
+      "name": "바, 바로 가 보자모![ST:wait ]"
+    }
+  ]
+}

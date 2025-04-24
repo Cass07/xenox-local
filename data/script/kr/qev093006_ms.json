@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093006_MSG0010",
+      "style": 0,
+      "name": "……니르 님![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093006_MSG0020",
+      "style": 0,
+      "name": "그래, 역시 여기에 있었구나[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093006_MSG0030",
+      "style": 0,
+      "name": "지형 데이터에 따르면\n여기는 \"천수원\"이라고 불렸어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093006_MSG0040",
+      "style": 0,
+      "name": "천수란 왕이 기거하는 땅을 뜻해\n다시 말해서…… 이 유적의 중심부지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093006_MSG0050",
+      "style": 0,
+      "name": "너도 알다시피 그녀들은\n보통 강력한 상대가 아니야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093006_MSG0060",
+      "style": 0,
+      "name": "하지만……\n여기서 놓칠 수는 없어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093006_MSG0070",
+      "style": 0,
+      "name": "확실하게…… 파괴해야 해[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093006_MSG0080",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    }
+  ]
+}

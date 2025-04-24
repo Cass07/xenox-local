@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085604_MSG0001",
+      "style": 0,
+      "name": "다들 기다리게 해서 미안하다![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085604_MSG0002",
+      "style": 0,
+      "name": "더그 씨![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085604_MSG0003",
+      "style": 0,
+      "name": "늦어서 미안\n하지만 이걸로 초콜릿도 코코아도 얻었구나[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085604_MSG0004",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    }
+  ]
+}

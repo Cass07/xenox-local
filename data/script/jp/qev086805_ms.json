@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086805_MSG0001",
+      "style": 0,
+      "name": "大丈夫ですか　ロックさん？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086805_MSG0002",
+      "style": 0,
+      "name": "うん　平気だよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086805_MSG0003",
+      "style": 0,
+      "name": "嫌なこと　思い出した？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086805_MSG0004",
+      "style": 0,
+      "name": "ちょっとだけね\nでも　本当につらいのはセリカの方なんだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086805_MSG0005",
+      "style": 0,
+      "name": "どういうことですも？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086805_MSG0006",
+      "style": 0,
+      "name": "さっき　嫌な奴らにこき使われてたって\n言ったでしょ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086805_MSG0007",
+      "style": 0,
+      "name": "あれ　グロウスのことなんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086805_MSG0008",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086805_MSG0009",
+      "style": 0,
+      "name": "ボク　セリカの故郷で酷いことしちゃったんだ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086805_MSG0010",
+      "style": 0,
+      "name": "なのにセリカ　ボクを助けてくれて\nいつもかばってくれて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086805_MSG0011",
+      "style": 0,
+      "name": "そうだったんですか[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086805_MSG0012",
+      "style": 0,
+      "name": "いまだって　セリカはボクのために\n頑張ってくれてる　行かなくちゃ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086805_MSG0013",
+      "style": 0,
+      "name": "そうね　少しでも早く追いついて\nセリカを手助けしてあげましょう[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086805_MSG0014",
+      "style": 0,
+      "name": "うん[ST:wait ]"
+    }
+  ]
+}

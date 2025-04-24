@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev056002_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "qev056002_MSG0002",
+      "style": 1,
+      "name": "黒鋼の大陸のバイオ・ナルキー10匹を\nハンボイトンからもらった\n武器で倒してきてくれ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev056002_MSG0003",
+      "style": 1,
+      "name": "そうすればもうバイオ・ナルキーは\n分裂増殖を起こさないはずだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev056002_MSG0004",
+      "style": 1,
+      "name": "危険な任務をよく完遂してくれたな\nこれで　あの辺りも少しは安全になったよ[ST:wait ]"
+    }
+  ]
+}

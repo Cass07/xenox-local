@@ -1,0 +1,690 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev014407_MSG0001",
+      "style": 1,
+      "name": "メインシステムヲ　起動シマス\nドウゾ　IDカードヲ　差シ込ンデ下サイ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev014407_MSG0002",
+      "style": 1,
+      "name": "認証中…………[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev014407_MSG0003",
+      "style": 1,
+      "name": "……………………認証確認イタシマシタ\nアナタノ権限デハ　以下ノ情報ガ取得デキマス[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev014407_JNK0010",
+      "style": 4,
+      "name": "データレベル1[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev014407_SEL0011",
+      "style": 3,
+      "name": "この施設についての情報を\n閲覧する[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev014407_JNK0020",
+      "style": 4,
+      "name": "データレベル2[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev014407_SEL0021",
+      "style": 3,
+      "name": "研究所の職員データを\n閲覧する[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev014407_JNK0030",
+      "style": 4,
+      "name": "データレベル3[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev014407_SEL0031",
+      "style": 3,
+      "name": "監視カメラのデータを\n閲覧する[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev014407_MSG0004",
+      "style": 1,
+      "name": "当施設ハ　ビアーノ浄水場ヲ管理シ\nNLAヘ安定シタ飲料水・工場用水ノ提供ヲ\n行ウ事ヲ　主ナ目的トシタ施設ニナリマス[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev014407_MSG0005",
+      "style": 1,
+      "name": "マタ　惑星ミラノ水質ヲ調査・研究スル\n研究施設トシテノ役割モ兼ネテイマス[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev014407_MSG0006",
+      "style": 1,
+      "name": "当浄水場ニハ現在\n以下ノ研究員ガ　滞在シテイマス[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev014407_MSG0007",
+      "style": 1,
+      "name": "ミラ水質研究チームリーダー：イアン\nミラ水質研究チーム副リーダー：アジョア\nミラ水質研究チーム一般職員：タンザス[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev014407_MSG0008",
+      "style": 1,
+      "name": "ミラ水質研究チーム一般職員：オルティス\nミラ水質研究チーム一般職員：ヒースコート\nミラ水質研究チーム一般職員：デリック[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev014407_MSG0009",
+      "style": 1,
+      "name": "ナオ　ミラ水質研究チーム　ロージーハ\nNLAニテ　データ解析ニ当タッテイマス[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev014407_MSG0010",
+      "style": 1,
+      "name": "ナンラカノ障害ニヨリ\nデータガ　欠損シテイマス[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev014407_MSG0011",
+      "style": 1,
+      "name": "復元可能ナ　データヲ　抽出イタシマス\nシバラク　オ待チ下サイ……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev014407_MSG0012",
+      "style": 1,
+      "name": "一部サウンドデータノ復元ガ\n完了シマシタ\nサウンドデータヲ　再生シマス[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev014407_MSG0013",
+      "style": 1,
+      "name": "……アジョア！\nアジョアだけでも助かってくれ！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev014407_MSG0014",
+      "style": 1,
+      "name": "よし　まだ症状は出ていないな？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev014407_MSG0015",
+      "style": 1,
+      "name": "あいつ　僕たちを食べるならまだしも……！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev014407_MSG0016",
+      "style": 1,
+      "name": "ぐっ　ううぅ……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev014407_MSG0017",
+      "style": 1,
+      "name": "か　監視カメラは動いているか？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev014407_MSG0018",
+      "style": 1,
+      "name": "記録　そうだ　記録しておいてくれ！！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev014407_MSG0019",
+      "style": 1,
+      "name": "他の職員たちは　もうダメだ！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev014407_MSG0020",
+      "style": 1,
+      "name": "あの原生生物に襲われると\n体に卵を産み付けられる……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev014407_MSG0021",
+      "style": 1,
+      "name": "うっ　げほっ……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev014407_MSG0022",
+      "style": 1,
+      "name": "た　例えるなら\nチョウの幼虫に寄生するハチの一種のようだ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev014407_MSG0023",
+      "style": 1,
+      "name": "孵った卵は　宿主の体を乗っ取り\n生まれやすい環境へ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev014407_MSG0024",
+      "style": 1,
+      "name": "げほっ　ぐっ……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev014407_MSG0025",
+      "style": 1,
+      "name": "み　水　水を！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev014407_MSG0026",
+      "style": 1,
+      "name": "水をくれ　水　水が欲しい！！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev014407_MSG0027",
+      "style": 1,
+      "name": "はあっ！　はあっ！\n水だ……水っ……！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev014407_MSG0028",
+      "style": 1,
+      "name": "うぐっ　あああああぁ！！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev014407_MSG0029",
+      "style": 1,
+      "name": "ねえ　ちょっと　誰かいないの？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev014407_MSG0030",
+      "style": 1,
+      "name": "イアン？　イアン？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev014407_MSG0031",
+      "style": 1,
+      "name": "開けて　ここを開けて　お願い……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev014407_MSG0064",
+      "style": 1,
+      "name": "メインシステムヲ　起動シマス\nドウゾ　IDカードヲ　差シ込ンデ下サイ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev014407_MSG0065",
+      "style": 1,
+      "name": "認証中…………[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev014407_MSG0066",
+      "style": 1,
+      "name": "……………………認証確認イタシマシタ\nアナタノ権限デハ　以下ノ情報ガ取得デキマス[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev014407_JNK0070",
+      "style": 4,
+      "name": "データレベル1[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev014407_SEL0071",
+      "style": 3,
+      "name": "この施設についての情報を\n閲覧する[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev014407_JNK0080",
+      "style": 4,
+      "name": "データレベル2[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev014407_SEL0081",
+      "style": 3,
+      "name": "研究所の職員データを\n閲覧する[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev014407_JNK0090",
+      "style": 4,
+      "name": "データレベル3[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev014407_SEL0091",
+      "style": 3,
+      "name": "監視カメラのデータを\n閲覧する[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev014407_MSG0067",
+      "style": 1,
+      "name": "当施設ハ　ビアーノ浄水場ヲ管理シ\nNLAヘ安定シタ飲料水・工場用水ノ提供ヲ\n行ウ事ヲ　主ナ目的トシタ施設ニナリマス[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev014407_MSG0068",
+      "style": 1,
+      "name": "マタ　惑星ミラノ水質ヲ調査・研究スル\n研究施設トシテノ役割モ兼ネテイマス[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev014407_MSG0069",
+      "style": 1,
+      "name": "当浄水場ニハ現在\n以下ノ研究員ガ　滞在シテイマス[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev014407_MSG0070",
+      "style": 1,
+      "name": "ミラ水質研究チームリーダー：イアン\nミラ水質研究チーム副リーダー：アジョア\nミラ水質研究チーム一般職員：タンザス[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev014407_MSG0071",
+      "style": 1,
+      "name": "ミラ水質研究チーム一般職員：オルティス\nミラ水質研究チーム一般職員：ヒースコート\nミラ水質研究チーム一般職員：デリック[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev014407_MSG0072",
+      "style": 1,
+      "name": "ナオ　ミラ水質研究チーム　ロージーハ\nNLAニテ　データ解析ニ当タッテイマス[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev014407_MSG0073",
+      "style": 1,
+      "name": "ナンラカノ障害ニヨリ\nデータガ欠損シテイマス[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev014407_MSG0074",
+      "style": 1,
+      "name": "復元可能ナ　データヲ　抽出イタシマス\nシバラク　オ待チ下サイ……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev014407_MSG0075",
+      "style": 1,
+      "name": "一部サウンドデータノ復元ガ\n完了シマシタ\nサウンドデータヲ　再生シマス[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev014407_MSG0076",
+      "style": 1,
+      "name": "……アジョア！\nアジョアだけでも助かってくれ！[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev014407_MSG0077",
+      "style": 1,
+      "name": "よし　まだ症状は出ていないな？[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev014407_MSG0078",
+      "style": 1,
+      "name": "あいつ　僕たちを食べるならまだしも……！[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev014407_MSG0079",
+      "style": 1,
+      "name": "ぐっ　ううぅ……[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev014407_MSG0080",
+      "style": 1,
+      "name": "か　監視カメラは動いているか？[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev014407_MSG0081",
+      "style": 1,
+      "name": "記録　そうだ　記録しておいてくれ！！[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev014407_MSG0082",
+      "style": 1,
+      "name": "他の職員たちは　もうダメだ！[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev014407_MSG0083",
+      "style": 1,
+      "name": "あの原生生物に襲われると\n体に卵を産み付けられる……[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev014407_MSG0084",
+      "style": 1,
+      "name": "うっ　げほっ……[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev014407_MSG0085",
+      "style": 1,
+      "name": "た　例えるなら\nチョウの幼虫に寄生するハチの一種のようだ[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev014407_MSG0086",
+      "style": 1,
+      "name": "孵った卵は　宿主の体を乗っ取り\n生まれやすい環境へ[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev014407_MSG0087",
+      "style": 1,
+      "name": "げほっ　ぐっ……[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev014407_MSG0088",
+      "style": 1,
+      "name": "み　水　水を！[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev014407_MSG0089",
+      "style": 1,
+      "name": "水をくれ　水　水が欲しい！！[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev014407_MSG0090",
+      "style": 1,
+      "name": "はあっ！　はあっ！\n水だ……水っ……！[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev014407_MSG0091",
+      "style": 1,
+      "name": "うぐっ　あああああぁ！！[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev014407_MSG0092",
+      "style": 1,
+      "name": "ねえ　ちょっと　誰かいないの？[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev014407_MSG0093",
+      "style": 1,
+      "name": "イアン？　イアン？[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev014407_MSG0094",
+      "style": 1,
+      "name": "開けて　ここを開けて　お願い……[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev014407_MSG0032",
+      "style": 1,
+      "name": "メインシステムヲ　起動シマス\nドウゾ　IDカードヲ　差シ込ンデ下サイ[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev014407_MSG0033",
+      "style": 1,
+      "name": "認証中…………[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev014407_MSG0034",
+      "style": 1,
+      "name": "……………………認証確認イタシマシタ\nアナタノ権限デハ　以下ノ情報ガ取得デキマス[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev014407_JNK0040",
+      "style": 4,
+      "name": "データレベル1[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev014407_SEL0041",
+      "style": 3,
+      "name": "この施設についての情報を\n閲覧する[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev014407_JNK0050",
+      "style": 4,
+      "name": "データレベル2[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev014407_SEL0051",
+      "style": 3,
+      "name": "研究所の職員データを\n閲覧する[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev014407_JNK0060",
+      "style": 4,
+      "name": "データレベル3[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev014407_SEL0061",
+      "style": 3,
+      "name": "監視カメラのデータを\n閲覧する[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev014407_MSG0035",
+      "style": 1,
+      "name": "当施設ハ　ビアーノ浄水場ヲ管理シ\nNLAヘ安定シタ飲料水・工場用水ノ提供ヲ\n行ウ事ヲ　主ナ目的トシタ施設ニナリマス[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev014407_MSG0036",
+      "style": 1,
+      "name": "マタ　惑星ミラノ水質ヲ調査・研究スル\n研究施設トシテノ役割モ兼ネテイマス[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev014407_MSG0037",
+      "style": 1,
+      "name": "当浄水場ニハ現在\n以下ノ研究員ガ　滞在シテイマス[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev014407_MSG0038",
+      "style": 1,
+      "name": "ミラ水質研究チームリーダー：イアン\nミラ水質研究チーム副リーダー：アジョア\nミラ水質研究チーム一般職員：タンザス[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev014407_MSG0039",
+      "style": 1,
+      "name": "ミラ水質研究チーム一般職員：オルティス\nミラ水質研究チーム一般職員：ヒースコート\nミラ水質研究チーム一般職員：デリック[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev014407_MSG0040",
+      "style": 1,
+      "name": "ナオ　ミラ水質研究チーム　ロージーハ\nNLAニテ　データ解析ニ当タッテイマス[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev014407_MSG0041",
+      "style": 1,
+      "name": "ナンラカノ障害ニヨリ\nデータガ欠損シテイマス[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev014407_MSG0042",
+      "style": 1,
+      "name": "復元可能ナ　データヲ　抽出イタシマス\nシバラク　オ待チ下サイ……[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev014407_MSG0043",
+      "style": 1,
+      "name": "一部サウンドデータノ復元ガ\n完了シマシタ\nサウンドデータヲ　再生シマス[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev014407_MSG0044",
+      "style": 1,
+      "name": "……アジョア！\nアジョアだけでも助かってくれ！[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev014407_MSG0045",
+      "style": 1,
+      "name": "よし　まだ症状は出ていないな？[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev014407_MSG0046",
+      "style": 1,
+      "name": "あいつ　僕たちを食べるならまだしも……！[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev014407_MSG0047",
+      "style": 1,
+      "name": "ぐっ　ううぅ……[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev014407_MSG0048",
+      "style": 1,
+      "name": "か　監視カメラは動いているか？[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev014407_MSG0049",
+      "style": 1,
+      "name": "記録　そうだ　記録しておいてくれ！！[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev014407_MSG0050",
+      "style": 1,
+      "name": "他の職員たちは　もうダメだ！[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev014407_MSG0051",
+      "style": 1,
+      "name": "あの原生生物に襲われると\n体に卵を産み付けられる……[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev014407_MSG0052",
+      "style": 1,
+      "name": "うっ　げほっ……[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev014407_MSG0053",
+      "style": 1,
+      "name": "た　例えるなら\nチョウの幼虫に寄生するハチの一種のようだ[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev014407_MSG0054",
+      "style": 1,
+      "name": "孵った卵は　宿主の体を乗っ取り\n生まれやすい環境へ[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev014407_MSG0055",
+      "style": 1,
+      "name": "げほっ　ぐっ……[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev014407_MSG0056",
+      "style": 1,
+      "name": "み　水　水を！[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev014407_MSG0057",
+      "style": 1,
+      "name": "水をくれ　水　水が欲しい！！[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev014407_MSG0058",
+      "style": 1,
+      "name": "はあっ！　はあっ！\n水だ……水っ……！[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev014407_MSG0059",
+      "style": 1,
+      "name": "うぐっ　あああああぁ！！[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev014407_MSG0060",
+      "style": 1,
+      "name": "ああっ……あああああああああああ！[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev014407_MSG0061",
+      "style": 1,
+      "name": "ハァッ……ハァッ……ハァッ……[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev014407_MSG0062",
+      "style": 1,
+      "name": "ミ……ず…………水……が……私……\nわた……シ……ナニが……ァ……[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "qev014407_MSG0063",
+      "style": 1,
+      "name": "アアアアァァァァアアアアァアアアアッ！！！[ST:wait ]"
+    }
+  ]
+}

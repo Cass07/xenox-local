@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085908_MSG0001",
+      "style": 1,
+      "name": "어서 오세요\n저희 가게는 벨 베티 스타일의 신상품부터[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085908_MSG0002",
+      "style": 1,
+      "name": "미라의 희귀한 보석을 사용한 액세서리까지\n많은 아이템을 갖추고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085908_MSG0003",
+      "style": 1,
+      "name": "분명 손님에게 어울리는 것도\n있을 거예요~[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085908_MSG0004",
+      "style": 1,
+      "name": "만약 소중한 사람이 있다면\n선물로 하나 어떠신가요?[ST:wait ]"
+    }
+  ]
+}

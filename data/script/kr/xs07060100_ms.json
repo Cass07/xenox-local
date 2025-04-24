@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs07060100_MSG0001",
+      "style": 0,
+      "name": "그윈 씨[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs07060100_MSG0002",
+      "style": 0,
+      "name": "린, 벌써 왔어?\n그렇게나 숫자가 많았는데?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs07060100_MSG0003",
+      "style": 0,
+      "name": "타츠 팀을 얕보지 말아 줘모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs07060100_MSG0004",
+      "style": 0,
+      "name": "그런 녀석들은 식은 죽 먹기다모![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs07060100_MSG0005",
+      "style": 0,
+      "name": "죽으로 만들어 버릴까 보다……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs07060100_MSG0005_01",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "xs07060100_MSG0006",
+      "style": 0,
+      "name": "엘마 대령님\n지원 감사했습니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs07060100_MSG0007",
+      "style": 0,
+      "name": "서로 돕는 거지\n그것보다 이리나와 마커스는?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs07060100_MSG0008",
+      "style": 0,
+      "name": "저기 라이프 근처에 있는데요……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs07060100_MSG0009",
+      "style": 0,
+      "name": "여기 있는 건 너희뿐이야?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs07060100_MSG0010",
+      "style": 0,
+      "name": "네, 그런데요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs07060100_MSG0011",
+      "style": 0,
+      "name": "이상하네\n주력은 따로 있을 줄 알았는데[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs07060100_MSG0012",
+      "style": 0,
+      "name": "설마……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs07060100_MSG0013",
+      "style": 0,
+      "name": "이리나, 마커스\n도망쳐!![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs07060100_MSG0014",
+      "style": 0,
+      "name": "네!?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs07060100_MSG0015",
+      "style": 0,
+      "name": "마커스![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs07060100_MSG0016",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs07060100_MSG0041",
+      "style": 0,
+      "name": "이런~ 유감이구나\n원시 종족은 감이 예리한 것인가[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs07060100_MSG0042",
+      "style": 0,
+      "name": "이 목소리는 야광의 숲에서 봤던![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs07060100_MSG0043",
+      "style": 0,
+      "name": "주력은 따로 있을 것 같았는데\n예상대로네[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs07060100_MSG0044",
+      "style": 0,
+      "name": "그렇군, 뭐 좋다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs07060100_MSG0045",
+      "style": 0,
+      "name": "네 녀석들은 이 기체로\n짓밟아 주면 되니까[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs07060100_MSG0046",
+      "style": 0,
+      "name": "우리를 함정에 빠뜨리기 위해 라이프를[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs07060100_MSG0047",
+      "style": 0,
+      "name": "함정이라고 하기에는 조금 다르지[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs07060100_MSG0048",
+      "style": 0,
+      "name": "내 목적은\n그래, 그 얼굴[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs07060100_MSG0049",
+      "style": 0,
+      "name": "그런 식으로 절망으로 일그러진\n지구인의 얼굴을 보고 싶었다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs07060100_MSG0050",
+      "style": 0,
+      "name": "지구인은 눈에 거슬리니까[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs07060100_MSG0051",
+      "style": 0,
+      "name": "물론 가장 거슬리는 건\n살아 있는 몸의 지구인이지만[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs07060100_MSG0052",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "xs07060100_MSG0053",
+      "style": 0,
+      "name": "뭐, 네 녀석들 같은 가짜 기계인형이라도\n망가뜨리면 즐거우니까[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs07060100_MSG0054",
+      "style": 0,
+      "name": "그것뿐이다![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs07060100_MSG0055",
+      "style": 0,
+      "name": "너, B.B.와 라이프에 관해서……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs07060100_MSG0056",
+      "style": 0,
+      "name": "알고 있다\n조금 정보통이 있어서 말이야[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs07060100_MSG0057",
+      "style": 0,
+      "name": "그러니 지구인이 초조해하는 이유도 알고 있다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs07060100_MSG0058",
+      "style": 0,
+      "name": "가동 시간에 리미트가 있지?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs07060100_MSG0059",
+      "style": 0,
+      "name": "라이프라는 것의 가동 한계[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs07060100_MSG0060",
+      "style": 0,
+      "name": "그걸 기다리면 네 녀석들은\n모두 움직일 수 없게 되는 것이다[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs07060100_MSG0061",
+      "style": 0,
+      "name": "사실은 그걸 기다려도 되지만[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs07060100_MSG0062",
+      "style": 0,
+      "name": "지구인의 눈앞에서\n저걸 파괴하는 것도 즐겁……![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs07060100_MSG0063",
+      "style": 0,
+      "name": "입 다물어, 서멀의 야만족[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs07060100_MSG0064",
+      "style": 0,
+      "name": "당신들의 거만함이\n우주에 커다란 비극을 불러일으켰어[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs07060100_MSG0065",
+      "style": 0,
+      "name": "더 이상 그런 비극을 반복하게 두지 않아[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs07060100_MSG0066",
+      "style": 0,
+      "name": "지구인 주제에\n뭘 안다는 것이냐?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs07060100_MSG0067",
+      "style": 0,
+      "name": "저 녀석을 쓰러뜨린다[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs07060100_MSG0068",
+      "style": 0,
+      "name": "이리나 팀은 주변의 돌을[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs07060100_MSG0069",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    }
+  ]
+}

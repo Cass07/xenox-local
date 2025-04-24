@@ -1,0 +1,378 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04120100_MSG0001",
+      "style": 0,
+      "name": "んっ！？　そいつは誰だ？\nどうやら異星人のようだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04120100_MSG0002",
+      "style": 0,
+      "name": "夜光の森で出会ったルーさんです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04120100_MSG0003",
+      "style": 0,
+      "name": "個体名はル・シルフェ\nこの星に古くから暮らす者です[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs04120100_MSG0004",
+      "style": 0,
+      "name": "ほう　この星に古くから[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs04120100_MSG0005",
+      "style": 0,
+      "name": "だから連れてきたのよ\n彼から得られる情報は貴重よ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs04120100_MSG0006",
+      "style": 0,
+      "name": "ＮＬＡへの居住を認めてあげたいのだけれど[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs04120100_MSG0007",
+      "style": 0,
+      "name": "行政長官としては　軽々に異分子を\n受け入れることはできないな[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs04120100_MSG0008",
+      "style": 0,
+      "name": "彼は信じられる[ST:wide ]―　私はそう感じたわ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs04120100_MSG0009",
+      "style": 0,
+      "name": "センジューミンに悪い人はいないですも[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs04120100_MSG0010",
+      "style": 0,
+      "name": "タツ君はともかく　エルマ\n君が言うのならばそうなのだろう[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs04120100_MSG0011",
+      "style": 0,
+      "name": "よし　分かった\n俺も責任を持とう[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs04120100_MSG0011_2",
+      "style": 0,
+      "name": "それでいいかな　行政長官閣下[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs04120100_MSG0012",
+      "style": 0,
+      "name": "君達がそうまで言うのならばな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs04120100_MSG0013",
+      "style": 0,
+      "name": "おお　ありがとうございます！\nこれぞ故事に言う　類は友を呼ぶ[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs04120100_MSG0014",
+      "style": 0,
+      "name": "堅苦しいのは無しにしましょう\nルーとお呼びください[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs04120100_MSG0015",
+      "style": 0,
+      "name": "その方が私も気が楽です[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs04120100_MSG0016",
+      "style": 0,
+      "name": "ではエルマ大佐\nライフポイントの件　報告を聞かせてくれ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs04120100_MSG0017",
+      "style": 0,
+      "name": "そうか[ST:wide ]―　やはり本命ではなかったか[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs04120100_MSG0018",
+      "style": 0,
+      "name": "見つかったのは\nデータベースユニットのうちの一つ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs04120100_MSG0019",
+      "style": 0,
+      "name": "ユニットナンバーは０７[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs04120100_MSG0020",
+      "style": 0,
+      "name": "０７というと[ST:wide ]―\nＬＣが記録されているユニットか[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs04120100_MSG0021",
+      "style": 0,
+      "name": "その三分の一だな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs04120100_MSG0022",
+      "style": 0,
+      "name": "ＬＣ[ST:wide ]―　アメリカ議会図書館の収蔵物は[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs04120100_MSG0023",
+      "style": 0,
+      "name": "ユニット０７から０９に\n分割記録されていたはずだ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs04120100_MSG0024",
+      "style": 0,
+      "name": "まぁ　不幸中の幸いだったな\n壊されたのが本命でなくて[ST:wait ]\n"
+    },
+    {
+      "$id": 26,
+      "label": "xs04120100_MSG0025",
+      "style": 0,
+      "name": "そうかしら？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs04120100_MSG0026",
+      "style": 0,
+      "name": "ん？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs04120100_MSG0027",
+      "style": 0,
+      "name": "有史以来　刊行された書籍などを\n集めたデータベースよ[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "xs04120100_MSG0028",
+      "style": 0,
+      "name": "人の歩み　心の歴史が刻まれた書籍は[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs04120100_MSG0029",
+      "style": 0,
+      "name": "何物にも代え難い　地球人類が\n誇るべき文化遺産ではなくて？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs04120100_MSG0030",
+      "style": 0,
+      "name": "いや　そいつは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs04120100_MSG0031",
+      "style": 0,
+      "name": "全部ではないにしても\nその一部が永久に失われた[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs04120100_MSG0032",
+      "style": 0,
+      "name": "これは重大な損失　文化の死よ[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs04120100_MSG0033",
+      "style": 0,
+      "name": "ん　ん[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs04120100_MSG0034",
+      "style": 0,
+      "name": "このＮＬＡにもデータベースはある[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs04120100_MSG0035",
+      "style": 0,
+      "name": "ユニットナンバーが分かっているのなら\n復元も出来るかもしれん[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "xs04120100_MSG0036",
+      "style": 0,
+      "name": "そう願っているわ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs04120100_MSG0037",
+      "style": 0,
+      "name": "そんなことより[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 39,
+      "label": "xs04120100_MSG0038",
+      "style": 0,
+      "name": "グロウスという　その敵性異星人とやら\n間違いないのかね？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs04120100_MSG0039",
+      "style": 0,
+      "name": "ええ　これを見て[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs04120100_MSG0040",
+      "style": 0,
+      "name": "北京上空で戦闘を繰り広げていた\n兵器と同一の機体ね[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs04120100_MSG0041",
+      "style": 0,
+      "name": "つまり　地球を襲撃した異星人達が\nこの星にもいると[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs04120100_MSG0042",
+      "style": 0,
+      "name": "ルーもタツも　彼らが先住民ではない\nと言っていた[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs04120100_MSG0043",
+      "style": 0,
+      "name": "彼らがこの星に降り立ってから日は浅い[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs04120100_MSG0044",
+      "style": 0,
+      "name": "我々を追ってきたのか\nそれとも単なる偶然か[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs04120100_MSG0045",
+      "style": 0,
+      "name": "意図的にライフを\n破壊していたことから推察して[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs04120100_MSG0046",
+      "style": 0,
+      "name": "地球人に対するアプローチは\n能動的といえるわね[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs04120100_MSG0047",
+      "style": 0,
+      "name": "彼らもライフの意味を知り　探しているのか[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs04120100_MSG0048",
+      "style": 0,
+      "name": "俺達が見つけていないだけで\n既に破壊されている可能性はあるぜ[ST:wait ]\n"
+    },
+    {
+      "$id": 50,
+      "label": "xs04120100_MSG0049",
+      "style": 0,
+      "name": "そうであるなら\nこんな会話は出来ていないはずだが[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs04120100_MSG0050",
+      "style": 0,
+      "name": "そりゃ　まぁそうだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs04120100_MSG0051",
+      "style": 0,
+      "name": "非公式だが　他にも数件[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs04120100_MSG0052",
+      "style": 0,
+      "name": "パスファインダーのチームが\n異星人と接触したという報告もある[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs04120100_MSG0053",
+      "style": 0,
+      "name": "その全てがグロウスとは限らないが[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs04120100_MSG0054",
+      "style": 0,
+      "name": "これまで以上に　防備は固めておいた方が\nよさそうだな[ST:wait ]\n"
+    },
+    {
+      "$id": 56,
+      "label": "xs04120100_MSG0055",
+      "style": 0,
+      "name": "ご苦労だった　エルマ\n引き続きライフポイントの探索を頼む[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs04120100_MSG0056",
+      "style": 0,
+      "name": "了解したわ[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs04120100_MSG0057",
+      "style": 0,
+      "name": "我々に残された時間は少ない[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs04120100_MSG0058",
+      "style": 0,
+      "name": "一刻も早く\nあれの場所を見つけなくてはならん[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs04120100_MSG9000",
+      "style": 0,
+      "name": "[ST:wide ]―　ブレイド司令室　[ST:wide ]―[ST:wait ]\n"
+    }
+  ]
+}

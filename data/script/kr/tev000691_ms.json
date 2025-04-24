@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000691_MSG0001",
+      "style": 1,
+      "name": "오, [ST:playername ]인가\n……이런 곳까지 오다니, 고생이 많아[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000691_MSG0002",
+      "style": 1,
+      "name": "오늘은 마셔도 마셔도 취하지를 않는군……\n정말이지 짜증 나는 날이야……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000691_MSG0003",
+      "style": 1,
+      "name": "설마 스카치에 질리는 날이 오다니……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000691_MSG0004",
+      "style": 1,
+      "name": "네가 추천하는 술은 뭐냐?\n다음번에는 그걸로 취할 수 있을지 봐야겠어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000691_JNK0010",
+      "style": 4,
+      "name": "맥주"
+    },
+    {
+      "$id": 6,
+      "label": "tev000691_SEL0011",
+      "style": 3,
+      "name": "일반적인 맥주를 추천한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000691_JNK0020",
+      "style": 4,
+      "name": "칵테일"
+    },
+    {
+      "$id": 8,
+      "label": "tev000691_SEL0021",
+      "style": 3,
+      "name": "화려한 칵테일을 추천한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev000691_JNK0030",
+      "style": 4,
+      "name": "와인"
+    },
+    {
+      "$id": 10,
+      "label": "tev000691_SEL0031",
+      "style": 3,
+      "name": "고급스러운 와인을 추천한다"
+    },
+    {
+      "$id": 11,
+      "label": "tev000691_JNK0040",
+      "style": 4,
+      "name": "보드카"
+    },
+    {
+      "$id": 12,
+      "label": "tev000691_SEL0041",
+      "style": 3,
+      "name": "도수 높은 보드카를 추천한다"
+    },
+    {
+      "$id": 13,
+      "label": "tev000691_JNK0050",
+      "style": 4,
+      "name": "사케"
+    },
+    {
+      "$id": 14,
+      "label": "tev000691_SEL0051",
+      "style": 3,
+      "name": "순도가 높은 일본주를 추천한다"
+    },
+    {
+      "$id": 15,
+      "label": "tev000691_JNK0060",
+      "style": 4,
+      "name": "불명"
+    },
+    {
+      "$id": 16,
+      "label": "tev000691_SEL0061",
+      "style": 3,
+      "name": "미성년자라 술을 못 마시므로\n모르겠다고 대답한다"
+    },
+    {
+      "$id": 17,
+      "label": "tev000691_MSG0005",
+      "style": 1,
+      "name": "맥주라[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000691_MSG0006",
+      "style": 1,
+      "name": "맥주는 미식축구 볼 때만\n마시기로 정했는데……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000691_MSG0007",
+      "style": 1,
+      "name": "뭐, 한번 시도해 볼까[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000691_MSG0008",
+      "style": 1,
+      "name": "깊이가 부족한 느낌인데\n뭐, 너랑은 잘 어울릴 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000691_MSG0009",
+      "style": 1,
+      "name": "한 십수 년은 안 마셨지만\n시험 삼아 마셔 볼 수도 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000691_MSG0010",
+      "style": 1,
+      "name": "와인이라\n내 삶과 가장 거리가 먼 물건이군[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000691_MSG0011",
+      "style": 1,
+      "name": "아니, 오히려 그렇기에 마셔 보면\n취할 수 있을지도 모르지[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000691_MSG0012",
+      "style": 1,
+      "name": "그거 좋은 술이지\n오호라, 너도 좋아하는 건가[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000691_MSG0013",
+      "style": 1,
+      "name": "보드카라면 NLA에서도 구하기 쉽고\n간편하게 마시기 좋단 말이야[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000691_MSG0014",
+      "style": 1,
+      "name": "거참, 중후한 멋이 느껴지는군\n나기 군무장관과 마음이 잘 맞겠어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000691_MSG0015",
+      "style": 1,
+      "name": "나는 꺼리는 편이지만……\n네가 추천한 거니까 마셔 볼까[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000691_MSG0016",
+      "style": 1,
+      "name": "그렇군, 술을 못 마신다고 했던가\n미안하다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000691_MSG0017",
+      "style": 1,
+      "name": "……그래\n너랑 대화하다가 떠오른 게 있어[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000691_MSG0018",
+      "style": 1,
+      "name": "날 취하게 하는 술이 없으면\n내 손으로 만들면 되는 거 아니냐?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000691_MSG0019",
+      "style": 1,
+      "name": "미라에는 지구에서 본 적 없는 이상한\n과일이나 곡식이 자라고 있잖아?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000691_MSG0020",
+      "style": 1,
+      "name": "인터셉터 임무 도중에 겸사겸사\n그런 걸 모아서 완전히 새로운 술을\n만들면 되는 거야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000691_MSG0021",
+      "style": 1,
+      "name": "설마 마시는 입장에서 만드는 입장이 될 줄은\n상상도 못 했지만, 짜증 나던 게\n조금 가라앉은 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000691_MSG0022",
+      "style": 1,
+      "name": "네가 말을 걸어 줘서 다행이다\n고마워[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000691_MSG0023",
+      "style": 1,
+      "name": "그러면 나는 다시 한잔하면서\n앞으로의 계획을 정리해 봐야겠다[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000691_MSG0024",
+      "style": 1,
+      "name": "임무 있을 때 또 보자[ST:wait ]"
+    }
+  ]
+}

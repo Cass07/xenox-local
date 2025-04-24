@@ -1,0 +1,510 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091703_MSG0001",
+      "style": 0,
+      "name": "자, 외계인 현상 수배자에 대해\n자세히 말해 줘야겠어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091703_MSG0002",
+      "style": 0,
+      "name": "역시 머더레스 씨, 귀가 밝네요\n하지만 임무 내용에 살인은 포함되지 않아요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091703_MSG0003",
+      "style": 0,
+      "name": "그랬어?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091703_MSG0004",
+      "style": 0,
+      "name": "이번 임무는……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091703_MSG0005",
+      "style": 0,
+      "name": "오르페인 매드 사이언티스트\n랑크로드를 붙잡는 거예요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091703_MSG0006",
+      "style": 0,
+      "name": "이전에 수원 관리 시설의 가드 머신이\n모조리 해킹당해 폭주하는 사건이 있었거든요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091703_MSG0007",
+      "style": 0,
+      "name": "그 주모자를 해치우라는 뜻이네[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091703_MSG0008",
+      "style": 0,
+      "name": "붙잡으라는, 뜻이에요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091703_MSG0009",
+      "style": 0,
+      "name": "죽이는 편이 간단하고 좋은데[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091703_MSG0010",
+      "style": 0,
+      "name": "오르페인분들은 랑크로드와의\n화해를 바라고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091703_MSG0011",
+      "style": 0,
+      "name": "그 마음을 무시할 수는 없어요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091703_MSG0012",
+      "style": 0,
+      "name": "우호 조약이라는 것도 귀찮네[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091703_MSG0013",
+      "style": 0,
+      "name": "아무리 머더레스……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091703_MSG0014",
+      "style": 0,
+      "name": "살인자라는 별명을 지녔어도\n조약은 지키도록 해 주세요![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091703_MSG0015",
+      "style": 0,
+      "name": "그래그래……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091703_MSG0016",
+      "style": 0,
+      "name": "그리고 이쪽 일은 여유가 있을 때 하면 되는데[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091703_MSG0017",
+      "style": 0,
+      "name": "랑크로드의 연구 데이터를 가지고 와 주시면\n별도의 보수를 드릴게요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091703_MSG0018",
+      "style": 0,
+      "name": "정말 멋지네\n두 임무 모두 반드시 완수하고 말겠어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091703_MSG0019",
+      "style": 0,
+      "name": "그래서…… 랑크로드의 거처는?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091703_MSG0020",
+      "style": 0,
+      "name": "모릅니다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091703_MSG0021",
+      "style": 0,
+      "name": "설마 위치 조사도 이쪽에서 해야 해?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091703_MSG0022",
+      "style": 0,
+      "name": "물론이죠, 그렇기에\n40만 G라는 거금이 보수로 설정된 거고요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091703_MSG0023",
+      "style": 0,
+      "name": "40만 G라…… 연구 데이터를 가지고 오면?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091703_MSG0024",
+      "style": 0,
+      "name": "합계 60만 G입니다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091703_MSG0025",
+      "style": 0,
+      "name": "무조건 해야겠네[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091703_MSG0026",
+      "style": 0,
+      "name": "오르페인은\n그로우스 거점 어딘가에 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091703_MSG0027",
+      "style": 0,
+      "name": "닥치는 대로 쳐들어가서 정보를 모으자[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091703_MSG0028",
+      "style": 0,
+      "name": "통신 기록이나 행동 로그가\n남아 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091703_MSG0029",
+      "style": 0,
+      "name": "그런 것들을 모으면\n현재 위치를 파악할 수 있겠지……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091703_MSG0030",
+      "style": 0,
+      "name": "갑자기 눈에서 생기가 도네요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091703_MSG0031",
+      "style": 0,
+      "name": "힘든 일이겠지만 열심히 하세요\n조심하시고요……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091703_MSG0032",
+      "style": 0,
+      "name": "어서 오세요, 일은 어떻게 됐나요?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091703_MSG0033",
+      "style": 0,
+      "name": "완벽해, 지금쯤 본부에 연구 데이터와\n다 죽어 가는 벌레 녀석이 도착했을걸[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091703_MSG0034",
+      "style": 0,
+      "name": "다 죽어 가는!?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091703_MSG0035",
+      "style": 0,
+      "name": "의뢰인은 납득하지 않을지도 모르지만[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091703_MSG0036",
+      "style": 0,
+      "name": "약속한 대로 데리고 왔으니까\n보수는 나오는 거겠지?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091703_MSG0037",
+      "style": 0,
+      "name": "그야 나올 것 같기는 하지만……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091703_MSG0038",
+      "style": 0,
+      "name": "보수를 못 받으면 너도 산송장으로 만들 거야[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091703_MSG0039",
+      "style": 0,
+      "name": "히익!?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091703_MSG0040",
+      "style": 0,
+      "name": "어, 어째서 오늘은\n이렇게까지 말이 거친 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091703_JNK0010",
+      "style": 4,
+      "name": "놀린다"
+    },
+    {
+      "$id": 42,
+      "label": "qev091703_SEL0011",
+      "style": 3,
+      "name": "거금을 받게 돼서 기분이 좋으니까"
+    },
+    {
+      "$id": 43,
+      "label": "qev091703_JNK0020",
+      "style": 4,
+      "name": "진지하게 설명한다"
+    },
+    {
+      "$id": 44,
+      "label": "qev091703_SEL0021",
+      "style": 3,
+      "name": "오르페의 일장 연설에 화가 났으니까"
+    },
+    {
+      "$id": 45,
+      "label": "qev091703_MSG0041",
+      "style": 0,
+      "name": "그렇군요, 그래서 평소보다도\n마음이 들떠 보이는 거네요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091703_MSG0042",
+      "style": 0,
+      "name": "저는 고정 급여로 일하니까\n그런 큰돈은 한 번도 받아 본 적 없어요[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091703_MSG0043",
+      "style": 0,
+      "name": "그렇군요, 이해해요\n저도 말이 길어지는 건 싫거든요[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091703_MSG0044",
+      "style": 0,
+      "name": "특히 행정장관님의 연설은\n듣다 보면 졸릴 정도라니까요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091703_MSG0045",
+      "style": 0,
+      "name": "네 사정이야 아무래도 좋아\n보수 지급 부탁할게[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091703_MSG0046",
+      "style": 0,
+      "name": "네, 마침 허가가 떨어졌습니다\n이것이 이번 보수입니다[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091703_MSG0047",
+      "style": 0,
+      "name": "머더레스 씨는 보수를 받을 때\n가장 행복해 보이는 표정이네요[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091703_MSG0048",
+      "style": 0,
+      "name": "너 바보야? 그런 모습을\n뭐가 좋다고 쳐다보는 거람……[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091703_MSG0049",
+      "style": 0,
+      "name": "그래도 꿈에 다가가고 있으니 행복한 건 맞아[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091703_JNK0030",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 55,
+      "label": "qev091703_SEL0031",
+      "style": 3,
+      "name": "머더레스의 꿈에 관심을 가진다"
+    },
+    {
+      "$id": 56,
+      "label": "qev091703_JNK0040",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 57,
+      "label": "qev091703_SEL0041",
+      "style": 3,
+      "name": "보수와 꿈의 연관성에 의문을 품는다"
+    },
+    {
+      "$id": 58,
+      "label": "qev091703_MSG0050",
+      "style": 0,
+      "name": "너한테는 얘기한 적 없었나?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091703_MSG0051",
+      "style": 0,
+      "name": "벌레 녀석을 잡을 때도 말했지만 나는 대부호의 딸이라\n풍족한 삶을 누리고 있었어[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091703_MSG0052",
+      "style": 0,
+      "name": "에핀저 가문의 장녀이자\n유일한 상속자였지[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091703_MSG0053",
+      "style": 0,
+      "name": "하지만 어떤 사건을 계기로 나는 슬럼가에서\n고아나 다름없는 삶을 살아야만 했어……[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091703_MSG0054",
+      "style": 0,
+      "name": "처참하게 몰락한 인생이지[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091703_MSG0055",
+      "style": 0,
+      "name": "하지만 난 포기하지 않았어[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev091703_MSG0056",
+      "style": 0,
+      "name": "돈을 긁어모아서 에핀저 가문을\n부흥시키기로 다짐한 거야[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev091703_MSG0057",
+      "style": 0,
+      "name": "그게 내 꿈 중 하나지[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev091703_MSG0058",
+      "style": 0,
+      "name": "그랬군요……[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev091703_MSG0059",
+      "style": 0,
+      "name": "질릴 만큼 돈을 모아서\n에핀저 가문을 부흥시키는 게[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev091703_MSG0060",
+      "style": 0,
+      "name": "내 꿈 중 하나거든[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev091703_MSG0061",
+      "style": 0,
+      "name": "에핀저 가문이라뇨?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev091703_MSG0062",
+      "style": 0,
+      "name": "내가 태어나 자란 가문……\n제법 대부호였어[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev091703_MSG0063",
+      "style": 0,
+      "name": "하지만 어떤 사건을 계기로\n순식간에 붕괴해 버렸지……[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev091703_MSG0064",
+      "style": 0,
+      "name": "그 후로 난 슬럼가에서 자랐어[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev091703_MSG0065",
+      "style": 0,
+      "name": "그랬군요……[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev091703_MSG0066",
+      "style": 0,
+      "name": "딱히 심각한 표정 지을 필요 없어\n큰돈도 벌었으니 그냥 기뻐해 줘[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev091703_MSG0067",
+      "style": 0,
+      "name": "그렇네요![ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev091703_MSG0068",
+      "style": 0,
+      "name": "아, 그러면 이 기회에\n부자가 된 머더레스 씨에게[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev091703_MSG0069",
+      "style": 0,
+      "name": "카페에서 식사를 대접받고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev091703_MSG0070",
+      "style": 0,
+      "name": "싫어, 거절하겠어, 대접하기 싫어[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev091703_MSG0071",
+      "style": 0,
+      "name": "네에?[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev091703_MSG0071_2",
+      "style": 0,
+      "name": "대부호의 딸답게 넓은 아량을 베풀어 주세요[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev091703_MSG0072",
+      "style": 0,
+      "name": "자, 이런 아가씨는 내버려두고\n다음 임무나 하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev091703_MSG0073",
+      "style": 0,
+      "name": "하루라도 빨리 꿈을 이루기 위해서 말이야[ST:wait ]"
+    }
+  ]
+}

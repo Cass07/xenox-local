@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev015102_MSG0001",
+      "style": 1,
+      "name": "응……?\n너는 저번에 만난 정의의 사도잖아\n얼굴빛이 좋지 않은데…… 무슨 일 있어?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev015102_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 3,
+      "label": "qev015102_SEL0011",
+      "style": 3,
+      "name": "최근에 로브스터 인형을\n받지 않았냐고 묻는다"
+    },
+    {
+      "$id": 4,
+      "label": "qev015102_JNK0020",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 5,
+      "label": "qev015102_SEL0021",
+      "style": 3,
+      "name": "최근에 주변에서 이상한 일은\n없었는지 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "qev015102_MSG0002",
+      "style": 1,
+      "name": "로브스터 인형……?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev015102_MSG0003",
+      "style": 1,
+      "name": "……아, 그러고 보니 방금\n그런 인형이 배달됐지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev015102_MSG0004",
+      "style": 1,
+      "name": "지난 임무 중에 구출한\n시민의 선물인 것 같은데……\n무슨 문제라도 있어?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev015102_MSG0005",
+      "style": 1,
+      "name": "아니…… 없는데?\n임무도 순조롭고, 딱히 이렇다 할 일은……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev015102_MSG0006",
+      "style": 1,
+      "name": "……앗, 그러고 보니 나와 동료들이 구출한\n시민으로부터 로브스터 인형이 배달됐지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev015102_MSG0007",
+      "style": 1,
+      "name": "그런 선물은 처음이라\n다들 기뻐했는데……\n무슨 문제라도 있는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev015102_MSG0008",
+      "style": 1,
+      "name": "……뭐!?\n이게 NLA에 설치된 폭탄!?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev015102_MSG0009",
+      "style": 1,
+      "name": "이 NLA에 100개 설치되어 있었고\n그걸 네가 전부 모았다고!?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev015102_MSG0010",
+      "style": 1,
+      "name": "그렇구나, 그렇다면 가지고 가\n그리고 유일무이한 정의의 사도로서\n그런 악당에게 천벌을 내려 줘![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev015102_MSG0011",
+      "style": 1,
+      "name": "……마지막 조각을 획득한 모양이군\n나도 준비에 만전을 기했지\n자, 마무리를 지어 보자고[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev015102_MSG0012",
+      "style": 1,
+      "name": "나는 어리석은 패배자 꼭두각시……\n데피니아 녀석들의 기지에 있다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev015102_MSG0013",
+      "style": 1,
+      "name": "어서 와라!\n이제 블러드 로브스터의 본모습을\n보여 줄 때가 왔으니까~![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev015102_JNK0030",
+      "style": 4,
+      "name": "중단"
+    },
+    {
+      "$id": 19,
+      "label": "qev015102_SEL0031",
+      "style": 3,
+      "name": "연락을 끊는다"
+    },
+    {
+      "$id": 20,
+      "label": "qev015102_JNK0040",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 21,
+      "label": "qev015102_SEL0041",
+      "style": 3,
+      "name": "블러드 로브스터가\n어떤 자인지 묻는다"
+    },
+    {
+      "$id": 22,
+      "label": "qev015102_MSG0014",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev015102_MSG0015",
+      "style": 1,
+      "name": "……그 범죄자가 연락한 거야?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev015102_MSG0016",
+      "style": 1,
+      "name": "절대로 지면 안 돼\n너는 내 마음속 최고의 영웅이야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev015102_MSG0017",
+      "style": 1,
+      "name": "현실에서도 내가 꿈꾼 이야기처럼\n선량한 자가 반드시 이긴다는 걸 증명해 줘![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev015102_MSG0018",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "qev015102_MSG0019",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "qev015102_MSG0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "qev015102_MSG0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "qev015102_MSG0022",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "qev015102_MSG0023",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "qev015102_MSG0024",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

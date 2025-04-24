@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001591_MSG0001",
+      "style": 1,
+      "name": "……あら　野暮な人ね\nティータイムを邪魔するのは感心しないわ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001591_MSG0002",
+      "style": 1,
+      "name": "……そもそも私が優雅にお茶を飲んでるのを\n訝しんでる感じね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001591_MSG0003",
+      "style": 1,
+      "name": "これはちゃんとしたセイロンティーよ\nもっともNLAで作られたから贋物だけどね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001591_JNK0010",
+      "style": 4,
+      "name": "要望"
+    },
+    {
+      "$id": 5,
+      "label": "tev001591_SEL0011",
+      "style": 3,
+      "name": "一緒にお茶を飲みたい"
+    },
+    {
+      "$id": 6,
+      "label": "tev001591_JNK0020",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 7,
+      "label": "tev001591_SEL0021",
+      "style": 3,
+      "name": "そちらの男性は何者か尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "tev001591_MSG0004",
+      "style": 1,
+      "name": "今度一緒にレーションを食べてあげるから\n今は我慢してちょうだい[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001591_MSG0005",
+      "style": 1,
+      "name": "大切な商談の途中なのよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001591_MSG0006",
+      "style": 1,
+      "name": "んー　そうね\nビジネスパートナーといえばいいかしら[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001591_MSG0007",
+      "style": 1,
+      "name": "今　大切な商談の途中なのよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001591_JNK0110",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 13,
+      "label": "tev001591_SEL0111",
+      "style": 3,
+      "name": "大切な商談とは何か尋ねる"
+    },
+    {
+      "$id": 14,
+      "label": "tev001591_JNK0120",
+      "style": 4,
+      "name": "嫌疑"
+    },
+    {
+      "$id": 15,
+      "label": "tev001591_SEL0121",
+      "style": 3,
+      "name": "また悪だくみをしているのか\nと疑う"
+    },
+    {
+      "$id": 16,
+      "label": "tev001591_JNK0130",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 17,
+      "label": "tev001591_SEL0131",
+      "style": 3,
+      "name": "自分も仲間に入れてほしいと\nお願いする"
+    },
+    {
+      "$id": 18,
+      "label": "tev001591_MSG0008",
+      "style": 1,
+      "name": "それは秘密よ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001591_MSG0009",
+      "style": 1,
+      "name": "でも　安心して\n決して人を騙すわけでもないし　危険もない[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001591_MSG0010",
+      "style": 1,
+      "name": "どちらかといえば……そうね……\n夢を買う感じかしらね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001591_MSG0011",
+      "style": 1,
+      "name": "さあ　これ以上は話せないわ\n今度はブレイドエリアで任務の話でもしましょ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001591_MSG0012",
+      "style": 1,
+      "name": "じゃあ　またね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001591_MSG0013",
+      "style": 1,
+      "name": "ヒドイわね……\n私のこと　そんな風に思ってるなんて[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001591_MSG0014",
+      "style": 1,
+      "name": "ムリもないとは思うけど　今回は安心して\n決して人を騙すわけでもないし　危険もない[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001591_MSG0015",
+      "style": 1,
+      "name": "どちらかといえば……そうね……\n夢を買う感じかしらね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001591_MSG0016",
+      "style": 1,
+      "name": "さあ　これ以上は話せないわ\n今度はブレイドエリアで任務の話でもしましょ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001591_MSG0017",
+      "style": 1,
+      "name": "じゃあ　またね[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001591_MSG0018",
+      "style": 1,
+      "name": "あなた　ハイエナかなにか？[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001591_MSG0019",
+      "style": 1,
+      "name": "儲け話となると無条件で一枚かもうとするのは\nよくないわよ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001591_MSG0020",
+      "style": 1,
+      "name": "誇りを持って金稼ぎをしなさい[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001591_MSG0021",
+      "style": 1,
+      "name": "とはいえ　今回の件は詳しくは話したくないの\nあなたとはブレイドエリアで\n任務の話でもしたいわ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001591_MSG0022",
+      "style": 1,
+      "name": "じゃあ　またね[ST:wait ]"
+    }
+  ]
+}

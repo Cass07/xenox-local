@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000792_MSG0001",
+      "style": 1,
+      "name": "오, [ST:playername ]인가[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000792_MSG0002",
+      "style": 1,
+      "name": "지금 저기 있는 아가씨한테 구급상자를\n많이 준비해 달라고 부탁한 참이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000792_MSG0003",
+      "style": 1,
+      "name": "내가 담당하는 다음 임무에서 오버드 2마리와\n동시에 마주칠 가능성이 있거든[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000792_MSG0004",
+      "style": 1,
+      "name": "힘든 싸움이 벌어져서\n부상자가 많이 나올지도 모르니까 말이지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000792_JNK0010",
+      "style": 4,
+      "name": "부러워한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000792_SEL0011",
+      "style": 3,
+      "name": "짜릿한 싸움이 될 거라며\n더그를 부러워한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000792_JNK0020",
+      "style": 4,
+      "name": "제안한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000792_SEL0021",
+      "style": 3,
+      "name": "자신도 돕겠다고 제안한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev000792_JNK0030",
+      "style": 4,
+      "name": "칭찬한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev000792_SEL0031",
+      "style": 3,
+      "name": "동료를 잘 챙기는 점을 칭찬한다"
+    },
+    {
+      "$id": 11,
+      "label": "tev000792_MSG0005",
+      "style": 1,
+      "name": "하하…… 너답네[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000792_MSG0006",
+      "style": 1,
+      "name": "애벌란시 녀석들도 떨고 있었고\n나도 그렇게 적극적으로 나서고 싶지는 않아[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000792_MSG0007",
+      "style": 1,
+      "name": "아마 너만큼 블레이드에\n어울리는 녀석은 없을 거다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000792_MSG0008",
+      "style": 1,
+      "name": "기특한 [ST:playername ]에게\n양보하고 싶은 마음도 있지만\n우리한테도 긍지라는 게 있어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000792_MSG0009",
+      "style": 1,
+      "name": "이 일은 나한테 맡겨 줘\n아무도 빠뜨리지 않고 돌아올 테니까[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000792_MSG0010",
+      "style": 1,
+      "name": "그 후에는 보수도 잔뜩 받을 수 있을 거다\n그러면 내가 한턱낼게[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000792_MSG0011",
+      "style": 1,
+      "name": "그럼 난 이제 간다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000792_MSG0012",
+      "style": 1,
+      "name": "너의 넘치는 열정 덕분에\n나도 의욕이 솟아오르고 있거든![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000792_MSG0013",
+      "style": 1,
+      "name": "그럴 거 없어[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000792_MSG0014",
+      "style": 1,
+      "name": "나한테는 내 일이 있고\n너도 네가 해야 할 일이 있지[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000792_MSG0015",
+      "style": 1,
+      "name": "동료를 아끼는 건 기쁘지만\n너 혼자 전부 떠맡으려고 하지 마[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000792_MSG0016",
+      "style": 1,
+      "name": "이 일은 나를 믿고 맡겨 줘[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000792_MSG0017",
+      "style": 1,
+      "name": "진짜로 위험한 상황이면\n도움을 요청할 테니 그때는 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000792_MSG0018",
+      "style": 1,
+      "name": "아, 그렇지[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000792_MSG0019",
+      "style": 1,
+      "name": "임무는 문제없지만\n당장이라도 도움이 필요한 일이 있어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000792_MSG0020",
+      "style": 1,
+      "name": "지금 말한 임무보다 훨씬 위험하지만\n인류의 희망이 될 수도 있는 일이야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000792_MSG0021",
+      "style": 1,
+      "name": "그건 바로……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000792_MSG0022",
+      "style": 1,
+      "name": "돌 플라이트 커스텀 개발이다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000792_MSG0023",
+      "style": 1,
+      "name": "린의 테스트를 계속 도왔더니\n몸이 몇 개가 있더라도 부족할 지경이야……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000792_MSG0024",
+      "style": 1,
+      "name": "앗!?\n이봐, 내 말 안 듣고 있지!?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000792_MSG0025",
+      "style": 1,
+      "name": "제대로 들어 보라니까![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000792_MSG0026",
+      "style": 1,
+      "name": "딱히 칭찬받을 일은 아니야……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000792_MSG0027",
+      "style": 1,
+      "name": "우리의 임무는 인류를 위해서라는\n엄청난 대의명분이 있지만 쉽게 와닿지는 않아[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000792_MSG0028",
+      "style": 1,
+      "name": "너무 스케일이 커서 상상이 안 가잖아[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000792_MSG0029",
+      "style": 1,
+      "name": "지금 내 곁에 있는 건 동료들뿐이야\n너도 포함해서 말이지[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000792_MSG0030",
+      "style": 1,
+      "name": "그러니 난 동료들을 위해\n온 힘을 다할 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000792_MSG0031",
+      "style": 1,
+      "name": "그게 결과적으로 인류를 위한 일이면 돼[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000792_MSG0032",
+      "style": 1,
+      "name": "그, 뭐냐, 난 돈과 눈앞의 일밖에\n못 보는 녀석이거든[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000792_MSG0033",
+      "style": 1,
+      "name": "그러니까 당연한 일을 했을 뿐이야[ST:wait ]"
+    }
+  ]
+}

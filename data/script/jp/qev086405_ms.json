@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086405_MSG0001",
+      "style": 0,
+      "name": "ないわねぇ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086405_MSG0002",
+      "style": 0,
+      "name": "ないですねぇ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086405_MSG0003",
+      "style": 0,
+      "name": "ああああああーですも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086405_MSG0004",
+      "style": 0,
+      "name": "あいつ　トーチャンのメガネを\nくわえてたですも！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086405_MSG0005",
+      "style": 0,
+      "name": "ほんとに！？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086405_MSG0006",
+      "style": 0,
+      "name": "ほんとですも！\n見たですも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086405_MSG0007",
+      "style": 0,
+      "name": "滝壺の方へ向かっていきますね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086405_MSG0008",
+      "style": 0,
+      "name": "追いかけましょう！[ST:wait ]"
+    }
+  ]
+}

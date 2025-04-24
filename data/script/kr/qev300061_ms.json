@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev300061_MSG0001",
+      "style": 1,
+      "name": "혹시 미라늄을\n가지고 와 주신 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev300061_MSG0002",
+      "style": 1,
+      "name": "저는 미라늄을 종합 생산 플랜트에서\n활용할 방법이 없을지 연구하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev300061_JNK0010",
+      "style": 4,
+      "name": "건네준다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev300061_SEL0011",
+      "style": 3,
+      "name": "미라늄 1200gm을 건네준다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev300061_JNK0020",
+      "style": 4,
+      "name": "건네주지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev300061_SEL0021",
+      "style": 3,
+      "name": "아직은 건네주지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev300061_MSG0004",
+      "style": 1,
+      "name": "감사합니다\n반드시 NLA에 도움이 되게 만들게요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev300061_MSG0005",
+      "style": 1,
+      "name": "유감이네요……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev300061_MSG0006",
+      "style": 1,
+      "name": "하지만 유감스럽게도……\n의뢰한 양에 미치지 못하는 것 같네요\n1200gm을 가지고 와 주세요[ST:wait ]"
+    }
+  ]
+}

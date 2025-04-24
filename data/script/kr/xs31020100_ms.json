@@ -1,0 +1,330 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31020100_MSG0010",
+      "style": 0,
+      "name": "사라졌다니?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31020100_MSG0020",
+      "style": 0,
+      "name": "무슨 말이지?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31020100_MSG0030",
+      "style": 0,
+      "name": "정체불명의 소실 현상이\n미라 여기저기서 발생하고 있다는군[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31020100_MSG0040",
+      "style": 0,
+      "name": "소실 현상?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs31020100_MSG0050",
+      "style": 0,
+      "name": "각지에서 동시다발적으로 발생한 이 현상은[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs31020100_MSG0060",
+      "style": 0,
+      "name": "모든 것들을 삼켜 버리면서\n영역을 확대하고 있네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs31020100_MSG0070",
+      "style": 0,
+      "name": "삼켜진 뒤에는 물질은커녕\n전자파 하나 남지 않으니[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs31020100_MSG0080",
+      "style": 0,
+      "name": "그야말로 사라졌다고 표현할 수밖에 없어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs31020100_MSG0090",
+      "style": 0,
+      "name": "단순한 자연재해는 아닌 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs31020100_MSG0100",
+      "style": 0,
+      "name": "아직 현상이 발생하는 곳은 한정적이고\n확대도 매우 느리지만……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs31020100_MSG0110",
+      "style": 0,
+      "name": "그 영역은 언젠가\n이 NLA까지 침범할지도 모르네[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs31020100_MSG0120",
+      "style": 0,
+      "name": "NLA도 사라져 버린다는 건가요!?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs31020100_MSG0130",
+      "style": 0,
+      "name": "큰일이다모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs31020100_MSG0140",
+      "style": 0,
+      "name": "바로 도망갈 준비를 시작하자모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs31020100_MSG0150",
+      "style": 0,
+      "name": "어디로 도망갈 건데?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs31020100_MSG0160",
+      "style": 0,
+      "name": "여기저기에서 일어나고 있다고[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs31020100_MSG0170",
+      "style": 0,
+      "name": "어디로 가든 마찬가지겠지[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs31020100_MSG0180",
+      "style": 0,
+      "name": "모든 걸 삼켜 버린다면[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs31020100_MSG0185",
+      "style": 0,
+      "name": "방파제를 만들어도 소용없겠네요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs31020100_MSG0190",
+      "style": 0,
+      "name": "옛말에 이르기를\n밑 빠진 독에 물 붓기라고 하였죠[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs31020100_MSG0200",
+      "style": 0,
+      "name": "우선은 자세한 조사가 필요하겠어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs31020100_MSG0210",
+      "style": 0,
+      "name": "현상이 확실히 보이는 곳을 조사하자[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs31020100_MSG0220",
+      "style": 0,
+      "name": "그래야겠지[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs31020100_MSG0230",
+      "style": 0,
+      "name": "모쪼록 조심하게[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs31020100_MSG0240",
+      "style": 0,
+      "name": "무슨 일이 일어나고 있는지 정말 알 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs31020100_MSG0250",
+      "style": 0,
+      "name": "그래, 하지만 이 행성에 와서[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs31020100_MSG0260",
+      "style": 0,
+      "name": "그렇지 않았던 경우가\n드물지만 말이다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs31020100_MSG0270",
+      "style": 0,
+      "name": "동감이야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs31020100_MSG0280",
+      "style": 0,
+      "name": "그렇기에 인생은 멋지다고 할 수 있습니다![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs31020100_MSG0290",
+      "style": 0,
+      "name": "옛말에 이르기를\n끝이 좋으면 다 좋다지 않습니까?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs31020100_MSG0300",
+      "style": 0,
+      "name": "이제 막 시작된 참이지만 말이지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs31020100_MSG0310",
+      "style": 0,
+      "name": "하하하하……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs31020100_MSG0311",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "xs31020100_MSG0312",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "xs31020100_MSG0313",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "xs31020100_MSG0314",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "xs31020100_MSG0315",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "xs31020100_MSG0316",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "xs31020100_MSG0317",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "xs31020100_MSG0318",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "xs31020100_MSG0320",
+      "style": 0,
+      "name": "센트럴 라이프를 조사할 상황이\n아니게 됐네[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs31020100_MSG0330",
+      "style": 0,
+      "name": "둘 다 운명이 걸린 일이지만[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs31020100_MSG0340",
+      "style": 0,
+      "name": "센트럴 라이프 조사 결과로\n우리가 살아남았다고 해도[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs31020100_MSG0350",
+      "style": 0,
+      "name": "이 소실 현상으로 미라가\n사라져 버리면 의미가 없겠지[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs31020100_MSG0360",
+      "style": 0,
+      "name": "대원들에게는 일단\n조사를 계속하도록 말해 두겠네[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs31020100_MSG0370",
+      "style": 0,
+      "name": "그래, 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs31020100_MSG0380",
+      "style": 0,
+      "name": "패닉에 빠지는 것보단 낫겠지[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs31020100_MSG0390",
+      "style": 0,
+      "name": "엘마 씨?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs31020100_MSG0400",
+      "style": 0,
+      "name": "린, 나는 말이야[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs31020100_MSG0410",
+      "style": 0,
+      "name": "지금 일어나는 일은 서로 다른 현상이 아니라[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs31020100_MSG0415",
+      "style": 0,
+      "name": "사실은 전부 연결되어 있다는[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs31020100_MSG0420",
+      "style": 0,
+      "name": "……그런 느낌이 들어[ST:wait ]"
+    }
+  ]
+}

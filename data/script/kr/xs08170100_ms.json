@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08170100_MSG0001",
+      "style": 0,
+      "name": "오오, 그분을 맞이할 그릇이\n지금 나에게 왔도다![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08170100_MSG0002",
+      "style": 0,
+      "name": "부디, 부디 이 행성에 강림하시어\n저를 이끌어 주소서……!![ST:wait ]"
+    }
+  ]
+}

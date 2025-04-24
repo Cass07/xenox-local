@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000393_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]じゃないか\n助かった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000393_MSG0002",
+      "style": 1,
+      "name": "格納庫の件でマ・ノン人に依頼にきたんだが\nご覧のとおり捕まってしまってな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000393_MSG0003",
+      "style": 1,
+      "name": "パスファインダーなんか珍しくないだろうに\n根掘り葉掘りフロンティアネットについて\n訊いてくるんだよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000393_MSG0004",
+      "style": 1,
+      "name": "こっちは忙しいから早く切り上げたいんだが\nなかなか話を聞いてくれないんだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000393_MSG0005",
+      "style": 1,
+      "name": "お前ならこんなときどうする？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000393_MSG0006",
+      "style": 1,
+      "name": "逃げる[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000393_MSG0007",
+      "style": 1,
+      "name": "話を一切聞かずに強引に逃げる[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000393_MSG0008",
+      "style": 1,
+      "name": "つきあう[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000393_MSG0009",
+      "style": 1,
+      "name": "相手が納得するまで話を聞く[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000393_MSG0010",
+      "style": 1,
+      "name": "許しを請う[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000393_MSG0011",
+      "style": 1,
+      "name": "ピザをプレゼントして許してもらう[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000393_MSG0013",
+      "style": 1,
+      "name": "それができればよかったんだけどな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000393_MSG0014",
+      "style": 1,
+      "name": "俺が走って逃げようとすると\n腕を二人掛かりで掴むんだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000393_MSG0015",
+      "style": 1,
+      "name": "それが駄々をこねる子供みたいでな\nぞんざいに扱えなかったというか……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000393_MSG0017",
+      "style": 1,
+      "name": "お前はマジメだな\n感心するよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000393_MSG0019",
+      "style": 1,
+      "name": "ピザか[ST:wide ]―名案だと言いたいが\n普通手元にはないだろ？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000393_MSG0020",
+      "style": 1,
+      "name": "商業エリアに買いに行くことになれば\nさらにマ・ノン人の話は続くぞ……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000393_MSG0022",
+      "style": 1,
+      "name": "なぁ　こういう状況　お前はどう思ってる？\n地球人と異星人が一緒の街で暮らしてる今を[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000393_JNK0040",
+      "style": 4,
+      "name": "肯定的[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000393_SEL0041",
+      "style": 3,
+      "name": "素晴らしいことだと思う[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000393_JNK0050",
+      "style": 4,
+      "name": "中立的[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000393_SEL0051",
+      "style": 3,
+      "name": "いいことではあるが　リスクもある[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000393_JNK0060",
+      "style": 4,
+      "name": "否定的[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000393_SEL0061",
+      "style": 3,
+      "name": "デメリットも多いので　注意したい[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000393_MSG0030",
+      "style": 1,
+      "name": "そう思うか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000393_MSG0031",
+      "style": 1,
+      "name": "確かにマ・ノン人は悪いヤツじゃない[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000393_MSG0032",
+      "style": 1,
+      "name": "でも　異星人が来なければ\n地球が滅びることはなかったわけだし\n俺たちがこんな目に遭うこともなかったんだ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000393_MSG0033",
+      "style": 1,
+      "name": "互いに出会わなければよかった\nと冗談めいたことを言うつもりはないが\n簡単に肯定はしたくないんだよな[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000393_MSG0034",
+      "style": 1,
+      "name": "[ST:wide ]―だが　こうなった以上は仕方がないのも\n理解しているつもりだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000393_MSG0035",
+      "style": 1,
+      "name": "前進できるように俺も努力はしていくさ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000393_MSG0037",
+      "style": 1,
+      "name": "そうだな[ST:wide ]―確かにいいことばかりじゃない[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000393_MSG0038",
+      "style": 1,
+      "name": "地球人は技術を得たが\n同時に危険も招いてしまったんだ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000393_MSG0039",
+      "style": 1,
+      "name": "互いに出会わなければよかった\nと冗談めいたことを言うつもりはないが\n簡単に肯定はしたくないんだよな[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000393_MSG0040",
+      "style": 1,
+      "name": "[ST:wide ]―だが　こうなった以上は仕方がないのも\n理解しているつもりだ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000393_MSG0041",
+      "style": 1,
+      "name": "前進できるように俺も努力はしていくさ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000393_MSG0043",
+      "style": 1,
+      "name": "フッ[ST:wide ]―そうだな[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000393_MSG0044",
+      "style": 1,
+      "name": "異星人は本来は言葉も文化も習慣も違う\n何を考えているのか理解できないヤツらだ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000393_MSG0045",
+      "style": 1,
+      "name": "警戒するのは当然だよな[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000393_MSG0046",
+      "style": 1,
+      "name": "……だが　地球人だけの力で生き延びられない\nという現状がある[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000393_MSG0047",
+      "style": 1,
+      "name": "利用する[ST:wide ]―って言い方は悪いが\n協力できるところは手を取り合ったほうが\nいいんだろうな[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000393_MSG0048",
+      "style": 1,
+      "name": "例えどんな異星人でもな[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000393_MSG0050",
+      "style": 1,
+      "name": "[ST:wide ]―俺とお前が話し始めたら\nマ・ノン人も大人しくなってくれたな[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000393_MSG0051",
+      "style": 1,
+      "name": "今のうちに　ブレイドエリアに\n戻ることにするよ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000393_MSG0052",
+      "style": 1,
+      "name": "じゃあ　また任務でな[ST:wait ]"
+    }
+  ]
+}

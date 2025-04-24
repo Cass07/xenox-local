@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012202_MSG0001",
+      "style": 1,
+      "name": "도착입니다!\n아직 기체가 남아 있어서 다행이다![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012202_MSG0002",
+      "style": 1,
+      "name": "바로 수리를 시작할게요\n조금만 기다려 주세요, 선배[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012202_MSG0003",
+      "style": 1,
+      "name": "돌에 탄 후배의 듬직한 모습을 보는 것도\n꽤 감동적일지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev012202_MSG0004",
+      "style": 1,
+      "name": "좋았어~ 작업 개시~![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev012202_MSG0008",
+      "style": 1,
+      "name": "수리 완료![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev012202_MSG0009",
+      "style": 1,
+      "name": "어때요? 엄청 빨랐죠?\n기술 스태프를 했을 때는\n손이 빠른 걸로 유명했다고요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev012202_MSG0010",
+      "style": 1,
+      "name": "좋아! 각 부위 정상적으로 가동, 시야도 양호![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev012202_MSG0011",
+      "style": 1,
+      "name": "고마워요, 선배!\n덕분에 수리도 끝났고\n다시 모험을 계속할 수 있어요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev012202_JNK0010",
+      "style": 4,
+      "name": "배웅한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev012202_SEL0011",
+      "style": 3,
+      "name": "아무 말 없이 보낸다"
+    },
+    {
+      "$id": 11,
+      "label": "qev012202_JNK0020",
+      "style": 4,
+      "name": "불러 세운다"
+    },
+    {
+      "$id": 12,
+      "label": "qev012202_SEL0021",
+      "style": 3,
+      "name": "보수를 요구한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev012202_MSG0012",
+      "style": 1,
+      "name": "최대 출력! 가랏~~~~![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev012202_MSG0013",
+      "style": 1,
+      "name": "으…… 또 공격당했어……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev012202_MSG0014",
+      "style": 1,
+      "name": "나, 뭔가 원한 살 만한 짓을 한 걸까……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev012202_MSG0015",
+      "style": 1,
+      "name": "하지만 선배!\n저 이번에는 가만히\n공격만 당하고 있지 않았어요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev012202_MSG0016",
+      "style": 1,
+      "name": "공격이 날아온 장소를 확인했거든요\n이 앞에 요새가 있는데\n거기 포대에서 쏘고 있었어요![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev012202_MSG0017",
+      "style": 1,
+      "name": "그 요새를 어떻게 하지 않으면\n전 앞으로 나아갈 수가 없어요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev012202_MSG0018",
+      "style": 1,
+      "name": "여기선 작전을 세워서\n요새를 공략해야 한다고 생각하지만[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev012202_MSG0019",
+      "style": 1,
+      "name": "공교롭게도 제 돌은\n또 망가져 버렸어요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev012202_MSG0020",
+      "style": 1,
+      "name": "하지만 기뻐해 주세요![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev012202_MSG0021",
+      "style": 1,
+      "name": "손상이 경미한 데다 소재도 아직 남아 있어서\n수리는 할 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev012202_MSG0022",
+      "style": 1,
+      "name": "전 바로 수리에 들어갈 테니까\n선배는 요새 공략을 부탁해요![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev012202_MSG0023",
+      "style": 1,
+      "name": "역할 분담으로\n함께 이 역경을 극복해 내요![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev012202_MSG0024",
+      "style": 1,
+      "name": "파이팅입니다![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev012202_MSG0025",
+      "style": 1,
+      "name": "무슨 일이에요!? 당해 버린 건가요!?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev012202_MSG0026",
+      "style": 1,
+      "name": "……후유, 놀라게 하지 마세요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev012202_MSG0027",
+      "style": 1,
+      "name": "수리는 순조로운데\n조금 더 시간이 걸릴 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev012202_MSG0028",
+      "style": 1,
+      "name": "저도 열심히 하고 있으니까\n선배도 힘내세요![ST:wait ]"
+    }
+  ]
+}

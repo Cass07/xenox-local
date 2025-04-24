@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05120100_MSG0001",
+      "style": 0,
+      "name": "こら逃げるんじゃねえ！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs05120100_MSG0002",
+      "style": 0,
+      "name": "グロウスはお前らの死体じゃなくて\n協力が必要だって言ってるんだ[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs05120100_MSG0003",
+      "style": 0,
+      "name": "ぼぼぼ　暴力反対ジャン！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs05120100_MSG0004",
+      "style": 0,
+      "name": "協力を望むなら　まずそのデンジャラスな\n武器を収めるべきジャン！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs05120100_MSG0005",
+      "style": 0,
+      "name": "笑わせるなチビスケどもが[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs05120100_MSG0006",
+      "style": 0,
+      "name": "やっぱ必要なのは協力じゃなくて\n服従だったぜ！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs05120100_MSG0007",
+      "style": 0,
+      "name": "そ　それがキミ達のやり方なノ！？[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs05120100_MSG0008",
+      "style": 0,
+      "name": "グロウスのやり方だ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs05120100_MSG0009",
+      "style": 0,
+      "name": "俺達がそうだったように\nお前らもすぐに慣れる[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs05120100_MSG0010",
+      "style": 0,
+      "name": "隊長　こいつラうるさイ\n撃っチまおウ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs05120100_MSG0011",
+      "style": 0,
+      "name": "そうだな\n一匹殺せば残りが素直になるかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs05120100_MSG0012",
+      "style": 0,
+      "name": "ノ[ST:wide ]―[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs05120100_MSG0013",
+      "style": 0,
+      "name": "うわっ[ST:wide ]―　なにごとだ！[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs05120100_MSG0014",
+      "style": 0,
+      "name": "間に合ったようね\nさあ　今の内に[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs05120100_MSG0015",
+      "style": 0,
+      "name": "あ　ありがとうジャン！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs05120100_MSG0016",
+      "style": 0,
+      "name": "サンキュー！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs05120100_MSG0017",
+      "style": 0,
+      "name": "対空兵器が壊れたのも見てたヨ\n全部ユー達のおかげヨ！[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs05120100_MSG0018",
+      "style": 0,
+      "name": "ナんダ　コノ毛無し猿ドモハ！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs05120100_MSG0019",
+      "style": 0,
+      "name": "ええい　先にこいつらから始末するぞ！[ST:wait ]"
+    }
+  ]
+}

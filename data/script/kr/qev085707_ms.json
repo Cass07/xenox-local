@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085707_MSG0001",
+      "style": 0,
+      "name": "이봐, 아까 임무가 공시됐어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085707_MSG0002",
+      "style": 0,
+      "name": "5분 후에 임무 완료라고 보고했더니\n반담 아저씨 눈이 동그래지더라고[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085707_MSG0003",
+      "style": 0,
+      "name": "당신이 노린 대로 됐네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085707_MSG0004",
+      "style": 0,
+      "name": "보수도 5 대 5로 들어올 거다\n절차는 밟아 놨어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085707_MSG0005",
+      "style": 0,
+      "name": "해피 엔딩인 거지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085707_MSG0006",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085707_MSG0007",
+      "style": 0,
+      "name": "하고 싶은 말이 있나 보군\n그때 원시 생물의 새끼를 죽인 거 말이냐?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085707_MSG0008",
+      "style": 0,
+      "name": "그렇지 않아요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085707_MSG0009",
+      "style": 0,
+      "name": "그 에어리어는 NLA를 위해\n필요한 장소였으니까요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085707_MSG0010",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]\n      "
+    },
+    {
+      "$id": 11,
+      "label": "qev085707_MSG0011",
+      "style": 0,
+      "name": "하지만 그때……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085707_MSG0012",
+      "style": 0,
+      "name": "방아쇠를 당긴 후의 더그 씨 얼굴이\n너무 괴로워 보여서요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085707_MSG0013",
+      "style": 0,
+      "name": "용케 보고 있었구나[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085707_MSG0014",
+      "style": 0,
+      "name": "빚 변제요?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085707_MSG0015",
+      "style": 0,
+      "name": "그래, 우리 아버지가 난봉꾼이었거든[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085707_MSG0016",
+      "style": 0,
+      "name": "엄청난 빚을 남겨 두고\n자기는 갑자기 죽어 버렸어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085707_MSG0017",
+      "style": 0,
+      "name": "난 아직 겨우 내 입에 풀칠이나 하는\n애송이였는데 말이야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085707_MSG0018",
+      "style": 0,
+      "name": "상속 포기라는 제도가 있지 않았어?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085707_MSG0019",
+      "style": 0,
+      "name": "그런 짓을 하면 아버지를 믿고\n돈을 빌려준 사람에게 미안하잖아[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085707_MSG0020",
+      "style": 0,
+      "name": "그래서 위험한 일을……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085707_MSG0021",
+      "style": 0,
+      "name": "돈을 벌기 위해서 리스크는 어쩔 수 없는 거지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085707_JNK0010",
+      "style": 4,
+      "name": "기막혀한다"
+    },
+    {
+      "$id": 23,
+      "label": "qev085707_SEL0011",
+      "style": 3,
+      "name": "바보 같은 녀석이라고 솔직하게 말한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev085707_JNK0020",
+      "style": 4,
+      "name": "공감한다"
+    },
+    {
+      "$id": 25,
+      "label": "qev085707_SEL0021",
+      "style": 3,
+      "name": "마음은 이해한다고 말한다"
+    },
+    {
+      "$id": 26,
+      "label": "qev085707_MSG0022",
+      "style": 0,
+      "name": "오, 단호하네\n뭐, 나도 알고 있으니까 지적하지 말아 줘[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085707_MSG0023",
+      "style": 0,
+      "name": "그런 말을 듣는 건 처음이야\n너 별종이구나[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085707_MSG0024",
+      "style": 0,
+      "name": "하지만 지구는 이미……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085707_MSG0025",
+      "style": 0,
+      "name": "빚도 갚을 상대도 함께 사라져 버렸지[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085707_MSG0026",
+      "style": 0,
+      "name": "그래도 계속하는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085707_MSG0027",
+      "style": 0,
+      "name": "그래, 빌린 돈만큼 호화로운 무덤을\n만들어 주고 싶어서 말이다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085707_MSG0028",
+      "style": 0,
+      "name": "이상하지?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085707_MSG0029",
+      "style": 0,
+      "name": "자각하고 있다면 말할 것도 없네[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085707_MSG0030",
+      "style": 0,
+      "name": "이번에는 덕분에 제대로 한 건 했어\n그럼 간다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085707_MSG0031",
+      "style": 0,
+      "name": "아앗![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085707_MSG0032",
+      "style": 0,
+      "name": "왜 그러냐모, 린 씨?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev085707_MSG0033",
+      "style": 0,
+      "name": "더그 씨, 여기 커피값 계산 안 했어![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev085707_MSG0034",
+      "style": 0,
+      "name": "통이 큰 건지 아닌지, 이상한 사람이야[ST:wait ]"
+    }
+  ]
+}

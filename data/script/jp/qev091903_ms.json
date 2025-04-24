@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091903_MSG0002",
+      "style": 0,
+      "name": "どう？　どうだった？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091903_MSG0003",
+      "style": 0,
+      "name": "あまり芳しくなかったわ　まだ判断しかねる\nから他のチームにもテストをしてもらうつもり[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091903_MSG0004",
+      "style": 0,
+      "name": "えぇ～？　凍結もありえるってことぉ？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091903_MSG0005",
+      "style": 0,
+      "name": "結構いい手応え感じてたんだけどなあ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091903_MSG0006",
+      "style": 0,
+      "name": "残念だけどね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091903_MSG0007",
+      "style": 0,
+      "name": "でも　テスト自体は上出来だったわ\nアクセナも新米テスター君もお疲れ様[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091903_MSG0008",
+      "style": 0,
+      "name": "凍結することがあれば　私の設計のせいよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091903_MSG0009",
+      "style": 0,
+      "name": "ティカ[ST:wide ]―　諦めずにがんばっていこうね！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091903_MSG0010",
+      "style": 0,
+      "name": "まあ　ね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091903_MSG0011",
+      "style": 0,
+      "name": "できれば　次はドールウェポン作って！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091903_MSG0012",
+      "style": 0,
+      "name": "それは１ナノメートル程度には考慮しておく[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091903_MSG0013",
+      "style": 0,
+      "name": "全然作る気ないんだね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091903_MSG0014",
+      "style": 0,
+      "name": "ま　いっか[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091903_MSG0015",
+      "style": 0,
+      "name": "今回は新しいパートナーもできたことだし\nこれからも一緒にがんばろう！！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091903_MSG0015_m",
+      "style": 0,
+      "name": "今回は新しいパートナーもできたことだし\nこれからも一緒にがんばろう！！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091903_MSG0015_f",
+      "style": 0,
+      "name": "今回は新しいパートナーもできたことだし\nこれからも一緒にがんばろう！！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091903_MSG0017",
+      "style": 0,
+      "name": "どう？　どうだった？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091903_MSG0018",
+      "style": 0,
+      "name": "予定外の敵性生物にまで試してくれたのは\nよかったわ　いいデータが取れた[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091903_MSG0019",
+      "style": 0,
+      "name": "そのおかげで確信したわ　この武器は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091903_MSG0020",
+      "style": 0,
+      "name": "最高傑作？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091903_MSG0021",
+      "style": 0,
+      "name": "全然使えないわ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091903_MSG0022",
+      "style": 0,
+      "name": "そんなぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091903_MSG0023",
+      "style": 0,
+      "name": "今期の研究予算のほとんどをつぎ込んで\n希少なマテリアルも惜しげなく投入[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091903_MSG0024",
+      "style": 0,
+      "name": "でも　それに見合う効果じゃなかったのよ\n早い話　費用対効果が悪いってわけ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091903_MSG0025",
+      "style": 0,
+      "name": "このラムジェットはボツ決定\nかなり投資したけど　置いといても無駄ね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091903_MSG0026",
+      "style": 0,
+      "name": "せっかくだから新米テスター君に進呈するわ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091903_MSG0027",
+      "style": 0,
+      "name": "はぁ～　残念[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091903_MSG0028",
+      "style": 0,
+      "name": "こういうこともあるわよ\nあなた達のせいじゃないわ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091903_MSG0029",
+      "style": 0,
+      "name": "悪いのは私の設計ね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091903_MSG0030",
+      "style": 0,
+      "name": "ティカ！　次こそいい武器作ろうね[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091903_MSG0031",
+      "style": 0,
+      "name": "まあ　ね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091903_MSG0032",
+      "style": 0,
+      "name": "できれば　ドールウェポン作って！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091903_MSG0033",
+      "style": 0,
+      "name": "それは１ナノメートル程度には考慮しておく[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091903_MSG0034",
+      "style": 0,
+      "name": "全然作る気ないんだね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091903_MSG0035",
+      "style": 0,
+      "name": "ま　いっか[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091903_MSG0036",
+      "style": 0,
+      "name": "今回は新しいパートナーもできたことだし\nこれからも一緒にがんばろう！！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091903_MSG0036_m",
+      "style": 0,
+      "name": "今回は新しいパートナーもできたことだし\nこれからも一緒にがんばろう！！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091903_MSG0036_f",
+      "style": 0,
+      "name": "今回は新しいパートナーもできたことだし\nこれからも一緒にがんばろう！！[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091903_MSG0037",
+      "style": 1,
+      "name": "あっ　一応言っておくけど\n渡したラムジェットを装備して戦わないと\nテストデータは収集できないからね？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091903_MSG0038",
+      "style": 1,
+      "name": "しっかり装備したのを確認してから\n原生生物と　戦ってちょうだい[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091903_MSG0039",
+      "style": 0,
+      "name": "おかえり　ご苦労だったわね\nラムジェットを返却してくれるかしら[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091903_MSG0040",
+      "style": 0,
+      "name": "ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091903_MSG0040_2",
+      "style": 0,
+      "name": "テストデータの解析はあらかた終わってるわ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091903_MSG0041",
+      "style": 1,
+      "name": "おかえり　ご苦労だったわね\nじゃ　とりあえず　そのラムジェット\n装備を解除して　こっちに渡してくれるかしら[ST:wait ]"
+    }
+  ]
+}

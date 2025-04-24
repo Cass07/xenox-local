@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050907_MSG0001",
+      "style": 1,
+      "name": "큭……\n역시…… 당해 낼 수 없다……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050907_MSG0002",
+      "style": 1,
+      "name": "분통함에 이 몸이 다 타 버릴 것 같다\n……하지만[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050907_MSG0003",
+      "style": 1,
+      "name": "이상한 일이군\n동시에 어떤 상쾌함이 느껴진다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050907_MSG0004",
+      "style": 1,
+      "name": "이 감각은……\n내가 아직 안이하다는 증거일까……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050907_JNK0010",
+      "style": 4,
+      "name": "칭찬한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev050907_SEL0011",
+      "style": 3,
+      "name": "돌을 사용한 전투를 칭찬한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev050907_JNK0020",
+      "style": 4,
+      "name": "침묵한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev050907_SEL0021",
+      "style": 3,
+      "name": "아무 말도 하지 않는다"
+    },
+    {
+      "$id": 9,
+      "label": "qev050907_MSG0005",
+      "style": 1,
+      "name": "돌을 사용한 전투……?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050907_MSG0006",
+      "style": 1,
+      "name": "확실히 나 자신도\n살아 있는 몸으로 전투했을 때보다는\n익숙함을 느꼈지만……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev050907_MSG0007",
+      "style": 1,
+      "name": "그런가…… 조금이나마 그대를\n몰아붙였던 것 같기도 하군[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev050907_MSG0008",
+      "style": 1,
+      "name": "…………고맙다, 한심한 일이지만\n그 말로 조금 구원받았다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev050907_MSG0009",
+      "style": 1,
+      "name": "아니, 이런 말도 여전히 소극적이군[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev050907_MSG0010",
+      "style": 1,
+      "name": "그대 덕분에…… 자신감이 붙었다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev050907_MSG0011",
+      "style": 1,
+      "name": "고맙다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev050907_MSG0012",
+      "style": 1,
+      "name": "음…… 무언으로 일관해 주는 건\n동료로서의 다정함이군[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev050907_MSG0013",
+      "style": 1,
+      "name": "이전의 나라면 친절을 받는 것은\n모욕으로 느꼈을 텐데……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev050907_MSG0014",
+      "style": 1,
+      "name": "그대에게 친절을 받는 것은\n어째서인지…… 나쁘지 않은 기분이 들어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev050907_MSG0015",
+      "style": 1,
+      "name": "이런 나와 긴 시간을 함께 보내게 해 버렸군\n……미안하다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev050907_MSG0016",
+      "style": 1,
+      "name": "하지만 그대와 만난 덕분에\n난 다시 자신의 길을 발견해 낸 기분이 든다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev050907_MSG0017",
+      "style": 1,
+      "name": "아득히 먼 미래까지는 내다볼 수 없는\n매우 불안한 길이긴 하지만……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev050907_MSG0018",
+      "style": 1,
+      "name": "지금은 그 길에 매진할\n약간의 자신감이 있다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev050907_MSG0019",
+      "style": 1,
+      "name": "그건……\n다름 아닌 그대가 나에게 준 것이다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev050907_MSG0020",
+      "style": 1,
+      "name": "만남에 감사한다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev050907_MSG0021",
+      "style": 1,
+      "name": "시간은 걸릴지도 모르지만\n난 반드시 훌륭한 라스의 무인이 될 것을\n맹세하지[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev050907_MSG0022",
+      "style": 1,
+      "name": "그리고 그게 이루어졌을 때는 재회를……![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev050907_MSG0023",
+      "style": 1,
+      "name": "이렇게 약속하고 여기서 헤어지자[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev050907_MSG0024",
+      "style": 1,
+      "name": "……건강하길[ST:wait ]"
+    }
+  ]
+}

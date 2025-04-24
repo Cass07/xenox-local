@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085706_MSG0001",
+      "style": 0,
+      "name": "やったか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085706_MSG0002",
+      "style": 0,
+      "name": "これでもう群れとしての統率力は失われた\n掃討も簡単でしょうね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085706_MSG0003",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085706_MSG0004",
+      "style": 0,
+      "name": "どうしたんですか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085706_MSG0005",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]\n      "
+    },
+    {
+      "$id": 6,
+      "label": "qev085706_JNK0010",
+      "style": 4,
+      "name": "任務"
+    },
+    {
+      "$id": 7,
+      "label": "qev085706_SEL0011",
+      "style": 3,
+      "name": "黙って引き金に指をかける"
+    },
+    {
+      "$id": 8,
+      "label": "qev085706_JNK0020",
+      "style": 4,
+      "name": "感情"
+    },
+    {
+      "$id": 9,
+      "label": "qev085706_SEL0021",
+      "style": 3,
+      "name": "逡巡した後に銃を下ろす"
+    },
+    {
+      "$id": 10,
+      "label": "qev085706_MSG0006",
+      "style": 0,
+      "name": "まだ子供ですよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085706_MSG0007",
+      "style": 0,
+      "name": "ありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085706_MSG0008",
+      "style": 0,
+      "name": "ダグさん[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085706_MSG0009",
+      "style": 0,
+      "name": "さてと　任務は終わった[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085706_MSG0009_2",
+      "style": 0,
+      "name": "俺は先に戻ってるぜ\nＮＬＡで合流しよう[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085706_MSG0010",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

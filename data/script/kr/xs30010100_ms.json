@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs30010100_MSG0010",
+      "style": 0,
+      "name": "대체……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs30010100_MSG0020",
+      "style": 0,
+      "name": "뭐가 어떻게 된 건지 모르겠군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs30010100_MSG0030",
+      "style": 0,
+      "name": "조사를 거듭하여 분석반이 성과를 거두기를\n기대해 보도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs30010100_MSG0040",
+      "style": 0,
+      "name": "우리는 지금도 정상 가동하고 있으니까\n초조해하지 말라는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs30010100_MSG0050",
+      "style": 0,
+      "name": "음, 그런 뜻이다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs30010100_MSG0060",
+      "style": 0,
+      "name": "하지만 이렇게 애매한 상태가 계속되면……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs30010100_MSG0070",
+      "style": 0,
+      "name": "반담[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs30010100_MSG0080",
+      "style": 0,
+      "name": "사령관인 당신이\n대원의 불안을 부채질하면 어떡해[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs30010100_MSG0090",
+      "style": 0,
+      "name": "윽……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs30010100_MSG0100",
+      "style": 0,
+      "name": "미, 미안하다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs30010100_MSG0110",
+      "style": 0,
+      "name": "그럴 생각은 아니었는데 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs30010100_MSG0120",
+      "style": 0,
+      "name": "린[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs30010100_MSG0130",
+      "style": 0,
+      "name": "모두가 같은 생각이야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs30010100_MSG0140",
+      "style": 0,
+      "name": "하지만 지금, 센트럴 라이프에 있는 동료들도[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs30010100_MSG0150",
+      "style": 0,
+      "name": "그 불안과 싸우면서 필사적으로 조사를 계속하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs30010100_MSG0160",
+      "style": 0,
+      "name": "자신의 시간을 들이면서[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs30010100_MSG0170",
+      "style": 0,
+      "name": "그러니 믿고 기다리자[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs30010100_MSG0180",
+      "style": 0,
+      "name": "엘마 씨……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs30010100_MSG0190",
+      "style": 0,
+      "name": "죄송해요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs30010100_MSG0200",
+      "style": 0,
+      "name": "모두가 노력하고 있는데\n전 자기 생각만 하고……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs30010100_MSG0210",
+      "style": 0,
+      "name": "모두를 믿고 기다릴게요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs30010100_MSG0211",
+      "style": 0,
+      "name": "エルマ、頷く。"
+    },
+    {
+      "$id": 23,
+      "label": "xs30010100_MSG0220",
+      "style": 0,
+      "name": "타츠도 믿고 있다모![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs30010100_MSG0230",
+      "style": 0,
+      "name": "넌 B.B.가 아니잖아……[ST:wait ]"
+    }
+  ]
+}

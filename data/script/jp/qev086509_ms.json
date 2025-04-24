@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086509_MSG0001",
+      "style": 1,
+      "name": "ぐーぐー[ST:wide ]―　やっぱりカーチャンの作る\nお魚料理は最高だも[ST:wide ]―　むにゃ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086509_MSG0002",
+      "style": 1,
+      "name": "次は　おいしい花粉玉を食べたいも[ST:wide ]―\nすや[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

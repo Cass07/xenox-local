@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095102_MSG0001",
+      "style": 1,
+      "name": "음?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095102_MSG0002",
+      "style": 1,
+      "name": "……누군가 있는 건가?\n뭘 하러 왔지?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095102_JNK0010",
+      "style": 4,
+      "name": "구하러 왔다"
+    },
+    {
+      "$id": 4,
+      "label": "qev095102_SEL0011",
+      "style": 3,
+      "name": "바이어스인으로부터 구해 주기 위해\n여기까지 왔다고 말한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev095102_JNK0020",
+      "style": 4,
+      "name": "묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "qev095102_SEL0021",
+      "style": 3,
+      "name": "바이어스인의 강제 노동에\n시달리는 자인지 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "qev095102_MSG0003",
+      "style": 1,
+      "name": "바이어스인으로부터 구해 주러 왔다고?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095102_MSG0004",
+      "style": 1,
+      "name": "아니, 자세히 설명할 것 없다\n우리를 이 건물에서 내보내 다오!![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095102_MSG0005",
+      "style": 1,
+      "name": "그렇다!![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095102_MSG0006",
+      "style": 1,
+      "name": "우리는 자유를 빼앗긴 채\n강제 노동으로 고통받고 있다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095102_MSG0007",
+      "style": 1,
+      "name": "지금은 이 좁은 건물에 처박힌 신세지이[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095102_MSG0008",
+      "style": 1,
+      "name": "외부에서도 문을 부술 수는 없을 거다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095102_MSG0009",
+      "style": 1,
+      "name": "일단 이 문을 열 열쇠를 가지고 와 다오![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095102_MSG0010",
+      "style": 1,
+      "name": "그러면 여기서 나갈 수 있다\n부탁한다아![ST:wait ]"
+    }
+  ]
+}

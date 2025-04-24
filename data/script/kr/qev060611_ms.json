@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060611_MSG0001",
+      "style": 1,
+      "name": "당신…… 오레론과의\n말싸움을 옆에서 봤지?\n내가 잔인한 여자로 보이겠네, 안 그래?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060611_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 3,
+      "label": "qev060611_SEL0011",
+      "style": 3,
+      "name": "말이 너무 심했다고 지적한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev060611_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 5,
+      "label": "qev060611_SEL0021",
+      "style": 3,
+      "name": "잔인한 인간은 아니라고 말한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev060611_MSG0002",
+      "style": 1,
+      "name": "흥, 뭐라고 생각하든 상관없어\n그 둔한 녀석은 딱 잘라 말하지 않으면\n말귀를 못 알아듣는다고[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev060611_MSG0003",
+      "style": 1,
+      "name": "……그런 식으로 말하지 마\n난 그 녀석의 마음에 상처를 입힌\n잔인한 인간이야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev060611_MSG0004",
+      "style": 1,
+      "name": "하지만 그 둔한 녀석은 딱 잘라 말하지 않으면\n말귀를 못 알아듣는다고[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev060611_MSG0005",
+      "style": 1,
+      "name": "『좋게 생각합니다』는 무슨……\n난 자유롭게 살아갈 거야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev060611_MSG0006",
+      "style": 1,
+      "name": "그런 녀석을 위해 이것저것 고민하며\n속박당하고 싶지는 않아![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev060611_MSG0013",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "qev060611_MSG0014",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00110100_MSG0001",
+      "style": 0,
+      "name": "원래는 안전한 지역을 골라\n착륙하고 싶었지만……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00110100_MSG0002",
+      "style": 0,
+      "name": "우주에는 우호적인 종족도 있는 한편\n그렇지 않은 생물도 있어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs00110100_MSG0003",
+      "style": 0,
+      "name": "지나치게 호전적일 필요는 없지만\n자신을 지킬 수 있는 건 자신뿐[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00110100_MSG0004",
+      "style": 0,
+      "name": "그것만은 기억해 둬[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs00110100_MSG0005",
+      "style": 0,
+      "name": "자, 가자[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs00110100_MSG0006",
+      "style": 0,
+      "name": "당신이라면 여기 사는 사람들과도\n금방 친해질 거야[ST:wait ]"
+    }
+  ]
+}

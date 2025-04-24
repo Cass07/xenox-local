@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092807_MSG0010",
+      "style": 0,
+      "name": "数日後[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092807_MSG0020",
+      "style": 0,
+      "name": "来てくれたか[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092807_MSG0030",
+      "style": 0,
+      "name": "見てくれ\nついに完成したんだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092807_JNK0040",
+      "style": 4,
+      "name": "称賛"
+    },
+    {
+      "$id": 5,
+      "label": "qev092807_SEL0050",
+      "style": 3,
+      "name": "羨望の眼差しでフレスベルグを見る"
+    },
+    {
+      "$id": 6,
+      "label": "qev092807_MSG0060",
+      "style": 0,
+      "name": "あとでテスト飛行するつもりさ\nお前も試してみるといい[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092807_JNK0070",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 8,
+      "label": "qev092807_SEL0080",
+      "style": 3,
+      "name": "本当に変形するのか？と尋ねる"
+    },
+    {
+      "$id": 9,
+      "label": "qev092807_MSG0090",
+      "style": 0,
+      "name": "ドールのビークルとは違う形でね\nきっと驚くと思うわ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092807_MSG0100",
+      "style": 0,
+      "name": "ああ　それと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092807_MSG0110",
+      "style": 0,
+      "name": "実は　おれ達　今日付けで\nグラナダを辞めることにしたんだ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092807_MSG0120",
+      "style": 0,
+      "name": "アリシャが全ての責任を負ったんだ\n上層部はそれでクレマンの一件を手打ちにした[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092807_MSG0130",
+      "style": 0,
+      "name": "まあ　ここでやるべきことは終わったし\n区切りとしては丁度よかったのさ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092807_MSG0140",
+      "style": 0,
+      "name": "それで　リーゼルと相談して\n私達二人で起業することにしたの[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092807_MSG0150",
+      "style": 0,
+      "name": "いずれ大手のアームズカンパニーに\n並び立てるよう努力していくわ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092807_MSG0160",
+      "style": 0,
+      "name": "おれ達は正攻法で　正しい道を行く[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092807_MSG0165",
+      "style": 0,
+      "name": "クレマンのようにはならないさ　絶対にな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092807_MSG0170",
+      "style": 0,
+      "name": "それじゃあ\nひとっ飛びしてくる[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092807_MSG0180",
+      "style": 0,
+      "name": "おれ達の門出を祝して[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092807_MSG0185",
+      "style": 0,
+      "name": "その願掛けついでにな[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092807_MSG0190",
+      "style": 0,
+      "name": "ええ　いってらっしゃい[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092807_MSG0200",
+      "style": 0,
+      "name": "きっとフレスベルグも\nあなたと空を駆けたいと思ってるはずよ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092807_MSG0210",
+      "style": 0,
+      "name": "お前も　そばで見ていてくれ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092807_MSG0220",
+      "style": 0,
+      "name": "真に完成されたフレスベルグの[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092807_MSG0225",
+      "style": 0,
+      "name": "最高のフライトを[ST:wait ]"
+    }
+  ]
+}

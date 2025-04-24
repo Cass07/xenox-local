@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085703_MSG0001",
+      "style": 0,
+      "name": "저기 있다\n역시 엄청난 보수가 걸릴 만한 일이군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085703_MSG0002",
+      "style": 0,
+      "name": "우선 이 주변부터 소탕하자[ST:wait ]"
+    }
+  ]
+}

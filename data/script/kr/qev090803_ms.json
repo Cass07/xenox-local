@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090803_MSG0001",
+      "style": 0,
+      "name": "저자가 포학왕 게르보 봉고……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090803_MSG0002",
+      "style": 0,
+      "name": "이제부터 카라반을\n습격할 작정인가 보네요……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090803_MSG0003",
+      "style": 0,
+      "name": "……준비는 됐습니까?\n단번에 해치우죠[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090803_MSG0004",
+      "style": 0,
+      "name": "초인적인 바이어스인의 신체 능력……\n설마 이 정도일 줄이야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090803_MSG0005",
+      "style": 0,
+      "name": "당신이 곁에 없었다면 아무리 저라도\n이기지는 못했을 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090803_MSG0006",
+      "style": 0,
+      "name": "감사합니다\n자, 푸라라 씨에게 보고하러 가죠[ST:wait ]"
+    }
+  ]
+}

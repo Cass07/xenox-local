@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087302_MSG0001",
+      "style": 0,
+      "name": "捕まったブレイドの人達がいる可能性が\n一番高い拠点　あれですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087302_MSG0002",
+      "style": 0,
+      "name": "ええ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087302_MSG0003",
+      "style": 0,
+      "name": "よし　俺が陽動をしかける[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087302_MSG0004",
+      "style": 0,
+      "name": "その間にお前達が潜入して\n救出するということでどうだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087302_MSG0005",
+      "style": 0,
+      "name": "賛同できない[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087302_MSG0006",
+      "style": 0,
+      "name": "ここからさらに別の拠点に移された\n可能性があるわ　騒ぎは起こしたくない[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087302_MSG0007",
+      "style": 0,
+      "name": "そうだな[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087302_MSG0008",
+      "style": 0,
+      "name": "どうしたの？　あなたらしくない[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087302_MSG0009",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087302_MSG0010",
+      "style": 0,
+      "name": "もしかして　焦っている？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087302_MSG0011",
+      "style": 0,
+      "name": "以前　全滅させてしまったアヴァランチの件\nあんな事を繰り返すのではないかと[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087302_MSG0012",
+      "style": 0,
+      "name": "焦っている　そう見えるか？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087302_MSG0013",
+      "style": 0,
+      "name": "そうか　自覚はないがお前達が\nそう思うのなら否定はできんな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087302_MSG0014",
+      "style": 0,
+      "name": "命令してくれ　リーダー\n俺は一ブレイドとして従うだけだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087302_MSG0015",
+      "style": 0,
+      "name": "では　あくまで敵に見つからずに\n潜入することを優先する[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087302_MSG0016",
+      "style": 0,
+      "name": "捕まったブレイド全員を発見するまで\n救出作戦が気づかれないように[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087302_MSG0017",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    }
+  ]
+}

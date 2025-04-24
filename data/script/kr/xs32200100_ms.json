@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32200100_MSG0010",
+      "style": 0,
+      "name": "자네들 덕분에 장거리 항행에도 견딜 수 있는\n우주선이 완성됐네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32200100_MSG0020",
+      "style": 0,
+      "name": "전이 시스템도 시험 운전 결과는 양호해[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32200100_MSG0030",
+      "style": 0,
+      "name": "지금부터 할 일은 아직 NLA로\n이주하지 못한 자들의 서포트와[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32200100_MSG0040",
+      "style": 0,
+      "name": "이미 NLA에 있는 주민의 유도가 되겠군[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32200100_MSG0050",
+      "style": 0,
+      "name": "소실 현상과 고스트\n그로우스의 움직임에 따라서는[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32200100_MSG0060",
+      "style": 0,
+      "name": "모든 주민의 수용이 완료되지 않더라도\n신 흰고래를 발진시킨다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32200100_MSG0070",
+      "style": 0,
+      "name": "물론 정보는 공유하겠지만\n판단을 현장에 맡겨야 할 사태도 있을 테니[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32200100_MSG0080",
+      "style": 0,
+      "name": "꼭 명심해 두게[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32200100_MSG0090",
+      "style": 0,
+      "name": "주민의 수용이 끝나면\n드디어 공격 시작이로군[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32200100_MSG0100",
+      "style": 0,
+      "name": "그래, 앞으로는 총력전이다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32200100_MSG0110",
+      "style": 0,
+      "name": "호위해야 할 대상은 모아 두지 않으면\n지켜 낼 수 없네[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32200100_MSG0120",
+      "style": 0,
+      "name": "전멸도 한순간이겠지만[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32200100_MSG0130",
+      "style": 0,
+      "name": "어느 쪽이든\n우리는 아레스를 잃으면 살아남을 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32200100_MSG0140",
+      "style": 0,
+      "name": "운명 공동체[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32200100_MSG0145",
+      "style": 0,
+      "name": "멋지군[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32200100_MSG0150",
+      "style": 0,
+      "name": "전이하면 어디로 가나요?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32200100_MSG0160",
+      "style": 0,
+      "name": "그런 걸 어떻게 알아[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32200100_MSG0170",
+      "style": 0,
+      "name": "다른 세계로 갈 수 있다면 좋겠지만[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32200100_MSG0180",
+      "style": 0,
+      "name": "틈새의 세계에서\n영원히 떠돌게 될지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32200100_MSG0190",
+      "style": 0,
+      "name": "히이이이익~~이다모![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32200100_MSG0200",
+      "style": 0,
+      "name": "어느 쪽이든\n제 지적 호기심은 채워질 것 같군요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32200100_MSG0210",
+      "style": 0,
+      "name": "무서워졌냐?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32200100_JNK0010",
+      "style": 4,
+      "name": "각오"
+    },
+    {
+      "$id": 24,
+      "label": "xs32200100_SEL0010",
+      "style": 3,
+      "name": "세계의 끝까지 함께하겠다며 웃는다"
+    },
+    {
+      "$id": 25,
+      "label": "xs32200100_MSG0220",
+      "style": 0,
+      "name": "좋은 고백이군[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32200100_MSG0230",
+      "style": 0,
+      "name": "사랑한다고[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32200100_JNK0020",
+      "style": 4,
+      "name": "공포"
+    },
+    {
+      "$id": 28,
+      "label": "xs32200100_SEL0020",
+      "style": 3,
+      "name": "무섭다고 솔직하게 고백한다"
+    },
+    {
+      "$id": 29,
+      "label": "xs32200100_MSG0240",
+      "style": 0,
+      "name": "무서움을 아는 건 진정한 힘을\n얻기 위한 첫걸음이야[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32200100_MSG0250",
+      "style": 0,
+      "name": "엘마[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32200100_MSG0260",
+      "style": 0,
+      "name": "갑작스럽지만 케일리라는 대원 말인데[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32200100_MSG0270",
+      "style": 0,
+      "name": "친구가 아직 오지 않았다는 것 같다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32200100_MSG0280",
+      "style": 0,
+      "name": "미안하지만 직접 만나서\n이야기를 들어 주지 않겠나?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32200100_MSG0290",
+      "style": 0,
+      "name": "그래, 알겠어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32200100_MSG0300",
+      "style": 0,
+      "name": "미안하군[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs32200100_MSG0310",
+      "style": 0,
+      "name": "케일리는 주택 에어리어의 교회에 있을 걸세[ST:wait ]"
+    }
+  ]
+}

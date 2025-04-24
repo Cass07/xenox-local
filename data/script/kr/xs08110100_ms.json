@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08110100_MSG0001",
+      "style": 0,
+      "name": "그아아아아……![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08110100_MSG0002",
+      "style": 0,
+      "name": "아아아……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08110100_MSG0003",
+      "style": 0,
+      "name": "흥~ 떨고 있잖아\n일단 저 녀석부터 처리하자[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08110100_MSG0004",
+      "style": 0,
+      "name": "린, 진정해\n지금까지의 전투를 떠올려 봐[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08110100_MSG0005",
+      "style": 0,
+      "name": "우리는 어떤 일이든 이겨 냈잖아\n괜찮아, 네 곁에는 우리가 있어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08110100_MSG0006",
+      "style": 0,
+      "name": "엘마 씨[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08110100_JNK0010",
+      "style": 4,
+      "name": "격려"
+    },
+    {
+      "$id": 8,
+      "label": "xs08110100_SEL0011",
+      "style": 3,
+      "name": "필승을 다짐하며 말없이 끄덕인다"
+    },
+    {
+      "$id": 9,
+      "label": "xs08110100_JNK0020",
+      "style": 4,
+      "name": "도피"
+    },
+    {
+      "$id": 10,
+      "label": "xs08110100_SEL0021",
+      "style": 3,
+      "name": "함께 도망치자며 손을 뻗는다"
+    },
+    {
+      "$id": 11,
+      "label": "xs08110100_MSG0007",
+      "style": 0,
+      "name": "그래요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs08110100_MSG0008",
+      "style": 0,
+      "name": "여러분과 함께라면 이길 수 있을 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs08110100_MSG0009",
+      "style": 0,
+      "name": "감사합니다\n절 신경 써 주셔서[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08110100_MSG0010",
+      "style": 0,
+      "name": "하지만 여기서 도망치면 안 돼요\n저희가 도시를 지켜야 하니까요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08110100_MSG0011",
+      "style": 0,
+      "name": "죄송해요, 무서웠지만[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs08110100_MSG0012",
+      "style": 0,
+      "name": "이제 괜찮아요\n어서 해치워 버리죠[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs08110100_MSG0013",
+      "style": 0,
+      "name": "흥~ 뭔가 대단해 보이는 녀석이 있잖아\n저 녀석이 지휘관이겠네[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs08110100_MSG0014",
+      "style": 0,
+      "name": "자 더건, 해치우자\n돌격해~![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs08110100_MSG0015",
+      "style": 0,
+      "name": "알았다, 리즈[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001493_MSG0001",
+      "style": 1,
+      "name": "오, [ST:playername ]\n이런 곳에서 만나다니 신기한 우연이네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001493_MSG0002",
+      "style": 1,
+      "name": "난 보이는 대로\n총 정비를 받고 있어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001493_MSG0003",
+      "style": 1,
+      "name": "지구에 있던 시절부터 신세를 지고 있어서 말이지\n내 습관을 파악하고\n완벽한 튜닝을 해 주거든[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001493_MSG0004",
+      "style": 1,
+      "name": "[ST:playername ][KR:Particle char=ha ] 평소에 어떻게 해?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001493_JNK0010",
+      "style": 4,
+      "name": "딱히 아무것도 안 한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001493_SEL0011",
+      "style": 3,
+      "name": "무기 손질은\n전혀 안 한다고 대답한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001493_JNK0020",
+      "style": 4,
+      "name": "스스로 한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001493_SEL0021",
+      "style": 3,
+      "name": "스스로 부지런히\n정비한다고 대답한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001493_MSG0005",
+      "style": 1,
+      "name": "전혀 안 한다니……\n대담한 성격이네, 너다워[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001493_MSG0006",
+      "style": 1,
+      "name": "자신의 장비가 100%의 성능을\n발휘할 수 있도록 관리해 두지 않으면\n만일의 사태에 곤란해질걸?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001493_MSG0007",
+      "style": 1,
+      "name": "그리고 방어구는 자신의 몸밖에 지킬 수 없지만\n무기는 동료의 목숨을 지키기도 해[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001493_MSG0008",
+      "style": 1,
+      "name": "평소에 할 수 있는 건 해 둬야지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001493_MSG0009",
+      "style": 1,
+      "name": "하긴, 사실은 네가 자는 사이에\n린이 메인터넌스를 해 주고 있을지도 모르지만[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001493_MSG0010",
+      "style": 1,
+      "name": "그 아이는 사람을 잘 챙길 것처럼 보이고\n너는 둔하니까 못 알아채도\n이상하진 않잖아?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001493_MSG0011",
+      "style": 1,
+      "name": "역시 제대로 된 녀석이군\n엘마 대령님이 인정할 만해[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001493_MSG0012",
+      "style": 1,
+      "name": "방어구는 자신의 몸밖에 지킬 수 없지만\n무기는 동료의 목숨을 지키기도 하거든[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001493_MSG0013",
+      "style": 1,
+      "name": "만일의 사태에 100%의 힘을 발휘하기 위해서\n만반의 준비를 해 둬야지[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001493_MSG0014",
+      "style": 1,
+      "name": "……그러고 보니 몬도라는 남자 알아?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001493_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 20,
+      "label": "tev001493_SEL0031",
+      "style": 3,
+      "name": "잘 안다고 대답한다"
+    },
+    {
+      "$id": 21,
+      "label": "tev001493_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 22,
+      "label": "tev001493_SEL0041",
+      "style": 3,
+      "name": "기억이 안 난다고 대답한다"
+    },
+    {
+      "$id": 23,
+      "label": "tev001493_MSG0015",
+      "style": 1,
+      "name": "그렇군, 아는 사이인가[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001493_MSG0016",
+      "style": 1,
+      "name": "라오 팀에서 가장 과묵한 남자야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001493_MSG0017",
+      "style": 1,
+      "name": "그 사람에게 총 메인터넌스를 맡기면\n그저 그런 메카닉보다도 잘해 줘[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001493_MSG0018",
+      "style": 1,
+      "name": "그윈이 그걸 알고서\n제자로 들어가서 배우고 있어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001493_MSG0019",
+      "style": 1,
+      "name": "그래서 요즘은 짬이 생기면\n바로 총을 분해해서 메인터넌스를 시작해[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001493_MSG0020",
+      "style": 1,
+      "name": "거기까지는 훈련으로서 괜찮은데 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001493_MSG0021",
+      "style": 1,
+      "name": "끝난 후에 총에 뺨을 비벼 대니까\n뭔가 조금 징그럽더라[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001493_MSG0022",
+      "style": 1,
+      "name": "마지막에는 핥기도 하는 것 같고……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001493_MSG0023",
+      "style": 1,
+      "name": "다음에 보면 한마디 해 줘\n무지하게 징그럽다고[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001493_MSG0024",
+      "style": 1,
+      "name": "그 사람에게 총 메인터넌스를 맡기면\n그저 그런 메카닉보다도 잘해 줘[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001493_MSG0025",
+      "style": 1,
+      "name": "그윈이 제자로 들어가서\n조금씩 배우고 있었는데……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001493_MSG0026",
+      "style": 1,
+      "name": "더 이상 배울 수가 없게 되어 버렸어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001493_MSG0027",
+      "style": 1,
+      "name": "그렇게 실력이 좋은 블레이드라도\n당해 버리더라[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001493_MSG0028",
+      "style": 1,
+      "name": "철저히 준비해도\n피할 수 없는 위협 또한 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001493_MSG0029",
+      "style": 1,
+      "name": "하지만 막상 닥쳤을 때\n준비 부족으로 한탄하고 싶지 않아[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001493_MSG0030",
+      "style": 1,
+      "name": "사소한 일이라도 소홀히 하면 안 된다는 거야[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001493_MSG0031",
+      "style": 1,
+      "name": "그게 우리 블레이드의 목숨을\n조금이라도 늘려 줄 테니까[ST:wait ]"
+    }
+  ]
+}

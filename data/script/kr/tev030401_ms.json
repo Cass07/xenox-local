@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev030401_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev030401_SEL0011",
+      "style": 3,
+      "name": "건설용 돌에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev030401_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev030401_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev030401_SEL0031",
+      "style": 3,
+      "name": "건설용 돌에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev030401_MSG0001",
+      "style": 1,
+      "name": "여기서 일하고 있는 노란색 돌은\n그다지 유능하지 않아[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev030401_MSG0002",
+      "style": 1,
+      "name": "저걸 살짝만 개조해도\n여기 메카닉들이 필요 없어지게\n만들 수 있을 것 같은데……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev030401_MSG0003",
+      "style": 1,
+      "name": "어디 보자, 1분 움직이는데\n피자 80판 정도 필요하려나?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev030401_MSG0004",
+      "style": 1,
+      "name": "……피자를 연료로 쓰다니\n아까우니까 안 되겠다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev030401_MSG0011",
+      "style": 1,
+      "name": "나, 배가 고파서 잠깐 일을 쉬었는데\n엄청나게 혼났어……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev030401_MSG0012",
+      "style": 1,
+      "name": "……잠깐이 어느 정도냐고?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev030401_MSG0015",
+      "style": 1,
+      "name": "점심 식사 전에 간식…… 피자를 먹고\n날씨가 좋아서 낮잠을 자고……\n그랬더니 밤이 되었는데……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev030401_MSG0016",
+      "style": 1,
+      "name": "하루 중 반 정도일까?\n하지만 이 정도는 평범하잖아?\n지구인은 왜 화내는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev030401_MSG0017",
+      "style": 1,
+      "name": "음~ 지구인과의 커뮤니케이션은\n너무 어려워~[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev030401_MSG0027",
+      "style": 1,
+      "name": "노란색 돌, 몰래 개조했더니\n폭주해 버렸어……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev030401_MSG0028",
+      "style": 1,
+      "name": "아, 누가 다치고 그런 건 아닌데[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev030401_MSG0029",
+      "style": 1,
+      "name": "통신 기능을 사용해서\n배달을 마구 주문해 버렸어……\n피자라든지 핫도그라든지……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev030401_MSG0030",
+      "style": 1,
+      "name": "공업 에어리어에 있는 사람들과 같이\n어떻게든 다 먹긴 했지만\n내 월급은 한 푼도 안 남았어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev030401_SEL0041",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev030401_MSG0031",
+      "style": 1,
+      "name": "여기에 있는 사람들은 화를 잘 내지만\n그건 우리들과 잘 일하고 싶어서 그런 거지?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev030401_MSG0032",
+      "style": 1,
+      "name": "그 알렉스라는 지구인과는\n다르다고 생각했더니\n마음이 편해졌어~[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev030401_MSG0033",
+      "style": 1,
+      "name": "더 노력해서 지구인과 잘 어울려\n일할 수 있게 되면 좋겠다~[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev030401_MSG0034",
+      "style": 1,
+      "name": "……피곤해도 낮잠은\n3시간 정도만 자야지![ST:wait ]"
+    }
+  ]
+}

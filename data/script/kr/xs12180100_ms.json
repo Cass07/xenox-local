@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12180100_MSG0001",
+      "style": 0,
+      "name": "이건……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12180100_MSG0002",
+      "style": 0,
+      "name": "저번 전투 때문에 파괴된 게 아니야……\n그보다 이전, 미라에 추락할 때 파손됐어……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12180100_MSG0003",
+      "style": 0,
+      "name": "그렇군, 손상이 상당히 심각해\n바깥에서는 전혀 알 수 없었지만……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12180100_MSG0004",
+      "style": 0,
+      "name": "나기, 지금부터 데이터베이스 내부에 들어갈게[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12180100_MSG0005",
+      "style": 0,
+      "name": "부디 주의하도록 해\n우리 생명의 근원이니 말이다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12180100_MSG0006",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12180100_MSG0007",
+      "style": 0,
+      "name": "이, 이건……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12180100_MSG0008",
+      "style": 0,
+      "name": "왜 그러지, 엘마\n데이터베이스에 무슨 일 있었나?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12180100_MSG0009",
+      "style": 0,
+      "name": "어떻게…… 이런 일이……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12180100_MSG0010",
+      "style": 0,
+      "name": "엘마, 상황을 보고해라[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12180100_MSG0011",
+      "style": 0,
+      "name": "엘마![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs12180100_MSG0012",
+      "style": 0,
+      "name": "나기…… 사실만을 전달할게[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs12180100_MSG0013",
+      "style": 0,
+      "name": "데이터베이스는, 당신들의 의식이\n보존되어 있었을 시스템은……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12180100_MSG0014",
+      "style": 0,
+      "name": "한참 전에 망가진 상태였어……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12180100_MSG0015",
+      "style": 0,
+      "name": "망가진 상태였다고?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12180100_MSG0016",
+      "style": 0,
+      "name": "무슨 뜻이지?\n자세하게 설명해라![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs12180100_MSG0017",
+      "style": 0,
+      "name": "데이터베이스는 가동이 정지됐어\n최근에 망가진 게 아니야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12180100_MSG0018",
+      "style": 0,
+      "name": "미라에 추락했을 때 이미 빈 껍데기였다고![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs12180100_MSG0019",
+      "style": 0,
+      "name": "말도 안 돼![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12180100_MSG0020",
+      "style": 0,
+      "name": "그, 그러면 우리는……\n지금 이 자리에 서 있는 우리는……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs12180100_MSG0021",
+      "style": 0,
+      "name": "그래…… 다들 어째서, 움직일 수 있는 거지?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs12180100_MSG0022",
+      "style": 0,
+      "name": "시스템이 망가졌는데……\n의식도 기억도 존재하지 않을 텐데……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12180100_MSG0023",
+      "style": 0,
+      "name": "무언가가 있는 걸까…… 이 별에……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12180100_MSG9000",
+      "style": 0,
+      "name": "~ 데이터베이스 구획 ~[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs12180100_MSG9001",
+      "style": 0,
+      "name": "This story is never ending..."
+    }
+  ]
+}

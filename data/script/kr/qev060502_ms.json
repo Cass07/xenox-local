@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060502_MSG0001",
+      "style": 1,
+      "name": "어라…… [ST:playername ]?\n이런 곳에서 뭐 하시는 겁니까?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060502_MSG0002",
+      "style": 1,
+      "name": "저와 아라세니칸은 오랜만에\n대량의 볼턴트를 리볼턴트한 참입니다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060502_MSG0003",
+      "style": 1,
+      "name": "후후, 고르보가께서 선물해 주신\n행운에 감사를 드려야겠어요……[ST:wait ]"
+    }
+  ]
+}

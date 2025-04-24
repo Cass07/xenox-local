@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33510100_MSG0010",
+      "style": 0,
+      "name": "おっ　やっと見つけたよ\nお互い五体満足で何よりだね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33510100_MSG0020",
+      "style": 0,
+      "name": "まったく　あたしらを分断させるなんて\n味な真似しやがって[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33510100_MSG0030",
+      "style": 0,
+      "name": "この借りは千倍にして返さないと\nあたしの気が済まないね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33510100_MSG0040",
+      "style": 0,
+      "name": "ほら　さっさと行くよ\nあの亡霊もどきをぶっ飛ばしにさ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33510100_MSG0050",
+      "style": 0,
+      "name": "今度こそ決着をつけるんだ\nあたし達の手で[ST:wide ]―！[ST:wait ]"
+    }
+  ]
+}

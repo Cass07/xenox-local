@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999907_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999907_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999907_JNK0030",
+      "style": 4,
+      "name": "バトルメンバーに加える[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999907_SEL0031",
+      "style": 3,
+      "name": "活動中のブレイド隊員[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999907_MSG0001",
+      "style": 1,
+      "name": "こんにちは\n調子はどうですか？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999907_MSG0101",
+      "style": 1,
+      "name": "こんにちは\nいつも通り元気そうでなによりです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999907_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999907_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999907_MSG2001",
+      "style": 1,
+      "name": "安心して戦闘してください\nきっちりあなたをサポートします[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999907_MSG2101",
+      "style": 1,
+      "name": "ユニオンからの戦闘支援で\nあなたの戦いが少しでも楽になるのなら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999907_MSG3001",
+      "style": 1,
+      "name": "僕にやれることがあるのなら[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999907_MSG3101",
+      "style": 1,
+      "name": "期待に応えられるかはわかりませんけど\n全力を尽くします！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999907_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999907_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999907_MSG5001",
+      "style": 1,
+      "name": "すみません\nまた後にしてもらえますか？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999907_MSG5101",
+      "style": 1,
+      "name": "せっかく声を掛けてくれたのにすみません[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev999907_MSG5102",
+      "style": 1,
+      "name": "今は手が離せないので\nまた後にしてほしいんです[ST:wait ]"
+    }
+  ]
+}

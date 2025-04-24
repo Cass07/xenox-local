@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000594_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]!\n안녕하세요![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000594_MSG0002",
+      "style": 1,
+      "name": "지금 [ST:playername ]네\n강아지를 쓰다듬고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000594_MSG0003",
+      "style": 1,
+      "name": "귀엽네요!\n마음이 편안해져요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000594_MSG0004",
+      "style": 1,
+      "name": "종류는 다르지만, 지구에 살던 시절\n이웃집 요크셔테리어가\n부러웠던 게 기억나네요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000594_JNK0010",
+      "style": 4,
+      "name": "식사"
+    },
+    {
+      "$id": 6,
+      "label": "tev000594_SEL0011",
+      "style": 3,
+      "name": "밥이 맛있어 보여서?"
+    },
+    {
+      "$id": 7,
+      "label": "tev000594_JNK0020",
+      "style": 4,
+      "name": "주인"
+    },
+    {
+      "$id": 8,
+      "label": "tev000594_SEL0021",
+      "style": 3,
+      "name": "기르던 사람이 미인이어서?"
+    },
+    {
+      "$id": 9,
+      "label": "tev000594_MSG0005",
+      "style": 1,
+      "name": "그야 부잣집 펫이었으니까\n먹이도 호화로웠죠[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000594_MSG0006",
+      "style": 1,
+      "name": "분명 지금 제 저녁밥보다\n돈을 많이 들였을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000594_MSG0007",
+      "style": 1,
+      "name": "아니, 그래서 부러웠다는 게 아니라요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000594_MSG0008",
+      "style": 1,
+      "name": "본 적 있으세요!?\n사모님이 굉장한 미인이긴 했죠[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000594_MSG0009",
+      "style": 1,
+      "name": "부잣집 사람이었지만\n친절하고, 잘난 척도 안 하고……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000594_MSG0010",
+      "style": 1,
+      "name": "아니, 그래서 부러웠다는 게 아니라요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000594_MSG0011",
+      "style": 1,
+      "name": "그 강아지는 가족처럼 사랑받았거든요\n사람조차도 사랑받지 못할 때가 있는데……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000594_MSG0012",
+      "style": 1,
+      "name": "매일 함께 산책하고, 밥을 먹고\nTV도 같이 보고……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000594_MSG0020",
+      "style": 1,
+      "name": "언제나 함께 있는 것처럼 보였거든요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000594_MSG0013",
+      "style": 1,
+      "name": "저희 집은…… 부모님이 정말 바쁘셔서\n항상 저를 챙겨 줄 수는 없었어요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000594_MSG0014",
+      "style": 1,
+      "name": "혼자 있든가, 친구랑 있든가\n그런 시간이 대부분이었어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000594_MSG0015",
+      "style": 1,
+      "name": "……하지만 이제는 알아요\n이리나 중위님에 비하면\n전 행복했었다는 걸요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000594_MSG0016",
+      "style": 1,
+      "name": "저는 부모님을 좋아하니까\n좀 더 함께 있고 싶었을 뿐이었고요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000594_MSG0017",
+      "style": 1,
+      "name": "나이 먹은 후에는 강아지를 키우기 시작해서\n쓸쓸함도 많이 줄어들었지만요\n……어쩐지 우울한 이야기로 흘렀네요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000594_MSG0018",
+      "style": 1,
+      "name": "아무튼 분명한 건 강아지는 귀엽다는 거죠[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000594_MSG0019",
+      "style": 1,
+      "name": "NLA 바깥에 있는 게 원시 생물이 아니라\n강아지였다면 참 좋았겠다는 생각이 드네요[ST:wait ]"
+    }
+  ]
+}

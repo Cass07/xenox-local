@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087301_MSG0001",
+      "style": 0,
+      "name": "よう　エルマ　捜してたんだ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087301_MSG0002",
+      "style": 0,
+      "name": "なんだ\nまた面倒ごとを押しつけようというのか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087301_MSG0003",
+      "style": 0,
+      "name": "長官　あんた何やってるんだ？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087301_MSG0004",
+      "style": 0,
+      "name": "何って　決まってるだろう[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087301_MSG0005",
+      "style": 0,
+      "name": "エルマリーダーのもと\nブレイドの一員として精励恪勤しておる[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087301_MSG0006",
+      "style": 0,
+      "name": "セイレイカッキンって　あんたなぁ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087301_MSG0007",
+      "style": 0,
+      "name": "長官職に影響が出ない範囲で\n手伝ってもらってるわ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087301_MSG0008",
+      "style": 0,
+      "name": "ストレス解消にもなるようだから\n気にしないであげて[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087301_MSG0009",
+      "style": 0,
+      "name": "そうだ\n一兵卒として扱ってくれてかまわんぞ！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087301_MSG0010",
+      "style": 0,
+      "name": "まあ　エルマがそう言うんなら[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087301_MSG0011",
+      "style": 0,
+      "name": "あの　それより何か急ぎの用があったんじゃ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087301_MSG0012",
+      "style": 0,
+      "name": "おう　そうだ\n緊急事態だ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087301_MSG0013",
+      "style": 0,
+      "name": "オールトチームがグロウスにとっ捕まった[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087301_MSG0014",
+      "style": 0,
+      "name": "間違いはないのか？\n単なる通信途絶とは違うのか？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087301_MSG0015",
+      "style": 0,
+      "name": "あぁ　コンパニオンの護衛をしてたんだが\nそっちのチームは戻ってきたんだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087301_MSG0016",
+      "style": 0,
+      "name": "部下共どもオールトが\n連れて行かれるのを目撃したらしい[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087301_MSG0017",
+      "style": 0,
+      "name": "なら確定情報ね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087301_JNK0010",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 19,
+      "label": "qev087301_SEL0011",
+      "style": 3,
+      "name": "戻ったチームについて聞く"
+    },
+    {
+      "$id": 20,
+      "label": "qev087301_JNK0020",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 21,
+      "label": "qev087301_SEL0021",
+      "style": 3,
+      "name": "どこに連行されたのか尋ねる"
+    },
+    {
+      "$id": 22,
+      "label": "qev087301_MSG0018",
+      "style": 0,
+      "name": "あぁ　いろいろ聞き出したいのは\n俺も同じなんだが　まだ治療中でな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087301_MSG0019",
+      "style": 0,
+      "name": "無理させるわけにはいかないわね\n彼らの携帯[System:Ruby rt=デバイス ]端末[/System:Ruby]からデータを拾いましょう[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087301_MSG0020",
+      "style": 0,
+      "name": "そいつが分からなくて困ってるんだ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087301_MSG0021",
+      "style": 0,
+      "name": "コンパニオンの携帯[System:Ruby rt=デバイス ]端末[/System:Ruby]から\nデータを拾いましょう[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087301_MSG0022",
+      "style": 0,
+      "name": "グロウスが現れた方向とかから　捕まっている\n場所が推定できるかもしれませんもんね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087301_MSG0023",
+      "style": 0,
+      "name": "なるほど　すぐ手配しておくぜ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087301_MSG0024",
+      "style": 0,
+      "name": "救出　急いだ方がいいわね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev087301_MSG0025",
+      "style": 0,
+      "name": "そうですも　タツの仲間みたいに\n食べられてしまうかもしれないですも[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev087301_MSG0026",
+      "style": 0,
+      "name": "まさか　そんなことある[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev087301_MSG0027",
+      "style": 0,
+      "name": "分からんぞ　我々はまだ\nグロウスの全貌を知ったとは言えん[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev087301_MSG0028",
+      "style": 0,
+      "name": "地球人を捕食する種族がいないとは\n断言できんだろう[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev087301_MSG0029",
+      "style": 0,
+      "name": "そんな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087301_MSG0030",
+      "style": 0,
+      "name": "エルマ　いやリーダー\nすぐに彼らの奪還に向かうぞ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087301_MSG0031",
+      "style": 0,
+      "name": "おいおい　あんたは軍務長官として\n指揮を執ってくれ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev087301_MSG0032",
+      "style": 0,
+      "name": "指揮なら現場の方が即応できる\nそれ以前に　今の俺はエルマのチームの一員だ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev087301_MSG0033",
+      "style": 0,
+      "name": "だがなぁ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev087301_MSG0034",
+      "style": 0,
+      "name": "無駄よ　言って聞くような人じゃないでしょう\nそれに今は口論している時間さえも惜しい[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev087301_MSG0035",
+      "style": 0,
+      "name": "というわけだ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev087301_MSG0036",
+      "style": 0,
+      "name": "むう[ST:wide ]―　分かった　頼むぞ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086911_MSG0001",
+      "style": 1,
+      "name": "[ST:wide ]―なんだって？　お前らエアロジウムを\n手に入れようとしているのか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086911_MSG0002",
+      "style": 1,
+      "name": "なら[ST:wide ]―ありゃあ元々　ノポンの商人が\n地球人に売り込んできた物だしな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086911_MSG0003",
+      "style": 1,
+      "name": "奴らから話を聞くのが一番なんじゃないか？　[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086911_MSG0004",
+      "style": 1,
+      "name": "貴重な儲けのタネなわけだし\n直接　教えてもらうのは難しいかもしれないが[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086911_MSG0005",
+      "style": 1,
+      "name": "奴らの噂話でも聞いて回ってみろよ\nエアロジウムのありかに繋がる話を\n拾えるかもしれないぜ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086911_MSG0006",
+      "style": 1,
+      "name": "エアロジウムがあれば\nすぐに作業が再開できるはずだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086911_MSG0007",
+      "style": 1,
+      "name": "手に入れるのは大変だと思うが[ST:wide ]―\nよろしく頼む[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090801_MSG0006",
+      "style": 0,
+      "name": "HBさーん！　どこにいるんですもー！\nえりーとのHBさーん！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090801_MSG0007",
+      "style": 0,
+      "name": "[ST:wide ]―ようやく見つけましたよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090801_MSG0008",
+      "style": 0,
+      "name": "エレオノーラから話は聞いています\nあなたが　僕を訪ねてきたノポン人ですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090801_MSG0009",
+      "style": 0,
+      "name": "えっ[ST:wide ]―？\nもしかして　あなたがＨＢさんですも？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090801_MSG0010",
+      "style": 0,
+      "name": "恐ろしい話ですね　君達\n異星人にまで僕の名は轟いているのですか？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090801_MSG0011",
+      "style": 0,
+      "name": "はい　アイキュー２００の\n超えりーとだと皆言っておりましたも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090801_MSG0012",
+      "style": 0,
+      "name": "腕前もイチリューで　どんな原生生物も\nバッタバッタと倒すスゴイ男だとも聞いたナ！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090801_MSG0013",
+      "style": 0,
+      "name": "その噂に偽りなし[ST:wide ]―　ですね\n僕のパートナーが保証しますよ！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090801_MSG0013_m",
+      "style": 0,
+      "name": "その噂に偽りなし[ST:wide ]―　ですね\n僕のパートナーが保証しますよ！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090801_MSG0013_f",
+      "style": 0,
+      "name": "その噂に偽りなし[ST:wide ]―　ですね\n僕のパートナーが保証しますよ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090801_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 12,
+      "label": "qev090801_SEL0031",
+      "style": 3,
+      "name": "その通りだと言う"
+    },
+    {
+      "$id": 13,
+      "label": "qev090801_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 14,
+      "label": "qev090801_SEL0041",
+      "style": 3,
+      "name": "そうでもないと言う"
+    },
+    {
+      "$id": 15,
+      "label": "qev090801_MSG0014",
+      "style": 0,
+      "name": "このあまりの才にやっかむ人が多い中\n君みたいな素直な人は珍しいですよ！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090801_MSG0015",
+      "style": 0,
+      "name": "嫉妬というやつですか[ST:wide ]―\n君という人間も複雑な性格をしていますね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090801_MSG0016",
+      "style": 0,
+      "name": "[ST:wide ]―それで　何ですか？\n頼み事であれば　何でも聞いて差し上げますよ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090801_MSG0017",
+      "style": 0,
+      "name": "おおっ　エレオノーラさんの\n言ってたとおりですも！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090801_MSG0018",
+      "style": 0,
+      "name": "ＨＢという人をテキトーにおだてれば\nどんな難しいお仕事もやってくれると[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090801_MSG0019",
+      "style": 0,
+      "name": "ストップだナ！　せっかく良い気分に\nなってるんだから余計なことは言っちゃダメ！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090801_MSG0020",
+      "style": 0,
+      "name": "んっ？　どうしましたか？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090801_MSG0021",
+      "style": 0,
+      "name": "[ST:wide ]―何でもありませんも！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090801_MSG0022",
+      "style": 0,
+      "name": "それより　えりーとのＨＢさんにしか\n頼めないお仕事があるんですも[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090801_MSG0023",
+      "style": 0,
+      "name": "最近　ノポン人達を襲い続けている\n凶悪なバイアス人がいるんですも[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090801_MSG0024",
+      "style": 0,
+      "name": "巌窟の一族の中でも暴虐王ゲルボ・ボンゴと\n呼ばれてる悪名高いヤツだナ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090801_MSG0025",
+      "style": 0,
+      "name": "[ST:wide ]―いかにもな名前ですね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090801_MSG0026",
+      "style": 0,
+      "name": "ついこの間も行商に出たキャラバンが襲われ\nその場で全員丸焼きに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090801_MSG0027",
+      "style": 0,
+      "name": "このままだと　ノポン人達は皆\nアイツに食べられてしまうのですも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090801_MSG0028",
+      "style": 0,
+      "name": "それは酷い[ST:wide ]―\n一刻も早く退治してしまわねばなりませんね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090801_MSG0029",
+      "style": 0,
+      "name": "だけどあいつはズル賢い奴で　どこに\nアジトがあるかすらわからないんですも！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090801_MSG0030",
+      "style": 0,
+      "name": "コソコソ隠れて弱い者いじめ[ST:wide ]―\nヒキョー者の巌窟の一族らしいやり方だナ！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090801_MSG0031",
+      "style": 0,
+      "name": "それで　そういう情報はぱすふぁいんだーの\nあなた方が詳しいと聞いて来ましたですも[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090801_MSG0032",
+      "style": 0,
+      "name": "そうですね　僕達はブレイドの目と耳[ST:wide ]―\nあらゆるミラの情報に精通しているのです[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev090801_MSG0033",
+      "style": 0,
+      "name": "すぐにフロンティアネットに\nアクセスしてみます[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev090801_MSG0034",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev090801_MSG0035",
+      "style": 0,
+      "name": "それらしい反応がありましたね[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev090801_MSG0036",
+      "style": 0,
+      "name": "スゴイナ！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev090801_MSG0036_2",
+      "style": 0,
+      "name": "仲間と捜し回っても\n全然見つからなかったのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev090801_MSG0037",
+      "style": 0,
+      "name": "あんた達　一体どんな魔法を使ったんダ？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev090801_MSG0038",
+      "style": 0,
+      "name": "[ST:wide ]―これも僕達がデータプローブを\n数多く打ち込んできた成果でしょう[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev090801_MSG0039",
+      "style": 0,
+      "name": "この程度の情報なら一発でしたよ\nさぁ　後はこいつを倒すだけですね[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev090801_MSG0040",
+      "style": 0,
+      "name": "そこまでやってくれるんですも？[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev090801_MSG0041",
+      "style": 0,
+      "name": "そういう戦うお仕事は\nあばらんちのお仕事だとお聞きしましたも[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev090801_MSG0042",
+      "style": 0,
+      "name": "他の人間などに任せておけませんよ\n僕達だけで最後までやってしまいましょう[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev090801_MSG0043",
+      "style": 0,
+      "name": "[ST:wide ]―いいですよね？\nこれは僕達の力を示す良い機会ですよ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev090801_MSG0043_m",
+      "style": 0,
+      "name": "[ST:wide ]―いいですよね？\nこれは僕達の力を示す良い機会ですよ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev090801_MSG0043_f",
+      "style": 0,
+      "name": "[ST:wide ]―いいですよね？\nこれは僕達の力を示す良い機会ですよ[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev090801_JNK0050",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 49,
+      "label": "qev090801_SEL0051",
+      "style": 3,
+      "name": "アヴァランチの仕事を\n奪っていいのかと尋ねる"
+    },
+    {
+      "$id": 50,
+      "label": "qev090801_JNK0060",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 51,
+      "label": "qev090801_SEL0061",
+      "style": 3,
+      "name": "HBの意見に賛同する"
+    },
+    {
+      "$id": 52,
+      "label": "qev090801_MSG0044",
+      "style": 0,
+      "name": "ユニオンでの縦割り仕事など\nヴァンダム司令が作った古臭い仕組みです[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev090801_MSG0045",
+      "style": 0,
+      "name": "これからはもっと自由に\n能力ある者が力を生かせるようにならねば！[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev090801_MSG0046",
+      "style": 0,
+      "name": "まずは僕達でそいつを示して見せましょう\n暴虐王の討伐　行きますよ！[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev090801_MSG0047",
+      "style": 0,
+      "name": "さすが君はわかってる！\nそれでこそ僕が認めた人間ですよ！[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev090801_MSG0048",
+      "style": 0,
+      "name": "ブレイドの中には　ユニオンの縦割り仕事に\n固執する古臭い人間もいますからね[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev090801_MSG0049",
+      "style": 0,
+      "name": "君がそういった種類の人間でなくて\n本当に嬉しいですよ[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev090801_MSG0050",
+      "style": 0,
+      "name": "では暴虐王の討伐　行きましょう！\n僕達のやり方が正しいことを示すのです[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev090801_MSG0051",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev090801_MSG0052",
+      "style": 0,
+      "name": "[ST:wide ]―どうも　そういったバイアス人の反応は\n見受けられませんね[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev090801_MSG0053",
+      "style": 0,
+      "name": "まだまだ　データプローブが足りてない\nということでしょうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev090801_MSG0054",
+      "style": 0,
+      "name": "どうされたんですも？　わからないのですも？[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev090801_MSG0055",
+      "style": 0,
+      "name": "いや　心配せずに　ここでお待ちください\n少しエレオノーラと相談してきます[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev090801_MSG0056",
+      "style": 0,
+      "name": "[ST:wide ]―行きましょう　彼女なら\nきっと良い知恵を与えてくれるはずですよ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs99110110_MSG0001",
+      "style": 0,
+      "name": "린 씨, 린 씨\n뭘 만들고 있냐모?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs99110110_MSG0002",
+      "style": 0,
+      "name": "고기 와인 조림이야♪[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs99110110_MSG0003",
+      "style": 0,
+      "name": "자, 타츠는 식사하기 전에\n먼저 욕조에서 목욕해[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs99110110_MSG0003_2",
+      "style": 0,
+      "name": "따뜻하게 데워 뒀어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs99110110_MSG0004",
+      "style": 0,
+      "name": "좋다모~!\n타츠가 먼저 들어가겠다모~![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs99110110_MSG0005",
+      "style": 0,
+      "name": "와~ 예쁜 자주색 입욕제가\n들어 있다모~[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs99110110_MSG0006",
+      "style": 0,
+      "name": "……아니, 리, 리, 리, 리, 린 씨!\n그거 욕조가 아니다모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs99110110_MSG0007",
+      "style": 0,
+      "name": "와인이 부글부글 끓고 있다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs99110110_MSG0008",
+      "style": 0,
+      "name": "쳇! 들켰네[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs99110110_MSG0009",
+      "style": 0,
+      "name": "그나저나\n장난을 잘 받아 주는구나, 타츠[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs99110110_MSG0010",
+      "style": 0,
+      "name": "일부러다모!\n분명 일부러 그런 거다모~~![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs99110110_MSG0011",
+      "style": 0,
+      "name": "요리 완성입니다~![ST:wait ]"
+    }
+  ]
+}

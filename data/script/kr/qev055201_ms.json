@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055201_MSG0001",
+      "style": 1,
+      "name": "부하가 트럭을 몰고\n야광의 숲으로 갔는데\n연락이 끊겨 버렸어……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055201_MSG0002",
+      "style": 1,
+      "name": "이번에는 오르페인을 참가시킨\n특수 팀의 임무여서\n맡겨만 두고 있었는데…… 젠장![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055201_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 4,
+      "label": "qev055201_SEL0011",
+      "style": 3,
+      "name": "특수 팀에 관해 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "qev055201_JNK0020",
+      "style": 4,
+      "name": "농담"
+    },
+    {
+      "$id": 6,
+      "label": "qev055201_SEL0021",
+      "style": 3,
+      "name": "책임을 져야 할 거라고\n놀리듯이 말한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev055201_MSG0003",
+      "style": 1,
+      "name": "야광의 숲을 잘 아는 오르페인을\n동행시켰어[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev055201_MSG0004",
+      "style": 1,
+      "name": "첫 시도라서\n준비는 확실하게 했는데……\n대체 무슨 일이 있던 거지……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev055201_MSG0005",
+      "style": 1,
+      "name": "네 말이 맞아……\n지금의 나는 연락만 기다리는\n아무 도움 안 되는 녀석이니까……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev055201_MSG0006",
+      "style": 1,
+      "name": "의지되는 오르페인이 동행한다고\n안심하고 있던 게 잘못됐던 걸까……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev055201_MSG0007",
+      "style": 1,
+      "name": "프런티어넷으로 파악할 수 없는\n에어리어로 가 버린 걸지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev055201_MSG0008",
+      "style": 1,
+      "name": "그리고 최악인 것은\n이번 일이 안나의…… 신입의 첫 임무란 거야[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev055201_MSG0009",
+      "style": 1,
+      "name": "숙련된 블레이드도 동행하고 있어\n희박한 희망을 믿고 기다릴 수밖에……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev055201_MSG0010",
+      "style": 1,
+      "name": "이야기 중에 미안하다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev055201_MSG0011",
+      "style": 1,
+      "name": "당신은……\n동행한 칸오토남과 아는 사이야?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev055201_MSG0012",
+      "style": 1,
+      "name": "칸오토남은 같은 부모에게서 나온 분열체\n지구인의 말로 하면 형제다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev055201_MSG0013",
+      "style": 1,
+      "name": "……칸오토남 일행은\n원시 생물에 쫓겨 몸을 숨기고\n움직일 수 없을 것으로 예상[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev055201_MSG0014",
+      "style": 1,
+      "name": "그러한 때를 위해\n오르페에게는 특수한 스모크가 있다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev055201_MSG0015",
+      "style": 1,
+      "name": "칸오토남 일행이\n그 스모크를 사용할 확률은 98%[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev055201_MSG0016",
+      "style": 1,
+      "name": "스모크를 힌트 삼아 찾으면 발견 가능[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev055201_MSG0017",
+      "style": 1,
+      "name": "단, 발견하기 위해서는\n기동력 있는 블레이드의 협력이 불가결[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev055201_MSG0018",
+      "style": 1,
+      "name": "구할 수 있다면 뭐든 상관없어\n당신도 도와주지 않겠어?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev055201_MSG0019",
+      "style": 1,
+      "name": "나도 감사를 표한다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev055201_MSG0020",
+      "style": 1,
+      "name": "하지만 그런 스모크가 있으면\n바로 발견될 것 같은데……\n보고는 없었다고[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev055201_MSG0021",
+      "style": 1,
+      "name": "이건 적이 눈치채지 못하도록\n아군에게만 신호를 전하는 것[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev055201_MSG0022",
+      "style": 1,
+      "name": "우리가 사용하는 고글이 없으면\n눈으로 확인하는 것은 불가……\n당신에게 이걸[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev055201_MSG0023",
+      "style": 1,
+      "name": "이게 있으면 스모크를 인식할 수 있다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev055201_MSG0024",
+      "style": 1,
+      "name": "좋아, 희망이 보이기 시작했어!\n부탁할게![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev055201_MSG0025",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "qev055201_MSG0026",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "qev055201_MSG0027",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "qev055201_MSG0028",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "qev055201_MSG0029",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "qev055201_MSG0030",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "qev055201_MSG0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "qev055201_MSG0032",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "qev055201_MSG0033",
+      "style": 1,
+      "name": "안나와 칸오토남 팀은\n야광의 숲으로 향했어[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev055201_MSG0034",
+      "style": 1,
+      "name": "오르페의 스모크와 당신밖에 의지할 데가 없어\n……부탁해[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev055201_MSG0035",
+      "style": 1,
+      "name": "이렇게 칸오토남이\n안나를 데리고 무사히 돌아와 줬어![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev055201_MSG0036",
+      "style": 1,
+      "name": "숙련된 블레이드를 잃는\n희생은 있었지만……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev055201_MSG0037",
+      "style": 1,
+      "name": "안나의 목숨을 구해 준\n칸오토남에게는 매우 감사하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev055201_MSG0038",
+      "style": 1,
+      "name": "물론 힌트를 준 인오토남도\n구하러 가 준 당신에게도 말이지[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev055201_MSG0039",
+      "style": 1,
+      "name": "우리 오르페는\n오버의 의사에 따라 행동할 뿐[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev055201_MSG0040",
+      "style": 1,
+      "name": "그것이 결과적으로\n지구인의 생존 확률을 올린 것[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev055201_MSG0041",
+      "style": 1,
+      "name": "흠, 역시 오르페는 합리적이랄까……\n사고방식이 다르구나[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev055201_MSG0042",
+      "style": 1,
+      "name": "하지만 그게 안나를 구해 줬어\n고마워[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev055201_MSG0043",
+      "style": 1,
+      "name": "좋은 결과라면 문제없다\n나야말로 칸오토남 구출에 감사[ST:wait ]"
+    }
+  ]
+}

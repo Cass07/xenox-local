@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087401_MSG0001",
+      "style": 0,
+      "name": "誰か来たですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087401_MSG0002",
+      "style": 0,
+      "name": "すまねえがお茶くれねえかなぁ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087401_MSG0003",
+      "style": 0,
+      "name": "はーい　ヴァンダム司令\n最近はここに来ること多いですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087401_MSG0004",
+      "style": 0,
+      "name": "おっちゃん　なんだかヒマそうですも[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087401_MSG0005",
+      "style": 0,
+      "name": "あぁ　そりゃいい事だなぁ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087401_MSG0006",
+      "style": 0,
+      "name": "組織なんてのは　上が暇にしてるほど\n上手くまわってるってこった[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087401_MSG0007",
+      "style": 0,
+      "name": "一理あるけど[ST:wide ]―\nサボるための口実にも聞こえるわね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087401_MSG0008",
+      "style": 0,
+      "name": "案外　ブレイド司令ってのも\n楽なお仕事なのかも[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087401_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 10,
+      "label": "qev087401_SEL0011",
+      "style": 3,
+      "name": "誰でもできると挑発してみる"
+    },
+    {
+      "$id": 11,
+      "label": "qev087401_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 12,
+      "label": "qev087401_SEL0021",
+      "style": 3,
+      "name": "ヴァンダム以外無理と媚びる"
+    },
+    {
+      "$id": 13,
+      "label": "qev087401_MSG0009",
+      "style": 0,
+      "name": "おぉ　エルマのチームはそろいもそろって\n司令職をなめとるな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087401_MSG0010",
+      "style": 0,
+      "name": "よく分かってるじゃねぇか[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087401_MSG0011",
+      "style": 0,
+      "name": "それに比べて\nエルマとリンは司令職をなめとるな[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087401_MSG0012",
+      "style": 0,
+      "name": "ようし　いいだろう　お前達\nブレイド司令の一日をじっくり観察してみろ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087401_MSG0013",
+      "style": 0,
+      "name": "一日中　あなたに張り付いていろってこと？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087401_MSG0014",
+      "style": 0,
+      "name": "それじゃあ　自分の任務がこなせないだろ\nまずは朝の俺を見つけてみるんだな[ST:wait ]"
+    }
+  ]
+}

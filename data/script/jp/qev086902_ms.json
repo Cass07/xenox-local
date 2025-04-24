@@ -1,0 +1,306 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086902_MSG0001",
+      "style": 0,
+      "name": "ロック！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086902_MSG0002",
+      "style": 0,
+      "name": "落ちてきた資材につぶされそうになった俺を\nロックが助けてくれたんだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086902_MSG0003",
+      "style": 0,
+      "name": "あいたたぁ～～[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086902_MSG0004",
+      "style": 0,
+      "name": "あなた　ケガはないの！？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086902_MSG0005",
+      "style": 0,
+      "name": "頭ぶつけちゃった　コブできちゃったよぉ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086902_MSG0006",
+      "style": 0,
+      "name": "それだけですも！？\nなんという石頭ですも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086902_MSG0007",
+      "style": 0,
+      "name": "よかった[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086902_MSG0008",
+      "style": 0,
+      "name": "こいつは仕事にならんな　まいったなぁ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086902_MSG0009",
+      "style": 0,
+      "name": "監督　この資材もう使いものになりませんよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086902_MSG0010",
+      "style": 0,
+      "name": "だなぁ[ST:wide ]―\n皆　今日はもう上がっていいぞ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086902_MSG0011",
+      "style": 0,
+      "name": "それとしばらく仕事は休みだ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086902_MSG0012",
+      "style": 0,
+      "name": "監督　しばらく休みって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086902_MSG0013",
+      "style": 0,
+      "name": "新しい資材を調達せにゃならん\nそれまで　休みってことだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086902_MSG0014",
+      "style": 0,
+      "name": "ロック　お前は医者に寄ってけ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086902_MSG0015",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086902_MSG0016",
+      "style": 0,
+      "name": "あの　すみません[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086902_MSG0017",
+      "style": 0,
+      "name": "気にすんな　お前のせいじゃねえよ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086902_MSG0018",
+      "style": 0,
+      "name": "ケガの具合はどう？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086902_MSG0019",
+      "style": 0,
+      "name": "エルマさん\nボク　元々ケガなんかしてないよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086902_MSG0020",
+      "style": 0,
+      "name": "監督　いい人だから[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086902_MSG0021",
+      "style": 0,
+      "name": "ロックさんを心配してくれているんですね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086902_MSG0022",
+      "style": 0,
+      "name": "うん　だから監督が困ってるの悲しくて[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086902_JNK0010",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 24,
+      "label": "qev086902_SEL0011",
+      "style": 3,
+      "name": "何を困っているのか尋ねる"
+    },
+    {
+      "$id": 25,
+      "label": "qev086902_JNK0020",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 26,
+      "label": "qev086902_SEL0021",
+      "style": 3,
+      "name": "力を貸せば良いと元気づける"
+    },
+    {
+      "$id": 27,
+      "label": "qev086902_MSG0023",
+      "style": 0,
+      "name": "さっきの建築資材\nエアロジウムを配合して硬度を高めた[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086902_MSG0023_2",
+      "style": 0,
+      "name": "特殊なものだったらしいんです[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086902_MSG0024",
+      "style": 0,
+      "name": "エアロジウムですか　貴重品ですね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086902_MSG0025",
+      "style": 0,
+      "name": "それを見つけて新しい資材を製造しないと\n工事が再開できないみたいです[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086902_MSG0026",
+      "style": 0,
+      "name": "ボク　ここで働くの楽しかったのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086902_MSG0027",
+      "style": 0,
+      "name": "悲しまないで　ロック\n私　なんとかしてあげるから[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086902_MSG0028",
+      "style": 0,
+      "name": "そうか　そうだよね！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086902_MSG0029",
+      "style": 0,
+      "name": "ボクが工事を再開できるように\nしてあげればいいんだ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086902_MSG0030",
+      "style": 0,
+      "name": "工事　再開できなくなっちゃったんですか？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086902_MSG0031",
+      "style": 0,
+      "name": "さっきの建築資材\nエアロジウムを配合して硬度を高めた[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086902_MSG0031_2",
+      "style": 0,
+      "name": "特殊なものだったらしいんです[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086902_MSG0032",
+      "style": 0,
+      "name": "エアロジウムですか　貴重品ですね[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086902_MSG0033",
+      "style": 0,
+      "name": "それを見つけて新しい資材を製造しないと\n工事が再開できないみたいです[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086902_MSG0034",
+      "style": 0,
+      "name": "そういうことなら　ノポンにおまかせですも！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086902_MSG0035",
+      "style": 0,
+      "name": "ノポンは交易種族ですも[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086902_MSG0036",
+      "style": 0,
+      "name": "エアロジウムくらい　どこで手に入るか\n知ってるノポンがいるはずですも[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev086902_MSG0037",
+      "style": 0,
+      "name": "確かに　タツの言う通りね[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086902_MSG0038",
+      "style": 0,
+      "name": "タツさん　ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev086902_MSG0039",
+      "style": 0,
+      "name": "あなた　たまには役に立つこと言うのねぇ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev086902_MSG0040",
+      "style": 0,
+      "name": "見直したですも？[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev086902_MSG0041",
+      "style": 0,
+      "name": "じゃあ　すぐに情報を集め始めましょう\nセリカ　あなたも手伝って[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev086902_MSG0042",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    }
+  ]
+}

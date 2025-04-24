@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001094_MSG0001",
+      "style": 1,
+      "name": "……아, [ST:playername ] 씨\n안녕하세요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001094_MSG0002",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001094_MSG0003",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001094_MSG0004",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001094_MSG0005",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001094_MSG0006",
+      "style": 1,
+      "name": "핫도그가 맛있어 보여서\n보고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001094_JNK0010",
+      "style": 4,
+      "name": "사 준다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001094_SEL0011",
+      "style": 3,
+      "name": "핫도그를 사 준다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001094_JNK0020",
+      "style": 4,
+      "name": "권유한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001094_SEL0021",
+      "style": 3,
+      "name": "사면 된다고 권유한다"
+    },
+    {
+      "$id": 11,
+      "label": "tev001094_MSG0007",
+      "style": 1,
+      "name": "아, 아뇨……\n정말 매력적인 제안이라 기쁘지만……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001094_MSG0008",
+      "style": 1,
+      "name": "……형한테 혼날 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001094_MSG0009",
+      "style": 1,
+      "name": "저는 낯을 많이 가리는 편이라……\n혼자 점원에게 주문하고 원하는 걸\n살 수 있게 노력하라고 했거든요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001094_MSG0010",
+      "style": 1,
+      "name": "제가 핫도그를 혼자 살 수 있을 만큼\n용감했으면 이런 고생도 안 했겠죠[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001094_MSG0011",
+      "style": 1,
+      "name": "점원분이 바빠 보이니까요\n주문에 시간이 걸리면 화낼지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001094_MSG0012",
+      "style": 1,
+      "name": "단말기로 주문할 수 있으면 좋을 텐데요……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001094_MSG0013",
+      "style": 1,
+      "name": "형도 많이 불안해하더라고요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001094_MSG0014",
+      "style": 1,
+      "name": "이대로 30살, 40살이 돼 버리면\n끔찍할 거라고 입버릇처럼 말하죠……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001094_MSG0015",
+      "style": 1,
+      "name": "확실히 좋지는 않겠지만요……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001094_MSG0016",
+      "style": 1,
+      "name": "잘 생각해 보니까 제 몸은 B.B.잖아요\n그러니 계속 젊은 척하면 될 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001094_JNK0030",
+      "style": 4,
+      "name": "지적"
+    },
+    {
+      "$id": 22,
+      "label": "tev001094_SEL0031",
+      "style": 3,
+      "name": "본래의 살아 있는 몸으로 돌아가면\n어쩔 생각이냐며 지적한다"
+    },
+    {
+      "$id": 23,
+      "label": "tev001094_JNK0040",
+      "style": 4,
+      "name": "동의"
+    },
+    {
+      "$id": 24,
+      "label": "tev001094_SEL0041",
+      "style": 3,
+      "name": "그 말이 맞다며 동의한다"
+    },
+    {
+      "$id": 25,
+      "label": "tev001094_MSG0017",
+      "style": 1,
+      "name": "……윽![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001094_MSG0018",
+      "style": 1,
+      "name": "저, 핫도그 사 올게요![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001094_MSG0019",
+      "style": 1,
+      "name": "힘껏 용기를 낸다면\n저도 해낼 수 있어요! 분명히![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001094_MSG0020",
+      "style": 1,
+      "name": "그렇죠?\n앞으로 100년이든 200년이든 저는\n혼자 핫도그도 못 사는 남자로 살 거예요![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001094_MSG0021",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001094_MSG0022",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001094_MSG0023",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001094_MSG0024",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001094_MSG0025",
+      "style": 1,
+      "name": "어쩐지 울적해지니까\n조금만 용기를 내서\n핫도그 사러 갈게요……[ST:wait ]"
+    }
+  ]
+}

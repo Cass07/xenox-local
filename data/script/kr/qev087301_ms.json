@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087301_MSG0001",
+      "style": 0,
+      "name": "오, 엘마\n찾고 있었네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087301_MSG0002",
+      "style": 0,
+      "name": "뭐지?\n또 귀찮은 일을 떠넘기려고?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087301_MSG0003",
+      "style": 0,
+      "name": "장관, 당신 뭘 하고 있는 겐가?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087301_MSG0004",
+      "style": 0,
+      "name": "뭘 하냐니, 뻔하지 않나[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087301_MSG0005",
+      "style": 0,
+      "name": "엘마 리더와 함께\n블레이드의 일원으로서 임무에 정진하고 있다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087301_MSG0006",
+      "style": 0,
+      "name": "정진이라니, 당신도 참……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087301_MSG0007",
+      "style": 0,
+      "name": "장관직에 영향이 가지 않는 선에서\n도움을 받고 있어[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087301_MSG0008",
+      "style": 0,
+      "name": "스트레스 해소도 되는 모양이니\n너무 신경 쓰지 마[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087301_MSG0009",
+      "style": 0,
+      "name": "그래\n일개 병사로 취급해도 상관없다![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087301_MSG0010",
+      "style": 0,
+      "name": "뭐, 엘마가 그렇게 말한다면[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087301_MSG0011",
+      "style": 0,
+      "name": "저기, 그보다 급한 용건이 있으신 거 아닌가요?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087301_MSG0012",
+      "style": 0,
+      "name": "아, 그렇지\n긴급 사태일세[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087301_MSG0013",
+      "style": 0,
+      "name": "오르트 팀이 그로우스에게 잡혔네[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087301_MSG0014",
+      "style": 0,
+      "name": "확실한가?\n단순 통신 두절은 아니고?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087301_MSG0015",
+      "style": 0,
+      "name": "그래, 컴패니언을 호위하고 있었는데\n그쪽 팀은 돌아왔다네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087301_MSG0016",
+      "style": 0,
+      "name": "오르트가 부하들과 함께\n잡혀가는 걸 목격했다는군[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087301_MSG0017",
+      "style": 0,
+      "name": "그렇다면 확실한 정보네[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087301_JNK0010",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 19,
+      "label": "qev087301_SEL0011",
+      "style": 3,
+      "name": "돌아온 팀에 관해서 묻는다"
+    },
+    {
+      "$id": 20,
+      "label": "qev087301_JNK0020",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 21,
+      "label": "qev087301_SEL0021",
+      "style": 3,
+      "name": "어디로 끌려갔는지 묻는다"
+    },
+    {
+      "$id": 22,
+      "label": "qev087301_MSG0018",
+      "style": 0,
+      "name": "아, 이것저것 묻고 싶은 건 나도 마찬가지지만\n아직 치료 중이라서 말일세[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087301_MSG0019",
+      "style": 0,
+      "name": "무리시킬 수는 없지\n그들의 휴대 단말기에서 데이터를 찾아보자[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087301_MSG0020",
+      "style": 0,
+      "name": "그걸 몰라서 곤란한 참이라네[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087301_MSG0021",
+      "style": 0,
+      "name": "컴패니언의 휴대 단말기에서\n데이터를 찾아보자[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087301_MSG0022",
+      "style": 0,
+      "name": "그로우스가 나타난 방향 같은 걸로\n잡혀 있는 장소를 추정할 수 있을지도 모르니까요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087301_MSG0023",
+      "style": 0,
+      "name": "그렇군, 바로 준비해 두지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087301_MSG0024",
+      "style": 0,
+      "name": "구출을 서두르는 게 좋겠어[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev087301_MSG0025",
+      "style": 0,
+      "name": "그렇다모, 타츠의 동료처럼\n잡아먹힐지도 모른다모[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev087301_MSG0026",
+      "style": 0,
+      "name": "설마, 그럴 리는……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev087301_MSG0027",
+      "style": 0,
+      "name": "모르는 일이지, 우리는 아직\n그로우스의 모든 걸 안다고 할 수 없다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev087301_MSG0028",
+      "style": 0,
+      "name": "지구인을 포식하는 종족이 없다고는\n단언할 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev087301_MSG0029",
+      "style": 0,
+      "name": "그럴 수가……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087301_MSG0030",
+      "style": 0,
+      "name": "엘마, 아니 리더\n바로 그들을 탈환하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087301_MSG0031",
+      "style": 0,
+      "name": "이봐, 당신은 군무장관으로서\n지휘를 해 주게[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev087301_MSG0032",
+      "style": 0,
+      "name": "지휘라면 현장에 있는 편이 빠르게 대응 가능해\n그 이전에 지금의 난 엘마 팀의 일원이다[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev087301_MSG0033",
+      "style": 0,
+      "name": "그렇긴 하지만……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev087301_MSG0034",
+      "style": 0,
+      "name": "헛수고야, 말한다고 들을 사람이 아니잖아\n그리고 지금은 말다툼할 시간조차 아까워[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev087301_MSG0035",
+      "style": 0,
+      "name": "그렇다는군[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev087301_MSG0036",
+      "style": 0,
+      "name": "으음…… 알겠다, 부탁함세[ST:wait ]"
+    }
+  ]
+}

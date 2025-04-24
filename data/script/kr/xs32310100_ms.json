@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32310100_MSG0010",
+      "style": 0,
+      "name": "이렇게나 많은 유전자 정보를\n모을 수 있었던 건[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32310100_MSG0020",
+      "style": 0,
+      "name": "엘마 팀 여러분 덕분이에요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32310100_MSG0030",
+      "style": 0,
+      "name": "감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32310100_MSG0040",
+      "style": 0,
+      "name": "저, NLA로 돌아가겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32310100_MSG0050",
+      "style": 0,
+      "name": "정말인가요!?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32310100_MSG0060",
+      "style": 0,
+      "name": "네, 유전자 정보를 모을 때\n들렸거든요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32310100_MSG0070",
+      "style": 0,
+      "name": "이곳을 키워 온 자들의 목소리가[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32310100_MSG0080",
+      "style": 0,
+      "name": "잇는 것이 키우는 것이라고[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32310100_JNK0010",
+      "style": 4,
+      "name": "동의"
+    },
+    {
+      "$id": 10,
+      "label": "xs32310100_SEL0010",
+      "style": 3,
+      "name": "분명 그렇게 말했다며 끄덕인다"
+    },
+    {
+      "$id": 11,
+      "label": "xs32310100_MSG0090",
+      "style": 0,
+      "name": "저에겐 들리지 않았지만\n멋진 말이네요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32310100_JNK0020",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 13,
+      "label": "xs32310100_SEL0020",
+      "style": 3,
+      "name": "독을 마신 건 아닌지 걱정한다"
+    },
+    {
+      "$id": 14,
+      "label": "xs32310100_MSG0100",
+      "style": 0,
+      "name": "아니야[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32310100_MSG0110",
+      "style": 0,
+      "name": "그는 누구보다도 많이\n이 행성을 보고 들어 왔어[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32310100_MSG0120",
+      "style": 0,
+      "name": "목소리가 들렸다고 해도 이상하지 않아[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32310100_MSG0130",
+      "style": 0,
+      "name": "잇는 것이 키우는 것이라……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32310100_MSG0140",
+      "style": 0,
+      "name": "분명 이 세계는 소멸해도[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32310100_MSG0145",
+      "style": 0,
+      "name": "다음 세계에서 태어난다면……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32310100_MSG0150",
+      "style": 0,
+      "name": "잇고 싶네[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32310100_MSG0160",
+      "style": 0,
+      "name": "네, 반드시 이을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32310100_MSG0170",
+      "style": 0,
+      "name": "이런[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32310100_MSG0180",
+      "style": 0,
+      "name": "뭐야, 이 녀석들은[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32310100_MSG0190",
+      "style": 0,
+      "name": "이곳의 유전자 정보를 모으다가\n영역을 침범해 버린 걸지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32310100_MSG0200",
+      "style": 0,
+      "name": "여기는 우리에게 맡기고 당신은 NLA로 돌아가[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32310100_MSG0210",
+      "style": 0,
+      "name": "알겠습니다[ST:wait ]"
+    }
+  ]
+}

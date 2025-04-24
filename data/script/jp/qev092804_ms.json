@@ -1,0 +1,522 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092804_MSG0010",
+      "style": 0,
+      "name": "リーゼル[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092804_MSG0020",
+      "style": 0,
+      "name": "一人で出歩くな\n遠くに行きたいのなら　おれに言え[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092804_MSG0030",
+      "style": 0,
+      "name": "高いところがお望みなら\nフレスベルグに乗せてやる[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092804_MSG0040",
+      "style": 0,
+      "name": "複座じゃないから\nその[ST:wide ]―　狭いだろうが[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092804_MSG0050",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092804_MSG0060",
+      "style": 0,
+      "name": "ふふっ[ST:wide ]―　ええ　そうね\n二人乗りの開発も進めようかしら[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092804_MSG0070",
+      "style": 0,
+      "name": "ああ　いいかもしれないな[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092804_MSG0080",
+      "style": 0,
+      "name": "もう[ST:wide ]―　できないかもしれないわ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092804_MSG0090",
+      "style": 0,
+      "name": "[ST:wide ]―そうか[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092804_MSG0100",
+      "style": 0,
+      "name": "わかった\nじゃあ　そうしよう[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092804_MSG0110",
+      "style": 0,
+      "name": "[ST:wide ]―怒らないのね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092804_MSG0120",
+      "style": 0,
+      "name": "そうする必要がない[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092804_MSG0130",
+      "style": 0,
+      "name": "[ST:wide ]―リーゼルは強いわね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092804_MSG0140",
+      "style": 0,
+      "name": "本当に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092804_JNK0150",
+      "style": 4,
+      "name": "励ます"
+    },
+    {
+      "$id": 16,
+      "label": "qev092804_SEL0160",
+      "style": 3,
+      "name": "無理をする必要はないと助言をする"
+    },
+    {
+      "$id": 17,
+      "label": "qev092804_MSG0170",
+      "style": 0,
+      "name": "そのとおりだ\n辛ければ立ち止まってもいい[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092804_JNK0180",
+      "style": 4,
+      "name": "叱咤"
+    },
+    {
+      "$id": 19,
+      "label": "qev092804_SEL0190",
+      "style": 3,
+      "name": "ここまできて諦めるのか？と尋ねる"
+    },
+    {
+      "$id": 20,
+      "label": "qev092804_MSG0200",
+      "style": 0,
+      "name": "もちろん\n諦めたくない気持ちはある[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092804_MSG0210",
+      "style": 0,
+      "name": "だが　苦しい思いと引き換えにする必要はない[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092804_MSG0220",
+      "style": 0,
+      "name": "[ST:wide ]―違うの[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092804_MSG0230",
+      "style": 0,
+      "name": "なら　開発を続けるのか？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092804_MSG0240",
+      "style": 0,
+      "name": "可変翼機構も完成している\n出力変動によるラグもほぼ解消した[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092804_MSG0250",
+      "style": 0,
+      "name": "お前が飛べというなら\nおれは　いつでも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092804_MSG0260",
+      "style": 0,
+      "name": "違うの！　リーゼル！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092804_MSG0270",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "qev092804_MSG0280",
+      "style": 0,
+      "name": "[ST:wide ]―部長に何か言われたのか？[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092804_MSG0290",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "qev092804_MSG0300",
+      "style": 0,
+      "name": "やはり何かされたんだな？\n正直に言ってくれ　アリシャ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092804_MSG0310",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092804_MSG0320",
+      "style": 0,
+      "name": "私は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092804_MSG0330",
+      "style": 0,
+      "name": "部長の不正に[ST:wide ]―　関与していたの[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092804_MSG0340",
+      "style": 0,
+      "name": "不正[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092804_MSG0350",
+      "style": 0,
+      "name": "[ST:wide ]―どういう意味だ　それは？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092804_MSG0360",
+      "style": 0,
+      "name": "[ST:wide ]―フレスベルグが巡航形態になると[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092804_MSG0370",
+      "style": 0,
+      "name": "エンジンの内部構造も変形するのは\nあなたも知ってるわね？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092804_MSG0380",
+      "style": 0,
+      "name": "あ　ああ[ST:wide ]―　もちろんだ\nそうでないと高い推力を確保できない[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092804_MSG0390",
+      "style": 0,
+      "name": "そう[ST:wide ]―　通常のエンジン構造のままじゃ\n巡航形態の爆発的な推力に耐えられない[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092804_MSG0400",
+      "style": 0,
+      "name": "なのに　その変形が行われない[ST:wide ]―\nそういう処理がされていたの[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092804_MSG0410",
+      "style": 0,
+      "name": "なっ[ST:wide ]―！　そんなことをすれば\n機体がバラバラになりかねな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092804_MSG0420",
+      "style": 0,
+      "name": "[ST:wide ]―！\nまさか　部長が[ST:wide ]―！？[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092804_MSG0430",
+      "style": 0,
+      "name": "彼は　よりコストを\n抑えるための処理だって言ったわ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092804_MSG0440",
+      "style": 0,
+      "name": "当然許されるものではないし\nそれを認めれば大きな事故に繋がる[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092804_MSG0450",
+      "style": 0,
+      "name": "私は部長に改善を訴えた[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092804_MSG0455",
+      "style": 0,
+      "name": "でも　部長は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092804_MSG0460",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092804_MSG0470",
+      "style": 0,
+      "name": "私に[ST:wide ]―　“前任者”のようには\nなりたくないだろうって[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092804_MSG0480",
+      "style": 0,
+      "name": "前任者のように[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092804_MSG0490",
+      "style": 0,
+      "name": "[ST:wide ]―！\nまさか　あの人は自殺したんじゃなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092804_MSG0500",
+      "style": 0,
+      "name": "試作型フレスベルグの稼働実験[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092804_MSG0510",
+      "style": 0,
+      "name": "あの時の事故は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092804_MSG0520",
+      "style": 0,
+      "name": "機体データの不備が原因だった\n起きるべくして起きた事故だった[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092804_MSG0530",
+      "style": 0,
+      "name": "私が[ST:wide ]―　データを改ざんしたから[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092804_MSG0540",
+      "style": 0,
+      "name": "前任者はそれに気づいて\n私を告発しようとした[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092804_MSG0550",
+      "style": 0,
+      "name": "だけど　そうなる前に部長が\n彼を自殺に見せかけて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092804_MSG0560",
+      "style": 0,
+      "name": "そんな[ST:wide ]―　アリシャ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092804_MSG0570",
+      "style": 0,
+      "name": "実験を遅らせるわけにはいかなかった\n下手をすれば計画が中止にだって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092804_MSG0580",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092804_MSG0590",
+      "style": 0,
+      "name": "[ST:wide ]―だから　今回も目を瞑れと？[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092804_MSG0600",
+      "style": 0,
+      "name": "ごめんなさい\n決して許されることじゃないけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev092804_MSG0610",
+      "style": 0,
+      "name": "悪事に加担しているとわかっていても\n[ST:wide ]―やめるわけにはいかなかった[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev092804_MSG0620",
+      "style": 0,
+      "name": "あなたのために　フレスベルグだけは\n完成させたかった[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev092804_MSG0630",
+      "style": 0,
+      "name": "優秀な戦闘機乗りだったあなたに[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev092804_MSG0635",
+      "style": 0,
+      "name": "もう一度　大空を駆けてほしかったから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev092804_MSG0640",
+      "style": 0,
+      "name": "おれは[ST:wide ]―\nお前を信じていたんだ[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev092804_MSG0650",
+      "style": 0,
+      "name": "二人でなら何でもできる\nそう思っていた[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev092804_MSG0655",
+      "style": 0,
+      "name": "なのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev092804_MSG0660",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev092804_MSG0670",
+      "style": 0,
+      "name": "知ってしまった以上\n見過ごすわけにはいかない[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092804_MSG0680",
+      "style": 0,
+      "name": "部長も[ST:wide ]―　お前のことも[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092804_MSG0690",
+      "style": 0,
+      "name": "[ST:wide ]―そうね[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092804_MSG0700",
+      "style": 0,
+      "name": "あなたなら\nきっとそう言うと思っていたわ[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092804_MSG0710",
+      "style": 0,
+      "name": "いつだってあなたは正しく\n自分の信じた道を進んできたもの[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092804_MSG0720",
+      "style": 0,
+      "name": "私が行ってきたこと\n部長が関与してきたこと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092804_MSG0730",
+      "style": 0,
+      "name": "全て私の端末に記録されてるわ[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092804_MSG0735",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092804_MSG0740",
+      "style": 0,
+      "name": "これを残していなくなれば\n楽になれると思ったのかもしれないわね[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092804_MSG0750",
+      "style": 0,
+      "name": "お前を[ST:wide ]―　すぐに許すことはできない[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092804_MSG0760",
+      "style": 0,
+      "name": "ええ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092804_MSG0770",
+      "style": 0,
+      "name": "でも[ST:wide ]―　それでも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092804_MSG0780",
+      "style": 0,
+      "name": "お前が　まだここにいることに[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092804_MSG0785",
+      "style": 0,
+      "name": "おれは[ST:wide ]―　ほっとしたよ[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092804_MSG0790",
+      "style": 0,
+      "name": "リーゼル[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

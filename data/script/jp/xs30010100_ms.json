@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs30010100_MSG0010",
+      "style": 0,
+      "name": "一体[ST:wide ]─[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs30010100_MSG0020",
+      "style": 0,
+      "name": "何がどうなっていやがるんだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs30010100_MSG0030",
+      "style": 0,
+      "name": "調査を続け　分析班の成果が上がることに\n期待しようじゃないか[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs30010100_MSG0040",
+      "style": 0,
+      "name": "俺達は今も動き続けてるんだから\n焦るなってことか？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs30010100_MSG0050",
+      "style": 0,
+      "name": "まぁ　そういうことだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs30010100_MSG0060",
+      "style": 0,
+      "name": "でもこんなあやふやな状態のままじゃ[ST:wide ]─[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs30010100_MSG0070",
+      "style": 0,
+      "name": "ヴァンダム[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs30010100_MSG0080",
+      "style": 0,
+      "name": "司令官であるあなたが\n隊員の不安を煽ってどうするの[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs30010100_MSG0090",
+      "style": 0,
+      "name": "うっ[ST:wide ]─[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs30010100_MSG0100",
+      "style": 0,
+      "name": "すっ　すまん[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs30010100_MSG0110",
+      "style": 0,
+      "name": "そんなつもりじゃなかったんだがな[ST:wide ]─[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs30010100_MSG0120",
+      "style": 0,
+      "name": "リン[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs30010100_MSG0130",
+      "style": 0,
+      "name": "皆　同じ気持ちよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs30010100_MSG0140",
+      "style": 0,
+      "name": "でも今　セントラルライフにいる仲間も[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs30010100_MSG0150",
+      "style": 0,
+      "name": "その不安と戦いながら必死に調査を続けている[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs30010100_MSG0160",
+      "style": 0,
+      "name": "自分の時間を削ってね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs30010100_MSG0170",
+      "style": 0,
+      "name": "だから　信じて待ちましょう[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs30010100_MSG0180",
+      "style": 0,
+      "name": "エルマさん[ST:wide ]─[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs30010100_MSG0190",
+      "style": 0,
+      "name": "すみません[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs30010100_MSG0200",
+      "style": 0,
+      "name": "皆が頑張っているのに私\n自分のことばかりで[ST:wide ]─[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs30010100_MSG0210",
+      "style": 0,
+      "name": "皆を信じて待ちます[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs30010100_MSG0211",
+      "style": 0,
+      "name": "エルマ、頷く。"
+    },
+    {
+      "$id": 23,
+      "label": "xs30010100_MSG0220",
+      "style": 0,
+      "name": "タツも信じているですも！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs30010100_MSG0230",
+      "style": 0,
+      "name": "あなたは[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]じゃないじゃない[ST:wide ]─[ST:wait ]"
+    }
+  ]
+}

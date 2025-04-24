@@ -1,0 +1,600 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091403_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―ソランさん　お久しぶりです[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091403_MSG0002",
+      "style": 0,
+      "name": "君は[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091403_MSG0003",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091403_MSG0004",
+      "style": 0,
+      "name": "フォグです[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091403_MSG0005",
+      "style": 0,
+      "name": "ああ　そうだったね　存在感が薄いから\nフォグって覚えてたんだった[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091403_MSG0006",
+      "style": 0,
+      "name": "[ST:wide ]―覚えてなかったじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091403_MSG0007",
+      "style": 0,
+      "name": "ごめんごめん　それで今日は何の用だ？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091403_MSG0008",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091403_MSG0009",
+      "style": 0,
+      "name": "忘却の渓谷で\n未知の生命体に襲撃されまして[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091403_MSG0010",
+      "style": 0,
+      "name": "グロウスの生体兵器か？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091403_MSG0011",
+      "style": 0,
+      "name": "それがわからないんです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091403_MSG0012",
+      "style": 0,
+      "name": "念のため回収してきたんですが\n解析をお願いしたいと思って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091403_MSG0013",
+      "style": 0,
+      "name": "そういうことならすぐに取り掛かろう\n少し待っててくれ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091403_MSG0014",
+      "style": 0,
+      "name": "ううむ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091403_MSG0015",
+      "style": 0,
+      "name": "ざっと調べてみたが\nグロウスの生体兵器ではなさそうだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091403_MSG0016",
+      "style": 0,
+      "name": "文明レベルが異なるように思えるからね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091403_MSG0017",
+      "style": 0,
+      "name": "とすると[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091403_MSG0018",
+      "style": 0,
+      "name": "わからん[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091403_MSG0019",
+      "style": 0,
+      "name": "もしかすると\nミラの固有種なのかもしれないな[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091403_MSG0020",
+      "style": 0,
+      "name": "例えば[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091403_MSG0020_2",
+      "style": 0,
+      "name": "忘却の渓谷にだけ生息しているような[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091403_MSG0021",
+      "style": 0,
+      "name": "なるほど[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091403_MSG0022",
+      "style": 0,
+      "name": "忘却の渓谷には\nいくつか遺跡があるのは知っているかい？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091403_MSG0023",
+      "style": 0,
+      "name": "それらの情報と照らし合わせれば\n何か掴めるかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091403_MSG0024",
+      "style": 0,
+      "name": "[ST:wide ]―もしかして\nそれを持ってくるのはボク達ですか？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091403_MSG0025",
+      "style": 0,
+      "name": "ああ　３ヵ所の遺跡を訪れて\n情報を手に入れてきてくれ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091403_MSG0026",
+      "style": 0,
+      "name": "忘却の渓谷の遺跡の情報　集めてきたようだね\nすぐに分析してみるよ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091403_MSG0027",
+      "style": 0,
+      "name": "ううむ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091403_MSG0028",
+      "style": 0,
+      "name": "残念だけど　わかったことは一つだけだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091403_MSG0029",
+      "style": 0,
+      "name": "それは[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091403_MSG0030",
+      "style": 0,
+      "name": "グロウスの生体兵器でもなければ\nミラのものでもないし　地球のものでもない[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091403_MSG0031",
+      "style": 0,
+      "name": "つまり全くわからんということだけだよ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091403_MSG0032",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091403_MSG0033",
+      "style": 0,
+      "name": "おいおい\n残念な結果に終わったのはわかるけど[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091403_MSG0034",
+      "style": 0,
+      "name": "もう少しリアクションしてくれても\nいいんじゃないか？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091403_MSG0035",
+      "style": 0,
+      "name": "[ST:wide ]―兄さん[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091403_JNK0010",
+      "style": 4,
+      "name": "ソランが？"
+    },
+    {
+      "$id": 38,
+      "label": "qev091403_SEL0011",
+      "style": 3,
+      "name": "ソランが兄なのかと尋ねる"
+    },
+    {
+      "$id": 39,
+      "label": "qev091403_JNK0020",
+      "style": 4,
+      "name": "フライが？"
+    },
+    {
+      "$id": 40,
+      "label": "qev091403_SEL0021",
+      "style": 3,
+      "name": "フライが兄なのかと尋ねる"
+    },
+    {
+      "$id": 41,
+      "label": "qev091403_MSG0036",
+      "style": 0,
+      "name": "いやいや　私にこんな個性的な弟はいないよ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091403_MSG0037",
+      "style": 0,
+      "name": "[ST:wide ]―はい[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091403_MSG0038",
+      "style": 0,
+      "name": "フライ・クリストフは　ボクの兄なんです[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091403_MSG0039",
+      "style": 0,
+      "name": "[ST:wide ]―長い話になるかもしれませんけど\n聞いてくれますか？[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091403_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 46,
+      "label": "qev091403_SEL0031",
+      "style": 3,
+      "name": "フォグの話を聞く"
+    },
+    {
+      "$id": 47,
+      "label": "qev091403_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 48,
+      "label": "qev091403_SEL0041",
+      "style": 3,
+      "name": "フォグの長話を聞くのは遠慮する"
+    },
+    {
+      "$id": 49,
+      "label": "qev091403_MSG0040",
+      "style": 0,
+      "name": "血も涙もないね[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091403_MSG0041",
+      "style": 0,
+      "name": "ここまで一緒にやってきたんだろ？\n聞いてあげてもいいんじゃないか？[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091403_MSG0042",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091403_MSG0043",
+      "style": 0,
+      "name": "[ST:wide ]―なるべく簡潔に話しますから\n聞いてください　聞いてほしいんです[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091403_MSG0044",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091403_MSG0045",
+      "style": 0,
+      "name": "[ST:wide ]―今まで　兄さんのこと\n黙っていてごめんなさい[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091403_MSG0046",
+      "style": 0,
+      "name": "兄さんとは地球にいた頃に大ゲンカしたんです[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091403_MSG0047",
+      "style": 0,
+      "name": "クリストフ家は軍人一家で\n兄も父も祖父も曾祖父も軍人でした[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091403_MSG0048",
+      "style": 0,
+      "name": "ボクだけは死んだ母の影響で\n計測工学の研究者を志してたんです[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091403_MSG0049",
+      "style": 0,
+      "name": "道は違えど　仲のいい家族でした[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091403_MSG0050",
+      "style": 0,
+      "name": "しかし　白鯨に乗りこむ時に\n問題が起きたんです[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091403_MSG0051",
+      "style": 0,
+      "name": "父だけは地球種汎移民計画には選ばれず\n地球に残ることになったんです[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091403_MSG0052",
+      "style": 0,
+      "name": "兄さんは　自分よりも経験もあり\n地位の高い父をどうして残すのか[ST:wide ]―　と[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091403_MSG0053",
+      "style": 0,
+      "name": "上層部に何度も抗議していました[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091403_JNK0050",
+      "style": 4,
+      "name": "感心する"
+    },
+    {
+      "$id": 64,
+      "label": "qev091403_SEL0051",
+      "style": 3,
+      "name": "フライは父親思いだと感心する"
+    },
+    {
+      "$id": 65,
+      "label": "qev091403_JNK0060",
+      "style": 4,
+      "name": "茶化す"
+    },
+    {
+      "$id": 66,
+      "label": "qev091403_SEL0061",
+      "style": 3,
+      "name": "フライをファザコンだと軽くからかう"
+    },
+    {
+      "$id": 67,
+      "label": "qev091403_JNK0070",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 68,
+      "label": "qev091403_SEL0071",
+      "style": 3,
+      "name": "どうして父親が選ばれなかったのか尋ねる"
+    },
+    {
+      "$id": 69,
+      "label": "qev091403_MSG0054",
+      "style": 0,
+      "name": "そうですね[ST:wide ]―\n兄は誰よりも父を尊敬していましたから[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev091403_MSG0055",
+      "style": 0,
+      "name": "そうですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev091403_MSG0056",
+      "style": 0,
+      "name": "兄はファザコンで\nボクはブラコンなのかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev091403_MSG0057",
+      "style": 0,
+      "name": "あなたも疑問に思いましたか[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev091403_MSG0058",
+      "style": 0,
+      "name": "兄は勘違いしてたんです　おそらく今も[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev091403_MSG0059",
+      "style": 0,
+      "name": "ボクは兄さんとは違い　事実を受け入れました[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev091403_MSG0060",
+      "style": 0,
+      "name": "父を地球に残すことをためらわなかったのです[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev091403_MSG0061",
+      "style": 0,
+      "name": "それはなぜかというと[ST:wide ]―\n父は自主的に地球に残ったんです[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev091403_MSG0062",
+      "style": 0,
+      "name": "白鯨に乗れる人数にも限りがある\n年寄りは乗らなくていいと父は言いました[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev091403_MSG0063",
+      "style": 0,
+      "name": "自分よりも他の人を守ることを\n優先する人でしたから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev091403_MSG0064",
+      "style": 0,
+      "name": "ですが　すなわちそれは\n今生の別れを意味するわけで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev091403_MSG0065",
+      "style": 0,
+      "name": "受け入れられなかった兄は\n父の話もボクの話も聞いてくれず[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev091403_MSG0066",
+      "style": 0,
+      "name": "あの日から今日まで\nずっと険悪な状態なんです[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev091403_JNK0080",
+      "style": 4,
+      "name": "理解を示す"
+    },
+    {
+      "$id": 83,
+      "label": "qev091403_SEL0081",
+      "style": 3,
+      "name": "フライの気持ちも分かると理解を示す"
+    },
+    {
+      "$id": 84,
+      "label": "qev091403_JNK0090",
+      "style": 4,
+      "name": "同情する"
+    },
+    {
+      "$id": 85,
+      "label": "qev091403_SEL0091",
+      "style": 3,
+      "name": "フォグの状況に同情する"
+    },
+    {
+      "$id": 86,
+      "label": "qev091403_MSG0067",
+      "style": 0,
+      "name": "そうですよね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev091403_MSG0068",
+      "style": 0,
+      "name": "父が死ぬことを抗わず受け入れてしまうボクは\n少し変わっているのかもしれません[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev091403_MSG0069",
+      "style": 0,
+      "name": "だけど　いつか信頼を得て\n今とは別の立場で話すことができれば[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev091403_MSG0070",
+      "style": 0,
+      "name": "きっと兄も話を聞いてくれると思うんです[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev091403_MSG0071",
+      "style": 0,
+      "name": "そう言ってもらえると少しだけ気が晴れます[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev091403_MSG0072",
+      "style": 0,
+      "name": "ボクは兄さんと仲直りしたい[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev091403_MSG0073",
+      "style": 0,
+      "name": "ブレイドの仕事をこなし続けて\n今とは別の立場で話すことができれば[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev091403_MSG0074",
+      "style": 0,
+      "name": "きっと兄も話を聞いてくれると思うんです[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev091403_MSG0075",
+      "style": 0,
+      "name": "だから　これからもよろしくお願いします[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev091403_MSG0076",
+      "style": 1,
+      "name": "ふぅ[ST:wide ]―　やっぱり材料が足りなすぎて\nこのままじゃ埒が明かない[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev091403_MSG0077",
+      "style": 1,
+      "name": "忘却の渓谷にある遺跡の情報があれば\n君達が持って来てくれた　残骸が何か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev091403_MSG0078",
+      "style": 1,
+      "name": "解明することができるかもしれないんだ\n早く集めて来てくれよ[ST:wait ]"
+    }
+  ]
+}

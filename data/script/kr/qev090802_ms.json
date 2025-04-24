@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090802_MSG0001",
+      "style": 0,
+      "name": "큭…… 아아……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090802_MSG0002",
+      "style": 0,
+      "name": "……누가, 구해 줘모…… 포학왕은\n여전히…… 여전히 굶주렸어……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090802_MSG0003",
+      "style": 0,
+      "name": "도돈가 카라반을…… 습격하러……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090802_MSG0004",
+      "style": 0,
+      "name": "으악……![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090802_MSG0005",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090802_MSG0006",
+      "style": 0,
+      "name": "이미 숨이…… 끊어졌네요\n아무도 구해 내지 못하다니……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090802_MSG0007",
+      "style": 0,
+      "name": "……서두릅시다, 도돈가 카라반으로[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090802_MSG0008",
+      "style": 0,
+      "name": "더 이상, 포학왕이 그들 같은 연약한 자의 생명을\n앗아 가게 둘 수는 없어요……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090802_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 10,
+      "label": "qev090802_SEL0011",
+      "style": 3,
+      "name": "HB의 분노에 동조한다"
+    },
+    {
+      "$id": 11,
+      "label": "qev090802_JNK0020",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 12,
+      "label": "qev090802_SEL0021",
+      "style": 3,
+      "name": "격한 반응을 보이는 HB에게\n그 이유를 묻는다"
+    },
+    {
+      "$id": 13,
+      "label": "qev090802_MSG0009",
+      "style": 0,
+      "name": "이렇게 감정적으로 행동하다니……\n이런 모습, 저답지 않아요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090802_MSG0010",
+      "style": 0,
+      "name": "당신에게 영향을 받은 걸지도 모르겠네요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090802_MSG0011",
+      "style": 0,
+      "name": "저도 가능하다면 단 한 명도\n희생되지 않기를 바라니까요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090802_MSG0012",
+      "style": 0,
+      "name": "다만, 현실은 그렇게 쉽지 않죠……\n그러니 냉정한 마음으로 판단할 수밖에 없어요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090802_MSG0013",
+      "style": 0,
+      "name": "하지만, 지금은…… 당신밖에 없으니까……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090802_MSG0014",
+      "style": 0,
+      "name": "……안 되겠네요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090802_MSG0015",
+      "style": 0,
+      "name": "도돈가 카라반으로 간 포학왕을 쫓는 동안\n평소의 저로 돌아가겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090802_MSG0016",
+      "style": 0,
+      "name": "그리고 언제나처럼 완벽하게\n임무를 처리하도록 하죠[ST:wait ]"
+    }
+  ]
+}

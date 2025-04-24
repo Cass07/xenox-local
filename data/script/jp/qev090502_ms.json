@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090502_MSG0001",
+      "style": 0,
+      "name": "こりゃあ手酷くやられたもんだな[ST:wide ]―\nふむ[ST:wide ]―　どうしたものか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090502_MSG0002",
+      "style": 0,
+      "name": "[ST:wide ]―なぁ　オヌシは前に\nこの辺りを捜索したことがあるのだろう？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090502_MSG0003",
+      "style": 0,
+      "name": "クラリッサ達の行方に\n何か心当たりはないものかよ？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090502_MSG0049",
+      "style": 0,
+      "name": "否定"
+    },
+    {
+      "$id": 5,
+      "label": "qev090502_MSG0050",
+      "style": 0,
+      "name": "何も思い浮かばないと言う"
+    },
+    {
+      "$id": 6,
+      "label": "qev090502_MSG0051",
+      "style": 0,
+      "name": "思い出す"
+    },
+    {
+      "$id": 7,
+      "label": "qev090502_MSG0052",
+      "style": 0,
+      "name": "原初の荒野でグロウス達に\n捕えられたチームがいたことを話す"
+    },
+    {
+      "$id": 8,
+      "label": "qev090502_MSG0004",
+      "style": 0,
+      "name": "そうか　ならばこのボウズが\n一つ案じてみよう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090502_MSG0005",
+      "style": 0,
+      "name": "このような手口で\nドール部隊を壊滅させられるのはグロウス達だ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090502_MSG0006",
+      "style": 0,
+      "name": "どうみてもバケモンにできるやり口じゃない[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090502_MSG0007",
+      "style": 0,
+      "name": "[ST:wide ]―とすれば　今までのことを考えれば\n連れ去られた可能性が高いと思わんか？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090502_MSG0008",
+      "style": 0,
+      "name": "どうだ？　[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090502_MSG0008_2",
+      "style": 0,
+      "name": "一度この辺りの\nグロウスの拠点に行ってみんか？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090502_MSG0009",
+      "style": 0,
+      "name": "なぁに　オヌシと俺の力があれば\n奴らなど恐れるに足りん！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090502_MSG0010",
+      "style": 0,
+      "name": "さぁ行こう！\nここで突っ立っていても何も始まらんさ！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090502_MSG0011",
+      "style": 0,
+      "name": "確かにこのやり口\n野生のバケモンどもにやれるもんじゃない[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090502_MSG0012",
+      "style": 0,
+      "name": "グロウスの拠点か[ST:wide ]―　怪しいな\nもしかしたら奴らに連れ去られたのかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090502_MSG0013",
+      "style": 0,
+      "name": "オヌシの経験というのもたいしたものだな！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090502_MSG0013_m",
+      "style": 0,
+      "name": "オヌシの経験というのもたいしたものだな！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090502_MSG0013_f",
+      "style": 0,
+      "name": "オヌシの経験というのもたいしたものだな！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090502_MSG0014",
+      "style": 0,
+      "name": "早速　行ってみよう！\nきっとそこにクラリッサはいるはずさ！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090502_MSG0015",
+      "style": 0,
+      "name": "また地球人が現れたゾ！\nどうした　処刑の見物にでも来たのか？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090502_MSG0016",
+      "style": 0,
+      "name": "[ST:wide ]―俺の教え子に指一本でも触れてみろ\n地獄に叩き落としてくれるぞ！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090502_MSG0017",
+      "style": 0,
+      "name": "ジゴク[ST:wide ]―！？　なんだそれは！\n面白いことを言うヤツだな　オマエは！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090502_MSG0018",
+      "style": 0,
+      "name": "冗談は言ってない\n俺は本気で言っている！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090502_MSG0019",
+      "style": 0,
+      "name": "ソウダ！　それならオマエ達だけで\n拠点の中までコイツを助けに来い！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090502_MSG0020",
+      "style": 0,
+      "name": "もし　オレの所に無事にたどりつけたら\nこの女は解放シテヤル[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090502_MSG0021",
+      "style": 0,
+      "name": "来ないで！　皆こいつに殺された！\nきっとこいつら　約束なんて守らな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090502_MSG0022",
+      "style": 0,
+      "name": "オマエ　ウルサイゾ！！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090502_MSG0023",
+      "style": 0,
+      "name": "キャッ！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090502_MSG0024",
+      "style": 0,
+      "name": "信じるか信じないかは好きにシロ！\n逃げ去るのであれば　タダ殺すだけの話ダ！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090502_MSG0025",
+      "style": 0,
+      "name": "急ぐぞ！　[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090502_MSG0025_2",
+      "style": 0,
+      "name": "もう二度と異星人どもに\n俺の教え子を殺されてなるものかよ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev090502_MSG0026",
+      "style": 0,
+      "name": "ここまで来たか\n地球人とは　ホントウに凶暴な連中ダ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev090502_JNK0030",
+      "style": 4,
+      "name": "要求"
+    },
+    {
+      "$id": 36,
+      "label": "qev090502_SEL0031",
+      "style": 3,
+      "name": "約束通りクラリッサを解放することを要求する"
+    },
+    {
+      "$id": 37,
+      "label": "qev090502_JNK0040",
+      "style": 4,
+      "name": "挑発"
+    },
+    {
+      "$id": 38,
+      "label": "qev090502_SEL0041",
+      "style": 3,
+      "name": "バイアスの注意をこちらに向けるため　挑発する"
+    },
+    {
+      "$id": 39,
+      "label": "qev090502_MSG0027",
+      "style": 0,
+      "name": "そうだった　ソンナ約束をしていたな！\nわかった　それじゃあ今すぐに解放してやる[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev090502_MSG0028",
+      "style": 0,
+      "name": "バカなヤツだ[ST:wide ]―\nそんなことをしようがしまいが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev090502_MSG0029",
+      "style": 0,
+      "name": "オマエ達　地球人は　ミナゴロシなんダヨ！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev090502_MSG0029_02",
+      "style": 0,
+      "name": "きゃあ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev090502_MSG0030",
+      "style": 0,
+      "name": "地球人とはなんと弱い生きものだ！\nもっと呻き声をあげて苦しんでくれヨナ！！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev090502_MSG0031",
+      "style": 0,
+      "name": "彼女が何をしたと言うんだ[ST:wide ]―\n異星人[ST:wide ]―　オヌシ達はなぜ　いつも[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev090502_MSG0032",
+      "style": 0,
+      "name": "理由なんてない！　地球人は\n存在してはならない　イレギュラーなんダ！[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev090502_MSG0033",
+      "style": 0,
+      "name": "すぐにオマエ達もミナゴロシにしてやる！\nグロウスに歯向かう者に　痛みと　死を！[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev090502_MSG0034",
+      "style": 0,
+      "name": "また[ST:wide ]―　守れなかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev090502_MSG0035",
+      "style": 0,
+      "name": "クソッ！　俺が教えてた連中で生きているのは\nもうレジーの坊やくらいだ！[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev090502_MSG0036",
+      "style": 0,
+      "name": "なんなんだ俺は！\n皆との約束を　何一つ守れてないではないか！[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev090502_MSG0057",
+      "style": 0,
+      "name": "質問"
+    },
+    {
+      "$id": 51,
+      "label": "qev090502_MSG0058",
+      "style": 0,
+      "name": "教え子とした約束について尋ねる"
+    },
+    {
+      "$id": 52,
+      "label": "qev090502_MSG0059",
+      "style": 0,
+      "name": "進言"
+    },
+    {
+      "$id": 53,
+      "label": "qev090502_MSG0060",
+      "style": 0,
+      "name": "ボゼの教え子は　ここに一人まだ生きていると言う"
+    },
+    {
+      "$id": 54,
+      "label": "qev090502_MSG0037",
+      "style": 0,
+      "name": "士官学校で俺が教えたヒヨッコどもの多くが\n白鯨に乗り込むことになった[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev090502_MSG0038",
+      "style": 0,
+      "name": "船出前のことさ[ST:wide ]―\n連中は俺の家へ勝手に集まってきおってな[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev090502_MSG0039",
+      "style": 0,
+      "name": "決起会などといい　朝まで酒を酌み交わし\n互いの無事を願いあったんだ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev090502_MSG0040",
+      "style": 0,
+      "name": "その時に俺は　小僧達と約束したんだ\n必ず皆で地球に帰ってこようと[ST:wide ]―　な[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev090502_MSG0041",
+      "style": 0,
+      "name": "しかし地球で　白鯨で　ミラで[ST:wide ]―\n皆　異星人どもに殺されてしまった[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev090502_MSG0042",
+      "style": 0,
+      "name": "俺はどうしても許せんよ[ST:wide ]―\n異星人という異星人が受け付けられぬ[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev090502_MSG0043",
+      "style": 0,
+      "name": "[ST:wide ]―そうか　そうだったな[ST:wide ]―\nオヌシもまた　俺の大切な教え子の一人[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev090502_MSG0043_m",
+      "style": 0,
+      "name": "[ST:wide ]―そうか　そうだったな[ST:wide ]―\nオヌシもまた　俺の大切な教え子の一人[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev090502_MSG0043_f",
+      "style": 0,
+      "name": "[ST:wide ]―そうか　そうだったな[ST:wide ]―\nオヌシもまた　俺の大切な教え子の一人[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev090502_MSG0044",
+      "style": 0,
+      "name": "ならば　オヌシとも約束せねばならんな\n士官学校の教え子達と誓い合ったように[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev090502_MSG0045",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "qev090502_MSG0046",
+      "style": 0,
+      "name": "オヌシはどんな異星人にも殺させはせん\nこの俺が　命を賭けて守ってやるよ[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev090502_MSG0047",
+      "style": 0,
+      "name": "[ST:wide ]―そうだ　クラリッサのドッグタグを\n持って行ってもいいか？[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev090502_MSG0048",
+      "style": 0,
+      "name": "せめてそれくらいは形見として\n持って帰ってやりたいんだ[ST:wait ]"
+    }
+  ]
+}

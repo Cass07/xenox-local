@@ -1,0 +1,330 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095101_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ] 씨\n당신에게 맡길 극비 임무가 있어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095101_MSG0002",
+      "style": 1,
+      "name": "반담 사령관님이 직접 지명하셨지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095101_JNK0010",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "qev095101_SEL0011",
+      "style": 3,
+      "name": "어떤 임무인지 자세히 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "qev095101_JNK0020",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 6,
+      "label": "qev095101_SEL0021",
+      "style": 3,
+      "name": "스텔라가 어떤 일을 하는지 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "qev095101_MSG0003",
+      "style": 1,
+      "name": "역시 용감한 블레이드는 적극적이네[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095101_MSG0004",
+      "style": 1,
+      "name": "지금부터 자세한 내용을 이야기할게[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095101_MSG0005",
+      "style": 1,
+      "name": "별로 대답하고 싶지는 않지만\n정보기관 같은 곳의 일원이야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095101_MSG0006",
+      "style": 1,
+      "name": "사령관님이나 행정장관님이 내리는 임무를\n지정된 인물에게 전하는 일을 하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095101_MSG0007",
+      "style": 1,
+      "name": "메신저 걸 같은 거지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095101_MSG0008",
+      "style": 1,
+      "name": "프런티어넷을\n망각의 계곡 방면까지 넓혔었잖아?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095101_MSG0009",
+      "style": 1,
+      "name": "그 덕분에 그로우스에 관한 정보를 얻었지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095101_MSG0010",
+      "style": 1,
+      "name": "망각의 계곡 남쪽 방면에\n바이어스인의 마을이 있는 건 알아?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095101_MSG0011",
+      "style": 1,
+      "name": "실은 그곳에 강제 노동에\n시달리는 사람들이 있다고 해[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev095101_MSG0012",
+      "style": 1,
+      "name": "지구인도 노폰인도 아닌\n완전히 별개의 외계인이지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev095101_MSG0013",
+      "style": 1,
+      "name": "만약 그들을 구해서 우리 편으로 만든다면\n바이어스인에 관한 정보를 얻을 수 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev095101_MSG0014",
+      "style": 1,
+      "name": "거기에 그치지 않고 마 논인이나 노폰인처럼\n협력 관계를 맺게 될 가능성도 높아[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev095101_MSG0015",
+      "style": 1,
+      "name": "이런 기회를 놓칠 수는 없지 않겠어?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev095101_MSG0016",
+      "style": 1,
+      "name": "반담 사령관님이 주목한 인재답네\n좋은 대답이야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev095101_MSG0017",
+      "style": 1,
+      "name": "지도를 보면 알겠지만\n바이어스인 마을은 규모가 상당해\n분명 다수의 적이 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095101_MSG0018",
+      "style": 1,
+      "name": "하지만 잠입 루트도 몇 군데 있겠지\n침착하게 행동하면 분명 잘될 거야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095101_MSG0019",
+      "style": 1,
+      "name": "행운을 빌어[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095101_MSG0020",
+      "style": 1,
+      "name": "미지의 외계인이 있는 곳은\n망각의 계곡 남쪽 방면의\n드라이랜드 암굴 요새야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095101_MSG0021",
+      "style": 1,
+      "name": "어떻게든 그들을 구출해 줘![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095101_MSG0022",
+      "style": 1,
+      "name": "이자는…… 바이어스잖아!\n어째서 여기 있는 거지?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev095101_MSG0023",
+      "style": 1,
+      "name": "바이어스의 침입을 막지 못하다니……\n당장 애벌란시를 불러야 해![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095101_JNK0030",
+      "style": 4,
+      "name": "설명한다"
+    },
+    {
+      "$id": 29,
+      "label": "qev095101_SEL0031",
+      "style": 3,
+      "name": "그들은 적이 아니라고 설명한다"
+    },
+    {
+      "$id": 30,
+      "label": "qev095101_JNK0040",
+      "style": 4,
+      "name": "진정시킨다"
+    },
+    {
+      "$id": 31,
+      "label": "qev095101_SEL0041",
+      "style": 3,
+      "name": "냉정하게 상황을 판단해 달라고 말한다"
+    },
+    {
+      "$id": 32,
+      "label": "qev095101_MSG0024",
+      "style": 1,
+      "name": "……그로우스 밑에 2개의 민족이?\n그런 사정이 있었다니……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev095101_MSG0025",
+      "style": 1,
+      "name": "이 또한 매우 중요한 가치가 있는 정보다\n[ST:playername ]의 공적이군[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev095101_MSG0026",
+      "style": 1,
+      "name": "하지만 바이어스잖아! 이런 흉포한 녀석을……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev095101_MSG0027",
+      "style": 1,
+      "name": "스텔라 양, 기다리게\n이 바이어스는 호전적이지 않은 것 같군[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev095101_MSG0028",
+      "style": 1,
+      "name": "우리는 거목의 일족\n암굴의 일족과 서로 대립하는 민족이다[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev095101_MSG0029",
+      "style": 1,
+      "name": "……그로우스 밑에 2개의 민족이?\n그런 사정이 있었다니……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev095101_MSG0030",
+      "style": 1,
+      "name": "이 또한 매우 중요한 가치가 있는 정보다\n[ST:playername ]의 공적이군[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev095101_MSG0031",
+      "style": 1,
+      "name": "암굴의 일족과 거목의 일족……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev095101_MSG0032",
+      "style": 1,
+      "name": "그로우스 내부도\n여러모로 복잡한 모양이군[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev095101_MSG0033",
+      "style": 1,
+      "name": "모리스 행정장관님, 이런 표현은\n좋지 않을지도 모르지만……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev095101_MSG0034",
+      "style": 1,
+      "name": "거목의 일족분들에게는\n이용 가치가 있다고 생각합니다[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev095101_MSG0035",
+      "style": 1,
+      "name": "음, 맞는 말이야……\n그들의 이주를 허가하겠네[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev095101_MSG0036",
+      "style": 1,
+      "name": "나기와 다른 자들에게는 내가 설명해 두지\n필요한 절차를 진행하도록 하게[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev095101_MSG0037",
+      "style": 1,
+      "name": "거목의 혼과 지구인에게 감사하마아![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev095101_MSG0038",
+      "style": 1,
+      "name": "그 대신이라고 할 건 아니지만\n그로우스의 내부 정보를 알려 주었으면 하네[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev095101_MSG0039",
+      "style": 1,
+      "name": "거목의 일족 부흥을 위해서라면\n협력을 아끼지 않겠다아![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev095101_MSG0040",
+      "style": 1,
+      "name": "고맙군\n스텔라, 저들을 서포트해 주게[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev095101_MSG0041",
+      "style": 1,
+      "name": "네! 알겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev095101_MSG0042",
+      "style": 1,
+      "name": "저는 스텔라, 곤란한 일이 있으면\n언제든 말해 주세요…… 그……[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev095101_MSG0043",
+      "style": 1,
+      "name": "나의 이름은 세비 벨가자스\n긍지 높은 거목의 일족 족장이다아![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev095101_MSG0044",
+      "style": 1,
+      "name": "네, 세비 씨\nNLA에 오신 것을 환영합니다![ST:wait ]"
+    }
+  ]
+}

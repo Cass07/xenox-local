@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32090100_MSG0010",
+      "style": 0,
+      "name": "今回はホントにくたばったと思ったヨ！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32090100_MSG0020",
+      "style": 0,
+      "name": "生きてて良かったですも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32090100_MSG0030",
+      "style": 0,
+      "name": "ワンワンに感謝ですも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32090100_MSG0040",
+      "style": 0,
+      "name": "まったくだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32090100_MSG0050",
+      "style": 0,
+      "name": "あんたらが来てくれなかったら\nこうして話すことすらできなかった[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32090100_MSG0060",
+      "style": 0,
+      "name": "ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32090100_MSG0070",
+      "style": 0,
+      "name": "我ら同じ星で暮らす者同士　お互い様だ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32090100_MSG0080",
+      "style": 0,
+      "name": "怪我した挙げ句[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32090100_MSG0090",
+      "style": 0,
+      "name": "装置もなかったなんて　ついてないぜ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32090100_MSG0100",
+      "style": 0,
+      "name": "大丈夫だヨ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32090100_MSG0110",
+      "style": 0,
+      "name": "次の目星はついてるヨ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32090100_MSG0120",
+      "style": 0,
+      "name": "今度こそ見つかるヨ！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32090100_MSG0130",
+      "style": 0,
+      "name": "ほんとかよ　３回目だぞ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32090100_MSG0140",
+      "style": 0,
+      "name": "ノー・プロブレムだヨ！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32090100_MSG0150",
+      "style": 0,
+      "name": "先ほどまで生死の淵に立っていたというのに\n随分と気楽なことだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32090100_MSG0160",
+      "style": 0,
+      "name": "生きていればオールオッケーだヨ！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32090100_MSG0170",
+      "style": 0,
+      "name": "次行くヨ！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32090100_MSG0180",
+      "style": 0,
+      "name": "[ST:undisp ]はぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32090100_MSG0190",
+      "style": 0,
+      "name": "はははは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32090100_MSG0191",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "xs32090100_MSG0192",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "xs32090100_MSG0193",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "xs32090100_MSG0200",
+      "style": 0,
+      "name": "改めて礼を言うわ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32090100_MSG0210",
+      "style": 0,
+      "name": "彼らを救ってくれてありがとう[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32090100_MSG0220",
+      "style": 0,
+      "name": "殿下より地球人とは助け合えと命があった故な[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32090100_MSG0230",
+      "style": 0,
+      "name": "殿下[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32090100_MSG0240",
+      "style": 0,
+      "name": "私達の仲間を助けていただき\nありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32090100_MSG0250",
+      "style": 0,
+      "name": "礼には及ばん[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32090100_MSG0260",
+      "style": 0,
+      "name": "相身互いだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32090100_MSG0270",
+      "style": 0,
+      "name": "それにしても[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32090100_MSG0280",
+      "style": 0,
+      "name": "よもやヴォイドがここに現れようとはな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32090100_MSG0290",
+      "style": 0,
+      "name": "ヴォイドを知っているんですか？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32090100_MSG0300",
+      "style": 0,
+      "name": "ウィータは魂に近いヴォイドを\n受け入れるための器[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32090100_MSG0310",
+      "style": 0,
+      "name": "地球での戦いにおいても\nウィータに意識を入れグロウスを率いていた[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32090100_MSG0320",
+      "style": 0,
+      "name": "しかし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs32090100_MSG0330",
+      "style": 0,
+      "name": "地球消滅の混乱の中で\nヴォイドの意識はウィータを離れ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs32090100_MSG0340",
+      "style": 0,
+      "name": "その抜け殻は[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs32090100_MSG0350",
+      "style": 0,
+      "name": "そなたらの船がそうであったように\nミラに引き寄せられ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs32090100_MSG0360",
+      "style": 0,
+      "name": "落着していた[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs32090100_MSG0370",
+      "style": 0,
+      "name": "アルさん[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs32090100_MSG0380",
+      "style": 0,
+      "name": "この前話してた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs32090100_MSG0390",
+      "style": 0,
+      "name": "ああ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs32090100_MSG0400",
+      "style": 0,
+      "name": "狭間の世界から意識だけをウィータに\nつないでいたんじゃないかっていう推測とは[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs32090100_MSG0410",
+      "style": 0,
+      "name": "矛盾しないな[ST:wait ]"
+    }
+  ]
+}

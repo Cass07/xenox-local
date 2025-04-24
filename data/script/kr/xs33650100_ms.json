@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33650100_MSG0010",
+      "style": 0,
+      "name": "앗! 너도 무사했구나![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33650100_MSG0020",
+      "style": 0,
+      "name": "어? 나?\n응, 괜찮아, 괜찮아[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33650100_MSG0030",
+      "style": 0,
+      "name": "조명탄이 있어서 그걸 쏘고\n구조를 기다리고 있었어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33650100_MSG0040",
+      "style": 0,
+      "name": "소중한 돌이 어디론가 가 버렸는데\n그래서 조금 곤란했을 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33650100_MSG0050",
+      "style": 0,
+      "name": "이럴 줄 알았으면 자동 귀환 모드라도\n넣어 둘 걸 그랬어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33650100_MSG0060",
+      "style": 0,
+      "name": "……아니지, 이런 이야기 할 때가 아니야\n돌아갈 수 없으면 의미도 없고[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33650100_MSG0070",
+      "style": 0,
+      "name": "반드시 이겨서\n다 같이 돌아가자![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33650100_MSG0080",
+      "style": 0,
+      "name": "앗, 그래도 전투 데이터 정도는\n기록해 둬도 되지?[ST:wait ]"
+    }
+  ]
+}

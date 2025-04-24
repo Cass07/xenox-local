@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev102701_MSG0001",
+      "style": 1,
+      "name": "어디로 가겠습니까?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev102701_JNK0010",
+      "style": 4,
+      "name": "블레이드 에어리어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev102701_SEL0011",
+      "style": 3,
+      "name": "블레이드 에어리어로 가고 싶다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev102701_JNK0020",
+      "style": 4,
+      "name": "주택 에어리어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev102701_SEL0021",
+      "style": 3,
+      "name": "주택 에어리어로 가고 싶다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev102701_JNK0030",
+      "style": 4,
+      "name": "공업 에어리어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev102701_SEL0031",
+      "style": 3,
+      "name": "공업 에어리어로 가고 싶다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev102701_MSG0002",
+      "style": 1,
+      "name": "블레이드 에어리어행 출발합니다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev102701_MSG0003",
+      "style": 1,
+      "name": "주택 에어리어행 출발합니다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev102701_MSG0004",
+      "style": 1,
+      "name": "공업 에어리어행 출발합니다[ST:wait ]"
+    }
+  ]
+}

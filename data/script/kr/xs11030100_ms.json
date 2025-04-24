@@ -1,0 +1,306 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11030100_MSG0001",
+      "style": 0,
+      "name": "자, 무슨 일인지 자세히 설명해 줘[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11030100_MSG0002",
+      "style": 0,
+      "name": "그래……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs11030100_MSG0003",
+      "style": 0,
+      "name": "라이프의 좌표는 데이터 프로브의 정보와\n흰고래 낙하 당시의 궤도 요소 등을 종합하여[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs11030100_MSG0004",
+      "style": 0,
+      "name": "프런티어넷이 분석해\n대강의 위치를 도출하고 있다네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs11030100_MSG0005",
+      "style": 0,
+      "name": "이건 다들 알고 있겠지?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs11030100_MSG0006",
+      "style": 0,
+      "name": "데이터 프로브의 수가 늘어서\n분석 정밀도도 상당히 올라갔다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11030100_MSG0007",
+      "style": 0,
+      "name": "덕분에, 드디어 최우선 목표물……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11030100_MSG0008",
+      "style": 0,
+      "name": "다시 말해 라이프의 본체\n센트럴 라이프의 좌표를 알아냈다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11030100_MSG0009",
+      "style": 0,
+      "name": "네에!?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs11030100_MSG0010",
+      "style": 0,
+      "name": "모모!?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs11030100_MSG0011",
+      "style": 0,
+      "name": "그게 정말이야?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11030100_MSG0012",
+      "style": 0,
+      "name": "그래, 틀림없는 사실이다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs11030100_MSG0013",
+      "style": 0,
+      "name": "린 씨, 해냈다모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs11030100_MSG0014",
+      "style": 0,
+      "name": "응, 그러면 서둘러야겠네[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs11030100_MSG0015",
+      "style": 0,
+      "name": "다만……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs11030100_JNK0010",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 17,
+      "label": "xs11030100_SEL0011",
+      "style": 3,
+      "name": "라오를 언급한다"
+    },
+    {
+      "$id": 18,
+      "label": "xs11030100_JNK0020",
+      "style": 4,
+      "name": "침묵"
+    },
+    {
+      "$id": 19,
+      "label": "xs11030100_SEL0021",
+      "style": 3,
+      "name": "가만히 다음 말을 기다린다"
+    },
+    {
+      "$id": 20,
+      "label": "xs11030100_MSG0016",
+      "style": 0,
+      "name": "어째서 라오 씨 얘기를 하세요?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs11030100_MSG0017",
+      "style": 0,
+      "name": "그런 거구나[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs11030100_MSG0018",
+      "style": 0,
+      "name": "설마, 이미 망가진 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs11030100_MSG0019",
+      "style": 0,
+      "name": "그랬다면 우리도 활동을 멈췄겠지[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs11030100_MSG0020",
+      "style": 0,
+      "name": "앗, 그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs11030100_MSG0021",
+      "style": 0,
+      "name": "라오……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs11030100_MSG0021_2",
+      "style": 0,
+      "name": "그런 거구나, 반담[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs11030100_MSG0022",
+      "style": 0,
+      "name": "그래, 녀석은 분석 중이던 단말기를 탈취했다\n꼼꼼하게도 백업 데이터까지 삭제했지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs11030100_JNK0030",
+      "style": 4,
+      "name": "후회"
+    },
+    {
+      "$id": 29,
+      "label": "xs11030100_SEL0031",
+      "style": 3,
+      "name": "라오를 쐈어야 했다며 아쉬워한다"
+    },
+    {
+      "$id": 30,
+      "label": "xs11030100_JNK0040",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 31,
+      "label": "xs11030100_SEL0041",
+      "style": 3,
+      "name": "다시 분석할 수는 없는지 묻는다"
+    },
+    {
+      "$id": 32,
+      "label": "xs11030100_MSG0024",
+      "style": 0,
+      "name": "당시의 판단은 잘못되지 않았어[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs11030100_MSG0025",
+      "style": 0,
+      "name": "라오가 몸 어디에\n단말기를 숨겼는지 모르잖아[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs11030100_MSG0026",
+      "style": 0,
+      "name": "만에 하나 데이터에 맞기라도 하면\n처음부터 다시 분석해야 해[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs11030100_MSG0027",
+      "style": 0,
+      "name": "하지만 그랬다가는 가동 한계 시간이 지나고 말겠지[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs11030100_MSG0028",
+      "style": 0,
+      "name": "그 말대로다[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs11030100_MSG0029",
+      "style": 0,
+      "name": "물론, 이미 진행 중일세[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs11030100_MSG0030",
+      "style": 0,
+      "name": "하지만 좌표 데이터는\n막대한 축적 데이터로부터 도출된 정보다[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs11030100_MSG0031",
+      "style": 0,
+      "name": "시간을 들이면 동일한 결과를 얻을 수 있겠지\n하지만……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs11030100_MSG0032",
+      "style": 0,
+      "name": "분석 결과를 도출하기 전에\n가동 한계 시간에 도달하고 말겠네요[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs11030100_MSG0033",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs11030100_MSG0034",
+      "style": 0,
+      "name": "방법은 하나뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs11030100_MSG0035",
+      "style": 0,
+      "name": "라오 씨를 만나서 데이터 단말기를 돌려받는 것[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs11030100_MSG0036",
+      "style": 0,
+      "name": "그는 아마도 백목의 대륙 북쪽에 있다고 하는\n그로우스의 본거지로 갔을 거야[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs11030100_MSG0037",
+      "style": 0,
+      "name": "서둘러 쫓아가자[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs11030100_MSG0038",
+      "style": 0,
+      "name": "그 외계인, 가 델그가 말했던 장소네요[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs11030100_MSG0039",
+      "style": 0,
+      "name": "항상 신세만 지고 있지만 이번에도 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs11030100_MSG0040",
+      "style": 0,
+      "name": "라오 녀석, 대체 뭘 하려는 건지[ST:wait ]"
+    }
+  ]
+}

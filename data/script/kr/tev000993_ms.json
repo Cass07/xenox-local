@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000993_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]인가……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000993_MSG0002",
+      "style": 1,
+      "name": "지금 불성실한 자를 바로잡는 중일세[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000993_MSG0003",
+      "style": 1,
+      "name": "이 녀석은 NLA 시민의 역할도 다하지 않고\n그저 불평불만만 입에 담더군\n그래서 내가 일갈을 날려 주었네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000993_MSG0004",
+      "style": 1,
+      "name": "그랬더니 배짱은 있는지 내게 덤벼들더군[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000993_MSG0005",
+      "style": 1,
+      "name": "그 의기는 훌륭하다![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000993_MSG0006",
+      "style": 1,
+      "name": "라고 말하고 싶지만\n힘이 전혀 갖추어지지 않았어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000993_MSG0007",
+      "style": 1,
+      "name": "자신에게 주어진 역할의 무게를\n이해할 수 없다면……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000993_MSG0008",
+      "style": 1,
+      "name": "한 번쯤 블레이드가 되어\n밖에서 생사를 걸고 싸우는 것도\n제법 명안이라고 생각하지 않나?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000993_MSG0009",
+      "style": 1,
+      "name": "이 NLA에서 사는 것이\n얼마나 감사한 일인지\n이해할 수 있게 될 것이야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000993_JNK0010",
+      "style": 4,
+      "name": "동의"
+    },
+    {
+      "$id": 11,
+      "label": "tev000993_SEL0011",
+      "style": 3,
+      "name": "참으로 명안이라며\n보제에게 동의한다"
+    },
+    {
+      "$id": 12,
+      "label": "tev000993_JNK0020",
+      "style": 4,
+      "name": "반대"
+    },
+    {
+      "$id": 13,
+      "label": "tev000993_SEL0021",
+      "style": 3,
+      "name": "이 시민이 죽을지도 모른다며\n걱정한다"
+    },
+    {
+      "$id": 14,
+      "label": "tev000993_MSG0010",
+      "style": 1,
+      "name": "역시 그대도 같은 생각인가[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000993_MSG0011",
+      "style": 1,
+      "name": "자기 자신을 알게 되면\n삶의 의미도 발견할 수 있을 테지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000993_MSG0012",
+      "style": 1,
+      "name": "설령 전장에 나서지 않더라도\n해야 할 일과 할 수 있는 일은 얼마든지 있어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000993_MSG0013",
+      "style": 1,
+      "name": "모든 것은 오직 마음가짐에 달렸으니\n어떻게 받아들이는가에 따라 변화할 수 있네[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000993_MSG0014",
+      "style": 1,
+      "name": "그런 걱정은 하지 말게\n내가 잘 보고 있을 것이니[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000993_MSG0015",
+      "style": 1,
+      "name": "타인의 입장에 서서 제 모습을 보면\n진정한 자기 자신을 알 수 있네[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000993_MSG0016",
+      "style": 1,
+      "name": "이런 곳에서 불평을 입에 담는 것도\n그저 자신에게 무언가 바꿀 힘이 없으니\n남에게 투정이나 부리고 싶어서겠지[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000993_MSG0017",
+      "style": 1,
+      "name": "설령 전장에 나서지 않더라도\n해야 할 일과 할 수 있는 일은 얼마든지 있어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000993_MSG0018",
+      "style": 1,
+      "name": "모든 것은 오직 마음가짐에 달렸으니\n어떻게 받아들이는가에 따라 변화할 수 있네[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000993_MSG0019",
+      "style": 1,
+      "name": "나의 일갈을 들은 순간부터\n이 녀석은 나의 제자나 마찬가지일세[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000993_MSG0020",
+      "style": 1,
+      "name": "흠……\n그대는 이 녀석의 첫 임무로\n무엇이 알맞다고 보는가?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000993_JNK0030",
+      "style": 4,
+      "name": "애벌란시"
+    },
+    {
+      "$id": 26,
+      "label": "tev000993_SEL0031",
+      "style": 3,
+      "name": "오버드를 쓰러뜨리는 임무"
+    },
+    {
+      "$id": 27,
+      "label": "tev000993_JNK0040",
+      "style": 4,
+      "name": "컬렉피디언"
+    },
+    {
+      "$id": 28,
+      "label": "tev000993_SEL0041",
+      "style": 3,
+      "name": "컬렉션 아이템을 수집하는 임무"
+    },
+    {
+      "$id": 29,
+      "label": "tev000993_JNK0050",
+      "style": 4,
+      "name": "컴패니언"
+    },
+    {
+      "$id": 30,
+      "label": "tev000993_SEL0051",
+      "style": 3,
+      "name": "NLA의 질서를 지키는 임무"
+    },
+    {
+      "$id": 31,
+      "label": "tev000993_MSG0021",
+      "style": 1,
+      "name": "훌륭하군……\n초보자에게도 엄격해[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000993_MSG0022",
+      "style": 1,
+      "name": "조금 위험한 임무지만\n내가 최선을 다해 지원하도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000993_MSG0023",
+      "style": 1,
+      "name": "공포를 체험하는 것으로\n시야도 더욱 넓어질 테니 말일세[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000993_MSG0024",
+      "style": 1,
+      "name": "흠……\n정확한 판단이로군[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000993_MSG0025",
+      "style": 1,
+      "name": "비교적 위험이 적고\nNLA 주변에서도 달성할 수 있지[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000993_MSG0026",
+      "style": 1,
+      "name": "도저히 대항할 수 없을 원시 생물과\n조우할 때는 도망치면 그만이고 말일세[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000993_MSG0027",
+      "style": 1,
+      "name": "마음이 여리구먼……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000993_MSG0028",
+      "style": 1,
+      "name": "질서가 무엇인지 모르는 인간이\n질서를 지키는 임무라니 아니 될 일이지[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000993_MSG0029",
+      "style": 1,
+      "name": "인터셉터 임무를 받는 걸로 하겠네[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000993_MSG0030",
+      "style": 1,
+      "name": "목숨을 거는 경험을 하면\n시야도 더욱 넓어질 테니 말일세[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000993_MSG0031",
+      "style": 1,
+      "name": "그러면 메인터넌스 센터에 데리고 가서\n이 녀석을 치료하고 블레이드 임무를\n시켜 보도록 하겠네[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000993_MSG0032",
+      "style": 1,
+      "name": "후후후\n이 녀석이 어떻게 성장할지 기대되는군[ST:wait ]"
+    }
+  ]
+}

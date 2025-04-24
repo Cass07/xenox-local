@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091903_MSG0002",
+      "style": 0,
+      "name": "어때? 어떻게 됐어?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091903_MSG0003",
+      "style": 0,
+      "name": "별로 좋지는 않더라, 아직 판단하기는 어려우니까\n다른 팀에게도 테스트를 맡겨 볼 생각이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091903_MSG0004",
+      "style": 0,
+      "name": "뭐어~? 계획이 동결될지도 모른다는 뜻이야~?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091903_MSG0005",
+      "style": 0,
+      "name": "제법 괜찮은 느낌이었는데~[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091903_MSG0006",
+      "style": 0,
+      "name": "유감이기는 해……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091903_MSG0007",
+      "style": 0,
+      "name": "하지만 테스트 자체는 잘 진행됐어\n아크세나도 신입 테스터도 수고했고[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091903_MSG0008",
+      "style": 0,
+      "name": "만약 계획이 동결된다면, 내 설계 탓이야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091903_MSG0009",
+      "style": 0,
+      "name": "티카…… 포기하지 말고 열심히 하자![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091903_MSG0010",
+      "style": 0,
+      "name": "뭐, 그래야지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091903_MSG0011",
+      "style": 0,
+      "name": "가능하면 다음에는 돌 웨펀 만들어 줘![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091903_MSG0012",
+      "style": 0,
+      "name": "1나노미터 정도는 고려해 볼게[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091903_MSG0013",
+      "style": 0,
+      "name": "전혀 만들어 줄 생각 없구나~[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091903_MSG0014",
+      "style": 0,
+      "name": "아무렴 어때[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091903_MSG0015",
+      "style": 0,
+      "name": "이번 일로 새로운 파트너도 생겼으니까\n앞으로도 함께 열심히 하자!![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091903_MSG0015_m",
+      "style": 0,
+      "name": "이번 일로 새로운 파트너도 생겼으니까\n앞으로도 함께 열심히 하자!![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091903_MSG0015_f",
+      "style": 0,
+      "name": "이번 일로 새로운 파트너도 생겼으니까\n앞으로도 함께 열심히 하자!![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091903_MSG0017",
+      "style": 0,
+      "name": "어때? 어떻게 됐어?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091903_MSG0018",
+      "style": 0,
+      "name": "예상 밖의 적대적 생물까지\n상대해 줘서 좋은 데이터를 얻었네[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091903_MSG0019",
+      "style": 0,
+      "name": "그 덕분에 확신이 생겼어, 이 무기는……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091903_MSG0020",
+      "style": 0,
+      "name": "최고 걸작?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091903_MSG0021",
+      "style": 0,
+      "name": "전혀 가망이 없어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091903_MSG0022",
+      "style": 0,
+      "name": "그럴 수가~[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091903_MSG0023",
+      "style": 0,
+      "name": "이번 분기 연구 예산 대부분을 쏟아붓고\n희소한 마테리얼도 아낌없이 투입했지만……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091903_MSG0024",
+      "style": 0,
+      "name": "그에 걸맞은 효과를 발휘하지 못했어\n쉽게 말해 비용 대비 효과가 나쁘다는 뜻이야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091903_MSG0025",
+      "style": 0,
+      "name": "이 램제트는 탈락 결정이네\n상당한 투자를 했지만 방치해도 쓸모가 없으니까[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091903_MSG0026",
+      "style": 0,
+      "name": "기왕 이렇게 된 거, 신입 테스터에게 증정할게[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091903_MSG0027",
+      "style": 0,
+      "name": "하아~ 유감이다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091903_MSG0028",
+      "style": 0,
+      "name": "이럴 때도 있는 법이야\n너희가 잘못한 것도 아니고[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091903_MSG0029",
+      "style": 0,
+      "name": "잘못된 건 내 설계지[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091903_MSG0030",
+      "style": 0,
+      "name": "티카! 다음에야말로 좋은 무기를 만들자[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091903_MSG0031",
+      "style": 0,
+      "name": "뭐, 그래야지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091903_MSG0032",
+      "style": 0,
+      "name": "가능하면 돌 웨펀 만들어 줘![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091903_MSG0033",
+      "style": 0,
+      "name": "1나노미터 정도는 고려해 볼게[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091903_MSG0034",
+      "style": 0,
+      "name": "전혀 만들어 줄 생각 없구나~[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091903_MSG0035",
+      "style": 0,
+      "name": "아무렴 어때[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091903_MSG0036",
+      "style": 0,
+      "name": "이번 일로 새로운 파트너도 생겼으니까\n앞으로도 함께 열심히 하자!![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091903_MSG0036_m",
+      "style": 0,
+      "name": "이번 일로 새로운 파트너도 생겼으니까\n앞으로도 함께 열심히 하자!![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091903_MSG0036_f",
+      "style": 0,
+      "name": "이번 일로 새로운 파트너도 생겼으니까\n앞으로도 함께 열심히 하자!![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091903_MSG0037",
+      "style": 1,
+      "name": "아, 혹시 몰라서 말해 두는 건데\n이쪽이 건네준 램제트를 장비하고 싸우지 않으면\n테스트 데이터를 수집할 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091903_MSG0038",
+      "style": 1,
+      "name": "장비했는지 제대로 확인한 후에\n원시 생물과 싸워 줘[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091903_MSG0039",
+      "style": 0,
+      "name": "어서 와, 수고했어\n램제트를 반납해 줄래?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091903_MSG0040",
+      "style": 0,
+      "name": "고마워[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091903_MSG0040_2",
+      "style": 0,
+      "name": "테스트 데이터 분석은 대강 끝났어[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091903_MSG0041",
+      "style": 1,
+      "name": "어서 와, 수고했어\n그러면 일단 그 램제트를 장비에서\n해제하고 나에게 돌려줄래?[ST:wait ]"
+    }
+  ]
+}

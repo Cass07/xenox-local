@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001193_MSG0001",
+      "style": 1,
+      "name": "어머, [ST:playername ]\n이렇게 만날 줄이야[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001193_MSG0002",
+      "style": 1,
+      "name": "당신, 차에 관심 있어?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001193_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 4,
+      "label": "tev001193_SEL0011",
+      "style": 3,
+      "name": "관심이 있다고 대답한다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001193_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 6,
+      "label": "tev001193_SEL0021",
+      "style": 3,
+      "name": "관심이 없다고 대답한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001193_MSG0003",
+      "style": 1,
+      "name": "그럴 것 같았어\n차를 좋아하는 누군가와 눈빛이 똑같거든[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001193_MSG0004",
+      "style": 1,
+      "name": "나도 해박한 건 아니지만\n차에 대해 조금은 알아[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001193_MSG0005",
+      "style": 1,
+      "name": "고무 타이어, 가솔린 엔진……\n슈퍼차저, 하드톱[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001193_MSG0006",
+      "style": 1,
+      "name": "그런 용어가 난무하는 이야기를 들으며\n클래식 카 조수석에 자주 타고는 했거든[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001193_MSG0007",
+      "style": 1,
+      "name": "그래……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001193_MSG0008",
+      "style": 1,
+      "name": "나도 해박한 건 아니지만\n지구에서 보던 차와는 조금 다른 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001193_MSG0009",
+      "style": 1,
+      "name": "고무 타이어, 가솔린 엔진……\n슈퍼차저, 하드톱[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001193_MSG0010",
+      "style": 1,
+      "name": "그런 용어가 난무하는 이야기를 들으며\n클래식 카 조수석에 자주 타고는 해서\n조금은 아는 게 있거든[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001193_MSG0011",
+      "style": 1,
+      "name": "엔진이 자주 꺼지던\n상당한 구식 형태의 차였는데……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001193_MSG0012",
+      "style": 1,
+      "name": "그런 모습에 오히려 역사가 느껴졌달까\n차라는 게 멋진 물건으로 보였어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001193_JNK0030",
+      "style": 4,
+      "name": "지식을 자랑한다"
+    },
+    {
+      "$id": 18,
+      "label": "tev001193_SEL0031",
+      "style": 3,
+      "name": "최초의 차는 증기 기관이었다고\n엘마에게 가르쳐 준다"
+    },
+    {
+      "$id": 19,
+      "label": "tev001193_JNK0040",
+      "style": 4,
+      "name": "제안한다"
+    },
+    {
+      "$id": 20,
+      "label": "tev001193_SEL0041",
+      "style": 3,
+      "name": "차를 사게 되면\n드라이브하자고 제안한다"
+    },
+    {
+      "$id": 21,
+      "label": "tev001193_MSG0013",
+      "style": 1,
+      "name": "그래……?\n아는 게 많구나[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001193_MSG0014",
+      "style": 1,
+      "name": "하긴 인류가 가솔린을 써 보자는 생각을\n갑자기 떠올리지는 않았겠지[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001193_MSG0015",
+      "style": 1,
+      "name": "기술이란 익숙한 힘을 활용하면서\n진보해 나가는 법[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001193_MSG0016",
+      "style": 1,
+      "name": "지금 도시를 달리는 자동차가\n언젠가 클래식 카라고 불릴 만큼 오래\n지구인이 이 별에서 번영하면 좋겠네[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001193_MSG0017",
+      "style": 1,
+      "name": "그렇네…… 그러려면 일단\n클래식 카가 다시 생산되어야 해[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001193_MSG0018",
+      "style": 1,
+      "name": "라이프의 데이터베이스에 정보만 있다면\n옛날 자동차도 생산할 수 있지 않을까?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001193_MSG0019",
+      "style": 1,
+      "name": "지금은 어렵겠지만\n언젠가 현실이 될 수 있게 힘내자\n나도 기대하고 있을게[ST:wait ]"
+    }
+  ]
+}

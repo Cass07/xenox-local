@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05130100_MSG0001",
+      "style": 0,
+      "name": "해냈다모!\n역시 대단하다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs05130100_MSG0002",
+      "style": 0,
+      "name": "이런![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs05130100_MSG0003",
+      "style": 0,
+      "name": "괜찮으세요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs05130100_MSG0005",
+      "style": 0,
+      "name": "모모모, 로봇이었냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs05130100_MSG0005_m",
+      "style": 0,
+      "name": "모모모, 로봇이었냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs05130100_MSG0005_f",
+      "style": 0,
+      "name": "모모모, 로봇이었냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs05130100_MSG0006",
+      "style": 0,
+      "name": "신경 회로로 가는 피드백을 차단할게요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs05130100_MSG0007",
+      "style": 0,
+      "name": "통증은 어때요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs05130100_MSG0008",
+      "style": 0,
+      "name": "당신 설마……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs05130100_MSG0009",
+      "style": 0,
+      "name": "자신의 몸이 B.B.라는 것까지\n잊어버렸던 거야?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs05130100_MSG0010",
+      "style": 0,
+      "name": "생체 순환액이 새고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs05130100_MSG0010_m",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "xs05130100_MSG0010_f",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "xs05130100_MSG0011",
+      "style": 0,
+      "name": "아무튼 응급 처치를 할게요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs05130100_MSG0012",
+      "style": 0,
+      "name": "엘마 씨[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs05130100_MSG0013",
+      "style": 0,
+      "name": "NLA의 B.B. 메인터넌스 센터에\n연락 부탁드려요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs05130100_MSG0014",
+      "style": 0,
+      "name": "085 타입 B.B. 상완 스페어와\n수액 준비를![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs05130100_MSG0015",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs05130100_MSG0016",
+      "style": 0,
+      "name": "본격적인 재생 작업은 NLA에서 할 테니까\n그때까지 자고 계세요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs05130100_MSG0017",
+      "style": 0,
+      "name": "괜찮아요, 걱정하지 마세요\n반드시 살리겠어요![ST:wait ]"
+    }
+  ]
+}

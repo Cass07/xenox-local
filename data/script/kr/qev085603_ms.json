@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085603_MSG0001",
+      "style": 0,
+      "name": "엘마 씨, 이 숲에 원시 생물이\n이렇게나 많았나요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085603_MSG0002",
+      "style": 0,
+      "name": "눈에 띄게 늘어났네\n이 식물과 관계가 있는 걸까?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085603_MSG0003",
+      "style": 0,
+      "name": "데이터 수집 시작합니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085603_MSG0004",
+      "style": 0,
+      "name": "이걸로 네 번째도 완료예요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085603_MSG0005",
+      "style": 0,
+      "name": "데이터 수집은 끝났지만……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085603_MSG0006",
+      "style": 0,
+      "name": "아무래도 임무는 끝이 아닌 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085603_MSG0007",
+      "style": 0,
+      "name": "더그 씨네도……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085603_MSG0008",
+      "style": 0,
+      "name": "그래, 이 적에게 공격당하고 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085603_MSG0009",
+      "style": 0,
+      "name": "덤벼라모!\n린 씨네가 상대해 줄 거다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085603_MSG0010",
+      "style": 0,
+      "name": "떠넘기지 좀 마![ST:wait ]"
+    }
+  ]
+}

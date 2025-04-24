@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092301_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―やぁ　ヒメリ\n少しばかり　時間を貰ってもいいか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092301_MSG0002",
+      "style": 0,
+      "name": "あら先輩　なんでしょう？\n困りごとがあれば　なんでも言ってください[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092301_MSG0003",
+      "style": 0,
+      "name": "いやな　ここのところ\n連続してブレイドの失踪事件が起きてるんだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092301_MSG0004",
+      "style": 0,
+      "name": "それで　ついに３人目の犠牲者が出たところで\n不思議な共通点が見つかってな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092301_MSG0005",
+      "style": 0,
+      "name": "というのも　その３人[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092301_MSG0006",
+      "style": 0,
+      "name": "ハンス　エルバート　ティビーは\n皆　ここの常連だって話じゃないか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092301_MSG0007",
+      "style": 0,
+      "name": "えっ！？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092301_MSG0008",
+      "style": 0,
+      "name": "確かに[ST:wide ]―\n良くご相談に来てくださってましたが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092301_MSG0009",
+      "style": 0,
+      "name": "ヒメリ　もし　何か手がかりになりそうな\nことを知ってれば　教えてくれないか？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092301_MSG0010",
+      "style": 0,
+      "name": "ごめんなさい\n最近はオルネラさんに任せっきりなんです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092301_MSG0011",
+      "style": 0,
+      "name": "他の任務で外に出ることも多かったので[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092301_MSG0012",
+      "style": 0,
+      "name": "そういや　いつもの助手のおばちゃんは\nいないみたいだな[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092301_MSG0013",
+      "style": 0,
+      "name": "ええ　なんでも身体の調子が\nすぐれないらしくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092301_MSG0014",
+      "style": 0,
+      "name": "そうか[ST:wide ]―　それならしょうがないな\nまっ　何かわかったら教えてくれよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092301_MSG0015",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092301_MSG0016",
+      "style": 0,
+      "name": "[ST:wide ]―すみません\nお願いを言ってもいいでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092301_MSG0017",
+      "style": 0,
+      "name": "この事件　私達の方でも調査してみませんか？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092301_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 19,
+      "label": "qev092301_SEL0011",
+      "style": 3,
+      "name": "調査しようと頷く"
+    },
+    {
+      "$id": 20,
+      "label": "qev092301_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 21,
+      "label": "qev092301_SEL0021",
+      "style": 3,
+      "name": "自分達の仕事ではないと諭す"
+    },
+    {
+      "$id": 22,
+      "label": "qev092301_MSG0018",
+      "style": 0,
+      "name": "ありがとうございます[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092301_MSG0019",
+      "style": 0,
+      "name": "私[ST:wide ]―　親しい人の失踪なんて聞くと[ST:wide ]―\n昔のことを思い出してしまって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092301_MSG0020",
+      "style": 0,
+      "name": "多分　このままじゃ\n他の任務にも集中できなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092301_MSG0021",
+      "style": 0,
+      "name": "すみません[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092301_MSG0022",
+      "style": 0,
+      "name": "私[ST:wide ]―親しい人の失踪なんて聞くと[ST:wide ]―\n昔のことを思い出してしまって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092301_MSG0023",
+      "style": 0,
+      "name": "多分　このままじゃ\n他の任務にも集中できなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092301_JNK0030",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 29,
+      "label": "qev092301_SEL0031",
+      "style": 3,
+      "name": "ヒメリの過去について尋ねる"
+    },
+    {
+      "$id": 30,
+      "label": "qev092301_JNK0040",
+      "style": 4,
+      "name": "応援"
+    },
+    {
+      "$id": 31,
+      "label": "qev092301_SEL0041",
+      "style": 3,
+      "name": "落ち込んだ様子のヒメリを励ます"
+    },
+    {
+      "$id": 32,
+      "label": "qev092301_MSG0024",
+      "style": 0,
+      "name": "こんな話　人に話すことじゃないですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092301_MSG0025",
+      "style": 0,
+      "name": "[ST:wide ]―私　みなしごだったんです\nそれで幼い頃　小さな教会に引き取られました[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092301_MSG0026",
+      "style": 0,
+      "name": "そこでですね　父となり教師となり\n私を育ててくれた神父様がいたのです[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092301_MSG0027",
+      "style": 0,
+      "name": "しかし　お父様はある日[ST:wide ]―\n突然姿を消し　命亡き姿で戻って来ました[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092301_MSG0028",
+      "style": 0,
+      "name": "理不尽な父の死を前にして\nただ震えて　祈ることしかできなかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092301_MSG0029",
+      "style": 0,
+      "name": "私　もうあんな思いはしたくない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092301_MSG0030",
+      "style": 0,
+      "name": "だから　この事件\nなんとしても解決したいんです[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092301_MSG0031",
+      "style": 0,
+      "name": "いつも　ありがとうございます[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092301_MSG0032",
+      "style": 0,
+      "name": "なんだか[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092301_MSG0032_2",
+      "style": 0,
+      "name": "あなたにそうやって励ましてもらうと[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092301_MSG0033",
+      "style": 0,
+      "name": "お父様と暮らしていた時のことを思い出します[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092301_MSG0034",
+      "style": 0,
+      "name": "私が　一人で落ち込んでいると\n温かいココアを持ってやって来て[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092301_MSG0035",
+      "style": 0,
+      "name": "優しく声をかけてくれました[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092301_MSG0036",
+      "style": 0,
+      "name": "私も一生懸命頑張りますから\nなんとしてもこの事件　解決しましょう[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092301_MSG0041",
+      "style": 0,
+      "name": "[ST:wide ]―それではまずは聞き込みですね[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092301_MSG0042",
+      "style": 0,
+      "name": "街の人の噂に耳を傾け\n行方不明者の情報を集めましょう[ST:wait ]"
+    }
+  ]
+}

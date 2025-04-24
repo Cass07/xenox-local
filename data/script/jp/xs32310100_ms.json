@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32310100_MSG0010",
+      "style": 0,
+      "name": "こんなにたくさんの遺伝子情報を\n集められたのは[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32310100_MSG0020",
+      "style": 0,
+      "name": "エルマチームの皆さんのおかげです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32310100_MSG0030",
+      "style": 0,
+      "name": "ありがとうございました[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32310100_MSG0040",
+      "style": 0,
+      "name": "私　ＮＬＡに戻ります[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32310100_MSG0050",
+      "style": 0,
+      "name": "本当ですか！？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32310100_MSG0060",
+      "style": 0,
+      "name": "はい　遺伝子情報を集めている時に\n聞こえてきたんです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32310100_MSG0070",
+      "style": 0,
+      "name": "ここを育んで来た者達の声が[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32310100_MSG0080",
+      "style": 0,
+      "name": "つなぐことが育むことだって[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32310100_JNK0010",
+      "style": 4,
+      "name": "同意"
+    },
+    {
+      "$id": 10,
+      "label": "xs32310100_SEL0010",
+      "style": 3,
+      "name": "確かに言っていたとうなずく"
+    },
+    {
+      "$id": 11,
+      "label": "xs32310100_MSG0090",
+      "style": 0,
+      "name": "私には聞こえなかったですけど\n素敵な言葉ですね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32310100_JNK0020",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 13,
+      "label": "xs32310100_SEL0020",
+      "style": 3,
+      "name": "毒を吸ったのかと心配する"
+    },
+    {
+      "$id": 14,
+      "label": "xs32310100_MSG0100",
+      "style": 0,
+      "name": "違うわ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32310100_MSG0110",
+      "style": 0,
+      "name": "彼は　誰よりもこの星を見て聞いてきた[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32310100_MSG0120",
+      "style": 0,
+      "name": "声が聞こえても不思議じゃない[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32310100_MSG0130",
+      "style": 0,
+      "name": "つなぐことが育むこと　か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32310100_MSG0140",
+      "style": 0,
+      "name": "確かにこの世界は消滅しても[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32310100_MSG0145",
+      "style": 0,
+      "name": "次の世界で生まれれば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32310100_MSG0150",
+      "style": 0,
+      "name": "つなげたいな[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32310100_MSG0160",
+      "style": 0,
+      "name": "はい　必ずつなげてみせます[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32310100_MSG0170",
+      "style": 0,
+      "name": "うおっと[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32310100_MSG0180",
+      "style": 0,
+      "name": "なんだ　こいつ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32310100_MSG0190",
+      "style": 0,
+      "name": "ここの遺伝子情報を集めた時に\n縄張りに入ってしまったのかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32310100_MSG0200",
+      "style": 0,
+      "name": "ここは　任せてあなたはＮＬＡに[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32310100_MSG0210",
+      "style": 0,
+      "name": "分かりました[ST:wait ]"
+    }
+  ]
+}

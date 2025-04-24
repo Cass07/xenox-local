@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev036501_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 2,
+      "label": "tev036501_SEL0011",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev036501_JNK0020",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 4,
+      "label": "tev036501_SEL0021",
+      "style": 3,
+      "name": "噂話を聞く[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev036501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev036501_SEL0031",
+      "style": 3,
+      "name": "スコードリワードについて\n聞く[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev036501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev036501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev036501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev036501_SEL0041",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev036501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev036501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev036501_SEL1021",
+      "style": 3,
+      "name": "噂話を聞く"
+    },
+    {
+      "$id": 14,
+      "label": "tev036501_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev036501_MSG0002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev036501_MSG0003",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev036501_MSG0004",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev036501_MSG0008",
+      "style": 1,
+      "name": "ダゼベノ君のカントク\nいつか事故っちゃいそうな人なんだってネ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev036501_MSG0009",
+      "style": 1,
+      "name": "あっ　ダゼベノ君ってのは\nすぐそこにある　廃棄物処理槽で\n働いてるんだけどネ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev036501_MSG0010",
+      "style": 1,
+      "name": "カントクから　テキカクなシジがこなくて\nダゼベノ君　ずーっと忙しいんだって[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev036501_MSG0011",
+      "style": 1,
+      "name": "ピリピリなカントクも辛いけど\nテキトーなカントクってのも　大変なのネ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev036501_MSG0017",
+      "style": 1,
+      "name": "スコードさんが　がんばってくれると\n自分にも報酬がもらえるの知ってた？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev036501_MSG0018",
+      "style": 1,
+      "name": "……えっ？　スコードさんって\n人の名前じゃなかったノ！？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev036501_MSG0019",
+      "style": 1,
+      "name": "サボってても助けてくれる\nみんなのお友達かと思ってたワ……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev036501_MSG0020",
+      "style": 1,
+      "name": "ジュビエタ　勘違いが多いって\nサマーニャカントクにまた怒られちゃうヨ……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev036501_MSG0025",
+      "style": 1,
+      "name": "ブレイドさん達は　スカウトしたお友達から\n素敵なメダルをもらえるんでショ？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev036501_MSG0026",
+      "style": 1,
+      "name": "いいなぁ……ジュビエタも\nサマーニャカントクに　褒められながら\nもらいたいヨ……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev036501_MSG0027",
+      "style": 1,
+      "name": "えっ？　あれってお友達からじゃなくて\nブレイド本部からもらうノ？[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev036501_MSG0028",
+      "style": 1,
+      "name": "なあんだ　じゃあブレイド本部へ行って\nくださーいって言えば……ダメ？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev036501_MSG1001",
+      "style": 1,
+      "name": "ダゼベノ君のカントク……\nついに事故っちゃったみたいネ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev036501_MSG1002",
+      "style": 1,
+      "name": "バイアスさんや　ザルボッガさんを\n巻き込んでの　大騒ぎだったみたい[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev036501_MSG1003",
+      "style": 1,
+      "name": "お仕事終わらないっていって\nピザも食べずに　ずーっと作業してたノヨ\n信じられナーイ！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev036501_MSG1004",
+      "style": 1,
+      "name": "ダゼベノ君って　ホント我慢強いネ\n同じマ・ノン人とは　思えないワ[ST:wait ]"
+    }
+  ]
+}

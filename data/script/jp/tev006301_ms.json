@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev006301_MSG0001",
+      "style": 1,
+      "name": "数々の無礼　失礼した[ST:wide ]―\nお前達が分けてくれた薬があらば[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev006301_MSG0002",
+      "style": 1,
+      "name": "伏した仲間や子供達も\n直に動けるようになるだろう[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev006301_MSG0003",
+      "style": 1,
+      "name": "感謝する\n私に出来ることがあればなんでも言ってくれ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev006301_MSG0004",
+      "style": 1,
+      "name": "数多くの戦を繰り広げてきたが\nお前達のように強き者とは会ったことがない[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev006301_MSG0005",
+      "style": 1,
+      "name": "できればまた　何か勝負をしようではないか[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev006301_MSG0006",
+      "style": 1,
+      "name": "きっと我らラースとお前達が\n切磋琢磨して行けば[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev006301_MSG0007",
+      "style": 1,
+      "name": "今まで辿り着けなかったような武の極致へ\n至ることも可能かもしれないぞ[ST:wait ]"
+    }
+  ]
+}

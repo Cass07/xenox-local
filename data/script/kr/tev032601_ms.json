@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev032601_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev032601_SEL0011",
+      "style": 3,
+      "name": "루의 가게에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev032601_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev032601_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev032601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev032601_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev032601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev032601_SEL0031",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev032601_MSG0001",
+      "style": 1,
+      "name": "미라늄만 있으면\n장비에 슬롯을 열 수 있으니깡[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev032601_MSG0002",
+      "style": 1,
+      "name": "마음에 드는 장비에 슬롯을 많이 열어서\n최강의 장비를 만들어 보자공![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev032601_MSG0003",
+      "style": 1,
+      "name": "헤헷, 아티스트 루는 정말로\n굉장한 머신을 메이킹했구낭![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev032601_MSG0004",
+      "style": 1,
+      "name": "다음에는 미라늄으로 피자를 만드는 장치 같은 것도\n설계해 줬으면 좋겠엉![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev032601_MSG0008",
+      "style": 1,
+      "name": "마이 시스터 니로프도\n같은 우주선에 있었는데\n벌써 몇 개월이나 만나지 못했엉~[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev032601_MSG0009",
+      "style": 1,
+      "name": "마음에 드는 연구 개발 대상을 발견하면\n롱 타임 틀어박혀서는!\n피부도 새~~~하얘졍![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev032601_MSG0010",
+      "style": 1,
+      "name": "어떤 기업에서 일한다고\n단말기로 연락이 왔는데…… 어디일깡![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev032601_MSG0011",
+      "style": 1,
+      "name": "마이 시스터를 만나면\n가끔은 루의 가게에 와서\n브라더에게 헬로하라고 말해 줭![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev032601_MSG0027",
+      "style": 1,
+      "name": "마이 시스터 니로프 얼굴을\n정말 오랜만에 볼 수 있었엉![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev032601_MSG0028",
+      "style": 1,
+      "name": "정말이지…… 얼마나 안 만났는지\n브레인에서 포겟해 버려서\n누구인지 몰랐엉![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev032601_MSG0029",
+      "style": 1,
+      "name": "라스인에게 쫓기고 그래서\n엄청 야위어 있었엉[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev032601_MSG0030",
+      "style": 1,
+      "name": "역시 틀어박혀 있지 말고\n밖에 나가서 운동하는 게 좋다고\n브라더가 어드바이스해 뒀엉![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev032601_JNK1010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 22,
+      "label": "tev032601_SEL1041",
+      "style": 3,
+      "name": "루의 가게에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev032601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev032601_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev032601_JNK1010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev032601_SEL1041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev032601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev032601_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev032601_MSG0031",
+      "style": 1,
+      "name": "헤이, 아티스트 루!\n가게는 미에게 맡겨 뒁![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev032601_MSG0032",
+      "style": 1,
+      "name": "유는 미라의 다양한 곳을 돌아다니면서\n자극을 팍팍 받아서[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev032601_MSG0033",
+      "style": 1,
+      "name": "또 판타스틱한 머신의 아이디어를\n그 헤드에 잔뜩 쌓아 줭[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev032601_MSG0034",
+      "style": 1,
+      "name": "예를 들어 미라늄으로 피자를\n메이킹하는 머신이라든가……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev032601_MSG0035",
+      "style": 1,
+      "name": "기대하고 있다공!\n분명 루라면 그 정도는 식은 죽 먹기잖앙![ST:wait ]"
+    }
+  ]
+}

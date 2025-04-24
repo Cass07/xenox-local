@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040403_MSG0001",
+      "style": 1,
+      "name": "サツーー！　どこだもー\nもう捜しくたびれて　おなかぐーぐーですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040403_JNK0010",
+      "style": 4,
+      "name": "事実"
+    },
+    {
+      "$id": 3,
+      "label": "qev040403_SEL0011",
+      "style": 3,
+      "name": "サツは見つかったと本当のことを伝える"
+    },
+    {
+      "$id": 4,
+      "label": "qev040403_JNK0020",
+      "style": 4,
+      "name": "冗談"
+    },
+    {
+      "$id": 5,
+      "label": "qev040403_SEL0021",
+      "style": 3,
+      "name": "サツは旅に出てしまったと言う"
+    },
+    {
+      "$id": 6,
+      "label": "qev040403_MSG0002",
+      "style": 1,
+      "name": "やりましたも！　[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev040403_MSG0003",
+      "style": 1,
+      "name": "それを聞いてヨヨツは\nますますおなかがすきましたも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev040403_MSG0004",
+      "style": 1,
+      "name": "早く帰って　みんなでごはんを食べるですも！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev040403_MSG0005",
+      "style": 1,
+      "name": "なんてことですも！　悲しいですも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev040403_MSG0006",
+      "style": 1,
+      "name": "でも残された者がごはんを\nたくさん食べてあげるのが[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev040403_MSG0007",
+      "style": 1,
+      "name": "旅立つ者への励ましですも[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev040403_MSG0008",
+      "style": 1,
+      "name": "胸が張り裂けそうだけれども\nおなかが張り裂けるまでごはんを食べますも[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev040403_MSG0009",
+      "style": 1,
+      "name": "……ちょっと冗談を言っただけ？\nサツはキャラバンに帰ってるんですかも！？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev040403_MSG0010",
+      "style": 1,
+      "name": "だまされたのは\n何だか気に入らないけど　うれしいですも[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev040403_MSG0011",
+      "style": 1,
+      "name": "早く帰ってお祝いに\nごはんをたくさん食べるですも！[ST:wait ]"
+    }
+  ]
+}

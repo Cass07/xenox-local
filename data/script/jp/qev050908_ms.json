@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050908_MSG0001",
+      "style": 1,
+      "name": "地球人を代表して　私の連絡員としての\n特性を説明する後押しを願う[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050908_MSG0002",
+      "style": 1,
+      "name": "地球人側からの意見もあれば\n小隊長殿から　こころよい判断がもらえそうな\n気がするのだ！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050908_MSG0003",
+      "style": 1,
+      "name": "ブレイドの方よ……\n血塗られたフェイスと　強化ブレード部品と\n次世代メインコア部品だ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050908_MSG0004",
+      "style": 1,
+      "name": "本当にすまない……\nよろしく　たのむ……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050908_MSG0005",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

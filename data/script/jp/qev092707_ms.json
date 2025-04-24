@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092707_MSG0010",
+      "style": 0,
+      "name": "完成したばかりのドールを持ち出し\n事故を起こしたと聞いているが[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092707_MSG0020",
+      "style": 0,
+      "name": "この報告は事実か？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092707_MSG0030",
+      "style": 0,
+      "name": "部長　その件については[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092707_MSG0040",
+      "style": 0,
+      "name": "一体何をしているんだ　君達は？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092707_MSG0050",
+      "style": 0,
+      "name": "しかも独断で\n第三者の介入を進めたようじゃないか[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092707_MSG0060",
+      "style": 0,
+      "name": "そ　それは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092707_MSG0070",
+      "style": 0,
+      "name": "最終調整に出ていただけだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092707_MSG0080",
+      "style": 0,
+      "name": "ドールのテストはギリギリまで行う\n常識だろう[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092707_MSG0090",
+      "style": 0,
+      "name": "そのテストで\n商品価値を下げるかもしれないと[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092707_MSG0100",
+      "style": 0,
+      "name": "どうして考えつかない？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092707_MSG0110",
+      "style": 0,
+      "name": "あれは　すでに完成している\nそのように認可を下しただろう[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092707_MSG0120",
+      "style": 0,
+      "name": "だが実際　今回のテストで\n操作性の問題が新たに浮上した[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092707_MSG0130",
+      "style": 0,
+      "name": "あのまま世に出ていれば\n大きな事故を招いていたかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092707_MSG0140",
+      "style": 0,
+      "name": "くだらん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092707_MSG0150",
+      "style": 0,
+      "name": "そんなもの[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092707_MSG0160",
+      "style": 0,
+      "name": "発表後に直してしまえば\nよかったことだろう[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092707_MSG0170",
+      "style": 0,
+      "name": "なっ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092707_MSG0180",
+      "style": 0,
+      "name": "今　ネガティブな情報が出回ることは\n避けろと言っているのだ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092707_MSG0190",
+      "style": 0,
+      "name": "たかがパイロット風情が\n口をはさんでいい問題ではない[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092707_MSG0200",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092707_MSG0210",
+      "style": 0,
+      "name": "フレスベルグの開発は\n莫大な予算をかけた一大プロジェクトだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092707_MSG0220",
+      "style": 0,
+      "name": "貴様の安直な判断で\n計画が潰れてしまったらどうする？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092707_MSG0230",
+      "style": 0,
+      "name": "も　申し訳ありません[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092707_MSG0235",
+      "style": 0,
+      "name": "ですが　あのままでは本当に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092707_MSG0240",
+      "style": 0,
+      "name": "いいや結構\n言い訳は不要だ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092707_MSG0250",
+      "style": 0,
+      "name": "“故障などなかった”[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092707_MSG0255",
+      "style": 0,
+      "name": "上にはそう伝えておく[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092707_MSG0260",
+      "style": 0,
+      "name": "君らはこれ以上余計なことをせず\n次の開発を進めろ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092707_MSG0265",
+      "style": 0,
+      "name": "わかったな？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092707_MSG0270",
+      "style": 0,
+      "name": "[ST:wide ]―承知しました[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092707_MSG0280",
+      "style": 0,
+      "name": "くっ[ST:wide ]―！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087004_MSG0001",
+      "style": 0,
+      "name": "엘마 씨, 스토리지를 확보했어요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087004_MSG0002",
+      "style": 0,
+      "name": "역시 린이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087004_MSG0003",
+      "style": 0,
+      "name": "서둘러 탈출하자\n탈출 후에는 결과 보고를 위해 NLA로 돌아갈 거야[ST:wait ]"
+    }
+  ]
+}

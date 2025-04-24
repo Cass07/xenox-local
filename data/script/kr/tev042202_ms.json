@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev042202_MSG0001",
+      "style": 1,
+      "name": "우오~! 라비나는 내 아내가 될 거다아!\n납치한 녀석은 용서 못 한다아![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092708_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―不快な思いをさせてすまなかった[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092708_MSG0020",
+      "style": 0,
+      "name": "部長は事あるごとに[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092708_MSG0030",
+      "style": 0,
+      "name": "おれたちに難癖をつけたり\n当たり散らすような人間なんだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092708_MSG0040",
+      "style": 0,
+      "name": "かつては凄腕のパイロットだったらしいが\n今となっては見る影もない[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092708_MSG0050",
+      "style": 0,
+      "name": "このフレスベルグは\n地球にいた頃から開発していたんだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092708_MSG0060",
+      "style": 0,
+      "name": "アリシャも一緒に\n今よりずっと狭い開発室でな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092708_MSG0070",
+      "style": 0,
+      "name": "当時は前任の主任技術者や\nおれ以外にもテストパイロットがいた[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092708_MSG0080",
+      "style": 0,
+      "name": "皆がフレスベルグの開発に情熱を注いでいた[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092708_MSG0085",
+      "style": 0,
+      "name": "[ST:wide ]―クレマンが部長に就任するまでは[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092708_MSG0090",
+      "style": 0,
+      "name": "あいつにとってドールはただの商品で\n昇進のための道具に過ぎないのさ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092708_MSG0100",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092708_JNK0110",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 13,
+      "label": "qev092708_SEL0120",
+      "style": 3,
+      "name": "他の開発メンバーはどうした？と尋ねる"
+    },
+    {
+      "$id": 14,
+      "label": "qev092708_MSG0130",
+      "style": 0,
+      "name": "[ST:wide ]―死んだよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092708_MSG0140",
+      "style": 0,
+      "name": "テストパイロットの仲間は[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092708_MSG0150",
+      "style": 0,
+      "name": "試作型フレスベルグの稼働実験中に\n事故で[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092708_MSG0160",
+      "style": 0,
+      "name": "主任はその責任を問われ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092708_MSG0165",
+      "style": 0,
+      "name": "追い詰められた末に[ST:wide ]―　自殺した[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092708_MSG0170",
+      "style": 0,
+      "name": "それからアリシャが\n主任技術者を任されたんだ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092708_MSG0180",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092708_MSG0190",
+      "style": 0,
+      "name": "アリシャ　疲れてないか？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092708_MSG0200",
+      "style": 0,
+      "name": "[ST:wide ]―平気　私は大丈夫よ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092708_MSG0210",
+      "style": 0,
+      "name": "ここのところ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092708_MSG0220",
+      "style": 0,
+      "name": "クレマンにきつい要件を押し付けられて\n連日　泊まり込んでたろう？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092708_MSG0230",
+      "style": 0,
+      "name": "[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]のメンテナンスセンターにも\nずっと行ってないし[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092708_MSG0240",
+      "style": 0,
+      "name": "いい加減　身体にガタがきてるはずだ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092708_MSG0250",
+      "style": 0,
+      "name": "[ST:wide ]―でも　次の開発が待ってるわ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092708_MSG0260",
+      "style": 0,
+      "name": "あなたとフレスベルグのためなら\nこのくらい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092708_JNK0270",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 30,
+      "label": "qev092708_SEL0280",
+      "style": 3,
+      "name": "休んだほうがいいと伝える"
+    },
+    {
+      "$id": 31,
+      "label": "qev092708_MSG0290",
+      "style": 0,
+      "name": "会ったばかりの奴にもこう言われるくらいだ\n無理はするな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092708_MSG0300",
+      "style": 0,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092708_MSG0310",
+      "style": 0,
+      "name": "[ST:wide ]―いえ　そうね\nあなたの言う通りだわ　リーゼル[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092708_MSG0320",
+      "style": 0,
+      "name": "なあ　せっかくだ\n気晴らしに外へ出ないか？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092708_MSG0330",
+      "style": 0,
+      "name": "見晴らしのいい場所を見つけたんだ\nお前も気に入ると思う[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092708_MSG0340",
+      "style": 0,
+      "name": "もう　相変わらず強引なんだから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092708_MSG0345",
+      "style": 0,
+      "name": "ええ　いいわ　あなたに任せる[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092708_MSG0350",
+      "style": 0,
+      "name": "お前も一緒にどうだ？\nこれも何かの縁だ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092708_MSG0360",
+      "style": 0,
+      "name": "そうと決まれば行こう\nもちろんフレスベルグも一緒にな[ST:wait ]"
+    }
+  ]
+}

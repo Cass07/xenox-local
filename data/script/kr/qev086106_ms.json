@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086106_MSG0001",
+      "style": 0,
+      "name": "정말 열심히 하네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086106_MSG0002",
+      "style": 0,
+      "name": "그러니까요, 예상 밖이에요\n저도 힘내야겠어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086106_MSG0003",
+      "style": 0,
+      "name": "고생해서 모은 레시피니까 말이지[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086106_MSG0004",
+      "style": 0,
+      "name": "린 씨~♪[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086106_MSG0005",
+      "style": 0,
+      "name": "이번 메인 디시는 타츠인걸요\n열심히 요리해 줘야죠[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086106_MSG0006",
+      "style": 0,
+      "name": "린 씨…… 지금 분명히……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086106_MSG0007",
+      "style": 0,
+      "name": "이번 메인 디시는 타츠인걸요\n열심히 요리해 줘야죠오오오……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086106_MSG0008",
+      "style": 0,
+      "name": "히이이익……이다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086106_MSG0009",
+      "style": 0,
+      "name": "린, 거기서는 주빈이라고 해야지\n메인 디시는 요리를 말하는 거잖아[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086106_MSG0010",
+      "style": 0,
+      "name": "이런~ 착각했어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086106_MSG0011",
+      "style": 0,
+      "name": "왜 그래?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086106_MSG0012",
+      "style": 0,
+      "name": "어라? 타츠가 없어요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086106_MSG0013",
+      "style": 0,
+      "name": "어디에 간 걸까?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086106_MSG0014",
+      "style": 0,
+      "name": "어쩌면 배가 고파서\n블레이드 홈으로 돌아간 걸지도 모르겠네요[ST:wait ]"
+    }
+  ]
+}

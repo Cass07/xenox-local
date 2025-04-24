@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32330100_MSG0010",
+      "style": 0,
+      "name": "エリックからテッドが戻ってきたと\n連絡を受けた[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32330100_MSG0020",
+      "style": 0,
+      "name": "遺伝子情報も無事だとよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32330100_MSG0030",
+      "style": 0,
+      "name": "お前らに感謝してたぜ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32330100_MSG0040",
+      "style": 0,
+      "name": "テッドは？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32330100_MSG0050",
+      "style": 0,
+      "name": "違反は違反だ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32330100_MSG0060",
+      "style": 0,
+      "name": "バツは受けてもらう[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32330100_MSG0070",
+      "style": 0,
+      "name": "他の者への示しもつかんからな[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32330100_MSG0080",
+      "style": 0,
+      "name": "まぁ　当然だな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32330100_MSG0090",
+      "style": 0,
+      "name": "遺伝子情報は　どうなったんですか？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32330100_MSG0100",
+      "style": 0,
+      "name": "新白鯨に積んだデータベースに登録した[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32330100_MSG0110",
+      "style": 0,
+      "name": "許可してあげたのね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32330100_MSG0120",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "xs32330100_MSG0130",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "xs32330100_MSG0140",
+      "style": 0,
+      "name": "司令　ありがとうございます！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32330100_MSG0150",
+      "style": 0,
+      "name": "おっちゃん　やるですもー[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32330100_MSG0160",
+      "style": 0,
+      "name": "今回の任務はこれで完了だ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32330100_MSG0170",
+      "style": 0,
+      "name": "お疲れさん[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32330100_MSG0180",
+      "style": 0,
+      "name": "ゆっくり休んでくれ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32330100_MSG0190",
+      "style": 0,
+      "name": "と言いたいところなんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32330100_MSG0200",
+      "style": 0,
+      "name": "どうしたの？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32330100_MSG0210",
+      "style": 0,
+      "name": "朗報だ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32330100_MSG0220",
+      "style": 0,
+      "name": "さっき報告があってな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32330100_MSG0230",
+      "style": 0,
+      "name": "転移システムが完成した[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32330100_MSG0240",
+      "style": 0,
+      "name": "本当か！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32330100_MSG0250",
+      "style": 0,
+      "name": "ああ　他の奴らはすでに\n転移システムのところに行っている[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32330100_MSG0260",
+      "style": 0,
+      "name": "私達も行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32330100_MSG0270",
+      "style": 0,
+      "name": "ああ　行こう[ST:wait ]"
+    }
+  ]
+}

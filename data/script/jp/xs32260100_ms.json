@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32260100_MSG0010",
+      "style": 0,
+      "name": "ケイリーさん　何をしているんですか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32260100_MSG0020",
+      "style": 0,
+      "name": "皆さん　ちょうどよかった[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32260100_MSG0030",
+      "style": 0,
+      "name": "今からオモモさんを迎えに行くんです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32260100_MSG0040",
+      "style": 0,
+      "name": "えっ　オモモさんを？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32260100_MSG0050",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32260100_MSG0060",
+      "style": 0,
+      "name": "荷物が運べないから手伝ってほしいって\nさっき連絡があったんです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32260100_MSG0070",
+      "style": 0,
+      "name": "だってオモモさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32260100_MSG0080",
+      "style": 0,
+      "name": "オモモさんから聞きました[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32260100_MSG0090",
+      "style": 0,
+      "name": "ここに残るつもりだったそうですね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32260100_MSG0100",
+      "style": 0,
+      "name": "そうなんです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32260100_MSG0110",
+      "style": 0,
+      "name": "それで私　失礼なこと言って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32260100_MSG0120",
+      "style": 0,
+      "name": "オモモさん[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32260100_MSG0130",
+      "style": 0,
+      "name": "リンさんの言葉が忘れられなかったそうです[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32260100_MSG0140",
+      "style": 0,
+      "name": "オモモは　皆から助けられることが\nフツーと思って勘違いして[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32260100_MSG0150",
+      "style": 0,
+      "name": "自分で頑張ることから\n逃げようとしていたんですもって[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32260100_MSG0160",
+      "style": 0,
+      "name": "オモモさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32260100_MSG0170",
+      "style": 0,
+      "name": "皆さん　すみません[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32260100_MSG0180",
+      "style": 0,
+      "name": "どうしたの急に[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32260100_MSG0190",
+      "style": 0,
+      "name": "実は[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32260100_MSG0200",
+      "style": 0,
+      "name": "オモモさんは来ないんじゃないかなって\n思っていたんです[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32260100_MSG0210",
+      "style": 0,
+      "name": "会うといつも笑顔で\n何か吹っ切れているような感じがして[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32260100_MSG0220",
+      "style": 0,
+      "name": "だから聞けなかったんです[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32260100_MSG0230",
+      "style": 0,
+      "name": "それで　私達に頼んだのね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32260100_MSG0240",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32260100_MSG0250",
+      "style": 0,
+      "name": "で　結果はリンのおかげで大成功[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32260100_MSG0260",
+      "style": 0,
+      "name": "やめてくださいよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32260100_MSG0270",
+      "style": 0,
+      "name": "いや　本当にリンさんのおかげです[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32260100_MSG0280",
+      "style": 0,
+      "name": "私だったら　オモモさんの言葉をきくだけで[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32260100_MSG0290",
+      "style": 0,
+      "name": "自分の意見は言えなかったと思います[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32260100_MSG0300",
+      "style": 0,
+      "name": "私も　今回のことで[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32260100_MSG0310",
+      "style": 0,
+      "name": "言葉としてしっかり伝えることの\n大事さを改めて知りました[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32260100_MSG0320",
+      "style": 0,
+      "name": "ありがとうございました[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32260100_MSG0330",
+      "style": 0,
+      "name": "ケイリーさんまで　やめてくださいよ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32260100_MSG0340",
+      "style": 0,
+      "name": "リンさん　さすがですも！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32260100_MSG0350",
+      "style": 0,
+      "name": "タツッ！！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs32260100_MSG0360",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "xs32260100_MSG0370",
+      "style": 0,
+      "name": "オモモさんをあまり待たせてはいけないわ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs32260100_MSG0380",
+      "style": 0,
+      "name": "そうですね[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs32260100_MSG0390",
+      "style": 0,
+      "name": "皆さん　本当にありがとうございました！[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs32260100_MSG0400",
+      "style": 0,
+      "name": "リン　よかったわね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs32260100_MSG0410",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev062001_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev062001_SEL0011",
+      "style": 3,
+      "name": "노폰의 식사에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev062001_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev062001_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev062001_SEL2021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev062001_SEL2031",
+      "style": 3,
+      "name": "노폰의 식사에 관해 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev062001_SEL2041",
+      "style": 3,
+      "name": "노폰의 식사에 관해 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev062001_MSG0001",
+      "style": 1,
+      "name": "요요츠, 온 미라의 맛있는 음식을\n먹어 보고 싶다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev062001_MSG0002",
+      "style": 1,
+      "name": "최근에 먹은 녀석 중에는\n스토르트라는 게 냠냠 맛있었다모[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev062001_MSG0003",
+      "style": 1,
+      "name": "그 녀석 목에 있는 달랑거리는 거에서\n알맹이를 꺼내 통째로 구우면\n오독오독하고 냄새도 엄청 좋다모[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev062001_MSG0004",
+      "style": 1,
+      "name": "있지, 이런 게 진미? 진미?\n팔면 대박 날까모?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev062001_MSG0008",
+      "style": 1,
+      "name": "엄마는 요요츠네 남매를 위해\n먹을 거를 사냥해 와 준다모[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev062001_MSG0009",
+      "style": 1,
+      "name": "근처의 먹을 수 있을 법한 녀석은\n대부분 엄마가 사냥해 버렸다모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev062001_MSG0010",
+      "style": 1,
+      "name": "다음엔 돌돌 나무 출도에\n가 본다고 했다모~[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev062001_MSG0011",
+      "style": 1,
+      "name": "생선, 생선, 생서언~\n기대된다모~[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev062001_MSG0012",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev062001_MSG0013",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev062001_MSG0014",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "tev062001_MSG0015",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev062001_MSG0016",
+      "style": 1,
+      "name": "사츠를 찾으러 갈 때\n도시락을 안 가지고 가서……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev062001_MSG0017",
+      "style": 1,
+      "name": "풀깎이 사슴벌레를 생으로 먹거나\n넙차미를 불에 구워 먹거나 했다모[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev062001_MSG0018",
+      "style": 1,
+      "name": "그랬더니 무츠츠가\n어디서든 살아갈 수 있겠다고 했다모![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev062001_MSG0019",
+      "style": 1,
+      "name": "이건 칭찬받은 건가모?\n서바이벌 전문가 요요츠의 탄생인가모?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev062001_MSG0025",
+      "style": 1,
+      "name": "요요츠, 온 미라의 맛있는 음식을\n먹어 보고 싶다모![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev062001_MSG0026",
+      "style": 1,
+      "name": "최근에 먹은 녀석 중에는\n로필의 간 요리가 냠냠 맛있었다모[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev062001_MSG0027",
+      "style": 1,
+      "name": "[ST:playername ] 씨도\n먹을 수 있다모! 간단하다모![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev062001_MSG0028",
+      "style": 1,
+      "name": "쓰러뜨린 뒤에 배를 가르면\n살살 녹는 간 요리 겟이다모![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev062001_MSG0029",
+      "style": 1,
+      "name": "간 요리! 간 요리!\n이것이야말로 미라의 진미다모![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev062001_MSG0035",
+      "style": 1,
+      "name": "요요츠, 온 미라의 맛있는 음식을\n먹어 보고 싶다모![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev062001_MSG0036",
+      "style": 1,
+      "name": "야광의 숲 안쪽의 안쪽의 안쪽에\n붉은 가지가 잔뜩 있는 곳, 알고 있어모?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev062001_MSG0037",
+      "style": 1,
+      "name": "거기에 커다란 새님이 있다모[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev062001_MSG0038",
+      "style": 1,
+      "name": "엄청나게 강한 모양인데\n분명 진미일 게 틀림없다모![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev062001_MSG0039",
+      "style": 1,
+      "name": "궁극의 진미……\n먹어 보고 싶다모……![ST:wait ]"
+    }
+  ]
+}

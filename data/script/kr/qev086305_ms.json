@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086305_MSG0001",
+      "style": 0,
+      "name": "다들 잘 돌아왔다모\n수호자의 영린은 얻었냐모?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086305_MSG0002",
+      "style": 0,
+      "name": "물론이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086305_MSG0003",
+      "style": 0,
+      "name": "너희들, 대단하다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086305_MSG0004",
+      "style": 0,
+      "name": "그럼 바로 조합하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086305_MSG0005",
+      "style": 0,
+      "name": "자, 다 됐습니다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086305_MSG0006",
+      "style": 0,
+      "name": "고맙다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086305_MSG0007",
+      "style": 0,
+      "name": "잘됐다모, 토라![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086305_MSG0008",
+      "style": 0,
+      "name": "응, 이걸로 노폰의 미래는 무탈하다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086305_MSG0009",
+      "style": 0,
+      "name": "엘마 씨, 이건 당신들에게……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086305_MSG0010",
+      "style": 0,
+      "name": "이건?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086305_MSG0011",
+      "style": 0,
+      "name": "약을 만들면서 정제된 단말기입니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086305_MSG0012",
+      "style": 0,
+      "name": "단말기!?\n대체 어떤 효과가 있는데요?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086305_MSG0013",
+      "style": 0,
+      "name": "아무래도 상처 회복과 같은\n치유 능력인 것 같습니다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086305_MSG0014",
+      "style": 0,
+      "name": "어떻게 그런 게……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086305_MSG0015",
+      "style": 0,
+      "name": "생명을 다스리는 자가 주는 선물……\n그렇게 생각해도 되지 않을까요?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086305_MSG0016",
+      "style": 0,
+      "name": "우리에게……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086305_MSG0017",
+      "style": 0,
+      "name": "이 미라를 지키는 수호자가……\n저희를 인정해 준 걸지도 모르겠네요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086305_MSG0018",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "qev086305_MSG0019",
+      "style": 0,
+      "name": "그건 그렇고, 토라\n약을 빨리 가져가라모![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086305_MSG0020",
+      "style": 0,
+      "name": "아차, 그렇지모\n애써 구했으니 빨리 먹겠다모[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086305_MSG0021",
+      "style": 0,
+      "name": "뭐어어~~~~~!?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086305_MSG0022",
+      "style": 0,
+      "name": "너, 너 뭐 하는 거야!?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086305_MSG0023",
+      "style": 0,
+      "name": "노폰의 미래를 짊어진 젊은이가\n중병으로 괴로워하고 있는 거 아니었냐모?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086305_MSG0024",
+      "style": 0,
+      "name": "그렇다모[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086305_MSG0025",
+      "style": 0,
+      "name": "노폰의 미래를 짊어진 이 토라가\n과식으로 괴로워하고 있었다모![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086305_MSG0026",
+      "style": 0,
+      "name": "후우, 겨우 편해졌다모\n역시 노폰 비전의 한방약이다모![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086305_MSG0027",
+      "style": 0,
+      "name": "응? 다들 왜 그러냐모?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086305_MSG0028",
+      "style": 0,
+      "name": "이 녀석, 절대 용서 못 한다모~~![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086305_MSG0029",
+      "style": 0,
+      "name": "대체 왜 그러냐모!![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086305_MSG0030",
+      "style": 1,
+      "name": "나도 노폰 비전의 한방약에 필요한\n재료를 찾아 둘 테니[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086305_MSG0031",
+      "style": 1,
+      "name": "넌 티달라의 별 날개와\n흑요석 조각을 가져다줘모[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086305_MSG0032",
+      "style": 1,
+      "name": "노폰의 미래를 짊어진 젊은이를 구하기 위해서다모\n아무튼 서둘러라모![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086305_MSG0033",
+      "style": 1,
+      "name": "너희가 수호자의 영린을\n가져다주면……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086305_MSG0034",
+      "style": 1,
+      "name": "토라, 이 목숨과 바꿔서라도\n노폰의 미래를 짊어진 젊은이를 구해 내겠다모[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086305_MSG0035",
+      "style": 1,
+      "name": "부탁한다모, 야광의 숲으로 가서\n생명을 다스리는 자를 쓰러뜨리고 와 줘모[ST:wait ]"
+    }
+  ]
+}

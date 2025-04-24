@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055404_MSG0001",
+      "style": 1,
+      "name": "쿤에이브가 너에게 맡긴 마음은\n내 안에도 강하게 남아 있다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055404_MSG0002",
+      "style": 1,
+      "name": "부디 그와 나눈 약속……\n반드시 지켜 주길 바란다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055404_MSG0003",
+      "style": 1,
+      "name": "이 미라에서 세니라파 물은 귀중한 것이지만\n돌아다니다 보면 언젠가 발견할 수 있을 것이다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev055404_MSG0004",
+      "style": 1,
+      "name": "그래, 쿤에이브처럼\n포기하지 않고 계속 찾아가다 보면……[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085806_MSG0001",
+      "style": 0,
+      "name": "네에? 라오 씨가 돌아왔었다고요!?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085806_MSG0002",
+      "style": 0,
+      "name": "그래, 우리가 엘마 팀에게\n도움받은 이야기도 했는데[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085806_MSG0003",
+      "style": 0,
+      "name": "고맙다고 전해 달라는 한마디만 남기고 끝이었어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085806_MSG0004",
+      "style": 0,
+      "name": "그러고는 그대로 또 어디론가 가 버렸습니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085806_MSG0005",
+      "style": 0,
+      "name": "정말 정신없는 사람이네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085806_MSG0006",
+      "style": 0,
+      "name": "하지만 그걸로 됐어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085806_MSG0007",
+      "style": 0,
+      "name": "라오 씨는 그걸로 된 거야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085806_MSG0008",
+      "style": 0,
+      "name": "그래, 미라에 온 지\n얼마 안 됐을 때를 생각하면……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085806_MSG0009",
+      "style": 0,
+      "name": "무슨 말이야?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085806_MSG0010",
+      "style": 0,
+      "name": "라오 씨의 패스파인더로서의 능력은……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085806_MSG0011",
+      "style": 0,
+      "name": "인류가 미라에 정착하는 데 있어서\n매우 유용합니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085806_MSG0012",
+      "style": 0,
+      "name": "하지만 라오 씨 본인은 자신의 능력을\n활용하기 위해 흰고래에 탄 게 아니에요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085806_MSG0013",
+      "style": 0,
+      "name": "라오 씨는 부인과 따님을\n흰고래에 태우고 싶어 했어요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085806_MSG0014",
+      "style": 0,
+      "name": "자신의 능력이 있으면 가족에게도\n승선권을 주지 않을까 생각했지만……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085806_MSG0015",
+      "style": 0,
+      "name": "탈 수 없었구나[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085806_MSG0016",
+      "style": 0,
+      "name": "가족을 불러오기 직전에\n그 외계인들의 전쟁이 시작돼 버린 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085806_MSG0017",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085806_MSG0018",
+      "style": 0,
+      "name": "그래서 미라에 도착했을 때……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085806_MSG0019",
+      "style": 0,
+      "name": "라오 씨의 혼은\n죽은 것과 마찬가지였어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085806_MSG0020",
+      "style": 0,
+      "name": "그런데 최근에는 뭔가 목적을 발견한 듯해서\n생기가 돌고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085806_MSG0021",
+      "style": 0,
+      "name": "전 그게 기쁩니다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085806_MSG0022",
+      "style": 0,
+      "name": "그래도 남겨진 저희는 힘들지만요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085806_MSG0023",
+      "style": 0,
+      "name": "그러니까 몇 번이나 말했잖아[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085806_MSG0024",
+      "style": 0,
+      "name": "네가 제 몫을 하는 사람이 돼서\n라오 씨를 안심시키면 되는 거다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085806_MSG0025",
+      "style": 0,
+      "name": "아, 네[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085806_MSG0026",
+      "style": 0,
+      "name": "다들 라오 씨를 좋아하는군요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085806_MSG0027",
+      "style": 0,
+      "name": "우리도 엘마 씨가 좋다모!\n지지 않는다모![ST:wait ]"
+    }
+  ]
+}

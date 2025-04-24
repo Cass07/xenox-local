@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001394_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]さん　こんにちは\nこんなところでお会いするなんて[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001394_JNK0010",
+      "style": 4,
+      "name": "ロックについて尋ねる"
+    },
+    {
+      "$id": 3,
+      "label": "tev001394_SEL0011",
+      "style": 3,
+      "name": "ロックがどこにいるかを\n尋ねる"
+    },
+    {
+      "$id": 4,
+      "label": "tev001394_JNK0020",
+      "style": 4,
+      "name": "ネコについて尋ねる"
+    },
+    {
+      "$id": 5,
+      "label": "tev001394_SEL0021",
+      "style": 3,
+      "name": "ネコを愛でていたのかと\n尋ねる"
+    },
+    {
+      "$id": 6,
+      "label": "tev001394_MSG0002",
+      "style": 1,
+      "name": "ロックは今　がんばってお仕事中です\nだから　私一人なんです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001394_MSG0003",
+      "style": 1,
+      "name": "商業エリアを散策していたら\nたまたまネコを見かけたので\n後を追いかけてみたんです[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001394_MSG0004",
+      "style": 1,
+      "name": "そうしたら　こんなところまで\n来てしまいました[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001394_MSG0005",
+      "style": 1,
+      "name": "はい　そうなんです[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001394_MSG0006",
+      "style": 1,
+      "name": "商業エリアを散策していたら\nたまたまネコを見かけて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001394_MSG0007",
+      "style": 1,
+      "name": "かわいらしいので\n後を追いかけてみたんです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001394_MSG0008",
+      "style": 1,
+      "name": "そうしたら　こんなところまで\n来てしまいました[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001394_MSG0009",
+      "style": 1,
+      "name": "このネコ　よくできてますよね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001394_MSG0010",
+      "style": 1,
+      "name": "リンさんに作りものだと教えられたときは\n本当に驚きました[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001394_MSG0011",
+      "style": 1,
+      "name": "見たり　触ったくらいじゃ判別できませんし\n気まぐれなところはまるで本物みたいです[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001394_JNK0030",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 17,
+      "label": "tev001394_SEL0031",
+      "style": 3,
+      "name": "セリカの故郷にもネコがいた\nのか尋ねる"
+    },
+    {
+      "$id": 18,
+      "label": "tev001394_JNK0040",
+      "style": 4,
+      "name": "自慢"
+    },
+    {
+      "$id": 19,
+      "label": "tev001394_SEL0041",
+      "style": 3,
+      "name": "地球人の叡智の結晶だと胸を\n張る"
+    },
+    {
+      "$id": 20,
+      "label": "tev001394_MSG0012",
+      "style": 1,
+      "name": "私と地球の方の見た目が少し違うように\nネコの見た目も少し違いましたけれど\nいましたよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001394_MSG0013",
+      "style": 1,
+      "name": "私の星と地球は遠く離れた\nまったく別々の星なのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001394_MSG0014",
+      "style": 1,
+      "name": "私たちのような存在がいて\nネコのようなかわいい動物がいるなんて[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001394_MSG0015",
+      "style": 1,
+      "name": "奇妙ですけど[ST:wide ]―\n素敵な偶然ですよね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001394_MSG0016",
+      "style": 1,
+      "name": "そうですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001394_MSG0017",
+      "style": 1,
+      "name": "こういうところに技術を使う地球の方の感性に\n感心させられます[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001394_MSG0018",
+      "style": 1,
+      "name": "きっとグロウスだと兵器の開発ばかりに技術を\n注ぎ込みますから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001394_MSG0019",
+      "style": 1,
+      "name": "心の豊かさ[ST:wide ]―ユーモアを忘れないところが\n多くの異星人が地球の方を受け入れている\n理由なのかもしれませんね[ST:wait ]"
+    }
+  ]
+}

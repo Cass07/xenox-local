@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086806_MSG0003",
+      "style": 1,
+      "name": "セリカァァッ！！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086806_MSG0005",
+      "style": 1,
+      "name": "ロック　どうして[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086806_MSG0006",
+      "style": 1,
+      "name": "セリカ　ボク　戦えないけど\nセリカの楯になることくらいできるよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086806_MSG0007",
+      "style": 1,
+      "name": "ロック[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086806_MSG0008",
+      "style": 1,
+      "name": "よくやったわね　ロック[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086806_MSG0009",
+      "style": 1,
+      "name": "こいつは　私達が引き受ける[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086806_MSG0010",
+      "style": 1,
+      "name": "ロックさんはその間に\nセリカさんを連れて外へ逃げて下さい[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086806_MSG0011",
+      "style": 1,
+      "name": "うん[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086806_MSG0012",
+      "style": 1,
+      "name": "ありがとうございます　皆さん[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086806_MSG0013",
+      "style": 1,
+      "name": "さあ　あなたの相手は私達よ[ST:wait ]"
+    }
+  ]
+}

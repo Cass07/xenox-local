@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086410_MSG0001",
+      "style": 1,
+      "name": "하도 안 돌아오길래\n이제 별님이 됐다고 생각했다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086410_MSG0002",
+      "style": 1,
+      "name": "별똥별처럼 어서 와라모~[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086410_MSG0003",
+      "style": 1,
+      "name": "형, 안경을 찾았어모?\n써 봐모! 써 봐모![ST:wait ]"
+    }
+  ]
+}

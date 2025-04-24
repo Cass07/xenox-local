@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065508_MSG0001",
+      "style": 1,
+      "name": "나는 지금 뿔뿔이 흩어진\n데피니아들을 돌봐 주고 있어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065508_MSG0002",
+      "style": 1,
+      "name": "하지만…… 리비아의 고민은 전문 분야가 아니거든\n네가 와 줘서 다행이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065508_MSG0003",
+      "style": 1,
+      "name": "우리 데피니아가\n지구인처럼 연애 감정이라는 걸\n가지는 게 가능한 걸까?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065508_MSG0004",
+      "style": 1,
+      "name": "우리가 그걸 흉내 낼 수는 있어도\n본질적인 부분까지 공감하는 건\n불가능하지 않을까?[ST:wait ]"
+    }
+  ]
+}

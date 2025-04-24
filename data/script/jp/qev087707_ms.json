@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087707_MSG0001",
+      "style": 0,
+      "name": "これで６機\n勝ちましたね！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087707_MSG0002",
+      "style": 0,
+      "name": "先を越されたか[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087707_MSG0003",
+      "style": 0,
+      "name": "貴君らに先に仕留められてしまうとはな\nどうやら　我らの負けということらしい[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087707_MSG0004",
+      "style": 0,
+      "name": "あなた達がくれた情報が無ければ\n負けていたのは私達の方よ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087707_MSG0005",
+      "style": 0,
+      "name": "それでも負けは負けだ　無念[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087707_MSG0006",
+      "style": 0,
+      "name": "言うな　ボウよ\n本を正せば　我らの不始末が元凶[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087707_MSG0007",
+      "style": 0,
+      "name": "事態収拾に力を貸してくれた彼らに\n礼を言わねばな[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087707_MSG0008",
+      "style": 0,
+      "name": "はっ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087707_JNK0010",
+      "style": 4,
+      "name": "友好"
+    },
+    {
+      "$id": 10,
+      "label": "qev087707_SEL0011",
+      "style": 3,
+      "name": "友人同士で気にするなと笑う"
+    },
+    {
+      "$id": 11,
+      "label": "qev087707_JNK0020",
+      "style": 4,
+      "name": "親交"
+    },
+    {
+      "$id": 12,
+      "label": "qev087707_SEL0021",
+      "style": 3,
+      "name": "困った時は助けてくれと笑う"
+    },
+    {
+      "$id": 13,
+      "label": "qev087707_MSG0009",
+      "style": 0,
+      "name": "それに大した苦労じゃないわ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087707_MSG0010",
+      "style": 0,
+      "name": "たとえあなた方の優れた機体であろうと\n乗り手が未熟では性能を引き出せない[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087707_MSG0011",
+      "style": 0,
+      "name": "あなた方ラース人が乗ったドールと\n戦った時のような苦労はしていないわ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087707_MSG0012",
+      "style": 0,
+      "name": "言ってくれるな[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087707_MSG0013",
+      "style": 0,
+      "name": "よかろう\n次は我らが友の危機に駆けつけたいものだ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087707_MSG0014",
+      "style": 0,
+      "name": "貴君らが苦労する日を待ち望んでいるぞ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087707_MSG0015",
+      "style": 0,
+      "name": "ええ　それで帳消しよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087707_MSG0016",
+      "style": 0,
+      "name": "借りを作ったままというのは面白くない[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087707_MSG0017",
+      "style": 0,
+      "name": "地球人よ　はやく窮地に陥るがよい\n楽しみに待っているぞ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087707_MSG0018",
+      "style": 0,
+      "name": "もう～～　それが友人の言葉なんですかぁ！[ST:wait ]"
+    }
+  ]
+}

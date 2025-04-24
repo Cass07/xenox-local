@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04030100_MSG0001",
+      "style": 0,
+      "name": "이거 미안하군\n밥을 얻어먹어서[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04030100_MSG0002",
+      "style": 0,
+      "name": "반담 사령관님은 언제나 밥때에 오셔서\n드시고 가잖아요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04030100_MSG0003",
+      "style": 0,
+      "name": "그랬었나?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs04030100_MSG0004",
+      "style": 0,
+      "name": "정말이지~~![ST:wait ]"
+    }
+  ]
+}

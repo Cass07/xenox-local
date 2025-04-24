@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090503_MSG0001",
+      "style": 0,
+      "name": "……그녀는 우수한 제자였어\n누구보다 빠르게 흰고래 탑승이 결정됐지[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090503_MSG0002",
+      "style": 0,
+      "name": "그녀에게 반했던 철부지 레지도\n그 후 필사적으로 훈련을 거듭해서[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090503_MSG0003",
+      "style": 0,
+      "name": "어떻게든 아슬아슬하게\n크루로서 참가할 수 있었고……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090503_JNK0010",
+      "style": 4,
+      "name": "격려"
+    },
+    {
+      "$id": 5,
+      "label": "qev090503_SEL0011",
+      "style": 3,
+      "name": "침울해하는 보제를\n상냥하게 격려한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev090503_JNK0020",
+      "style": 4,
+      "name": "질타"
+    },
+    {
+      "$id": 7,
+      "label": "qev090503_SEL0021",
+      "style": 3,
+      "name": "추억에 잠긴 보제를\n호되게 꾸짖는다"
+    },
+    {
+      "$id": 8,
+      "label": "qev090503_MSG0004",
+      "style": 0,
+      "name": "……부처님 같군, 그대는[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090503_MSG0005",
+      "style": 0,
+      "name": "고맙네\n그대의 상냥함이 언제나 날 구해 주고 있어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090503_MSG0006",
+      "style": 0,
+      "name": "……인정사정없군, 그대는[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090503_MSG0007",
+      "style": 0,
+      "name": "고맙네\n그 엄격함이 언제나 날 도와주고 있어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090503_MSG0008",
+      "style": 0,
+      "name": "좋아…… 군번줄을 찾았네[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090503_MSG0009",
+      "style": 0,
+      "name": "잠깐, 그녀에게 이별을 고하기 전에\n경을 읊어도 괜찮겠는가?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090503_MSG0010",
+      "style": 0,
+      "name": "상처받은 그 영혼에\n안식을 선사하고 싶다네……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090503_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 16,
+      "label": "qev090503_SEL0031",
+      "style": 3,
+      "name": "조용히 끄덕인다"
+    },
+    {
+      "$id": 17,
+      "label": "qev090503_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 18,
+      "label": "qev090503_SEL0041",
+      "style": 3,
+      "name": "어서 돌아가서 다음 임무를\n준비하자고 재촉한다"
+    },
+    {
+      "$id": 19,
+      "label": "qev090503_MSG0011",
+      "style": 0,
+      "name": "고맙네, 그러면 합장해 주게……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090503_MSG0012",
+      "style": 0,
+      "name": "예끼 이 녀석~~~~~~~~!![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090503_MSG0013",
+      "style": 0,
+      "name": "죽은 자에게 경의를 표하지 않고 어찌\n산 자를 지키는 임무를 할 수 있겠는가?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090503_MSG0014",
+      "style": 0,
+      "name": "그러면 시작하겠네! 나무아미타불![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090503_MSG0015",
+      "style": 0,
+      "name": "흠…… 생각보다 시간이 많이 지나 버렸군[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090503_MSG0016",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060303_MSG0001",
+      "style": 1,
+      "name": "이대로 가게를 지키고 있어 봤자\n볼턴트는 못 받을 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060303_MSG0002",
+      "style": 1,
+      "name": "곤란하네……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060303_MSG0003",
+      "style": 1,
+      "name": "돌아왔구나\n자, 트로이란에게 고르콰를 돌려줘[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev060303_MSG0004",
+      "style": 1,
+      "name": "내 고르콰를 빼앗으려고 했었어\n살짝 금단 증상이 나타났다고[ST:wait ]"
+    }
+  ]
+}

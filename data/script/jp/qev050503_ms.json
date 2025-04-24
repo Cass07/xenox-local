@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050503_MSG0001",
+      "style": 1,
+      "name": "ちょっと……　やめてください……\nいやあああっ！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050503_MSG0002",
+      "style": 1,
+      "name": "お……　大声を出さないでもらいたい\n私は　頼みたいことがあるだけで……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050503_MSG0003",
+      "style": 1,
+      "name": "いや……　誰か助けて！\nいやあああっ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050503_MSG0004",
+      "style": 1,
+      "name": "人の話を……　このニ・ザインの話を\n聞いて欲しい！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050503_MSG0005",
+      "style": 1,
+      "name": "あぁっ　そこの人　助けてください！\n私　突然脅されて……！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev050503_MSG0006",
+      "style": 1,
+      "name": "人聞きの悪いことを言うな！\n私は　脅してなどいない！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev050503_MSG0007",
+      "style": 1,
+      "name": "でも……　いきなり胸倉をつかまれて\n私の言うことを聞け　って……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev050503_MSG0008",
+      "style": 1,
+      "name": "それがどうして脅したことになるのです！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev050503_MSG0009",
+      "style": 1,
+      "name": "それがどうして脅してないことになるのよ！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050503_MSG0010",
+      "style": 1,
+      "name": "ぬぅ……　話の通じない人だ……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev050503_MSG0011",
+      "style": 1,
+      "name": "そ　それはこっちの台詞でしょ……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev050503_MSG0012",
+      "style": 1,
+      "name": "ぬぬぬ…………[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev050503_MSG0013",
+      "style": 1,
+      "name": "……………………[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev050503_MSG0014",
+      "style": 1,
+      "name": "このままでは埒が開かない……\nムッ！？　そこの方！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev050503_MSG0015",
+      "style": 1,
+      "name": "やはり……　先日　戦場で世話になった\nブレイドの方ではありませんか！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev050503_MSG0016",
+      "style": 1,
+      "name": "通りがかったところを　いきなりですまないが\n何か……　手頃な刀を\n手に入れてきてはくれませんか？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev050503_MSG0017",
+      "style": 1,
+      "name": "か　刀……！？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev050503_MSG0018",
+      "style": 1,
+      "name": "その方が話がはやいと……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev050503_MSG0019",
+      "style": 1,
+      "name": "そんな……　ちょっと……\nいやあああっ！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev050503_MSG0020",
+      "style": 1,
+      "name": "はやく刀を！\nこれ以上ことを大きくするのは\n私とて本懐ではありません！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev050503_MSG0021",
+      "style": 1,
+      "name": "刀はまだですか……！？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev050503_MSG0022",
+      "style": 1,
+      "name": "頼みごとをしている身で申し訳ないのですが\n早くしてもらいたい[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev050503_MSG0023",
+      "style": 1,
+      "name": "ご婦人との会話は\nあれから　こじれるばかりなのです……！[ST:wait ]"
+    }
+  ]
+}

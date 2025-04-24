@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev030104_MSG0001",
+      "style": 1,
+      "name": "奴らから受けた拷問のせいで\n体中ボロボロでな\nまだロクに戦えそうにないんダ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev030104_MSG0002",
+      "style": 1,
+      "name": "悪いが……頼む\n仲間の命　救ってやってくれ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev030104_MSG0003",
+      "style": 1,
+      "name": "全員救出するとは……\n見事だ！　ドルフェラのごとき賢き者よ！[ST:wait ]"
+    }
+  ]
+}

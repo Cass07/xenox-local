@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev026501_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev026501_SEL0011",
+      "style": 3,
+      "name": "この店について聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev026501_JNK0020",
+      "style": 4,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev026501_SEL0021",
+      "style": 3,
+      "name": "困っていることを尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev026501_MSG0001",
+      "style": 1,
+      "name": "うちは　パスファインダーの旦那が\n拾ってきた珍しい物を\n売ってるんだよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev026501_MSG0002",
+      "style": 1,
+      "name": "ただ[ST:wide ]―\n今は売れるような物はなくてね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev026501_MSG0003",
+      "style": 1,
+      "name": "きっともう少ししたら\n売り物がたくさん並ぶはずだから……\n期待して待ってておくれよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev026501_MSG0008",
+      "style": 1,
+      "name": "困ってること？\n……あるさ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev026501_MSG0009",
+      "style": 1,
+      "name": "でも　口にすると現実になりそうだから\n絶対に言わないよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev026501_MSG0010",
+      "style": 1,
+      "name": "希望は……捨てたくないんだ……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev026501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev026501_SEL1011",
+      "style": 3,
+      "name": "教会について聞く[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev026501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev026501_SEL1021",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev026501_MSG0011",
+      "style": 1,
+      "name": "この教会で[ST:wide ]―旦那と結婚式を挙げようって\nいつも話してたんだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev026501_MSG0012",
+      "style": 1,
+      "name": "旦那からの連絡が途絶えてから\n無事に帰ってくるよう\n毎晩来てたんだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev026501_MSG0013",
+      "style": 1,
+      "name": "残念ながら　祈りは届かなかったよ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev026501_MSG0014",
+      "style": 1,
+      "name": "ミラからじゃ　神様に声が\n聞こえないのかもね……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev026501_MSG0018",
+      "style": 1,
+      "name": "譲った店は　順調にやれてるみたいだね\nブレイドの友達から　他に無い店だって\n評判を聞いたよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev026501_MSG0019",
+      "style": 1,
+      "name": "こないだ店を　影から見てたけど[ST:wide ]―\nジョジョンってマ・ノン人が\n一生懸命店を盛り上げてくれてるんだね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev026501_MSG0020",
+      "style": 1,
+      "name": "旦那との思い出の店だからね\n適当な商売して　悪評が立つようなら\nタダじゃおかないと思ったけど[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev026501_MSG0021",
+      "style": 1,
+      "name": "あんなに頑張ってくれてるなら\n安心して任せられるよ[ST:wait ]"
+    }
+  ]
+}

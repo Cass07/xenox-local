@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050902_MSG0001",
+      "style": 1,
+      "name": "음!? 누구냐……![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050902_MSG0002",
+      "style": 1,
+      "name": "……?\n그 라다와…… 지구인?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050902_MSG0003",
+      "style": 1,
+      "name": "보기 힘든 조합은 아니지만……\n무슨 용건인가?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050902_MSG0004",
+      "style": 1,
+      "name": "갑작스럽게 외부인과 방문하여 죄송합니다\n소대장님께 꼭 부탁드리고 싶은 일이 있어\n찾아뵀습니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050902_MSG0005",
+      "style": 1,
+      "name": "호오, 네가 스스로 부탁을 할 줄이야\n……들어 보지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev050902_MSG0006",
+      "style": 1,
+      "name": "네!\n오늘은 제 배치 변경을\n부탁드리고자 찾아뵀습니다![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev050902_MSG0007",
+      "style": 1,
+      "name": "배치 변경……?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev050902_MSG0008",
+      "style": 1,
+      "name": "네!\n저를 지구인과의 연락원으로\n임명해 주셨으면 합니다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev050902_MSG0009",
+      "style": 1,
+      "name": "그건 다시 말해……\n최전선에서 물러나고 싶다는 말인가?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050902_MSG0010",
+      "style": 1,
+      "name": "네……?\n아, 아닙니다! 결코 그런 것은![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev050902_MSG0011",
+      "style": 1,
+      "name": "속일 생각 마라!\n무릇 겁에 질려 한 진언이겠지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev050902_MSG0012",
+      "style": 1,
+      "name": "그런 게 용납될 줄 알았더냐![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev050902_MSG0013",
+      "style": 1,
+      "name": "아닙니다! 저는……![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev050902_MSG0014",
+      "style": 1,
+      "name": "게다가 지구인까지 데려와서는……\n대체 무슨 속셈이지?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev050902_MSG0015",
+      "style": 1,
+      "name": "이들은 저를 이해하는 자들이며……\n더구나 이번 배치 변경의 부탁도\n이들의 의견을 바탕으로 한 것으로……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev050902_MSG0016",
+      "style": 1,
+      "name": "즉, 동료라는 거군\n……좋다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev050902_MSG0017",
+      "style": 1,
+      "name": "그럼, 그 동료들의 의견이라는 게\n어디까지 신용할 수 있는지……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev050902_MSG0018",
+      "style": 1,
+      "name": "동료의 능력을 확인해 보도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev050902_MSG0019",
+      "style": 1,
+      "name": "전사로서의 기량과\n나의 의뢰를 실수 없이 해내는\n현명함과 행동력을 보여 준다면……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev050902_MSG0020",
+      "style": 1,
+      "name": "너의 진언을 들어주겠다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev050902_MSG0021",
+      "style": 1,
+      "name": "이들의 능력을 확인할 그 임무라 하시면……?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev050902_MSG0022",
+      "style": 1,
+      "name": "간단한 것이다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev050902_MSG0023",
+      "style": 1,
+      "name": "핏빛 페이스, 강화 블레이드 부품\n차세대 메인 코어 부품\n이 3가지 재료를 모아 오기만 하면 된다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev050902_MSG0024",
+      "style": 1,
+      "name": "그것뿐……입니까?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev050902_MSG0025",
+      "style": 1,
+      "name": "그래, 그것뿐이다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev050902_MSG0026",
+      "style": 1,
+      "name": "블레이드여……\n핏빛 페이스와 강화 블레이드 부품\n그리고 차세대 메인 코어 부품이다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev050902_MSG0027",
+      "style": 1,
+      "name": "그 라다를 위해\n받아들여 주겠지?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev050902_MSG0028",
+      "style": 1,
+      "name": "핏빛 페이스, 강화 블레이드 부품\n차세대 메인 코어 부품 모으기라……\n내가 생각해도 참 물질적인 의뢰를 떠올렸군[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev050902_MSG0029",
+      "style": 1,
+      "name": "자네를 끌어들이는 형태가 되어 버렸는데……\n미안하지만, 조금만 더 그 라다를 위해\n움직여 주게[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev050902_MSG0030",
+      "style": 1,
+      "name": "그 라다는 자네 같은 동료를\n원하고 있던 걸지도 모르네[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev050902_MSG0031",
+      "style": 1,
+      "name": "자신을 움직이게 해 줄……\n누군가를 말이지[ST:wait ]"
+    }
+  ]
+}

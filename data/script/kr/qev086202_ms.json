@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086202_MSG0001",
+      "style": 0,
+      "name": "해냈다! 신제품이 완성됐다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086202_MSG0002",
+      "style": 0,
+      "name": "이야, 이렇게 빨리\n마테리얼이 모이다니……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086202_MSG0003",
+      "style": 0,
+      "name": "여러분의 도움을 받을 수 있을 정도로\n제가 인복이 많아서 다행이에요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086202_MSG0004",
+      "style": 0,
+      "name": "하지만 겉모습은 평범하네요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086202_MSG0005",
+      "style": 0,
+      "name": "그렇게 생각하는 게 아마추어의 한계죠[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086202_MSG0005_m",
+      "style": 0,
+      "name": "그렇게 생각하는 게 아마추어의 한계죠[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086202_MSG0005_f",
+      "style": 0,
+      "name": "그렇게 생각하는 게 아마추어의 한계죠[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086202_MSG0006",
+      "style": 0,
+      "name": "이런, 바로 손님이 오셨어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086202_MSG0007",
+      "style": 0,
+      "name": "어서 오세요, 손님\n찾으시는 게 있으신가요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086202_MSG0008",
+      "style": 0,
+      "name": "그게, 우리 팀에서\n임무를 맡게 되었는데……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086202_MSG0009",
+      "style": 0,
+      "name": "그 에어리어의 원시 생물이 엄청 강력하거든[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086202_MSG0010",
+      "style": 0,
+      "name": "저런, 토벌하는 임무라면\n무기 숍에 가는 편이 좋아[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086202_MSG0011",
+      "style": 0,
+      "name": "아니, 아니, 우리가 그런 원시 생물을\n쓰러뜨리는 건 말도 안 되지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086202_MSG0012",
+      "style": 0,
+      "name": "쫓아내기만 하면 충분할 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086202_MSG0013",
+      "style": 0,
+      "name": "그렇군요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086202_MSG0014",
+      "style": 0,
+      "name": "그렇다면 딱 맞는 아이템을……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086202_MSG0015",
+      "style": 0,
+      "name": "골라 주세요![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086202_MSG0015_m",
+      "style": 0,
+      "name": "골라 주세요![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086202_MSG0015_f",
+      "style": 0,
+      "name": "골라 주세요![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086202_JNK0010",
+      "style": 4,
+      "name": "허니 스모크 볼"
+    },
+    {
+      "$id": 21,
+      "label": "qev086202_SEL0011",
+      "style": 3,
+      "name": "달콤~한 향기가 나는 연막"
+    },
+    {
+      "$id": 22,
+      "label": "qev086202_JNK0020",
+      "style": 4,
+      "name": "고온 밀크 팬"
+    },
+    {
+      "$id": 23,
+      "label": "qev086202_SEL0021",
+      "style": 3,
+      "name": "특별 소재로 만들었으며\n늘 고온을 유지하는 냄비"
+    },
+    {
+      "$id": 24,
+      "label": "qev086202_JNK0030",
+      "style": 4,
+      "name": "전기 해먹"
+    },
+    {
+      "$id": 25,
+      "label": "qev086202_SEL0031",
+      "style": 3,
+      "name": "자는 건 물론이고 고기나 생선도 구울 수 있다"
+    },
+    {
+      "$id": 26,
+      "label": "qev086202_MSG0016",
+      "style": 0,
+      "name": "이거, 정말 좋은 물건을 찾았어!\n이번에 마주치게 되면 바로 시험해 볼게[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086202_MSG0017",
+      "style": 0,
+      "name": "고마워![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086202_MSG0018",
+      "style": 0,
+      "name": "좋은데요?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086202_MSG0019",
+      "style": 0,
+      "name": "좋은 물건을 만들고, 그걸 판매하고……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086202_MSG0020",
+      "style": 0,
+      "name": "손님이 기뻐한다는 건\n뿌듯한 일이네요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086202_MSG0021",
+      "style": 0,
+      "name": "이런, 다음 손님이 오셨어요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086202_MSG0022",
+      "style": 0,
+      "name": "어서 오세요, 손님\n찾으시는 게 있으신가요?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086202_MSG0023",
+      "style": 0,
+      "name": "저기…… 사실은 최근에\n사귀는 사람이 생겼는데……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086202_MSG0024",
+      "style": 0,
+      "name": "와아, 축하해요![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086202_MSG0025",
+      "style": 0,
+      "name": "저기…… 고마워요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086202_MSG0026",
+      "style": 0,
+      "name": "그래서 저기……\n그 사람을 위해서 밥을 만들어 주고 싶거든요……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086202_MSG0027",
+      "style": 0,
+      "name": "그렇군요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086202_MSG0028",
+      "style": 0,
+      "name": "그렇다면 딱 맞는 아이템을……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086202_MSG0029",
+      "style": 0,
+      "name": "골라 주세요![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086202_MSG0029_m",
+      "style": 0,
+      "name": "골라 주세요![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086202_MSG0029_f",
+      "style": 0,
+      "name": "골라 주세요![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086202_MSG0030",
+      "style": 0,
+      "name": "저기…… 이거면 그 사람도\n기뻐해 줄 거예요[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev086202_MSG0031",
+      "style": 0,
+      "name": "저기…… 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086202_MSG0032",
+      "style": 0,
+      "name": "정말 도움이 되는 걸까[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev086202_MSG0033",
+      "style": 0,
+      "name": "도움이 되면 좋겠네요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev086202_MSG0034",
+      "style": 0,
+      "name": "네? 자신 없어요!?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev086202_MSG0035",
+      "style": 0,
+      "name": "어쨌든 저 물건을 고른 건\n제가 아니니까요[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev086202_MSG0036",
+      "style": 0,
+      "name": "하지만 만약 도움이 안 되더라도\n인생의 다른 곳에서 분명 도움이 될 거예요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev086202_MSG0037",
+      "style": 0,
+      "name": "과연 그럴까……[ST:wait ]"
+    }
+  ]
+}

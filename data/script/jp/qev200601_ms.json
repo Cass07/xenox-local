@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev200601_MSG0001",
+      "style": 1,
+      "name": "こんな場所までご足労いただき\nありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev200601_MSG0002",
+      "style": 1,
+      "name": "あなたが私のカードキーを拾ってくださった\nお方ですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev200601_MSG0003",
+      "style": 1,
+      "name": "拝見させていただけますか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev200601_MSG0004",
+      "style": 1,
+      "name": "これは間違いなく私のカードキーです[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev200601_MSG0005",
+      "style": 1,
+      "name": "これはとてもとても大切なものでして\nこれがなければ収入がなくなり\n生きていけなくなるところでした[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev200601_MSG0006",
+      "style": 1,
+      "name": "謝礼につきましては　なにぶん大金ですから\n後ほど振り込まさせていただきます[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev200601_JNK0010",
+      "style": 4,
+      "name": "反論"
+    },
+    {
+      "$id": 8,
+      "label": "qev200601_SEL0011",
+      "style": 3,
+      "name": "今ここで払ってほしいと\n主張する"
+    },
+    {
+      "$id": 9,
+      "label": "qev200601_JNK0020",
+      "style": 4,
+      "name": "記憶"
+    },
+    {
+      "$id": 10,
+      "label": "qev200601_SEL0021",
+      "style": 3,
+      "name": "以前も似たようなことが\nあったのを思い出す"
+    },
+    {
+      "$id": 11,
+      "label": "qev200601_MSG0007",
+      "style": 1,
+      "name": "[ST:wide ]―っ！\nまさかアナタだとは……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev200601_MSG0008",
+      "style": 1,
+      "name": "どうして今まで気付かなかったのでしょう\n顔をしっかりと見てなかったからか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev200601_JNK0030",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 14,
+      "label": "qev200601_SEL0031",
+      "style": 3,
+      "name": "どこかで会ったことがあるか\n尋ねる"
+    },
+    {
+      "$id": 15,
+      "label": "qev200601_JNK0040",
+      "style": 4,
+      "name": "要求"
+    },
+    {
+      "$id": 16,
+      "label": "qev200601_SEL0041",
+      "style": 3,
+      "name": "前回踏み倒した報酬も\n要求する"
+    },
+    {
+      "$id": 17,
+      "label": "qev200601_MSG0009",
+      "style": 1,
+      "name": "いやいや　工業エリアのアームズ兵器試験場で\nお会いしたではないですか[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev200601_MSG0010",
+      "style": 1,
+      "name": "そして報酬を踏み倒したヤードリーですよ\n思い出しましたか？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev200601_MSG0011",
+      "style": 1,
+      "name": "[ST:wide ]―ううむ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev200601_MSG0012",
+      "style": 1,
+      "name": "もはや私も覚悟を決めなければなりませんな[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev200601_MSG0013",
+      "style": 1,
+      "name": "詳しい話はさらに別の場所でいたしましょう[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev200601_MSG0014",
+      "style": 1,
+      "name": "深夜　ブレイドエリアのハンガーの\nさらに下層にお越しください[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev200601_MSG0015",
+      "style": 1,
+      "name": "そこで今回の謝礼もいたします[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev200601_MSG0016",
+      "style": 1,
+      "name": "では　後ほど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev200601_MSG0017",
+      "style": 1,
+      "name": "さ　さすがに覚えておられましたか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev200601_MSG0018",
+      "style": 1,
+      "name": "こうなっては仕方ありますまい[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev200601_MSG0019",
+      "style": 1,
+      "name": "深夜　ブレイドエリアのハンガーの\nさらに下層にお越しください[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev200601_MSG0020",
+      "style": 1,
+      "name": "そこで必ずや謝礼をいたしますので[ST:wait ]"
+    }
+  ]
+}

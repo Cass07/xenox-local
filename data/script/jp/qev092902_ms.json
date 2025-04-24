@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092902_MSG0010",
+      "style": 0,
+      "name": "おっと　そうだった\n自己紹介がまだだったね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092902_MSG0020",
+      "style": 0,
+      "name": "私はニール・ネール\nニールで構わないよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092902_MSG0030",
+      "style": 0,
+      "name": "ちなみに　クリュー人を見るのは\n初めてだったりする？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092902_JNK0040",
+      "style": 4,
+      "name": "初めて"
+    },
+    {
+      "$id": 5,
+      "label": "qev092902_SEL0050",
+      "style": 3,
+      "name": "初めてとうなずく"
+    },
+    {
+      "$id": 6,
+      "label": "qev092902_MSG0060",
+      "style": 0,
+      "name": "ふーん　やっぱりそうなんだね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092902_MSG0070",
+      "style": 4,
+      "name": "そうでもない"
+    },
+    {
+      "$id": 8,
+      "label": "qev092902_MSG0080",
+      "style": 3,
+      "name": "見たことがあると伝える"
+    },
+    {
+      "$id": 9,
+      "label": "qev092902_MSG0090",
+      "style": 0,
+      "name": "本当に？　それはそれで珍しいね\n今度ぜひ紹介してほしいな[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092902_MSG0100",
+      "style": 0,
+      "name": "クリュー人って\n本星を離れることが滅多にないから[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092902_MSG0105",
+      "style": 0,
+      "name": "私ですら会うのは稀なんだよね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092902_MSG0110",
+      "style": 0,
+      "name": "それで確認なんだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092902_MSG0120",
+      "style": 0,
+      "name": "キミ達ブレイドは　民間の軍事組織で\n武力が必要な仕事も請け負ってくれる[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092902_MSG0130",
+      "style": 0,
+      "name": "ここまであってる？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092902_MSG0140",
+      "style": 0,
+      "name": "よかった\nまさにそういう依頼をしたかったんだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092902_MSG0150",
+      "style": 0,
+      "name": "けど　危険区域での活動には[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092902_MSG0160",
+      "style": 0,
+      "name": "うんざりするくらいの手続きと\n偉い人の許可がいるらしくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092902_MSG0170",
+      "style": 0,
+      "name": "私みたいな異星人が一緒だと特にね\nほら　外交問題とかあるでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092902_MSG0180",
+      "style": 0,
+      "name": "もう一人でやるしかないかなぁ[ST:wide ]―　と\n諦めかけていた時　キミが現れた[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092902_MSG0190",
+      "style": 0,
+      "name": "見たところ　個人の裁量で依頼を受けてる\nブレイドもいるようだから[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092902_MSG0200",
+      "style": 0,
+      "name": "そういうのもアリってことなんだよね？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092902_JNK0210",
+      "style": 4,
+      "name": "即決"
+    },
+    {
+      "$id": 23,
+      "label": "qev092902_SEL0220",
+      "style": 3,
+      "name": "引き受けたとうなずく"
+    },
+    {
+      "$id": 24,
+      "label": "qev092902_MSG0230",
+      "style": 0,
+      "name": "まだ依頼の内容も話してないのに\n即決しちゃうんだ！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092902_MSG0240",
+      "style": 0,
+      "name": "肝が据わってるね　キミ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092902_MSG0250",
+      "style": 4,
+      "name": "冷静"
+    },
+    {
+      "$id": 27,
+      "label": "qev092902_MSG0260",
+      "style": 3,
+      "name": "内容によると伝える"
+    },
+    {
+      "$id": 28,
+      "label": "qev092902_MSG0270",
+      "style": 0,
+      "name": "うんうん　そうこなくちゃ\nそれじゃあ順を追って説明するね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092902_MSG0280",
+      "style": 0,
+      "name": "忘却の渓谷と呼ばれているエリアにある\n巨大なリング状の構造体[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092902_MSG0290",
+      "style": 0,
+      "name": "あれを調査したいんだ　個人的にね[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092902_MSG0300",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "qev092902_MSG0310",
+      "style": 0,
+      "name": "私　キミ達で言うところの\n“考古学”を研究しているんだ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092902_MSG0320",
+      "style": 0,
+      "name": "調査対象は　異星文明の遺跡や文献データ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092902_MSG0325",
+      "style": 0,
+      "name": "さしずめ“宇宙考古学”ってところかな[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092902_MSG0330",
+      "style": 0,
+      "name": "で　あのリング構造体が“私の想像通り”なら[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092902_MSG0335",
+      "style": 0,
+      "name": "ちょっと厄介な代物かもしれなくてね[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092902_MSG0340",
+      "style": 0,
+      "name": "できれば早めに　あれの実態を解明したい\nそのために実地調査をしたいんだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092902_MSG0350",
+      "style": 0,
+      "name": "ほら　あの周辺には\n危険な原生生物がウヨウヨいるじゃない？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092902_MSG0360",
+      "style": 0,
+      "name": "そこで　私が調査に集中できるように\n原生生物から守ってほしい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092902_MSG0370",
+      "style": 0,
+      "name": "っていうのが　キミにお願いしたいこと\n[ST:wide ]―どうかな？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092902_MSG0380",
+      "style": 0,
+      "name": "もちろん必要とあれば私も戦うよ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092902_MSG0390",
+      "style": 0,
+      "name": "こう見えて　各星系の遺跡を巡って\nそれなりに場数は踏んでるから[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092902_MSG0400",
+      "style": 0,
+      "name": "さてと[ST:wide ]―　おしゃべりはここまで！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092902_MSG0410",
+      "style": 0,
+      "name": "巨大リングを目指して　いざ出発！\n改めてよろしくね[ST:wait ]"
+    }
+  ]
+}

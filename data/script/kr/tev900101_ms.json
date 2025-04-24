@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev900101_MSG0010",
+      "style": 1,
+      "name": "흐레스벨그 개발도 일단락돼서\n오랜만에 휴가를 받았는데……\n솔직히 딱히 하고 싶은 게 없어서 말이다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev900101_MSG0020",
+      "style": 1,
+      "name": "너만 괜찮으면\n블레이드 임무를 돕게 해 주지 않겠나?\n도움받은 은혜도 있고[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev900101_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 4,
+      "label": "tev900101_SEL0040",
+      "style": 3,
+      "name": "리젤을 멤버에 넣는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev900101_MSG0050",
+      "style": 1,
+      "name": "알겠다\n마음껏 실력을 발휘해 주겠어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev900101_MSG0060",
+      "style": 1,
+      "name": "특히 돌을 이용한 싸움은 맡겨 줘\n기대 이상의 성과를 약속하지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev900101_JNK0070",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev900101_SEL0080",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev900101_MSG0090",
+      "style": 1,
+      "name": "그렇군\n필요할 때는 말을 걸어 줘\n힘이 돼 줄게[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev900101_MSG0100",
+      "style": 1,
+      "name": "자, 그럼…… 뭘 하면 좋을까[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev900101_MSG0110",
+      "style": 1,
+      "name": "아리샤의 제안으로 새로운 회사에서는\n전투원 파견 사업도 고려하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev900101_MSG0120",
+      "style": 1,
+      "name": "내가 그 1호라는 거지\n어때? 시험 삼아 고용해 보지 않겠어?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev900101_JNK0130",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 14,
+      "label": "tev900101_SEL0140",
+      "style": 3,
+      "name": "리젤을 멤버에 넣는다"
+    },
+    {
+      "$id": 15,
+      "label": "tev900101_MSG0150",
+      "style": 1,
+      "name": "맡겨 줘\n반드시 도움이 될 거다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev900101_JNK0160",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 17,
+      "label": "tev900101_SEL0170",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 18,
+      "label": "tev900101_MSG0180",
+      "style": 1,
+      "name": "음…… 그런가\n그거 유감이군[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev900101_MSG0190",
+      "style": 1,
+      "name": "뭐, 기회는 얼마든지 있으니까\n그때는 사양 말고 부탁하라고[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev900101_MSG0200",
+      "style": 1,
+      "name": "센트럴 라이프에 대해\n임시자치정부에서 함구령이 내려졌지만\n아무래도 절박한 상황인 것 같군[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev900101_MSG0210",
+      "style": 1,
+      "name": "나라도 괜찮다면 도와줄게\n도움이 필요할 땐 말해 줘[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev900101_JNK0220",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 23,
+      "label": "tev900101_SEL0230",
+      "style": 3,
+      "name": "리젤을 멤버에 넣는다"
+    },
+    {
+      "$id": 24,
+      "label": "tev900101_MSG0240",
+      "style": 1,
+      "name": "좋았어\n자, 가 볼까?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev900101_JNK0250",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 26,
+      "label": "tev900101_SEL0260",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 27,
+      "label": "tev900101_MSG0270",
+      "style": 1,
+      "name": "알겠어, 너의 판단을 믿지\n하지만 무리는 하지 말라고[ST:wait ]"
+    }
+  ]
+}

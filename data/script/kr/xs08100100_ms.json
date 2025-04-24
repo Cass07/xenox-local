@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08100100_MSG0001",
+      "style": 0,
+      "name": "적의 돌 다수가\n시가지에 침입했다고 해요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08100100_JNK0010",
+      "style": 4,
+      "name": "강인한 자세"
+    },
+    {
+      "$id": 3,
+      "label": "xs08100100_SEL0011",
+      "style": 3,
+      "name": "NLA를 지키겠다는 의지를 강하게 내비친다"
+    },
+    {
+      "$id": 4,
+      "label": "xs08100100_JNK0020",
+      "style": 4,
+      "name": "나약한 자세"
+    },
+    {
+      "$id": 5,
+      "label": "xs08100100_SEL0021",
+      "style": 3,
+      "name": "전략적 후퇴를 제안해 본다"
+    },
+    {
+      "$id": 6,
+      "label": "xs08100100_MSG0002",
+      "style": 0,
+      "name": "기대하고 있을게\n눈앞의 적을 하나하나 처리해 가자[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08100100_MSG0003",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs08100100_MSG0004",
+      "style": 0,
+      "name": "도망칠 수 없어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs08100100_MSG0005",
+      "style": 0,
+      "name": "이미 게이트는 닫혔고 밖에도 적 지상 부대가\n있으니까 그런 생각 하지 마세요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs08100100_MSG0006",
+      "style": 0,
+      "name": "각오를 다지도록 해\n싸울 수밖에 없어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs08100100_MSG0007",
+      "style": 0,
+      "name": "엘마[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs08100100_MSG0008",
+      "style": 0,
+      "name": "상업 에어리어에\n정체불명의 적이 나타났다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs08100100_MSG0009",
+      "style": 0,
+      "name": "숫자는 둘이지만 강력해\n심각한 피해를 일으키고 있어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08100100_MSG0010",
+      "style": 0,
+      "name": "주변 정리가 끝나면 그쪽으로 가 주게[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08100100_MSG0011",
+      "style": 0,
+      "name": "알았어, 금방 갈게[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32070100_MSG0010",
+      "style": 0,
+      "name": "여기서 전투가 있었던 모양이군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32070100_MSG0020",
+      "style": 0,
+      "name": "시체는 그로우스 병사뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32070100_MSG0030",
+      "style": 0,
+      "name": "아직 살아 있을 가능성이 있어 보여요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32070100_MSG0040",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32070100_MSG0050",
+      "style": 0,
+      "name": "찾아 보자[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32070100_MSG0060",
+      "style": 0,
+      "name": "누구냐……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32070100_MSG0070",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "xs32070100_MSG0080",
+      "style": 0,
+      "name": "당신은……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32070100_MSG0090",
+      "style": 0,
+      "name": "너희들은……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32070100_MSG0100",
+      "style": 0,
+      "name": "그렇군, 동료를 찾으러 왔나[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32070100_MSG0110",
+      "style": 0,
+      "name": "뭔가 알고 있어?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32070100_MSG0120",
+      "style": 0,
+      "name": "여기서 무슨 일이 있던 거야?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32070100_MSG0130",
+      "style": 0,
+      "name": "우리는 너희의 탈출 계획에 찬동하여[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32070100_MSG0140",
+      "style": 0,
+      "name": "아이들을 먼저 NLA로 호송하고 있었다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32070100_MSG0150",
+      "style": 0,
+      "name": "그때 이 근처를 지나는데[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32070100_MSG0160",
+      "style": 0,
+      "name": "우연히도 여기서 그로우스 녀석들과 전투하는\n지구인을 발견해 가세한 것이다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32070100_MSG0170",
+      "style": 0,
+      "name": "전투에는 승리했지만, 부상자도 나와서 말이지[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32070100_MSG0180",
+      "style": 0,
+      "name": "지금은 부상병을 이송하고 있다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32070100_MSG0190",
+      "style": 0,
+      "name": "그랬구나[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32070100_MSG0200",
+      "style": 0,
+      "name": "고마워[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32070100_MSG0210",
+      "style": 0,
+      "name": "인사는 필요 없다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32070100_MSG0220",
+      "style": 0,
+      "name": "너희들의 동료는\n우리의 거처에서 치료 중이다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32070100_MSG0230",
+      "style": 0,
+      "name": "가 보우 씨[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32070100_MSG0240",
+      "style": 0,
+      "name": "마 논인은 못 보셨나요?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32070100_MSG0250",
+      "style": 0,
+      "name": "우리는 보지 못했지만[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32070100_MSG0260",
+      "style": 0,
+      "name": "다른 부대도 있었으니\n그쪽에서 보호했을지도 모르겠군[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32070100_MSG0270",
+      "style": 0,
+      "name": "만약 방해되지 않는다면\n지금 거처에 가 봐도 될까?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32070100_MSG0280",
+      "style": 0,
+      "name": "그래, 상관없다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32070100_MSG0290",
+      "style": 0,
+      "name": "뭘 하는 거냐![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32070100_MSG0300",
+      "style": 0,
+      "name": "아직 잔당이 있었던 건가[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32070100_MSG0310",
+      "style": 0,
+      "name": "모두 죽여 주마![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32070100_MSG0320",
+      "style": 0,
+      "name": "여기는 우리에게 맡겨[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32070100_MSG0330",
+      "style": 0,
+      "name": "당신들은 서둘러서 부상자를 이송해[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32070100_MSG0340",
+      "style": 0,
+      "name": "……알겠다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32070100_MSG0350",
+      "style": 0,
+      "name": "뒷일은 맡기지[ST:wait ]"
+    }
+  ]
+}

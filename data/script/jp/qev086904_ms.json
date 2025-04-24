@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086904_MSG0001",
+      "style": 0,
+      "name": "そろそろ　工事を再開するのに\n十分な量が集まったかしら[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086904_MSG0002",
+      "style": 0,
+      "name": "はい　皆さんのおかげです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086904_MSG0003",
+      "style": 0,
+      "name": "セリカさんは　ロックさんのことを\n本当に大事に想っているんですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086904_MSG0004",
+      "style": 0,
+      "name": "ロックは　私のいちばん大切な家族だから[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086904_MSG0005",
+      "style": 0,
+      "name": "でもロック　前に言ってたですも[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086904_MSG0006",
+      "style": 0,
+      "name": "グロウスと一緒に\nセリカさんの故郷に酷いことしたって[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086904_MSG0007",
+      "style": 0,
+      "name": "セリカさん　ロックに怒ってないですも？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086904_MSG0008",
+      "style": 0,
+      "name": "タツ　余計なこと聞かないの[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086904_MSG0009",
+      "style": 0,
+      "name": "そっか　ロックそのこと話してたんですね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086904_MSG0010",
+      "style": 0,
+      "name": "ごめんなさい　セリカ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086904_MSG0011",
+      "style": 0,
+      "name": "いいんです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086904_MSG0012",
+      "style": 0,
+      "name": "それだけ　ロックが皆さんを\n信じてるってことですから[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086904_MSG0013",
+      "style": 0,
+      "name": "ロックは\nグロウスが生み出した生体兵器だったんです[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086904_MSG0015",
+      "style": 0,
+      "name": "私の故郷がグロウスに襲われた時\nロックの兄弟にたくさんの人が殺されて[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086904_MSG0016",
+      "style": 0,
+      "name": "でも　戦いの中で優しい心が目覚めたロックは\n私を助けてくれたんです[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086904_MSG0017",
+      "style": 0,
+      "name": "そんなことが[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086904_MSG0018",
+      "style": 0,
+      "name": "だからあなたは\nロックを戦わせたくなかったのね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086904_JNK0010",
+      "style": 4,
+      "name": "同調"
+    },
+    {
+      "$id": 19,
+      "label": "qev086904_SEL0011",
+      "style": 3,
+      "name": "セリカの気遣いを褒める"
+    },
+    {
+      "$id": 20,
+      "label": "qev086904_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 21,
+      "label": "qev086904_SEL0021",
+      "style": 3,
+      "name": "ロックの戦闘力に期待する"
+    },
+    {
+      "$id": 22,
+      "label": "qev086904_MSG0019",
+      "style": 0,
+      "name": "私も同意見よ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086904_MSG0020",
+      "style": 0,
+      "name": "セリカのおかげで　ロックは戦う以外の\n生き方を見つけられたのだから[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086904_MSG0021",
+      "style": 0,
+      "name": "皆さん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086904_MSG0022",
+      "style": 0,
+      "name": "ロックに戦えるようになって\nほしいということ？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086904_MSG0023",
+      "style": 0,
+      "name": "信じらんない！\nなんてこと言うんですか！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086904_MSG0023_m",
+      "style": 0,
+      "name": "信じらんない！\nなんてこと言うんですか！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086904_MSG0023_f",
+      "style": 0,
+      "name": "信じらんない！\nなんてこと言うんですか！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086904_MSG0024",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "qev086904_MSG0025",
+      "style": 0,
+      "name": "さぁ　はやくエアロジウムを持って帰って\nまた工事できるようにしてあげるですも[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086904_MSG0026",
+      "style": 0,
+      "name": "そしたら　ロックも喜ぶですも！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086904_MSG0027",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086904_MSG0028",
+      "style": 0,
+      "name": "エルマさん　あれ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086904_MSG0029",
+      "style": 0,
+      "name": "ここで迎撃する[ST:wait ]"
+    }
+  ]
+}

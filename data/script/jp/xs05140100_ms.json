@@ -1,0 +1,414 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05140100_MSG0001",
+      "style": 0,
+      "name": "目が覚めたようね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs05140100_MSG0002",
+      "style": 0,
+      "name": "新しい左腕の調子はどうですか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs05140100_JNK0010",
+      "style": 4,
+      "name": "良好"
+    },
+    {
+      "$id": 4,
+      "label": "xs05140100_SEL0011",
+      "style": 3,
+      "name": "左腕の具合を確かめうなずく"
+    },
+    {
+      "$id": 5,
+      "label": "xs05140100_JNK0020",
+      "style": 4,
+      "name": "不調"
+    },
+    {
+      "$id": 6,
+      "label": "xs05140100_SEL0021",
+      "style": 3,
+      "name": "左腕を見つめて首をかしげる"
+    },
+    {
+      "$id": 7,
+      "label": "xs05140100_MSG0003",
+      "style": 0,
+      "name": "よかったぁ～[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs05140100_MSG0004",
+      "style": 0,
+      "name": "リンの処置が早かったおかげね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs05140100_MSG0005",
+      "style": 0,
+      "name": "あと少し遅かったら生体循環液が\n全部漏れ出てしまって　再生も叶わなかった[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs05140100_MSG0006",
+      "style": 0,
+      "name": "えへへへへ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs05140100_MSG0007",
+      "style": 0,
+      "name": "うーん　解析結果では\n特に問題は出ていなかったんですけど[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs05140100_MSG0008",
+      "style": 0,
+      "name": "接合部分からの液漏れも確認できませんし\n指先もしっかり動いているので[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs05140100_MSG0009",
+      "style": 0,
+      "name": "問題は無さそうなんですが[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs05140100_MSG0010",
+      "style": 0,
+      "name": "リンの処置は完璧だったわ\nそれに解析結果も問題がないなら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs05140100_MSG0011",
+      "style": 0,
+      "name": "身体と腕の親和性が\nまだ低いだけじゃないかしら[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs05140100_MSG0012",
+      "style": 0,
+      "name": "おそらくそうですね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs05140100_MSG0013",
+      "style": 0,
+      "name": "処置からそんなに時間もたっていませんし\nそこは私でもどうにもできませんからね[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs05140100_MSG0014",
+      "style": 0,
+      "name": "あと少したてば問題なくなると思います[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs05140100_MSG0015",
+      "style": 0,
+      "name": "まず　あなたに\n謝っておかなければならないわ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs05140100_MSG0016",
+      "style": 0,
+      "name": "あなたの記憶障害のことを思えば\n[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby][ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs05140100_MSG0017",
+      "style": 0,
+      "name": "人工生体　ブルー・ブラッドのことを\n話しておかなかったのは私のミスよ[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "xs05140100_MSG0018",
+      "style": 0,
+      "name": "ごめんなさい[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs05140100_MSG0019",
+      "style": 0,
+      "name": "私達[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]は\n日常生活ではそのことを意識しないよう[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "xs05140100_MSG0020",
+      "style": 0,
+      "name": "全ての生理機能を再現してるんです[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs05140100_MSG0021",
+      "style": 0,
+      "name": "だから　私もお料理とか楽しめるし[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs05140100_MSG0022",
+      "style": 0,
+      "name": "白鯨という巨大移民船を操船\n保守するためのクルー[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs05140100_MSG0023",
+      "style": 0,
+      "name": "その全員が[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]よ[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "xs05140100_MSG0024",
+      "style": 0,
+      "name": "でもなんで　[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]になる必要が\nあったのですも？[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "xs05140100_MSG0025",
+      "style": 0,
+      "name": "だって当たり前じゃない！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs05140100_MSG0026",
+      "style": 0,
+      "name": "居住可能な惑星が見つかるまで\n何十年何百年かかるかわからなかったのよ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs05140100_MSG0027",
+      "style": 0,
+      "name": "船の中で年老いて死んじゃうんじゃ\nクルーになりたい人なんていなくなっちゃう[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs05140100_MSG0028",
+      "style": 0,
+      "name": "なるほどー　そういうものですも[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs05140100_MSG0029",
+      "style": 0,
+      "name": "私達の生身の肉体は\n他の人達と同じようにライフで眠っている[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs05140100_MSG0030",
+      "style": 0,
+      "name": "そこから[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]を遠隔操作している\nというわけ[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs05140100_MSG0031",
+      "style": 0,
+      "name": "だから忘れないで[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs05140100_MSG0032",
+      "style": 0,
+      "name": "ライフポイントを発見　確保するというのは\n私達の安全を確保するということでもあるの[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs05140100_MSG0033",
+      "style": 0,
+      "name": "我々[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]の本体がコールドスリープ\nされているライフが機能停止したら[ST:wait ]\n"
+    },
+    {
+      "$id": 38,
+      "label": "xs05140100_MSG0034",
+      "style": 0,
+      "name": "ＮＬＡで生活している[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]全てが\n死に絶えちゃいますね[ST:wait ]\n"
+    },
+    {
+      "$id": 39,
+      "label": "xs05140100_MSG0035",
+      "style": 0,
+      "name": "それと　ひとつ警告しておくことがあるわ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs05140100_MSG0036",
+      "style": 0,
+      "name": "私達は今の身体を失っても新しい\n[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]を得てまた活動することができる[ST:wait ]\n"
+    },
+    {
+      "$id": 41,
+      "label": "xs05140100_MSG0037",
+      "style": 0,
+      "name": "でも　その再設定はライフの中枢[ST:wide ]―\nセントラルライフでしかできないの[ST:wait ]\n"
+    },
+    {
+      "$id": 42,
+      "label": "xs05140100_MSG0038",
+      "style": 0,
+      "name": "ももも！　じゃあ　グロウスや原生生物に\nやられて　[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]をなくしたら[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 43,
+      "label": "xs05140100_MSG0039",
+      "style": 0,
+      "name": "すぐには蘇れなくなるの[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs05140100_MSG0040",
+      "style": 0,
+      "name": "当分は　たった一つの命と同等に\n思って慎重に行動してほしい[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs05140100_MSG0041",
+      "style": 0,
+      "name": "[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]だからといって　粗末にしないで\nチームリーダーとしてのお願いよ[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "xs05140100_MSG0042",
+      "style": 0,
+      "name": "それともう一つ\nあなた達には伝えておきたいことがある[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs05140100_MSG0043",
+      "style": 0,
+      "name": "混乱を防ぐため　各ブレイドの\nチームリーダー以外には伏せている事実よ[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs05140100_MSG0044",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "xs05140100_MSG0045",
+      "style": 0,
+      "name": "ブレイドタワーの時計　見たことある？[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs05140100_MSG0046",
+      "style": 0,
+      "name": "あの時計はね\nあるカウントダウンを表示しているの[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs05140100_MSG0047",
+      "style": 0,
+      "name": "あるカウントダウンってなんですも？[ST:wait ]\n"
+    },
+    {
+      "$id": 52,
+      "label": "xs05140100_MSG0048",
+      "style": 0,
+      "name": "ライフの稼働限界よ[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs05140100_MSG0049",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs05140100_MSG0050",
+      "style": 0,
+      "name": "白鯨の主動力炉から切り離されたライフには\n近いうちに稼働限界が訪れる[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs05140100_MSG0051",
+      "style": 0,
+      "name": "私達はそれまでに何としても見つけ出し\n新しい動力を確保しなければならない[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs05140100_MSG0052",
+      "style": 0,
+      "name": "もし　見つけられなかったら[ST:wait ]\n"
+    },
+    {
+      "$id": 57,
+      "label": "xs05140100_MSG0053",
+      "style": 0,
+      "name": "この身体は永久に活動を停止する[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs05140100_MSG0054",
+      "style": 0,
+      "name": "つまり[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs05140100_MSG0055",
+      "style": 0,
+      "name": "永遠の闇の世界　死が訪れる[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs05140100_MSG0056",
+      "style": 0,
+      "name": "全ての地球人に　何ら分け隔て無く平等にね[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs05140100_MSG0057",
+      "style": 0,
+      "name": "エルマさん　この後どうされます？[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs05140100_MSG0058",
+      "style": 0,
+      "name": "体調は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs05140100_MSG0058_2",
+      "style": 0,
+      "name": "大丈夫なようね[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs05140100_MSG0059",
+      "style": 0,
+      "name": "ではブレイドタワーへ行きましょう\nヴァンダムに任務の報告をしないとね[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs05140100_MSG0060",
+      "style": 0,
+      "name": "はい[ST:wait ]\n"
+    },
+    {
+      "$id": 66,
+      "label": "xs05140100_MSG9000",
+      "style": 0,
+      "name": "[ST:wide ]―　[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]メンテナンスセンター　[ST:wide ]―[ST:wait ]\n"
+    }
+  ]
+}

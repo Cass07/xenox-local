@@ -1,0 +1,582 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092602_MSG0001",
+      "style": 0,
+      "name": "지구인 양반, 무슨 일이냐모?\n이 위대한 장로인 눈에게 무언가 볼일이 있냐모?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092602_MSG0002",
+      "style": 0,
+      "name": "노폰 상회의 증표가 필요해요\n어떻게 해야 가질 수 있는지 알려 주세요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092602_MSG0003",
+      "style": 0,
+      "name": "또 그 얘기냐모……\n아까도 토라가 물어보더니만……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092602_MSG0004",
+      "style": 0,
+      "name": "토라에게서 이야기를 들었다면\n사정은 이미 알고 있겠네요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092602_MSG0005",
+      "style": 0,
+      "name": "최대한 빨리 코인을 얻어야 해요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092602_MSG0006",
+      "style": 0,
+      "name": "하지만 토라는 조건을 충족하지 않았다모[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092602_MSG0007",
+      "style": 0,
+      "name": "충족했다모! 의욕만은 10인분이다모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092602_MSG0008",
+      "style": 0,
+      "name": "그런 문제가 아니다모\n노폰 상회의 증표는 스스로 만드는 것[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092602_MSG0009",
+      "style": 0,
+      "name": "코인을 만들기 위한\n3개의 마테리얼을 모으는 과정에는[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092602_MSG0009_02",
+      "style": 0,
+      "name": "어마어마한 난관이 기다리고 있다모[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092602_MSG0010",
+      "style": 0,
+      "name": "그 난관을 돌파해야 비로소\n어엿한 상인으로 인정받는 거다모![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092602_MSG0011",
+      "style": 0,
+      "name": "그러니 햇병아리 토라가 도전했다가는\n목숨을 잃고 말 거다모![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092602_MSG0012",
+      "style": 0,
+      "name": "잃지 않는다모!\n그런 위험한 일은 전부 누나한테 맡길 거다모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092602_MSG0013",
+      "style": 0,
+      "name": "맡겨 달라고 말하고 싶지만……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092602_MSG0014",
+      "style": 0,
+      "name": "이 할아버지 말씀으로는……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092602_MSG0015",
+      "style": 0,
+      "name": "스스로 모으지 않으면\n의미가 없는 것 같은데?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092602_MSG0016",
+      "style": 0,
+      "name": "으음~ 그런가모?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092602_MSG0017",
+      "style": 0,
+      "name": "노폰 상회 선언문에는\n돈을 위해서라면 뭐든 이용해야 한다!![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092602_MSG0017_2",
+      "style": 0,
+      "name": "라고 적혀 있었다모[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092602_MSG0018",
+      "style": 0,
+      "name": "참 대단한 선언문이네……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092602_MSG0019",
+      "style": 0,
+      "name": "장로![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092602_MSG0019_2",
+      "style": 0,
+      "name": "블레이드 사람들을 활용하는 건\n지침에 맞는 행동이라고 생각해모![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092602_MSG0020",
+      "style": 0,
+      "name": "모모모……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092602_MSG0021",
+      "style": 0,
+      "name": "모모모…………[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092602_MSG0079",
+      "style": 4,
+      "name": "거든다"
+    },
+    {
+      "$id": 26,
+      "label": "qev092602_MSG0080",
+      "style": 3,
+      "name": "블레이드에게 의뢰하는 것은\n토라 나름의 방법이라며 거든다"
+    },
+    {
+      "$id": 27,
+      "label": "qev092602_MSG0081",
+      "style": 4,
+      "name": "매수한다"
+    },
+    {
+      "$id": 28,
+      "label": "qev092602_MSG0082",
+      "style": 3,
+      "name": "나중에 귀여운 노폰을\n소개해 주겠다면서 매수한다"
+    },
+    {
+      "$id": 29,
+      "label": "qev092602_MSG0022",
+      "style": 0,
+      "name": "모모모…… 그래, 블레이드에게 의뢰한 건[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092602_MSG0023",
+      "style": 0,
+      "name": "어린 토라가 자기 나름대로\n안전을 고려해서 결정한 것이겠지모……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092602_MSG0024",
+      "style": 0,
+      "name": "지침에…… 맞다모……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092602_MSG0025",
+      "style": 0,
+      "name": "모모모!\n눈의 취향을 이용하다니……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092602_MSG0025_m",
+      "style": 0,
+      "name": "모모모!\n눈의 취향을 이용하다니……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092602_MSG0025_f",
+      "style": 0,
+      "name": "모모모!\n눈의 취향을 이용하다니……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092602_MSG0026",
+      "style": 0,
+      "name": "당신도 제법 장삿속이 밝다모[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092602_MSG0026_m",
+      "style": 0,
+      "name": "당신도 제법 장삿속이 밝다모[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092602_MSG0026_f",
+      "style": 0,
+      "name": "당신도 제법 장삿속이 밝다모[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092602_MSG0027",
+      "style": 0,
+      "name": "떨떠름하지만 인정해 주겠다모[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092602_MSG0028",
+      "style": 0,
+      "name": "하지만 눈은 절대로\n매수당한 게 아니다모![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092602_MSG0029",
+      "style": 0,
+      "name": "토라의 기지를 인정한 거다모![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092602_MSG0030",
+      "style": 0,
+      "name": "해냈다모~!![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092602_MSG0031",
+      "style": 0,
+      "name": "장로, 어서 3개의 마테리얼에 대해\n알려 줘모![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092602_MSG0032",
+      "style": 0,
+      "name": "알았으니 진정하고 잘 들어라모\n코인을 만들기 위해서는……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092602_MSG0033",
+      "style": 0,
+      "name": "부드러운 금속, 부유석의 조각\n행운의 무지개 수염이 필요하다모[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092602_MSG0034",
+      "style": 0,
+      "name": "어느 것이나 쉽게 획득할 수 없는 보물뿐……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092602_MSG0035",
+      "style": 0,
+      "name": "지혜를 쥐어짜서 가지고 와라모![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092602_MSG0036",
+      "style": 0,
+      "name": "토라, 열심히 할 거야모!\n누나네도 죽을힘을 다해 열심히 해라모!![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092602_MSG0037",
+      "style": 0,
+      "name": "그래그래[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092602_MSG0038",
+      "style": 0,
+      "name": "그걸 다 모은 후에는 뭘 하면 되나요?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092602_MSG0039",
+      "style": 0,
+      "name": "눈에게 가지고 와라모!\n그 후에 다음 단계를 진행하겠다모[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092602_MSG0083",
+      "style": 1,
+      "name": "왜 그러냐모?\n코인의 재료를 잊었어모?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092602_MSG0084",
+      "style": 1,
+      "name": "어엿한 상인의 증표로 필요한 건\n부드러운 금속, 부유석의 조각\n행운의 무지개 수염이다모, 기억했냐모?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092602_MSG0085",
+      "style": 1,
+      "name": "노폰들은 이걸 획득하는 과정에서\n장사에 필요한 지혜를 터득하게 된다모[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092602_MSG0086",
+      "style": 1,
+      "name": "재료를 가지고 오면\n코인을 만들어 줄 테니까\n열심히 찾아 봐라모[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092602_MSG0040",
+      "style": 0,
+      "name": "장로~! 마테리얼 가지고 왔다모~![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092602_MSG0041",
+      "style": 0,
+      "name": "어서 코인을 만들어서 토라가\n노폰 상회에 들어가게 해 줘모~![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092602_MSG0042",
+      "style": 0,
+      "name": "……흠? 그것들을 줘 봐라모\n진정 올바른 물건인지 눈이 확인해 주겠다모[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092602_MSG0043",
+      "style": 0,
+      "name": "흐음! 확실히 전부 모았구나모![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092602_MSG0044",
+      "style": 0,
+      "name": "다행이다\n그러면 이제 뭘 하면 될까요?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092602_MSG0045",
+      "style": 0,
+      "name": "이제부터가 고비다모[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092602_MSG0046",
+      "style": 0,
+      "name": "고대로부터 전승되어 온 비밀 의식으로\n코인을 만들어야 한다모[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev092602_MSG0047",
+      "style": 0,
+      "name": "게다가 이 의식을 아는 노폰은\n한 명밖에 없다모!![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev092602_MSG0048",
+      "style": 0,
+      "name": "그런 사람이라면 찾는 것도 일이잖아모!?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev092602_MSG0049",
+      "style": 0,
+      "name": "어디 있는지 아시나요?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev092602_MSG0050",
+      "style": 0,
+      "name": "물론 알고 있다모, 그 정체는 바로……[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev092602_MSG0051",
+      "style": 0,
+      "name": "눈이다모!![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev092602_MSG0052",
+      "style": 0,
+      "name": "아, 역시나[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev092602_MSG0053",
+      "style": 0,
+      "name": "장로, 쓸데없이 무게나 잡지 말고\n빨리 만들어 줘모[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev092602_MSG0054",
+      "style": 0,
+      "name": "모못!? 말이 심하다모……[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev092602_MSG0055",
+      "style": 0,
+      "name": "토라의 아빠랑 엄마가 돌아오기 전에\n코인을 얻어야 해모, 그러니까 서둘러 줘모[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092602_MSG0056",
+      "style": 0,
+      "name": "네 사정은 알고 있다모[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092602_MSG0057",
+      "style": 0,
+      "name": "하지만, 토라도 알아 두도록 해라모[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092602_MSG0058",
+      "style": 0,
+      "name": "노폰 상회의 증표를 만드는 건\n보통 일이 아니라는 것을[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092602_MSG0059",
+      "style": 0,
+      "name": "코인을 만들기 위해서는 일단 모아 온\n마테리얼을 조합하여 3일 밤낮으로 숙성시키고……[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092602_MSG0060",
+      "style": 0,
+      "name": "3일 밤낮으로!?[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092602_MSG0061",
+      "style": 0,
+      "name": "오래 걸린다모![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092602_MSG0062",
+      "style": 0,
+      "name": "그 후, 추가로 180일간 계속 구워야 한다모[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092602_MSG0063",
+      "style": 0,
+      "name": "거의 반년인데!?[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092602_MSG0064",
+      "style": 0,
+      "name": "끝장이다모![ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092602_MSG0065",
+      "style": 0,
+      "name": "토라…… 제때 못 맞추겠지?[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092602_MSG0066",
+      "style": 0,
+      "name": "절대 맞출 수 없다모……\n실망이다모……[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092602_MSG0067",
+      "style": 0,
+      "name": "왜 지레짐작으로 포기하는 거냐모?\n네 사정은 알고 있다고 했을 텐데모[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092602_MSG0068",
+      "style": 0,
+      "name": "무슨 뜻이야모?[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092602_MSG0069",
+      "style": 0,
+      "name": "이번에는 특별히 완성품을 준비했다모[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev092602_MSG0070",
+      "style": 0,
+      "name": "뭐어~!?[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev092602_MSG0071",
+      "style": 0,
+      "name": "사실 코인은 여러 개 비축했으니까\n곧바로 건네줄 수 있다모[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev092602_MSG0072",
+      "style": 0,
+      "name": "굉장하다모! 장로 멋있다모!![ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev092602_MSG0073",
+      "style": 0,
+      "name": "말 안 해도 안다모, 토라는 아직 미숙하지만\n두뇌 플레이가 뛰어난 모양이다모[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev092602_MSG0074",
+      "style": 0,
+      "name": "그 능력을 살려 앞으로 노폰 상회의\n일원으로서 열심히 하거라모[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev092602_MSG0075",
+      "style": 0,
+      "name": "장로, 고마워모![ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev092602_MSG0076",
+      "style": 0,
+      "name": "어서 부모님을 만나러 가자!\n그 코인을 가지고 당당하게 말이야![ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev092602_MSG0077",
+      "style": 0,
+      "name": "알았어모![ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev092602_MSG0077_2",
+      "style": 0,
+      "name": "그러면 망각의 계곡에 있는\n도리안 카라반으로 가자모[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev092602_MSG0078",
+      "style": 0,
+      "name": "토라는 아빠, 엄마를 만날 때\n항상 그곳에서 기다린다모[ST:wait ]"
+    }
+  ]
+}

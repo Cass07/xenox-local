@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999904_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999904_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999904_JNK0030",
+      "style": 4,
+      "name": "배틀 멤버에 넣는다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999904_SEL0031",
+      "style": 3,
+      "name": "활동 중인 블레이드 대원[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999904_MSG0001",
+      "style": 1,
+      "name": "흠…… 너로군[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999904_MSG0101",
+      "style": 1,
+      "name": "기다리고 있었다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999904_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999904_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999904_MSG2001",
+      "style": 1,
+      "name": "우리 유니언에서\n최고의 전투 지원을 받도록 해라[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999904_MSG2101",
+      "style": 1,
+      "name": "좋은 판단이야……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999904_MSG2102",
+      "style": 1,
+      "name": "우리 유니언이 자랑하는\n최고의 전투 지원을 기대해 다오[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999904_MSG3001",
+      "style": 1,
+      "name": "자, 돌격이다![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999904_MSG3101",
+      "style": 1,
+      "name": "이걸로 최강의 팀이 만들어졌군[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev999904_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999904_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev999904_MSG5001",
+      "style": 1,
+      "name": "지금은 바쁘다\n나중에 다시 찾아와 다오[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev999904_MSG5101",
+      "style": 1,
+      "name": "안타깝지만 지금은 이야기할 수 없다\n미안하군[ST:wait ]"
+    }
+  ]
+}

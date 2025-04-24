@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999923_JNK0020",
+      "style": 4,
+      "name": "ユニオンサポート[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev999923_SEL0021",
+      "style": 3,
+      "name": "ユニオンからの支援を受ける[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev999923_JNK0030",
+      "style": 4,
+      "name": "バトルメンバーに加える[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999923_SEL0031",
+      "style": 3,
+      "name": "活動中のブレイド隊員[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999923_MSG0001",
+      "style": 1,
+      "name": "あら　ごきげんよう[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999923_MSG0101",
+      "style": 1,
+      "name": "まあ　ごきげんよう[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999923_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999923_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999923_MSG2001",
+      "style": 1,
+      "name": "ユニオンの支援が必要ですのね？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999923_MSG2101",
+      "style": 1,
+      "name": "例え遠く離れていても\n私のユニオンが全力で支援いたしますわ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999923_MSG3001",
+      "style": 1,
+      "name": "さあ　参りましょう[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999923_MSG3101",
+      "style": 1,
+      "name": "あなたとご一緒できるなんて\n光栄ですわ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999923_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999923_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999923_MSG5001",
+      "style": 1,
+      "name": "申し訳ないですけど\n後にしてくださる？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999923_MSG5101",
+      "style": 1,
+      "name": "今すぐにでもお相手を\nさせていただきたいのですが\n手が離せなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev999923_MSG5102",
+      "style": 1,
+      "name": "またの機会にしてくださる？[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs09040100_MSG0001",
+      "style": 0,
+      "name": "今日はな　いい報告がある[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs09040100_MSG0002",
+      "style": 0,
+      "name": "また見つかったぞ　ライフポイントがな[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs09040100_MSG0003",
+      "style": 0,
+      "name": "本当ですか！？　やったぁ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs09040100_MSG0004",
+      "style": 0,
+      "name": "よかったですも～\nホントよかったですも～！[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs09040100_MSG0005",
+      "style": 0,
+      "name": "今回の任務は　そのライフポイントに\n向かい先行調査をしてもらう[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs09040100_MSG0006",
+      "style": 0,
+      "name": "座標エリアはＮＬＡの北方\n通称　白樹の大陸だ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs09040100_MSG0007",
+      "style": 0,
+      "name": "でも　白樹の大陸って\n直近の予備調査の結果では[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs09040100_MSG0008",
+      "style": 0,
+      "name": "グロウスの勢力範囲の可能性が高いって\n出てましたけど[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs09040100_MSG0009",
+      "style": 0,
+      "name": "その通りだ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs09040100_MSG0010",
+      "style": 0,
+      "name": "だからこそ　戦闘力の高いチームに\n引き受けてもらいてぇ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs09040100_MSG0011",
+      "style": 0,
+      "name": "了解したわ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs09040100_MSG0012",
+      "style": 0,
+      "name": "誰かがやらなければならないことね\nすぐにとりかかる[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs09040100_MSG0013",
+      "style": 0,
+      "name": "すまねぇ　助かるわ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs09040100_MSG0014",
+      "style": 0,
+      "name": "実は先行隊としてすでに\nラオのチームが向かってる[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs09040100_MSG0015",
+      "style": 0,
+      "name": "ここで奴らと合流してくれ\n頼んだぜ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs09040100_MSG0016",
+      "style": 0,
+      "name": "稼働時間も半分を切った\nこれが本命だとありがたいんだがな[ST:wait ]"
+    }
+  ]
+}

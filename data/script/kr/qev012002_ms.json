@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012002_MSG0001",
+      "style": 1,
+      "name": "선배~!\n저예요~! 도와주세요~!![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012002_MSG0002",
+      "style": 1,
+      "name": "이 진짜 바위 같은\n가짜 바위를 쓰러뜨려 주세요~![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012002_MSG0003",
+      "style": 1,
+      "name": "그러면 제가 무사히\n살아 돌아갈 수 있을 것 같아요~[ST:wait ]"
+    }
+  ]
+}

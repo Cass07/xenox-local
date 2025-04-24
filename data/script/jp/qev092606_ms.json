@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092606_MSG0001",
+      "style": 1,
+      "name": "ウヌヌ[ST:wide ]―　やっぱり　トラが話しても\nマトモに話してくれないも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092606_MSG0002",
+      "style": 1,
+      "name": "長老に　ノポン商会の証をよこすよう\n言ってくれも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092606_MSG0003",
+      "style": 1,
+      "name": "母ちゃんパニックになってるも\nトラが落ち着かせておくから[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092606_MSG0004",
+      "style": 1,
+      "name": "姉ちゃん達は\n早く　父ちゃんを助けてきてくれだも！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092606_MSG0005",
+      "style": 1,
+      "name": "ノポン商会の証[ST:wide ]―コインの材料集め\nよろしくも！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092606_MSG0006",
+      "style": 1,
+      "name": "でも　その後　コインを作らなきゃだから\nめちゃくちゃ大変そうな予感がするも……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092606_MSG0007",
+      "style": 1,
+      "name": "材料集めたのかも？\nすごいも！　かっこいいも！　天才だも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092606_MSG0008",
+      "style": 1,
+      "name": "さあさあ　早く長老に渡すも！\nノポン商会の証　ゲットだも！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085901_MSG0001",
+      "style": 0,
+      "name": "아, 엘마 씨, 여러분\n지난번에는 신세가 많았습니다![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085901_MSG0002",
+      "style": 0,
+      "name": "응? 너, 엘마 팀하고 일한 적 있어?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085901_MSG0003",
+      "style": 0,
+      "name": "무슨 소리를 하시는 거예요\n라오 씨가 없어져서 곤란했을 때잖아요![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085901_MSG0004",
+      "style": 0,
+      "name": "그런 일도 있었지\n미안, 미안[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085901_MSG0005",
+      "style": 0,
+      "name": "좋아, 엘마, 지금 보답할게\n좋아하는 거 먹고 마시고 가라[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085901_MSG0006",
+      "style": 0,
+      "name": "정말인가모!?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085901_MSG0007",
+      "style": 0,
+      "name": "배부르다모~~ 행복하다모~~\n라오 씨, 좋은 사람이다모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085901_MSG0008",
+      "style": 0,
+      "name": "너 말이야, 좋아하는 걸 먹으라고는 했지만\n그렇게 마음껏 먹으라고는 안 했다고[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085901_MSG0009",
+      "style": 0,
+      "name": "진정하세요, 다음에 타츠를 대접할 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085901_MSG0010",
+      "style": 0,
+      "name": "그런데 신고[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085901_MSG0011",
+      "style": 0,
+      "name": "네 고민 말인데, 나 같은 사람보다\n여기 여성분들에게 상담하는 게 더 좋지 않을까?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085901_MSG0012",
+      "style": 0,
+      "name": "곤란한 일이라도 있어?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085901_MSG0013",
+      "style": 0,
+      "name": "아, 그건, 그게……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085901_MSG0014",
+      "style": 0,
+      "name": "앗, 알았다![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085901_MSG0014_2",
+      "style": 0,
+      "name": "신고 씨, 좋아하는 사람이라도\n생긴 거 아니에요?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085901_MSG0015",
+      "style": 0,
+      "name": "어, 어, 어, 어……\n어떻게 알았어요!?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085901_MSG0016",
+      "style": 0,
+      "name": "딱 보면…… 그렇죠~?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085901_JNK0010",
+      "style": 4,
+      "name": "동조"
+    },
+    {
+      "$id": 19,
+      "label": "qev085901_SEL0011",
+      "style": 3,
+      "name": "보면 안다고 히죽거린다"
+    },
+    {
+      "$id": 20,
+      "label": "qev085901_JNK0020",
+      "style": 4,
+      "name": "둔감"
+    },
+    {
+      "$id": 21,
+      "label": "qev085901_SEL0021",
+      "style": 3,
+      "name": "모르겠다고 고개를 젓는다"
+    },
+    {
+      "$id": 22,
+      "label": "qev085901_MSG0017",
+      "style": 0,
+      "name": "정~말 신고 씨는 속이 훤히 보인다니까요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085901_MSG0018",
+      "style": 0,
+      "name": "……그런 말 자주 들어요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085901_MSG0019",
+      "style": 0,
+      "name": "네~? 모르겠나요?\n신고 씨는 이렇게나 속이 훤히 보이는데[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085901_MSG0020",
+      "style": 0,
+      "name": "……그런 말 자주 들어요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085901_MSG0021",
+      "style": 0,
+      "name": "어떻게 알았는지는 됐고\n상담해 주는 게 어때?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085901_MSG0022",
+      "style": 0,
+      "name": "하지만 연애 상담이라면\n역시 라오 씨가 해 주는 게 좋겠어요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085901_MSG0023",
+      "style": 0,
+      "name": "계속 같은 팀에 있어서\n신고 씨를 잘 알고 있고[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085901_MSG0024",
+      "style": 0,
+      "name": "그리고 라오 씨는 결혼을……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085901_MSG0025",
+      "style": 0,
+      "name": "미안, 신고\n먼저 돌아갈게[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085901_MSG0026",
+      "style": 0,
+      "name": "아, 네[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085901_MSG0027",
+      "style": 0,
+      "name": "잘되면 좋겠네\n응원할게[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085901_MSG0028",
+      "style": 0,
+      "name": "가, 감사합니다![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085901_MSG0029",
+      "style": 0,
+      "name": "라오 씨 앞에서 가족 이야기는……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085901_MSG0030",
+      "style": 0,
+      "name": "아, 저기, 저……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085901_JNK0030",
+      "style": 4,
+      "name": "위안"
+    },
+    {
+      "$id": 37,
+      "label": "qev085901_SEL0031",
+      "style": 3,
+      "name": "기죽지 말라며 힘껏 위로한다"
+    },
+    {
+      "$id": 38,
+      "label": "qev085901_JNK0040",
+      "style": 4,
+      "name": "격려"
+    },
+    {
+      "$id": 39,
+      "label": "qev085901_SEL0041",
+      "style": 3,
+      "name": "기운 내라고 열심히 격려한다"
+    },
+    {
+      "$id": 40,
+      "label": "qev085901_MSG0031",
+      "style": 0,
+      "name": "감사합니다\n제가 눈치 없는 말을 해 버려서……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev085901_MSG0032",
+      "style": 0,
+      "name": "저…… 죄송해요\n기운이 나지 않아요……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev085901_MSG0033",
+      "style": 0,
+      "name": "괜찮아\n라오가 응원한다고 했잖아[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev085901_MSG0034",
+      "style": 0,
+      "name": "그렇다모!\n화났으면 그런 말 안 한다모![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev085901_MSG0035",
+      "style": 0,
+      "name": "다들…… 고마워요[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev085901_MSG0036",
+      "style": 0,
+      "name": "맞다, 저기, 괜찮으시면\n정말로 상담해 주실 수 있을까요?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev085901_MSG0037",
+      "style": 0,
+      "name": "저, 진짜 곤란한 상황이라……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev085901_MSG0038",
+      "style": 0,
+      "name": "네, 저희가 할 수 있는 일이라면![ST:wait ]"
+    }
+  ]
+}

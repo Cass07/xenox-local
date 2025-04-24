@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093006_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―ニール様！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093006_MSG0020",
+      "style": 0,
+      "name": "ああ　やはりここにいたね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093006_MSG0030",
+      "style": 0,
+      "name": "地形データによれば\nここは“天守園”と呼ばれていた[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093006_MSG0040",
+      "style": 0,
+      "name": "天守とは王の御座す地であり\nすなわち[ST:wide ]―　この遺跡の中枢だ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093006_MSG0050",
+      "style": 0,
+      "name": "キミも知っての通り\n彼女達は一筋縄ではいかない相手だ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093006_MSG0060",
+      "style": 0,
+      "name": "でも[ST:wide ]―\nここで逃がすわけにはいかない[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093006_MSG0070",
+      "style": 0,
+      "name": "確実に[ST:wide ]―　破壊するんだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093006_MSG0080",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    }
+  ]
+}

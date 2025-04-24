@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091502_MSG0001",
+      "style": 0,
+      "name": "来たか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091502_MSG0002",
+      "style": 0,
+      "name": "準備は整ったか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091502_JNK0010",
+      "style": 4,
+      "name": "はい"
+    },
+    {
+      "$id": 4,
+      "label": "qev091502_SEL0011",
+      "style": 3,
+      "name": "準備完了"
+    },
+    {
+      "$id": 5,
+      "label": "qev091502_JNK0020",
+      "style": 4,
+      "name": "いいえ"
+    },
+    {
+      "$id": 6,
+      "label": "qev091502_SEL0021",
+      "style": 3,
+      "name": "まだ準備が整っていない"
+    },
+    {
+      "$id": 7,
+      "label": "qev091502_MSG0003",
+      "style": 0,
+      "name": "よろしい[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091502_MSG0004",
+      "style": 0,
+      "name": "フライ達はすでに岩盤要塞を攻撃した[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091502_MSG0005",
+      "style": 0,
+      "name": "奇襲作戦に動揺したのか\nグロウスの統制はとれておらず[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091502_MSG0006",
+      "style": 0,
+      "name": "反撃も少なく\nこちらの作戦は順調に進行している[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091502_MSG0007",
+      "style": 0,
+      "name": "だが　予想通りグロウスの別働隊が動き出した\nという情報も得た[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091502_MSG0008",
+      "style": 0,
+      "name": "ヤツらはすぐに来るぞ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091502_MSG0009",
+      "style": 0,
+      "name": "しかし容赦なく撃退してやれ　グロウスの\n作戦がいかに無駄なものか教えてやるんだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091502_MSG0010",
+      "style": 0,
+      "name": "フォグ　わかったな？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091502_MSG0011",
+      "style": 0,
+      "name": "[ST:wide ]―了解です[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091502_MSG0012",
+      "style": 0,
+      "name": "がんばりましょう[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091502_MSG0013",
+      "style": 1,
+      "name": "情報に無い敵が出現しているぞ！？\n[ST:playername ]　状況確認を頼む！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092709_MSG0010",
+      "style": 0,
+      "name": "굉장해……\n미라에는 이런 곳도 있구나[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092709_MSG0020",
+      "style": 0,
+      "name": "지금까지 개발에만 매달리느라\n제대로 둘러본 적도 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092709_MSG0030",
+      "style": 0,
+      "name": "……그렇네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092709_MSG0040",
+      "style": 0,
+      "name": "NLA 바깥에서 하는 실기 테스트는\n전부 너한테 맡기고 있었으니까……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092709_MSG0050",
+      "style": 0,
+      "name": "걱정하지 마\n흐레스벨그는 완벽한 기체다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092709_MSG0060",
+      "style": 0,
+      "name": "이 기체 최고의 파일럿인\n내가 하는 말이니 틀림없어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092709_MSG0070",
+      "style": 0,
+      "name": "부장이 한 말이 신경 쓰여?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092709_MSG0080",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092709_MSG0090",
+      "style": 0,
+      "name": "아리샤, 그 남자는 사리사욕을 위해\n인간을 내버리는 녀석이야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092709_MSG0100",
+      "style": 0,
+      "name": "\"그때\"만 해도……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092709_MSG0110",
+      "style": 0,
+      "name": "리젤……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092709_MSG0120",
+      "style": 0,
+      "name": "우리는 언제나\n자신이 믿는 길을 나아갔어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092709_MSG0130",
+      "style": 0,
+      "name": "그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092709_MSG0140",
+      "style": 0,
+      "name": "맞아……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092709_MSG0150",
+      "style": 0,
+      "name": "자신이 믿는 길을 나아간다……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092709_MSG0160",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092709_MSG0170",
+      "style": 0,
+      "name": "지금까지 그랬고 앞으로도 변함없어\n그 남자가 무슨 말을 하든 말이야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092709_MSG0180",
+      "style": 0,
+      "name": "……응[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092709_MSG0190",
+      "style": 0,
+      "name": "정말로…… 그 말이 맞아……[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086408_MSG0001",
+      "style": 0,
+      "name": "みなさん[ST:wide ]―\nタツのことをよろしくお願いしますも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086408_MSG0002",
+      "style": 0,
+      "name": "ほんとにいいの？\n家族と一緒に暮らした方が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086408_JNK0010",
+      "style": 4,
+      "name": "賛成"
+    },
+    {
+      "$id": 4,
+      "label": "qev086408_SEL0011",
+      "style": 3,
+      "name": "家族と暮らすことを勧める"
+    },
+    {
+      "$id": 5,
+      "label": "qev086408_JNK0020",
+      "style": 4,
+      "name": "反対"
+    },
+    {
+      "$id": 6,
+      "label": "qev086408_SEL0021",
+      "style": 3,
+      "name": "タツは（食材として）必要"
+    },
+    {
+      "$id": 7,
+      "label": "qev086408_MSG0003",
+      "style": 0,
+      "name": "みんな　もうタツが必要ないですも？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086408_MSG0004",
+      "style": 0,
+      "name": "もうも何も　実は最初から[ST:wide ]―\nごにょごにょ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086408_MSG0005",
+      "style": 0,
+      "name": "なんですも[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086408_MSG0006",
+      "style": 0,
+      "name": "ううん　こっちの話[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086408_MSG0007",
+      "style": 0,
+      "name": "そうでしょうともですも！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086408_MSG0008",
+      "style": 0,
+      "name": "そこまで懇願されたらタツは\nみなさんの所に帰らざるをえないですも！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086408_MSG0009",
+      "style": 0,
+      "name": "ほらっ　そんなこと言うから\n本気にしちゃったじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086408_MSG0010",
+      "style": 0,
+      "name": "食材ってところは聞こえてないみたいだし[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086408_MSG0011",
+      "style": 0,
+      "name": "とにかくですも\n今ではブレイドホームがタツのおうちですも！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086408_MSG0012",
+      "style": 0,
+      "name": "キャラバンの場所がわかったから\n里帰りはいつでもできるですも！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086408_MSG0013",
+      "style": 0,
+      "name": "そうね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086408_MSG0014",
+      "style": 0,
+      "name": "いいですかも　タツ\nお前は次のキャラバンリーダーなんだも[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086408_MSG0015",
+      "style": 0,
+      "name": "みなさんと一緒にお仕事して\nふさわしいノポンになるんだも[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086408_MSG0016",
+      "style": 0,
+      "name": "次のキャラバンリーダーって？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086408_MSG0017",
+      "style": 0,
+      "name": "ああ　申し遅れましたが　私が今\nこのドドンガ・キャラバンのリーダーなんだも[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086408_MSG0018",
+      "style": 0,
+      "name": "えええ～～！？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086408_MSG0019",
+      "style": 0,
+      "name": "だから将来　タツは\nカーチャンの跡を継いで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086408_MSG0020",
+      "style": 0,
+      "name": "このキャラバンでいちばんエラい\nノポンになるんですも！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086408_MSG0021",
+      "style": 0,
+      "name": "これは　ノポン秘伝のスパイスですも\nよかったら使ってくださいも[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086408_MSG0022",
+      "style": 0,
+      "name": "ほんとですか　やったぁ！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086408_MSG0023",
+      "style": 0,
+      "name": "じゃあ行くですも　カーチャン\n会いたくなったらすぐにまた来るですも！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086408_MSG0024",
+      "style": 0,
+      "name": "ああ　待ってるも[ST:wait ]"
+    }
+  ]
+}

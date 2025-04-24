@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00050100_MSG0001",
+      "style": 0,
+      "name": "흰고래가 크게 파손됐을 때 많은 포드가\n이렇게 내던져졌어……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00050100_MSG0002",
+      "style": 0,
+      "name": "당신은 운이 좋았다고 할 수 있겠네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs00050100_MSG0003",
+      "style": 0,
+      "name": "아, 흰고래에 대해서도 기억이 안 나는구나?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00050100_MSG0004",
+      "style": 0,
+      "name": "흰고래는 지구 탈출선 L-002의 통칭이야\n지구는 기억해?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs00050100_MSG0005",
+      "style": 0,
+      "name": "당신…… 아니, 우리의 모성……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs00050100_MSG0005_2",
+      "style": 0,
+      "name": "모성이었다고 말해야 할까[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs00050100_MSG0006",
+      "style": 0,
+      "name": "지구는 그날 외계인들의\n대규모 전투에 말려들어서……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs00050100_MSG0007",
+      "style": 0,
+      "name": "소멸해 버렸어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs00050100_MSG0008",
+      "style": 0,
+      "name": "뭔가 떠올랐어?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs00050100_MSG0009",
+      "style": 0,
+      "name": "무리는 하지 마\n조금씩 기억해 내면 돼[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs00050100_MSG0010",
+      "style": 0,
+      "name": "하지만 지금은\n느긋하게 있을 때가 아닌 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs00050100_MSG0011",
+      "style": 0,
+      "name": "여긴 낙원이 아니야\n습격해 오는 적과 싸워야만 해[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs00050100_MSG0012",
+      "style": 0,
+      "name": "어때? 싸울 수 있겠어?[ST:wait ]"
+    }
+  ]
+}

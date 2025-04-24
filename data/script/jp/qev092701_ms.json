@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092701_MSG0010",
+      "style": 0,
+      "name": "おお　ここにいたか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092701_MSG0020",
+      "style": 0,
+      "name": "実は　グラナダ・ＧＧの主任技術者から\nブレイドに緊急の依頼が来てな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092701_MSG0030",
+      "style": 0,
+      "name": "連絡が途絶えた試験運用中のドールを\n捜索してほしいとのことなんだが――[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092701_MSG0040",
+      "style": 0,
+      "name": "奴さん　やたら慌てた様子でな[ST:wide ]―\n確実に任務をこなせる人員をご所望らしい[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092701_MSG0050",
+      "style": 0,
+      "name": "で　お前に白羽の矢が立ったわけだ\n引き受けてくれるな？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092701_MSG0060",
+      "style": 0,
+      "name": "よし[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092701_MSG0070",
+      "style": 0,
+      "name": "最後に追跡ビーコンの反応があった\n座標を送っておく　確認しておいてくれ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092701_MSG0080",
+      "style": 0,
+      "name": "そういや　グラナダから近々[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092701_MSG0090",
+      "style": 0,
+      "name": "新型ドールの発表があるみたいなリークを\n耳にしたが[ST:wide ]―　[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092701_MSG0100",
+      "style": 0,
+      "name": "行方不明のドールってのは\nまさか　そいつのことかねぇ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092701_MSG0110",
+      "style": 0,
+      "name": "もし有用な機体なら\nぜひこっちにも回して欲しいもんだ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092701_MSG0120",
+      "style": 0,
+      "name": "ま　とにかく頼んだぞ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000495_MSG0001",
+      "style": 1,
+      "name": "うぐっ　[ST:playername ][ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000495_MSG0002",
+      "style": 1,
+      "name": "君には一番見られたくなかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000495_MSG0003",
+      "style": 1,
+      "name": "秘密の特訓をしていたら\nたまたま犬が寄ってきたんです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000495_MSG0004",
+      "style": 1,
+      "name": "今日が初めてなんですよ\n犬を撫でるなんて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000495_JNK0010",
+      "style": 4,
+      "name": "礼を言う"
+    },
+    {
+      "$id": 6,
+      "label": "tev000495_SEL0011",
+      "style": 3,
+      "name": "うちのペットを\n可愛がってくれた礼を述べる"
+    },
+    {
+      "$id": 7,
+      "label": "tev000495_JNK0020",
+      "style": 4,
+      "name": "指摘する"
+    },
+    {
+      "$id": 8,
+      "label": "tev000495_SEL0021",
+      "style": 3,
+      "name": "NLAは自分を鍛える場所\nだったはずと指摘する"
+    },
+    {
+      "$id": 9,
+      "label": "tev000495_MSG0005",
+      "style": 1,
+      "name": "君の犬だったんですか[ST:wide ]―！？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000495_MSG0006",
+      "style": 1,
+      "name": "そうか　道理で[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000495_MSG0007",
+      "style": 1,
+      "name": "僕が秘密の特訓をしていると\n邪魔をしに現れるわけだ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000495_MSG0008",
+      "style": 1,
+      "name": "飼い主に似るというのは本当のようですね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000495_MSG0009",
+      "style": 1,
+      "name": "そうだ[ST:wide ]―\n以前の発言を一つ撤回させてくれませんか[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000495_MSG0010",
+      "style": 1,
+      "name": "ぐっ[ST:wide ]―\n君も人が悪いですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000495_MSG0011",
+      "style": 1,
+      "name": "それを言われると返す言葉が見つかりません[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000495_MSG0012",
+      "style": 1,
+      "name": "だから撤回させてくれませんか？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000495_MSG0013",
+      "style": 1,
+      "name": "少し前の僕は間違っていました[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000495_MSG0014",
+      "style": 1,
+      "name": "NLAは休息する場所ではなく\n自分を鍛える場所だといっていましたが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000495_MSG0015",
+      "style": 1,
+      "name": "犬と触れ合っていると気付いたんです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000495_MSG0016",
+      "style": 1,
+      "name": "僕たちブレイドがNLAにいるときに\nすること[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000495_MSG0017",
+      "style": 1,
+      "name": "秘密の特訓ももちろん大切なんですが\n僕たちが守るべきものを\n確認することも大事だ[ST:wide ]―と分かったんです[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000495_MSG0018",
+      "style": 1,
+      "name": "でなければ　いくら使命感が強くたって\nなんのために戦うのかが\n曖昧になってしまいます[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000495_MSG0019",
+      "style": 1,
+      "name": "僕たちブレイドが努力するのは\nこの惑星ミラに地球のような環境を作り\n生きていくことなんですよね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000495_JNK0030",
+      "style": 4,
+      "name": "頷く"
+    },
+    {
+      "$id": 25,
+      "label": "tev000495_SEL0031",
+      "style": 3,
+      "name": "HBの言い分に同意する"
+    },
+    {
+      "$id": 26,
+      "label": "tev000495_JNK0040",
+      "style": 4,
+      "name": "冷やかす"
+    },
+    {
+      "$id": 27,
+      "label": "tev000495_SEL0041",
+      "style": 3,
+      "name": "ようやく気付いたのかと\n冷やかす"
+    },
+    {
+      "$id": 28,
+      "label": "tev000495_MSG0020",
+      "style": 1,
+      "name": "[ST:wide ]―フッ　今日はいい日ですよ\nこの犬に出会えたことに感謝です[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000495_MSG0021",
+      "style": 1,
+      "name": "ついでに君にもね[ST:wait ]"
+    }
+  ]
+}

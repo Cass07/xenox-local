@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03040150_MSG0001",
+      "style": 0,
+      "name": "リン　ネルソン達の居場所の特定はできそう？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs03040150_MSG0002",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs03040150_MSG0003",
+      "style": 0,
+      "name": "あの建物からＩＦＦ信号が\n発信されているようです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs03040150_MSG0004",
+      "style": 0,
+      "name": "時間を無駄にはできない\n行きましょう[ST:wait ]"
+    }
+  ]
+}

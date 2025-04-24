@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03080100_MSG0001",
+      "style": 0,
+      "name": "그런가, 역시 넬슨 팀은……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs03080100_MSG0002",
+      "style": 0,
+      "name": "하지만 이 행성에 온 것이\n우리만이 아니었다니[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs03080100_MSG0003",
+      "style": 0,
+      "name": "게다가 지구인에게 적의를 품고 있었어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs03080100_MSG0004",
+      "style": 0,
+      "name": "어쩌면 지구를 전쟁에 말려들게 한 세력과\n관계가 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs03080100_MSG0005",
+      "style": 0,
+      "name": "알겠네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs03080100_MSG0006",
+      "style": 0,
+      "name": "나기 장관에게 이야기해서\nNLA 수비를 더 단단히 하지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs03080100_MSG0007",
+      "style": 0,
+      "name": "그런데……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs03080100_MSG0008",
+      "style": 0,
+      "name": "이 녀석은 뭐지? 선물인가?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs03080100_MSG0009",
+      "style": 0,
+      "name": "맛있어 보이죠?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs03080100_MSG0010",
+      "style": 0,
+      "name": "아, 아니다모!\n타츠는 먹을 게 아니다모![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs03080100_MSG0011",
+      "style": 0,
+      "name": "행성 미라를 대표해서……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs03080100_MSG0012",
+      "style": 0,
+      "name": "지구인과 우호 조약을\n체결하기 위해 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs03080100_MSG0013",
+      "style": 0,
+      "name": "……그렇다는 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs03080100_MSG0014",
+      "style": 0,
+      "name": "일단 이 행성에 관해\n정보를 제공받으려고 해[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs03080100_MSG0015",
+      "style": 0,
+      "name": "얼마나 도움이 될지는 모르겠지만[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs03080100_MSG0016",
+      "style": 0,
+      "name": "믿어도 된다모!\n이 타츠가 있으면 모두 안전하다모![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs03080100_MSG0017",
+      "style": 0,
+      "name": "특히 린 씨는 약해 보이니까\n이 타츠가 옆에서 보호해 주겠다모[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs03080100_MSG0018",
+      "style": 0,
+      "name": "약해 보인다니 무례한 녀석이네[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs03080100_MSG0019",
+      "style": 0,
+      "name": "애초에! 어째서! 네가![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs03080100_MSG0020",
+      "style": 0,
+      "name": "우리랑 같이 다니는 걸로 된 건데![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs03080100_MSG0021",
+      "style": 0,
+      "name": "넌 NLA에 얌전히 있어![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs03080100_MSG0022",
+      "style": 0,
+      "name": "모모못!?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs03080100_MSG0023",
+      "style": 0,
+      "name": "타츠를! 여기에!\n놓고 갈 생각인가모!![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs03080100_MSG0024",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs03080100_MSG0025",
+      "style": 0,
+      "name": "밖은 위험하기도 하고, 당신을 잡았던\n외계인들이 아직 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs03080100_MSG0026",
+      "style": 0,
+      "name": "NLA에 있는 게 가장 안전할 거야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs03080100_MSG0027",
+      "style": 0,
+      "name": "그렇지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs03080100_MSG0028",
+      "style": 0,
+      "name": "모못! 자, 잠깐 기다려 줘모![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs03080100_MSG0029",
+      "style": 0,
+      "name": "타, 타, 타, 타츠가 없으면 모두 곤란할 거다모![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs03080100_MSG0030",
+      "style": 0,
+      "name": "어째서?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs03080100_MSG0031",
+      "style": 0,
+      "name": "그, 그건…… 그거다모![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs03080100_MSG0032",
+      "style": 0,
+      "name": "이 행성에는 노폰이 많이 있다모\n다들 정보가 필요하지 않냐모?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs03080100_MSG0033",
+      "style": 0,
+      "name": "그거야 뭐, 그렇지만[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs03080100_MSG0034",
+      "style": 0,
+      "name": "그렇다모[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs03080100_MSG0035",
+      "style": 0,
+      "name": "하지만 노폰은 낯도 가리고\n부끄럼쟁이에 까다롭다모[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs03080100_MSG0036",
+      "style": 0,
+      "name": "당신들끼리는 절대로 정보를 얻을 수 없다모[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs03080100_MSG0037",
+      "style": 0,
+      "name": "거기서 이 타츠가 필요하다모![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs03080100_MSG0038",
+      "style": 0,
+      "name": "타츠의 교섭술로\n스무스하게 이야기가 진행될 거다모![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs03080100_MSG0039",
+      "style": 0,
+      "name": "확실히 일리가 있군[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs03080100_MSG0040",
+      "style": 0,
+      "name": "너, 뭔가 꾸미고 있는 건 아니겠지?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs03080100_MSG0041",
+      "style": 0,
+      "name": "마, 마, 마, 말도 안 된다모!\n타츠가 그렇게 보이냐모?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs03080100_MSG0042",
+      "style": 0,
+      "name": "오해다모![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs03080100_MSG0043",
+      "style": 0,
+      "name": "타츠는 우호적이고 호기심이 왕성한\n평범한 노폰이다모![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs03080100_MSG0044",
+      "style": 0,
+      "name": "호기심 왕성이라니\n그게 본심이구나[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs03080100_MSG0045",
+      "style": 0,
+      "name": "좋아, 알겠네\n아무것도 얻지 못하는 것보다는 낫겠지[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs03080100_MSG0046",
+      "style": 0,
+      "name": "자네들이 이 녀석을 돌봐 주도록[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs03080100_MSG0047",
+      "style": 0,
+      "name": "네~!? 어째서 저희인가요?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs03080100_MSG0048",
+      "style": 0,
+      "name": "데려온 건 자네들이잖나[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs03080100_MSG0049",
+      "style": 0,
+      "name": "게다가 이 녀석을\n다른 팀에게 맡길 수 있을 것 같은가?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs03080100_MSG0050",
+      "style": 0,
+      "name": "확실히…… 내일 아침 반찬거리가\n되어 있을 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs03080100_MSG0052",
+      "style": 0,
+      "name": "모모모!?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs03080100_MSG0053",
+      "style": 0,
+      "name": "내가 보기엔 린과도 잘 맞을 것 같으니\n들어주겠나?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs03080100_MSG0054",
+      "style": 0,
+      "name": "자, 잠깐만요, 사령관님![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs03080100_MSG0055",
+      "style": 0,
+      "name": "어딜 어떻게 봐서\n잘 맞을 것 같다는 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs03080100_MSG0056",
+      "style": 0,
+      "name": "뭐, 전 딱히 상관없지만……[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs03080100_MSG0057",
+      "style": 0,
+      "name": "엘마와 자네도 괜찮나?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs03080100_MSG0058",
+      "style": 0,
+      "name": "그래, 이견은 없어[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs03080100_MSG0059",
+      "style": 0,
+      "name": "좋아, 결정됐군!\n타츠였나, 잘 부탁하네[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs03080100_MSG0060",
+      "style": 0,
+      "name": "맡겨 줘모~[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs03080100_MSG0061",
+      "style": 0,
+      "name": "아, 한 가지 깜빡하고 말 안 한 게 있다모[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs03080100_MSG0062",
+      "style": 0,
+      "name": "노폰은 싸움을 싫어한다모\n그리고 타츠는 중요한 교섭인이다모[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs03080100_MSG0063",
+      "style": 0,
+      "name": "그러니까 제대로 지켜 줘라모~[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs03080100_MSG0064",
+      "style": 0,
+      "name": "아까는 날 지킨다고 하더니\n정말이지![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091202_MSG0001",
+      "style": 0,
+      "name": "これが未確認の資源[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091202_MSG0002",
+      "style": 0,
+      "name": "確かに今まで見たこともねぇな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091202_MSG0003",
+      "style": 0,
+      "name": "ミラに来てから初体験のものばかりだけど\nこれは特に神秘的だよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091202_MSG0004",
+      "style": 0,
+      "name": "これが本当に資源として使えるなら\nものすごいエネルギーになりそうだな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091202_MSG0005",
+      "style": 0,
+      "name": "ドールや白鯨が造られた時のような\n技術革新が起きるかもしれないね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091202_MSG0006",
+      "style": 0,
+      "name": "楽しみだな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091202_MSG0007",
+      "style": 0,
+      "name": "うん　ランドバンクの仕事の醍醐味だよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091202_MSG0008",
+      "style": 0,
+      "name": "おしゃべりはこれくらいにして\nさっさと終わらせよう[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091202_MSG0009",
+      "style": 0,
+      "name": "それからダイナーで打ち上げしようぜ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091202_MSG0010",
+      "style": 0,
+      "name": "では　回収します[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091202_MSG0011",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091202_MSG0012",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091202_JNK0010",
+      "style": 4,
+      "name": "驚く"
+    },
+    {
+      "$id": 14,
+      "label": "qev091202_SEL0011",
+      "style": 3,
+      "name": "未確認の資源が消えたことに驚く"
+    },
+    {
+      "$id": 15,
+      "label": "qev091202_JNK0020",
+      "style": 4,
+      "name": "詰問"
+    },
+    {
+      "$id": 16,
+      "label": "qev091202_SEL0021",
+      "style": 3,
+      "name": "またフォグが余計なことを\nしたのではないかと問う"
+    },
+    {
+      "$id": 17,
+      "label": "qev091202_MSG0013",
+      "style": 0,
+      "name": "おいおい　消えちまったぞ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091202_MSG0014",
+      "style": 0,
+      "name": "あの　最初に言っておくけど\nボクは何もしてないよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091202_MSG0015",
+      "style": 0,
+      "name": "そうだぜ　フォグ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091202_MSG0015_02",
+      "style": 0,
+      "name": "お前は昔から無警戒だからな\nまた余計なことしただろ？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091202_MSG0016",
+      "style": 0,
+      "name": "ボクは至極普通に\n回収しようとしただけだよ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091202_MSG0017",
+      "style": 0,
+      "name": "とはいえ　お前は小学生の時\n火事でもないのに火災報知機を押したからな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091202_MSG0018",
+      "style": 0,
+      "name": "それは[ST:wide ]―　そこに押すものがあったんだから\n仕方ないよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091202_MSG0019",
+      "style": 0,
+      "name": "木登りが得意だったから　フットボールの\nゴールポストに登ったこともあったけど[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091202_MSG0019_02",
+      "style": 0,
+      "name": "それと同じだよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091202_MSG0020",
+      "style": 0,
+      "name": "あったなぁ[ST:wide ]―　懐かしいもんだ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091202_MSG0021_02",
+      "style": 0,
+      "name": "！！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091202_MSG0021",
+      "style": 0,
+      "name": "それはともかくとして[ST:wide ]―\nお前みたいに掴まえ所のない資源ってことか[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091202_MSG0022",
+      "style": 0,
+      "name": "フォグリウムって呼ぶことにしよう[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091202_MSG0023",
+      "style": 0,
+      "name": "なんだか自分のニックネームが付けられるって\n嬉しいね[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091202_MSG0024",
+      "style": 0,
+      "name": "褒めてねぇよ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091202_MSG0025",
+      "style": 0,
+      "name": "まだこの近くにもいくつかあるみたいだ\nそっちに賭けてみようじゃねぇか[ST:wait ]"
+    }
+  ]
+}

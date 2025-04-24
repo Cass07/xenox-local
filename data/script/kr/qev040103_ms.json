@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040103_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "qev040103_MSG0002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "qev040103_MSG0003",
+      "style": 1,
+      "name": "라나가 반쯤 강제로 끌고 왔어모……\n와로로…… 이제 NLA로 돌아가고 싶어모……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev040103_MSG0004",
+      "style": 1,
+      "name": "엄청난 일이 일어나 버렸어모……\n그래도 와로로…… 책임은 지겠어모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev040103_MSG0005",
+      "style": 1,
+      "name": "여자는 무서워모…… 그로우스보다도……\n앞으로 와로로는 계속 혼자 살 거야모……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev040103_MSG0006",
+      "style": 1,
+      "name": "라나와 아이는 와로로가 지키겠어모\n부부 나리한테는 미안하게 됐지만……\n이 일을 잘 전해 줬으면 좋겠어모[ST:wait ]"
+    }
+  ]
+}

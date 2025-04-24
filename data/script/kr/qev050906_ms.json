@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050906_MSG0001",
+      "style": 1,
+      "name": "이렇게 먼 곳까지 오게 해서\n정말 미안하다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050906_MSG0002",
+      "style": 1,
+      "name": "그대가 최강의 전사임을 가슴에 새기고\n이 결투를 신청하고 싶다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050906_MSG0003",
+      "style": 1,
+      "name": "이것은 내가 과연 제대로 된 전사로\n다시 태어날 수 있을지……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050906_MSG0004",
+      "style": 1,
+      "name": "그걸 가늠할 수 있는 싸움이라고 생각한다![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050906_MSG0005",
+      "style": 1,
+      "name": "좀 전과 마찬가지로 봐줄 필요는 없다![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev050906_MSG0006",
+      "style": 1,
+      "name": "실전과 같은 기백으로 임해 준다면\n그보다 기쁜 일은 없을 것이다![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev050906_MSG0007",
+      "style": 1,
+      "name": "그럼…………\n간다![ST:wait ]"
+    }
+  ]
+}

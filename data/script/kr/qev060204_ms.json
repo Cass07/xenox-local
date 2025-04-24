@@ -1,0 +1,588 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060204_MSG0001",
+      "style": 1,
+      "name": "히히……! 비유하자면 나는 신이다!\n이제 이 성스러운 볼턴트의 힘으로\n기계로 된 더러운 생명을 정화해 주겠어![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060204_MSG0002",
+      "style": 1,
+      "name": "자, 시작하자고! 어서!\n이걸 저수지에 던져 버리면 돼!\n……야, 겁내지 마! 던지라고![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060204_JNK0010",
+      "style": 4,
+      "name": "말린다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev060204_SEL0011",
+      "style": 3,
+      "name": "당장 말리러 간다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev060204_JNK0020",
+      "style": 4,
+      "name": "상황을 본다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev060204_SEL0021",
+      "style": 3,
+      "name": "잠시 상황을 지켜본다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev060204_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "qev060204_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "qev060204_MSG0003",
+      "style": 1,
+      "name": "……뭐, 괜찮아\n언제든 던질 수 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev060204_MSG0004",
+      "style": 1,
+      "name": "밥이라도 먹고 천천히 처리해 주지\n하하…… 그래, 난 신이라고\n서두를 필요가 전혀 없잖아……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev060204_MSG0005",
+      "style": 1,
+      "name": "히…… 히익!!\n왜 이런 곳에 사람이……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev060204_MSG0006",
+      "style": 1,
+      "name": "아니…… 알겠어\n범행 예고장을 해독해서 이곳에 도달했구나\n조금은 머리가 돌아가는 블레이드도 있군![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev060204_MSG0007",
+      "style": 1,
+      "name": "오히려 마침 잘됐어\n비유하자면 이건 내가 개최한 쇼……\n역시 관객이 없으면 흥이 나지 않잖냐![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev060204_MSG0008",
+      "style": 1,
+      "name": "자…… 난 던질 거다!\n이 물을 마실 모든 가짜 녀석들!\n고통에 몸부림치면서 지옥에 떨어져라![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev060204_JNK0030",
+      "style": 4,
+      "name": "제지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev060204_SEL0031",
+      "style": 3,
+      "name": "강한 어조로 말린다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev060204_JNK0040",
+      "style": 4,
+      "name": "냉정[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev060204_SEL0041",
+      "style": 3,
+      "name": "일단 진정시킨다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev060204_JNK0030",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "qev060204_MSG0009",
+      "style": 1,
+      "name": "바보 녀석!\n여기서 멈출 리가 없잖아!?\n난 여기까지 와 버렸다고![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev060204_MSG0010",
+      "style": 1,
+      "name": "비유하자면 벼랑 끝에 내몰려서\n뛰어내리지 않아도 죽을 상황인데……\n그러면 뛰어내릴 수밖에 없잖냐!?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev060204_MSG0011",
+      "style": 1,
+      "name": "여기까지 온 이상……\n남은 건 이 성스러운 볼턴트를 던지는 것뿐이야![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev060204_MSG0012",
+      "style": 1,
+      "name": "난 할 수 있다!\n해야만 해!\n해야만 한다고![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev060204_MSG0013",
+      "style": 1,
+      "name": "난 할 수 있다! 난 할 수 있다! 난 할 수 있다!\n해야만 해애에에에에에에에에에!![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev060204_JNK0040",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "qev060204_MSG0014",
+      "style": 1,
+      "name": "흥…… 넌 생각보다\n말이 통하는 녀석 같네[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev060204_MSG0015",
+      "style": 1,
+      "name": "……좋아, 마지막으로 나의\n위대한 사상을 들려줄까?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev060204_MSG0016",
+      "style": 1,
+      "name": "난 말이지……\n도저히 이 B.B.라는 몸을\n용서할 수가 없어[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev060204_MSG0017",
+      "style": 1,
+      "name": "신이 선물한 육체를 버린 존재는\n더 이상 인간이 아니야\n비유하자면 그저 인형일 뿐이지[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev060204_MSG0018",
+      "style": 1,
+      "name": "너도 그렇게 생각하지 않아?\n우리는 이렇게 살아 있는 것만으로도\n죄악을 거듭하는 존재라고[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev060204_JNK0050",
+      "style": 4,
+      "name": "긍정[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev060204_SEL0051",
+      "style": 3,
+      "name": "호머의 의견에 동의한다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev060204_JNK0060",
+      "style": 4,
+      "name": "부정[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev060204_SEL0061",
+      "style": 3,
+      "name": "호머의 의견을 부정한다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev060204_JNK0050",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "qev060204_MSG0019",
+      "style": 1,
+      "name": "그래…… 역시 그랬어![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev060204_MSG0020",
+      "style": 1,
+      "name": "역시 난 틀리지 않았던 거야!\n고맙다!\n녀석들을 심판할 결심이 섰어!![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev060204_MSG0021",
+      "style": 1,
+      "name": "난 할 수 있다!\n해야만 해!\n해야만 한다고![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev060204_MSG0022",
+      "style": 1,
+      "name": "난 할 수 있다! 난 할 수 있다! 난 할 수 있다!\n해야만 해애에에에에에에에에에!![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev060204_JNK0060",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "qev060204_MSG0023",
+      "style": 1,
+      "name": "큭…… 어째서 그렇게 자신하는 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev060204_MSG0024",
+      "style": 1,
+      "name": "자기 몸이 주변에 있는 로봇과\n똑같은 재질로 이루어졌는데\n어떻게 자신이 인간이라고 생각할 수 있지……?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev060204_MSG0025",
+      "style": 1,
+      "name": "난 매일 불안해……\n그런데 주위 녀석들은 아무렇지도 않잖아\n그래서…… 열받는다고![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev060204_MSG0026",
+      "style": 1,
+      "name": "영혼은 무슨 얼어 죽을! 그런 건 존재하지 않아!\n제대로 된 육체 없이는\n인간임을 증명할 수 없어![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev060204_MSG0027",
+      "style": 1,
+      "name": "그런 가짜들이 아무리 발버둥 쳐 봤자\n진짜 인간이 될 수 있을 리가 없잖아!\n그러니까! 그냥 다 포기해 버리자고![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev060204_MSG0028",
+      "style": 1,
+      "name": "이 볼턴트로 모두 편해지는 거야!\n아니…… 내가 편하게 해 주겠어!![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev060204_JNK0070",
+      "style": 4,
+      "name": "긍정[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev060204_SEL0071",
+      "style": 3,
+      "name": "호머의 의견에 동의한다[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev060204_JNK0080",
+      "style": 4,
+      "name": "부정[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev060204_SEL0081",
+      "style": 3,
+      "name": "호머의 의견을 부정한다[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev060204_JNK0070",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "qev060204_MSG0029",
+      "style": 1,
+      "name": "뭐…… 왜 날 막지 않는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev060204_MSG0030",
+      "style": 1,
+      "name": "마음만은 이해한다는 뜻인가?\n너도 나 같은 고민을 한 적이\n있었다는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev060204_MSG0031",
+      "style": 1,
+      "name": "……아니, 너뿐만이 아니라\n사실은 다들 불안한데도……\n어떻게든 해 보려고 노력하는 거라고?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev060204_MSG0032",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev060204_JNK0080",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "qev060204_MSG0033",
+      "style": 1,
+      "name": "역시 너라면 말릴 줄 알았어!\n넌 아무것도 느끼지 못하는 인간이야![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev060204_MSG0034",
+      "style": 1,
+      "name": "젠장! 난 할 수 있다!\n해야만 해!\n해야만 한다고![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev060204_MSG0035",
+      "style": 1,
+      "name": "난 할 수 있다! 난 할 수 있다! 난 할 수 있다!\n해야만 해애에에에에에에에에에!![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev060204_JNK0090",
+      "style": 4,
+      "name": "설득[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev060204_SEL0091",
+      "style": 3,
+      "name": "최대한 설득한다[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev060204_JNK0100",
+      "style": 4,
+      "name": "침묵[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev060204_SEL0101",
+      "style": 3,
+      "name": "가만히 호머가 고민하게 둔다[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev060204_JNK0090",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "qev060204_MSG0036",
+      "style": 1,
+      "name": "……으으!! 난……!\n이제…… 뭐가 뭔지 모르겠어……[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev060204_MSG0037",
+      "style": 1,
+      "name": "그러니까…… 전부 끝내 버릴 거야![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev060204_MSG0038",
+      "style": 1,
+      "name": "난 할 수 있다!\n해야만 해!\n해야만 한다고![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev060204_MSG0039",
+      "style": 1,
+      "name": "난 할 수 있다! 난 할 수 있다! 난 할 수 있다!\n해야만 해애에에에에에에에에에!![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev060204_JNK0100",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 70,
+      "label": "qev060204_MSG0040",
+      "style": 1,
+      "name": "……그렇군\n난…… 비유하자면 꼴사납게 짖는\n겁쟁이 개였던 거야……[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev060204_MSG0041",
+      "style": 1,
+      "name": "신이라도 된 것처럼 굴면서……\n나약한 자신의 고민을 지우고 싶었을 뿐이야……\n주변 사람들의 강인함을 부러워했을 뿐이야……[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev060204_MSG0042",
+      "style": 1,
+      "name": "……그래서 이런 걸 빼앗고\n범행 예고장을 보내고…… 그런데도 무서워서\n호수에 던지지 못하고 있었어……[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev060204_MSG0043",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev060204_MSG0044",
+      "style": 1,
+      "name": "내가…… 이걸 던져 버리기 전에\n이 마음을 깨달아서 다행이야[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev060204_MSG0045",
+      "style": 1,
+      "name": "비유하자면 넌 한 줄기 빛……\n네 빛나는 영혼이\n어둠 속에 있던 내 눈을 뜨게 했어[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev060204_MSG0046",
+      "style": 1,
+      "name": "난…… 자수할 거야……\n이건 너에게 돌려줄게[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev060204_MSG0047",
+      "style": 1,
+      "name": "핫~하하하!\n죽어라, 죽어, 죽어어어어어어어어어!![ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev060204_MSG0048",
+      "style": 1,
+      "name": "비유하자면!\n줄줄이 쓰러지는 도미노처럼\n죽어 버려어어어어어어어어어!![ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev060204_MSG0049",
+      "style": 1,
+      "name": "응……?\n어째서 볼턴트가 퍼지고 있는 걸까요[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev060204_MSG0050",
+      "style": 1,
+      "name": "……뭐, 조금 신경 쓰이니까\n한숨 푹 자기 전에\n리볼턴트나 한번 해 볼까요[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev060204_MSG0051",
+      "style": 1,
+      "name": "후우~! 만족했습니다!\n비유하자면 배부른 느낌이네요[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev060204_MSG0052",
+      "style": 1,
+      "name": "……어라?\n어째서 [ST:playername ][KR:Particle char=ga ]\n이런 곳에 있는 겁니까?[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev060204_JNK0110",
+      "style": 4,
+      "name": "설명[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev060204_SEL0111",
+      "style": 3,
+      "name": "범인을 설득하는 중이었다고 말한다"
+    },
+    {
+      "$id": 85,
+      "label": "qev060204_JNK0120",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev060204_SEL0121",
+      "style": 3,
+      "name": "어째서 호스케란이\n여기에 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev060204_JNK0110",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 88,
+      "label": "qev060204_MSG0053",
+      "style": 1,
+      "name": "아, 그런가요[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev060204_MSG0054",
+      "style": 1,
+      "name": "뭐, 그분은 제 『비유』 스승이기도 합니다\n정중히 대해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev060204_JNK0120",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 91,
+      "label": "qev060204_MSG0055",
+      "style": 1,
+      "name": "호론알데히론이 시끄러워서\n여기까지 잠을 자러 왔습니다\n이 일은 비밀로 해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev060204_MSG0056",
+      "style": 1,
+      "name": "네, 그러면 이만 실례하죠[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev060204_MSG0057",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev060204_MSG0058",
+      "style": 1,
+      "name": "뭐야…… 저항도 하지 않고\n볼턴트를 넘긴 멍청한 자르보가 주제에\n이 상황을 한 방에 역전시켜 버린 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev060204_MSG0059",
+      "style": 1,
+      "name": "나, 갑자기 모든 게 허망해졌어……\n이제 아무래도 상관없으니까……\nNLA로 돌아가서 적당히 자수나 할래……[ST:wait ]"
+    }
+  ]
+}

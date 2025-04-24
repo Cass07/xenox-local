@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092304_MSG0001",
+      "style": 0,
+      "name": "인생이라는 건 생각대로 되지 않는 법이지……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092304_MSG0002",
+      "style": 0,
+      "name": "자, 해치워 버리라고\n어차피 내게 돌아갈 곳 따윈 없으니까[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092304_JNK0010",
+      "style": 4,
+      "name": "죽이지 않는다"
+    },
+    {
+      "$id": 4,
+      "label": "qev092304_SEL0011",
+      "style": 3,
+      "name": "오르넬라를 진정시키고 대화를 계속한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev092304_JNK0020",
+      "style": 4,
+      "name": "죽인다"
+    },
+    {
+      "$id": 6,
+      "label": "qev092304_SEL0021",
+      "style": 3,
+      "name": "오르넬라의 소원대로 죽인다"
+    },
+    {
+      "$id": 7,
+      "label": "qev092304_MSG0003",
+      "style": 0,
+      "name": "어째서 이런 짓을 했냐고……?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092304_MSG0004",
+      "style": 0,
+      "name": "잠깐 기다려 주세요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092304_MSG0005",
+      "style": 0,
+      "name": "오르넬라 씨\n어째서 이런 짓을 한 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092304_MSG0006",
+      "style": 0,
+      "name": "히메리처럼 착해 빠진 녀석의 조수 따위를\n공짜로 해 주는 바보라도 있을 줄 알았어?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092304_MSG0007",
+      "style": 0,
+      "name": "흰고래에 있을 때부터\n넌 인기가 대단했으니까[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092304_MSG0008",
+      "style": 0,
+      "name": "적당히 아첨하면서 한몫 벌려고 했었지\n그런데 매번, 매번 무급 노동이나 하고……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092304_MSG0009",
+      "style": 0,
+      "name": "결국은 적자가 됐잖아……\n돈이라고는 구경도 못 했다고![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092304_MSG0010",
+      "style": 0,
+      "name": "그래서 팔아 버렸어, 그 녀석들한테\n히메리네 단골의 B.B.를 말이야![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092304_MSG0011",
+      "style": 0,
+      "name": "그런, 끔찍한 짓을……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092304_MSG0012",
+      "style": 0,
+      "name": "이제 알겠지?\n난 지옥에 떨어져야 할 사람이야[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092304_MSG0013",
+      "style": 0,
+      "name": "자, 얼른 죽여 달라고[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092304_MSG0014",
+      "style": 0,
+      "name": "아뇨…… 함께 NLA로 돌아가요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092304_MSG0015",
+      "style": 0,
+      "name": "잘 설명하면, 분명 용서받을 수 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092304_MSG0016",
+      "style": 0,
+      "name": "전 무슨 일이 있더라도\n오르넬라 씨의 아군으로 남을 테니까……![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092304_MSG0017",
+      "style": 0,
+      "name": "구역질이 나네[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092304_MSG0018",
+      "style": 0,
+      "name": "자기희생 정신…… 조건 없는 사랑……\n그런 걸로 뭘 얻을 수 있다는 건데!?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092304_MSG0019",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092304_MSG0020",
+      "style": 0,
+      "name": "저는……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092304_MSG0021",
+      "style": 0,
+      "name": "아버지의 가르침을 따라서……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092304_MSG0022",
+      "style": 0,
+      "name": "그 아버지도 결국 속아서\n살해당했잖아!?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092304_MSG0023",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092304_MSG0024",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092304_MSG0025",
+      "style": 0,
+      "name": "아하하하![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092304_MSG0026",
+      "style": 0,
+      "name": "난 히메리의 아버지를 죽인 녀석들과 똑같아[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092304_MSG0027",
+      "style": 0,
+      "name": "아니, 그보다 더 심할지도 모르지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092304_MSG0028",
+      "style": 0,
+      "name": "말도 안 돼, 오르넬라 씨……![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092304_MSG0029",
+      "style": 1,
+      "name": "날 설득하려 해 봤자 소용없어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092304_MSG0030",
+      "style": 1,
+      "name": "얌전히 저 녀석한테 죽어 버려![ST:wait ]"
+    }
+  ]
+}

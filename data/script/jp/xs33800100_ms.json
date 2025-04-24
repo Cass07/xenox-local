@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33800100_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―来たか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33800100_MSG0020",
+      "style": 0,
+      "name": "この闘争に　もはや意味はない[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33800100_MSG0030",
+      "style": 0,
+      "name": "なのに君達はどこまでも抗おうとする[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33800100_MSG0040",
+      "style": 0,
+      "name": "私を[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33800100_MSG0050",
+      "style": 0,
+      "name": "どこまでも不快にする[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33800100_MSG0060",
+      "style": 0,
+      "name": "アルを返してもらうわ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33800100_MSG0070",
+      "style": 0,
+      "name": "ヴォイド[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33800100_MSG0080",
+      "style": 0,
+      "name": "間もなく私は　逃走を果たし[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33800100_MSG0090",
+      "style": 0,
+      "name": "勝利する[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33800100_MSG0100",
+      "style": 0,
+      "name": "君達に残された時は　すでに僅かだ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33800100_MSG0110",
+      "style": 0,
+      "name": "抵抗は悉く無意味だと知るがいい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33800100_MSG0115",
+      "style": 0,
+      "name": "エルマさん　コアが[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33800100_MSG0120",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "xs33800100_MSG0125",
+      "style": 0,
+      "name": "ええ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33800100_MSG0130",
+      "style": 0,
+      "name": "少しずつだけど起動状態に入っている[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33800100_MSG0140",
+      "style": 0,
+      "name": "コアがヴォイドの力の根源だとすれば[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33800100_MSG0150",
+      "style": 0,
+      "name": "全てのコアが起動した時[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33800100_MSG0160",
+      "style": 0,
+      "name": "その力でこの宇宙から逃亡する気よ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33800100_MSG0170",
+      "style": 0,
+      "name": "そうなる前に　アレスを[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33800100_MSG0180",
+      "style": 0,
+      "name": "アルを救出する[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33800100_MSG0190",
+      "style": 0,
+      "name": "この状況を打開するには　それしかない[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33800100_MSG0195",
+      "style": 0,
+      "name": "いいわね？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33800100_MSG0196",
+      "style": 0,
+      "name": "了解です！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs33800100_MSG0203",
+      "style": 0,
+      "name": "うなずく主人公"
+    },
+    {
+      "$id": 25,
+      "label": "xs33800100_MSG0201",
+      "style": 0,
+      "name": "エルマ、ヴォイドに向き直る"
+    },
+    {
+      "$id": 26,
+      "label": "xs33800100_MSG0200",
+      "style": 0,
+      "name": "行きましょう！[ST:wait ]"
+    }
+  ]
+}

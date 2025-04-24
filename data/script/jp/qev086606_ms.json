@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086606_MSG0001",
+      "style": 0,
+      "name": "ご苦労だったな\n回収物はテスタメントに回しておいた[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086606_MSG0002",
+      "style": 0,
+      "name": "何か分かったら　こっちにも聞かせて[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086606_MSG0003",
+      "style": 0,
+      "name": "了解だ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086606_MSG0004",
+      "style": 0,
+      "name": "しかし　エルマチームだけで漂流物を全部\n回収した上にイリーナまで助けちまうとはな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086606_MSG0005",
+      "style": 0,
+      "name": "ったく　他の連中は腕立て一万回だ\n鍛え直してやらんとな[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086606_MSG0006",
+      "style": 0,
+      "name": "そんな言い方するものではないわ\nダグもグインも　頑張っていた[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086606_MSG0007",
+      "style": 0,
+      "name": "彼らがいなければ\nイリーナは　危なかったかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086606_MSG0008",
+      "style": 0,
+      "name": "ん～　ダグさんはともかく\nグインさんはそうだったですかも？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086606_MSG0009",
+      "style": 0,
+      "name": "それにしても\n相変わらずお前さんは大活躍だな[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086606_MSG0010",
+      "style": 0,
+      "name": "地球にいた頃と変わりゃしない[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086606_MSG0011",
+      "style": 0,
+      "name": "ダグさんもそんなこと言ってたような[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086606_MSG0012",
+      "style": 0,
+      "name": "やっぱり　エルマさんってすごいです！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086606_JNK0010",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 14,
+      "label": "qev086606_SEL0011",
+      "style": 3,
+      "name": "地球でのエルマについて聞く"
+    },
+    {
+      "$id": 15,
+      "label": "qev086606_JNK0020",
+      "style": 4,
+      "name": "反論"
+    },
+    {
+      "$id": 16,
+      "label": "qev086606_SEL0021",
+      "style": 3,
+      "name": "チームの活躍だと口を尖らす"
+    },
+    {
+      "$id": 17,
+      "label": "qev086606_MSG0013",
+      "style": 0,
+      "name": "ん　ああ　その話か[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086606_MSG0014",
+      "style": 0,
+      "name": "人の過去を知りたければ　調べるのではなく\n本人に語らせるようになりなさい[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086606_MSG0015",
+      "style": 0,
+      "name": "も　どういう意味ですも？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086606_MSG0016",
+      "style": 0,
+      "name": "エルマさんが話したくなるまで\n待てって言ってるの！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086606_MSG0017",
+      "style": 0,
+      "name": "それに　あの頃と違って\n私は頼もしい仲間に囲まれている[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086606_MSG0018",
+      "style": 0,
+      "name": "その通りよ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086606_MSG0019",
+      "style": 0,
+      "name": "私のチームが高く評価されているとしたら\n全員の資質を引き出すことができたから[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086606_MSG0020",
+      "style": 0,
+      "name": "一部の者の活躍だけで　戦いに勝てたり\nこの惑星で生き抜いていけるわけではない[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086606_MSG0021",
+      "style": 0,
+      "name": "適材適所を見抜いて　戦力を有効活用するのが\n指揮官の役目ではなくて？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086606_MSG0022",
+      "style": 0,
+      "name": "う　そいつは　その通りだ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086606_MSG0023",
+      "style": 0,
+      "name": "いっそ　エルマさんがブレイド司令に\nなった方がいいかもぉ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086606_MSG0024",
+      "style": 0,
+      "name": "まったくですも\nおっちゃんはタツの助手がふさわしいですも[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086606_MSG0025",
+      "style": 0,
+      "name": "そこまで落ちぶれとらんわ！[ST:wait ]"
+    }
+  ]
+}

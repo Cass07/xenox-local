@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086109_MSG0001",
+      "style": 0,
+      "name": "린 씨, 멋대로 가출해서\n미안하다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086109_MSG0002",
+      "style": 0,
+      "name": "타츠……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086109_MSG0003",
+      "style": 0,
+      "name": "타츠, 깨달았다모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086109_MSG0004",
+      "style": 0,
+      "name": "어차피 먹힐 거라면\n타츠는 좋아하는 사람에게 먹히고 싶다모![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086109_MSG0005",
+      "style": 0,
+      "name": "자, 마음껏 타츠를 요리해 줘모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086109_MSG0006",
+      "style": 0,
+      "name": "저기…… 그러니까……\n무슨 말을 하는 거야, 타츠?[ST:wait ]"
+    }
+  ]
+}

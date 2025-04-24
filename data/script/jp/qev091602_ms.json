@@ -1,0 +1,306 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091602_MSG0001",
+      "style": 0,
+      "name": "動くな！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091602_MSG0002",
+      "style": 0,
+      "name": "何のつもり[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091602_JNK0010",
+      "style": 4,
+      "name": "現実"
+    },
+    {
+      "$id": 4,
+      "label": "qev091602_SEL0011",
+      "style": 3,
+      "name": "裏切るつもりかと問いただす"
+    },
+    {
+      "$id": 5,
+      "label": "qev091602_JNK0020",
+      "style": 4,
+      "name": "理想"
+    },
+    {
+      "$id": 6,
+      "label": "qev091602_SEL0021",
+      "style": 3,
+      "name": "自分の後ろに原生生物がいて\nピンチなんだと信じてみる"
+    },
+    {
+      "$id": 7,
+      "label": "qev091602_MSG0003",
+      "style": 0,
+      "name": "そう[ST:wide ]―　察しがいいわね\n私が見込んだだけのことはあるわ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091602_MSG0004",
+      "style": 0,
+      "name": "この任務の報酬を独り占めしたいのよ\n山分けなんて真っ平ごめんなの[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091602_MSG0005",
+      "style": 0,
+      "name": "とんだお人よしね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091602_MSG0006",
+      "style": 0,
+      "name": "人類が皆　あなたみたいな性格だったら\n平和だったし　退屈だったでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091602_MSG0007",
+      "style": 0,
+      "name": "私はただ　単純に報酬を独り占めしたいだけ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091602_MSG0008",
+      "style": 0,
+      "name": "マードレス！　殺して奪うつもり？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091602_MSG0009",
+      "style": 0,
+      "name": "背中から撃たなかったでしょ？\nまだ殺すつもりはない[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091602_MSG0010",
+      "style": 0,
+      "name": "こいつらは[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091602_MSG0011",
+      "style": 0,
+      "name": "最初に言ったじゃない\n腕っ節のいい方を次の仕事で使うって[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091602_MSG0012",
+      "style": 0,
+      "name": "そういうことか[ST:wide ]―\nどこまで性根が腐ってんだ　お前は[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091602_MSG0013",
+      "style": 0,
+      "name": "全ては私の夢のため\nイリーナもよく知ってるはずよ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091602_MSG0014",
+      "style": 0,
+      "name": "まだ諦めてなかったのか[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091602_MSG0015",
+      "style": 0,
+      "name": "そうよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091602_MSG0016",
+      "style": 0,
+      "name": "さて　舞台が整ったところで\nあなたに選択させてあげるわ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091602_MSG0017",
+      "style": 0,
+      "name": "大人しく私に譲るか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091602_MSG0018",
+      "style": 0,
+      "name": "私達と戦うか[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091602_JNK0030",
+      "style": 4,
+      "name": "譲る"
+    },
+    {
+      "$id": 24,
+      "label": "qev091602_SEL0031",
+      "style": 3,
+      "name": "マードレスに手柄も報酬もすべて譲る"
+    },
+    {
+      "$id": 25,
+      "label": "qev091602_JNK0040",
+      "style": 4,
+      "name": "戦う"
+    },
+    {
+      "$id": 26,
+      "label": "qev091602_SEL0041",
+      "style": 3,
+      "name": "マードレスと戦い\n手柄も報酬ももらう"
+    },
+    {
+      "$id": 27,
+      "label": "qev091602_MSG0019",
+      "style": 0,
+      "name": "本当に賢い判断ね\nあなたはきっと長生きできるわ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091602_MSG0019_m",
+      "style": 0,
+      "name": "本当に賢い判断ね\nあなたはきっと長生きできるわ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091602_MSG0019_f",
+      "style": 0,
+      "name": "本当に賢い判断ね\nあなたはきっと長生きできるわ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091602_MSG0020",
+      "style": 0,
+      "name": "隣で地団太踏んでる子猫ちゃんとは違ってね[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091602_MSG0021",
+      "style": 0,
+      "name": "マードレス[ST:wide ]―\n今回のこと　上に報告するからな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091602_MSG0022",
+      "style": 0,
+      "name": "どうぞどうぞ　それであなたの気が晴れるなら[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091602_MSG0023",
+      "style": 0,
+      "name": "じゃあまたね\n今度はイリーナ抜きで一緒に仕事しましょ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091602_MSG0023_m",
+      "style": 0,
+      "name": "じゃあまたね\n今度はイリーナ抜きで一緒に仕事しましょ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091602_MSG0023_f",
+      "style": 0,
+      "name": "じゃあまたね\n今度はイリーナ抜きで一緒に仕事しましょ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091602_MSG0024",
+      "style": 0,
+      "name": "[ST:wide ]―今回のこと報告しておかないとね[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091602_MSG0025",
+      "style": 0,
+      "name": "ブレイドが軍隊じゃないのはわかってるけど[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091602_MSG0026",
+      "style": 0,
+      "name": "あんな我儘がまかり通るような組織じゃ\nいけないからな[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091602_MSG0027",
+      "style": 0,
+      "name": "残念ね[ST:wide ]―\nこんなことなら背中から撃てばよかったわ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091602_MSG0028",
+      "style": 0,
+      "name": "いい判断だ　アイツに屈するのは\nあたしも気に食わないからね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091602_MSG0029",
+      "style": 0,
+      "name": "粋がる子猫ちゃん達の相手はよろしく\n私は先にＮＬＡに戻るわ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091602_MSG0030",
+      "style": 0,
+      "name": "ちゃんと手に入れて戻って来てね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091602_MSG0031",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091602_MSG0032",
+      "style": 0,
+      "name": "あたし達を舐めるな　そう簡単にやられるかよ[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091602_MSG0033",
+      "style": 0,
+      "name": "なんとか切り抜けられたな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091602_MSG0034",
+      "style": 0,
+      "name": "マードレスをぶん殴ってやりたいけど\nひとまずブレイドタワーに行こう[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091602_MSG0035",
+      "style": 0,
+      "name": "今回の件　報告しないとな[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091602_MSG0036",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

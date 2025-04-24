@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11040100_MSG0001",
+      "style": 0,
+      "name": "이 반응은……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11040100_MSG0002",
+      "style": 0,
+      "name": "프로그아레스![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs11040100_MSG0004",
+      "style": 0,
+      "name": "이 너머에 있는 넓은 공간 중앙에서\n프로그아레스의 식별 신호가 나타나고 있어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs11040100_MSG0005",
+      "style": 0,
+      "name": "그러면 라오 씨도 그곳에 있겠네요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs11040100_MSG0006",
+      "style": 0,
+      "name": "틀림없어, 가자[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs11040100_MSG0007",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11040100_MSG0008",
+      "style": 0,
+      "name": "으음~ 열리지 않네요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11040100_MSG0009",
+      "style": 0,
+      "name": "이쪽 입구는 지나갈 수 없는 걸지도 몰라\n다른 입구를 찾아 보자[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11040100_MSG0010",
+      "style": 0,
+      "name": "저쪽에 입구가 하나 더 있다모[ST:wait ]"
+    }
+  ]
+}

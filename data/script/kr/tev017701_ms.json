@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev017701_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev017701_SEL0011",
+      "style": 3,
+      "name": "백목의 대륙에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev017701_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev017701_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev017701_MSG0001",
+      "style": 1,
+      "name": "그로우스는 내가 잡혀 있던 히랄 요새와\n북쪽 바델 요새를 중심으로\n백목의 대륙 전역을 지배하에 두고 있는 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev017701_MSG0002",
+      "style": 1,
+      "name": "그 때문에 블레이드의 조사도 전혀 진척이 없고\n여전히 적의 움직임을 파악하지 못하는 데다가[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev017701_MSG0003",
+      "style": 1,
+      "name": "그 포자 안개 때문에 시야 확보가 안 돼서\n이 주변과는 위험도가 전혀 달라[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev017701_MSG0004",
+      "style": 1,
+      "name": "당신들도 그 주변을 탐색할 생각이라면\n평소보다 더 경계해야 해[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev017701_MSG0010",
+      "style": 1,
+      "name": "녀석들에게 호되게 당해서\n온몸이 싹 다 엉망이거든[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev017701_MSG0011",
+      "style": 1,
+      "name": "새로운 B.B. 파츠를 입수할 때까지\n쉬고 있으라는 명령을 받았어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev017701_MSG0012",
+      "style": 1,
+      "name": "빨리 전선으로 돌아가 살해된 머들러나\n다른 사람들 몫까지 열심히 싸우고 싶지만……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev017701_MSG0013",
+      "style": 1,
+      "name": "더 이상 당신들이나…… 나기 장관님에게\n폐를 끼칠 순 없으니까[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev017701_MSG0014",
+      "style": 1,
+      "name": "만반의 태세로 전장에 돌아갈 수 있도록\n이 틈에 장비 점검이라도 확실히 해 두겠어[ST:wait ]"
+    }
+  ]
+}

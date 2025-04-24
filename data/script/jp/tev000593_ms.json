@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000593_MSG0001",
+      "style": 1,
+      "name": "こんばんは　[ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000593_MSG0002",
+      "style": 1,
+      "name": "こんな夜更けに会うなんて珍しいですね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000593_MSG0007",
+      "style": 1,
+      "name": "質問"
+    },
+    {
+      "$id": 4,
+      "label": "tev000593_MSG0008",
+      "style": 1,
+      "name": "グインとミトスは\n夜遊びしているのか尋ねる"
+    },
+    {
+      "$id": 5,
+      "label": "tev000593_MSG0009",
+      "style": 1,
+      "name": "ねぎらう"
+    },
+    {
+      "$id": 6,
+      "label": "tev000593_MSG0010",
+      "style": 1,
+      "name": "夜警するグインとミトスを\nねぎらう"
+    },
+    {
+      "$id": 7,
+      "label": "tev000593_MSG0003",
+      "style": 1,
+      "name": "注意する"
+    },
+    {
+      "$id": 8,
+      "label": "tev000593_MSG0004",
+      "style": 1,
+      "name": "悪いことはしないほうがいい\nと注意する"
+    },
+    {
+      "$id": 9,
+      "label": "tev000593_MSG0005",
+      "style": 1,
+      "name": "やだなぁ　そういう言われ方は[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000593_MSG0006",
+      "style": 1,
+      "name": "厳しい任務の合間のちょっとした休息って\n感じですかね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000593_MSG0011",
+      "style": 1,
+      "name": "せっかくねぎらってもらったんですけど\n今は僕もミトスも非番なんです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000593_MSG0012",
+      "style": 1,
+      "name": "そんなぁ[ST:wide ]―\n悪いことしてたように見えました？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000593_MSG0013",
+      "style": 1,
+      "name": "僕とミトスですよ？\n悪いことなんてできっこないじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000593_MSG0014",
+      "style": 1,
+      "name": "たまたま時間が空いたから\nここで話をしてたんですよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000593_MSG0015",
+      "style": 1,
+      "name": "子供のころの夢の話です[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000593_MSG0016",
+      "style": 1,
+      "name": "ミトスは小さいころレーサーに\nなりたかったそうです[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000593_MSG0017",
+      "style": 1,
+      "name": "それで今もスポーツカー買ってNLAで\n乗り回したいらしいっす[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000593_MSG0018",
+      "style": 1,
+      "name": "コンパニオンをやめて外に出るユニオンに\n入れば　4WDであの広大な荒野を\n駆けまわれるぞって勧めたんですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000593_MSG0019",
+      "style": 1,
+      "name": "ラリーカーじゃなくてスポーツカーでないと\nイヤだって不満を漏らすんですよね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000593_MSG0020",
+      "style": 1,
+      "name": "……[ST:playername ]の\n子供のころの夢ってなんでした？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000593_JNK0010",
+      "style": 4,
+      "name": "尋ね返す"
+    },
+    {
+      "$id": 22,
+      "label": "tev000593_SEL0011",
+      "style": 3,
+      "name": "グインの子供のころの\n夢を尋ねる"
+    },
+    {
+      "$id": 23,
+      "label": "tev000593_JNK0020",
+      "style": 4,
+      "name": "言えない"
+    },
+    {
+      "$id": 24,
+      "label": "tev000593_SEL0021",
+      "style": 3,
+      "name": "恥ずかしくて言えないと返す"
+    },
+    {
+      "$id": 25,
+      "label": "tev000593_MSG0021",
+      "style": 1,
+      "name": "僕ですか？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000593_MSG0022",
+      "style": 1,
+      "name": "本当に子どものころは先のことなんて\nこれっぽっちも考えてなかったです[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000593_MSG0023",
+      "style": 1,
+      "name": "好きなモノはたくさんありましたけど\nこういう自分になりたいって強い意思は\n持ったことがありませんでした[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000593_MSG0024",
+      "style": 1,
+      "name": "でも　レオン[ST:wide ]―イリーナ中尉の弟に\n出会ってからは　触発されて\n目標ってものを持つようになりました[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000593_MSG0025",
+      "style": 1,
+      "name": "夢ってほど大きなものじゃないですけどね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000593_MSG0026",
+      "style": 1,
+      "name": "どんな破廉恥な夢だったんですか！？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000593_MSG0027",
+      "style": 1,
+      "name": "とても気になりますけど\n深くは追求しないようにします[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs07050100_MSG0001",
+      "style": 0,
+      "name": "적의 잔존 부대 반응은 없어요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs07050100_MSG0002",
+      "style": 0,
+      "name": "이걸로 끝인가모?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs07050100_JNK0010",
+      "style": 4,
+      "name": "자신"
+    },
+    {
+      "$id": 4,
+      "label": "xs07050100_SEL0011",
+      "style": 3,
+      "name": "승리 포즈를 취하며 의기양양한 표정을 짓는다"
+    },
+    {
+      "$id": 5,
+      "label": "xs07050100_JNK0020",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 6,
+      "label": "xs07050100_SEL0021",
+      "style": 3,
+      "name": "적이 너무 약해서 위화감을 느낀다고 말한다"
+    },
+    {
+      "$id": 7,
+      "label": "xs07050100_MSG0003",
+      "style": 0,
+      "name": "의외로 별것 아니었다모[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs07050100_MSG0004",
+      "style": 0,
+      "name": "대단했어요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs07050100_MSG0005",
+      "style": 0,
+      "name": "적을 순식간에![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs07050100_MSG0006",
+      "style": 0,
+      "name": "과신은 금물이야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs07050100_MSG0007",
+      "style": 0,
+      "name": "상대가 누구든\n작전 중에는 항상 방심하지 마[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs07050100_MSG0008",
+      "style": 0,
+      "name": "그런데 적은 많았지만\n뭔가 이상하지 않았나요?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs07050100_MSG0009",
+      "style": 0,
+      "name": "전력을 다하지 않았다고 할까\n너무 약하다고 할까……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs07050100_MSG0010",
+      "style": 0,
+      "name": "나도 그게 이상하다 싶었어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs07050100_MSG0011",
+      "style": 0,
+      "name": "맞아요, 숫자는 많았지만[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs07050100_MSG0012",
+      "style": 0,
+      "name": "확실히 뭔가 부족한 느낌이야[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs07050100_MSG0013",
+      "style": 0,
+      "name": "주력은 따로 있어[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs07050100_MSG0014",
+      "style": 0,
+      "name": "먼저 간 이리나 팀이 걱정이야\n서둘러 쫓아가자![ST:wait ]"
+    }
+  ]
+}

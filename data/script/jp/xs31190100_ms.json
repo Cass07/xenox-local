@@ -1,0 +1,486 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31190100_MSG0010",
+      "style": 0,
+      "name": "なんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31190100_MSG0020",
+      "style": 0,
+      "name": "あのバカでかい構造物は？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31190100_MSG0030",
+      "style": 0,
+      "name": "それに　この[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31190100_MSG0040",
+      "style": 0,
+      "name": "声？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs31190100_MSG0050",
+      "style": 0,
+      "name": "ヴォイドって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs31190100_MSG0060",
+      "style": 0,
+      "name": "ヴォイド[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs31190100_MSG0070",
+      "style": 0,
+      "name": "エルマさん　知っているんですか？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs31190100_MSG0080",
+      "style": 0,
+      "name": "太古から生き永らえ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs31190100_MSG0090",
+      "style": 0,
+      "name": "オリジナルのアレスを創出した存在[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs31190100_MSG0100",
+      "style": 0,
+      "name": "そして[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs31190100_MSG0110",
+      "style": 0,
+      "name": "グロウスもまた[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs31190100_MSG0115",
+      "style": 0,
+      "name": "ヴォイドが生み出したもの[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs31190100_MSG0120",
+      "style": 0,
+      "name": "言うなれば創造主よ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs31190100_MSG0130",
+      "style": 0,
+      "name": "もしかしてルクザールが言っていた\n“あの方”って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs31190100_MSG0140",
+      "style": 0,
+      "name": "おおお　やはり神話は真実だったというのか[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs31190100_MSG0150",
+      "style": 0,
+      "name": "なぜ　ウィータが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs31190100_MSG0160",
+      "style": 0,
+      "name": "あの方の器が　地球の原始人ごときに！\nただのデク人形に！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs31190100_MSG0170",
+      "style": 0,
+      "name": "ええ　ヴォイドのことよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs31190100_MSG0180",
+      "style": 0,
+      "name": "オレをボコボコにしてくれたのもあいつか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs31190100_MSG0190",
+      "style": 0,
+      "name": "ウィータを奪ったのはこのためだったのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs31190100_MSG0200",
+      "style": 0,
+      "name": "ヤツは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs31190100_MSG0210",
+      "style": 0,
+      "name": "またグロウスを集めて\n戦いを始めようってのか？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs31190100_MSG0220",
+      "style": 0,
+      "name": "その通りだ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs31190100_MSG0230",
+      "style": 0,
+      "name": "こっちの声が聞こえているのか！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs31190100_MSG0240",
+      "style": 0,
+      "name": "私は生き残りをかけた闘争をはじめる[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs31190100_MSG0250",
+      "style": 0,
+      "name": "敗者はこの星とともに消えるのみ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs31190100_MSG0260",
+      "style": 0,
+      "name": "それは私が\nこれまで何度も見て来た光景だ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs31190100_MSG0280",
+      "style": 0,
+      "name": "今度も勝つのは私だ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs31190100_MSG0290",
+      "style": 0,
+      "name": "私は世界を調律する[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs31190100_MSG0300",
+      "style": 0,
+      "name": "世界を調律する[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs31190100_MSG0310",
+      "style": 0,
+      "name": "星が消えるのが何度も見て来た光景って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs31190100_MSG0320",
+      "style": 0,
+      "name": "じゃあ　エルマさんの星も[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs31190100_MSG0330",
+      "style": 0,
+      "name": "私達の地球も[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs31190100_MSG0340",
+      "style": 0,
+      "name": "全部お前の思惑の内だったってのか！？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs31190100_MSG0350",
+      "style": 0,
+      "name": "敗者は消えるのみ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs31190100_MSG0360",
+      "style": 0,
+      "name": "大した言い草だな[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs31190100_MSG0370",
+      "style": 0,
+      "name": "ふざけんなって言葉しか出てこねぇよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs31190100_MSG0380",
+      "style": 0,
+      "name": "アレスの魂を返せ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs31190100_MSG0390",
+      "style": 0,
+      "name": "敗者は消えるのみ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs31190100_MSG0400",
+      "style": 0,
+      "name": "負けた覚えはないな[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs31190100_MSG0410",
+      "style": 0,
+      "name": "オレ自身があきらめない限り[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs31190100_MSG0420",
+      "style": 0,
+      "name": "オレは絶対負けはしない[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs31190100_MSG0430",
+      "style": 0,
+      "name": "[ST:wide ]―闘争を続けるつもりか[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs31190100_MSG0440",
+      "style": 0,
+      "name": "そうだ[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs31190100_MSG0450",
+      "style": 0,
+      "name": "首を洗って待っていろ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs31190100_MSG0460",
+      "style": 0,
+      "name": "それもいい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs31190100_MSG0470",
+      "style": 0,
+      "name": "それもまた命のあるべき姿[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs31190100_MSG0480",
+      "style": 0,
+      "name": "生き残るための必然だ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs31190100_MSG0490",
+      "style": 0,
+      "name": "それもいい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs31190100_MSG0500",
+      "style": 0,
+      "name": "世界の果てで会おう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs31190100_MSG0510",
+      "style": 0,
+      "name": "生き残りをかけた闘争[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs31190100_MSG0520",
+      "style": 0,
+      "name": "また[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs31190100_MSG0530",
+      "style": 0,
+      "name": "あらたな戦いを始めなくちゃ\nいけないんですか？[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs31190100_MSG0540",
+      "style": 0,
+      "name": "いや[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs31190100_MSG0550",
+      "style": 0,
+      "name": "そう単純な話でもない[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs31190100_MSG0560",
+      "style": 0,
+      "name": "え[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs31190100_MSG0570",
+      "style": 0,
+      "name": "戦う　戦わないにかかわらず[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs31190100_MSG0580",
+      "style": 0,
+      "name": "この星は今消えかけている[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs31190100_MSG0590",
+      "style": 0,
+      "name": "かつての私達の母星のように[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs31190100_MSG0600",
+      "style": 0,
+      "name": "生き残りとはつまり[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs31190100_MSG0610",
+      "style": 0,
+      "name": "この世界からの脱出[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs31190100_MSG0620",
+      "style": 0,
+      "name": "そのための闘争だ[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs31190100_MSG0630",
+      "style": 0,
+      "name": "世界からの脱出？[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs31190100_MSG0640",
+      "style": 0,
+      "name": "アル[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs31190100_MSG0650",
+      "style": 0,
+      "name": "君はその方法を知っているというのか？[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs31190100_MSG0660",
+      "style": 0,
+      "name": "ああ[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs31190100_MSG0670",
+      "style": 0,
+      "name": "脱出には　コアが鍵になる[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs31190100_MSG0680",
+      "style": 0,
+      "name": "ウィータに盗られたってやつか[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs31190100_MSG0690",
+      "style": 0,
+      "name": "コアがなければ人類は[ST:wide ]―　いや[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs31190100_MSG0700",
+      "style": 0,
+      "name": "この星に住むすべてのものは消える[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs31190100_MSG0710",
+      "style": 0,
+      "name": "アレスの分析はどうなっている？[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs31190100_MSG0720",
+      "style": 0,
+      "name": "順調なら今頃[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs31190100_MSG0730",
+      "style": 0,
+      "name": "驚愕の事実ってのが明らかに\nなっているはずだ[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs31190100_MSG0740",
+      "style": 0,
+      "name": "すぐに確認する[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs31190100_MSG0750",
+      "style": 0,
+      "name": "ここから先は[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs31190100_MSG0760",
+      "style": 0,
+      "name": "君さえ知らない話だ[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs31190100_MSG0770",
+      "style": 0,
+      "name": "お勉強の時間だ[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs31190100_MSG0780",
+      "style": 0,
+      "name": "隔離格納庫に行こう[ST:wait ]"
+    }
+  ]
+}

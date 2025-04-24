@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000194_MSG0001",
+      "style": 1,
+      "name": "おお[ST:wide ]―\n[ST:playername ]も来たのか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000194_MSG0002",
+      "style": 1,
+      "name": "どうだ　飲んでいるか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000194_MSG0003",
+      "style": 1,
+      "name": "[ST:wide ]―ん？\n俺らが一体何をしているか分かっていない\n表情をしているな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000194_JNK0010",
+      "style": 4,
+      "name": "政治資金パーティー"
+    },
+    {
+      "$id": 5,
+      "label": "tev000194_SEL0011",
+      "style": 3,
+      "name": "ナギがパーティーを開き \n資金を集めていると推測する"
+    },
+    {
+      "$id": 6,
+      "label": "tev000194_JNK0020",
+      "style": 4,
+      "name": "同窓会"
+    },
+    {
+      "$id": 7,
+      "label": "tev000194_SEL0021",
+      "style": 3,
+      "name": "ナギの同級生が集まり昔を\n懐かしんでいると推測する"
+    },
+    {
+      "$id": 8,
+      "label": "tev000194_JNK0030",
+      "style": 4,
+      "name": "誕生日パーティー"
+    },
+    {
+      "$id": 9,
+      "label": "tev000194_SEL0031",
+      "style": 3,
+      "name": "ナギの誕生日を祝っていると\n推測する"
+    },
+    {
+      "$id": 10,
+      "label": "tev000194_MSG0004",
+      "style": 1,
+      "name": "ハッハッ[ST:wide ]―\nそういうのはモーリス行政長官の分野だ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000194_MSG0005",
+      "style": 1,
+      "name": "俺らはただ喋り　飲み　食っているだけだよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000194_MSG0006",
+      "style": 1,
+      "name": "惜しい[ST:wide ]―\n昔を懐かしんでいるのは正解だが\n同級生ではないんだ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000194_MSG0007",
+      "style": 1,
+      "name": "ハッハッハッ[ST:wide ]―\n還暦にはまだ早いな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000194_MSG0008",
+      "style": 1,
+      "name": "だが　俺は57だからな\n3年後にこうして祝ってくれるとなれば\n嬉しいことではある[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000194_MSG0009",
+      "style": 1,
+      "name": "ここにいるのは地球時代の\nサクラバ重工の重鎮たちだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000194_MSG0010",
+      "style": 1,
+      "name": "今は第一線から退いているが\nアームズカンパニーの経営には\n多少携わっている[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000194_MSG0011",
+      "style": 1,
+      "name": "過去　白鯨やドールが完成できたのは\nサクラバ重工のおかげといっていい[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000194_MSG0012",
+      "style": 1,
+      "name": "[ST:wide ]―いや地球種汎移民計画の遂行さえも\nサクラバ重工の助力のおかげと言えるだろうな[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000194_MSG0013",
+      "style": 1,
+      "name": "持ち上げすぎるとアイツは嫌うだろうから\nこれ以上は語らないが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000194_MSG0014",
+      "style": 1,
+      "name": "とにかくNLAがこれからも発展し\n人類がミラで生きていくためには\nサクラバ重工との協力は不可欠[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000194_MSG0015",
+      "style": 1,
+      "name": "そのためにこうやって旧交を温めているわけだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000194_MSG0016",
+      "style": 1,
+      "name": "[ST:playername ]にもそういう人はいないのか？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000194_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 24,
+      "label": "tev000194_SEL0041",
+      "style": 3,
+      "name": "記憶がないのでわからないと\n答える"
+    },
+    {
+      "$id": 25,
+      "label": "tev000194_JNK0050",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 26,
+      "label": "tev000194_SEL0051",
+      "style": 3,
+      "name": "いると答える"
+    },
+    {
+      "$id": 27,
+      "label": "tev000194_MSG0017",
+      "style": 1,
+      "name": "そうだったな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000194_MSG0018",
+      "style": 1,
+      "name": "セントラルライフを確保すれば\n元の身体に戻れるだろう[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000194_MSG0019",
+      "style": 1,
+      "name": "その際に記憶が戻るといいのだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000194_MSG0020",
+      "style": 1,
+      "name": "でなければ　検査や調査が必要だな[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000194_MSG0021",
+      "style": 1,
+      "name": "だが安心してくれ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000194_MSG0022",
+      "style": 1,
+      "name": "俺が責任を持って\n[ST:playername ]の記憶を戻してみせるからな[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000194_MSG0023",
+      "style": 1,
+      "name": "そうだったな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000194_MSG0024",
+      "style": 1,
+      "name": "セントラルライフは確保できた[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000194_MSG0025",
+      "style": 1,
+      "name": "元の身体に戻ることで\n記憶がよみがえるかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000194_MSG0026",
+      "style": 1,
+      "name": "それでうまくいかなかったとしても\n安心してくれ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000194_MSG0027",
+      "style": 1,
+      "name": "俺が責任を持って\n[ST:playername ]の記憶を戻してみせるからな[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000194_MSG0028",
+      "style": 1,
+      "name": "それはよかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000194_MSG0029",
+      "style": 1,
+      "name": "ならば時間ができれば\n会ってみるのがいいだろう[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000194_MSG0030",
+      "style": 1,
+      "name": "こうやって地球とは別の星で\nしかも別の身体で話すのも一興だ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000194_MSG0031",
+      "style": 1,
+      "name": "さてと[ST:wide ]―\n俺はそろそろ中に入るよ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000194_MSG0032",
+      "style": 1,
+      "name": "そろそろイソベさんの打った手打ちそばが\n食べられる頃合いだろうからな[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092603_MSG0001",
+      "style": 0,
+      "name": "あれっ！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092603_MSG0001_2",
+      "style": 0,
+      "name": "父ちゃんと母ちゃんのノポヒッポ だも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092603_MSG0002",
+      "style": 0,
+      "name": "先に着いてたか\nちょっと遅れちゃったみたいね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092603_MSG0003",
+      "style": 0,
+      "name": "姿は見えないけど[ST:wide ]―　どこか行ったのかな？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092603_MSG0004",
+      "style": 0,
+      "name": "父ちゃーん！　母ちゃーん！\nトラが来たもー！！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092603_MSG0005",
+      "style": 0,
+      "name": "母ちゃん！！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092603_MSG0006",
+      "style": 0,
+      "name": "トラ[ST:wide ]―！！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092603_MSG0007",
+      "style": 0,
+      "name": "えー[ST:wide ]―\nあれってそういう使い方してたの[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092603_MSG0008",
+      "style": 0,
+      "name": "センパイ　知ってた？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092603_JNK0010",
+      "style": 4,
+      "name": "知っていた"
+    },
+    {
+      "$id": 11,
+      "label": "qev092603_SEL0011",
+      "style": 3,
+      "name": "もちろん知っていたと力強く断言する"
+    },
+    {
+      "$id": 12,
+      "label": "qev092603_JNK0020",
+      "style": 4,
+      "name": "知らない"
+    },
+    {
+      "$id": 13,
+      "label": "qev092603_SEL0021",
+      "style": 3,
+      "name": "知らなかったと素直に言う"
+    },
+    {
+      "$id": 14,
+      "label": "qev092603_MSG0009",
+      "style": 0,
+      "name": "あー　センパイって見栄っ張りなんだ\n強がり言っちゃって[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092603_MSG0009_m",
+      "style": 0,
+      "name": "あー　センパイって見栄っ張りなんだ\n強がり言っちゃって[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092603_MSG0009_f",
+      "style": 0,
+      "name": "あー　センパイって見栄っ張りなんだ\n強がり言っちゃって[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092603_MSG0011",
+      "style": 0,
+      "name": "うんうん　衝撃的だよね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092603_MSG0012",
+      "style": 0,
+      "name": "ふとした拍子に\nノポヒッポに飲み込まれるんじゃないかって[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092603_MSG0013",
+      "style": 0,
+      "name": "心配になっちゃうよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092603_MSG0014",
+      "style": 0,
+      "name": "母ちゃん　父ちゃんはどうしたも？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092603_MSG0015",
+      "style": 0,
+      "name": "そう！　大変ですわも　大変ですわも！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092603_MSG0016",
+      "style": 0,
+      "name": "トートンは　おっきな鳥に追いかけられて\n襲われて　連れ去られましたも！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092603_MSG0017",
+      "style": 0,
+      "name": "それはヤバいも！\n一大事だも　大変すぎるも！！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092603_MSG0018",
+      "style": 0,
+      "name": "ママナ　どうしたらいいかわからなくなって\nついつい現実逃避してしまっていたも！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092603_MSG0019",
+      "style": 0,
+      "name": "今でもどうしたらいいかわからないも！！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092603_MSG0020",
+      "style": 0,
+      "name": "母ちゃん落ち着くも！\nここに助けてくれる人がいるも！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092603_MSG0021",
+      "style": 0,
+      "name": "姉ちゃん達　お願いだも！\n父ちゃんを助けに行ってほしいも！！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092603_JNK0030",
+      "style": 4,
+      "name": "受注"
+    },
+    {
+      "$id": 29,
+      "label": "qev092603_SEL0031",
+      "style": 3,
+      "name": "任せろと言って頼みごとを聞く"
+    },
+    {
+      "$id": 30,
+      "label": "qev092603_JNK0040",
+      "style": 4,
+      "name": "交渉"
+    },
+    {
+      "$id": 31,
+      "label": "qev092603_SEL0041",
+      "style": 3,
+      "name": "報酬を上げてほしいと要求する"
+    },
+    {
+      "$id": 32,
+      "label": "qev092603_MSG0022",
+      "style": 0,
+      "name": "さすが世界一のブレイドだも！！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092603_MSG0023",
+      "style": 0,
+      "name": "こんな時でもガメツイも\nトラよりも商売人だも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092603_MSG0023_m",
+      "style": 0,
+      "name": "こんな時でもガメツイも\nトラよりも商売人だも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092603_MSG0023_f",
+      "style": 0,
+      "name": "こんな時でもガメツイも\nトラよりも商売人だも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092603_MSG0024",
+      "style": 0,
+      "name": "まぁまぁ　センパイ\nここは素直に助けに行ってあげようよ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092603_MSG0025",
+      "style": 0,
+      "name": "さすが姉ちゃんだも！\nケポ人参１個くらいなら上乗せしてあげるも！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092603_MSG0026",
+      "style": 0,
+      "name": "どうせならもっといいものが欲しいけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092603_MSG0027",
+      "style": 0,
+      "name": "でも　センパイと行って来るね[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092603_MSG0028",
+      "style": 0,
+      "name": "ありがとうも！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092603_MSG0029",
+      "style": 0,
+      "name": "トートンがおっきな鳥に食べられちゃう前に\n助けてきてくださいも！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092603_MSG0038",
+      "style": 1,
+      "name": "トートンは　トラのお土産にと\nおっきな鳥の卵を取ろうとしたんですわも[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092603_MSG0039",
+      "style": 1,
+      "name": "そしたら　浮遊岩礁にある\n奴らの巣に連れ去られてしまって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092603_MSG0040",
+      "style": 1,
+      "name": "お願いですわも！　トートンが\n食べられる前に助け出してくださいですわも！[ST:wait ]"
+    }
+  ]
+}

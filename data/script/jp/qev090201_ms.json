@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090201_MSG0001",
+      "style": 0,
+      "name": "しけた任務しかねぇなぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090201_MSG0002",
+      "style": 0,
+      "name": "[ST:wide ]―なぁ相棒　お前は何か\n面白そうな話を知らねぇか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090201_MSG0003",
+      "style": 0,
+      "name": "こうよ　誰も見つけたことのないような\nすっげぇもんを探しに行くようなやつ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090201_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 5,
+      "label": "qev090201_SEL0011",
+      "style": 3,
+      "name": "ミラで見聞きした\n面白い話をする"
+    },
+    {
+      "$id": 6,
+      "label": "qev090201_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 7,
+      "label": "qev090201_SEL0021",
+      "style": 3,
+      "name": "そういった話は知らないと\n首を振る"
+    },
+    {
+      "$id": 8,
+      "label": "qev090201_MSG0004",
+      "style": 0,
+      "name": "へぇ　お前も色々と経験してんだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090201_MSG0005",
+      "style": 0,
+      "name": "そんな面白ぇ話がそこらへんに\n転がってりゃいいんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090201_MSG0006",
+      "style": 0,
+      "name": "まっ　そう都合良い話はなかなかねぇか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090201_MSG0007",
+      "style": 0,
+      "name": "[ST:wide ]―あっ　そうだ！\nＮＬＡの連中の噂話でも聞いて回ってよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090201_MSG0008",
+      "style": 0,
+      "name": "なんか面白そうなもんがないか探してみようぜ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090201_MSG0009",
+      "style": 0,
+      "name": "市民ってのは俺達ブレイドよりも\n意外とそこらへんの　鼻が利くもんなんだよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090201_MSG0010",
+      "style": 0,
+      "name": "へっ[ST:wide ]―　地球時代の戦場じゃあ\nそんな風にして　旨い話にありついたもんだぜ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090201_MSG0011",
+      "style": 0,
+      "name": "基地をアイツと抜け出して　酒場で頼まれた\n用心棒の仕事なんかで小遣い稼いだりよ！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090201_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 17,
+      "label": "qev090201_SEL0031",
+      "style": 3,
+      "name": "イエルヴの話に乗っかる"
+    },
+    {
+      "$id": 18,
+      "label": "qev090201_JNK0040",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 19,
+      "label": "qev090201_SEL0041",
+      "style": 3,
+      "name": "地球時代の話を詳しく聞く"
+    },
+    {
+      "$id": 20,
+      "label": "qev090201_MSG0012",
+      "style": 0,
+      "name": "そうこなくっちゃな　相棒！\nそれじゃあ早速　街を回ってみようぜ！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090201_MSG0013",
+      "style": 0,
+      "name": "軍に入隊してすぐに　いきなり砂漠の\nど真ん中まで飛ばされちまってな[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090201_MSG0014",
+      "style": 0,
+      "name": "まー　なんもねぇ場所だったからよ\nダチと二人で基地をよく抜け出してたんだ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090201_MSG0015",
+      "style": 0,
+      "name": "で　近くの街の連中と仲良くなって\n派手に稼いで遊びまわってたんだけどよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090201_MSG0016",
+      "style": 0,
+      "name": "カジノの用心棒に軍用品の横流し[ST:wide ]―\nいま考えりゃあムチャしてたもんさ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090201_MSG0017",
+      "style": 0,
+      "name": "[ST:wide ]―まっ　そんな昔話よりゃ今の話さ\nなっ？　ちょっとばかり噂を聞きに行こうぜ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090201_MSG0018",
+      "style": 0,
+      "name": "それで良さそうな話を聞いたら\nカフェサンシャインで　作戦会議といこうや！[ST:wait ]"
+    }
+  ]
+}

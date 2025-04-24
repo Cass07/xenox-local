@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev042204_MSG0001",
+      "style": 1,
+      "name": "あーあ　負けてしまいましたも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev042204_MSG0002",
+      "style": 1,
+      "name": "ニポポンは結構強いと思っていたのですが\nまあ　仕方ないですも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev042204_MSG0003",
+      "style": 1,
+      "name": "さて　さっさと洗礼を\n済ませてしまいますも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev042204_MSG0004",
+      "style": 1,
+      "name": "もんがら～　へんがら～\nふんがらもんがら　ももももも～[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev042204_MSG0005",
+      "style": 1,
+      "name": "ニポポンからの洗礼を\nノポンの原石に込めてやりましたも[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev042204_MSG0006",
+      "style": 1,
+      "name": "ノポンの起源にまた一歩\n近づいたみたいですも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev042204_MSG0007",
+      "style": 1,
+      "name": "せいぜいがんばれですも……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev042204_MSG0008",
+      "style": 1,
+      "name": "あっ　ノポポンに\n「おじゃるって口調はビミョーだも」って\n伝えといてくださいも[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev042204_MSG0009",
+      "style": 1,
+      "name": "キャラ性を出さなきゃなんて言って\n無理しすぎですも[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095207_MSG0001",
+      "style": 1,
+      "name": "グロウスの下　くだらぬ兵器の開発を\n強制されてきたが……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095207_MSG0002",
+      "style": 1,
+      "name": "君は　ああいった連中とは違うよな？\n我々の技術を　最良の形で\n有効利用してくれることを期待しているよ[ST:wait ]"
+    }
+  ]
+}

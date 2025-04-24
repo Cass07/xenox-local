@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092405_MSG0001",
+      "style": 0,
+      "name": "이건…… 아버지의 일기가 담긴\n데이터베이스……?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092405_MSG0002",
+      "style": 0,
+      "name": "설마, 이걸 찾기 위해서\n이런 곳까지 와 주신 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092405_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 4,
+      "label": "qev092405_SEL0011",
+      "style": 3,
+      "name": "평소에 느낀 고마움을 담아\n선물을 건네준다"
+    },
+    {
+      "$id": 5,
+      "label": "qev092405_JNK0020",
+      "style": 4,
+      "name": "사과"
+    },
+    {
+      "$id": 6,
+      "label": "qev092405_SEL0021",
+      "style": 3,
+      "name": "지금까지 말하지 않아서\n미안하다고 말하며 건네준다"
+    },
+    {
+      "$id": 7,
+      "label": "qev092405_MSG0003",
+      "style": 0,
+      "name": "전 당신에게서 많은 것을 받았어요\n고마워해야 하는 건 오히려 저인데……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092405_MSG0004",
+      "style": 0,
+      "name": "이렇게나 기쁜걸요……\n사과하지 않아도 돼요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092405_MSG0005",
+      "style": 0,
+      "name": "저기……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092405_MSG0005_2",
+      "style": 0,
+      "name": "나중에 천천히 읽어 보도록 할게요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092405_MSG0006",
+      "style": 0,
+      "name": "분명 이 안에는 오르넬라 씨를\n몰아붙이고 말았던 저를……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092405_MSG0007",
+      "style": 0,
+      "name": "훈계하는 글이 있을 테니까요……[ST:wait ]"
+    }
+  ]
+}

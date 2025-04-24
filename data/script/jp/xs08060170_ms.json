@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08060170_MSG0001",
+      "style": 0,
+      "name": "なんだか少なくなってきた気がするですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08060170_MSG0002",
+      "style": 0,
+      "name": "エルマさん\nなんとかイーストゲートを護りきれそうですね[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs08060170_MSG0003",
+      "style": 0,
+      "name": "少なすぎる[ST:wide ]―\n本当にこれだけ[ST:wide ]―　なの[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08060170_MSG0004",
+      "style": 0,
+      "name": "エルマさん[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08060170_MSG0005",
+      "style": 0,
+      "name": "ごめんなさい\nそうね　あと少しよ　頑張りましょう[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs08060170_MSG0006",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    }
+  ]
+}

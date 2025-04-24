@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000591_MSG0001",
+      "style": 1,
+      "name": "안녕하세요, [ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000591_MSG0002",
+      "style": 1,
+      "name": "방금 동기인 패스파인더와\n이야기를 했어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000591_MSG0003",
+      "style": 1,
+      "name": "다음에 같이 팀을 짜서 망각의 계곡에\n데이터 프로브를 설치하러 가지 않겠냐고\n권유받았는데……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000591_JNK0010",
+      "style": 4,
+      "name": "추측한다"
+    },
+    {
+      "$id": 5,
+      "label": "tev000591_SEL0011",
+      "style": 3,
+      "name": "이리나와 떨어지기\n무섭냐고 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000591_JNK0020",
+      "style": 4,
+      "name": "격려한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000591_SEL0021",
+      "style": 3,
+      "name": "인터셉터가 나설 차례라며\n의욕을 북돋는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000591_MSG0004",
+      "style": 1,
+      "name": "아, 아니에요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000591_MSG0005",
+      "style": 1,
+      "name": "그야 조금 불안하기는 하지만\n애초에 하루 종일 같이 있는 것도 아니고……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000591_MSG0006",
+      "style": 1,
+      "name": "제가 걱정하는 건 경험이 부족한 블레이드끼리\n임무에 나서면 위험하지 않을까 하는 점이에요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000591_MSG0007",
+      "style": 1,
+      "name": "그렇네요……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000591_MSG0008",
+      "style": 1,
+      "name": "인터셉터는 원시 생물을 소탕하고\n패스파인더는 데이터 프로브를 설치한다\n이상적인 역할 분담이죠[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000591_MSG0009",
+      "style": 1,
+      "name": "하지만 한 가지 걱정되는 점이 있어요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000591_MSG0010",
+      "style": 1,
+      "name": "저희 같은 경험이 부족한 블레이드끼리\n임무에 나서면 위험하지 않을까 싶어서요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000591_JNK0030",
+      "style": 4,
+      "name": "조언"
+    },
+    {
+      "$id": 16,
+      "label": "tev000591_SEL0031",
+      "style": 3,
+      "name": "일단 간단한 임무부터\n시작해 보라고 조언한다"
+    },
+    {
+      "$id": 17,
+      "label": "tev000591_JNK0040",
+      "style": 4,
+      "name": "개입"
+    },
+    {
+      "$id": 18,
+      "label": "tev000591_SEL0041",
+      "style": 3,
+      "name": "이번엔 자신도\n함께 가겠다고 말한다"
+    },
+    {
+      "$id": 19,
+      "label": "tev000591_JNK0050",
+      "style": 4,
+      "name": "일갈"
+    },
+    {
+      "$id": 20,
+      "label": "tev000591_SEL0051",
+      "style": 3,
+      "name": "위험을 두려워해서는\n아무것도 얻을 수 없다며 혼낸다"
+    },
+    {
+      "$id": 21,
+      "label": "tev000591_MSG0011",
+      "style": 1,
+      "name": "그렇네요……\n갑자기 오버드가 바글대는 곳에\n가거나 하지는 않을게요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000591_MSG0012",
+      "style": 1,
+      "name": "어서 선배들과 어깨를 나란히 하고 싶지만\n빠르게 성장하려다 자멸하면 안 되니까요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000591_MSG0013",
+      "style": 1,
+      "name": "자신의 역량에 맞는 임무를\n착실히 수행하는 것…… 그게 가장 중요하죠[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000591_MSG0014",
+      "style": 1,
+      "name": "조언해 주셔서 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000591_MSG0015",
+      "style": 1,
+      "name": "조금 더 이야기 나눈 후에\n무모하지 않은 임무를 받을게요![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000591_MSG0016",
+      "style": 1,
+      "name": "그럼 전 이만\n무슨 일 생기면 말 걸어 주세요![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000591_MSG0017",
+      "style": 1,
+      "name": "정말로요!?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000591_MSG0018",
+      "style": 1,
+      "name": "[ST:playername ][KR:Particle char=ga ]\n함께 가 준다니 정말 든든하네요![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000591_MSG0019",
+      "style": 1,
+      "name": "……하지만 이리나 중위님이 알면\n왜 자신을 부르지 않았냐고 화낼 것 같은데요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000591_MSG0020",
+      "style": 1,
+      "name": "화난 이리나 중위님과 초보끼리 진행하는 임무 중에서\n덜 무서운 걸 고르라면 솔직히 임무가 더 나아요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000591_MSG0021",
+      "style": 1,
+      "name": "그렇게 생각하니 저와 동료들만으로도\n그럭저럭 잘될 것 같은 느낌이 드네요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000591_MSG0022",
+      "style": 1,
+      "name": "격려해 주셔서 감사합니다\n저희끼리 어떻게든 해 볼게요![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000591_MSG0023",
+      "style": 1,
+      "name": "그럼 전 이만\n무슨 일 생기면 말 걸어 주세요![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000591_MSG0024",
+      "style": 1,
+      "name": "그렇네요……![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000591_MSG0025",
+      "style": 1,
+      "name": "행성 미라에 온 후로 지구인들은\n이 힘든 상황에서도 포기하지 않고\n어려움에 맞서고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000591_MSG0026",
+      "style": 1,
+      "name": "저희도 지구인의 일원으로서\n실패를 두려워 말고 도전해야 해요……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000591_MSG0027",
+      "style": 1,
+      "name": "그리고 잔뜩 경험을 쌓아서\n얼른 선배들과 어깨를 나란히 할 수준으로\n성장해야 해요……![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000591_MSG0028",
+      "style": 1,
+      "name": "알겠습니다\n저희 힘으로 이겨 내겠습니다![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000591_MSG0029",
+      "style": 1,
+      "name": "그러면 저는 출발 준비를 하러 갈게요!\n다음에 임무가 생기면 데려가 주세요![ST:wait ]"
+    }
+  ]
+}

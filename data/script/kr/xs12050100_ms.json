@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12050100_MSG0001",
+      "style": 0,
+      "name": "여기가 센트럴 라이프……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12050100_MSG0002",
+      "style": 0,
+      "name": "서두르자\n적이 침입하기 전에 안으로 가야 해[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12050100_MSG0003",
+      "style": 0,
+      "name": "드디어 도달했어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12050100_MSG0004",
+      "style": 0,
+      "name": "여기에…… 여기에 저희의 몸이 있는 거군요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12050100_MSG0005",
+      "style": 0,
+      "name": "센트럴 라이프 제어 시스템에서 알립니다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12050100_MSG0006",
+      "style": 0,
+      "name": "시스템 잔존 에너지가\n0.2% 이하로 떨어졌습니다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12050100_MSG0007",
+      "style": 0,
+      "name": "방어 필드 소실까지 1000초[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12050100_MSG0008",
+      "style": 0,
+      "name": "다시 한번 알립니다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12050100_MSG0008_2",
+      "style": 0,
+      "name": "센트럴 라이프 제어 시스템에서 알립니다……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12050100_MSG0009",
+      "style": 0,
+      "name": "15분밖에 못 버티는 건가![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12050100_MSG0010",
+      "style": 0,
+      "name": "어차피 에너지가 바닥나면\n필드만 남아 봤자 소용없잖아[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs12050100_MSG0011",
+      "style": 0,
+      "name": "예비 시스템을 기동하면……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs12050100_MSG0012",
+      "style": 0,
+      "name": "가동 한계 시간도 늘어나고\n방어 필드도 유지할 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12050100_MSG0013",
+      "style": 0,
+      "name": "방어 필드를 유지할 수 있다면……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12050100_MSG0014",
+      "style": 0,
+      "name": "적의 보급에도 한계가 있을 테니\n결국 퇴각할지도 모르겠군요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12050100_MSG0015",
+      "style": 0,
+      "name": "바로 그거야\n모든 건 예비 시스템 확보 여부에 달렸어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs12050100_MSG0016",
+      "style": 0,
+      "name": "가요, 엘마 씨[ST:wait ]"
+    }
+  ]
+}

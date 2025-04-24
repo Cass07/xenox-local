@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086407_MSG0001",
+      "style": 0,
+      "name": "타츠, 대단해모!\n정말 찾아 오다니모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086407_MSG0002",
+      "style": 0,
+      "name": "헤헤~ 다시 봤냐모?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086407_MSG0003",
+      "style": 0,
+      "name": "다시 봤어, 다시 봤어모!\n좋은 친구들을 둔 덕분이구나모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086407_MSG0004",
+      "style": 0,
+      "name": "저런, 다 꿰뚫고 있네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086407_MSG0005",
+      "style": 0,
+      "name": "자, 안경을 써 보렴모[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086407_MSG0006",
+      "style": 0,
+      "name": "알았다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086407_MSG0007",
+      "style": 0,
+      "name": "어떤가모?\n어른이 된 타츠에게 딱인가모?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086407_MSG0008",
+      "style": 0,
+      "name": "아아~~ 네 아빠의 젊은 시절이\n떠오르는 것 같아모[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086407_MSG0009",
+      "style": 0,
+      "name": "카카가 반했을 시절의\n아빠와 똑 닮았구나모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086407_MSG0010",
+      "style": 0,
+      "name": "그게 아버지의 유품이라고~~!?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086407_MSG0011",
+      "style": 0,
+      "name": "유품?\n이상한 소리 하지 마라모![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086407_MSG0012",
+      "style": 0,
+      "name": "그럼 마치 아빠가\n죽은 것 같지 않냐모![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086407_MSG0013",
+      "style": 0,
+      "name": "응? 그런 거야!?\n미안, 착각했어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086407_MSG0014",
+      "style": 0,
+      "name": "그럼, 아버님은 어디에?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086407_MSG0015",
+      "style": 0,
+      "name": "우리 남편은 선택받았어요모\n올해의 전설의 용사로……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086407_MSG0016",
+      "style": 0,
+      "name": "그렇다모![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086407_MSG0017",
+      "style": 0,
+      "name": "전설의 용사는 부하를 데리고\n나쁜 신을 쓰러뜨리러 가는 게 오랜 관습이다모![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086407_MSG0018",
+      "style": 0,
+      "name": "올해는 아빠 차례다모![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086407_MSG0019",
+      "style": 0,
+      "name": "그런 건 돌아가면서 맡을 게\n아닌 것 같은데……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086407_MSG0020",
+      "style": 0,
+      "name": "하지만 용사라니 대단하네[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086407_MSG0021",
+      "style": 0,
+      "name": "그렇다기보다, 우리는 아이가 많으니까……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086407_MSG0022",
+      "style": 0,
+      "name": "아이 아빠가 힘내서\n나쁜 신을 많이 쓰러뜨리고……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086407_MSG0023",
+      "style": 0,
+      "name": "올해 안에 바짝~\n열심히 벌어 와야 하거든요모[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086407_MSG0024",
+      "style": 0,
+      "name": "그게 뭐예요~~[ST:wait ]"
+    }
+  ]
+}

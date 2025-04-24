@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs02040100_MSG0001",
+      "style": 0,
+      "name": "データプローブの取り付け　完了しました\n起動準備にかかります[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs02040100_MSG0002",
+      "style": 0,
+      "name": "ありがとう　リン[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs02040100_MSG0003",
+      "style": 0,
+      "name": "この円筒形の機械が　データプローブ[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs02040100_MSG0004",
+      "style": 0,
+      "name": "先端からレーザーを照射して\n土を溶解しながら進むようになっているわ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs02040100_MSG0005",
+      "style": 0,
+      "name": "最初は　地上に設置していたのよ\nでも　原生生物による破壊が頻繁に起きてね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs02040100_MSG0006",
+      "style": 0,
+      "name": "今のこの地中深くに設置するものに\n改造されたの[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs02040100_MSG0007",
+      "style": 0,
+      "name": "どう？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs02040100_MSG0008",
+      "style": 0,
+      "name": "準備完了です\nいつでもどうぞ！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs02040100_MSG0009",
+      "style": 0,
+      "name": "設置の合図は　[System:Ruby rt=デバイス ]端末[/System:Ruby]から行うのよ\nやってみて[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs02040100_JNK0010",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 11,
+      "label": "xs02040100_SEL0011",
+      "style": 3,
+      "name": "面白そうだと[System:Ruby rt=デバイス ]端末[/System:Ruby]を操作する"
+    },
+    {
+      "$id": 12,
+      "label": "xs02040100_JNK0020",
+      "style": 4,
+      "name": "説得"
+    },
+    {
+      "$id": 13,
+      "label": "xs02040100_SEL0021",
+      "style": 3,
+      "name": "リンを見つめ設置をお願いする"
+    },
+    {
+      "$id": 14,
+      "label": "xs02040100_MSG0010",
+      "style": 0,
+      "name": "えっ！？　私ですか？？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs02040100_MSG0011",
+      "style": 0,
+      "name": "ダメですよ！\nそれじゃ　研修にならないじゃないですか[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs02040100_MSG0012",
+      "style": 0,
+      "name": "怖いことなんて全然ないですから\nポチッとやっちゃって下さい！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs02040100_JNK0026",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 18,
+      "label": "xs02040100_SEL0027",
+      "style": 3,
+      "name": "うなずき[System:Ruby rt=デバイス ]端末[/System:Ruby]を操作する"
+    },
+    {
+      "$id": 19,
+      "label": "xs02040100_JNK0028",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 20,
+      "label": "xs02040100_SEL0022",
+      "style": 3,
+      "name": "エルマを見つめ首を振る"
+    },
+    {
+      "$id": 21,
+      "label": "xs02040100_MSG0013",
+      "style": 0,
+      "name": "あなたは　もうブレイドの一員なのよ\nこれぐらいのことで怖気づいてどうするの[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs02040100_JNK0030",
+      "style": 4,
+      "name": "決心"
+    },
+    {
+      "$id": 23,
+      "label": "xs02040100_SEL0031",
+      "style": 3,
+      "name": "心を決め[System:Ruby rt=デバイス ]端末[/System:Ruby]を操作する"
+    },
+    {
+      "$id": 24,
+      "label": "xs02040100_JNK0032",
+      "style": 4,
+      "name": "決意"
+    },
+    {
+      "$id": 25,
+      "label": "xs02040100_SEL0033",
+      "style": 3,
+      "name": "決意を新たに[System:Ruby rt=デバイス ]端末[/System:Ruby]を操作する"
+    },
+    {
+      "$id": 26,
+      "label": "xs02040100_MSG0014",
+      "style": 0,
+      "name": "あとは　目標地点まで到達するのを待つだけよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs02040100_MSG0015",
+      "style": 0,
+      "name": "データプローブ　起動確認[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs02040100_MSG0016",
+      "style": 0,
+      "name": "フロンティアネットへの接続も\n正常に行われています[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs02040100_MSG0017",
+      "style": 0,
+      "name": "うん　上出来ね\n今の方法をよく覚えておいて[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs02040100_MSG0018",
+      "style": 0,
+      "name": "フロンティアネットスポットは効率よく情報を\n収集するために一定の間隔で指定されている　[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs02040100_MSG0019",
+      "style": 0,
+      "name": "ライフポイントを発見するためには[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs02040100_MSG0020",
+      "style": 0,
+      "name": "広範囲にデータプローブを\n設置する必要がありますから[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs02040100_MSG0021",
+      "style": 0,
+      "name": "フロンティアネットスポットを見つけたら\nどんどん設置していきましょう！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs02040100_MSG0026",
+      "style": 0,
+      "name": "これで研修は終わりよ\nブレイドホームに戻ってナギに報告しましょう[ST:wait ]\n"
+    }
+  ]
+}

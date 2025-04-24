@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086804_MSG0001",
+      "style": 0,
+      "name": "この洞窟ね\nセレネハーブが採取できるのは[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086804_MSG0002",
+      "style": 0,
+      "name": "セリカさん　もう中に入ったみたいですね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086804_MSG0003",
+      "style": 0,
+      "name": "どうしたんですも？\nロック　怖いんですも？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086804_MSG0004",
+      "style": 0,
+      "name": "そ　そんなことないよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086804_MSG0005",
+      "style": 0,
+      "name": "無理しなくていいんですよ\nこんな暗い洞窟　私だって苦手です[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086804_MSG0006",
+      "style": 0,
+      "name": "ボク　昔　嫌な奴らにこき使われてたんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086804_MSG0007",
+      "style": 0,
+      "name": "その頃いつも　暗くて狭い所に閉じ込められて\n運ばれてたんだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086804_MSG0008",
+      "style": 0,
+      "name": "その頃のことを思い出すのね\nここで待っていてもいいのよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086804_MSG0009",
+      "style": 0,
+      "name": "ううん　ボク行くよ\nだって　セリカを助けたいもの[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086804_JNK0010",
+      "style": 4,
+      "name": "反対"
+    },
+    {
+      "$id": 11,
+      "label": "qev086804_SEL0011",
+      "style": 3,
+      "name": "ロックは残るようにと勧める"
+    },
+    {
+      "$id": 12,
+      "label": "qev086804_JNK0020",
+      "style": 4,
+      "name": "応援"
+    },
+    {
+      "$id": 13,
+      "label": "qev086804_SEL0021",
+      "style": 3,
+      "name": "いざとなれば守ると胸を叩く"
+    },
+    {
+      "$id": 14,
+      "label": "qev086804_MSG0010",
+      "style": 0,
+      "name": "ダメだよ\nだって　きっとセリカも怖い思いしてる[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086804_MSG0011",
+      "style": 0,
+      "name": "なのにボクだけ逃げたりなんて\nできないよ！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086804_MSG0012",
+      "style": 0,
+      "name": "よく言ったわ　ロック[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086804_MSG0013",
+      "style": 0,
+      "name": "戦闘になったら　私達が守ってみせる\nあなたはセリカを助けることだけ考えて[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086804_MSG0014",
+      "style": 0,
+      "name": "うん[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086804_MSG0015",
+      "style": 0,
+      "name": "ダメだよ\nだって　きっとセリカも怖い思いしてる[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086804_MSG0016",
+      "style": 0,
+      "name": "ボクだって自分の力で\nセリカを助けたいんだ！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086804_MSG0017",
+      "style": 0,
+      "name": "ロック　あなたがセリカを助けたいように\n私達もあなた達の力になりたいの[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086804_MSG0018",
+      "style": 0,
+      "name": "仲間の力を借りること\nそれを恥じる必要はないわ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086804_MSG0019",
+      "style": 0,
+      "name": "そっか\nうん　わかった！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086804_MSG0020",
+      "style": 0,
+      "name": "えへへ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086804_MSG0021",
+      "style": 0,
+      "name": "それでこそ男の子ですも！\nさぁ　がんばって行くですも！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086301_MSG0001",
+      "style": 0,
+      "name": "이런, 손님이군요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086301_MSG0002",
+      "style": 0,
+      "name": "이봐, 주인! 어디 갔다 온 거냐모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086301_MSG0003",
+      "style": 0,
+      "name": "토라 아닌가모?\n루 씨의 가게에 무슨 용건인가모?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086301_MSG0004",
+      "style": 0,
+      "name": "당연히 물건을 사러 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086301_MSG0005",
+      "style": 0,
+      "name": "그거 당연한 말씀이군요\n뭔가 찾는 거라도 있으십니까?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086301_MSG0006",
+      "style": 0,
+      "name": "사실은……\n노폰 한방약의 재료를 찾고 있다모[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086301_JNK0010",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 8,
+      "label": "qev086301_SEL0011",
+      "style": 3,
+      "name": "누군가 아픈 거냐고 사정을 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "qev086301_JNK0020",
+      "style": 4,
+      "name": "억측"
+    },
+    {
+      "$id": 10,
+      "label": "qev086301_SEL0021",
+      "style": 3,
+      "name": "한몫 잡으려는 속셈이라고 지적한다"
+    },
+    {
+      "$id": 11,
+      "label": "qev086301_MSG0007",
+      "style": 0,
+      "name": "그렇다모[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086301_MSG0008",
+      "style": 0,
+      "name": "그거 큰일이다모!\n대체 누가 아픈 거냐모?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086301_MSG0009",
+      "style": 0,
+      "name": "토라가 그런 노폰으로 보이냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086301_MSG0009_m",
+      "style": 0,
+      "name": "토라가 그런 노폰으로 보이냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086301_MSG0009_f",
+      "style": 0,
+      "name": "토라가 그런 노폰으로 보이냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086301_MSG0010",
+      "style": 0,
+      "name": "토라는 머리가 유감스러운 노폰이라\n그런 어려운 돈벌이 계획은 세울 수 없다모[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086301_MSG0011",
+      "style": 0,
+      "name": "믿어 줬으면 한다모![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086301_MSG0012",
+      "style": 0,
+      "name": "머리가 유감스럽다니 무슨 말이냐모!\n머리가 실망스러운 녀석에게 듣고 싶지 않다모![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086301_MSG0013",
+      "style": 0,
+      "name": "노폰의 미래를 짊어진 젊은이가\n중병으로 괴로워하고 있다모……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086301_MSG0014",
+      "style": 0,
+      "name": "그거 흘려들을 수 없는 이야기네[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086301_MSG0015",
+      "style": 0,
+      "name": "저희 가게의 상품으로\n도울 수 있다면 좋겠습니다만……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086301_MSG0016",
+      "style": 0,
+      "name": "안 된다모……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086301_MSG0017",
+      "style": 0,
+      "name": "상품을 봤다모\n노폰 비전의 한방약은 없었다모[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086301_MSG0018",
+      "style": 0,
+      "name": "그야 비전이니까……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086301_MSG0019",
+      "style": 0,
+      "name": "하지만 토라는 똑똑한 노폰이니까\n만드는 법을 알고 있다모[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086301_MSG0020",
+      "style": 0,
+      "name": "그래서 재료를 들여와 줬으면 한다모[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086301_MSG0021",
+      "style": 0,
+      "name": "오오, 그거라면 도와드릴 수 있겠네요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086301_MSG0022",
+      "style": 0,
+      "name": "엘마 씨 팀에게도\n도움을 받을 수 있을 것 같고 말입니다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086301_MSG0023",
+      "style": 0,
+      "name": "그렇네\n토라의 의뢰로서 우리가 맡겠어[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086301_MSG0024",
+      "style": 0,
+      "name": "다행이다모![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086301_MSG0025",
+      "style": 0,
+      "name": "그럼 다들, 우선은 이 두 개를\n채취해 와 줬으면 한다모[ST:wait ]"
+    }
+  ]
+}

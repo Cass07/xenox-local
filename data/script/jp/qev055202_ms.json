@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055202_MSG0001",
+      "style": 1,
+      "name": "スモークは　私たちがグロウス内にいたころ\nオルフェ同士で危険を知らせるために\n使っていたもの[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055202_MSG0002",
+      "style": 1,
+      "name": "よもやこんなことで役に立つとは\nわからないものだ……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055202_MSG0003",
+      "style": 1,
+      "name": "カンオトナムの無事を視認した[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev055202_MSG0004",
+      "style": 1,
+      "name": "少し疲れていたようだが　回復は早いと予想\n心配は不要と思われる[ST:wait ]"
+    }
+  ]
+}

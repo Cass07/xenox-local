@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091401_MSG0001",
+      "style": 0,
+      "name": "あの[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091401_MSG0002",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091401_MSG0003",
+      "style": 0,
+      "name": "協力してほしい任務があるんです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091401_MSG0004",
+      "style": 0,
+      "name": "ドールの試験をしていたアームズから[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091401_MSG0005",
+      "style": 0,
+      "name": "忘却の渓谷で　奇妙な物体を発見したと\n報告があったそうです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091401_MSG0006",
+      "style": 0,
+      "name": "それでその未知の物体を調査せよ\nとのことなんです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091401_MSG0031",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 8,
+      "label": "qev091401_MSG0032",
+      "style": 3,
+      "name": "未知の物体について詳しく聞く"
+    },
+    {
+      "$id": 9,
+      "label": "qev091401_MSG0033",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 10,
+      "label": "qev091401_MSG0034",
+      "style": 3,
+      "name": "それはランドバンクの仕事なのか尋ねる"
+    },
+    {
+      "$id": 11,
+      "label": "qev091401_MSG0007",
+      "style": 0,
+      "name": "気になりますよね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091401_MSG0008",
+      "style": 0,
+      "name": "だけど　詳しい情報が一切ないから\n調査に向かうんですよ？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091401_MSG0009",
+      "style": 0,
+      "name": "ボクに詳細を聞かれても困ります[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091401_MSG0010",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091401_MSG0011",
+      "style": 0,
+      "name": "鋭い指摘ですね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091401_MSG0012",
+      "style": 0,
+      "name": "この任務はコレペディアンが\n担当すべきなんですけど[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091401_MSG0013",
+      "style": 0,
+      "name": "無理を言って譲ってもらいました[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091401_MSG0014",
+      "style": 0,
+      "name": "いろいろな任務をこなせるようになって[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091401_MSG0015",
+      "style": 0,
+      "name": "兄さんやあなたに追いつきたい\nと思うようになったんです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091401_MSG0016",
+      "style": 0,
+      "name": "あなたと一緒にいるようになって　ようやく\nなりたいものが見えてきたっていうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091401_MSG0035",
+      "style": 4,
+      "name": "激励"
+    },
+    {
+      "$id": 22,
+      "label": "qev091401_MSG0036",
+      "style": 3,
+      "name": "追いつくのを期待していると言う"
+    },
+    {
+      "$id": 23,
+      "label": "qev091401_MSG0037",
+      "style": 4,
+      "name": "謙遜"
+    },
+    {
+      "$id": 24,
+      "label": "qev091401_MSG0038",
+      "style": 3,
+      "name": "自分はそこまですごくはないと謙遜する"
+    },
+    {
+      "$id": 25,
+      "label": "qev091401_MSG0039",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 26,
+      "label": "qev091401_MSG0040",
+      "style": 3,
+      "name": "兄は健在なのか尋ねる"
+    },
+    {
+      "$id": 27,
+      "label": "qev091401_MSG0017",
+      "style": 0,
+      "name": "はい　がんばりますよ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091401_MSG0018",
+      "style": 0,
+      "name": "任務をこなして　信頼を積み重ねれば\nきっと兄さんも認めてくれるはずですから[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091401_MSG0019",
+      "style": 0,
+      "name": "その殊勝な気持ち[ST:wide ]―　尊敬してしまいます[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091401_MSG0020",
+      "style": 0,
+      "name": "ボクもあなたのように信頼を積み重ねれば\nきっと兄さんも認めてくれるはず[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091401_MSG0021",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091401_MSG0022",
+      "style": 0,
+      "name": "もしかして\n死んだような感じで話してましたか？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091401_MSG0023",
+      "style": 0,
+      "name": "兄さんは生きてます\nインターセプターに所属しているんです[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091401_MSG0024",
+      "style": 0,
+      "name": "でも　ちょっと仲がうまくいってなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091401_MSG0025",
+      "style": 0,
+      "name": "任務をこなして　信頼を積み重ねれば\nきっと兄さんも認めてくれるはずです[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091401_MSG0026",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091401_MSG0027",
+      "style": 0,
+      "name": "さあ　行きましょう[ST:wait ]"
+    }
+  ]
+}

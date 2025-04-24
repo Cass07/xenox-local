@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087507_MSG0001",
+      "style": 0,
+      "name": "이거 참, 문제점을 전부 해결하다니\n대단한데[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087507_MSG0007",
+      "style": 0,
+      "name": "역시나 피는 못 속이는군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087507_MSG0009",
+      "style": 0,
+      "name": "린의 부모님은 천재라고 불리는 공학자였어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087507_MSG0010",
+      "style": 0,
+      "name": "하지만 이론보다 공학에 대한 열의와\n이론을 실천하는 행동력을 훨씬 평가받았지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087507_MSG0011",
+      "style": 0,
+      "name": "그래, 내가 존경하는 선배들이다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087507_MSG0012",
+      "style": 0,
+      "name": "그 사람들이 있었으면 이 NLA도\n더 살기 좋은 도시가 됐을 텐데 말일세[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087507_MSG0013",
+      "style": 0,
+      "name": "그렇게 말씀해 주시는 건 기쁘지만……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087507_MSG0014",
+      "style": 0,
+      "name": "그건 이 도시에 살고 있는 우리가 해야만 해요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087507_MSG0015",
+      "style": 0,
+      "name": "엄마와 아빠에게는 못 미치지만\n저, 열심히 할게요![ST:wait ]"
+    }
+  ]
+}

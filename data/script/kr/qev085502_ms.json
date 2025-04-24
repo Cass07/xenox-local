@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085502_MSG0001",
+      "style": 0,
+      "name": "틀렸어, 이런 무기로는 못 이겨\n더 강력한 무기가 필요해[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085502_JNK0010",
+      "style": 4,
+      "name": "지지"
+    },
+    {
+      "$id": 3,
+      "label": "qev085502_SEL0011",
+      "style": 3,
+      "name": "그 말이 맞다며 끄덕인다"
+    },
+    {
+      "$id": 4,
+      "label": "qev085502_JNK0020",
+      "style": 4,
+      "name": "확인"
+    },
+    {
+      "$id": 5,
+      "label": "qev085502_SEL0021",
+      "style": 3,
+      "name": "정말 무기 탓이냐고 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "qev085502_MSG0002",
+      "style": 0,
+      "name": "역시 그렇죠?\n공격력이 전부니까요![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085502_MSG0003",
+      "style": 0,
+      "name": "정말 그럴까?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085502_MSG0004",
+      "style": 0,
+      "name": "무슨 뜻인가요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085502_MSG0005",
+      "style": 0,
+      "name": "그럼요, 강력하면 강력할수록\n좋은 게 당연하잖아요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085502_MSG0006",
+      "style": 0,
+      "name": "그윈, 그렇지 않아[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085502_MSG0007",
+      "style": 0,
+      "name": "어째서인가요?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085502_MSG0008",
+      "style": 0,
+      "name": "린, 지금 모의전을 보고 어떻게 생각했어?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085502_MSG0009",
+      "style": 0,
+      "name": "음, 그러니까……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085502_MSG0010",
+      "style": 0,
+      "name": "솔직하게 말해 줘도 괜찮아[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085502_MSG0011",
+      "style": 0,
+      "name": "네, 지금은 무기를 사용한다기보다\n사용당하는 듯한 느낌이었어요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085502_MSG0012",
+      "style": 0,
+      "name": "사용당한다고?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085502_MSG0013",
+      "style": 0,
+      "name": "이건 메카닉 사이의 이야기인데요\n아무리 성능이 좋은 공구라도[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085502_MSG0014",
+      "style": 0,
+      "name": "사용법의 기초를 모르면\n오히려 시간을 더 잡아먹어요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085502_MSG0015",
+      "style": 0,
+      "name": "지금 린이 한 말 그대로야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085502_MSG0016",
+      "style": 0,
+      "name": "지금의 너에게 필요한 건\n강력한 무기가 아니라 다루는 법을 아는 거야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085502_MSG0017",
+      "style": 0,
+      "name": "그걸 모르면 아무리 강력한 무기를 사용해 봤자\n돼지 목에 진주 목걸이일 뿐이지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085502_MSG0018",
+      "style": 0,
+      "name": "다루는 법 말씀이군요\n생각해 본 적 없었습니다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085502_MSG0019",
+      "style": 0,
+      "name": "그 기초를 몸에 새겨 넣는 것부터 시작하자[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085502_MSG0020",
+      "style": 0,
+      "name": "최적의 무기를 준비할 테니까 기다리고 있어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085502_MSG0021",
+      "style": 0,
+      "name": "네, 감사합니다\n엘마 대령님![ST:wait ]"
+    }
+  ]
+}

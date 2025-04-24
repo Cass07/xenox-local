@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090204_MSG0001",
+      "style": 0,
+      "name": "자, 그럼…… 이번 잔해에는\n어떤 게 들어 있나 볼까……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090204_MSG0002",
+      "style": 0,
+      "name": "……![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090204_MSG0003",
+      "style": 0,
+      "name": "아니!? 이건……!![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090204_MSG0004",
+      "style": 0,
+      "name": "그 녀석의 왼팔이잖아……!\n찾았어! 드디어 찾았다고![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090204_MSG0005",
+      "style": 0,
+      "name": "그래…… 역시 그 녀석은\n미라 어딘가에 떨어졌던 거야……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090204_MSG0006",
+      "style": 0,
+      "name": "안 그래!?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090204_MSG0006_2",
+      "style": 0,
+      "name": "그 녀석이 아직 어딘가에 살아 있는 거라고!![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090204_JNK0010",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 9,
+      "label": "qev090204_SEL0011",
+      "style": 3,
+      "name": "왼팔에 관해 묻는다"
+    },
+    {
+      "$id": 10,
+      "label": "qev090204_JNK0020",
+      "style": 4,
+      "name": "냉정"
+    },
+    {
+      "$id": 11,
+      "label": "qev090204_SEL0021",
+      "style": 3,
+      "name": "감정이 격해진 이엘브를 진정시킨다"
+    },
+    {
+      "$id": 12,
+      "label": "qev090204_MSG0007",
+      "style": 0,
+      "name": "그렇군……\n너한테는 아직 얘기 안 했던가……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090204_MSG0008",
+      "style": 0,
+      "name": "무슨…… 이게 진정할 상황으로 보여![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090204_MSG0009",
+      "style": 0,
+      "name": "그 녀석의 팔이……\n녀석이 살아 있다는 증거가……![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090204_MSG0010",
+      "style": 0,
+      "name": "아…… 그렇군……\n너한테는 아직 얘기 안 했던가……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090204_MSG0011",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090204_MSG0012",
+      "style": 0,
+      "name": "너라면, 괜찮겠지……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090204_MSG0013",
+      "style": 0,
+      "name": "……들어 주겠어?\n내 가장 소중한 친구 이야기를……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090204_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 20,
+      "label": "qev090204_SEL0031",
+      "style": 3,
+      "name": "들려 달라며 끄덕인다"
+    },
+    {
+      "$id": 21,
+      "label": "qev090204_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 22,
+      "label": "qev090204_SEL0041",
+      "style": 3,
+      "name": "억지로 말하지 않아도 된다며 배려한다"
+    },
+    {
+      "$id": 23,
+      "label": "qev090204_MSG0014",
+      "style": 0,
+      "name": "너한테 더 빨리 말했어야 했어\n나는 너와도 콤비니까 말이야……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090204_MSG0015",
+      "style": 0,
+      "name": "아니야, 말하고 싶어……\n이건 너와도 상관있는 얘기니까[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090204_MSG0016",
+      "style": 0,
+      "name": "……그 녀석과 난, 태어난 병원도 다닌 학교도\n입대한 군부대도 모두 다 같은 곳이었어……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090204_MSG0017",
+      "style": 0,
+      "name": "그래서 친구와 난 항상 콤비를 이루었지\n이 행성 미라에 오기 전까지는…… 말이야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090204_MSG0018",
+      "style": 0,
+      "name": "하지만, 흰고래가 추락한 날……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090204_MSG0019",
+      "style": 0,
+      "name": "녀석은 마지막까지 크루를 대피시켰고……\n그대로 폭발에 휘말려 사라져 버렸어[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090204_MSG0020",
+      "style": 0,
+      "name": "흥…… 나처럼 삐뚤어진 녀석을\n끝까지 내버리지 않았던[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090204_MSG0021",
+      "style": 0,
+      "name": "남 돌보기 좋아하는 녀석다운 행동이었지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090204_MSG0022",
+      "style": 0,
+      "name": "……하지만\n미라에 떨어진 무수한 잔해 어딘가에[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090204_MSG0023",
+      "style": 0,
+      "name": "아직 살아 있는 건 아닐까, 하고\n희망을 품으며 찾아다니다가……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090204_MSG0024",
+      "style": 0,
+      "name": "이렇게 발견한 거야, 왼팔을[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev090204_MSG0025",
+      "style": 0,
+      "name": "B.B.인 주제에 어릴 때 생긴\n십자 흉터까지 그대로 재현했다니까……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev090204_JNK0050",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 36,
+      "label": "qev090204_SEL0051",
+      "style": 3,
+      "name": "이엘브의 소꿉친구에 관해 묻는다"
+    },
+    {
+      "$id": 37,
+      "label": "qev090204_JNK0060",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 38,
+      "label": "qev090204_SEL0061",
+      "style": 3,
+      "name": "이미 죽은 게 아니겠냐며 의문을 제기한다"
+    },
+    {
+      "$id": 39,
+      "label": "qev090204_MSG0026",
+      "style": 0,
+      "name": "문제아라서 주위와 겉돌던 나를\n그 녀석은 언제나 신경 써 줬어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev090204_MSG0027",
+      "style": 0,
+      "name": "고등학교에서도 인기인이었으면서\n남에게 배척당하던 나하고만 놀고……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev090204_MSG0028",
+      "style": 0,
+      "name": "군대에 들어온 후에는\n줄곧 전우로서 서로의 등을 맡겼지[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev090204_MSG0029",
+      "style": 0,
+      "name": "똑똑한 주제에 바보같이 착하고\n열정적이고, 동료애가 있는……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev090204_MSG0030",
+      "style": 0,
+      "name": "최고의 파트너였어……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev090204_MSG0031",
+      "style": 0,
+      "name": "너도 최근에 발견됐지만\n잘만 살아 있었잖아?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev090204_MSG0032",
+      "style": 0,
+      "name": "그러니까 녀석은 살아 있어……\n난 그렇게 생각해[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev090204_MSG0033",
+      "style": 0,
+      "name": "그 녀석은 남을 돌보기 좋아하니까[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev090204_MSG0034",
+      "style": 0,
+      "name": "어딘가에서 미라 원주민의 고민거리를\n해결해 주러 뛰어다니고 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev090204_MSG0035",
+      "style": 0,
+      "name": "새로운 팔을 달고서…… 말이야[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev090204_MSG0036",
+      "style": 0,
+      "name": "……난 무슨 일이 있더라도\n그 녀석을 찾아내야만 해[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev090204_MSG0037",
+      "style": 0,
+      "name": "그러기 위해 미라 전역의 잔해를 뒤질 수 있는\n테스터먼트에 들어가기까지 했어……[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev090204_MSG0038",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev090204_MSG0039",
+      "style": 0,
+      "name": "……오랫동안 떠들어 대서 미안하다[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev090204_MSG0040",
+      "style": 0,
+      "name": "네 모습을 보고 있으면 어쩐지\n그 녀석과 대화하는 것 같아서……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev090204_MSG0041",
+      "style": 0,
+      "name": "쓸데없는 말까지 하게 되네[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev090204_JNK0070",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 56,
+      "label": "qev090204_SEL0071",
+      "style": 3,
+      "name": "자신과 그 녀석의 관계성을\n자세히 묻는다"
+    },
+    {
+      "$id": 57,
+      "label": "qev090204_JNK0080",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 58,
+      "label": "qev090204_SEL0081",
+      "style": 3,
+      "name": "그 녀석의 외모에 관해 묻는다"
+    },
+    {
+      "$id": 59,
+      "label": "qev090204_MSG0042",
+      "style": 0,
+      "name": "왠지 모르게 닮았거든\n존재감…… 같은 게 말이야[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev090204_MSG0043",
+      "style": 0,
+      "name": "잘 보면 완전히 다른 사람인데[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev090204_MSG0044",
+      "style": 0,
+      "name": "그 녀석이 눈앞에 있는 것 같은\n이상한 기분이 든다니까[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev090204_MSG0045",
+      "style": 0,
+      "name": "아니, 얼굴이 닮았다는 뜻은 아니야\n잘 보면 너와 그 녀석은 완전히 다른 사람이지[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev090204_MSG0046",
+      "style": 0,
+      "name": "……하지만, 분위기나 존재감이랄까\n그런 느낌 같은 게 닮아서[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev090204_MSG0047",
+      "style": 0,
+      "name": "그 녀석이 눈앞에 있는 것 같은\n이상한 기분이 든다니까[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev090204_MSG0048",
+      "style": 0,
+      "name": "……분명 그 녀석은\n이 행성 어딘가에 살아 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev090204_MSG0049",
+      "style": 0,
+      "name": "다음에 이런 일 또 같이해 보자!\n그리고 언젠가……[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev090204_MSG0050",
+      "style": 0,
+      "name": "연락도 없이 걱정만 끼치는 바보를\n한 대 때려 줘야지![ST:wait ]"
+    }
+  ]
+}

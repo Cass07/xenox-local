@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32140100_MSG0010",
+      "style": 0,
+      "name": "これって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32140100_MSG0020",
+      "style": 0,
+      "name": "探していた装置みたいね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32140100_MSG0030",
+      "style": 0,
+      "name": "見つけていたのね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32140100_MSG0040",
+      "style": 0,
+      "name": "そうみたいですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32140100_MSG0050",
+      "style": 0,
+      "name": "この装置は私達が持ち帰りましょう[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32140100_MSG0060",
+      "style": 0,
+      "name": "彼らの遺志を無駄にしないために[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32140100_MSG0070",
+      "style": 0,
+      "name": "[ST:wide ]―はい[ST:wait ]"
+    }
+  ]
+}

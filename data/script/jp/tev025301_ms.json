@@ -1,0 +1,906 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev025301_SEL0011",
+      "style": 3,
+      "name": "この場所について聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev025301_SEL0021",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev025301_SEL0031",
+      "style": 3,
+      "name": "クエストボードについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev025301_SEL0041",
+      "style": 3,
+      "name": "困っていることを尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev025301_SEL0051",
+      "style": 3,
+      "name": "ブレイドの任務について聞く[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev025301_SEL0041",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev025301_SEL0061",
+      "style": 3,
+      "name": "ブレイドの任務について聞く[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": "噂話を聞く[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev025301_SEL0071",
+      "style": 3,
+      "name": "ブレイドの任務について聞く[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev025301_SEL0081",
+      "style": 3,
+      "name": "ルーについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev025301_SEL0091",
+      "style": 3,
+      "name": "マ・ノン船について聞く[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev025301_SEL0101",
+      "style": 3,
+      "name": "夜光の森で発見された\nドールについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "tev025301_SEL0111",
+      "style": 3,
+      "name": "グロウスについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev025301_SEL0121",
+      "style": 3,
+      "name": "襲撃による被害について聞く[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev025301_SEL0131",
+      "style": 3,
+      "name": "ラース人について聞く[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev025301_SEL0141",
+      "style": 3,
+      "name": "ブレイドタワーの数字に\nついて聞く[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "tev025301_SEL0151",
+      "style": 3,
+      "name": "セントラルライフに\nついて聞く[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "tev025301_SEL0161",
+      "style": 3,
+      "name": "セントラルライフに\nついて聞く[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 56,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "tev025301_SEL0171",
+      "style": 3,
+      "name": "セントラルライフに\nついて聞く[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "tev025301_SEL0181",
+      "style": 3,
+      "name": "ブレイドの任務について聞く[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "tev025301_MSG0001",
+      "style": 1,
+      "name": "こちらはクエストボードです\nブレイドに登録すると[ST:wide ]―あら？[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev025301_MSG0002",
+      "style": 1,
+      "name": "[ST:playername ]さんは\nブレイドに登録されていないようですね[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev025301_MSG0003",
+      "style": 1,
+      "name": "ブレイド登録し　ユニオンに所属すれば\nこのクエストボードから　いつでも任務を\n受けることができるようになるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev025301_MSG0004",
+      "style": 1,
+      "name": "[ST:playername ]さんは\nまだ　この街でどういう役目を負って\n生きていくか決めていないと思いますが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev025301_MSG0005",
+      "style": 1,
+      "name": "きっと　素晴らしいブレイドに\nなると思います[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev025301_MSG0006",
+      "style": 1,
+      "name": "……うふふっ　数多くのブレイドをこの場所で\n見送ってきた私には　分かるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev025301_MSG0008",
+      "style": 1,
+      "name": "私は　ブレイドにて受付業務を行っております\nエレオノーラと申します[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev025301_MSG0009",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 73,
+      "label": "tev025301_MSG0010",
+      "style": 1,
+      "name": "任務についてご不明の点などあれば\nなんでも聞いて下さいね[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev025301_MSG0011",
+      "style": 1,
+      "name": "私に分かること　調べられることであれば\n出来得る限りのことをさせていただきますから[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev025301_MSG0012",
+      "style": 1,
+      "name": "……それでは頑張ってください\n[ST:playername ]さんのご活躍\n期待していますよ[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev025301_MSG0020",
+      "style": 1,
+      "name": "こちらの　クエストボードですが\nユニオンに所属していないと\n使用できないんです……[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev025301_MSG0021",
+      "style": 1,
+      "name": "[ST:playername ]さん\nデータプローブ設置任務を終えたら\n所属ユニオンを決めると思いますので[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev025301_MSG0022",
+      "style": 1,
+      "name": "その時にまた　来てみてくださいね\nきっと　気になる依頼が\nあると思いますから[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev025301_MSG0027",
+      "style": 1,
+      "name": "私を心配してくださっているのですか？\n……ありがとうございます　大丈夫ですよ[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev025301_MSG0028",
+      "style": 1,
+      "name": "それ　ぜひ街の人達にも\n聞いてみてください[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "tev025301_MSG0029",
+      "style": 1,
+      "name": "何か気になることがあっても\nブレイドに依頼するほどでもない[ST:wide ]―と\nいう方が　きっといるはずです[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "tev025301_MSG0039",
+      "style": 1,
+      "name": "研修が終わったと思ったら\nいきなり行方不明になった\nネルソンさん達の探索ですか……[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev025301_MSG0040",
+      "style": 1,
+      "name": "ヴァンダム司令　よほどあなたのことを\n気に入ったんですね[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "tev025301_MSG0041",
+      "style": 1,
+      "name": "あの人は　色々と無茶はいいますが\nできると信用した人にしか\nこういう無茶は言いませんから[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev025301_MSG0042",
+      "style": 1,
+      "name": "ネルソンさん達が行方不明になったポイントは\n原初の荒野　南東部です\nどうか初任務　頑張ってくださいね！[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "tev025301_MSG0043",
+      "style": 1,
+      "name": "……あっ　そうだ……もし一緒に\n細かな任務も受けて下さるのであれば\nクエストボードの方　御閲覧ください[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "tev025301_MSG0058",
+      "style": 1,
+      "name": "おかえりなさい\n[ST:playername ]さん\n捜索任務は　うまくいきましたか？[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "tev025301_MSG0059",
+      "style": 1,
+      "name": "ご報告であれば　ブレイドホームにいる\nヴァンダムさんまでお願いします[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "tev025301_MSG0060",
+      "style": 1,
+      "name": "なんといっても今回は　自分の目で\n新人を見極めるって　はりきってましたから[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "tev025301_MSG0077",
+      "style": 1,
+      "name": "おかえりなさい\n[ST:playername ]さん\nブレイドの仕事には　少しは慣れましたか？[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "tev025301_MSG0078",
+      "style": 1,
+      "name": "もし自信がついてきたのであれば\nNLAより西に広がる　夜光の森まで\n足を延ばしてみてはいかがでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "tev025301_MSG0079",
+      "style": 1,
+      "name": "あの辺りはまだデータプローブの\n設置が進んでいませんし……[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "tev025301_MSG0080",
+      "style": 1,
+      "name": "フロンティアネットが張り巡らされれば\n何か事態の進展が見られるかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "tev025301_MSG0081",
+      "style": 1,
+      "name": "もし　まだ心許ない点があるなら\nクエストボードの任務をこなしながら\n仕事に慣れていってくださいね[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "tev025301_MSG0086",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 96,
+      "label": "tev025301_MSG0087",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 97,
+      "label": "tev025301_MSG0088",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 98,
+      "label": "tev025301_MSG0089",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 99,
+      "label": "tev025301_MSG0090",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 100,
+      "label": "tev025301_MSG0091",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 101,
+      "label": "tev025301_MSG0092",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 102,
+      "label": "tev025301_MSG0093",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 103,
+      "label": "tev025301_MSG0098",
+      "style": 1,
+      "name": "新しく来られたルーさんは\nショップ街を抜けた所にいらっしゃいますよ[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "tev025301_MSG0099",
+      "style": 1,
+      "name": "ミラに住む方が　共に戦ってくれるのは\n心強いですね！[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "tev025301_MSG0100",
+      "style": 1,
+      "name": "……そういえば　ルーさん\n他にお友達はいないんでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "tev025301_MSG0101",
+      "style": 1,
+      "name": "えっ……お一人？\nそうなんですか……NLAでたくさんお友達を\n作っていただきたいですね[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "tev025301_MSG0106",
+      "style": 1,
+      "name": "マ・ノン船にはもう乗船されました？[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "tev025301_MSG0107",
+      "style": 1,
+      "name": "ブレイド本部正面に　転送装置が\n設置されたので　そこから行けますよ[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "tev025301_MSG0108",
+      "style": 1,
+      "name": "あの転送装置が　どういう仕組みなのか\nメカニック達が寄ってたかって調べてました[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "tev025301_MSG0109",
+      "style": 1,
+      "name": "結局　人体に影響はないということしか\n分かりませんでしたが……[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "tev025301_MSG0110",
+      "style": 1,
+      "name": "やっぱり　ワープする瞬間に\n別の生物がいると……融合しちゃったり\nするんでしょうか……？[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "tev025301_MSG0115",
+      "style": 1,
+      "name": "回収された機体は\nブレイドエリア下層の隔離格納庫で\n現在調査中だそうです[ST:wait ]"
+    },
+    {
+      "$id": 113,
+      "label": "tev025301_MSG0116",
+      "style": 1,
+      "name": "一体どうしてあんなところに\n放置されていたのかは　不明です……[ST:wait ]"
+    },
+    {
+      "$id": 114,
+      "label": "tev025301_MSG0117",
+      "style": 1,
+      "name": "しかしあの機体を調べることで\n敵の目的が判明するかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 115,
+      "label": "tev025301_MSG0118",
+      "style": 1,
+      "name": "早く解析が終わるといいですね[ST:wait ]"
+    },
+    {
+      "$id": 116,
+      "label": "tev025301_MSG0125",
+      "style": 1,
+      "name": "忘却の渓谷のデータベースユニット……\n残念でしたね[ST:wait ]"
+    },
+    {
+      "$id": 117,
+      "label": "tev025301_MSG0126",
+      "style": 1,
+      "name": "一体どんなデータが記録されていたのか……\nあっ　別に責めている訳ではありませんよ[ST:wait ]"
+    },
+    {
+      "$id": 118,
+      "label": "tev025301_MSG0127",
+      "style": 1,
+      "name": "それにしても　グロウスという組織は\n私達　地球人のことを\nどこまで知っているのでしょうね……[ST:wait ]"
+    },
+    {
+      "$id": 119,
+      "label": "tev025301_MSG0128",
+      "style": 1,
+      "name": "こちらは相手を知らないのに……\n一方的に知られているというのが　不安です[ST:wait ]"
+    },
+    {
+      "$id": 120,
+      "label": "tev025301_MSG0135",
+      "style": 1,
+      "name": "犠牲になった方は\nB.B.メンテナンスセンターで保管されています[ST:wait ]"
+    },
+    {
+      "$id": 121,
+      "label": "tev025301_MSG0136",
+      "style": 1,
+      "name": "もしかしたら　修復が可能かもしれないと\nヴァンダム司令の指示ですが\n[ST:wide ]―望みは薄いです[ST:wait ]"
+    },
+    {
+      "$id": 122,
+      "label": "tev025301_MSG0137",
+      "style": 1,
+      "name": "ミラへの不時着が　安全にできていれば……\n白鯨が失われなければ……[ST:wait ]"
+    },
+    {
+      "$id": 123,
+      "label": "tev025301_MSG0138",
+      "style": 1,
+      "name": "ううん　過去のことをあれこれ悔やんでも\n仕方ありませんね[ST:wait ]"
+    },
+    {
+      "$id": 124,
+      "label": "tev025301_MSG0139",
+      "style": 1,
+      "name": "セントラルライフの発見が　唯一の希望……\nがんばってくださいね\n[ST:playername ]さん！[ST:wait ]"
+    },
+    {
+      "$id": 125,
+      "label": "tev025301_MSG0145",
+      "style": 1,
+      "name": "ラース人のリーダーの方\nどこかで見たことがあるような……[ST:wait ]"
+    },
+    {
+      "$id": 126,
+      "label": "tev025301_MSG0146",
+      "style": 1,
+      "name": "あっ！　隔離格納庫から例のドールを\n奪って行った人じゃないですか！[ST:wait ]"
+    },
+    {
+      "$id": 127,
+      "label": "tev025301_MSG0147",
+      "style": 1,
+      "name": "あの時　監視カメラをヴァンダム司令と\n確認して……猫ですねっていったら\n犬だろ？　と返されて……口論に……[ST:wait ]"
+    },
+    {
+      "$id": 128,
+      "label": "tev025301_MSG0148",
+      "style": 1,
+      "name": "……すみません　無駄話ですね……\n任務　がんばってくださいね！[ST:wait ]"
+    },
+    {
+      "$id": 129,
+      "label": "tev025301_MSG0153",
+      "style": 1,
+      "name": "セントラルライフの稼働時間\n残り少なくなってきましたね……[ST:wait ]"
+    },
+    {
+      "$id": 130,
+      "label": "tev025301_MSG0154",
+      "style": 1,
+      "name": "非戦闘員な自分がもどかしいですが\n私が戦ったところで\n迷惑をかけてしまうだけです……[ST:wait ]"
+    },
+    {
+      "$id": 131,
+      "label": "tev025301_MSG0155",
+      "style": 1,
+      "name": "ブレイドに……[ST:playername ]さんに\n全てを託すしかありません[ST:wait ]"
+    },
+    {
+      "$id": 132,
+      "label": "tev025301_MSG0156",
+      "style": 1,
+      "name": "どうか　カウントダウンがゼロになる前に\nセントラルライフを　発見してください！[ST:wait ]"
+    },
+    {
+      "$id": 133,
+      "label": "tev025301_MSG0161",
+      "style": 1,
+      "name": "セントラルライフの場所は\n解析中です[ST:wait ]"
+    },
+    {
+      "$id": 134,
+      "label": "tev025301_MSG0162",
+      "style": 1,
+      "name": "しばらく時間がかかりそうなので\nクエストボードの任務をされてみては？[ST:wait ]"
+    },
+    {
+      "$id": 135,
+      "label": "tev025301_MSG0163",
+      "style": 1,
+      "name": "[ST:wide ]―そうそう\nドールの飛行実験が動き出しそうだと\nヴァンダム司令から聞きました[ST:wait ]"
+    },
+    {
+      "$id": 136,
+      "label": "tev025301_MSG0164",
+      "style": 1,
+      "name": "ニヤニヤしながら　アームズ性能試験場へ\n向かわれましたので\n行ってみてはいかがでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 137,
+      "label": "tev025301_MSG0170",
+      "style": 1,
+      "name": "セントラルライフの場所の解析\n終わりが見えてきたそうです[ST:wait ]"
+    },
+    {
+      "$id": 138,
+      "label": "tev025301_MSG0171",
+      "style": 1,
+      "name": "モーリス行政長官が　皆さんにお話すると\n先ほど準備されていました[ST:wait ]"
+    },
+    {
+      "$id": 139,
+      "label": "tev025301_MSG0172",
+      "style": 1,
+      "name": "すぐに新しいミッションが受けられるはずです\nさあ　ブレイドホームへ！[ST:wait ]"
+    },
+    {
+      "$id": 140,
+      "label": "tev025301_MSG0177",
+      "style": 1,
+      "name": "セントラルライフの座標へ行くには\nドールによる飛行が不可欠です[ST:wait ]"
+    },
+    {
+      "$id": 141,
+      "label": "tev025301_MSG0178",
+      "style": 1,
+      "name": "……もしかして\n飛ばないと行けなかった場所とか\n気になってます？[ST:wait ]"
+    },
+    {
+      "$id": 142,
+      "label": "tev025301_MSG0179",
+      "style": 1,
+      "name": "セントラルライフを確保した後でも\nゆっくりミラを探索できるはずですから\n今は任務を優先してください[ST:wait ]"
+    },
+    {
+      "$id": 143,
+      "label": "tev025301_MSG0180",
+      "style": 1,
+      "name": "……止めませんけどね[ST:wait ]"
+    },
+    {
+      "$id": 144,
+      "label": "tev025301_MSG0185",
+      "style": 1,
+      "name": "[ST:playername ]さん　お帰りなさい！[ST:wait ]"
+    },
+    {
+      "$id": 145,
+      "label": "tev025301_MSG0186",
+      "style": 1,
+      "name": "長く苦しい任務だったと思いますが\n一区切ですね！　お疲れ様です！[ST:wait ]"
+    },
+    {
+      "$id": 146,
+      "label": "tev025301_MSG0187",
+      "style": 1,
+      "name": "……まさか　もうやることが無いとかいって\nブレイドホームで　ワンちゃんニャンちゃんと\nゴロゴロしてたりなんかしませんよね？[ST:wait ]"
+    },
+    {
+      "$id": 147,
+      "label": "tev025301_MSG0188",
+      "style": 1,
+      "name": "NLAには[ST:wide ]―ミラには\nまだまだ任務が待っていますよ！[ST:wait ]"
+    },
+    {
+      "$id": 148,
+      "label": "tev025301_MSG0189",
+      "style": 1,
+      "name": "無茶できるのは　B.B.の間だけですから……\n色々な任務にチャレンジしてみてくださいね[ST:wait ]"
+    }
+  ]
+}

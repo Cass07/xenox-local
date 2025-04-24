@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev021701_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev021701_SEL0011",
+      "style": 3,
+      "name": "白鯨について聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev021701_JNK0020",
+      "style": 4,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev021701_SEL0021",
+      "style": 3,
+      "name": "困っていることを尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev021701_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev021701_SEL0031",
+      "style": 3,
+      "name": "マ・ノン人について聞く[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev021701_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev021701_SEL0041",
+      "style": 3,
+      "name": "困っていることを尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev021701_MSG0001",
+      "style": 1,
+      "name": "地球を出て2年……白鯨はこの広い宇宙を\n当てもなく　さまよい続けました……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev021701_MSG0002",
+      "style": 1,
+      "name": "異星人の追撃にあい　墜落した白鯨が\nこの惑星ミラに辿り着けたのは\nまさに奇跡！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev021701_MSG0003",
+      "style": 1,
+      "name": "これは奇跡の神が　我々人類を\n守ってくれたからなのです！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev021701_MSG0004",
+      "style": 1,
+      "name": "そして奇跡の神は\nこれからもわたくし達を導いてくれるのですよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev021701_MSG0005",
+      "style": 1,
+      "name": "……さあ　共に祈りましょう\n奇跡の神への感謝を……！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev021701_MSG0008",
+      "style": 1,
+      "name": "この教会に来る方に　奇跡の神のお言葉を\nお伝えしているのですが\nなかなか聞いていただけないのです[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev021701_MSG0009",
+      "style": 1,
+      "name": "水があり　大気もある\n安定した惑星ミラ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev021701_MSG0010",
+      "style": 1,
+      "name": "こんな惑星を発見し　不時着できるなんて\n奇跡の神のお導きでしかないのです！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev021701_MSG0011",
+      "style": 1,
+      "name": "今もわたくしの心に\n奇跡の神が語りかけてきます\n『汝　信ずる者を集め　我の元へ来い』と[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev021701_MSG0012",
+      "style": 1,
+      "name": "ああ[ST:wide ]―共に奇跡の神の元へと向かう\n同士達を早く集めなければ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev021701_MSG0020",
+      "style": 1,
+      "name": "マ・ノン人の方々は\nとてもすばらしい人種ですね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev021701_MSG0021",
+      "style": 1,
+      "name": "わたくしのお話を　頭ごなしに否定せず\n始めから終わりまで聞いていただけるのです[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev021701_MSG0022",
+      "style": 1,
+      "name": "もちろん中には\n目に見えない奇跡の神など\n信じられないと言れる方もおられますが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev021701_MSG0023",
+      "style": 1,
+      "name": "奇跡の神の存在を　知っていただけるだけでも\n一歩前進したと思っております[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev021701_MSG0027",
+      "style": 1,
+      "name": "もっともっと　マ・ノン人の方々に\nお話を聞いてもらい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev021701_MSG0028",
+      "style": 1,
+      "name": "奇跡の神の持つ力を　信じていただくには\nどうすればいいのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev021701_MSG0029",
+      "style": 1,
+      "name": "奇跡の神にそうお尋ねすると\nお答えを聞くことができたのです！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev021701_MSG0030",
+      "style": 1,
+      "name": "話を熱心に聞いてくださる　マルッテトさんに\n協力していただいておりますので\nいずれ具現化するでしょう[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

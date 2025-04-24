@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086604_MSG0001",
+      "style": 0,
+      "name": "이리나는?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086604_MSG0002",
+      "style": 0,
+      "name": "이건……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086604_MSG0003",
+      "style": 0,
+      "name": "이건 이리나의……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086604_MSG0004",
+      "style": 0,
+      "name": "설마 절벽에서!?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086604_MSG0005",
+      "style": 0,
+      "name": "여기선 알 수 없어\n내려가 보자[ST:wait ]"
+    }
+  ]
+}

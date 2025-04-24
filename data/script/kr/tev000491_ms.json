@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000491_MSG0001",
+      "style": 1,
+      "name": "어라? [ST:playername ] 씨[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000491_MSG0002",
+      "style": 1,
+      "name": "이런 곳에서 뭐 하고 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000491_MSG0003",
+      "style": 1,
+      "name": "저는 보시다시피 정수장을\n시찰하고 있었습니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000491_MSG0004",
+      "style": 1,
+      "name": "물은 지구에서 그랬듯이 여기서도\n누구에게나 소중한 자원이니까요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000491_MSG0005",
+      "style": 1,
+      "name": "엄격한 관리가 필요하죠[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000491_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 7,
+      "label": "tev000491_SEL0011",
+      "style": 3,
+      "name": "HB에게 컴패니언이었냐고 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000491_JNK0020",
+      "style": 4,
+      "name": "지적"
+    },
+    {
+      "$id": 9,
+      "label": "tev000491_SEL0021",
+      "style": 3,
+      "name": "그건 블레이드 본부의\n업무라고 지적한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev000491_MSG0006",
+      "style": 1,
+      "name": "무슨 소릴 하는 겁니까?\n혹시 바보인가요?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000491_MSG0007",
+      "style": 1,
+      "name": "전 패스파인더라고요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000491_MSG0008",
+      "style": 1,
+      "name": "그래요, 블레이드 본부의 업무죠[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000491_MSG0009",
+      "style": 1,
+      "name": "하지만 패스파인더인 제가\n블레이드 본부의 업무를 맡고 있다는 건……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000491_MSG0010",
+      "style": 1,
+      "name": "그들이 무능하거나, 제가 유능하거나\n둘 중 하나라는 뜻입니다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000491_MSG0011",
+      "style": 1,
+      "name": "그리고 답은 물론 후자죠[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000491_MSG0012",
+      "style": 1,
+      "name": "블레이드 본부의 인원수는 도저히\n충분하다고 말할 수 없는 상황이에요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000491_MSG0013",
+      "style": 1,
+      "name": "일할 능력이 있는 사람이 그들을 돕는다면\nNLA에 있어서도 플러스 요인이 되겠죠[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000491_MSG0014",
+      "style": 1,
+      "name": "패스파인더라고 해서 데이터 프로브\n설치 이외에는 아무 일도 하지 않는다면\n그건 태만한 거라고요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000491_MSG0015",
+      "style": 1,
+      "name": "NLA의 일원으로서 그 힘이 필요한 곳이라면\n어디든 가서 공헌해야 하는 법이에요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000491_MSG0016",
+      "style": 1,
+      "name": "곤란한 사람이 있으면 돕는다\n당신도 당연히 그렇게 하지 않나요?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000491_JNK0030",
+      "style": 4,
+      "name": "동의"
+    },
+    {
+      "$id": 22,
+      "label": "tev000491_SEL0031",
+      "style": 3,
+      "name": "HB의 주장이 옳다고 하며 동의한다"
+    },
+    {
+      "$id": 23,
+      "label": "tev000491_JNK0040",
+      "style": 4,
+      "name": "불만"
+    },
+    {
+      "$id": 24,
+      "label": "tev000491_SEL0041",
+      "style": 3,
+      "name": "HB의 주장은 올바르지만\n조금 마음에 들지 않는다"
+    },
+    {
+      "$id": 25,
+      "label": "tev000491_JNK0050",
+      "style": 4,
+      "name": "반론"
+    },
+    {
+      "$id": 26,
+      "label": "tev000491_SEL0051",
+      "style": 3,
+      "name": "HB의 말투가 거슬려 반론한다"
+    },
+    {
+      "$id": 27,
+      "label": "tev000491_MSG0017",
+      "style": 1,
+      "name": "훌륭하네요~\n당신은 객관적, 장기적, 종합적으로\n만사를 판단하는 능력이 있어요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000491_MSG0018",
+      "style": 1,
+      "name": "제 주장을 이해해 주셔서 영광입니다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000491_MSG0019",
+      "style": 1,
+      "name": "훗…… 자주 듣는 말입니다[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000491_MSG0020",
+      "style": 1,
+      "name": "하지만 당신은 현명해요\n조금 화가 나도 이성적으로 판단할 수 있죠[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000491_MSG0021",
+      "style": 1,
+      "name": "이 NLA에서 성공할 최소한의 힘은\n가지고 있나 보네요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000491_MSG0022",
+      "style": 1,
+      "name": "워워~[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000491_MSG0023",
+      "style": 1,
+      "name": "진정하세요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000491_MSG0024",
+      "style": 1,
+      "name": "저랑 싸우고 싶어서\n대화한 건 아니잖아요?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000491_MSG0025",
+      "style": 1,
+      "name": "항상 초심을 잃지 말아야죠[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000491_MSG0026",
+      "style": 1,
+      "name": "자, 이곳 시찰은 이쯤에서 끝내야겠어요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000491_MSG0027",
+      "style": 1,
+      "name": "이다음에는 공업 에어리어에\n가야 하거든요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000491_MSG0028",
+      "style": 1,
+      "name": "그럼 임무 때 또 만나죠[ST:wait ]"
+    }
+  ]
+}

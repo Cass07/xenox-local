@@ -1,0 +1,726 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03060100_MSG0001",
+      "style": 0,
+      "name": "어째서 우리 지구인을\n그렇게나 미워했던 걸까요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs03060100_MSG0002",
+      "style": 0,
+      "name": "모르겠어……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs03060100_MSG0003",
+      "style": 0,
+      "name": "다만 적대적인 외계인의 출현은\n지금의 우리에게는 위협이야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs03060100_MSG0004",
+      "style": 0,
+      "name": "한시라도 빨리 이 정보를\nNLA에 전하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs03060100_MSG0005",
+      "style": 0,
+      "name": "그렇네요\n안주할 수 있는 행성인 줄 알았는데[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs03060100_MSG0006",
+      "style": 0,
+      "name": "기다려 줘모!\n가지 말아 줘모~~![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs03060100_MSG0007",
+      "style": 0,
+      "name": "여, 여기서 꺼내 줘모~~!![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs03060100_MSG0008",
+      "style": 0,
+      "name": "아직도 외계인이!?\n어, 어떻게 할까요!?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs03060100_MSG0009",
+      "style": 0,
+      "name": "조심해, 린![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs03060100_MSG0010",
+      "style": 0,
+      "name": "당신 생각을 알려 줄래?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs03060100_JNK0010",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 12,
+      "label": "xs03060100_SEL0011",
+      "style": 3,
+      "name": "과감하게 컨테이너를 연다"
+    },
+    {
+      "$id": 13,
+      "label": "xs03060100_JNK0020",
+      "style": 4,
+      "name": "신중"
+    },
+    {
+      "$id": 14,
+      "label": "xs03060100_SEL0021",
+      "style": 3,
+      "name": "컨테이너를 건드리지 않고 둔다"
+    },
+    {
+      "$id": 15,
+      "label": "xs03060100_MSG0011",
+      "style": 0,
+      "name": "드디어 나왔다모!\n고맙다모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs03060100_MSG0012",
+      "style": 0,
+      "name": "그렇네, 역시 그만두자[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs03060100_MSG0013",
+      "style": 0,
+      "name": "그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs03060100_MSG0014",
+      "style": 0,
+      "name": "모모모~!!\n자, 자, 잠깐 기다려 줘모![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs03060100_MSG0015",
+      "style": 0,
+      "name": "곤란해하는 사람은 도와줘야 한다고\n엄마가 그랬다모![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs03060100_JNK0030",
+      "style": 4,
+      "name": "들어준다"
+    },
+    {
+      "$id": 21,
+      "label": "xs03060100_SEL0031",
+      "style": 3,
+      "name": "쓴웃음을 지으며 컨테이너를 연다"
+    },
+    {
+      "$id": 22,
+      "label": "xs03060100_JNK0040",
+      "style": 4,
+      "name": "장난친다"
+    },
+    {
+      "$id": 23,
+      "label": "xs03060100_SEL0041",
+      "style": 3,
+      "name": "히죽거리면서 바라본다"
+    },
+    {
+      "$id": 24,
+      "label": "xs03060100_MSG0016",
+      "style": 0,
+      "name": "너무 굼뜨다모!\n타츠 질식할 뻔했다모![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs03060100_MSG0017",
+      "style": 0,
+      "name": "이러다 죽는다모~!\n질식이다모~![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs03060100_MSG0018",
+      "style": 0,
+      "name": "어랏? 모모못, 나왔다모![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs03060100_MSG0019",
+      "style": 0,
+      "name": "아무래도 이 행성의 식재료는 움직이는 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs03060100_MSG0020",
+      "style": 0,
+      "name": "그렇네요\n……그보다 말하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs03060100_MSG0021",
+      "style": 0,
+      "name": "역시 지구의 식재료와는 또 다르네요\n요리를 좋아하는 사람으로서 실력 발휘를 하고 싶어요![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs03060100_MSG0021_m",
+      "style": 0,
+      "name": "I know what we're having for dinner tonight!\nYou don't know it yet, New Guy,\nbut I'm a pretty mean cook.[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "xs03060100_MSG0021_f",
+      "style": 0,
+      "name": "I know what we're having for dinner tonight!\nYou don't know it yet, New Girl,\nbut I'm a pretty mean cook.[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "xs03060100_MSG0022",
+      "style": 0,
+      "name": "식재료가 아니다모!\n실력 발휘는 하지 말아 줬으면 한다모![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs03060100_MSG0023",
+      "style": 0,
+      "name": "그 녀석들은 먹을 생각이었지만\n타츠는 절대 음식이 아니다모![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs03060100_MSG0024",
+      "style": 0,
+      "name": "바이어스인 녀석들은 이 미라에 온 후로\n노폰을 잔뜩 괴롭혔다모[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs03060100_MSG0025",
+      "style": 0,
+      "name": "타츠도 잔뜩 괴롭힘당했다모\n이대로라면 노폰은 멸종해 버린다모[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs03060100_MSG0026",
+      "style": 0,
+      "name": "멸종 위기종이다모![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs03060100_MSG0027",
+      "style": 0,
+      "name": "여러분은 노폰인인 이 타츠를\n보호할 의무가 있다모![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs03060100_MSG0028",
+      "style": 0,
+      "name": "식재료 주제에 상당히 거만하네[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs03060100_MSG0029",
+      "style": 0,
+      "name": "잠깐만[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs03060100_MSG0030",
+      "style": 0,
+      "name": "당신을 잡은 그 종족\n바이어스인이라고 했나?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs03060100_MSG0031",
+      "style": 0,
+      "name": "그렇다모[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs03060100_MSG0032",
+      "style": 0,
+      "name": "이 미라에 온 후라고 했지?\n그들은 미라의 선주민이 아니라는 말이야?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs03060100_MSG0033",
+      "style": 0,
+      "name": "그렇다모[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs03060100_MSG0034",
+      "style": 0,
+      "name": "자세히 듣고 싶으면\n타츠를 도와줘모[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs03060100_MSG0035",
+      "style": 0,
+      "name": "정보는 싸게 팔아 주겠다모[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs03060100_MSG0036",
+      "style": 0,
+      "name": "엘마 씨, 먹어 버릴까요?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs03060100_MSG0037",
+      "style": 0,
+      "name": "거짓말이다모!\n필요 없다모![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs03060100_MSG0038",
+      "style": 0,
+      "name": "그, 그냥 공짜로 알려 줄 테니까\n도와줘모~~![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs03060100_MSG0039",
+      "style": 0,
+      "name": "대충 이해했어[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs03060100_MSG0040",
+      "style": 0,
+      "name": "즉, 당신들 노폰인은\n이 미라에 계속 살고 있던 종족이고[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs03060100_MSG0041",
+      "style": 0,
+      "name": "최근 나타난 바이어스인에게\n위협받고 있다는 말이지?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs03060100_MSG0042",
+      "style": 0,
+      "name": "그렇다모[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs03060100_MSG0043",
+      "style": 0,
+      "name": "바이어스인은 동료가 많고\n나쁜 짓만 한다모[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs03060100_MSG0044",
+      "style": 0,
+      "name": "동료라니……\n다른 외계인도 있다는 말이야?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs03060100_MSG0045",
+      "style": 0,
+      "name": "그렇다모[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs03060100_MSG0046",
+      "style": 0,
+      "name": "그 녀석들 다 같이 합심해서\n타츠의 동료 노폰에게 심한 짓을 했다모[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs03060100_MSG0047",
+      "style": 0,
+      "name": "타츠도 그 녀석들을\n먹어 버리고 싶을 만큼 분하다모[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs03060100_JNK0050",
+      "style": 4,
+      "name": "동정"
+    },
+    {
+      "$id": 59,
+      "label": "xs03060100_SEL0051",
+      "style": 3,
+      "name": "타츠의 등을 살며시 쓰다듬는다"
+    },
+    {
+      "$id": 60,
+      "label": "xs03060100_JNK0060",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 61,
+      "label": "xs03060100_SEL0061",
+      "style": 3,
+      "name": "타츠가 무슨 맛일지 상상한다"
+    },
+    {
+      "$id": 62,
+      "label": "xs03060100_MSG0048",
+      "style": 0,
+      "name": "당신, 타츠를 위로해 주는 건가모?\n좋은 녀석이다모![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs03060100_MSG0049",
+      "style": 0,
+      "name": "타츠, 마음에 들었다모!\n당신들 마을에 함께 가 주겠다모![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs03060100_MSG0050",
+      "style": 0,
+      "name": "당신, 바이어스인과 눈빛이 똑같다모\n타츠를 먹을 생각이다모![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs03060100_MSG0051",
+      "style": 0,
+      "name": "타츠는 맛있지만 먹으면 안 된다모![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs03060100_MSG0052",
+      "style": 0,
+      "name": "맞아요\n이런 조리 도구 하나 없는 곳에서 먹다니[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs03060100_MSG0053",
+      "style": 0,
+      "name": "식재료에는 그 재료에 맞는\n조리법이라는 게 있다고요[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs03060100_MSG0054",
+      "style": 0,
+      "name": "그렇다모!\n당신은 요리에 관해 아무것도 모른다모[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs03060100_MSG0055",
+      "style": 0,
+      "name": "그러니까 타츠가 당신들의 마을로 가서\n알려 주겠다모![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs03060100_MSG0056",
+      "style": 0,
+      "name": "……응? 어, 어라?[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs03060100_MSG0057",
+      "style": 0,
+      "name": "……그렇다고 하는데, 어떻게 할까요?[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs03060100_MSG0058",
+      "style": 0,
+      "name": "타츠 혼자서 NLA에 피해를 주진 못할 테고\n정보도 필요하니[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs03060100_MSG0059",
+      "style": 0,
+      "name": "좋아[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs03060100_MSG0060",
+      "style": 0,
+      "name": "반담에게 이번 일을\n보고도 해야 하니까[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs03060100_MSG0061",
+      "style": 0,
+      "name": "방역 키트 검사에서 문제가 없다면\nNLA로 데려가자[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs03060100_MSG0062",
+      "style": 0,
+      "name": "바로 검사해 볼게요[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs03060100_MSG0063",
+      "style": 0,
+      "name": "문제없어요![ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs03060100_MSG0064",
+      "style": 0,
+      "name": "타츠, 같이 갈 수 있냐모?[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs03060100_MSG0065",
+      "style": 0,
+      "name": "신난다모!\n당신들, 좋은 외계인이다모[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "xs03060100_MSG0065_m",
+      "style": 0,
+      "name": "신난다모!\n당신들, 좋은 외계인이다모[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs03060100_MSG0065_f",
+      "style": 0,
+      "name": "신난다모!\n당신들, 좋은 외계인이다모[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs03060100_MSG0066",
+      "style": 0,
+      "name": "맞다![ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs03060100_MSG0067",
+      "style": 0,
+      "name": "감사의 표시로 좋은 걸\n특별히! 공짜로![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs03060100_MSG0068",
+      "style": 0,
+      "name": "여러분에게 빌려주겠다모![ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs03060100_MSG0069",
+      "style": 0,
+      "name": "뭐~~? 감사의 표시라면 줘야 하는 거 아냐?[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs03060100_MSG0070",
+      "style": 0,
+      "name": "무, 무, 무……\n무슨 무서운 말을 하는 건가모![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "xs03060100_MSG0071",
+      "style": 0,
+      "name": "그냥 주다니, 그런 돈도 안 되는 짓을[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "xs03060100_MSG0072",
+      "style": 0,
+      "name": "교역 종족인 노폰의 긍지가\n허락할 수 없다모[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "xs03060100_MSG0073",
+      "style": 0,
+      "name": "노폰은 긍지 높은 종족이다모![ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "xs03060100_MSG0074",
+      "style": 0,
+      "name": "긍지가 높다니\n그냥 수전노라는 거잖아?[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "xs03060100_MSG0075",
+      "style": 0,
+      "name": "안 듣고 있네……[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "xs03060100_MSG0076",
+      "style": 0,
+      "name": "다들 혹시\n길을 헤매는 거 아닌가모?[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "xs03060100_MSG0076_m",
+      "style": 0,
+      "name": "다들 혹시\n길을 헤매는 거 아닌가모?[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "xs03060100_MSG0076_f",
+      "style": 0,
+      "name": "다들 혹시\n길을 헤매는 거 아닌가모?[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "xs03060100_JNK0070",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 96,
+      "label": "xs03060100_SEL0071",
+      "style": 3,
+      "name": "여기가 어디인지조차 모른다고 고개를 끄덕인다"
+    },
+    {
+      "$id": 97,
+      "label": "xs03060100_JNK0080",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 98,
+      "label": "xs03060100_SEL0081",
+      "style": 3,
+      "name": "헤매는 것 또한 인생이라며 눈을 감는다"
+    },
+    {
+      "$id": 99,
+      "label": "xs03060100_MSG0077",
+      "style": 0,
+      "name": "역시 그랬다모\n당신들은 럭키다모[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "xs03060100_MSG0078",
+      "style": 0,
+      "name": "솔직하지 못하다모[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "xs03060100_MSG0079",
+      "style": 0,
+      "name": "그런 비뚤어진 생각을 가진 녀석은\n절벽에서 떨어져 로필에게 잡아먹히면 된다모[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "xs03060100_MSG0080",
+      "style": 0,
+      "name": "내비게이션 볼![ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "xs03060100_MSG0081",
+      "style": 0,
+      "name": "이 빛나는 볼은\n노폰 비전의 굉장히 편리한 아이템이다모[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "xs03060100_MSG0082",
+      "style": 0,
+      "name": "길을 헤맬 때는\n이 볼의 뒤를 따라가면 된다모[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "xs03060100_MSG0082_m",
+      "style": 0,
+      "name": "길을 헤맬 때는\n이 볼의 뒤를 따라가면 된다모[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "xs03060100_MSG0082_f",
+      "style": 0,
+      "name": "길을 헤맬 때는\n이 볼의 뒤를 따라가면 된다모[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "xs03060100_MSG0083",
+      "style": 0,
+      "name": "어쩔 수 없으니\n당신들에게 빌려주겠다모![ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "xs03060100_MSG0084",
+      "style": 0,
+      "name": "감사하도록 해라모![ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "xs03060100_MSG0085",
+      "style": 0,
+      "name": "내비게이션 볼이라니\n아무런 멋도 없는 직관적인 네이밍이네[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "xs03060100_MSG0086",
+      "style": 0,
+      "name": "무슨 말을 하는 건가모[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "xs03060100_MSG0087",
+      "style": 0,
+      "name": "월라레 웨니피카인지 하는[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "xs03060100_MSG0088",
+      "style": 0,
+      "name": "그런 의미를 알 수 없는\n◎※△◇병에 걸린 이름보다[ST:wait ]"
+    },
+    {
+      "$id": 113,
+      "label": "xs03060100_MSG0089",
+      "style": 0,
+      "name": "훨씬 이해하기 쉬워서 좋다모[ST:wait ]"
+    },
+    {
+      "$id": 114,
+      "label": "xs03060100_MSG0090",
+      "style": 0,
+      "name": "수상한데\n정말로 이게 도움이 돼?[ST:wait ]"
+    },
+    {
+      "$id": 115,
+      "label": "xs03060100_MSG0091",
+      "style": 0,
+      "name": "사용하자마자 쾅! 하는 건 싫단 말이야[ST:wait ]"
+    },
+    {
+      "$id": 116,
+      "label": "xs03060100_MSG0092",
+      "style": 0,
+      "name": "쾅! 하니 생각났다모[ST:wait ]"
+    },
+    {
+      "$id": 117,
+      "label": "xs03060100_MSG0093",
+      "style": 0,
+      "name": "귀중한 내비게이션 볼\n망가뜨리면 물어내야 한다모[ST:wait ]"
+    },
+    {
+      "$id": 118,
+      "label": "xs03060100_MSG0094",
+      "style": 0,
+      "name": "역시 수전노……[ST:wait ]"
+    }
+  ]
+}

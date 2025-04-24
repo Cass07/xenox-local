@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091702_MSG0001",
+      "style": 0,
+      "name": "뭐야, 아직 성공 못 한 모양이네\n겁먹기라도 했어?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091702_MSG0039",
+      "style": 4,
+      "name": "포기하지 않는다"
+    },
+    {
+      "$id": 3,
+      "label": "qev091702_MSG0040",
+      "style": 3,
+      "name": "아직 포기하지 않겠다고 말한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev091702_MSG0041",
+      "style": 4,
+      "name": "포기한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev091702_MSG0042",
+      "style": 3,
+      "name": "포기하겠다고 말한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev091702_MSG0002",
+      "style": 0,
+      "name": "훗, 너도 지는 걸 어지간히 싫어하는구나\n솔직히 포기해도 괜찮은데 말이야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091702_MSG0003",
+      "style": 0,
+      "name": "오, 항복하려고?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091702_MSG0004",
+      "style": 0,
+      "name": "정말 괜찮은 거지? 머더레스의 10만 G가\n우리 차지가 될 텐데[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091702_MSG0043",
+      "style": 4,
+      "name": "포기하지 않는다"
+    },
+    {
+      "$id": 10,
+      "label": "qev091702_MSG0044",
+      "style": 3,
+      "name": "사실 농담이었다고 말한다"
+    },
+    {
+      "$id": 11,
+      "label": "qev091702_MSG0045",
+      "style": 4,
+      "name": "포기한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev091702_MSG0046",
+      "style": 3,
+      "name": "정말로 항복한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev091702_MSG0005",
+      "style": 0,
+      "name": "그래그래[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091702_MSG0005_2",
+      "style": 0,
+      "name": "포기한다는 말은 함부로 하지 않는 게 좋아[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091702_MSG0006",
+      "style": 0,
+      "name": "머더레스가 너를 지금 당장이라도\n죽여 버릴 것 같은 눈으로 보고 있거든[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091702_MSG0007",
+      "style": 0,
+      "name": "좋아, 아주 크게 벌었어!![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091702_MSG0008",
+      "style": 0,
+      "name": "고마워, 겁쟁이 친구[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091702_MSG0009",
+      "style": 0,
+      "name": "머더레스한테서 돈을 뜯어내다니\n이거 제법 통쾌한데[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091702_MSG0010",
+      "style": 0,
+      "name": "어디 그렇게 떠들어 봐[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091702_MSG0011",
+      "style": 0,
+      "name": "다음에 함께 임무를 맡을 때\n등 뒤를 조심해야 할 거야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091702_MSG0012",
+      "style": 0,
+      "name": "오~ 무서워라, 눈빛이 진심이네……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091702_MSG0013",
+      "style": 0,
+      "name": "으엑, 진짜로 해냈잖아[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091702_MSG0014",
+      "style": 0,
+      "name": "그러면 패배자들, 현금을 내놔[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091702_MSG0015",
+      "style": 0,
+      "name": "자, 여기[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091702_MSG0016",
+      "style": 0,
+      "name": "잠깐, 수작 부리지 마\n고작 10G일 리가 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091702_MSG0017",
+      "style": 0,
+      "name": "머더레스가 오기로라도 쓰러뜨릴 거라면서\n판에 끼는 사람이 별로 없었거든[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091702_MSG0018",
+      "style": 0,
+      "name": "거짓말하지 마\n그래도 2000G 정도는 있을 거 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091702_MSG0019",
+      "style": 0,
+      "name": "……쳇, 역시 못 이기겠다니까[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091702_MSG0020",
+      "style": 0,
+      "name": "합계 2101G야, 너 혼자 이겼네[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091702_JNK0050",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 31,
+      "label": "qev091702_SEL0051",
+      "style": 3,
+      "name": "자신의 몫은 얼마냐고 묻는다"
+    },
+    {
+      "$id": 32,
+      "label": "qev091702_JNK0060",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 33,
+      "label": "qev091702_SEL0061",
+      "style": 3,
+      "name": "지금부터 다이너에 가서\n연회를 열자고 제안한다"
+    },
+    {
+      "$id": 34,
+      "label": "qev091702_MSG0021",
+      "style": 0,
+      "name": "너, 내기에 참가했었던가?\n보수를 원했다면 직접 돈을 걸었어야지[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091702_MSG0022",
+      "style": 0,
+      "name": "고약한 여자라니까\n100G 정도는 줘도 되는 거 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091702_MSG0023",
+      "style": 0,
+      "name": "단 1G도 주기 싫어[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091702_MSG0024",
+      "style": 0,
+      "name": "오, 멋진 제안인걸\n다이너에 가서 진탕 마셔 보자고[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091702_MSG0025",
+      "style": 0,
+      "name": "너희 같은 쓰레기한테 한턱낼 리 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091702_MSG0026",
+      "style": 0,
+      "name": "짠순이……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091702_MSG0027",
+      "style": 0,
+      "name": "나한테는 근사한 칭찬이야[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091702_MSG0028",
+      "style": 0,
+      "name": "엄청난 보수를 주는 임무가 나왔어![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091702_MSG0029",
+      "style": 0,
+      "name": "솔깃한 정보네, 자세히 말해 봐[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091702_MSG0030",
+      "style": 0,
+      "name": "으엑, 머더레스 씨……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091702_MSG0031",
+      "style": 0,
+      "name": "자, 어서[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091702_MSG0032",
+      "style": 0,
+      "name": "……퀘스트 보드만 봐서\n자세한 건 잘 모르겠지만요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091702_MSG0033",
+      "style": 0,
+      "name": "외계인한테 현상금을 건다던데……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091702_MSG0034",
+      "style": 0,
+      "name": "현상 수배자라는 거네\n재미있겠는걸[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091702_MSG0035",
+      "style": 0,
+      "name": "엘레오노라라면 뭔가 알고 있겠지\n당장 가서 물어보자[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091702_MSG0036",
+      "style": 0,
+      "name": "아, 맞다\n너희는 이 임무에 끼어들지 마[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091702_MSG0037",
+      "style": 0,
+      "name": "날 방해하려 들면 현상 수배자보다\n너희를 먼저 죽여 버리겠어[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091702_MSG0038",
+      "style": 0,
+      "name": "윽……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091702_MSG0047",
+      "style": 1,
+      "name": "하여튼 이 바보……\n최악의 타이밍에 뛰어들기는[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091702_MSG0048",
+      "style": 1,
+      "name": "머더레스 앞에서 돈벌이 얘기를 하는 건\n굶주린 하이에나 앞에서 멍청하게\n고기를 깔아 놓는 거나 마찬가지라고……[ST:wait ]"
+    }
+  ]
+}

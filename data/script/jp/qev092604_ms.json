@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092604_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092604_MSG0002",
+      "style": 0,
+      "name": "[ST:wide ]―トートンは卵だも\n鳥さん　食べちゃダメだも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092604_MSG0003",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092604_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―あれ？　あの鳥ヤロウじゃないも？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092604_MSG0004_m",
+      "style": 0,
+      "name": "[ST:wide ]―あれ？　あの鳥ヤロウじゃないも？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092604_MSG0004_f",
+      "style": 0,
+      "name": "[ST:wide ]―あれ？　あの鳥ヤロウじゃないも？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092604_MSG0005",
+      "style": 0,
+      "name": "もしかして助けにきてくれたも？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092604_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 9,
+      "label": "qev092604_SEL0011",
+      "style": 3,
+      "name": "助けに来たと答える"
+    },
+    {
+      "$id": 10,
+      "label": "qev092604_JNK0020",
+      "style": 4,
+      "name": "説明"
+    },
+    {
+      "$id": 11,
+      "label": "qev092604_SEL0021",
+      "style": 3,
+      "name": "トラの依頼でやってきたと伝える"
+    },
+    {
+      "$id": 12,
+      "label": "qev092604_MSG0006",
+      "style": 0,
+      "name": "うわぁー　助かったもぉー！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092604_MSG0007",
+      "style": 0,
+      "name": "おおっ！　トラも成長したも[ST:wide ]―！\n感涙だも！！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092604_MSG0008",
+      "style": 0,
+      "name": "デンセツの行商人　トートンもさすがに\nここで終わりだと思ったけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092604_MSG0009",
+      "style": 0,
+      "name": "卵のふりして\n今の今まで生き延びて来たんだも！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092604_MSG0010",
+      "style": 0,
+      "name": "全ては　愛する妻と息子に\nもう一度　会うため！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092604_MSG0011",
+      "style": 0,
+      "name": "それじゃ　さっそく\n愛する家族のもとに戻るも！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092604_MSG0011_m",
+      "style": 0,
+      "name": "それじゃ　さっそく\n愛する家族のもとに戻るも！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092604_MSG0011_f",
+      "style": 0,
+      "name": "それじゃ　さっそく\n愛する家族のもとに戻るも！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092604_MSG0012",
+      "style": 0,
+      "name": "ありがとうだも！　見ず知らずの人っ！！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092604_MSG0012_m",
+      "style": 0,
+      "name": "ありがとうだも！　見ず知らずの人っ！！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092604_MSG0012_f",
+      "style": 0,
+      "name": "ありがとうだも！　見ず知らずの人っ！！[ST:wait ]"
+    }
+  ]
+}

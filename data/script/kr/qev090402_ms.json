@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090402_MSG0001",
+      "style": 0,
+      "name": "제법 하는구나, 신입!\n실력도 좋지만, 무엇보다 그대는 담력이 있어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090402_MSG0002",
+      "style": 0,
+      "name": "……음? 외계인인가……?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090402_MSG0003",
+      "style": 0,
+      "name": "윽…… 아앗……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090402_MSG0004",
+      "style": 0,
+      "name": "어엇……!\n너희들, 지구인이야……?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090402_MSG0005",
+      "style": 0,
+      "name": "저기…… 나 좀 도와줄 수 없을까?\n나도 참, 이런 곳에서 다치고 말았거든……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090402_MSG0006",
+      "style": 0,
+      "name": "다리가 아파서……\n원시 생물들한테서 도망칠 수도 없다공[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090402_MSG0007",
+      "style": 0,
+      "name": "그래서 어쩌라는 게냐……\n우리에게는 구해야만 하는 사람들이 있다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090402_MSG0008",
+      "style": 0,
+      "name": "그대 같은 외계인한테 신경 쓸 시간은 없어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090402_MSG0009",
+      "style": 0,
+      "name": "그렇게 차갑게 굴지 마\n우리 마 논인과 지구인은 친구……잖앙?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090402_MSG0010",
+      "style": 0,
+      "name": "친구라고……? 헛소리하지 마라!\n그대들 외계인 따위는 모두 적이다![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090402_MSG0011",
+      "style": 0,
+      "name": "그만 가세!\n우리가 이자를 구할 이유는 없네[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090402_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 13,
+      "label": "qev090402_SEL0011",
+      "style": 3,
+      "name": "보제의 말대로 마 논을 내버린 채\n서둘러 이동한다"
+    },
+    {
+      "$id": 14,
+      "label": "qev090402_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 15,
+      "label": "qev090402_SEL0021",
+      "style": 3,
+      "name": "제제바를 구해 주자고 제안한다"
+    },
+    {
+      "$id": 16,
+      "label": "qev090402_MSG0012",
+      "style": 0,
+      "name": "알았어…… 불러 세워서 미안해\n그러면 알아서 어떻게든 해 볼게[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090402_MSG0013",
+      "style": 0,
+      "name": "잘 가…… 서로 무사히\n이 동굴을 빠져나가면 좋겠네……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090402_MSG0014",
+      "style": 0,
+      "name": "……거친 말을 하여 미안하군\n눈앞에 외계인 녀석들이 보이면 어느샌가……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090402_MSG0015",
+      "style": 0,
+      "name": "마음이 흐트러지고 만다네[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090402_MSG0016",
+      "style": 0,
+      "name": "이제 괜찮네…… 자, 가세\n어서 동료들을 구출해야지[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090402_MSG0017",
+      "style": 0,
+      "name": "……알겠네, 그 말에 따르지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090402_MSG0018",
+      "style": 0,
+      "name": "난 외계인 따위를 구하고 싶지 않지만\n그대와 논쟁을 벌일 생각도 없으니[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090402_MSG0019",
+      "style": 0,
+      "name": "고마워![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090402_MSG0020",
+      "style": 0,
+      "name": "그러면 뮤나리아 플라워를\n가지고 와 주겠어?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090402_MSG0021",
+      "style": 0,
+      "name": "그것만 있으면 내가 만든 이 치료 장치로\n부상 정도는 순식간에 낫게 할 수 있엉![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090402_MSG0022",
+      "style": 0,
+      "name": "부탁할게! 뮤나리아 플라워야![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012405_MSG0001",
+      "style": 1,
+      "name": "수리용 소재를 어느 전선에\n연결하겠습니까?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012405_JNK0010",
+      "style": 4,
+      "name": "파랑"
+    },
+    {
+      "$id": 3,
+      "label": "qev012405_SEL0011",
+      "style": 3,
+      "name": "파란 전선에 소재를 잇는다"
+    },
+    {
+      "$id": 4,
+      "label": "qev012405_JNK0020",
+      "style": 4,
+      "name": "빨강"
+    },
+    {
+      "$id": 5,
+      "label": "qev012405_SEL0021",
+      "style": 3,
+      "name": "빨간 전선에 소재를 잇는다"
+    },
+    {
+      "$id": 6,
+      "label": "qev012405_JNK0030",
+      "style": 4,
+      "name": "보류"
+    },
+    {
+      "$id": 7,
+      "label": "qev012405_SEL0031",
+      "style": 3,
+      "name": "조금 더 생각한다"
+    }
+  ]
+}

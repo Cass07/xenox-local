@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33900100_MSG0010",
+      "style": 0,
+      "name": "적대적인 행동에 의한 위협 감지……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33900100_MSG0020",
+      "style": 0,
+      "name": "방위를 위해 봉쇄 모드 실행 중……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33900100_MSG0030",
+      "style": 0,
+      "name": "이건……\n일종의 에러가 발생한 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33900100_MSG0040",
+      "style": 0,
+      "name": "고장 난 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33900100_MSG0050",
+      "style": 0,
+      "name": "주위를 조사해 보자\n에러의 원인을 파악할 수 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33900100_MSG0060",
+      "style": 0,
+      "name": "알겠습니다[ST:wait ]"
+    }
+  ]
+}

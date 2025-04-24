@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087407_MSG0011",
+      "style": 1,
+      "name": "パーツもない　人手も足りない……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087407_MSG0012",
+      "style": 1,
+      "name": "こんな状況を打破するため司令の知恵を\nお借りできればいいのですが……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087407_MSG0013",
+      "style": 1,
+      "name": "やっぱり　お忙しいんですかね……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087407_MSG0001",
+      "style": 1,
+      "name": "ヴァンダム司令は　我々ですら唸らせるような\nメカニックとしての深い知識をお持ちですから[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087407_MSG0002",
+      "style": 1,
+      "name": "そのアドバイスには　メカニック仲間の\nバイロンともども　いつも助けられています[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087407_MSG0003",
+      "style": 1,
+      "name": "本当に素晴らしい司令ですよね\nあなたは[ST:wide ]―　そう思わないのですか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087407_MSG0004",
+      "style": 1,
+      "name": "ご協力　ありがとうございました！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087407_MSG0005",
+      "style": 1,
+      "name": "ヴァンダム司令なら\n『夜の仕事姿も見せてやるから見つけてみろ』\nと伝言を残して去って行きましたが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087407_MSG0006",
+      "style": 1,
+      "name": "一体　どこに行ったんでしょうね？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087407_MSG0007",
+      "style": 1,
+      "name": "ブレイドエリア上層へ向かったので\nその辺りにいるとは思うのですが[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087407_MSG0008",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "qev087407_MSG0009",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "qev087407_MSG0010",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

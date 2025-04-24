@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev041202_MSG0001",
+      "style": 1,
+      "name": "オウ　来たか　守銭奴ヤロー[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev041202_MSG0002",
+      "style": 1,
+      "name": "ムハハハー\n毎度どうもだもー[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev041202_MSG0003",
+      "style": 1,
+      "name": "リーダーからのお達しがあってナ\n今日のブツは　奥まで運んでけ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev041202_MSG0004",
+      "style": 1,
+      "name": "ン？\n今日は見慣れんヤツを連れてるナ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev041202_MSG0005",
+      "style": 1,
+      "name": "ていうか　地球人じゃねーカ！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev041202_MSG0006",
+      "style": 1,
+      "name": "こりゃいい度胸ダ！\nわざわざ殺されに来やがったカ！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev041202_MSG0007",
+      "style": 1,
+      "name": "ちょ！　ちょちょちょちょちょ！\n違うんだも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev041202_MSG0008",
+      "style": 1,
+      "name": "コイツはビジネス上のアシスタントというか\n小間使いというか……\nその　手下みたいなもんだも！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev041202_MSG0009",
+      "style": 1,
+      "name": "最近は力仕事がつらくなってきたんで\n貧乏そうなのをみつくろって　雇ったんだも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev041202_MSG0010",
+      "style": 1,
+      "name": "バイアス人の敵になるような\n大それたヤツじゃないから\n今回は大目に見てやってほしいんだも！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev041202_MSG0011",
+      "style": 1,
+      "name": "手下ダァ？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev041202_MSG0012",
+      "style": 1,
+      "name": "………………[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev041202_MSG0013",
+      "style": 1,
+      "name": "ハッ！　エラそうな身分になりやがって！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev041202_MSG0014",
+      "style": 1,
+      "name": "そういうチンケなヤツなら\n見逃してやってもいいが[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev041202_MSG0015",
+      "style": 1,
+      "name": "けど　ここを通り抜けたって\n中に入ったらどうなるかわからんゼ？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev041202_MSG0016",
+      "style": 1,
+      "name": "ムハハ\nその辺はもう　自己責任ってことで\n心得てるんだも[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev041202_MSG0017",
+      "style": 1,
+      "name": "えーっとでは\n今日は奥まで物を持って行くんだったも！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev041202_MSG0018",
+      "style": 1,
+      "name": "サクサクっと終わらせるも！\nお邪魔するも～！[ST:wait ]"
+    }
+  ]
+}

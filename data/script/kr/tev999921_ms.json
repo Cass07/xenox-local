@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999921_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999921_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999921_JNK0030",
+      "style": 4,
+      "name": "배틀 멤버에 넣는다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999921_SEL0031",
+      "style": 3,
+      "name": "활동 중인 블레이드 대원[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999921_MSG0001",
+      "style": 1,
+      "name": "이야, 이게 누군가[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999921_MSG0101",
+      "style": 1,
+      "name": "흠…… 그대인가[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999921_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999921_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999921_MSG2001",
+      "style": 1,
+      "name": "우리 유니언의 전투 지원을 약속하지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999921_MSG2101",
+      "style": 1,
+      "name": "유니언에 지원을 요청했다\n도움이 되면 좋겠는데……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999921_MSG3001",
+      "style": 1,
+      "name": "도움이 필요한가?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999921_MSG3101",
+      "style": 1,
+      "name": "나도 함께 가게 해 다오[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999921_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999921_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999921_MSG5001",
+      "style": 1,
+      "name": "지금은 이야기할 수 없어\n미안하군[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999921_MSG5101",
+      "style": 1,
+      "name": "혼자 있게 해 줬으면 한다\n잠시 후에 다시 말을 걸어 다오[ST:wait ]"
+    }
+  ]
+}

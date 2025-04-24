@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092104_MSG0001",
+      "style": 0,
+      "name": "이것 봐…… 여기에 미카의 돌과\n페르난의 돌이 있어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092104_MSG0002",
+      "style": 0,
+      "name": "페르난의 돌은 캠버의 돌과 비슷해\n망가지기는 했지만 겉모습은 비교적 깨끗하지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092104_MSG0003",
+      "style": 0,
+      "name": "폭발한 프로토타입 병기의 특징이야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092104_MSG0004",
+      "style": 0,
+      "name": "하지만 미카의 돌은 검게 그을렸고\n자세히 보면 탄흔도 있어……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092104_MSG0005",
+      "style": 0,
+      "name": "그렇군[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092104_MSG0006",
+      "style": 0,
+      "name": "이건 다시 말해서……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092104_JNK0010",
+      "style": 4,
+      "name": "단정한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev092104_SEL0011",
+      "style": 3,
+      "name": "적에게 습격당했다고 단정한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev092104_JNK0020",
+      "style": 4,
+      "name": "추측한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev092104_SEL0021",
+      "style": 3,
+      "name": "동료와의 불화로 총격전이 벌어졌다고 추측한다"
+    },
+    {
+      "$id": 11,
+      "label": "qev092104_MSG0007",
+      "style": 0,
+      "name": "틀림없어, 프로토타입 병기의 폭발을 감지하고\n그로우스가 온 거겠지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092104_MSG0008",
+      "style": 0,
+      "name": "미카와 한나가 총격전을 벌였다고?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092104_MSG0009",
+      "style": 0,
+      "name": "사고 책임을 서로에게 떠넘기다가\n그런 일이 벌어지기라도 한 건가[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092104_MSG0010",
+      "style": 0,
+      "name": "미카는 그럴 사람이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092104_MSG0011",
+      "style": 0,
+      "name": "분명 프로토타입 병기의 폭발을 감지하고\n그로우스가 온 거겠지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092104_MSG0012",
+      "style": 0,
+      "name": "그리고 미카와 한나는 습격당했고?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092104_MSG0013",
+      "style": 0,
+      "name": "캠버와 페르난이 없는 상태에서\n두 사람만 적과 교전했을 거야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092104_MSG0014",
+      "style": 0,
+      "name": "그렇군, 결국 미카의 돌은 파괴되고\n한나는……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092104_MSG0015",
+      "style": 0,
+      "name": "조용히![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092104_MSG0016",
+      "style": 0,
+      "name": "왜 그래?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092104_MSG0017",
+      "style": 0,
+      "name": "근처에 그로우스의 돌이 있어……\n몇 대 정도가 천천히 이동 중……인가?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092104_MSG0018",
+      "style": 0,
+      "name": "레이더에 나타났어?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092104_MSG0019",
+      "style": 0,
+      "name": "소리로 알아냈을 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092104_MSG0020",
+      "style": 0,
+      "name": "적의 돌까지 파악하다니……\n얼마나 돌에 외골수인 건지……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092104_MSG0021",
+      "style": 0,
+      "name": "오지 마아아아아아……!![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092104_MSG0022",
+      "style": 0,
+      "name": "미카!?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092104_MSG0023",
+      "style": 0,
+      "name": "살아 있었던 건가!?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092104_MSG0024",
+      "style": 0,
+      "name": "얼른 구하러 가자!![ST:wait ]"
+    }
+  ]
+}

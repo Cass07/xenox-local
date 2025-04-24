@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091303_MSG0001",
+      "style": 0,
+      "name": "ここのデータプローブも地面に出てますね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091303_MSG0002",
+      "style": 0,
+      "name": "まるで掘り出されたようにも見えます[ST:wide ]―\n作為的な何かを感じます[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091303_MSG0003",
+      "style": 0,
+      "name": "次の場所へ行ってみましょう[ST:wait ]"
+    }
+  ]
+}

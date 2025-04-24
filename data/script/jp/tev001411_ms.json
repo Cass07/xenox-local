@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001411_MSG0010",
+      "style": 1,
+      "name": "一難去って　また一難か……\nこれから益々忙しくなりそうだね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001411_MSG0020",
+      "style": 1,
+      "name": "そっちはどうだい？\n人手が必要なら協力するよ\nあたしとお前の仲だしね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001411_JNK0030",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 4,
+      "label": "tev001411_SEL0040",
+      "style": 3,
+      "name": "イリーナをメンバーに加える"
+    },
+    {
+      "$id": 5,
+      "label": "tev001411_MSG0050",
+      "style": 1,
+      "name": "よしきた！\n背中は任せておきな！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001411_JNK0060",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 7,
+      "label": "tev001411_SEL0070",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 8,
+      "label": "tev001411_MSG0080",
+      "style": 1,
+      "name": "そっか\nま　お互い頑張ろうな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001411_MSG0090",
+      "style": 1,
+      "name": "生き残るための闘争か……\nふん　見くびられたもんだね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001411_MSG0100",
+      "style": 1,
+      "name": "こっちは地球を脱出してから\nずっと戦い続けてきたんだ\n生きるために　必死にさ……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001411_MSG0110",
+      "style": 1,
+      "name": "そのあたし達をナメたらどうなるか……\n思い知らせてやろうじゃないか　なあ？[ST:wait ]"
+    }
+  ]
+}

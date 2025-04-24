@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090704_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―私は助かったのか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090704_MSG0002",
+      "style": 0,
+      "name": "ええ　いつも君が見下している\n僕達ブレイドの力によってね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090704_MSG0003",
+      "style": 0,
+      "name": "君は[ST:wide ]―　ＨＢじゃないか！\nまさか君が助けにきてくれるとは！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090704_MSG0004",
+      "style": 0,
+      "name": "やはり持つべきものは\n誇らしき大学時代の仲間というわけだな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090704_MSG0005",
+      "style": 0,
+      "name": "そんな理由で助けたわけじゃない[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090704_MSG0005_02",
+      "style": 0,
+      "name": "たんに君が　研究に携わる優秀な学者で[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090704_MSG0006",
+      "style": 0,
+      "name": "ＮＬＡの人々が君を必要としているから\n助けたまでの話です[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090704_MSG0006_02",
+      "style": 0,
+      "name": "勘違いしないでください[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090704_MSG0007",
+      "style": 0,
+      "name": "相変わらずだな！\nだが助かった　この恩は忘れないよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090704_MSG0008",
+      "style": 0,
+      "name": "もう二度と君達ブレイドを\n軽んじるようなことも言わない[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090704_MSG0009",
+      "style": 0,
+      "name": "そうしてください　君達が\nこのミラで研究を続けられているのだって[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090704_MSG0010",
+      "style": 0,
+      "name": "僕達の働きがあってこそなのですからね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090704_MSG0012",
+      "style": 0,
+      "name": "君も今回はなかなかの働きでした\n正直　あの原生生物は僕だけじゃ倒せなかった[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090704_MSG0013",
+      "style": 0,
+      "name": "何か手伝えることがあれば言ってください\n今度は僕が協力して差し上げますよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090704_MSG0014",
+      "style": 0,
+      "name": "どうやら君は　僕と共に任務を行うに足る\nエリートのようですしね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090704_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 17,
+      "label": "qev090704_SEL0011",
+      "style": 3,
+      "name": "とりあえずよろしく頼むと\n言っておく"
+    },
+    {
+      "$id": 18,
+      "label": "qev090704_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 19,
+      "label": "qev090704_SEL0021",
+      "style": 3,
+      "name": "自分はエリートではないと\n否定する"
+    },
+    {
+      "$id": 20,
+      "label": "qev090704_MSG0015",
+      "style": 0,
+      "name": "次期ブレイド司令候補でもある\nこのＨＢに認められたんです[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090704_MSG0016",
+      "style": 0,
+      "name": "もっと喜んだ方がいいですよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090704_MSG0017",
+      "style": 0,
+      "name": "そりゃあ　次期ブレイド司令候補でもある\n僕ほどではないですがね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090704_MSG0018",
+      "style": 0,
+      "name": "君もそこそこ優れた人間ですよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090704_MSG0019",
+      "style": 0,
+      "name": "[ST:wide ]―まぁいいです　とにかくこれから\n君は僕と行動を共にできるのです[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090704_MSG0020",
+      "style": 0,
+      "name": "友として　ライバルとして\n高みを目指していきましょう！[ST:wait ]"
+    }
+  ]
+}

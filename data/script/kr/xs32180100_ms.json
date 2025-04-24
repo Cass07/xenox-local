@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32180100_MSG0010",
+      "style": 0,
+      "name": "전이 시스템은 아직 시험 단계지만[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32180100_MSG0020",
+      "style": 0,
+      "name": "신 흰고래 개조 작업은 끝났다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32180100_MSG0030",
+      "style": 0,
+      "name": "지금부터 보여 줄 테니까 밖으로 나와 보게[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32180100_MSG0040",
+      "style": 0,
+      "name": "기대되네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32180100_MSG0050",
+      "style": 0,
+      "name": "어때? 보러 가고 싶어?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32180100_MSG0060",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "xs32180100_MSG0070",
+      "style": 0,
+      "name": "네, 보고 싶어요![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32180100_MSG0080",
+      "style": 0,
+      "name": "물론 타츠도 가겠다모![ST:wait ]"
+    }
+  ]
+}

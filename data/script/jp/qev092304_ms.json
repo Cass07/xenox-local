@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092304_MSG0001",
+      "style": 0,
+      "name": "人生なかなかうまくいかないもんだね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092304_MSG0002",
+      "style": 0,
+      "name": "さあ　やればいいよ\nどうせあたしにゃ戻る場所なんてないんだから[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092304_JNK0010",
+      "style": 4,
+      "name": "殺さない"
+    },
+    {
+      "$id": 4,
+      "label": "qev092304_SEL0011",
+      "style": 3,
+      "name": "オルネラを落ち着かせて話を聞き出す"
+    },
+    {
+      "$id": 5,
+      "label": "qev092304_JNK0020",
+      "style": 4,
+      "name": "殺す"
+    },
+    {
+      "$id": 6,
+      "label": "qev092304_SEL0021",
+      "style": 3,
+      "name": "オルネラの希望通り殺す"
+    },
+    {
+      "$id": 7,
+      "label": "qev092304_MSG0003",
+      "style": 0,
+      "name": "どうしてこんなことをしたのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092304_MSG0004",
+      "style": 0,
+      "name": "少し待ってください[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092304_MSG0005",
+      "style": 0,
+      "name": "オルネラさん\nどうしてこんなことをしたんですか？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092304_MSG0006",
+      "style": 0,
+      "name": "ヒメリみたいなお人好しの手伝いなんて\nタダでやるバカがいると思ったかい？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092304_MSG0007",
+      "style": 0,
+      "name": "白鯨にいる時から\nあんたの人気はすごかったからね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092304_MSG0008",
+      "style": 0,
+      "name": "取り入って　一儲けしようと思ったんだ\nそしたら　次から次へとタダ働き[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092304_MSG0009",
+      "style": 0,
+      "name": "しまいには赤字さ[ST:wide ]―\nちっとも金になんてなりゃしないじゃないか！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092304_MSG0010",
+      "style": 0,
+      "name": "だから売ったのさ　あの連中に\nヒメリの相談相手の[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]をね！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092304_MSG0011",
+      "style": 0,
+      "name": "なんて　酷いことを[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092304_MSG0012",
+      "style": 0,
+      "name": "わかったろ\nあたしは地獄に墜ちるべきなんだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092304_MSG0013",
+      "style": 0,
+      "name": "さあ　さっさと殺しておくれよ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092304_MSG0014",
+      "style": 0,
+      "name": "いえ[ST:wide ]―　一緒にＮＬＡに帰りましょう[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092304_MSG0015",
+      "style": 0,
+      "name": "事情を話せば　きっと許してもらえます[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092304_MSG0016",
+      "style": 0,
+      "name": "私　どんなことがあっても\nオルネラさんの味方をしますから[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092304_MSG0017",
+      "style": 0,
+      "name": "反吐が出るね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092304_MSG0018",
+      "style": 0,
+      "name": "自己犠牲の精神[ST:wide ]―　無償の愛[ST:wide ]―\nそんなもので何を得られるっていうんだ！？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092304_MSG0019",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092304_MSG0020",
+      "style": 0,
+      "name": "私は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092304_MSG0021",
+      "style": 0,
+      "name": "お父様の教えに従って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092304_MSG0022",
+      "style": 0,
+      "name": "そのお父様も最期は騙され\n殺されたんじゃないのかい！？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092304_MSG0023",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092304_MSG0024",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092304_MSG0025",
+      "style": 0,
+      "name": "あっはっはっは[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092304_MSG0026",
+      "style": 0,
+      "name": "あたしはヒメリの父親を殺した連中と\n同じなんだ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092304_MSG0027",
+      "style": 0,
+      "name": "いや　それ以上かもね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092304_MSG0028",
+      "style": 0,
+      "name": "そんなっ　オルネラさん[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092304_MSG0029",
+      "style": 1,
+      "name": "あたしを説得しようったって\n無駄だよ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092304_MSG0030",
+      "style": 1,
+      "name": "大人しくあいつに始末されるんだね！[ST:wait ]"
+    }
+  ]
+}

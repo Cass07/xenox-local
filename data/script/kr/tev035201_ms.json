@@ -1,0 +1,546 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev035201_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev035201_SEL0011",
+      "style": 3,
+      "name": "지구인에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev035201_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev035201_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev035201_MSG0001",
+      "style": 1,
+      "name": "저기……\n지구인 여러분은 저희 마 논을\n어떻게 생각하고 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev035201_MSG0002",
+      "style": 1,
+      "name": "상업 에어리어 쪽에서는\n지구인에게 괴롭힘을 당하고 있는\n동료도 있다는 이야기를 들었어요……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev035201_MSG0003",
+      "style": 1,
+      "name": "전 많은 지구인과 친구가 되고 싶지만……\n조금 무서워요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev035201_MSG0004",
+      "style": 1,
+      "name": "하지만…… 음……\n그래도 용기를 내야겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev035201_MSG0005",
+      "style": 1,
+      "name": "당신처럼 다정해 보이는 지구인도 있고\n서로 제대로 이야기를 나눈다면\n분명 친구가 될 수 있겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev035201_MSG0008",
+      "style": 1,
+      "name": "전 모두를 위해 밖으로 나가서\n마테리얼을 모으는 게 일이지만[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev035201_MSG0009",
+      "style": 1,
+      "name": "원시 생물의 눈에 띄지 않도록\n행동하는 건 힘든 일이에요……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev035201_MSG0010",
+      "style": 1,
+      "name": "블레이드분에게 수집 의뢰를 하면 되지만\n제 발로 직접 가서 찾아내고 싶어서……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev035201_MSG0011",
+      "style": 1,
+      "name": "이러다가 언젠가 한번……\n다치는 건 아닐까요……?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev035201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev035201_SEL1011",
+      "style": 3,
+      "name": "지구인에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev035201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev035201_SEL1021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev035201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "tev035201_SEL1031",
+      "style": 3,
+      "name": "그로우스의 병기에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev035201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev035201_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev035201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev035201_SEL1041",
+      "style": 3,
+      "name": "습격 당시의 행동을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev035201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev035201_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev035201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev035201_SEL1051",
+      "style": 3,
+      "name": "라스인에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev035201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev035201_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev035201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev035201_SEL1061",
+      "style": 3,
+      "name": "사로나에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev035201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev035201_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "tev035201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "tev035201_SEL1071",
+      "style": 3,
+      "name": "센트럴 라이프에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev035201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev035201_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev035201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev035201_SEL1081",
+      "style": 3,
+      "name": "앞으로의 일에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev035201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev035201_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev035201_MSG1001",
+      "style": 1,
+      "name": "사로나 씨가 매우 기쁜 소식을\n알려 줬어요![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev035201_MSG1002",
+      "style": 1,
+      "name": "모리스 씨와 나기 씨라는 이 도시의 리더는\n외계인과도 적극적으로 대화를 시도해서……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev035201_MSG1003",
+      "style": 1,
+      "name": "우리와 그랬던 것처럼\n점차 우호 조약을 맺어 가려고 한대요[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev035201_MSG1004",
+      "style": 1,
+      "name": "폭력으로 굴복시켜\n억지로 서멀 연합에 들어오게 하는\n그로우스와는 전혀 달라요![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev035201_MSG1005",
+      "style": 1,
+      "name": "지구인이란 정말 훌륭하네요!\n이 도시에 있으면 다양한 행성의 친구들이\n생길 것 같아 굉장히 두근두근해요[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev035201_MSG1010",
+      "style": 1,
+      "name": "격납고에 있는\n소스테나사 씨라는 분을 아시나요?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev035201_MSG1011",
+      "style": 1,
+      "name": "수리점을 하시는 분인데\n마 논 중에서도 유난히 솜씨가 좋아요\n지구인은 그다지 좋아하지 않는 것 같지만요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev035201_MSG1012",
+      "style": 1,
+      "name": "저는 마 논인을 무서워하던\n사로나 씨와 친해질 수 있었으니까……[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev035201_MSG1013",
+      "style": 1,
+      "name": "소스테나사 씨도\n그걸 알아줬으면 좋겠어요[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev035201_MSG1014",
+      "style": 1,
+      "name": "만약 시간이 있으시면 소스테나사 씨가\n어째서 지구인을 싫어하는지\n이야기를 들어 주세요[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev035201_MSG1020",
+      "style": 1,
+      "name": "사로나 씨 말대로 그로우스의 병기는\n지구인의 미적 감각에 반하는\n디자인이라고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev035201_MSG1021",
+      "style": 1,
+      "name": "어쩌면 그 외견은\n의도적으로 설계된 걸지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev035201_MSG1022",
+      "style": 1,
+      "name": "그렇게 해서 지구인에게\n공포감을 심어 주고 전의를 잃게 하는……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev035201_MSG1023",
+      "style": 1,
+      "name": "으음…… 그로우스……\n무서운 집단이에요[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev035201_MSG1030",
+      "style": 1,
+      "name": "전 마 논 우주선에 피난해 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev035201_MSG1031",
+      "style": 1,
+      "name": "그냥 왠지 모르게\n무사히 NLA에 돌아올 수 있을 것 같았어요[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev035201_MSG1032",
+      "style": 1,
+      "name": "그건…… [ST:playername ] 씨가\nNLA에서 싸워 줬기 때문이에요[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev035201_MSG1033",
+      "style": 1,
+      "name": "[ST:playername ] 씨가 있으면\n마 논도 이 도시도 괜찮을 것 같았으니까요[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev035201_MSG1034",
+      "style": 1,
+      "name": "……봐요, 그렇죠?\n제 생각대로 됐죠?[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev035201_MSG1040",
+      "style": 1,
+      "name": "라스인이라면……\n격리 격납고에서 중요한 돌을\n빼앗아 간 사람들이죠?[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev035201_MSG1041",
+      "style": 1,
+      "name": "알고 있었나요? 그 라스인들\n격리 격납고를 지키던 블레이드분들과\n싸운 것 같은데[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev035201_MSG1042",
+      "style": 1,
+      "name": "쓰러진 블레이드분들은\n큰 부상은 입지 않았다고 해요[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev035201_MSG1043",
+      "style": 1,
+      "name": "적당히 봐줬다는 건\n지구인을 싫어하지 않는 게 아닐까요?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev035201_MSG1044",
+      "style": 1,
+      "name": "어쩌면…… 사로나 씨 말대로\n그들도 우리처럼 친해질 수 있을지도 모르겠네요[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev035201_MSG1050",
+      "style": 1,
+      "name": "라스인분들은\n대화가 통하는 외계인인데……[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev035201_MSG1051",
+      "style": 1,
+      "name": "사로나 씨는 역시 겉모습으로만\n인상을 판단하고 상대를 대하는 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev035201_MSG1052",
+      "style": 1,
+      "name": "……그렇지!\n지구인은 모아랑우탄 같은 생물에서\n진화한 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev035201_MSG1053",
+      "style": 1,
+      "name": "다음에 같은 행동을 하면 리프 바나나를\n사로나 씨의 식사로 줘야겠어요[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev035201_MSG1054",
+      "style": 1,
+      "name": "이걸로 겉모습만 보고 상대를 대하는 버릇을\n조금이나마 고칠 수 있다면…… 좋겠네요[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev035201_MSG1060",
+      "style": 1,
+      "name": "블레이드분들은\n센트럴 라이프로 가는군요[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev035201_MSG1061",
+      "style": 1,
+      "name": "진짜 몸을 얻기 전에\n죽지 않도록 조심하세요[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev035201_MSG1062",
+      "style": 1,
+      "name": "[ST:playername ] 씨가 있으니까\n괜찮을 거라고 믿고 있어요![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev035201_MSG1068",
+      "style": 1,
+      "name": "사로나 씨와 함께\n미라를 모험할 거예요![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev035201_MSG1069",
+      "style": 1,
+      "name": "[ST:playername ] 씨는\n원시 생물의 마테리얼을 잘 알 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev035201_MSG1070",
+      "style": 1,
+      "name": "맛있어 보이는 마테리얼을 알고 계신다면\n꼭 알려 주세요![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev035201_MSG1071",
+      "style": 1,
+      "name": "버설트 초콜릿뿐만 아니라\n더 희귀한 원시 생물의 음식을\n만들어 보고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev035201_SEL2011",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 79,
+      "label": "tev035201_MSG2001",
+      "style": 1,
+      "name": "수리점의 소스테나사 씨\n지구인에게 친절해졌다고 호평을 받고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev035201_MSG2002",
+      "style": 1,
+      "name": "[ST:playername ] 씨 덕분이라고\n말씀하셨어요[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "tev035201_MSG2003",
+      "style": 1,
+      "name": "전 사로나 씨에게 공포의 대상이었던 적이 있으니까\n소스테나사 씨가 지구인과 잘 지내는 게\n왠지 기뻐요……[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "tev035201_MSG2004",
+      "style": 1,
+      "name": "저도 감사 인사를 드릴게요!\n정말 고맙습니다[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev035201_SEL3011",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 84,
+      "label": "tev035201_MSG3001",
+      "style": 1,
+      "name": "수리점의 소스테나사 씨가\n지구인과 친해지는 건 싫다고……[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev035201_MSG3002",
+      "style": 1,
+      "name": "하지만 [ST:playername ] 씨의 의뢰라면\n받아 줄 수 있다고 말씀하셨어요[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "tev035201_MSG3003",
+      "style": 1,
+      "name": "조금씩 마음을 열고 있다는 거네요![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "tev035201_MSG3004",
+      "style": 1,
+      "name": "절 무서워하던 사로나 씨와\n지금은 이렇게 친구가 될 수 있었던 것처럼[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "tev035201_MSG3005",
+      "style": 1,
+      "name": "언젠가 소스테나사 씨도\n지구인과 친해질 수 있으면 좋겠어요[ST:wait ]"
+    }
+  ]
+}

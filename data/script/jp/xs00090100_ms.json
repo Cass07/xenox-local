@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00090100_MSG0001",
+      "style": 0,
+      "name": "そろそろ夜明けか\n雨もやみそうね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00090100_MSG0002",
+      "style": 0,
+      "name": "いらっしゃい\n面白いものが見られるわよ[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs00090100_MSG0003",
+      "style": 0,
+      "name": "驚いたようね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00090100_MSG0004",
+      "style": 0,
+      "name": "彼らがこの惑星の先住民よ[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs00090100_MSG0005",
+      "style": 0,
+      "name": "新参者の私達としては仲良くしていかないとね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs00090100_MSG0006",
+      "style": 0,
+      "name": "ここは惑星ミラ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs00090100_MSG0007",
+      "style": 0,
+      "name": "航宙図にすら載っていない未知の星[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs00090100_MSG0008",
+      "style": 0,
+      "name": "私達の新たな故郷よ[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

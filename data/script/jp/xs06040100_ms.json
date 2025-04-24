@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06040100_MSG0001",
+      "style": 0,
+      "name": "いやしかし　美味かったな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06040100_MSG0002",
+      "style": 0,
+      "name": "リンは料理が上手だな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs06040100_MSG0003",
+      "style": 0,
+      "name": "うちの奴らも見習ってほしいわ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06040100_MSG0004",
+      "style": 0,
+      "name": "ありがとうございます！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06040100_MSG0005",
+      "style": 0,
+      "name": "[ST:wide ]―で　何故いきなり　お茶しに来たわけ？[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs06040100_MSG0006",
+      "style": 0,
+      "name": "いや　仕事の話をしに来たんだよ　もちろん[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs06040100_MSG0007",
+      "style": 0,
+      "name": "何だか私の知識が必要とのことでして[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs06040100_MSG0008",
+      "style": 0,
+      "name": "これぞ　故事に言う　馬の耳に念仏[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06040100_MSG0009",
+      "style": 0,
+      "name": "えっ　そうだったんですか？[ST:wait ]\n"
+    }
+  ]
+}

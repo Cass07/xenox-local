@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33590100_MSG0010",
+      "style": 0,
+      "name": "아아! 다행이다……\n당신도 무사하셨군요![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33590100_MSG0020",
+      "style": 0,
+      "name": "그…… 저는 어떻게 해야 할지 몰라서……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33590100_MSG0030",
+      "style": 0,
+      "name": "여기서 당신과 만나게 돼서\n정말 다행이에요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33590100_MSG0040",
+      "style": 0,
+      "name": "앗…… 이런 이야기를 할 때가 아니죠?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33590100_MSG0050",
+      "style": 0,
+      "name": "어서 가요\n우리의 미래를 위해서……![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33590100_MSG0060",
+      "style": 0,
+      "name": "저도 있는 힘껏 노력하겠어요![ST:wait ]"
+    }
+  ]
+}

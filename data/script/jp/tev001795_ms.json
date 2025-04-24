@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001795_MSG0001",
+      "style": 1,
+      "name": "えーっと\n最初に受けた相談がバイアス人の\n文化の継承についてで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001795_MSG0002",
+      "style": 1,
+      "name": "次がオルフェ人の食糧の備蓄について\nそれからノポン人の英才教育についてで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001795_MSG0003",
+      "style": 1,
+      "name": "あっ　[ST:playername ]さん\nいらしてたんですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001795_MSG0004",
+      "style": 1,
+      "name": "ごめんなさい\n私　考え事してて　気づきませんでした[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001795_MSG0005",
+      "style": 1,
+      "name": "最近　異星人の方々にもいろんな相談を\n受けてまして[ST:wide ]―\nちょっとだけ[ST:wide ]―大忙しなんですよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001795_JNK0010",
+      "style": 4,
+      "name": "尋ねる"
+    },
+    {
+      "$id": 7,
+      "label": "tev001795_SEL0011",
+      "style": 3,
+      "name": "オルネラがいないのが\n辛いかと尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "tev001795_JNK0020",
+      "style": 4,
+      "name": "アドバイスする"
+    },
+    {
+      "$id": 9,
+      "label": "tev001795_SEL0021",
+      "style": 3,
+      "name": "優先順位をつけるべきだと\nアドバイスする"
+    },
+    {
+      "$id": 10,
+      "label": "tev001795_JNK0030",
+      "style": 4,
+      "name": "誘う"
+    },
+    {
+      "$id": 11,
+      "label": "tev001795_SEL0031",
+      "style": 3,
+      "name": "ブレイドホームにペットを\n見に来ないかと誘う"
+    },
+    {
+      "$id": 12,
+      "label": "tev001795_MSG0006",
+      "style": 1,
+      "name": "オルネラさんがいないのは[ST:wide ]―\n楽ではなくなったという程度です[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001795_MSG0007",
+      "style": 1,
+      "name": "元々私が始めたことですから\n私の力でやるべきなんです[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001795_MSG0008",
+      "style": 1,
+      "name": "だから今が正しい状態といいますか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001795_MSG0009",
+      "style": 1,
+      "name": "私は私のやり方で行くと決めたから\n辛くはないですよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001795_MSG0010",
+      "style": 1,
+      "name": "そうですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001795_MSG0011",
+      "style": 1,
+      "name": "時間を掛けないと解決できない問題も\nありますし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001795_MSG0012",
+      "style": 1,
+      "name": "緊急性の高い問題もあります[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001795_MSG0013",
+      "style": 1,
+      "name": "すぐにお手伝いできる方や緊急性の高い方の\n手助けをしていくことにします[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001795_MSG0014",
+      "style": 1,
+      "name": "アドバイスありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001795_MSG0015",
+      "style": 1,
+      "name": "[ST:wide ]―なんだかそう考えて整理すると\n少しだけ気持ちが軽くなりました[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001795_MSG0016",
+      "style": 1,
+      "name": "ついでに私の話を聞いてくれますか？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001795_MSG0017",
+      "style": 1,
+      "name": "ふふっ　[ST:playername ]さんは優しいですね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001795_MSG0018",
+      "style": 1,
+      "name": "折角ですけど　今はご遠慮します\nまだまだ私はがんばれますから！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001795_MSG0019",
+      "style": 1,
+      "name": "本当に辛くなったら\nあの子に会わせてください[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001795_MSG0020",
+      "style": 1,
+      "name": "気分転換すれば\n元気もやる気もでると思います[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001795_MSG0021",
+      "style": 1,
+      "name": "でも　少しだけ甘えてもいいでしょうか？\n私の話を聞いてほしいんです[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001795_MSG0022",
+      "style": 1,
+      "name": "私たち地球人はたくさんの異星人の方から\nさまざまな恩恵を受けているじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001795_MSG0023",
+      "style": 1,
+      "name": "地球人が持っていない技術や知識[ST:wide ]―\n私はその恩返しをしたいと思うんです[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001795_MSG0024",
+      "style": 1,
+      "name": "相談に乗ることで少しずつ異星人の方の\nことを知ることができますし\n私たち地球人のことも知ってもらえます[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001795_MSG0025",
+      "style": 1,
+      "name": "地球人と異星人の方がますます仲良くなれば\nもっと恒久的に素敵な世界になる[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001795_MSG0026",
+      "style": 1,
+      "name": "私はそう信じています[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001795_MSG0027",
+      "style": 1,
+      "name": "とはいえ[ST:playername ]さんは\n実践されていて　異星人のみなさんの\n評判になってます[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001795_MSG0028",
+      "style": 1,
+      "name": "私としてはあなたの力になりながらも\n個人として少しずつがんばりたいんです[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001795_MSG0029",
+      "style": 1,
+      "name": "だから今は　私のこと\n見守っていてください[ST:wait ]"
+    }
+  ]
+}

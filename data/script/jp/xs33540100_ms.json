@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33540100_MSG0010",
+      "style": 0,
+      "name": "おや　皆さんもご無事でしたか！\nお元気そうで何よりです[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33540100_MSG0020",
+      "style": 0,
+      "name": "[ST:wide ]―えっ？　私ですか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33540100_MSG0030",
+      "style": 0,
+      "name": "私は運良くこの近くに飛ばされまして\nどうにか自力で戻ってこられました[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33540100_MSG0040",
+      "style": 0,
+      "name": "こんな時こそ　故事に言う泰然自若[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33540100_MSG0045",
+      "style": 0,
+      "name": "慌てず冷静に行動すれば　火もまた涼しです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33540100_MSG0050",
+      "style": 0,
+      "name": "さあさあ　再会を祝うのは後にして[ST:wide ]―\nここが勝負の分かれ目です！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33540100_MSG0060",
+      "style": 0,
+      "name": "敵の本拠地へ\nいざカマクラと参りましょう！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33540100_MSG0070",
+      "style": 0,
+      "name": "[ST:wide ]―ところで\nカマクラって何でしょうかね？[ST:wait ]"
+    }
+  ]
+}

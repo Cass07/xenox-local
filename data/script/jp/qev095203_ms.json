@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095203_MSG0001",
+      "style": 1,
+      "name": "ここが地球人の街か\n少々　風変わりな形をしているが……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095203_MSG0002",
+      "style": 1,
+      "name": "守りは固そうだな　ここであれば\nグロウスどもの猛攻にも耐えられるだろう[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095203_MSG0003",
+      "style": 1,
+      "name": "私達も渡せる技術は　全て渡す\nだから君もその力で我々を守ってくれたまえ[ST:wait ]"
+    }
+  ]
+}

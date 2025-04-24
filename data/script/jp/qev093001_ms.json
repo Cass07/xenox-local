@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093001_MSG0010",
+      "style": 0,
+      "name": "やあ　ごきげんよう\nご無沙汰だったね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093001_MSG0020",
+      "style": 0,
+      "name": "あの[ST:wide ]―　こんにちは[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093001_JNK0030",
+      "style": 4,
+      "name": "ニール"
+    },
+    {
+      "$id": 4,
+      "label": "qev093001_SEL0040",
+      "style": 3,
+      "name": "ニールに用件を聞く"
+    },
+    {
+      "$id": 5,
+      "label": "qev093001_MSG0050",
+      "style": 0,
+      "name": "うん？　特に用はないよ\n偶然見かけたから　声かけただけ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093001_MSG0060",
+      "style": 0,
+      "name": "[ST:wide ]―っていうのは冗談\nちょうどキミを訪ねようと思ってたんだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093001_MSG0070",
+      "style": 0,
+      "name": "詳しくはブレイドホームで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093001_JNK0080",
+      "style": 4,
+      "name": "セリカ"
+    },
+    {
+      "$id": 9,
+      "label": "qev093001_SEL0090",
+      "style": 3,
+      "name": "セリカに用件を聞く"
+    },
+    {
+      "$id": 10,
+      "label": "qev093001_MSG0100",
+      "style": 0,
+      "name": "はい　ニール様が\nあなたに折り入ってお話があるそうです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093001_MSG0110",
+      "style": 0,
+      "name": "うん　話というのは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093001_MSG0120",
+      "style": 0,
+      "name": "ああ[ST:wide ]―　その前に\nキミにはお礼を言わなくちゃね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093001_MSG0130",
+      "style": 0,
+      "name": "私の大切な可愛い妹[ST:wide ]―\nセリカ・クリカを助けてくれたんだってね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093001_MSG0140",
+      "style": 0,
+      "name": "本当に[ST:wide ]―　ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093001_MSG0150",
+      "style": 0,
+      "name": "わ　私がニール様の妹だなんて\nそんな　畏れ多いです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093001_MSG0160",
+      "style": 0,
+      "name": "え～　そうかな？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093001_MSG0170",
+      "style": 0,
+      "name": "私達は同じ人工子宮プラントで生まれたんだし\nクリュー人はみんな家族みたいなものでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093001_MSG0180",
+      "style": 0,
+      "name": "ですが　ニール様はクリューでも\n最高位の“託宣の巫女”であらせられます[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093001_MSG0190",
+      "style": 0,
+      "name": "私は巫女に仕える神官の家系ですから[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093001_MSG0200",
+      "style": 0,
+      "name": "こうして同道を許していただけるだけでも\n本来は名誉なことで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093001_MSG0210",
+      "style": 0,
+      "name": "あはは　なるほどね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093001_MSG0220",
+      "style": 0,
+      "name": "クリュー本星を離れて久しいけど\n厳格な教育プログラムは今も健在のようだ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093001_MSG0230",
+      "style": 0,
+      "name": "でも　堅苦しいのは苦手なんだ\nそういうのは他の巫女達に任せればいい[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093001_MSG0240",
+      "style": 0,
+      "name": "キミはキミらしく\n私と接してくれると嬉しいな[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev093001_MSG0250",
+      "style": 0,
+      "name": "ニール様[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093001_MSG0260",
+      "style": 0,
+      "name": "[ST:wide ]―っと　話が逸れたね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093001_MSG0270",
+      "style": 0,
+      "name": "続きはブレイドホームで話すよ\n実際にデータを見たほうが早いからね[ST:wait ]"
+    }
+  ]
+}

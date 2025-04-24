@@ -1,0 +1,564 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092004_MSG0080",
+      "style": 1,
+      "name": "자신한테 책임이 있으니까\n다른 유니언 일을 해서라도 돕겠다고?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092004_MSG0081",
+      "style": 1,
+      "name": "……흥\n여전히 착한 아이네, 아크세나[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092004_MSG0001",
+      "style": 0,
+      "name": "미카……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092004_MSG0002",
+      "style": 0,
+      "name": "어머 아크세나, 이런 곳에 무슨 일이야?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092004_MSG0003",
+      "style": 0,
+      "name": "너야말로, 왜 이런 곳에 있어?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092004_MSG0004",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092004_MSG0005",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092004_MSG0006",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092004_MSG0007",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092004_MSG0008",
+      "style": 0,
+      "name": "또 무기가 폭발했다면서?\n다치지는 않았어?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092004_MSG0009",
+      "style": 0,
+      "name": "응, 다행히도[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092004_MSG0010",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "qev092004_MSG0011",
+      "style": 0,
+      "name": "그래, 미카였구나……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092004_MSG0012",
+      "style": 0,
+      "name": "……미안해[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092004_MSG0013",
+      "style": 0,
+      "name": "조금 더 안전한 타이밍에\n터뜨릴 생각이었는데……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092004_MSG0014",
+      "style": 0,
+      "name": "들킬 것 같아서 허둥대다가, 실수했어……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092004_MSG0015",
+      "style": 0,
+      "name": "어째서 그런 짓을 한 거야?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092004_MSG0016",
+      "style": 0,
+      "name": "미우니까…… 그것 말고 뭐가 있겠어?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092004_MSG0017",
+      "style": 0,
+      "name": "캠버의 돌을 망가뜨린 일이라면\n몇 번이라도 사과할게[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092004_MSG0018",
+      "style": 0,
+      "name": "몇 번이라도 말이야, 정말로[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092004_MSG0019",
+      "style": 0,
+      "name": "……그런 점이 마음에 안 들어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092004_MSG0020",
+      "style": 0,
+      "name": "난 지구에 있었을 때부터 캠버의 친구였어[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092004_MSG0021",
+      "style": 0,
+      "name": "그런데 넌 이 별에 온 지 고작 2개월 만에\n캠버의 마음을 사로잡으려 하잖아[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092004_MSG0022",
+      "style": 0,
+      "name": "내가 음험한 겁쟁이인 게\n문제라는 건 알아, 하지만……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092004_MSG0023",
+      "style": 0,
+      "name": "적극적인 너를\n부러워하지 않을 리가 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092004_MSG0024",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092004_MSG0025",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092004_MSG0026",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "qev092004_MSG0027",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "qev092004_MSG0028",
+      "style": 0,
+      "name": "……저기, 질문이 하나 있는데\n미카는 왜 화가 난 거야?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092004_JNK0010",
+      "style": 4,
+      "name": "설명"
+    },
+    {
+      "$id": 32,
+      "label": "qev092004_SEL0011",
+      "style": 3,
+      "name": "캠버를 아크세나에게 빼앗길 것 같아\n불안한 거라고 대답한다"
+    },
+    {
+      "$id": 33,
+      "label": "qev092004_JNK0020",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 34,
+      "label": "qev092004_SEL0021",
+      "style": 3,
+      "name": "진심으로 하는 말이냐고 되묻는다"
+    },
+    {
+      "$id": 35,
+      "label": "qev092004_MSG0029",
+      "style": 0,
+      "name": "오오! 그렇구나!\n그래, 그렇단 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092004_MSG0030",
+      "style": 0,
+      "name": "미카 너 바보 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092004_MSG0031",
+      "style": 0,
+      "name": "너, 너 말이야……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092004_MSG0032",
+      "style": 0,
+      "name": "매일같이 캠버한테 와서\n잡담을 나누고는 했잖아[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092004_MSG0033",
+      "style": 0,
+      "name": "캠버도 싫지 않다는 듯이\n즐거워 보였고[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092004_MSG0034",
+      "style": 0,
+      "name": "게다가 캠버의 관심을 끌기 위해\n고생하며 수리용 소재를 모으면서[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092004_MSG0035",
+      "style": 0,
+      "name": "헌신적인 점까지 어필하고 말이야[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092004_MSG0036",
+      "style": 0,
+      "name": "그런데 이제 와서 시치미를 떼겠다고!?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092004_MSG0037",
+      "style": 0,
+      "name": "하아~ 계속 고민하던 게 바보 같아[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092004_MSG0038",
+      "style": 0,
+      "name": "그건 내가 할 말이야![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092004_MSG0039",
+      "style": 0,
+      "name": "어라…… 난 진심으로 한 말인데\n무슨 문제 있어?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092004_MSG0040",
+      "style": 0,
+      "name": "문제 있지! 아크세나, 너 생각보다 둔감하구나!?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092004_MSG0041",
+      "style": 0,
+      "name": "매일같이 캠버한테 와서\n잡담을 나누고는 했잖아[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092004_MSG0042",
+      "style": 0,
+      "name": "캠버도 싫지 않다는 듯이\n즐거워 보였고[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092004_MSG0043",
+      "style": 0,
+      "name": "게다가 캠버의 관심을 끌기 위해\n고생하며 수리용 소재를 모으면서[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092004_MSG0044",
+      "style": 0,
+      "name": "헌신적인 점까지 어필하고 말이야[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092004_MSG0045",
+      "style": 0,
+      "name": "아크세나 너\n캠버를 좋아하는 거잖아!?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092004_MSG0046",
+      "style": 0,
+      "name": "그런 얘기였구나~\n확실히 내가 둔감하기는 해……[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092004_MSG0047",
+      "style": 0,
+      "name": "캠버를 좋아한다는 걸, 인정하는 거지?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092004_MSG0048",
+      "style": 0,
+      "name": "……아니[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092004_MSG0049",
+      "style": 0,
+      "name": "미카, 난 돌을 정말 사랑해[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092004_MSG0050",
+      "style": 0,
+      "name": "뻔질나게 캠버를 찾아간 건\n캠버와 미카의 돌을 보고 싶어서였고[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092004_MSG0051",
+      "style": 0,
+      "name": "이번 일은 망가진 돌을 당장이라도\n수리해 주고 싶어서 도운 것뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092004_MSG0052",
+      "style": 0,
+      "name": "어…… 이유가 그게 다야?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092004_MSG0053",
+      "style": 0,
+      "name": "난 연인보다도 돌이 먼저야![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092004_MSG0054",
+      "style": 0,
+      "name": "너도 머리에 연애 생각만 가득한 미카에게\n뭐라고 한마디 해 줘[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092004_JNK0030",
+      "style": 4,
+      "name": "반성을 촉구한다"
+    },
+    {
+      "$id": 62,
+      "label": "qev092004_SEL0031",
+      "style": 3,
+      "name": "모든 원인은 미카에게 있다는 것을 지적하며\n반성을 촉구한다"
+    },
+    {
+      "$id": 63,
+      "label": "qev092004_JNK0040",
+      "style": 4,
+      "name": "동의한다"
+    },
+    {
+      "$id": 64,
+      "label": "qev092004_SEL0041",
+      "style": 3,
+      "name": "연인보다 돌이 먼저라는 생각에\n전적으로 동의한다"
+    },
+    {
+      "$id": 65,
+      "label": "qev092004_JNK0050",
+      "style": 4,
+      "name": "지적한다"
+    },
+    {
+      "$id": 66,
+      "label": "qev092004_SEL0051",
+      "style": 3,
+      "name": "아크세나야말로 머리에 돌 생각만\n가득하다고 지적한다"
+    },
+    {
+      "$id": 67,
+      "label": "qev092004_MSG0055",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev092004_MSG0056",
+      "style": 0,
+      "name": "내가 착각하고 있었던 거야……?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev092004_MSG0057",
+      "style": 0,
+      "name": "응[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev092004_MSG0058",
+      "style": 0,
+      "name": "아크세나, 미안해\n그리고 너한테도 폐를 끼쳤어[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092004_MSG0059",
+      "style": 0,
+      "name": "그렇게 신경 쓰지 않아도 돼\n큰 사고가 일어나지도 않았잖아[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092004_MSG0060",
+      "style": 0,
+      "name": "진심으로 반성할게……[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092004_MSG0061",
+      "style": 0,
+      "name": "오, 너도 이해해 주는구나~[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092004_MSG0062",
+      "style": 0,
+      "name": "돌은 그 어떤 것보다도 멋있어!\n그 손에 안기면 천국에 가는 기분일 거야![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092004_MSG0063",
+      "style": 0,
+      "name": "짓뭉개져서 저승에나 가겠지[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092004_MSG0064",
+      "style": 0,
+      "name": "……아무튼, 너희가\n돌 바보라는 건 잘 알았어[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092004_MSG0065",
+      "style": 0,
+      "name": "내가 착각에 빠져 멋대로 폭주했을 뿐인\n연애 바보라는 것도……[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092004_MSG0066",
+      "style": 0,
+      "name": "이번 일은 정말 미안해\n반성할게[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092004_MSG0067",
+      "style": 0,
+      "name": "뭐야, 너무하네![ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092004_MSG0068",
+      "style": 0,
+      "name": "물론 돌에 빠져서 망상할 때도 있기는 해[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092004_MSG0069",
+      "style": 0,
+      "name": "하지만 질투를 부리다 못해\n폭발물을 설치하는 사람이랑[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092004_MSG0070",
+      "style": 0,
+      "name": "돌을 사랑하는 사람을 비교하면\n내가 더 낫잖아?[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092004_MSG0071",
+      "style": 0,
+      "name": "하아……[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092004_MSG0072",
+      "style": 0,
+      "name": "……아무튼, 네가\n돌 바보라는 건 잘 알았어[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev092004_MSG0073",
+      "style": 0,
+      "name": "내가 착각에 빠져 멋대로 폭주했을 뿐인\n연애 바보라는 것도……[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev092004_MSG0074",
+      "style": 0,
+      "name": "이번 일은 정말 미안해\n반성할게[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev092004_MSG0075",
+      "style": 0,
+      "name": "반성한다면 사과의 의미로 날\n미카의 돌에 태워 주면 좋겠는데~[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev092004_MSG0076",
+      "style": 0,
+      "name": "……너무 쉽게 용서하는 거 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev092004_MSG0077",
+      "style": 0,
+      "name": "나는 그거면 충분해[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev092004_MSG0078",
+      "style": 0,
+      "name": "알았어\n하지만, 어디 망가뜨리지는 마[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev092004_MSG0079",
+      "style": 0,
+      "name": "네에~![ST:wait ]"
+    }
+  ]
+}

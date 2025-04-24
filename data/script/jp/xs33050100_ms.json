@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33050100_MSG0010",
+      "style": 0,
+      "name": "住人の避難は　他の隊員がやってくれる[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33050100_MSG0020",
+      "style": 0,
+      "name": "私達は\nＮＬＡ内のゴーストを排除していくわよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33050100_JNK0010",
+      "style": 4,
+      "name": "強気"
+    },
+    {
+      "$id": 4,
+      "label": "xs33050100_SEL0010",
+      "style": 3,
+      "name": "一人も死なせはしないと誓う"
+    },
+    {
+      "$id": 5,
+      "label": "xs33050100_MSG0030",
+      "style": 0,
+      "name": "ええっ　全員を連れていきましょう[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33050100_JNK0020",
+      "style": 4,
+      "name": "弱気"
+    },
+    {
+      "$id": 7,
+      "label": "xs33050100_SEL0020",
+      "style": 3,
+      "name": "敵の多さに怖気づく"
+    },
+    {
+      "$id": 8,
+      "label": "xs33050100_MSG0040",
+      "style": 0,
+      "name": "避難が最優先よ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33050100_MSG0050",
+      "style": 0,
+      "name": "無理して全部倒す必要はないわ[ST:wait ]"
+    }
+  ]
+}

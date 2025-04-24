@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091901_MSG0001",
+      "style": 0,
+      "name": "キミ！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091901_MSG0001_2",
+      "style": 0,
+      "name": "もしかして新兵器のテストに来てくれた人？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091901_MSG0002",
+      "style": 0,
+      "name": "うん　なかなかいい面構えね　期待できそう[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091901_MSG0003",
+      "style": 0,
+      "name": "あたしの名前はアクセナ\nアームズに所属してるの　よろしくね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091901_MSG0004",
+      "style": 0,
+      "name": "さあ　さっさと始めよっか　一秒でも早く\nドールの新兵器を試したいんだよね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091901_MSG0005",
+      "style": 0,
+      "name": "キミは強そうだし　いいデータが取れそう！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091901_JNK0010",
+      "style": 4,
+      "name": "質問する"
+    },
+    {
+      "$id": 8,
+      "label": "qev091901_SEL0011",
+      "style": 3,
+      "name": "自分は何をすればいいのか質問する"
+    },
+    {
+      "$id": 9,
+      "label": "qev091901_JNK0020",
+      "style": 4,
+      "name": "心配する"
+    },
+    {
+      "$id": 10,
+      "label": "qev091901_SEL0021",
+      "style": 3,
+      "name": "もしかしてドールを相手に\nしなければならないのかと心配する"
+    },
+    {
+      "$id": 11,
+      "label": "qev091901_MSG0006",
+      "style": 0,
+      "name": "ごめんね　もっと丁寧に説明すべきだったよね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091901_MSG0007",
+      "style": 0,
+      "name": "あたしはアームズだから\nドールの新兵器のテストがお仕事[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091901_MSG0008",
+      "style": 0,
+      "name": "テストのデータを取るためには\n実験台が必要だよね？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091901_MSG0009",
+      "style": 0,
+      "name": "つまるところ\nキミはその実験台になってほしいの[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091901_MSG0010",
+      "style": 0,
+      "name": "もちろん反撃してもいいんだよ\nその方があたしも燃え上がるからね！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091901_MSG0011",
+      "style": 0,
+      "name": "え？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091901_MSG0012",
+      "style": 0,
+      "name": "もしかしてイヤだったりする？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091901_MSG0013",
+      "style": 0,
+      "name": "ダイジョーブ！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091901_MSG0014",
+      "style": 0,
+      "name": "一方的にアサルトライフルの銃弾を食らう\n必要はなくて　反撃してもいいんだよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091901_MSG0015",
+      "style": 0,
+      "name": "その方が実戦に近いし　いいデータが取れる\nそれにあたしも燃え上がるからね！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091901_MSG0016",
+      "style": 0,
+      "name": "今度こそ始めよっか[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091901_MSG0017",
+      "style": 0,
+      "name": "遠慮せず本気で掛かって来て！\nあたしのドールはハンパないよ！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091901_MSG0018",
+      "style": 0,
+      "name": "ああぁぁぁぁぁ～～[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091901_MSG0019",
+      "style": 0,
+      "name": "キミ　本当に強いね\nあたしのドールに勝っちゃうなんて[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091901_MSG0020",
+      "style": 0,
+      "name": "あたしのドール[ST:wide ]―　じゃないでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091901_MSG0021",
+      "style": 0,
+      "name": "サクラバ・インダストリーから\nテスト用に提供されてるものなんだからさ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091901_MSG0022",
+      "style": 0,
+      "name": "ティカ！　見てた見てた？\nこの人かなり強いよ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091901_MSG0023",
+      "style": 0,
+      "name": "あのね　見てたに決まってるでしょう\n私はその武器の開発主任なんだよ？[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091901_MSG0024",
+      "style": 0,
+      "name": "テストデータはどうだった？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091901_MSG0025",
+      "style": 0,
+      "name": "最高のが取れたわ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091901_MSG0026",
+      "style": 0,
+      "name": "もっとも　誰かさんのおかげでクライアントの\n大事なドールを修理に出すハメになったけど[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091901_MSG0027",
+      "style": 0,
+      "name": "まあ　おつりがくる成果ではあったわね[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091901_MSG0028",
+      "style": 0,
+      "name": "ドール壊したのはあたしのせいじゃないし\nテストだから仕方ないし[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091901_MSG0029",
+      "style": 0,
+      "name": "反撃してもいいって言ってたの聞いてたわよ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091901_MSG0030",
+      "style": 0,
+      "name": "～♪[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091901_MSG0031",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091901_MSG0032",
+      "style": 0,
+      "name": "アナタ逸材ね[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091901_MSG0033",
+      "style": 0,
+      "name": "よかったら　アクセナの代わりに\n次のテストを引き受けてくれない？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091901_JNK0030",
+      "style": 4,
+      "name": "肯定する"
+    },
+    {
+      "$id": 40,
+      "label": "qev091901_SEL0031",
+      "style": 3,
+      "name": "依頼を引き受ける"
+    },
+    {
+      "$id": 41,
+      "label": "qev091901_JNK0040",
+      "style": 4,
+      "name": "悩む"
+    },
+    {
+      "$id": 42,
+      "label": "qev091901_SEL0041",
+      "style": 3,
+      "name": "少し検討させてほしいとお願いする"
+    },
+    {
+      "$id": 43,
+      "label": "qev091901_JNK0050",
+      "style": 4,
+      "name": "否定する"
+    },
+    {
+      "$id": 44,
+      "label": "qev091901_SEL0051",
+      "style": 3,
+      "name": "依頼を断ることにする"
+    },
+    {
+      "$id": 45,
+      "label": "qev091901_MSG0034",
+      "style": 0,
+      "name": "待ってよ！　あたしも行く！[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091901_MSG0035",
+      "style": 0,
+      "name": "強い人の隣にいるとあたしも勉強できるし\nドールの操縦もうまくなるかもしれないもんね[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091901_MSG0036",
+      "style": 0,
+      "name": "じゃあ　あたしが行く！\nもちろん　キミも一緒だけどね？[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091901_MSG0037",
+      "style": 0,
+      "name": "強い人の隣にいるとあたしも勉強できるし\nドールの操縦もうまくなるかもしれないもんね[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091901_MSG0038",
+      "style": 0,
+      "name": "断られちゃったか[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091901_MSG0039",
+      "style": 0,
+      "name": "それじゃ　やっぱりアクセナに\n頑張ってもらうしかないか[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091901_MSG0040",
+      "style": 0,
+      "name": "えー？　キミも一緒に行くべきだよ！[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091901_MSG0041",
+      "style": 0,
+      "name": "あたし　強くなってドールの操縦も\nうまくなりたいから　強い人のそばにいたいの[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091901_MSG0042",
+      "style": 0,
+      "name": "じゃあ　決まりね[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091901_MSG0043",
+      "style": 0,
+      "name": "頼みたいのはラムジェットの評価テストよ[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091901_MSG0044",
+      "style": 0,
+      "name": "使用実績をためたいから\n原生生物を討伐して来て欲しいの[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091901_MSG0045",
+      "style": 0,
+      "name": "それって　ドールウェポン！？[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091901_MSG0046",
+      "style": 0,
+      "name": "残念　インナーウェポンよ\nやる気なくした？[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091901_MSG0047",
+      "style": 0,
+      "name": "ううん　やるよ[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091901_MSG0048",
+      "style": 0,
+      "name": "確かにドールウェポンのテストなら\nすっごく燃えたんだけどね[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091901_MSG0049",
+      "style": 0,
+      "name": "でもまあ　この地味な一歩が明日に繋がる\nそう信じて頑張るよ[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091901_MSG0050",
+      "style": 0,
+      "name": "大げさねぇ[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091901_MSG0051",
+      "style": 0,
+      "name": "じゃ　ラムジェットのテストと[ST:wide ]―\nついでに　アクセナのこともよろしくね[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091901_MSG0052",
+      "style": 0,
+      "name": "期待してるわ　新米テスター君！[ST:wait ]"
+    }
+  ]
+}

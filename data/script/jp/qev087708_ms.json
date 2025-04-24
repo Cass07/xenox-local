@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087708_MSG0001",
+      "style": 1,
+      "name": "デルグ殿下は　我々のドールが保管されている\n格納庫へと向かわれました！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087708_MSG0002",
+      "style": 1,
+      "name": "どうか　私などは捨て置いて\n早く殿下の救援に！[ST:wait ]"
+    }
+  ]
+}

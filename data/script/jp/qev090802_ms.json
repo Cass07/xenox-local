@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090802_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―クッ　[ST:wide ]―アア[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090802_MSG0002",
+      "style": 0,
+      "name": "[ST:wide ]―誰か　助けても[ST:wide ]―　ボーギャクオーは\nまだ[ST:wide ]―　まだハラペコ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090802_MSG0003",
+      "style": 0,
+      "name": "ドドンガ・キャラバンを[ST:wide ]―　襲いに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090802_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―ウアッ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090802_MSG0005",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090802_MSG0006",
+      "style": 0,
+      "name": "もう息が[ST:wide ]―　ないですね\n一人も助けられなかったか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090802_MSG0007",
+      "style": 0,
+      "name": "[ST:wide ]―急ぎましょう　ドドンガ・キャラバンへ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090802_MSG0008",
+      "style": 0,
+      "name": "もうこれ以上　彼らのようなか弱き命を\n奪われてなるものですか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090802_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 10,
+      "label": "qev090802_SEL0011",
+      "style": 3,
+      "name": "HBの怒りに同調する"
+    },
+    {
+      "$id": 11,
+      "label": "qev090802_JNK0020",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 12,
+      "label": "qev090802_SEL0021",
+      "style": 3,
+      "name": "熱くなっているHBに\nその理由を聞く"
+    },
+    {
+      "$id": 13,
+      "label": "qev090802_MSG0009",
+      "style": 0,
+      "name": "なんだか　感情的になってしまって[ST:wide ]―\nこんなの僕らしくないですね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090802_MSG0010",
+      "style": 0,
+      "name": "君に影響されてしまったのかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090802_MSG0011",
+      "style": 0,
+      "name": "僕だっていつも\n誰一人として犠牲なんかだしたくはないですよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090802_MSG0012",
+      "style": 0,
+      "name": "ただ　現実にはそうはいかない[ST:wide ]―\nだから　心を凍らせて判断するしかない[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090802_MSG0013",
+      "style": 0,
+      "name": "だけど今は　君しかいないから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090802_MSG0014",
+      "style": 0,
+      "name": "[ST:wide ]―いけないですね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090802_MSG0015",
+      "style": 0,
+      "name": "ドドンガ・キャラバンへ向かった\n暴虐王を追う間に　いつもの僕に戻ります[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090802_MSG0016",
+      "style": 0,
+      "name": "それでいつも通りパーフェクトに\n任務を片付けるとしましょう[ST:wait ]"
+    }
+  ]
+}

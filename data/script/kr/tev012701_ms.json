@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev012701_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev012701_SEL0011",
+      "style": 3,
+      "name": "흰고래의 크루에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev012701_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev012701_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev012701_MSG0001",
+      "style": 1,
+      "name": "흰고래의 승무원은\n험난한 우주 항행을 이겨 내기 위해\n다양한 전문가로 구성되었어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev012701_MSG0003",
+      "style": 1,
+      "name": "나도 지금은 시인을 자칭하며 떠돌 뿐이지만\n이래 보여도 우주선 조종 기술은\n누구에게도 지지 않아[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev012701_MSG0004",
+      "style": 1,
+      "name": "그래, 이 도시 사람들은\n블레이드가 아닌 사람도 각자\n무언가 뛰어난 기술이 있고[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev012701_MSG0005",
+      "style": 1,
+      "name": "적재적소에 배치되어 NLA에서\n맡은 바 역할을 다하고 있는 거야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev012701_MSG0006",
+      "style": 1,
+      "name": "……뭐, 나처럼 그 역할에서\n삐져나와 버린 특이한 사람도\n가끔 있기는 하지만[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev012701_MSG0009",
+      "style": 1,
+      "name": "너, 블레이드야? 나도 얼마 전까지는\n너랑 같은 일을 하고 있었어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev012701_MSG0010",
+      "style": 1,
+      "name": "……사정이 있어서 지금은 블레이드를 나와\n음, 이렇게 인기 없는 시를 팔면서\n하루하루를 보내고 있지만 말이지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev012701_MSG0011",
+      "style": 1,
+      "name": "어때? 내 시집 『셀레스트 스리』를\n사 볼 생각 없어?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev012701_MSG0012",
+      "style": 1,
+      "name": "내가 미라에서 얻은 영감을 응축한\n황금 같은 단어들……\n분명 마음에 들 거야[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs07060100_MSG0001",
+      "style": 0,
+      "name": "グインさん[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs07060100_MSG0002",
+      "style": 0,
+      "name": "リンちゃん　もう来たの？\nあれだけの大群だったのに？[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs07060100_MSG0003",
+      "style": 0,
+      "name": "タツのチームをなめないでほしいですも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs07060100_MSG0004",
+      "style": 0,
+      "name": "あんなやつら朝飯まえですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs07060100_MSG0005",
+      "style": 0,
+      "name": "朝飯にしちゃうよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs07060100_MSG0005_01",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "xs07060100_MSG0006",
+      "style": 0,
+      "name": "エルマ大佐\n来援　ありがとうございました[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs07060100_MSG0007",
+      "style": 0,
+      "name": "お互い様よ\nそれよりもイリーナとマーカスは？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs07060100_MSG0008",
+      "style": 0,
+      "name": "あそこのライフの近くにいますけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs07060100_MSG0009",
+      "style": 0,
+      "name": "ここにいるのはあなた達だけ？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs07060100_MSG0010",
+      "style": 0,
+      "name": "そうですけど[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs07060100_MSG0011",
+      "style": 0,
+      "name": "おかしいわね\n主力は別にいると思っていたけど[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs07060100_MSG0012",
+      "style": 0,
+      "name": "まさか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs07060100_MSG0013",
+      "style": 0,
+      "name": "イリーナ　マーカス\n逃げて！！[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs07060100_MSG0014",
+      "style": 0,
+      "name": "えっ！？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs07060100_MSG0015",
+      "style": 0,
+      "name": "マーカス！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs07060100_MSG0016",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs07060100_MSG0041",
+      "style": 0,
+      "name": "あ～ら　残念\n原始種族はカンが鋭いのかしら[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs07060100_MSG0042",
+      "style": 0,
+      "name": "その声　夜光の森の時の！[ST:wait ]\n"
+    },
+    {
+      "$id": 20,
+      "label": "xs07060100_MSG0043",
+      "style": 0,
+      "name": "主力は別にいると思っていたけど　案の定ね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs07060100_MSG0044",
+      "style": 0,
+      "name": "なぁるほど　まあいいわ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs07060100_MSG0045",
+      "style": 0,
+      "name": "貴様らはこの機体で\n踏みつぶしてやればよいのだから[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs07060100_MSG0046",
+      "style": 0,
+      "name": "私達を罠にはめるためにライフを[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "xs07060100_MSG0047",
+      "style": 0,
+      "name": "罠ってのとはちょーっと違うわね[ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "xs07060100_MSG0048",
+      "style": 0,
+      "name": "あたしの目的は　それその顔[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs07060100_MSG0049",
+      "style": 0,
+      "name": "そんな風に絶望にゆがんだ\n地球人の顔を見たいがためさね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs07060100_MSG0050",
+      "style": 0,
+      "name": "目障りだからねぇ　地球人は[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs07060100_MSG0051",
+      "style": 0,
+      "name": "もっともぉ　本当に目障りなのは\n生身の地球人なんだけど[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs07060100_MSG0052",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "xs07060100_MSG0053",
+      "style": 0,
+      "name": "ま　貴様らみたいな作り物の機械人形でもね\nついでにぶち壊してやったら楽しいからね[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs07060100_MSG0054",
+      "style": 0,
+      "name": "それだけさ！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs07060100_MSG0055",
+      "style": 0,
+      "name": "あんた　[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]のこともライフのことも[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs07060100_MSG0056",
+      "style": 0,
+      "name": "知ってるさ\nちょいと事情通がいるんでねぇ[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs07060100_MSG0057",
+      "style": 0,
+      "name": "だから地球人が焦る理由も分かってるんだよ[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs07060100_MSG0058",
+      "style": 0,
+      "name": "稼働時間にリミットがあるんだろう？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs07060100_MSG0059",
+      "style": 0,
+      "name": "ライフとやらの稼働限界[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs07060100_MSG0060",
+      "style": 0,
+      "name": "そいつを待てば貴様らは\n皆　動けなくなってしまうわけだ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs07060100_MSG0061",
+      "style": 0,
+      "name": "本当はそれを待ってもいいんだけどねぇ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs07060100_MSG0062",
+      "style": 0,
+      "name": "でも　地球人の目の前で\nそいつをぶち壊してやるのも楽し[ST:wide ]―ッ！[ST:wait ]\n"
+    },
+    {
+      "$id": 40,
+      "label": "xs07060100_MSG0063",
+      "style": 0,
+      "name": "黙りなさい　サマールの蛮族よ[ST:wait ]\n"
+    },
+    {
+      "$id": 41,
+      "label": "xs07060100_MSG0064",
+      "style": 0,
+      "name": "あなた達の傲慢さが\n宇宙に多くの悲劇を起こすこととなった[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs07060100_MSG0065",
+      "style": 0,
+      "name": "あの悲劇を　もう繰り返させはしない[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs07060100_MSG0066",
+      "style": 0,
+      "name": "あんた　地球人のくせに\n何を知ってるっていうのさ？[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs07060100_MSG0067",
+      "style": 0,
+      "name": "あいつを斃す[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs07060100_MSG0068",
+      "style": 0,
+      "name": "イリーナチームは周りのドールを[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "xs07060100_MSG0069",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    }
+  ]
+}

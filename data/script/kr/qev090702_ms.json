@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090702_MSG0001",
+      "style": 0,
+      "name": "……이제야 돌아왔군요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090702_MSG0002",
+      "style": 0,
+      "name": "물론, 아직 임무를 마치지는 못했을 테지만\n최우선으로 해결해야 하는 문제가 발생했거든요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090702_MSG0003",
+      "style": 0,
+      "name": "경쟁은 연기해 드릴까 해서\n기다리고 있었습니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090702_JNK0010",
+      "style": 4,
+      "name": "보고"
+    },
+    {
+      "$id": 5,
+      "label": "qev090702_SEL0011",
+      "style": 3,
+      "name": "임무를 전부 달성했다고 전한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev090702_JNK0020",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 7,
+      "label": "qev090702_SEL0021",
+      "style": 3,
+      "name": "HB가 떠안고 있는\n문제에 관해 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "qev090702_MSG0004",
+      "style": 0,
+      "name": "설마…… 벌써 모든 임무를……!?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090702_MSG0005",
+      "style": 0,
+      "name": "아니, 저야 당연히\n모든 임무를 완료했으니[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090702_MSG0006",
+      "style": 0,
+      "name": "그렇게 놀랄 일도 아니기는 하지만요……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090702_MSG0007",
+      "style": 0,
+      "name": "……그렇군요\n제가 당신을 과소평가한 모양입니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090702_MSG0008",
+      "style": 0,
+      "name": "이건 아주 중요한 임무라서 그런 시시한 임무에\n애먹는 사람에게는 말할 수 없어요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090702_MSG0009",
+      "style": 0,
+      "name": "아니…… 잠깐만 기다려 주세요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090702_MSG0010",
+      "style": 0,
+      "name": "임무가 3개 모두 완료됐다니……?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090702_MSG0011",
+      "style": 0,
+      "name": "그렇군요\n당신은 저 다음가는 실력자 같네요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090702_MSG0012",
+      "style": 0,
+      "name": "저는 당신보다도 빠르게\n3개의 임무를 마쳤으니까요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090702_MSG0013",
+      "style": 0,
+      "name": "……하지만\n아무래도 제가 당신을 과소평가한 모양입니다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090702_MSG0014",
+      "style": 0,
+      "name": "당신에게도 이 임무를\n알려 드리는 편이 좋을 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090702_MSG0015",
+      "style": 0,
+      "name": "어떤 동굴에서 원시 생물의 습격을 받아\n옴짝달싹 못 하는 사람이 있어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090702_MSG0016",
+      "style": 0,
+      "name": "그는 매우 유능한 학자거든요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090702_MSG0016_02",
+      "style": 0,
+      "name": "여기서 잃기에는 아까운 인재죠……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090702_MSG0017",
+      "style": 0,
+      "name": "알겠나요?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090702_MSG0017_2",
+      "style": 0,
+      "name": "이건 NLA의 과학 발전이 걸린\n촌각을 다투는 사태예요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090702_MSG0018",
+      "style": 0,
+      "name": "그러니 서로 힘을 합쳐\n이 구출 임무에 나서는 게 어떨까요?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090702_MSG0019",
+      "style": 0,
+      "name": "당신 수준의 힘이 있다면\n분명 거치적거리지는 않을 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090702_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 27,
+      "label": "qev090702_SEL0031",
+      "style": 3,
+      "name": "HB의 요청을 받아들인다"
+    },
+    {
+      "$id": 28,
+      "label": "qev090702_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 29,
+      "label": "qev090702_SEL0041",
+      "style": 3,
+      "name": "HB의 요청을 거절한다"
+    },
+    {
+      "$id": 30,
+      "label": "qev090702_MSG0020",
+      "style": 0,
+      "name": "좋은 대답입니다\n그러면 한시라도 빨리 출발하죠![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090702_MSG0021",
+      "style": 0,
+      "name": "설마 자존심 때문에 그러는 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090702_MSG0022",
+      "style": 0,
+      "name": "그런 사사로운 감정은 얼른 버리세요\n한시라도 빨리 출발하자고요![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090702_MSG0023",
+      "style": 0,
+      "name": "당신의 실력은 기대하고 있으니……\n실망하게 만들지 말아 주세요[ST:wait ]"
+    }
+  ]
+}

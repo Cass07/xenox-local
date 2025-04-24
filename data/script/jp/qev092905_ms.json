@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092905_MSG0010",
+      "style": 0,
+      "name": "これは[ST:wide ]―　やっぱりね\nなんとなく　そんな気はしてたけど[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092905_MSG0020",
+      "style": 0,
+      "name": "でも　どうしてこんな\n外宇宙の辺境みたいな場所に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092905_MSG0030",
+      "style": 0,
+      "name": "ああ　ごめんね\nキミにもちゃんと説明しなきゃだよね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092905_MSG0040",
+      "style": 0,
+      "name": "まず　あの巨大リング構造体の正体は[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092905_MSG0045",
+      "style": 0,
+      "name": "惑星の環境改変システム[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092905_MSG0050",
+      "style": 0,
+      "name": "いわゆるテラフォーミング装置だね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092905_MSG0060",
+      "style": 0,
+      "name": "でも　それより重要なのは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092905_MSG0070",
+      "style": 0,
+      "name": "あの巨大リングには\nクリュー星系の技術が使われているってこと[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092905_MSG0080",
+      "style": 0,
+      "name": "クリューの技術は　宇宙最古の文明[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092905_MSG0085",
+      "style": 0,
+      "name": "“古代サマール”の影響を強く受けていてね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092905_MSG0090",
+      "style": 0,
+      "name": "その恩恵は　古代サマールへの信仰を生み\nクリューは数千年にわたって隆盛を極めた[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092905_MSG0100",
+      "style": 0,
+      "name": "私達の祖は　この素晴らしい信仰を広めるべく\n他の文明にも布教した　クリューの技術と共に[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092905_MSG0110",
+      "style": 0,
+      "name": "この巨大なリングを造った異星文明は\nそうした布教先の一つだったんだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092905_MSG0120",
+      "style": 0,
+      "name": "もっとも　この荒れ果てた大地の惨状を見るに[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092905_MSG0125",
+      "style": 0,
+      "name": "技術は正しく使われなかったようだけど[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092905_MSG0130",
+      "style": 0,
+      "name": "命を生かすために与えた技術を\nよもや兵器に転用されるとはね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092905_JNK0140",
+      "style": 4,
+      "name": "親身"
+    },
+    {
+      "$id": 18,
+      "label": "qev092905_SEL0150",
+      "style": 3,
+      "name": "慰めの言葉をかける"
+    },
+    {
+      "$id": 19,
+      "label": "qev092905_MSG0160",
+      "style": 0,
+      "name": "ふふ　キミは優しいね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092905_MSG0170",
+      "style": 0,
+      "name": "クリューの技術も\nキミのような人の手に渡れば[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092905_MSG0180",
+      "style": 0,
+      "name": "こんな結果にはならなかっただろうにね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092905_JNK0190",
+      "style": 4,
+      "name": "冷徹"
+    },
+    {
+      "$id": 23,
+      "label": "qev092905_SEL0200",
+      "style": 3,
+      "name": "現実は非情なものだと伝える"
+    },
+    {
+      "$id": 24,
+      "label": "qev092905_MSG0210",
+      "style": 0,
+      "name": "そう　当時のクリューは\n宇宙は善意で満ちていると信じ切っていた[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092905_MSG0220",
+      "style": 0,
+      "name": "それが過ちだと気づいてからは\nクリューはすっかり閉鎖的になってしまった[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092905_MSG0230",
+      "style": 0,
+      "name": "以来　技術も信仰も門外不出となり\n厳格な管理社会が誕生したのでした[ST:wide ]―　とさ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092905_MSG0240",
+      "style": 0,
+      "name": "私が遺跡調査をしているのは[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092905_MSG0250",
+      "style": 0,
+      "name": "祖が伝播した技術の形跡を見つけ出して\n適切な処置を施すためなんだ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092905_MSG0260",
+      "style": 0,
+      "name": "まだ機能している遺跡なら保全に努め[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092905_MSG0265",
+      "style": 0,
+      "name": "悪用されているなら[ST:wide ]―　すみやかに破壊する[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092905_MSG0270",
+      "style": 0,
+      "name": "でもまあ　このリングは\n完全に機能を停止しているみたいだね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092905_MSG0280",
+      "style": 0,
+      "name": "それがわかっただけでも安心だ[ST:wait ]"
+    }
+  ]
+}

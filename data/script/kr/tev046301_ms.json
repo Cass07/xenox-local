@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev046301_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev046301_SEL0011",
+      "style": 3,
+      "name": "NLA에서의 생활에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev046301_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev046301_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev046301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev046301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev046301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev046301_SEL0031",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev046301_MSG0001",
+      "style": 1,
+      "name": "여기서 여자들끼리 같이 살기로 했는데에[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev046301_MSG0002",
+      "style": 1,
+      "name": "남자들의 눈을 신경 쓰지 않고\n춤추고 싶을 때 언제나 춤출 수 있어서 최고야아![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev046301_MSG0003",
+      "style": 1,
+      "name": "루시아와 찬티에게도\n내 스텝을 가르쳐 줬어어\n루시아는 소질이 있어! 함께 춤추면 즐거워![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev046301_MSG0004",
+      "style": 1,
+      "name": "찬티는 부드러움이 부족해애\n부서지기 직전의 베르데 같았어어……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev046301_MSG0007",
+      "style": 1,
+      "name": "거목의 일족 최고의 무희\n테아 비라츠가 말이지이[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev046301_MSG0008",
+      "style": 1,
+      "name": "이 도시에 올 때 무슨 일이 있었는지\n춤추는 걸 그만뒀다는 것 같아아……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev046301_MSG0009",
+      "style": 1,
+      "name": "모처럼 그로우스에게서 해방돼서\n자유롭게 춤출 수 있게 됐는데……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev046301_MSG0010",
+      "style": 1,
+      "name": "매우 유감이야아……\n또 그 격렬한 전사의 춤을 보고 싶다아[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev046301_MSG0025",
+      "style": 1,
+      "name": "부활한 테아가 추는 전사의 춤을\n다이너에서 봤는데 말이지이![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev046301_MSG0026",
+      "style": 1,
+      "name": "역시 대단했어어!\n나도 춤을 좋아하지만 격이 달라[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev046301_MSG0027",
+      "style": 1,
+      "name": "보고만 있어도 기운이 나서\n당장이라도 싸우고 싶은 기분이 들어[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev046301_MSG0028",
+      "style": 1,
+      "name": "그녀가 있으면 결전의 때가 닥쳐왔을 때\n블레이드도 바이어스인도 모두 춤으로\n용기를 불어넣어 전장으로 보낼 수 있어어![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev046301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev046301_SEL1011",
+      "style": 3,
+      "name": "NLA에서의 생활에 관해 묻는다"
+    },
+    {
+      "$id": 23,
+      "label": "tev046301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev046301_SEL1031",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 25,
+      "label": "tev046301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev046301_SEL1011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev046301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev046301_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev046301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev046301_SEL1011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev046301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev046301_SEL1031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev046301_MSG0029",
+      "style": 1,
+      "name": "루시아와 찬티에게 바이어스의 춤을\n가르쳐 주고 있어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev046301_MSG0030",
+      "style": 1,
+      "name": "루시아는 꽤 소질이 있어어!\n누구에게 보여 줘도 부끄럽지 않을 정도……지만[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev046301_MSG0031",
+      "style": 1,
+      "name": "찬티의 춤은\n부서지기 직전의 베르데 같아서…… 무서워어[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev046301_MSG0032",
+      "style": 1,
+      "name": "푸라라가 찬티의 춤을 볼 때마다\n웃다가 수영장에 떨어지곤 해애[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev046301_MSG0033",
+      "style": 1,
+      "name": "……이렇게 즐거운 나날\n그로우스에 있을 때는 상상도 못 했어어[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev046301_MSG0036",
+      "style": 1,
+      "name": "당신과 엘리트 씨 덕분에\n푸라라도 완전히 기운을 차렸고[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev046301_MSG0037",
+      "style": 1,
+      "name": "포학왕에게 살해당한 많은 동료도\n편히 잠들 거야아![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev046301_MSG0038",
+      "style": 1,
+      "name": "다음에 또 무슨 일이 있으면 꼭 도와줘어\n[ST:playername ] 씨![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev046301_MSG0040",
+      "style": 1,
+      "name": "……그리고 엘리트 씨![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev046301_MSG0041",
+      "style": 1,
+      "name": "후훗, 맡겨만 주세요\n저에게 걸리면 그런 녀석들의 토벌 정도는[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev046301_MSG0042",
+      "style": 1,
+      "name": "땅에 기어다니는 벌레를 밟는 것처럼\n간단한 일이니까요[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev046301_MSG0043",
+      "style": 1,
+      "name": "말투는 이상하지만 듬직하네에\n엘리트 씨, 정말로 좋은 사람이야아![ST:wait ]"
+    }
+  ]
+}

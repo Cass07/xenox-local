@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev075403_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]!\n이것들은 대체……![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev075403_MSG0002",
+      "style": 1,
+      "name": "……뭐라고?\n이상한 지구인이 이 녀석들을 부려서\n공격했다고?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev075403_MSG0003",
+      "style": 1,
+      "name": "그런가…… 하지만 도망쳐 봤자\n이 앞은 막다른 곳이야\n그리 멀리 도망가지는 못했을 거야![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev075403_MSG0004",
+      "style": 1,
+      "name": "반드시 잡아 주겠어!\n빼앗긴 할아버지의 칼을 되찾는 거야![ST:wait ]"
+    }
+  ]
+}

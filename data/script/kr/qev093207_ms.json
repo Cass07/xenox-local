@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093207_MSG0010",
+      "style": 1,
+      "name": "그러니까…… 필요한 토핑 재료는 전부\n망각의 계곡에서 얻을 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093207_MSG0020",
+      "style": 1,
+      "name": "\"향기로운 시누유니 마늘\"은\n토르호그네 평원 근처에 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093207_MSG0030",
+      "style": 1,
+      "name": "\"싱싱한 윌 피망\"은\n노스 코스트……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093207_MSG0040",
+      "style": 1,
+      "name": "\"신선한 도보보라 브로콜리\"는\n부유 암초에 있죠[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093207_MSG0050",
+      "style": 1,
+      "name": "저 같은 일반인은 도저히\n갈 수 없는 곳이라서……\n죄송하지만 잘 부탁드립니다[ST:wait ]"
+    }
+  ]
+}

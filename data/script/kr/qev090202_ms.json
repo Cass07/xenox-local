@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090202_MSG0001",
+      "style": 0,
+      "name": "……그렇군\n망각의 계곡에 있는 흰고래의 잔해라……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090202_MSG0002",
+      "style": 0,
+      "name": "내가 아는 한, 테스터먼트 중에서\n그쪽에 간 녀석은 없어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090202_MSG0003",
+      "style": 0,
+      "name": "분명 아무도 찾아낸 적 없는\n굉장한 게 묻혀 있을 거야![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090202_MSG0004",
+      "style": 0,
+      "name": "재미있겠는데!\n한번 가 보자고![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090202_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 6,
+      "label": "qev090202_SEL0011",
+      "style": 3,
+      "name": "어서 가자며 활기차게 끄덕인다"
+    },
+    {
+      "$id": 7,
+      "label": "qev090202_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 8,
+      "label": "qev090202_SEL0021",
+      "style": 3,
+      "name": "해야 하는 다른 임무가\n있는 건 아니냐고 말한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev090202_MSG0005",
+      "style": 0,
+      "name": "그렇게 나와야지![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090202_MSG0006",
+      "style": 0,
+      "name": "내가 하고 싶은 일이 해야 하는 일이야![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090202_MSG0007",
+      "style": 0,
+      "name": "제발 파트너, 슬슬 내 성격\n이해할 때 됐잖아?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090202_MSG0008",
+      "style": 0,
+      "name": "……좋아!\n그러면 어서 망각의 계곡을 향해 출발하자![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090202_MSG0009",
+      "style": 0,
+      "name": "……호오\n대량 발생한 원시 생물 토벌 임무라……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090202_MSG0010",
+      "style": 0,
+      "name": "그 기분 나쁜 것들이 잔뜩 있다니\n물론 흔치 않은 일이지만 불쾌한 장면이겠네[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090202_MSG0011",
+      "style": 0,
+      "name": "영 탐탁지 않지만 기왕 들었으니, 가 볼까?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090202_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 17,
+      "label": "qev090202_SEL0031",
+      "style": 3,
+      "name": "블레이드 활동에 필요한\n임무라며 재촉한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev090202_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 19,
+      "label": "qev090202_SEL0041",
+      "style": 3,
+      "name": "굳이 우리가 해야 할 일은\n아니라고 말한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev090202_MSG0012",
+      "style": 0,
+      "name": "알았어, 알았다고!\n여전히 착실한 녀석이구나, 너는![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090202_MSG0012_m",
+      "style": 0,
+      "name": "알았어, 알았다고!\n여전히 착실한 녀석이구나, 너는![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090202_MSG0012_f",
+      "style": 0,
+      "name": "알았어, 알았다고!\n여전히 착실한 녀석이구나, 너는![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090202_MSG0013",
+      "style": 0,
+      "name": "그러면 얼른 갈까……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090202_MSG0014",
+      "style": 0,
+      "name": "나도 동감이야![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090202_MSG0015",
+      "style": 0,
+      "name": "……하지만 이런 임무라도\n해결하면 푼돈은 들어오니까[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090202_MSG0016",
+      "style": 0,
+      "name": "얼른 끝내 버리자고[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090202_MSG0017",
+      "style": 0,
+      "name": "아…… 맞다, 기억해 둬[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090202_MSG0018",
+      "style": 0,
+      "name": "벌레 녀석들을 어느 정도 쓰러뜨리면\n엘레오노라한테 보고하러 갈 거야[ST:wait ]"
+    }
+  ]
+}

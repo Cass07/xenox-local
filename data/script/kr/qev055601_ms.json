@@ -1,0 +1,450 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055601_MSG0001",
+      "style": 1,
+      "name": "음…… 이건 곤란한 상황이라고 할 수 있어\n어떻게 하면 좋을까……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055601_MSG0002",
+      "style": 1,
+      "name": "좀처럼 이해할 수 없는 행동을 하는 개체야……\n일부러 위험한 지대로 향하다니……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055601_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 4,
+      "label": "qev055601_SEL0011",
+      "style": 3,
+      "name": "무슨 일인지 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "qev055601_JNK0020",
+      "style": 4,
+      "name": "위로"
+    },
+    {
+      "$id": 6,
+      "label": "qev055601_SEL0021",
+      "style": 3,
+      "name": "걱정거리가 있다면 이야기해 달라고 말한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev055601_MSG0003",
+      "style": 1,
+      "name": "저의 분열체 넨오살라그가\nNLA를 뛰쳐나가 버렸어요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev055601_MSG0004",
+      "style": 1,
+      "name": "야광의 숲으로 간 모양인데[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev055601_MSG0005",
+      "style": 1,
+      "name": "어째서 그런 생물이 있는 지대에\n가는 건지 전혀 이해할 수가 없어요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev055601_MSG0006",
+      "style": 1,
+      "name": "다만 어째서인지\n내버려둘 수 없다는 느낌이 들어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev055601_MSG0007",
+      "style": 1,
+      "name": "그렇군요, 이 이해할 수 없는 심리 상태를\n지구인은 걱정이라고 부르나 보네요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev055601_MSG0008",
+      "style": 1,
+      "name": "실은 저의 분열체 넨오살라그가\nNLA를 뛰쳐나가 버렸어요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev055601_MSG0009",
+      "style": 1,
+      "name": "야광의 숲으로 간 모양인데[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev055601_MSG0010",
+      "style": 1,
+      "name": "왜 그런 생물이 있는 지대에 가는 건지……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev055601_MSG0011",
+      "style": 1,
+      "name": "이 넨오살라그의 행동 이유도\n걱정이라는 감정과 함께\n이해할 수 없는 것이에요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev055601_MSG0012",
+      "style": 1,
+      "name": "데리러 가고 싶지만\n제가 가는 건 어려워요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev055601_MSG0013",
+      "style": 1,
+      "name": "왜냐하면 오르페의 전투 능력은\n미라의 원시 생물과 비교해서\n좋다고는 할 수 없거든요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev055601_MSG0014",
+      "style": 1,
+      "name": "분열체를 구하러 가 주시지 않겠어요?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev055601_MSG0015",
+      "style": 1,
+      "name": "지구인이란 정말 활동적이고\n전투적인 생물이네요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev055601_MSG0016",
+      "style": 1,
+      "name": "물론 이건 당신들이 말하는\n감사를 하고 있는 거예요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev055601_MSG0017",
+      "style": 1,
+      "name": "그럼 다치지 않도록 조심하세요\n다만 당신이 어느 정도 다친다 해도[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev055601_MSG0018",
+      "style": 1,
+      "name": "분열체를 데려와 준다면 OK예요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev055601_MSG0019",
+      "style": 1,
+      "name": "그 정도는 트레이드오프라는 겁니다\n그럼 잘 부탁할게요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev055601_JNK0030",
+      "style": 4,
+      "name": "승낙"
+    },
+    {
+      "$id": 25,
+      "label": "qev055601_SEL0031",
+      "style": 3,
+      "name": "맡겨 달라고 말한다"
+    },
+    {
+      "$id": 26,
+      "label": "qev055601_JNK0040",
+      "style": 4,
+      "name": "이해"
+    },
+    {
+      "$id": 27,
+      "label": "qev055601_SEL0041",
+      "style": 3,
+      "name": "부탁하는 방식이 상당히 쿨한\n외계인 같다고 말한다"
+    },
+    {
+      "$id": 28,
+      "label": "qev055601_MSG0020",
+      "style": 1,
+      "name": "관대한 태도네요\n지구인은 상대의 부탁을 들어주는 것을\n관대하다고 말하죠?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev055601_MSG0021",
+      "style": 1,
+      "name": "그럼 부탁할게요\n분열체를 데려와 주세요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev055601_MSG0022",
+      "style": 1,
+      "name": "지구인에게는\n이게 쿨한 말투인가요?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev055601_MSG0023",
+      "style": 1,
+      "name": "잘 알겠습니다\n최대한 핫한 말을 사용하도록\n유의하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev055601_MSG0024",
+      "style": 1,
+      "name": "지구인은 그래야 더 의욕이 나죠?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev055601_MSG0025",
+      "style": 1,
+      "name": "그럼 부탁한다!\n분열체 넨오살라그를\n데려와 달라고!![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev055601_MSG0026",
+      "style": 1,
+      "name": "……이런 느낌으로 어떤가요?\n그럼 부탁합니다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev055601_MSG0027",
+      "style": 1,
+      "name": "제 분열체 넨오살라그를\n데려와 주세요![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev055601_MSG0028",
+      "style": 1,
+      "name": "넨오살라그가 무사해서\n안심했어요……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev055601_JNK0050",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 38,
+      "label": "qev055601_SEL0051",
+      "style": 3,
+      "name": "안심했냐고 묻는다"
+    },
+    {
+      "$id": 39,
+      "label": "qev055601_JNK0060",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 40,
+      "label": "qev055601_SEL0061",
+      "style": 3,
+      "name": "잊고 있었던 게 아니냐고 묻는다"
+    },
+    {
+      "$id": 41,
+      "label": "qev055601_MSG0029",
+      "style": 1,
+      "name": "이게 안심이라는 감정인가요[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev055601_MSG0030",
+      "style": 1,
+      "name": "하지만 심리 상태가 이렇게 불안정해지는 건\n불합리하다고 할 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev055601_MSG0031",
+      "style": 1,
+      "name": "만약 넨오살라그가 사멸해도\n세니라파 물만 있으면[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev055601_MSG0032",
+      "style": 1,
+      "name": "저희의 개체는 증식할 수 있으니까요[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev055601_MSG0033",
+      "style": 1,
+      "name": "잊을 리가 없죠\n넨오살라그는 저희의 동포니까요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev055601_MSG0034",
+      "style": 1,
+      "name": "뭔가 기묘한 감정이 일렁이는 듯한\n기분이 덮쳐 왔어요[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev055601_MSG0035",
+      "style": 1,
+      "name": "생각해 보면 기묘한 일이네요\n만약 넨오살라그가 사멸해도\n세니라파 물만 있으면[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev055601_MSG0036",
+      "style": 1,
+      "name": "저희의 개체는 증식할 수 있으니까\n필요 이상으로 넨오살라그의 미래에\n집착했던 걸지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev055601_MSG0037",
+      "style": 1,
+      "name": "난오살라그는 내가 없어서\n외로웠던 거야?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev055601_MSG0038",
+      "style": 1,
+      "name": "외로워? 그건 뭐지?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev055601_MSG0039",
+      "style": 1,
+      "name": "왜 나는 넨오살라그가 없으면\n외로워지는 거지?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev055601_JNK0070",
+      "style": 4,
+      "name": "지적"
+    },
+    {
+      "$id": 53,
+      "label": "qev055601_SEL0071",
+      "style": 3,
+      "name": "반한 거라고 지적한다"
+    },
+    {
+      "$id": 54,
+      "label": "qev055601_JNK0080",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 55,
+      "label": "qev055601_SEL0081",
+      "style": 3,
+      "name": "오르페의 새로운 종이니까\n특별하게 느꼈을 것 같다고 말한다"
+    },
+    {
+      "$id": 56,
+      "label": "qev055601_MSG0040",
+      "style": 1,
+      "name": "반하다?\n그건 암수가 있는 생물에게\n발생하는 현상이잖아요?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev055601_MSG0041",
+      "style": 1,
+      "name": "오르페에게는 암수가 없어요\n그래서 그러한 감정이 발생할 일도……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev055601_MSG0042",
+      "style": 1,
+      "name": "하지만 확실히 넨오살라그의 모습은\n아름답다고 느끼는데[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev055601_MSG0043",
+      "style": 1,
+      "name": "으음……\n이게 반했다는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev055601_MSG0044",
+      "style": 1,
+      "name": "넨오살라그!\n난 너에게 반한 건가?[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev055601_MSG0045",
+      "style": 1,
+      "name": "그런 건 자신이 알겠지!\n지구인의 말로 그런 사람을 보고\n둔감하다고 하는 거야![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev055601_MSG0046",
+      "style": 1,
+      "name": "둔감…… 난 머리가 잘 돌아갈 텐데……\n이상한 소리를 하는군……[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev055601_MSG0049",
+      "style": 1,
+      "name": "그건 일리가 있군……\n하지만 이 기묘한 심리 상태는 뭐지?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev055601_MSG0050",
+      "style": 1,
+      "name": "넨오살라그를 보고 있으면 아름답다고 느껴져[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev055601_MSG0051",
+      "style": 1,
+      "name": "날 좋아하는 거 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev055601_MSG0052",
+      "style": 1,
+      "name": "좋아해? 좋아한다?\n난 넨오살라그를 좋아하는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev055601_MSG0053",
+      "style": 1,
+      "name": "그런 걸 스스로 몰라?\n지구인 말로 그런 사람을\n숙맥이라고 부르는 거야[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev055601_MSG0054",
+      "style": 1,
+      "name": "숙맥…… 이상한 말을 하는군……[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev055601_MSG0055",
+      "style": 1,
+      "name": "지성이 높은 생물인 나에게도\n이해할 수 없는 것이 있다니[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev055601_MSG0056",
+      "style": 1,
+      "name": "넨오살라그에 대한 마음을 모르겠어\n어째서인가![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev055601_MSG0057",
+      "style": 1,
+      "name": "……그건 당신이 숙맥이라서 그런 거야[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev055601_MSG0058",
+      "style": 1,
+      "name": "아아! 역시 모르겠어!\n오버! 저를 이끌어 주세요![ST:wait ]"
+    }
+  ]
+}

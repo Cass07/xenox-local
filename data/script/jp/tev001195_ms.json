@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001195_MSG0001",
+      "style": 1,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001195_MSG0002",
+      "style": 1,
+      "name": "あら　[ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001195_MSG0003",
+      "style": 1,
+      "name": "ごめんなさい　少し考え事をしてたの[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001195_MSG0004",
+      "style": 1,
+      "name": "感慨に浸っていたというのが正しいかしら[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001195_MSG0005",
+      "style": 1,
+      "name": "ここがいつの間にか落ち着ける場所[ST:wide ]―\n本当の家みたいになっていたことにね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001195_MSG0006",
+      "style": 1,
+      "name": "予定外のことがたくさん起きたけれど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001195_MSG0007",
+      "style": 1,
+      "name": "地球人はこの惑星に根付き始めている[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001195_MSG0008",
+      "style": 1,
+      "name": "だからかしら　私も少しだけ感覚が\n変わった感じがするのよね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001195_MSG0009",
+      "style": 1,
+      "name": "任務を終えて　このブレイドホームに入ると\n帰ってきたって実感が強く湧くのよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001195_JNK0010",
+      "style": 4,
+      "name": "同意"
+    },
+    {
+      "$id": 11,
+      "label": "tev001195_SEL0011",
+      "style": 3,
+      "name": "自分もエルマと同じ感覚に\nなると同意する"
+    },
+    {
+      "$id": 12,
+      "label": "tev001195_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 13,
+      "label": "tev001195_SEL0021",
+      "style": 3,
+      "name": "自分はそうは感じないと\n否定する"
+    },
+    {
+      "$id": 14,
+      "label": "tev001195_MSG0010",
+      "style": 1,
+      "name": "あなたもそう思うの[ST:wide ]―\n少し嬉しい気持ちね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001195_MSG0011",
+      "style": 1,
+      "name": "地球の我が家が恋しいから？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001195_MSG0012",
+      "style": 1,
+      "name": "ブレイドホームが落ち着く私の感覚は\n少しおかしいのかしらね？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001195_MSG0013",
+      "style": 1,
+      "name": "[ST:wide ]―そうそう[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001195_MSG0014",
+      "style": 1,
+      "name": "知ってた？\nこのブレイドホームは少し特別なのよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001195_MSG0015",
+      "style": 1,
+      "name": "他のチームよりも大きな部屋だし\n広いキッチンもある[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001195_MSG0016",
+      "style": 1,
+      "name": "それに信頼の置ける仲間とだけ\n使えるようにしてもらってるのよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001195_MSG0017",
+      "style": 1,
+      "name": "リンやタツがのびのびと楽しく過ごせるのも\n私が自由にしていられるのも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001195_MSG0018",
+      "style": 1,
+      "name": "ナギやヴァンダムの気遣いからね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001195_JNK0030",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 24,
+      "label": "tev001195_SEL0031",
+      "style": 3,
+      "name": "それはエルマが大佐\nだったからだろうと推測する"
+    },
+    {
+      "$id": 25,
+      "label": "tev001195_JNK0040",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 26,
+      "label": "tev001195_SEL0041",
+      "style": 3,
+      "name": "優遇してくれた理由を尋ねる"
+    },
+    {
+      "$id": 27,
+      "label": "tev001195_MSG0019",
+      "style": 1,
+      "name": "フフッ[ST:wide ]―\n残念だけど違うわ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001195_MSG0020",
+      "style": 1,
+      "name": "ブレイドには階級はない\n私の階級を気にしてるのは\nイリーナやグインくらいだわ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001195_MSG0021",
+      "style": 1,
+      "name": "本当に大佐と呼ばれる階級の人と\n一つ屋根の下で暮らしていたら\nリンもあなたもきっと疲れるでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001195_MSG0022",
+      "style": 1,
+      "name": "だから　階級のことは関係ないのよ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001195_MSG0023",
+      "style": 1,
+      "name": "[ST:wide ]―いつか機会があれば\n私のこと　もっと話すわね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001195_MSG0024",
+      "style": 1,
+      "name": "でも　今日はこのくらいにしておきましょう\nあなたも任務で忙しいでしょうしね[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001195_MSG0025",
+      "style": 1,
+      "name": "それを説明するのは一筋縄じゃ\nいかないわね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001195_MSG0026",
+      "style": 1,
+      "name": "そうね[ST:wide ]―\nセントラルライフを確保した後\n時間を取って　ゆっくり話しましょう[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001195_MSG0027",
+      "style": 1,
+      "name": "今は昔話をゆっくりとしているヒマは\nあまりないし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001195_MSG0028",
+      "style": 1,
+      "name": "あなたも任務で忙しいでしょうしね[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001195_MSG0029",
+      "style": 1,
+      "name": "お互いがんばりましょう[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001195_MSG0030",
+      "style": 1,
+      "name": "もう分かっているでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001195_MSG0031",
+      "style": 1,
+      "name": "私の正体を大勢の人に知られるわけには\nいかなかったからよ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001195_MSG0032",
+      "style": 1,
+      "name": "私もみんなもB.B.だから\n気付かれる可能性は限りなく\n低かったけれど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001195_MSG0033",
+      "style": 1,
+      "name": "私は地球の文化に\nそこまで明るいわけじゃないの[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001195_MSG0034",
+      "style": 1,
+      "name": "見た目では違いはなくても\n知識や経験で感付かれるかもしれないからね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001195_MSG0035",
+      "style": 1,
+      "name": "だから　私が選んだ信用の置ける人間だけ\n同じチームになってもらったの[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001195_MSG0036",
+      "style": 1,
+      "name": "もちろんイリーナも\n信用に値する人間だったけど\nあの子には別の場所で支えてほしかったから[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001195_MSG0037",
+      "style": 1,
+      "name": "[ST:wide ]―さて\n昔話はこれくらいにしておきましょうか[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001195_MSG0038",
+      "style": 1,
+      "name": "あなたにも私にも\nこれからのNLAのためにやるべきことは\n山ほどあるもの[ST:wait ]"
+    }
+  ]
+}

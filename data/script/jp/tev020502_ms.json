@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev020502_MSG0001",
+      "style": 1,
+      "name": "あら　良いタイミングでいらっしゃいました\nアリスが　あなたのこと探していたんですよ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev020502_MSG0002",
+      "style": 1,
+      "name": "なにやら　今から行う演説会で\nひとつ力を貸して欲しいようなのです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev020502_MSG0003",
+      "style": 1,
+      "name": "どうか　詳しい話を彼女から聞いて下さいね[ST:wait ]"
+    }
+  ]
+}

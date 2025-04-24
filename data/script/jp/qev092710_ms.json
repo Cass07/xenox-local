@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092710_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―そろそろ戻ろう[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092710_MSG0020",
+      "style": 0,
+      "name": "じきにフレスベルグの量産化が\n発表されるはずだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092710_MSG0030",
+      "style": 0,
+      "name": "フレスベルグは良い機体だ\nお前も　ぜひ使ってみてほしい[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092710_MSG0040",
+      "style": 0,
+      "name": "ああ　それと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092710_MSG0045",
+      "style": 0,
+      "name": "これはまだ公になってないんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092710_MSG0050",
+      "style": 0,
+      "name": "実は　フレスベルグには\n従来のドールにはない特殊機構があるんだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092710_MSG0060",
+      "style": 0,
+      "name": "まだ開発の途中だけど\nきっとあなたも驚くと思うわ　期待してて[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092710_MSG0070",
+      "style": 0,
+      "name": "それから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092710_MSG0080",
+      "style": 0,
+      "name": "もし　おれの力が必要になったら\nいつでも呼んでくれ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092710_MSG0090",
+      "style": 0,
+      "name": "ドールの操縦なら自信がある\nきっとブレイドの役に立てるはずだ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092710_MSG0100",
+      "style": 0,
+      "name": "リーゼルは　グラナダに来る前は空軍の所属で\n若くして教官も務めたベテランなの[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092710_MSG0110",
+      "style": 0,
+      "name": "あの英雄アロイス・ブルノルトにだって\n引けを取らないと保証するわ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092710_MSG0120",
+      "style": 0,
+      "name": "それは[ST:wide ]―　さすがに褒めすぎだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092710_MSG0130",
+      "style": 0,
+      "name": "とにかく　お前とは\n良い戦友になれる気がする[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092710_MSG0140",
+      "style": 0,
+      "name": "よければ　これからもよろしく頼む[ST:wait ]"
+    }
+  ]
+}

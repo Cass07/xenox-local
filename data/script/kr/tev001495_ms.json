@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001495_MSG0001",
+      "style": 1,
+      "name": "오, [ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001495_MSG0002",
+      "style": 1,
+      "name": "내가 이런 곳에 있는 게 신기해?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001495_MSG0003",
+      "style": 1,
+      "name": "그윈에게 고글을 사 주고 싶거든\n얼마 전 임무에서 망가진 것 같길래[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001495_MSG0004",
+      "style": 1,
+      "name": "대단한 건 아니더라도\n가끔은 열심히 하는 녀석에게\n상이라도 줄까 싶어서[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001495_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 6,
+      "label": "tev001495_SEL0011",
+      "style": 3,
+      "name": "이리나에게 있어서 그윈이란?"
+    },
+    {
+      "$id": 7,
+      "label": "tev001495_JNK0020",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 8,
+      "label": "tev001495_SEL0021",
+      "style": 3,
+      "name": "같이 훈련해 주는 걸\n더 기뻐할 거라고 제안한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001495_JNK0030",
+      "style": 4,
+      "name": "주장"
+    },
+    {
+      "$id": 10,
+      "label": "tev001495_SEL0031",
+      "style": 3,
+      "name": "그윈이 더 좋아할 만한 것을\n줘야 한다고 강하게 주장한다"
+    },
+    {
+      "$id": 11,
+      "label": "tev001495_MSG0005",
+      "style": 1,
+      "name": "그윈은……\n음…… 동생 같은 존재랄까[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001495_MSG0006",
+      "style": 1,
+      "name": "실제로 동생 친구였기도 하고\n사이가 좋았던 만큼\n뭔가 조금 닮았단 말이지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001495_MSG0007",
+      "style": 1,
+      "name": "동생이 살아 있을 때\n누나다운 일을 더 해 주고 싶었는데[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001495_MSG0008",
+      "style": 1,
+      "name": "특히 군에 입대한 후로는\n시간을 내기도 힘들어서\n대화할 기회도 줄어들었어……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001495_MSG0009",
+      "style": 1,
+      "name": "칭찬하지도 혼내지도 못했지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001495_MSG0010",
+      "style": 1,
+      "name": "그러니까 녀석이 열심히 했을 때만큼은\n누나처럼 칭찬이랑 선물 정도는\n해 주고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001495_MSG0011",
+      "style": 1,
+      "name": "이제 슬슬 다녀올게\n그럼 또 임무에서 보자[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001495_MSG0012",
+      "style": 1,
+      "name": "훈련인가……\n그건 사양하고 싶네[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001495_MSG0013",
+      "style": 1,
+      "name": "가끔 가르쳐 주고 있긴 한데……\n엄하게 하면 좋아한단 말이지[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001495_MSG0014",
+      "style": 1,
+      "name": "좀 뭐랄까……\n이상한 취향이 있는 게 아닐까 하는\n생각이 들기도 해[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001495_MSG0015",
+      "style": 1,
+      "name": "다른 사람들은 그윈이 평범하다고 하지만\n정말이지, 왜 나랑 있을 때만……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001495_MSG0016",
+      "style": 1,
+      "name": "뭐, 내 생각이 지나친 걸지도 모르지만[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001495_MSG0017",
+      "style": 1,
+      "name": "아무튼 이번에는 고글로 할래\n가끔은 형태가 있는 선물을 주고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001495_MSG0018",
+      "style": 1,
+      "name": "동생이 살아 있을 때\n선물을 준 적이 별로 없었으니까[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001495_MSG0019",
+      "style": 1,
+      "name": "녀석이 친동생은 아니지만……\n열심히 했을 때만큼은 누나처럼\n칭찬해 주고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001495_MSG0020",
+      "style": 1,
+      "name": "이제 슬슬 다녀올게\n그럼 또 임무에서 보자[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001495_MSG0021",
+      "style": 1,
+      "name": "그렇게 말해도 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001495_MSG0022",
+      "style": 1,
+      "name": "그윈은 지금 고글이 망가져서\n불편해하고 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001495_MSG0023",
+      "style": 1,
+      "name": "다른 걸 사 봤자 의미도 없고\n별로 안 기뻐할 것 같은데?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001495_MSG0024",
+      "style": 1,
+      "name": "고글보다 더 고급스러운 거라면\n엘마 대령님께 드리고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001495_MSG0025",
+      "style": 1,
+      "name": "……잠깐[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001495_MSG0026",
+      "style": 1,
+      "name": "다음에 함께 임무를 수행한 후에\n감사하다는 의미로 선물하면 되겠구나[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001495_MSG0027",
+      "style": 1,
+      "name": "자연스럽게 받아 주실 게 틀림없어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001495_MSG0028",
+      "style": 1,
+      "name": "그렇게 생각하니 그윈에게\n고글을 사 줄 돈도 아까운걸……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001495_MSG0029",
+      "style": 1,
+      "name": "그 녀석은 플라스틱 물안경으로 충분해\n그렇게 하자[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001495_MSG0030",
+      "style": 1,
+      "name": "고맙다\n좋은 아이디어가 떠올랐어[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001495_MSG0031",
+      "style": 1,
+      "name": "다음 임무가 기대된다~[ST:wait ]"
+    }
+  ]
+}

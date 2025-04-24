@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06060100_MSG0001",
+      "style": 0,
+      "name": "준비됐어?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06060100_MSG0002",
+      "style": 0,
+      "name": "네! 열심히 할게요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs06060100_MSG0003",
+      "style": 0,
+      "name": "듬직하구나[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06060100_MSG0004",
+      "style": 0,
+      "name": "맡겨 주세요![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06060100_MSG0005",
+      "style": 0,
+      "name": "그 나이에 흰고래 크루로 뽑히다니\n별일이 다 있네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs06060100_MSG0006",
+      "style": 0,
+      "name": "린, 가족은?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs06060100_MSG0007",
+      "style": 0,
+      "name": "돌아가셨어요\n아빠도 엄마도……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs06060100_MSG0008",
+      "style": 0,
+      "name": "지구가 외계인들에게 습격당한 날에……?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06060100_MSG0009",
+      "style": 0,
+      "name": "더 전이요…… 사고였어요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs06060100_MSG0010",
+      "style": 0,
+      "name": "그렇구나…… 유감이다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs06060100_MSG0011",
+      "style": 0,
+      "name": "괜찮아요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs06060100_MSG0012",
+      "style": 0,
+      "name": "제 아빠와 엄마는\n흰고래의 설계 엔지니어였어요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs06060100_MSG0013",
+      "style": 0,
+      "name": "그런데 주기관 시험 중에 사고가 일어났죠[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs06060100_MSG0014",
+      "style": 0,
+      "name": "하지만 아빠, 엄마와\n다른 많은 사람의 노력으로[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs06060100_MSG0015",
+      "style": 0,
+      "name": "흰고래는 우주로 이륙할 수 있었고……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs06060100_MSG0015_2",
+      "style": 0,
+      "name": "인류가 멸망하지 않았다고\n지금은 그렇게 생각하니까요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs06060100_MSG0016",
+      "style": 0,
+      "name": "그렇구나[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs06060100_MSG0017",
+      "style": 0,
+      "name": "위대한 부모님의 공로에 대한 보답으로\n널 스태프로서 받아들인 거야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs06060100_MSG0018",
+      "style": 0,
+      "name": "덕분에 지금은 굉장히 충실하게 지내고 있어요![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs06060100_MSG0019",
+      "style": 0,
+      "name": "모두를 지키는 일을 할 수 있으니까요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs06060100_MSG0020",
+      "style": 0,
+      "name": "라오, 틀린 부분이 있어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs06060100_MSG0021",
+      "style": 0,
+      "name": "린이 어린 나이에 크루가 된 건\n흰고래의 운행에 관한 지식과 재능이 있어서야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs06060100_MSG0022",
+      "style": 0,
+      "name": "자료를 쉽게 접할 수 있는 환경에 있었던 건\n부모님의 영향이지만[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs06060100_MSG0023",
+      "style": 0,
+      "name": "린의 능력에 대한 평가와는 관계없어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs06060100_MSG0024",
+      "style": 0,
+      "name": "엘마 씨[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs06060100_MSG0025",
+      "style": 0,
+      "name": "내가 무신경했던 것 같네\n미안, 용서해 줘[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs06060100_MSG0026",
+      "style": 0,
+      "name": "무슨 말씀이세요\n저 같은 건 아직 미숙해요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs06060100_MSG0027",
+      "style": 0,
+      "name": "자, 출발해요![ST:wait ]"
+    }
+  ]
+}

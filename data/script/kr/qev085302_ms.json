@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085302_MSG0001",
+      "style": 0,
+      "name": "구조 요청한 건 당신이야?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085302_MSG0002",
+      "style": 0,
+      "name": "그래, 나야, 키아스 콜\n드디어 와 줬구나[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085302_MSG0003",
+      "style": 0,
+      "name": "리브로 씨는요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085302_MSG0004",
+      "style": 0,
+      "name": "안에 있어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085302_MSG0005",
+      "style": 0,
+      "name": "뭐라고!? 혼자서?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085302_MSG0006",
+      "style": 0,
+      "name": "안에는 무서운 생물이 우글우글하다모\n위험하다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085302_MSG0007",
+      "style": 0,
+      "name": "알고 있어[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085302_MSG0008",
+      "style": 0,
+      "name": "하지만 NLA를 발전시키기 위해서는\n플레멘타이드를 반드시 확보해야 해[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085302_MSG0009",
+      "style": 0,
+      "name": "위험은 이미 각오했지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085302_MSG0010",
+      "style": 0,
+      "name": "그게 아니야!\n어째서 혼자 남기고 온 거야, 가족이잖아![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085302_MSG0011",
+      "style": 0,
+      "name": "가족이니까\n난 내 일은 다 했거든[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085302_MSG0012",
+      "style": 0,
+      "name": "콜 가문의 네 번째 가훈\n목적을 이뤘으면 빨리 돌아가라[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085302_MSG0013",
+      "style": 0,
+      "name": "그렇다고 가족을 죽게 내버려둬?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085302_MSG0014",
+      "style": 0,
+      "name": "그래서 당신들을 부른 거잖아\n뒷일은 맡긴다![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085302_MSG0015",
+      "style": 0,
+      "name": "난 먼저 NLA로 돌아가 있을게![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085302_MSG0016",
+      "style": 0,
+      "name": "이, 이봐, 기다려\n웃기지 마, 지금 뭐 하자는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085302_MSG0017",
+      "style": 0,
+      "name": "무슨 저런 부모가 다 있어![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085302_MSG0018",
+      "style": 0,
+      "name": "이리나, 그는 일단 내버려두자\n리브로 콜 구출이 먼저야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085302_MSG0018_2",
+      "style": 0,
+      "name": "서두르자[ST:wait ]"
+    }
+  ]
+}

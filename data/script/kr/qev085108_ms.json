@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085108_MSG0001",
+      "style": 0,
+      "name": "엘마 씨, 여러분![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085108_MSG0002",
+      "style": 0,
+      "name": "와~ 다들 안녕![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085108_MSG0003",
+      "style": 0,
+      "name": "이 도시는 어때?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085108_MSG0004",
+      "style": 0,
+      "name": "아직 잘 모르겠어요\n하지만……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085108_MSG0005",
+      "style": 0,
+      "name": "록이 즐거워 보이니까\n한동안 여기에 있고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085108_MSG0006",
+      "style": 0,
+      "name": "다행이다!\n뭐든 어려운 일이 있으면 말해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085108_MSG0007",
+      "style": 0,
+      "name": "이 사람들이 뭐든지 해결해 줄 거다모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085108_MSG0008",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    }
+  ]
+}

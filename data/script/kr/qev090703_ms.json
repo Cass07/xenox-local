@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090703_MSG0001",
+      "style": 0,
+      "name": "윽…… 으으……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090703_MSG0002",
+      "style": 0,
+      "name": "너희는…… 구조대……?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090703_MSG0003",
+      "style": 0,
+      "name": "당신은 호위 블레이드인가요?\n죄송하지만 현재 상황을 확인하고 싶습니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090703_MSG0004",
+      "style": 0,
+      "name": "모두…… 당해 버렸어……\n원시 생물이…… 잔뜩……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090703_MSG0005",
+      "style": 0,
+      "name": "무사한 건, 이제 그 학자 양반……뿐이야……\n안쪽에 있는 차에…… 숨겼어……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090703_MSG0006",
+      "style": 0,
+      "name": "젠장…… 악, 윽……![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090703_MSG0007",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090703_MSG0008",
+      "style": 0,
+      "name": "그렇군요, 일각의 여유도 없겠어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090703_MSG0009",
+      "style": 0,
+      "name": "일단 안쪽의 원시 생물을 소탕하고\n그다음 차에 숨어 있다는 학자를 구출하죠[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090703_JNK0010",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 11,
+      "label": "qev090703_SEL0011",
+      "style": 3,
+      "name": "빈사 상태의 블레이드를 걱정한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev090703_JNK0020",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 13,
+      "label": "qev090703_SEL0021",
+      "style": 3,
+      "name": "HB와 함께 원시 생물이\n있는 곳으로 향한다"
+    },
+    {
+      "$id": 14,
+      "label": "qev090703_MSG0010",
+      "style": 0,
+      "name": "이 사람과 귀중한 학자 중……\n지금 구해야 할 사람이 누구인지[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090703_MSG0011",
+      "style": 0,
+      "name": "냉정하게 판단해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090703_MSG0012",
+      "style": 0,
+      "name": "게다가 이 사람도 분명 자기보다는\n의뢰인의 안전을 바랄 거예요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090703_MSG0013",
+      "style": 0,
+      "name": "정확한 판단 능력이 있는 사람이라 다행이네요\n당신과 함께라면 안심하고 싸울 수 있겠어요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090703_MSG0014",
+      "style": 0,
+      "name": "그러면 갑시다……\n신중하면서도 신속하게 처리하죠[ST:wait ]"
+    }
+  ]
+}

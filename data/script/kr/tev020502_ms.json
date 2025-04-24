@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev020502_MSG0001",
+      "style": 1,
+      "name": "어머, 마침 잘 오셨네요\n앨리스가 당신을 찾고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev020502_MSG0002",
+      "style": 1,
+      "name": "아무래도 지금부터 시작할 연설회 중에\n한 가지 도움을 받고 싶은 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev020502_MSG0003",
+      "style": 1,
+      "name": "부디 앨리스에게서 자세한 이야기를 들어 주세요[ST:wait ]"
+    }
+  ]
+}

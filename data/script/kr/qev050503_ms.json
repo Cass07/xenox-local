@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050503_MSG0001",
+      "style": 1,
+      "name": "잠깐…… 이러지 마세요……\n싫어어어엇![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050503_MSG0002",
+      "style": 1,
+      "name": "크…… 큰 소리 내지 말아 주세요\n난 부탁할 게 있을 뿐인데……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050503_MSG0003",
+      "style": 1,
+      "name": "싫어…… 누가 좀 도와주세요!\n싫어어어엇![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050503_MSG0004",
+      "style": 1,
+      "name": "사람 말을……\n이 니 자인의 말을 들어 주세요![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050503_MSG0005",
+      "style": 1,
+      "name": "앗, 거기 계시는 분, 저 좀 도와주세요!\n갑자기 협박을 당해서……![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev050503_MSG0006",
+      "style": 1,
+      "name": "사람들이 오해할 소리를!\n난 협박 같은 건 하지 않았습니다![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev050503_MSG0007",
+      "style": 1,
+      "name": "하지만…… 갑자기 멱살을 잡고\n자기 말을 들으라고……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev050503_MSG0008",
+      "style": 1,
+      "name": "그것이 어떻게 협박입니까![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev050503_MSG0009",
+      "style": 1,
+      "name": "그것이 어떻게 협박이 아닌데![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050503_MSG0010",
+      "style": 1,
+      "name": "윽…… 말이 안 통하는 사람이군……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev050503_MSG0011",
+      "style": 1,
+      "name": "그, 그건 내가 할 소리잖아……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev050503_MSG0012",
+      "style": 1,
+      "name": "으윽…………[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev050503_MSG0013",
+      "style": 1,
+      "name": "……………………[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev050503_MSG0014",
+      "style": 1,
+      "name": "이대로는 끝이 안 나겠는데……\n엇!? 거기 계시는 분![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev050503_MSG0015",
+      "style": 1,
+      "name": "역시…… 얼마 전 전장에서 신세 진\n블레이드분이 아닙니까![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev050503_MSG0016",
+      "style": 1,
+      "name": "지나가시는 중에 갑자기 죄송하지만\n뭔가…… 적당한 칼을\n구해다 주실 수 없을까요?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev050503_MSG0017",
+      "style": 1,
+      "name": "카, 칼……!?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev050503_MSG0018",
+      "style": 1,
+      "name": "그래야 이야기하기 더 편할 것 같아서……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev050503_MSG0019",
+      "style": 1,
+      "name": "그럴 수가…… 안 돼……\n싫어어어엇![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev050503_MSG0020",
+      "style": 1,
+      "name": "빨리 칼을!\n이 이상 일을 키우는 것은\n저로서도 바라지 않습니다![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev050503_MSG0021",
+      "style": 1,
+      "name": "칼은 아직입니까……!?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev050503_MSG0022",
+      "style": 1,
+      "name": "부탁하는 처지에 죄송하지만\n빨리 부탁드립니다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev050503_MSG0023",
+      "style": 1,
+      "name": "이 여인과의 대화는\n그 후로 꼬이기만 할 뿐입니다……![ST:wait ]"
+    }
+  ]
+}

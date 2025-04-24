@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000192_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]인가\n이렇게 만나는군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000192_MSG0002",
+      "style": 1,
+      "name": "함께 다이너에서 느긋하게\n차라도 마시면 좋았겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000192_MSG0003",
+      "style": 1,
+      "name": "난 지금부터 신형 병기 테스트를\n참관해야만 한다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000192_MSG0004",
+      "style": 1,
+      "name": "암즈의 성과를 확인할 뿐 아니라\n암즈 컴퍼니의 시찰도 겸하는 일이거든[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000192_MSG0005",
+      "style": 1,
+      "name": "그건 그렇고 [ST:playername ]\n자네는 원거리 무기와 근거리 무기 중\n어느 쪽을 선호하지?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000192_JNK0010",
+      "style": 4,
+      "name": "원거리"
+    },
+    {
+      "$id": 7,
+      "label": "tev000192_SEL0011",
+      "style": 3,
+      "name": "원거리 무기를 선호한다고 대답한다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000192_JNK0020",
+      "style": 4,
+      "name": "근거리"
+    },
+    {
+      "$id": 9,
+      "label": "tev000192_SEL0021",
+      "style": 3,
+      "name": "근거리 무기를 선호한다고 대답한다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000192_MSG0006",
+      "style": 1,
+      "name": "흠…… 현대적이군[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000192_MSG0007",
+      "style": 1,
+      "name": "이 별에서 살아남기 위해서\n자연히 숙달한 기술이겠지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000192_MSG0008",
+      "style": 1,
+      "name": "확실히 하늘을 나는 원시 생물한테\n원거리 무기 없이는 대항할 수 없을 테니까[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000192_MSG0009",
+      "style": 1,
+      "name": "그리고 사나운 원시 생물한테 접근해서\n위험을 무릅쓰며 싸울 필요도 없고[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000192_MSG0010",
+      "style": 1,
+      "name": "지극히 정상적인 판단이군[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000192_MSG0011",
+      "style": 1,
+      "name": "그런가\n제법 고상한 취향을 가졌군[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000192_MSG0012",
+      "style": 1,
+      "name": "접근전에 뛰어난 명수에게는\n총보다도 든든한 무기겠지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000192_MSG0013",
+      "style": 1,
+      "name": "마지막에 승패를 가르는 건 칼 한 자루니까[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000192_MSG0014",
+      "style": 1,
+      "name": "여기에는 없지만 녀석의 기술을\n[ST:playername ]에게도 보여 주면 좋았을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000192_MSG0015",
+      "style": 1,
+      "name": "분명 칼의 매력에 한층 더 반하게 되었겠지[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000192_MSG0016",
+      "style": 1,
+      "name": "……으흠, 이제 곧 테스트가 시작될 것 같으니\n취향에 관한 이야기는 여기까지 하지[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000192_MSG0017",
+      "style": 1,
+      "name": "이렇게 만난 것도 인연인데\n암즈 컴퍼니 쪽에 하고 싶은 말 있나?\n내가 전해 주겠다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000192_JNK0110",
+      "style": 4,
+      "name": "베리에이션"
+    },
+    {
+      "$id": 23,
+      "label": "tev000192_SEL0111",
+      "style": 3,
+      "name": "상품의 가짓수를 늘려 달라는\n의견을 낸다"
+    },
+    {
+      "$id": 24,
+      "label": "tev000192_JNK0120",
+      "style": 4,
+      "name": "가격"
+    },
+    {
+      "$id": 25,
+      "label": "tev000192_SEL0121",
+      "style": 3,
+      "name": "조금 더 싸게 팔아 달라는\n의견을 낸다"
+    },
+    {
+      "$id": 26,
+      "label": "tev000192_JNK0130",
+      "style": 4,
+      "name": "커스터마이즈"
+    },
+    {
+      "$id": 27,
+      "label": "tev000192_SEL0131",
+      "style": 3,
+      "name": "주문 제작 장비를 만들어 달라는\n의견을 낸다"
+    },
+    {
+      "$id": 28,
+      "label": "tev000192_MSG0018",
+      "style": 1,
+      "name": "그렇군, 더 많은 종류의 장비가 필요한가[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000192_MSG0019",
+      "style": 1,
+      "name": "새로운 상품의 개발이\n그렇게 간단하지 않다는 것은\n충분히 상상할 수 있겠지?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000192_MSG0020",
+      "style": 1,
+      "name": "분명 [ST:playername ], 그리고\n다른 블레이드들이 암즈 컴퍼니에\n협력해야 가능하겠지만 의견은 전해 두지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000192_MSG0021",
+      "style": 1,
+      "name": "하긴, 가격을 억제할 수 있다면\n더 많은 블레이드에게\n강력한 장비가 주어지겠지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000192_MSG0022",
+      "style": 1,
+      "name": "가능한 한 싸게 팔아 달라고 이야기해 보겠다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000192_MSG0023",
+      "style": 1,
+      "name": "……다만 그들도 판매만 하는 건 아니다\n새로운 장비도 개발하고 있지[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000192_MSG0024",
+      "style": 1,
+      "name": "현재 판매 중인 장비 가격에는\n그러한 개발비도 포함되어 있으니\n쉽게 수용할 수 있는 문제는 아닐 거다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000192_MSG0025",
+      "style": 1,
+      "name": "가격이 내려가지 않더라도\n원망하지는 마라[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000192_MSG0026",
+      "style": 1,
+      "name": "상당히 특색 있는 의견이로군[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000192_MSG0027",
+      "style": 1,
+      "name": "개발자들은 기뻐할지 몰라도\n경영자들은 난색을 보이겠지[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000192_MSG0028",
+      "style": 1,
+      "name": "지금은 한 명이라도 많은 블레이드에게\n뛰어난 무기를 제공하는 것이 그들의 목표니까[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000192_MSG0029",
+      "style": 1,
+      "name": "개인을 위해 장비를 제작하면\n당연히 대량 생산이 어려워지고\n생산 비용도 증가할 거다[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000192_MSG0030",
+      "style": 1,
+      "name": "하지만 이 별이 안정을 이루고\nNLA 건설도 끝난 다음이라면\n아주 불가능한 요청은 아니겠지[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000192_MSG0031",
+      "style": 1,
+      "name": "의견을 전달할 테니\n희소식을 기다리도록 해라[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001795_MSG0001",
+      "style": 1,
+      "name": "음~ 그러니까\n처음에 했던 상담이\n바이어스인의 문화 계승이고……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001795_MSG0002",
+      "style": 1,
+      "name": "그다음이 오르페인의 식량 비축\n그리고 노폰인의 영재 교육……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001795_MSG0003",
+      "style": 1,
+      "name": "앗, [ST:playername ] 씨\n계셨군요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001795_MSG0004",
+      "style": 1,
+      "name": "죄송해요\n생각을 좀 하느라 몰랐어요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001795_MSG0005",
+      "style": 1,
+      "name": "최근에 다양한 외계인분께\n상담을 해 드리고 있어서……\n조금…… 바쁘게 지내고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001795_JNK0010",
+      "style": 4,
+      "name": "묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001795_SEL0011",
+      "style": 3,
+      "name": "오르넬라가 없어서\n힘들지 않냐고 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001795_JNK0020",
+      "style": 4,
+      "name": "조언한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001795_SEL0021",
+      "style": 3,
+      "name": "우선순위를 매겨야 한다고 조언한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001795_JNK0030",
+      "style": 4,
+      "name": "권한다"
+    },
+    {
+      "$id": 11,
+      "label": "tev001795_SEL0031",
+      "style": 3,
+      "name": "블레이드 홈에\n펫을 보러 오지 않겠냐고 권한다"
+    },
+    {
+      "$id": 12,
+      "label": "tev001795_MSG0006",
+      "style": 1,
+      "name": "오르넬라 씨가 없는 건……\n조금 불편할 뿐이에요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001795_MSG0007",
+      "style": 1,
+      "name": "애초에 제가 시작했으니\n제 힘으로 해내야 해요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001795_MSG0008",
+      "style": 1,
+      "name": "그러니까 지금이 올바른 상태라고 할까요……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001795_MSG0009",
+      "style": 1,
+      "name": "저는 제 방식대로 하기로 마음먹었으니까\n힘들지는 않아요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001795_MSG0010",
+      "style": 1,
+      "name": "그렇네요……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001795_MSG0011",
+      "style": 1,
+      "name": "시간을 들이지 않으면\n해결할 수 없는 문제도 있고……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001795_MSG0012",
+      "style": 1,
+      "name": "긴급도가 높은 문제도 있어요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001795_MSG0013",
+      "style": 1,
+      "name": "바로 도울 수 있는 분이나\n긴급도가 높은 분을 돕는 걸로 할게요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001795_MSG0014",
+      "style": 1,
+      "name": "조언 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001795_MSG0015",
+      "style": 1,
+      "name": "……왠지 그렇게 생각하고 정리하니까\n조금이지만 마음이 가벼워졌어요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001795_MSG0016",
+      "style": 1,
+      "name": "오신 김에 제 이야기를 들어 주실래요?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001795_MSG0017",
+      "style": 1,
+      "name": "후후, [ST:playername ] 씨는 다정하시네요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001795_MSG0018",
+      "style": 1,
+      "name": "모처럼 제안해 주셨지만, 지금은 괜찮아요\n전 아직 더 힘낼 수 있으니까요![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001795_MSG0019",
+      "style": 1,
+      "name": "정말 힘들어지면\n그 아이를 만나게 해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001795_MSG0020",
+      "style": 1,
+      "name": "기분 전환을 하면\n기운도 의욕도 충전될 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001795_MSG0021",
+      "style": 1,
+      "name": "그래도 조금만 호의에 기대도 괜찮을까요?\n제 이야기를 들어 주셨으면 좋겠어요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001795_MSG0022",
+      "style": 1,
+      "name": "우리 지구인은 많은 외계인분께\n여러 은혜를 입었잖아요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001795_MSG0023",
+      "style": 1,
+      "name": "지구인에게 없는 기술이나 지식……\n저는 그 은혜를 갚고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001795_MSG0024",
+      "style": 1,
+      "name": "상담을 통해 외계인분들을\n조금씩 알 수 있고\n우리 지구인에 대해서도 알릴 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001795_MSG0025",
+      "style": 1,
+      "name": "지구인과 외계인분들의 사이가 더 좋아지면\n더 오래오래 멋진 세상이 될 거라고[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001795_MSG0026",
+      "style": 1,
+      "name": "전 그렇게 믿고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001795_MSG0027",
+      "style": 1,
+      "name": "그런데 [ST:playername ] 씨는\n실제로 그렇게 하고 계시니까\n외계인분들 사이에서 평판이 좋아요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001795_MSG0028",
+      "style": 1,
+      "name": "저로서는 당신에게 힘을 드리면서\n개인으로서도 조금씩 열심히 하고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001795_MSG0029",
+      "style": 1,
+      "name": "그러니까 지금은\n저를 지켜봐 주세요[ST:wait ]"
+    }
+  ]
+}

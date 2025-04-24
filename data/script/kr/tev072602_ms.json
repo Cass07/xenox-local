@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev072602_MSG0001",
+      "style": 1,
+      "name": "앞으로의 일을 협의하고자\n모인 것이네만……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev072602_MSG0002",
+      "style": 1,
+      "name": "순오살라그가 아무리 기다려도 오지 않는다네\n대체 무슨 일인 거지?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev072602_MSG0003",
+      "style": 1,
+      "name": "요즘 오버가 묘하게 술렁였던 것은\n이 상황으로 인한 것인가……?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev072602_MSG0004",
+      "style": 1,
+      "name": "순오살라그여, 부디 무사하길……[ST:wait ]"
+    }
+  ]
+}

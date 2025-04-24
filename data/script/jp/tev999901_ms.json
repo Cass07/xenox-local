@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999901_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999901_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999901_JNK0030",
+      "style": 4,
+      "name": "バトルメンバーに加える[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999901_SEL0031",
+      "style": 3,
+      "name": "活動中のブレイド隊員[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999901_MSG0001",
+      "style": 1,
+      "name": "これが導きか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999901_MSG0101",
+      "style": 1,
+      "name": "永遠の宿敵にして親友よ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999901_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999901_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999901_MSG2001",
+      "style": 1,
+      "name": "契約は結ばれた[ST:wide ]―\n支援は我がユニオンに任せてもらおう[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999901_MSG2101",
+      "style": 1,
+      "name": "盟約により我がユニオンは\n時空を超えてお前を支援しつづけよう[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999901_MSG3001",
+      "style": 1,
+      "name": "俺と契約を結びたいというのか？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999901_MSG3101",
+      "style": 1,
+      "name": "[ST:wide ]―当然の判断だな[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999901_MSG3102",
+      "style": 1,
+      "name": "俺がついていくことはこの星が\n誕生してから決まっていたことだからな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev999901_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999901_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev999901_MSG5001",
+      "style": 1,
+      "name": "今　オーラの力を極限まで高めている\n話しかけるな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev999901_MSG5101",
+      "style": 1,
+      "name": "天の声が聞こえないか？\n今は話しかける時ではない[ST:wide ]―と[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093205_MSG0010",
+      "style": 0,
+      "name": "아직 시간이 좀 있군……\n이런, 너무 배고파서 어지럽잖아[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093205_MSG0020",
+      "style": 0,
+      "name": "아무튼 됐어, 이렇게까지 했으니\n얼마든지 기다려 주마, 젠장[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093205_MSG0030",
+      "style": 0,
+      "name": "알? 게다가 당신까지……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093205_MSG0040",
+      "style": 0,
+      "name": "오, 마침 잘 왔다\n이렇게 된 거, 너희도 끼라고[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093205_MSG0050",
+      "style": 0,
+      "name": "모모? 뭔가모?\n즐거운 일인가모?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093205_MSG0060",
+      "style": 0,
+      "name": "그래, 그런 일이지\n저기 부엌 좀 빌릴게[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093205_MSG0070",
+      "style": 0,
+      "name": "슬슬 올 때가 됐으니까[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093205_MSG0080",
+      "style": 0,
+      "name": "……? 뭐가 오는데요?[ST:wait ]"
+    }
+  ]
+}

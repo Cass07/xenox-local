@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086201_MSG0001",
+      "style": 0,
+      "name": "みなさんは私の親友も同じ！\n親友ならば助け合うものですよね？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086201_MSG0002",
+      "style": 0,
+      "name": "ちょちょ　ちょっといきなり何ですか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086201_MSG0003",
+      "style": 0,
+      "name": "実は私の悩みを聞いてほしいのです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086201_MSG0004",
+      "style": 0,
+      "name": "聞くだけならかまわないですも[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086201_MSG0005",
+      "style": 0,
+      "name": "おお　さすがはノポン人！\nその計算高さが心に刺さります[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086201_JNK0010",
+      "style": 4,
+      "name": "想像"
+    },
+    {
+      "$id": 7,
+      "label": "qev086201_SEL0011",
+      "style": 3,
+      "name": "売り上げが低いのかと尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "qev086201_JNK0020",
+      "style": 4,
+      "name": "憶測"
+    },
+    {
+      "$id": 9,
+      "label": "qev086201_SEL0021",
+      "style": 3,
+      "name": "きっと借金問題だと言い放つ"
+    },
+    {
+      "$id": 10,
+      "label": "qev086201_MSG0006",
+      "style": 0,
+      "name": "いえいえ　とんでもない[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086201_MSG0006_2",
+      "style": 0,
+      "name": "ＮＬＡのみなさんにご贔屓していただいて\n順風満帆[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086201_MSG0007",
+      "style": 0,
+      "name": "むしろ　事業拡大しようと\n考えている程でして[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086201_MSG0008",
+      "style": 0,
+      "name": "いえ　そういうわけではありません\n無借金経営が私のモットーですから[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086201_MSG0009",
+      "style": 0,
+      "name": "聞くだけでなく手伝えることなら力になるわよ\n言ってみて[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086201_MSG0010",
+      "style": 0,
+      "name": "これぞ　故事に言う　ダメで元々\nありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086201_MSG0011",
+      "style": 0,
+      "name": "実は私　発明が趣味でして[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086201_MSG0012",
+      "style": 0,
+      "name": "ええ　そうなんですか！？\n興味あるなぁ　どんなもの作るんですか？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086201_MSG0013",
+      "style": 0,
+      "name": "よくぞ聞いてくれました！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086201_MSG0014",
+      "style": 0,
+      "name": "と言いたいところですが[ST:wide ]―\nやはり企業秘密というものがありまして[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086201_MSG0015",
+      "style": 0,
+      "name": "何ですか　それ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086201_MSG0016",
+      "style": 0,
+      "name": "見て欲しいのでないとすると\n何が悩みなの？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086201_MSG0017",
+      "style": 0,
+      "name": "はい実は　発明品を作るための\nマテリアルが集まらないのです[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086201_MSG0018",
+      "style": 0,
+      "name": "夜光の森にいた頃は\nいろいろと手に入ったのですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086201_MSG0019",
+      "style": 0,
+      "name": "確かに街の中にいると　完成品は手に入るけど\nマテリアルはなかなか見かけないですよね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086201_MSG0021",
+      "style": 0,
+      "name": "そうなんです！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086201_MSG0022",
+      "style": 0,
+      "name": "ですが　街から一歩出ると\nそこは原生生物徘徊する弱肉強食の世界！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086201_MSG0023",
+      "style": 0,
+      "name": "私のような頭脳労働者がマテリアルを\n集めるのはなかなかに難しく[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086201_MSG0024",
+      "style": 0,
+      "name": "その気持ち　同じズノーロードーシャとして\nわかるですも[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086201_MSG0025",
+      "style": 0,
+      "name": "あんたの頭脳が　いつ労働したっていうのよ！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086201_MSG0026",
+      "style": 0,
+      "name": "ルーやタツの自己評価はともかく\n言いたいことは分かったわ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086201_MSG0027",
+      "style": 0,
+      "name": "要するにマテリアル集めに\n協力すればいいのね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086201_MSG0028",
+      "style": 0,
+      "name": "おお　なんと話がはやい！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086201_MSG0029",
+      "style": 0,
+      "name": "これぞ　故事に言う\n目は口ほど煮物を食う！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086201_MSG0030",
+      "style": 0,
+      "name": "むむむ　タツも煮物食べたいですも[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086201_MSG0031",
+      "style": 0,
+      "name": "言いたいことはよくわからないけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086201_MSG0031_2",
+      "style": 0,
+      "name": "今回は　ルーさんが依頼主ってことで\nいいんですね？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086201_MSG0032",
+      "style": 0,
+      "name": "ちゃんと報酬いただきますよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086201_MSG0033",
+      "style": 0,
+      "name": "はい　ご期待ください！[ST:wait ]"
+    }
+  ]
+}

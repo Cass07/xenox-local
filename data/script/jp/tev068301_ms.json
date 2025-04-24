@@ -1,0 +1,330 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev068301_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev068301_SEL0011",
+      "style": 3,
+      "name": "グロウスの本拠地に\nついて聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev068301_JNK0020",
+      "style": 4,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev068301_SEL0021",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev068301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev068301_SEL0031",
+      "style": 3,
+      "name": "セントラルライフでの\n決戦について聞く[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev068301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev068301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev068301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev068301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev068301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev068301_SEL1021",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev068301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev068301_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev068301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev068301_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev068301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev068301_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "tev068301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev068301_SEL2021",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev068301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev068301_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev068301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev068301_SEL2041",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev068301_MSG0001",
+      "style": 1,
+      "name": "黒鋼の大陸にある　奇怪な城に住みつき\n悪逆非道の限りを尽くしているよ……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev068301_MSG0002",
+      "style": 1,
+      "name": "ふんっ　お前も奴らに恨みがあるようだがな\nそれはこの私とて同じこと！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev068301_MSG0003",
+      "style": 1,
+      "name": "修練を積み　誰にも負けぬ強さを手に入れ\nいずれ　この手で奴らを滅ぼしてやる！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev068301_MSG0004",
+      "style": 1,
+      "name": "ブレイドと私　どちらが討って出るのが早いか\nこれもまた勝負だからな！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev068301_MSG0009",
+      "style": 1,
+      "name": "あれからもランガは私の心配ばかりしているが\nそのようなものは無用！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev068301_MSG0010",
+      "style": 1,
+      "name": "私は姫などではなく　武士なのだからな！\n受けた屈辱は　武をもって必ず返す！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev068301_MSG0011",
+      "style": 1,
+      "name": "覚えておけ　兄様より譲り受けしこの技で\nまずはお前に勝つ！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev068301_MSG0012",
+      "style": 1,
+      "name": "そしていつか[ST:wide ]―ヤツの息の根を止めてやる！\n兄様の仇を必ず討つんだ！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev068301_MSG0017",
+      "style": 1,
+      "name": "お前がセントラルライフへ向かう時\n私も共に前線へ行こうとしたのだ！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev068301_MSG0018",
+      "style": 1,
+      "name": "しかし[ST:wide ]―我が愚弟　ランガめが立ちはだかり\n行くのであれば\n自分を切って行けなどと止めるものでな[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev068301_MSG0019",
+      "style": 1,
+      "name": "決戦に参加することができなかったんだ！\nくそっ……！　悔しいぞ！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev068301_MSG0020",
+      "style": 1,
+      "name": "私もお前のように\nルクザールめに　一太刀浴びせたかった！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev068301_MSG1001",
+      "style": 1,
+      "name": "ヤツはもう……いないのか……\n兄様も…………[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev068301_MSG1002",
+      "style": 1,
+      "name": "……ありがとうな　[ST:playername ]\nこれで兄様は成仏できたはずだ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev068301_MSG1003",
+      "style": 1,
+      "name": "これからは私も　ゾ家の跡取りとして\n責任ある行動を心がけ\nランガと共にゾ家を守っていこうと思う[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev068301_MSG1004",
+      "style": 1,
+      "name": "もちろん　我が一族の名誉を\n傷つける者がいれば　この身を賭してでも\nその報いを味わわせてやるがな[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev068301_MSG1005",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev068301_MSG1006",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "tev068301_MSG2001",
+      "style": 1,
+      "name": "私には目標とする人物が\n兄の他にもう一人いるのだ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev068301_MSG2002",
+      "style": 1,
+      "name": "名は　ゲ・ジユ[ST:wide ]―\n尊敬する女性であり　武人でもある[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev068301_MSG2003",
+      "style": 1,
+      "name": "ゲ・ジユが　グロウスに一矢報いるため\n飛び出したと聞き　案じていたのだが\n無事に帰還したそうだ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev068301_MSG2004",
+      "style": 1,
+      "name": "……ああ　そうか\n私が戻ってきた時　弟のランガも\nこの気持ちだったのか……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev068301_MSG2005",
+      "style": 1,
+      "name": "やはり　ゲ・ジユに教わることは多いな[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev068301_MSG2010",
+      "style": 1,
+      "name": "私には目標とする人物が\n兄の他にもう一人いるのだ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev068301_MSG2011",
+      "style": 1,
+      "name": "名は　ゲ・ジユ[ST:wide ]―\n尊敬する女性であり　武人でもある[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev068301_MSG2012",
+      "style": 1,
+      "name": "ゲ・ジユが　グロウスに一矢報いるため\n飛び出したと聞き　案じていたのだが\n……落命したそうだ[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev068301_MSG2013",
+      "style": 1,
+      "name": "残される辛さなど　二度と味わいたくないと\n思っていたのだが……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev068301_MSG2014",
+      "style": 1,
+      "name": "仲間を失うのは　ゲ・ジユで最後にしたい……\nそのために私ができることを　探すのが\nきっと弔いになるだろう……[ST:wait ]"
+    }
+  ]
+}

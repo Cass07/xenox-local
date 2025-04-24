@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs09050100_MSG0001",
+      "style": 0,
+      "name": "라오 씨!?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs09050100_MSG0002",
+      "style": 0,
+      "name": "왔군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs09050100_MSG0003",
+      "style": 0,
+      "name": "그럴 수가……\n라오 씨의 팀원들은 모두……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs09050100_MSG0004",
+      "style": 0,
+      "name": "그래, 그로우스 녀석들 손에 죽었어\n내 실수다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs09050100_MSG0005",
+      "style": 0,
+      "name": "우리가 더 빨리 도착했더라면[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs09050100_MSG0006",
+      "style": 0,
+      "name": "녀석들이 당하지 않았을 거라고?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs09050100_MSG0007",
+      "style": 0,
+      "name": "아무래도 상관없어[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs09050100_MSG0008",
+      "style": 0,
+      "name": "라이프를 찾으면 얼마든지\n되살아날 수 있으니까 말이야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs09050100_MSG0009",
+      "style": 0,
+      "name": "라오 씨……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs09050100_MSG0010",
+      "style": 0,
+      "name": "행운아라니까, 우리들은[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs09050100_MSG0011",
+      "style": 0,
+      "name": "인류 대부분은 지구와 함께\n사라져 버렸는데[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs09050100_MSG0012",
+      "style": 0,
+      "name": "우리는 몇 번이고 부활할 수 있는 몸 덕분에\n속 편하게 살고 있잖아[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs09050100_MSG0013",
+      "style": 0,
+      "name": "센트럴 라이프를 확보하지 못하면\n그 행운도 전부 무의미해질 거야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs09050100_MSG0014",
+      "style": 0,
+      "name": "이야기는 이쯤 하자, 라오\n지금은 당신의 치료가 먼저야[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs09050100_MSG0015",
+      "style": 0,
+      "name": "우리와 함께 일단 NLA로 돌아가자[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs09050100_MSG0016",
+      "style": 0,
+      "name": "아니, 안 돼[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs09050100_MSG0017",
+      "style": 0,
+      "name": "그로우스한테 최우선 목표물이 넘어가기라도 하면\n손쓸 방법이 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs09050100_MSG0018",
+      "style": 0,
+      "name": "너희는 서둘러 가 봐[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs09050100_MSG0019",
+      "style": 0,
+      "name": "라오 씨를 두고 갈 수는 없어요![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs09050100_MSG0020",
+      "style": 0,
+      "name": "걱정할 거 없어\n테스터먼트 녀석들한테라도 신세 지면 돼[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs09050100_MSG0021",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs09050100_MSG0022",
+      "style": 0,
+      "name": "라이프의 좌표를 전송했어[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs09050100_MSG0023",
+      "style": 0,
+      "name": "방향은 여기서 북쪽이야\n미안하지만 잘 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs09050100_MSG0024",
+      "style": 0,
+      "name": "알겠어, 당신 말에 따를게[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs09050100_MSG0025",
+      "style": 0,
+      "name": "서두르자, 그로우스에게 들키기 전에\n임무를 마치는 게 좋겠어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs09050100_MSG0026",
+      "style": 0,
+      "name": "린[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs09050100_MSG0027",
+      "style": 0,
+      "name": "네?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs09050100_MSG0028",
+      "style": 0,
+      "name": "이 너머에는 그로우스가 많아서 위험해\n넌 다른 곳에서 기다리는 편이 좋지 않을까?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs09050100_MSG0029",
+      "style": 0,
+      "name": "말씀은 고마워요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs09050100_MSG0029_2",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs09050100_MSG0030",
+      "style": 0,
+      "name": "전 팀원분들을 따라갈 거예요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs09050100_MSG0031",
+      "style": 0,
+      "name": "이 너머가 위험한 구역이라면\n오히려 평소보다 더 노력해야죠![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs09050100_MSG0032",
+      "style": 0,
+      "name": "전 모두를 많이 돕고 싶거든요![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs09050100_MSG0033",
+      "style": 0,
+      "name": "걱정해 주셔서 감사합니다![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs09050100_MSG0034",
+      "style": 0,
+      "name": "저 녀석들도 B.B.를 잃을 뿐이야\n죽는 게 아니라고[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs09050100_MSG0035",
+      "style": 0,
+      "name": "신경 쓸 필요 없어[ST:wait ]"
+    }
+  ]
+}

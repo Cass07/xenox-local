@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001893_MSG0001",
+      "style": 1,
+      "name": "아, 선배……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001893_MSG0002",
+      "style": 1,
+      "name": "보고 말았군요……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001893_JNK0010",
+      "style": 4,
+      "name": "추궁한다"
+    },
+    {
+      "$id": 4,
+      "label": "tev001893_SEL0011",
+      "style": 3,
+      "name": "남성들을 죽인 거냐고 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001893_JNK0020",
+      "style": 4,
+      "name": "걱정한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001893_SEL0021",
+      "style": 3,
+      "name": "미아가 다치지 않았는지 걱정한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001893_MSG0003",
+      "style": 1,
+      "name": "칼등 치기라는 거예요\n이 사람들도 B.B.라서 튼튼하게 만들어졌어요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001893_MSG0004",
+      "style": 1,
+      "name": "괜찮아요\n이래 봬도 선배에게 단련받은\n어엿한 블레이드예요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001893_MSG0005",
+      "style": 1,
+      "name": "사실은 얼마 전부터 잠입 조사를 하고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001893_MSG0006",
+      "style": 1,
+      "name": "사쿠라바 중공업의 의뢰로\n신형 병기 정보를 훔치려는 못된 악당을 잡는\n임무를 수행했던 거라고요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001893_MSG0007",
+      "style": 1,
+      "name": "중요한 정보가 라이벌 기업이나\n적에게 들어가기라도 하면 큰일이니까요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001893_MSG0008",
+      "style": 1,
+      "name": "……심야에 주택 에어리어에서\n선배와 마주친 게 첫 회의 때였고[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001893_MSG0009",
+      "style": 1,
+      "name": "그리고 상업 에어리어에서 만난 건\n정보를 훔쳐 오라는 의뢰를\n받았을 때였어요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001893_MSG0010",
+      "style": 1,
+      "name": "물론 사쿠라바 중공업에서\n가짜 정보를 받아\n이 악당들에게 전해 준 거죠[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001893_MSG0011",
+      "style": 1,
+      "name": "그리고 오늘 이 악당들을\n한 번에 검거한 거예요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001893_MSG0012",
+      "style": 1,
+      "name": "어때요?\n제 연기 꽤 좋았죠?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001893_JNK0030",
+      "style": 4,
+      "name": "칭찬한다"
+    },
+    {
+      "$id": 18,
+      "label": "tev001893_SEL0031",
+      "style": 3,
+      "name": "완벽한 연기였다고 칭찬한다"
+    },
+    {
+      "$id": 19,
+      "label": "tev001893_JNK0040",
+      "style": 4,
+      "name": "장난친다"
+    },
+    {
+      "$id": 20,
+      "label": "tev001893_SEL0041",
+      "style": 3,
+      "name": "원래 성격 그대로였다고 장난친다"
+    },
+    {
+      "$id": 21,
+      "label": "tev001893_JNK0050",
+      "style": 4,
+      "name": "허세 부린다"
+    },
+    {
+      "$id": 22,
+      "label": "tev001893_SEL0051",
+      "style": 3,
+      "name": "처음부터 전부 간파했었다며\n여유 부린다"
+    },
+    {
+      "$id": 23,
+      "label": "tev001893_MSG0013",
+      "style": 1,
+      "name": "감사합니다![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001893_MSG0014",
+      "style": 1,
+      "name": "사쿠라바 중공업의 협력이 있었지만\n혼자 악당도 잡을 수 있게 됐어요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001893_MSG0015",
+      "style": 1,
+      "name": "이걸로 한층 더 자신감이 생겼어요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001893_MSG0016",
+      "style": 1,
+      "name": "더욱더 엄청난 임무를 수행해서\n곧 선배를 따라잡을 거예요![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001893_MSG0017",
+      "style": 1,
+      "name": "선배가 방해하니까\n하마터면 들킬 뻔해서\n위험했다고요![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001893_MSG0018",
+      "style": 1,
+      "name": "제 완벽한 대처 덕분에\n임무를 완료했다는 걸\n기억해 두세요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001893_MSG0019",
+      "style": 1,
+      "name": "그래도 어떻게든 혼자 위기를 극복할 수 있어서\n자신감은 붙었어요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001893_MSG0020",
+      "style": 1,
+      "name": "더욱더 엄청난 임무를 수행해서\n곧 선배를 따라잡을 거예요![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001893_MSG0021",
+      "style": 1,
+      "name": "강한 척하시기는~[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001893_MSG0022",
+      "style": 1,
+      "name": "아무래도 전 선배도 놀라게 할 정도로\n성장한 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001893_MSG0023",
+      "style": 1,
+      "name": "그래도 이번 일은 사쿠라바 중공업의\n협력도 있었기 때문에 가능했던 것……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001893_MSG0024",
+      "style": 1,
+      "name": "더욱더 엄청난 임무를 수행해서\n곧 선배를 따라잡을 거예요![ST:wait ]"
+    }
+  ]
+}

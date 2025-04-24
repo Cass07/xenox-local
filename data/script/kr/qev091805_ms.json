@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091805_MSG0001",
+      "style": 0,
+      "name": "머더레스……\n도망치지 않고 돌아왔구나[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091805_MSG0002",
+      "style": 0,
+      "name": "어머? 내가 도망칠 줄 알았니?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091805_MSG0003",
+      "style": 0,
+      "name": "그래, 전혀 안 믿고 있었거든\n또 날 배신하고 도망쳤다고 생각했지[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091805_MSG0004",
+      "style": 0,
+      "name": "……그건 그렇고 범인은?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091805_MSG0005",
+      "style": 0,
+      "name": "지금쯤 괴물의 배 속일 거야\n아니면 똥이 됐든가[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091805_MSG0006",
+      "style": 0,
+      "name": "입이 저질인 아가씨네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091805_MSG0007",
+      "style": 0,
+      "name": "누구 씨를 어깨 너머로\n보고 배운 덕분일걸[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091805_MSG0008",
+      "style": 0,
+      "name": "다음에 같이 한잔하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091805_MSG0009",
+      "style": 0,
+      "name": "그래, 너도 올 거지?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091805_JNK0010",
+      "style": 4,
+      "name": "이리나를 본다"
+    },
+    {
+      "$id": 11,
+      "label": "qev091805_SEL0011",
+      "style": 3,
+      "name": "이리나가 사 준다면\n가겠다고 말한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev091805_JNK0020",
+      "style": 4,
+      "name": "머더레스를 본다"
+    },
+    {
+      "$id": 13,
+      "label": "qev091805_SEL0021",
+      "style": 3,
+      "name": "머더레스가 한턱낸다면\n가겠다고 말한다"
+    },
+    {
+      "$id": 14,
+      "label": "qev091805_JNK0030",
+      "style": 4,
+      "name": "허세를 부린다"
+    },
+    {
+      "$id": 15,
+      "label": "qev091805_SEL0031",
+      "style": 3,
+      "name": "자신이 한턱내겠다고 말한다"
+    },
+    {
+      "$id": 16,
+      "label": "qev091805_MSG0010",
+      "style": 0,
+      "name": "안 살 거야![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091805_MSG0011",
+      "style": 0,
+      "name": "이번만큼은 아가씨가 한턱내겠지?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091805_MSG0012",
+      "style": 0,
+      "name": "그래, 이번 일에 한해서는 내 사적인 원한에\n너희가 휘말린 거니까 한턱내 줄게[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091805_MSG0013",
+      "style": 0,
+      "name": "그래, 이번 일에 한해서는 내 사적인 원한에\n너희가 휘말린 거니까 한턱내 줄게[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091805_MSG0014",
+      "style": 0,
+      "name": "진짜로!?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091805_MSG0015",
+      "style": 0,
+      "name": "나도 이리나도 사양하지 않을 거야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091805_MSG0016",
+      "style": 0,
+      "name": "그래, 각오하라고[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091805_MSG0017",
+      "style": 0,
+      "name": "아버님, 어머님, 지켜봐 주세요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091805_MSG0018",
+      "style": 0,
+      "name": "모두의 힘을 잔뜩\n빌리게 될지도 모르지만……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091805_MSG0019",
+      "style": 0,
+      "name": "반드시 에핀저 가문을 부흥시키겠어요\n이 미라의 대지에서[ST:wait ]"
+    }
+  ]
+}

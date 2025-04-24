@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087707_MSG0001",
+      "style": 0,
+      "name": "이걸로 6대\n이겼네요![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087707_MSG0002",
+      "style": 0,
+      "name": "한발 늦었나[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087707_MSG0003",
+      "style": 0,
+      "name": "그대들이 먼저 처리하다니\n아무래도 우리의 패배인 것 같군[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087707_MSG0004",
+      "style": 0,
+      "name": "당신들이 준 정보가 없었으면\n우리가 졌을 거야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087707_MSG0005",
+      "style": 0,
+      "name": "그래도 패배는 패배다, 분하군[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087707_MSG0006",
+      "style": 0,
+      "name": "그런 말은 마라, 보우\n이 일은 우리의 잘못이 원흉이다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087707_MSG0007",
+      "style": 0,
+      "name": "사태 수습을 도와준 그들에게\n감사 인사를 해야지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087707_MSG0008",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087707_JNK0010",
+      "style": 4,
+      "name": "우호"
+    },
+    {
+      "$id": 10,
+      "label": "qev087707_SEL0011",
+      "style": 3,
+      "name": "친구끼리 신경 쓰지 말라며 웃는다"
+    },
+    {
+      "$id": 11,
+      "label": "qev087707_JNK0020",
+      "style": 4,
+      "name": "친교"
+    },
+    {
+      "$id": 12,
+      "label": "qev087707_SEL0021",
+      "style": 3,
+      "name": "곤란할 때는 도와 달라며 웃는다"
+    },
+    {
+      "$id": 13,
+      "label": "qev087707_MSG0009",
+      "style": 0,
+      "name": "그리고 별로 고생도 아니었어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087707_MSG0010",
+      "style": 0,
+      "name": "비록 당신들의 기체가 뛰어나다 해도\n타는 사람이 미숙해서는 성능을 끌어낼 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087707_MSG0011",
+      "style": 0,
+      "name": "당신들 라스인이 탔던 돌과 싸웠을 때만큼\n고생하진 않았어[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087707_MSG0012",
+      "style": 0,
+      "name": "과분한 칭찬이군[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087707_MSG0013",
+      "style": 0,
+      "name": "좋다, 다음에는 우리가\n위기에 처한 벗에게 달려가지[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087707_MSG0014",
+      "style": 0,
+      "name": "그대들에게 고생이 찾아올 날을\n손꼽아 기다리겠다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087707_MSG0015",
+      "style": 0,
+      "name": "그래, 그걸로 서로 빚은 없어지는 거야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087707_MSG0016",
+      "style": 0,
+      "name": "빚을 지고 있는 것은 좋아하지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087707_MSG0017",
+      "style": 0,
+      "name": "지구인이여, 빨리 궁지에 빠져 다오\n기대하고 있겠다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087707_MSG0018",
+      "style": 0,
+      "name": "정말~~ 그게 친구에게 할 말인가요![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs02050100_MSG0001",
+      "style": 0,
+      "name": "ヴァンダム司令！？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs02050100_MSG0002",
+      "style": 0,
+      "name": "おう　戻ってきやがったか[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs02050100_MSG0003",
+      "style": 0,
+      "name": "わざわざお出迎え？\nこちらから本部に出頭したのに[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs02050100_MSG0004",
+      "style": 0,
+      "name": "待ちきれなくなっただけさ　なぁ？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs02050100_MSG0005",
+      "style": 0,
+      "name": "俺が聞きに来てやった方が早いだろう？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs02050100_MSG0006",
+      "style": 0,
+      "name": "多少手間取ったみたいだが\nま　初めてにしちゃあ　上出来だ[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs02050100_MSG0007",
+      "style": 0,
+      "name": "任務終了　ご苦労さん[ST:wait ]\n"
+    }
+  ]
+}

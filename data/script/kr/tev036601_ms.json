@@ -1,0 +1,360 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev036601_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev036601_SEL0011",
+      "style": 1,
+      "name": "미라늄에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev036601_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev036601_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev036601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev036601_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev036601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev036601_SEL0041",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev036601_MSG0001",
+      "style": 1,
+      "name": "메이메이는 마 논 우주선으로 여행을 하면서\n다양한 행성의 광석을 가공해 왔지만 말이징![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev036601_MSG0002",
+      "style": 1,
+      "name": "미라늄만큼 스페셜한 건\n본 적이 없엉![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev036601_MSG0003",
+      "style": 1,
+      "name": "가공에 따라서는 쇠보다 단단해지기도 하고\n스펀지보다 부드러워지기도 행![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev036601_MSG0004",
+      "style": 1,
+      "name": "게다가 분자를 잘 분열시키면\n에너지를 추출하는 것도 가능할지동!?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev036601_MSG0005",
+      "style": 1,
+      "name": "이런 만능 광석이 여기저기에 떨어져 있다니\n행성 미라는 대단한 곳이양![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev036601_MSG0008",
+      "style": 1,
+      "name": "메이메이는 미라늄을 다양한 재료로 교환하는\n슈퍼 머신을 개발 중이양[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev036601_MSG0009",
+      "style": 1,
+      "name": "이게 완성되면 미라늄이\n잔뜩잔뜩 필요해질 거니깡![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev036601_MSG0010",
+      "style": 1,
+      "name": "많~이 팔아 줭, 플리즈 미!\n『빛나는 박학당』이라는 회사에서\n퀘스트 보드로 의뢰할겡![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev036601_MSG0025",
+      "style": 1,
+      "name": "안녕~! 『빛나는 박학당』에 온 걸 환영행~![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev036601_MSG0026",
+      "style": 1,
+      "name": "드디어 슈퍼 연금 머신!\n『미라늄 체인지』가 완성됐엉![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev036601_MSG0027",
+      "style": 1,
+      "name": "퀘스트 보드에서 미라늄\n절찬 매입 서비스를 하고 있으니깡!\n꼭 많이 이용해 줭![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev036601_MSG0028",
+      "style": 1,
+      "name": "조금 더 있으면 특별 회원 서비스도\n시작할 테니까 그것도 이용 부탁행\n플리즈 미양![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev036601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev036601_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev036601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev036601_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev036601_MSG0029",
+      "style": 1,
+      "name": "브론즈 회원님, 어서 왕!\n메이메이는 장사가 아주 잘되고 있엉![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev036601_MSG0030",
+      "style": 1,
+      "name": "너는 어땡? 환전율을 업했는데\n미라늄 환전을 이용하고 있엉?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev036601_MSG0031",
+      "style": 1,
+      "name": "퀘스트 보드에서 언제든 받을 수 있으니까\n계속해서 체인지 머니! 해 줭![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev036601_MSG0032",
+      "style": 1,
+      "name": "그리고 조금 더 있으면 실버 회원으로\n스텝 업 찬스도 있으니까\n그쪽도 모쪼록 기대해 줭![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev036601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev036601_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev036601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev036601_SEL2021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev036601_MSG0033",
+      "style": 1,
+      "name": "실버 회원님, 어서 왕!\n네 덕분에 슈퍼 연금 머신\n『미라늄 체인지』는 성황이양![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev036601_MSG0034",
+      "style": 1,
+      "name": "지금 회원님들 한정 슈퍼 환전율로\n머니 체인지가 개최 중이양![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev036601_MSG0035",
+      "style": 1,
+      "name": "팍팍 환전해서 겟 머니!\n해 버령![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev036601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev036601_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev036601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev036601_SEL3021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev036601_MSG0036",
+      "style": 1,
+      "name": "우와! 골드 회원님!\n『빛나는 박학당』에 웰컴![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev036601_MSG0037",
+      "style": 1,
+      "name": "네 덕분에 메이메이의 자산은\n늘어만 가고 있엉![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev036601_MSG0038",
+      "style": 1,
+      "name": "이대로 가면 NLA 제일의 부자가 될 날도\n베리 베리 가까워질 거양![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev036601_MSG0039",
+      "style": 1,
+      "name": "너만을 위한 고액 환전 서비스 중이니깡!\n퀘스트 보드에서 체인지 머니!\n해 버령![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev036601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev036601_SEL4011",
+      "style": 3,
+      "name": "미라늄에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev036601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "tev036601_SEL4021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev036601_MSG0040",
+      "style": 1,
+      "name": "메이메이의 머니를\n블레이드에게 프레젠트하러 갔을 때 말이징[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev036601_MSG0041",
+      "style": 1,
+      "name": "커스티라는 멋진 연구자와\n미라늄에 관해 이야기했엉![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev036601_MSG0042",
+      "style": 1,
+      "name": "행성 미라는 그런 스페셜한 광석을\n어떤 에어리어에서든 얻을 수 있잖앙?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev036601_MSG0043",
+      "style": 1,
+      "name": "그거 아무리 생각해도 부자연스럽단 말이징\n마치 행성 자체가 미라늄이 생기도록\n의도적으로 메이킹된 것 같아서……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev036601_MSG0044",
+      "style": 1,
+      "name": "커스티는 신이 우리에게\n프레젠트해 준 걸지도……\n라고 했지만~[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev036601_MSG0045",
+      "style": 1,
+      "name": "애초에 신이라는 게 뭘깡?\n그렇게나 대단한 기술자인 거양?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev036601_MSG0048",
+      "style": 1,
+      "name": "나이스 피자! 플래티넘 회원님!\n그레네이드 피자 먹을랭?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev036601_MSG0049",
+      "style": 1,
+      "name": "메이메이는 매일매일 피자 삼매경이라\n베리 베리 해피양![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev036601_MSG0050",
+      "style": 1,
+      "name": "이제 돈에도 『빛나는 박학당』에도\n전혀 관심이 없지만![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev036601_MSG0051",
+      "style": 1,
+      "name": "너만을 위해 이익 따지지 않고\n고액 환전 서비스는 계속할 테니깡!\n앞으로도 쭉쭉 이용해 줭![ST:wait ]"
+    }
+  ]
+}

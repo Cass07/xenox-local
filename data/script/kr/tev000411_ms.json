@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000411_MSG0010",
+      "style": 1,
+      "name": "영웅 알로이스 브루놀트와\n임무를 함께할 예정이라면\n부디 저도 동행하고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000411_MSG0020",
+      "style": 1,
+      "name": "영웅이라 불리는 남자의 모든 것을 관찰하고\n제 발전의 양식으로 삼고 싶거든요\n……물론 괜찮겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000411_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 4,
+      "label": "tev000411_SEL0040",
+      "style": 3,
+      "name": "HB를 멤버에 넣는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev000411_MSG0050",
+      "style": 1,
+      "name": "훗, 안심하세요\n언제나 그랬듯이 임무도\n완벽하게 수행할 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000411_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000411_SEL0070",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000411_MSG0080",
+      "style": 1,
+      "name": "큭…… 그런가요……\n하지만 전 포기하지 않을 거예요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000411_MSG0081",
+      "style": 0,
+      "name": "ラスダン合流イベント（非加入時）"
+    },
+    {
+      "$id": 10,
+      "label": "tev000411_MSG0090",
+      "style": 1,
+      "name": "이거 참, 이제야 왔군요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000411_MSG0100",
+      "style": 1,
+      "name": "당신이 오는 동안\n저는 적군 정찰도 끝냈습니다\n왜냐면 전 엘리트니까요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000411_MSG0110",
+      "style": 1,
+      "name": "이제 여기에 볼일은 없으니\n다음 장소로 이동하죠[ST:wait ]"
+    }
+  ]
+}

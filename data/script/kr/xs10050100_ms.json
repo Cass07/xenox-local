@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs10050100_MSG0001",
+      "style": 0,
+      "name": "멋지네~ 생긴 게 참 마음에 들어\n오싹한 느낌이잖아[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs10050100_MSG0002",
+      "style": 0,
+      "name": "지구인 녀석들……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs10050100_MSG0002_2",
+      "style": 0,
+      "name": "나에게 창피를 준 일, 후회하게 만들어 주겠어![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs10050100_MSG9000",
+      "style": 0,
+      "name": "~ 그로우스 병기 격납고 ~[ST:wait ]"
+    }
+  ]
+}

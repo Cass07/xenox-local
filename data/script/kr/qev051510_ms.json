@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051510_MSG0001",
+      "style": 1,
+      "name": "노포히포가 지고 있는 짐을 내리고\n평소보다 17배 난폭하게\n싸우게 했는데……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051510_MSG0002",
+      "style": 1,
+      "name": "져 버렸다모~\n노포히포가 상처투성이다모~[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051510_MSG0003",
+      "style": 1,
+      "name": "드론고 카라반의 온천에 들어가게 해서\n상처를 치료해 줘야겠다모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051510_MSG0004",
+      "style": 1,
+      "name": "……당신 강했다모, 분명 우승할 거다모!\n루리리타가 보증한다모![ST:wait ]"
+    }
+  ]
+}

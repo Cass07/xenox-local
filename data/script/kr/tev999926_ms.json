@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999926_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999926_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999926_JNK0030",
+      "style": 4,
+      "name": "배틀 멤버에 넣는다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999926_SEL0031",
+      "style": 3,
+      "name": "활동 중인 블레이드 대원[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999926_MSG0001",
+      "style": 1,
+      "name": "안녕~[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999926_MSG0101",
+      "style": 1,
+      "name": "왔구나~ 기다렸잖아![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999926_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999926_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999926_MSG2001",
+      "style": 1,
+      "name": "유니언에 지원을 부탁해 뒀어![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999926_MSG2101",
+      "style": 1,
+      "name": "하~ 그거 말이구나[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999926_MSG2102",
+      "style": 1,
+      "name": "나도 데려가 줬으면 좋겠는데\n여기 있는 건 지루하단 말이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999926_MSG2103",
+      "style": 1,
+      "name": "농담이야, 유니언의 지원은 제대로\n받을 수 있게 해 놨으니까 안심해[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999926_MSG3001",
+      "style": 1,
+      "name": "안목이 보통이 아닌데~!\n내가 있으면 걱정 없어![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev999926_MSG3101",
+      "style": 1,
+      "name": "기다리고 있었어![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev999926_MSG3102",
+      "style": 1,
+      "name": "위기 상황에서 나오는 내 초인적인 힘\n드디어 보여 줄 때가 왔구나~![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999926_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev999926_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev999926_MSG5001",
+      "style": 1,
+      "name": "……지금 극비 임무를 수행 중이야\n그러니까 말 걸지 말아 줘[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev999926_MSG5101",
+      "style": 1,
+      "name": "봐도 모르겠지만\n나 지금 바쁘거든~[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev999926_MSG5102",
+      "style": 1,
+      "name": "명상 중이라고 해야 하나?\n방해받고 싶지 않달까\n득도의 경지가 머지않았달까[ST:wait ]"
+    }
+  ]
+}

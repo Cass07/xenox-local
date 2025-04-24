@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001093_MSG0001",
+      "style": 1,
+      "name": "……あ　[ST:playername ]さん\nこんにちは[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001093_MSG0002",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001093_MSG0003",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001093_MSG0004",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001093_MSG0005",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001093_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 7,
+      "label": "tev001093_SEL0011",
+      "style": 3,
+      "name": "何をしていたのか尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "tev001093_JNK0020",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 9,
+      "label": "tev001093_SEL0021",
+      "style": 3,
+      "name": "アリの数を数えていたのかと\n訊いてみる"
+    },
+    {
+      "$id": 10,
+      "label": "tev001093_MSG0006",
+      "style": 1,
+      "name": "……アリの数を数えてたんです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001093_MSG0007",
+      "style": 1,
+      "name": "ボゼさんが瞑想をするとき　頭の中で\n何か一つの物事に集中するといっていました[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001093_MSG0008",
+      "style": 1,
+      "name": "ボクはアリの数を数えるのに\n集中してみたんです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001093_MSG0009",
+      "style": 1,
+      "name": "その結果……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001093_MSG0010",
+      "style": 1,
+      "name": "大いに感動してしまったんです[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001093_MSG0011",
+      "style": 1,
+      "name": "このアリたちは地球のと同じくらい逞しいです[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001093_MSG0012",
+      "style": 1,
+      "name": "白鯨の中にアリはいなかったのに\nいつのまにかミラのアリが入ってきて\n巣を作ってるんです[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001093_MSG0013",
+      "style": 1,
+      "name": "こんなに小さな身体の虫が\nこんな大きな街で生きているんです[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001093_MSG0014",
+      "style": 1,
+      "name": "よくわかりましたね！\nその通りです！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001093_MSG0015",
+      "style": 1,
+      "name": "このアリたちは地球のと同じくらい逞しいです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001093_MSG0016",
+      "style": 1,
+      "name": "白鯨の中にアリはいなかったのに\nいつのまにかミラのアリが入ってきて\n巣を作ってるんです[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001093_MSG0017",
+      "style": 1,
+      "name": "こんなに小さな身体の虫が\nこんな大きな街で生きているんです[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001093_MSG0018",
+      "style": 1,
+      "name": "そう考えると見入ってしまって……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001093_JNK0030",
+      "style": 4,
+      "name": "誇る"
+    },
+    {
+      "$id": 24,
+      "label": "tev001093_SEL0031",
+      "style": 3,
+      "name": "自分たちもアリと同じくらい\n逞しいと今の環境を誇る"
+    },
+    {
+      "$id": 25,
+      "label": "tev001093_JNK0040",
+      "style": 4,
+      "name": "同調"
+    },
+    {
+      "$id": 26,
+      "label": "tev001093_SEL0041",
+      "style": 3,
+      "name": "フォグと同じく感傷に浸る"
+    },
+    {
+      "$id": 27,
+      "label": "tev001093_MSG0019",
+      "style": 1,
+      "name": "そうですね\nボクたちもミラという未知の惑星にやってきて\n巨大な原生生物ばかりの中で元気に生きてる[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001093_MSG0020",
+      "style": 1,
+      "name": "この調子で　ここのアリたちと一緒に\n生き抜いていかないといけないですね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001093_MSG0021",
+      "style": 1,
+      "name": "ええ……\n見守ってあげたいですね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001093_MSG0022",
+      "style": 1,
+      "name": "でも……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001093_MSG0023",
+      "style": 1,
+      "name": "その……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001093_MSG0024",
+      "style": 1,
+      "name": "あなたがボクに話しかけるときに\n5匹ほど踏んづけてしまいましたが……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001093_MSG0025",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    }
+  ]
+}

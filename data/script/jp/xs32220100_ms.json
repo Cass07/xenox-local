@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32220100_MSG0010",
+      "style": 0,
+      "name": "友達かは分からんが[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32220100_MSG0015",
+      "style": 0,
+      "name": "誰か住んでいるのは確かみたいだな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32220100_MSG0020",
+      "style": 0,
+      "name": "そうですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32220100_MSG0030",
+      "style": 0,
+      "name": "でも　誰もいないですね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32220100_MSG0040",
+      "style": 0,
+      "name": "もう出ていっちゃったんじゃないですも？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32220100_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 7,
+      "label": "xs32220100_SEL0010",
+      "style": 3,
+      "name": "そうだろうとうなずく"
+    },
+    {
+      "$id": 8,
+      "label": "xs32220100_MSG0050",
+      "style": 0,
+      "name": "きっとそうですも！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32220100_MSG0060",
+      "style": 0,
+      "name": "うーん　どうだろうな[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32220100_MSG0070",
+      "style": 0,
+      "name": "それなら荷物を運んだ形跡が\nあってもよさそうだが[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32220100_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 12,
+      "label": "xs32220100_SEL0020",
+      "style": 3,
+      "name": "まだいると伝える"
+    },
+    {
+      "$id": 13,
+      "label": "xs32220100_MSG0080",
+      "style": 0,
+      "name": "だろうな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32220100_MSG0090",
+      "style": 0,
+      "name": "ＮＬＡに行ったのなら[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32220100_MSG0100",
+      "style": 0,
+      "name": "荷物を運んだ形跡があってもよさそうだが\n特にない[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32220100_MSG0110",
+      "style": 0,
+      "name": "そうね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32220100_MSG0120",
+      "style": 0,
+      "name": "それに焚き火が消されていないのも気になる[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32220100_MSG0130",
+      "style": 0,
+      "name": "ちょっと前までここにいたってことですね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32220100_MSG0140",
+      "style": 0,
+      "name": "ええ　状況的にはね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32220100_MSG0150",
+      "style": 0,
+      "name": "どこかに水でも汲みに行ったんですかね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32220100_MSG0160",
+      "style": 0,
+      "name": "もっ　ももももぉぉぉぉぉーー[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32220100_MSG0170",
+      "style": 0,
+      "name": "そんなに遠くないな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32220100_MSG0180",
+      "style": 0,
+      "name": "行きましょう[ST:wait ]"
+    }
+  ]
+}

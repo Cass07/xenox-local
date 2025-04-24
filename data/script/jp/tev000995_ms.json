@@ -1,0 +1,306 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000995_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000995_MSG0002",
+      "style": 1,
+      "name": "最近　困ったことがあってな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000995_MSG0003",
+      "style": 1,
+      "name": "俺の説法を異星人が\nよく聞きにきてくれるのだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000995_MSG0004",
+      "style": 1,
+      "name": "以前だと教え子が代わる代わる\n聞きにきたくらいだから\n人数が多い分には歓迎なのだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000995_MSG0005",
+      "style": 1,
+      "name": "俺は真面目な話をしているのに\nどこがおもしろいかは分からんが\n毎回大爆笑なのだよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000995_MSG0006",
+      "style": 1,
+      "name": "静かにしろと喝を入れても\nそれがまた爆笑を呼んで収拾がつかんのだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000995_MSG0007",
+      "style": 1,
+      "name": "[ST:wide ]―以前なら異星人は追い払うか\n排除するかしていた俺も甘くなったもんでな[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000995_MSG0008",
+      "style": 1,
+      "name": "次こそはきっちり説法を聞いてもらおうと\n少なからず努力しているのだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000995_MSG0009",
+      "style": 1,
+      "name": "俺の教えが宇宙に広まるのは\n悪いことではないからな[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000995_MSG0010",
+      "style": 1,
+      "name": "さて　三つほど話を考えてきたのだが\nオヌシならどれがいいと思う？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000995_JNK0010",
+      "style": 4,
+      "name": "ピザの話"
+    },
+    {
+      "$id": 12,
+      "label": "tev000995_SEL0011",
+      "style": 3,
+      "name": "好物を食べられる\n幸せについて"
+    },
+    {
+      "$id": 13,
+      "label": "tev000995_JNK0020",
+      "style": 4,
+      "name": "先入観の話"
+    },
+    {
+      "$id": 14,
+      "label": "tev000995_SEL0021",
+      "style": 3,
+      "name": "思い込みによる異星人間の\nすれ違いについて"
+    },
+    {
+      "$id": 15,
+      "label": "tev000995_JNK0030",
+      "style": 4,
+      "name": "祭事の話"
+    },
+    {
+      "$id": 16,
+      "label": "tev000995_SEL0031",
+      "style": 3,
+      "name": "食べ物を供えて供養する\n文化・行事を教える"
+    },
+    {
+      "$id": 17,
+      "label": "tev000995_MSG0011",
+      "style": 1,
+      "name": "それがいいと思うか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000995_MSG0012",
+      "style": 1,
+      "name": "マ・ノン人共はピザを食べたくて\n仕方がない連中だ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000995_MSG0013",
+      "style": 1,
+      "name": "食べられないことを不満に思い\n苦しみを抱えている[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000995_MSG0014",
+      "style": 1,
+      "name": "だが　今まではピザなどなかったはずだ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000995_MSG0015",
+      "style": 1,
+      "name": "だから　ピザがないのが悪いことではない\nピザを食べられることが幸福なことなのだと\n話そうと思う[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000995_MSG0016",
+      "style": 1,
+      "name": "[ST:wide ]―バイアス人の連中も交じっているが\n食べ物のことだから興味を持って\n聞いてもらえるだろう[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000995_MSG0017",
+      "style": 1,
+      "name": "よし\nでは　始めるとしよう[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000995_MSG0018",
+      "style": 1,
+      "name": "オヌシはもちろん聞いていくだろう？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000995_MSG0019",
+      "style": 1,
+      "name": "[ST:wide ]―オヌシに聞いてよかったよ\n今回はしっかりと耳を傾けてくれた[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000995_MSG0020",
+      "style": 1,
+      "name": "これからも説法をするときには\nオヌシの意見を聞かせてくれよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000995_MSG0021",
+      "style": 1,
+      "name": "それがいいと思うか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000995_MSG0022",
+      "style": 1,
+      "name": "オヌシはセミを知っておるな？[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000995_MSG0023",
+      "style": 1,
+      "name": "成虫になり外に出ると1か月ほどで死ぬ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000995_MSG0024",
+      "style": 1,
+      "name": "短命だと思ってしまうが\n地中では数年も生きている[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000995_MSG0025",
+      "style": 1,
+      "name": "人は目にするものに囚われがちだということだ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000995_MSG0026",
+      "style": 1,
+      "name": "我々も同じだ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000995_MSG0027",
+      "style": 1,
+      "name": "地球人だけではなく異星人の皆も\n先入観に囚われずに理解し合おうと\n考えてもらわなければならんからな[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000995_MSG0028",
+      "style": 1,
+      "name": "よし\nでは　始めるとしよう[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000995_MSG0029",
+      "style": 1,
+      "name": "オヌシはもちろん聞いていくだろう？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000995_MSG0030",
+      "style": 1,
+      "name": "[ST:wide ]―オヌシに聞いてよかったよ\n今回はしっかりと耳を傾けてくれた[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000995_MSG0031",
+      "style": 1,
+      "name": "これからも説法をするときには\nオヌシの意見を聞かせてくれよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000995_MSG0032",
+      "style": 1,
+      "name": "それがいいと思うか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000995_MSG0033",
+      "style": 1,
+      "name": "地球の文化について教えようと考えたのだ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000995_MSG0034",
+      "style": 1,
+      "name": "異星人に地球人のことを知ってもらえれば\nより友好的な関係を結べるからな[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000995_MSG0035",
+      "style": 1,
+      "name": "だが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000995_MSG0036",
+      "style": 1,
+      "name": "マ・ノン人どもがピザでパーティーだぁ！！\nみたいな考えにならないか\n少し心配しているのだ……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000995_MSG0037",
+      "style": 1,
+      "name": "しかし　とにかく話してみるとしよう[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000995_MSG0038",
+      "style": 1,
+      "name": "オヌシはもちろん聞いていくだろう？[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev000995_MSG0039",
+      "style": 1,
+      "name": "[ST:wide ]―案の定　ピザパーティーの\n話になってしまった[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev000995_MSG0040",
+      "style": 1,
+      "name": "しかし　マ・ノン人だけではなく\n他の異星人も含めて実際に\nパーティーをすることになったのだ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev000995_MSG0041",
+      "style": 1,
+      "name": "俺はそういう場は苦手だが[ST:wide ]―\n自分の蒔いた種だ　参加してみるとしよう[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev000995_MSG0042",
+      "style": 1,
+      "name": "もちろん　オヌシも一緒だぞ[ST:wait ]"
+    }
+  ]
+}

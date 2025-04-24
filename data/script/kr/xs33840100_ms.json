@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33840100_MSG0010",
+      "style": 0,
+      "name": "여기는 엘마[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33840100_MSG0020",
+      "style": 0,
+      "name": "코어를 확보[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33840100_MSG0030",
+      "style": 0,
+      "name": "아레스와 함께 귀환한다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33840100_MSG0040",
+      "style": 0,
+      "name": "알겠네![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33840100_MSG0050",
+      "style": 0,
+      "name": "우리도 받을 준비를 시작하지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33840100_MSG0060",
+      "style": 0,
+      "name": "다들, 지금 들은 대로다![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33840100_MSG0070",
+      "style": 0,
+      "name": "전이 시스템 기동 준비![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33840100_MSG0080",
+      "style": 0,
+      "name": "신 흰고래 저속 전진![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33840100_MSG0090",
+      "style": 0,
+      "name": "마중 나간다![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33840100_MSG0100",
+      "style": 0,
+      "name": "알겠습니다![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33840100_MSG0110",
+      "style": 0,
+      "name": "알았잖앙![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33840100_MSG0120",
+      "style": 0,
+      "name": "전 대원에게 아레스 엄호 지시를 내려라![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33840100_MSG0130",
+      "style": 0,
+      "name": "알겠습니다![ST:wait ]"
+    }
+  ]
+}

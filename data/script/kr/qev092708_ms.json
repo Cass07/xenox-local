@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092708_MSG0010",
+      "style": 0,
+      "name": "……불쾌한 일을 겪게 해서 미안하다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092708_MSG0020",
+      "style": 0,
+      "name": "부장은 무슨 일만 생기면[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092708_MSG0030",
+      "style": 0,
+      "name": "우리에게 트집을 잡거나\n화풀이하는 인간이거든[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092708_MSG0040",
+      "style": 0,
+      "name": "과거에는 뛰어난 파일럿이었다던데\n지금은 그 편린조차 보이지 않는군[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092708_MSG0050",
+      "style": 0,
+      "name": "이 흐레스벨그는\n지구에서 살던 시절부터 개발했던 거다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092708_MSG0060",
+      "style": 0,
+      "name": "아리샤도 함께였고\n지금보다 훨씬 좁은 개발실에서 일했어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092708_MSG0070",
+      "style": 0,
+      "name": "당시에는 이전 주임 기술자와\n나 이외의 테스트 파일럿도 있었지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092708_MSG0080",
+      "style": 0,
+      "name": "다들 흐레스벨그 개발에 열정을 쏟았어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092708_MSG0085",
+      "style": 0,
+      "name": "……클레만이 부장 자리에 앉기 전까지는[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092708_MSG0090",
+      "style": 0,
+      "name": "그 녀석에게 돌이란 그저 상품이고\n승진하기 위한 도구에 불과해[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092708_MSG0100",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092708_JNK0110",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 13,
+      "label": "qev092708_SEL0120",
+      "style": 3,
+      "name": "다른 개발 멤버는 어떻게 됐는지 묻는다"
+    },
+    {
+      "$id": 14,
+      "label": "qev092708_MSG0130",
+      "style": 0,
+      "name": "……죽었어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092708_MSG0140",
+      "style": 0,
+      "name": "동료 테스트 파일럿은[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092708_MSG0150",
+      "style": 0,
+      "name": "테스트용 흐레스벨그 가동 실험 중에\n사고로……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092708_MSG0160",
+      "style": 0,
+      "name": "당시의 주임은 그 책임을 물어야 했고[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092708_MSG0165",
+      "style": 0,
+      "name": "점점 내몰린 끝에…… 목숨을 끊었어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092708_MSG0170",
+      "style": 0,
+      "name": "그 후로 아리샤가\n주임 기술자로 임명됐지[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092708_MSG0180",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092708_MSG0190",
+      "style": 0,
+      "name": "아리샤, 피곤하지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092708_MSG0200",
+      "style": 0,
+      "name": "……괜찮아, 난 멀쩡해[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092708_MSG0210",
+      "style": 0,
+      "name": "요즘 한동안[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092708_MSG0220",
+      "style": 0,
+      "name": "클레만이 어려운 조건을 강요해서\n매일 여기서 묵고 있잖아?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092708_MSG0230",
+      "style": 0,
+      "name": "B.B. 메인터넌스 센터에도\n한참 안 가 봤고[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092708_MSG0240",
+      "style": 0,
+      "name": "이 정도면 몸에 문제가 생겼을 거다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092708_MSG0250",
+      "style": 0,
+      "name": "……하지만, 다음 개발을 계속해야 해[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092708_MSG0260",
+      "style": 0,
+      "name": "너와 흐레스벨그를 위해서라면\n이 정도쯤……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092708_JNK0270",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 30,
+      "label": "qev092708_SEL0280",
+      "style": 3,
+      "name": "지금은 쉬어야 한다고 말한다"
+    },
+    {
+      "$id": 31,
+      "label": "qev092708_MSG0290",
+      "style": 0,
+      "name": "방금 만난 녀석도 이렇게 말하잖아\n무리하지 마[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092708_MSG0300",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092708_MSG0310",
+      "style": 0,
+      "name": "……아니, 알았어\n네 말대로 할게, 리젤[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092708_MSG0320",
+      "style": 0,
+      "name": "있잖아, 기왕 이렇게 된 거\n바람도 쐴 겸 밖으로 나갈까?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092708_MSG0330",
+      "style": 0,
+      "name": "경치가 좋은 곳을 발견했거든\n너도 마음에 들 거야[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092708_MSG0340",
+      "style": 0,
+      "name": "정말이지, 여전히 자기 멋대로라니까……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092708_MSG0345",
+      "style": 0,
+      "name": "그래 좋아, 너에게 맡길게[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092708_MSG0350",
+      "style": 0,
+      "name": "너도 함께 오겠어?\n이것도 인연이잖아[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092708_MSG0360",
+      "style": 0,
+      "name": "결정됐으면 가자\n물론 흐레스벨그도 함께 가야지[ST:wait ]"
+    }
+  ]
+}

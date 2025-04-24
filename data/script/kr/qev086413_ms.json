@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086413_MSG0001",
+      "style": 1,
+      "name": "오빠, 전보다 동글동글해졌다모!\n맛있는 거 얻어먹으면서 지내고 있어모?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086413_MSG0002",
+      "style": 1,
+      "name": "너무 동글동글해지면\n잡아먹힐 거다모!\n맛있는 먹이는 조심해라모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086413_MSG0003",
+      "style": 1,
+      "name": "오빠 친구는 맛있어모?\n베어 물어도 돼모?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086413_MSG0004",
+      "style": 1,
+      "name": "……안 돼모?\n조금 핥아 보기만 하는 것도…… 안 돼모?\n아쉽다모[ST:wait ]"
+    }
+  ]
+}

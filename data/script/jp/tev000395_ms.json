@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000395_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000395_MSG0002",
+      "style": 1,
+      "name": "ここは見晴らしがいい\nNLAが一望できるからな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000395_MSG0003",
+      "style": 1,
+      "name": "地球人の新しい街[ST:wide ]―\n立派なもんだよな？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000395_JNK0010",
+      "style": 4,
+      "name": "同意"
+    },
+    {
+      "$id": 5,
+      "label": "tev000395_SEL0011",
+      "style": 3,
+      "name": "素晴らしい街だと同意する"
+    },
+    {
+      "$id": 6,
+      "label": "tev000395_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 7,
+      "label": "tev000395_SEL0021",
+      "style": 3,
+      "name": "まだ途中であり　これから\nさらに発展すると答える"
+    },
+    {
+      "$id": 8,
+      "label": "tev000395_MSG0004",
+      "style": 1,
+      "name": "人の貪欲さのなせる業かもしれないな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000395_MSG0005",
+      "style": 1,
+      "name": "貪欲だな[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000395_MSG0006",
+      "style": 1,
+      "name": "白鯨が破壊され空中分解した以上\nこの街を作るのはミラの資材を使って[ST:wide ]―\nだよな[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000395_MSG0007",
+      "style": 1,
+      "name": "地球人がやることは\n例え場所が変わったとしても変わらないんだな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000395_MSG0008",
+      "style": 1,
+      "name": "手つかずだったこの惑星を\n開拓しているんだからな[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000395_MSG0009",
+      "style": 1,
+      "name": "幸い俺たちはコロンブスにならずに\n済んでいるが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000395_MSG0010",
+      "style": 1,
+      "name": "そしてグロウスという脅威もある[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000395_MSG0011",
+      "style": 1,
+      "name": "俺たちは地球を見捨ててきてよかったのか\nって思うこともあるんだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000395_MSG0012",
+      "style": 1,
+      "name": "[ST:wide ]―いや　湿っぽい話はやめておこう[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000395_MSG0013",
+      "style": 1,
+      "name": "ところで最近　ヴァンダムやエルマから\nおもしろい話を聞いたりはしないのか？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000395_JNK0030",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 19,
+      "label": "tev000395_SEL0031",
+      "style": 3,
+      "name": "特にない"
+    },
+    {
+      "$id": 20,
+      "label": "tev000395_JNK0040",
+      "style": 4,
+      "name": "タツ"
+    },
+    {
+      "$id": 21,
+      "label": "tev000395_SEL0041",
+      "style": 3,
+      "name": "タツのおもしろい話をする"
+    },
+    {
+      "$id": 22,
+      "label": "tev000395_MSG0014",
+      "style": 1,
+      "name": "特にないか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000395_MSG0015",
+      "style": 1,
+      "name": "まあ　[ST:playername ]のいるところじゃ\nあまり興味深い話はしないのかもしれないな[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000395_MSG0016",
+      "style": 1,
+      "name": "人の出入りも多いだろうから\n話すとしたらブレイドタワーの司令室とかか[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000395_MSG0017",
+      "style": 1,
+      "name": "さすがのお前もあそこには出入りしづらい\nだろうしな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000395_MSG0018",
+      "style": 1,
+      "name": "とにかく　もし耳寄りな話を聞いたら\n教えてくれ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000395_MSG0019",
+      "style": 1,
+      "name": "はははっ[ST:wide ]―\nタツがバイアス人に食べられなかった理由って\nそりゃ本当かよ？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000395_MSG0020",
+      "style": 1,
+      "name": "いや[ST:wide ]―\nアイツには悪いが傑作だな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000395_MSG0021",
+      "style": 1,
+      "name": "クランジェリーの食べ過ぎで身体が\nベタベタして滑りやすかったから\nバイアス人が掴めなかったって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000395_MSG0022",
+      "style": 1,
+      "name": "アイツは運がいいな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000395_MSG0023",
+      "style": 1,
+      "name": "そのおかげでリンや\n[ST:playername ]に出会えたんだからな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000395_MSG0024",
+      "style": 1,
+      "name": "って　俺が聞きたかったのは\nそういう笑い話じゃない[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000395_MSG0025",
+      "style": 1,
+      "name": "耳寄りな話を聞いたら教えてほしいんだ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000395_MSG0026",
+      "style": 1,
+      "name": "俺も便乗[ST:wide ]―いや協力するからな[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000395_MSG0027",
+      "style": 1,
+      "name": "さてと[ST:wide ]―\n休憩はこれくらいにして　そろそろ行くわ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000395_MSG0028",
+      "style": 1,
+      "name": "じゃあな[ST:wide ]―\n[ST:playername ][ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev012301_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev012301_SEL0011",
+      "style": 3,
+      "name": "일에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev012301_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev012301_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev012301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev012301_SEL0031",
+      "style": 3,
+      "name": "날씨의 영향을 막는\n방법에 관해 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev012301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev012301_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev012301_MSG0001",
+      "style": 1,
+      "name": "아이고~ 헬기로 짐 옮기는 것도\n쉬운 일이 아니라니까[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev012301_MSG0002",
+      "style": 1,
+      "name": "헬기를 띄우려면 기압, 풍속……\n그 외에도 온갖 날씨의 영향을\n세심하게 고려해야 하는데[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev012301_MSG0003",
+      "style": 1,
+      "name": "그에 더해 아퀼라, 밀레자우로……\n그런 녀석들의 움직임도 파악해야 해[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev012301_MSG0004",
+      "style": 1,
+      "name": "미라에 오고 난 후로 헬기 비행에\n신경 써야 할 요소가 늘어나 버렸어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev012301_MSG0005",
+      "style": 1,
+      "name": "덕분에 로스콜의 얼굴에 먹칠을 하지는 않았어\n짐도 우리도, 모두 무사하잖아[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev012301_MSG0006",
+      "style": 1,
+      "name": "짐도 물론 중요하지만, 우리 블레이드나\n헬기 자체도 함부로 잃어서는 안 될\n소중한 자원이거든……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev012301_MSG0007",
+      "style": 1,
+      "name": "하지만…… 시스카가 조금 더\n일을 제대로 해 주지 않으면\n곤란하단 말이지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev012301_MSG0008",
+      "style": 1,
+      "name": "이번 일을 계기로\n블레이드로서, 인간으로서\n성장해 주면 좋겠어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev012301_MSG0009",
+      "style": 1,
+      "name": "날씨의 영향을 막는 디바이스를\n암즈 컴퍼니에서 개발 중이라고 해[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev012301_MSG0010",
+      "style": 1,
+      "name": "사람이나 돌뿐만 아니라\n헬기에도 쓸 수 있으면 고맙겠는데……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev012301_MSG0011",
+      "style": 1,
+      "name": "아무튼 빨리 써 보고 싶으니\n너도 암즈 컴퍼니 투자에\n협력해 달라고![ST:wait ]"
+    }
+  ]
+}

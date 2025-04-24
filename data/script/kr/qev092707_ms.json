@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092707_MSG0010",
+      "style": 0,
+      "name": "이제 막 완성한 돌을 가지고 나가서는\n사고를 일으켰다고 들었는데[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092707_MSG0020",
+      "style": 0,
+      "name": "이 보고가 사실인가?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092707_MSG0030",
+      "style": 0,
+      "name": "부장님, 그 일에 관한 거라면……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092707_MSG0040",
+      "style": 0,
+      "name": "대체 뭣들 하는 거지, 자네들은?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092707_MSG0050",
+      "style": 0,
+      "name": "심지어 독단으로 제삼자의\n개입을 요청하다니 말일세[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092707_MSG0060",
+      "style": 0,
+      "name": "그, 그건……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092707_MSG0070",
+      "style": 0,
+      "name": "최종 조정을 진행했을 뿐이다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092707_MSG0080",
+      "style": 0,
+      "name": "돌 테스트는 마지막 순간까지 진행된다\n이 정도는 상식이야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092707_MSG0090",
+      "style": 0,
+      "name": "그 테스트 때문에 상품 가치가\n떨어질 수도 있다는 건[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092707_MSG0100",
+      "style": 0,
+      "name": "전혀 생각하지 않았나?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092707_MSG0110",
+      "style": 0,
+      "name": "그 물건은 이미 완성됐어\n그래서 인가도 받았잖나[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092707_MSG0120",
+      "style": 0,
+      "name": "하지만 이번 테스트 결과\n조작성 문제가 새로 드러났다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092707_MSG0130",
+      "style": 0,
+      "name": "이대로 세상에 선보이면\n큰 사고로 이어질 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092707_MSG0140",
+      "style": 0,
+      "name": "하찮은 소리……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092707_MSG0150",
+      "style": 0,
+      "name": "그런 것쯤은[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092707_MSG0160",
+      "style": 0,
+      "name": "발표한 후에 고치면\n그만이지 않은가[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092707_MSG0170",
+      "style": 0,
+      "name": "뭣……![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092707_MSG0180",
+      "style": 0,
+      "name": "지금 부정적인 정보가 퍼지는 건\n피해야 한다는 말일세[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092707_MSG0190",
+      "style": 0,
+      "name": "고작 파일럿 따위가 함부로\n끼어들어도 될 문제가 아니다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092707_MSG0200",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092707_MSG0210",
+      "style": 0,
+      "name": "흐레스벨그 개발은\n막대한 예산이 투입된 대규모 프로젝트다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092707_MSG0220",
+      "style": 0,
+      "name": "네 녀석의 서투른 판단 때문에\n계획이 무너지기라도 하면 어쩔 셈이지?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092707_MSG0230",
+      "style": 0,
+      "name": "죄, 죄송합니다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092707_MSG0235",
+      "style": 0,
+      "name": "하지만, 그대로 놔두는 건 정말로……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092707_MSG0240",
+      "style": 0,
+      "name": "그만, 변명은 필요 없네[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092707_MSG0250",
+      "style": 0,
+      "name": "\"아무런 결함도 없었다\"[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092707_MSG0255",
+      "style": 0,
+      "name": "상부에는 그렇게 보고하겠네[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092707_MSG0260",
+      "style": 0,
+      "name": "자네들도 괜한 생각 말고\n다음 계획을 진행하도록 해[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092707_MSG0265",
+      "style": 0,
+      "name": "알겠나?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092707_MSG0270",
+      "style": 0,
+      "name": "……알겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092707_MSG0280",
+      "style": 0,
+      "name": "큭……![ST:wait ]"
+    }
+  ]
+}

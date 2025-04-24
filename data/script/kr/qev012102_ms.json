@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012102_MSG0001",
+      "style": 1,
+      "name": "앗!?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012102_MSG0002",
+      "style": 1,
+      "name": "으앙~! 선배가 와 줬다~![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012102_MSG0003",
+      "style": 1,
+      "name": "으앙~! 역시 믿을 사람은 선배뿐이야~!\n신세 좀 지겠습니다~![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev012102_MSG0004",
+      "style": 1,
+      "name": "아야야야야야……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev012102_MSG0005",
+      "style": 1,
+      "name": "죄송해요, 떨어졌을 때\n몸을 세게 부딪친 것 같아요……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev012102_MSG0006",
+      "style": 1,
+      "name": "잡혀 있는 동안\n처음에는 정신이 없어서\n발버둥만 쳤는데[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev012102_MSG0007",
+      "style": 1,
+      "name": "그러는 사이에 문득 냉정해지면서 깨달았어요\n눈앞에 있는 저 부릅뜬 눈알을 공격하면[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev012102_MSG0008",
+      "style": 1,
+      "name": "혹시 대미지를 입어서\n힘이 빠짐과 동시에\n제 몸을 놓지 않을까 하고요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev012102_MSG0009",
+      "style": 1,
+      "name": "그, 있잖아요! 아무리 많이 수행한 격투가라도\n눈알만큼은 단련할 수 없다고 하잖아요?\n그거예요![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev012102_MSG0010",
+      "style": 1,
+      "name": "이런 냉정한 판단을 할 수 있게 된 것도\n조금은 성장했다는 증거일까요~?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev012102_MSG0011",
+      "style": 1,
+      "name": "아무튼 갖고 있던 단검으로 얍! 하고\n눈을 공격했어요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev012102_MSG0012",
+      "style": 1,
+      "name": "그랬더니 효과가 직방![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev012102_MSG0013",
+      "style": 1,
+      "name": "적은 비명을 지름과 동시에\n제 몸을 놓았고……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev012102_MSG0014",
+      "style": 1,
+      "name": "저는 그대로\n지면에 일직선으로 떨어졌다는 거죠![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev012102_MSG0015",
+      "style": 1,
+      "name": "음~ 공중에서 해방된 후의 일은\n생각해 보지 않았네요~\n아직 수행이 부족해요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev012102_MSG0016",
+      "style": 1,
+      "name": "이번에는 혼자서는 움직이지 못하게 된\n이 몸이 반성의 대상이에요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev012102_MSG0017",
+      "style": 1,
+      "name": "확실히 반성해서 다음번에는 똑바로 할게요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev012102_MSG0018",
+      "style": 1,
+      "name": "그러니까 저……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev012102_MSG0019",
+      "style": 1,
+      "name": "또 도움을 받아야 할 것 같은데\n저 좀 부축해 주실 수 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev012102_MSG0020",
+      "style": 1,
+      "name": "아예 혼자 서지 못할 정도의 대미지라서……\n이거 참, 한심한 일이네요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev012102_MSG0021",
+      "style": 1,
+      "name": "죄송해요…………[ST:wait ]"
+    }
+  ]
+}

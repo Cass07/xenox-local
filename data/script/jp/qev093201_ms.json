@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093201_MSG0010",
+      "style": 0,
+      "name": "よう　来てやったぜ\n調子はどうだ？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093201_JNK0020",
+      "style": 4,
+      "name": "普通に返事する"
+    },
+    {
+      "$id": 3,
+      "label": "qev093201_SEL0030",
+      "style": 3,
+      "name": "最高だ　そっちは？と答える"
+    },
+    {
+      "$id": 4,
+      "label": "qev093201_MSG0040",
+      "style": 0,
+      "name": "お前よりはイイ　つまり[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093201_MSG0050",
+      "style": 0,
+      "name": "超・最高だ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093201_MSG0060",
+      "style": 0,
+      "name": "[ST:wide ]―今のはイマイチだったな\n忘れてくれ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093201_JNK0070",
+      "style": 4,
+      "name": "お約束"
+    },
+    {
+      "$id": 8,
+      "label": "qev093201_SEL0080",
+      "style": 3,
+      "name": "最悪だ　そっちは？と答える"
+    },
+    {
+      "$id": 9,
+      "label": "qev093201_MSG0090",
+      "style": 0,
+      "name": "お前よりはイイ　つまり最高だ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093201_MSG0100",
+      "style": 0,
+      "name": "ははっ　やっぱこうでなくちゃな[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093201_MSG0110",
+      "style": 0,
+      "name": "ま　それはさておき\nお前　今ヒマしてるよな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093201_MSG0120",
+      "style": 0,
+      "name": "せっかくのオフだ　ピザ食いに行かないか\nあるんだろ？　NLAにもピザ屋が[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093201_MSG0130",
+      "style": 0,
+      "name": "あ？　なんでピザかって？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093201_MSG0140",
+      "style": 0,
+      "name": "そんなの決まってる\n[ST:wide ]―オレが食べたいからだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093201_MSG0150",
+      "style": 0,
+      "name": "アメリカに移り住んだ頃は\nそりゃあ毎日のように食ってたもんさ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093201_MSG0160",
+      "style": 0,
+      "name": "週末も　ダグやラオとバーに繰り出して\nビール片手に焼き立てのピザをつまんでな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093201_MSG0170",
+      "style": 0,
+      "name": "ああ[ST:wide ]―　あの塩っ辛いサラミと\nチーズのガムみてえな歯ごたえが恋しいぜ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093201_MSG0180",
+      "style": 0,
+      "name": "地球を出てから　ご無沙汰だったからな\nもう待ちきれねえよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093201_MSG0190",
+      "style": 0,
+      "name": "なあ　早く行こうぜ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092103_MSG0001",
+      "style": 0,
+      "name": "カンバー！　大丈夫！？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092103_MSG0002",
+      "style": 0,
+      "name": "ああ[ST:wide ]―　天使が見える[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092103_MSG0003",
+      "style": 0,
+      "name": "冗談言えるってことは大丈夫ってことだよね？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092103_MSG0004",
+      "style": 0,
+      "name": "ああ　なんとか身体は無事みたいだ\nまだ少し朦朧とするが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092103_MSG0005",
+      "style": 0,
+      "name": "アクセナ　ありがとう\nアンタもすまないな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092103_MSG0006",
+      "style": 0,
+      "name": "他の皆はどうなったかわかる？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092103_MSG0007",
+      "style": 0,
+      "name": "いや[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092103_MSG0008",
+      "style": 0,
+      "name": "試作兵器が爆発したんだよね？\nその時の状況は？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092103_MSG0009",
+      "style": 0,
+      "name": "[ST:wide ]―フェルナンが試作兵器を最大まで\nチャージしてぶっ放そうとしたんだ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092103_MSG0010",
+      "style": 0,
+      "name": "だが　発射できずにエネルギーだけが\n充填され続けて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092103_MSG0011",
+      "style": 0,
+      "name": "[ST:wide ]―臨界点に達し暴発した[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092103_MSG0012",
+      "style": 0,
+      "name": "フェルナンのドールが爆発に\n飲み込まれそうになった瞬間[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092103_MSG0013",
+      "style": 0,
+      "name": "横にいた俺は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092103_MSG0014",
+      "style": 0,
+      "name": "ミカ！　ミカはどうしたんだ！？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092103_MSG0015",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092103_MSG0016",
+      "style": 0,
+      "name": "アクセナ　その顔\n何か知ってるんじゃないか？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092103_MSG0017",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092103_MSG0018",
+      "style": 0,
+      "name": "なあ　アンタは知ってるんだろ？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092103_JNK0010",
+      "style": 4,
+      "name": "真実を告げる"
+    },
+    {
+      "$id": 20,
+      "label": "qev092103_SEL0011",
+      "style": 3,
+      "name": "ミカはカンバーを庇って死んだと告げる"
+    },
+    {
+      "$id": 21,
+      "label": "qev092103_JNK0020",
+      "style": 4,
+      "name": "嘘をつく"
+    },
+    {
+      "$id": 22,
+      "label": "qev092103_SEL0021",
+      "style": 3,
+      "name": "ミカはどこか別の場所で\n元気にやっていると言う"
+    },
+    {
+      "$id": 23,
+      "label": "qev092103_JNK0030",
+      "style": 4,
+      "name": "無言"
+    },
+    {
+      "$id": 24,
+      "label": "qev092103_SEL0031",
+      "style": 3,
+      "name": "返答できず黙りこくる"
+    },
+    {
+      "$id": 25,
+      "label": "qev092103_MSG0019",
+      "style": 0,
+      "name": "そんな[ST:wide ]―！？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092103_MSG0020",
+      "style": 0,
+      "name": "アイツが俺を庇ったんじゃない！\n俺がアイツを庇ったんだぞ！？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092103_MSG0021",
+      "style": 0,
+      "name": "俺が生きてて　アイツが死ぬなんて[ST:wide ]―\nそんなバカげたことが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092103_MSG0022",
+      "style": 0,
+      "name": "そうか！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092103_MSG0023",
+      "style": 0,
+      "name": "ニューヨークの製薬会社で\n元気に働いているか[ST:wide ]―　それはよかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092103_MSG0024",
+      "style": 0,
+      "name": "いや　そんなわけないだろ！\n地球は滅んだんだぞ！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092103_MSG0025",
+      "style": 0,
+      "name": "クソッ！　アイツを庇ったはずなのに\n俺だけが生き残るなんて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092103_MSG0026",
+      "style": 0,
+      "name": "その顔[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092103_MSG0027",
+      "style": 0,
+      "name": "そうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092103_MSG0028",
+      "style": 0,
+      "name": "人生ってのはわからないもんだな[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092103_MSG0029",
+      "style": 0,
+      "name": "アイツを庇ったはずなのに\n俺だけが生き残るなんて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092103_MSG0030",
+      "style": 0,
+      "name": "カンバー　ミカを庇ったって本当？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092103_MSG0031",
+      "style": 0,
+      "name": "ああ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092103_MSG0032",
+      "style": 0,
+      "name": "爆発の瞬間　俺は被害が広がらないように\nミカ達とフェルナンの間に飛び込んだんだ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092103_MSG0033",
+      "style": 0,
+      "name": "その爆発の衝撃で\nこの場所まで吹き飛ばされたみたいだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092103_MSG0034",
+      "style": 0,
+      "name": "でも　このカンバーのドール割ときれいだよね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092103_MSG0035",
+      "style": 0,
+      "name": "ああ[ST:wide ]―　風圧はものすごかったが\n威力はそんなに大きくなかったのかもな[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092103_MSG0036",
+      "style": 0,
+      "name": "あれはビーム系の兵器だったし[ST:wide ]―\nだから俺は生き延びたのかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092103_MSG0037",
+      "style": 0,
+      "name": "[ST:wide ]―キミ　何か気付いた？[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092103_MSG0038",
+      "style": 0,
+      "name": "カンバーのドールと事故現場にあった\nドールの残骸[ST:wide ]―　違和感はない？[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092103_JNK0040",
+      "style": 4,
+      "name": "数"
+    },
+    {
+      "$id": 46,
+      "label": "qev092103_SEL0041",
+      "style": 3,
+      "name": "数が合わないと指摘する"
+    },
+    {
+      "$id": 47,
+      "label": "qev092103_JNK0050",
+      "style": 4,
+      "name": "外見"
+    },
+    {
+      "$id": 48,
+      "label": "qev092103_SEL0051",
+      "style": 3,
+      "name": "壊れ方が違うと指摘する"
+    },
+    {
+      "$id": 49,
+      "label": "qev092103_MSG0039",
+      "style": 0,
+      "name": "数も確かに気になるよね[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092103_MSG0040",
+      "style": 0,
+      "name": "ここにカンバーの１機　事故現場に２機\nだから１機足りない[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092103_MSG0041",
+      "style": 0,
+      "name": "ハンナのドールはあったか？[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092103_MSG0042",
+      "style": 0,
+      "name": "なかった[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092103_MSG0043",
+      "style": 0,
+      "name": "だったら　俺みたいに衝撃で\n飛ばされたのかもな[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092103_MSG0044",
+      "style": 0,
+      "name": "でもカンバーって\nミカとハンナのドールを庇ったんだよね？[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092103_MSG0045",
+      "style": 0,
+      "name": "ああ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092103_MSG0046",
+      "style": 0,
+      "name": "そうか[ST:wide ]―　としたらその場に\nハンナのドールもないとおかしいのか[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092103_MSG0047",
+      "style": 0,
+      "name": "うん[ST:wide ]―　あたしはもう少し別のことに\n気付いたんだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092103_MSG0048",
+      "style": 0,
+      "name": "そうだよね[ST:wide ]―　いい着眼点だと思う[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092103_MSG0049",
+      "style": 0,
+      "name": "カンバーのドールは爆発に巻き込まれたのに\n割ときれい[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092103_MSG0050",
+      "style": 0,
+      "name": "対して事故現場のドールは\n黒く焦げてボロボロになってた気がする[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092103_MSG0051",
+      "style": 0,
+      "name": "つまるところ[ST:wide ]―　どういうことだ？[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev092103_MSG0052",
+      "style": 0,
+      "name": "まだよくわからない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev092103_MSG0053",
+      "style": 0,
+      "name": "もう一度事故現場に戻ってみよ\n手がかりが掴めるかも[ST:wait ]"
+    }
+  ]
+}

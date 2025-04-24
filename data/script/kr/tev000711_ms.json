@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000711_MSG0010",
+      "style": 1,
+      "name": "아이고, 참……\n문제가 순식간에 산더미처럼 불어났네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000711_MSG0020",
+      "style": 1,
+      "name": "뭐, 어찌 되었든 간에\n현장은 우리가 정리할 수밖에 없어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000711_MSG0030",
+      "style": 1,
+      "name": "너도 여전히 임무 중인가?\n너만 괜찮다면 따라가 줄게[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000711_JNK0040",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 5,
+      "label": "tev000711_SEL0050",
+      "style": 3,
+      "name": "더그를 멤버에 넣는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000711_MSG0060",
+      "style": 1,
+      "name": "좋아, 그럼 출동이다![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000711_JNK0070",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000711_SEL0080",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev000711_MSG0090",
+      "style": 1,
+      "name": "힘든 건 서로 마찬가지지만……\n너무 부담 가지지 마, 알았지?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000711_MSG0100",
+      "style": 1,
+      "name": "역시 이런 중대한 싸움에는\n이 멤버가 나서 줘야지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000711_MSG0110",
+      "style": 1,
+      "name": "가혹한 임무가 되겠지만\n엘마나 네가 함께라면\n왠지 괜찮을 것 같은 느낌이 들어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000711_MSG0120",
+      "style": 1,
+      "name": "이럴 때는 감이 잘 맞는 편이야\n뭐, 서로 열심히 하자[ST:wait ]"
+    }
+  ]
+}

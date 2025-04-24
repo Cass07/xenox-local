@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091704_MSG0001",
+      "style": 0,
+      "name": "이게 랑크로드의 연구 데이터……\n목적 중 하나는 달성했네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091704_MSG0002",
+      "style": 0,
+      "name": "이제 작성자를 찾아내면 좋겠는데……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091704_MSG0012",
+      "style": 1,
+      "name": "랑크로드의 연구 데이터는 이미 획득했어\n남은 건 작성자를 찾아내는 것뿐……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091704_MSG0013",
+      "style": 1,
+      "name": "……그래, 다른 요새의 콘솔도 조사해 보자\n녀석이 있는 곳과 관련된 정보를\n얻을 수 있을지도 모르니까[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091704_MSG0003",
+      "style": 0,
+      "name": "이제야 찾았어\n이게 랑크로드의 연구 데이터야……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091704_MSG0004",
+      "style": 0,
+      "name": "그 벌레 녀석한테서 위치를 캐묻지 않은 건\n큰 실수였어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091704_MSG0005",
+      "style": 0,
+      "name": "쓸데없이 시간을 낭비해 버렸잖아[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091704_MSG0006",
+      "style": 0,
+      "name": "다음부터는 쏘기 전에 고문부터 해야지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091704_JNK0010",
+      "style": 4,
+      "name": "동의한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev091704_SEL0011",
+      "style": 3,
+      "name": "다음에는 효율적으로\n임무를 수행하자며 동의한다"
+    },
+    {
+      "$id": 11,
+      "label": "qev091704_JNK0020",
+      "style": 4,
+      "name": "나무란다"
+    },
+    {
+      "$id": 12,
+      "label": "qev091704_SEL0021",
+      "style": 3,
+      "name": "부도덕한 행동을 하는\n머더레스를 나무란다"
+    },
+    {
+      "$id": 13,
+      "label": "qev091704_MSG0007",
+      "style": 0,
+      "name": "뭘 좀 아는구나\n돈 앞에서는 자비도 용서도 없지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091704_MSG0008",
+      "style": 0,
+      "name": "자, NLA로 돌아가자\n보수가 우리를 기다리고 있어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091704_MSG0009",
+      "style": 0,
+      "name": "그래그래[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091704_MSG0009_2",
+      "style": 0,
+      "name": "너도 이리나 같은 착한 아이네[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091704_MSG0010",
+      "style": 0,
+      "name": "NLA에 복귀한 다음, 내 방에 오면\n얼마든지 칭찬해 줄 테니까[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091704_MSG0011",
+      "style": 0,
+      "name": "지금은 일단 보고하러 가자[ST:wait ]"
+    }
+  ]
+}

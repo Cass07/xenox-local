@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040405_MSG0001",
+      "style": 1,
+      "name": "사츠 오빠…… 어디 있는 거야모……\n설마 죽고 만 거야모?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040405_JNK0010",
+      "style": 4,
+      "name": "사실"
+    },
+    {
+      "$id": 3,
+      "label": "qev040405_SEL0011",
+      "style": 3,
+      "name": "사츠를 찾았다고 말한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev040405_JNK0020",
+      "style": 4,
+      "name": "농담"
+    },
+    {
+      "$id": 5,
+      "label": "qev040405_SEL0021",
+      "style": 3,
+      "name": "사츠는 여행을 떠났다고 말한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev040405_MSG0002",
+      "style": 1,
+      "name": "믿을 수가 없다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev040405_MSG0003",
+      "style": 1,
+      "name": "이 세상에 그렇게 멋진 일이\n일어나도 되는 거야모!?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev040405_MSG0004",
+      "style": 1,
+      "name": "거짓말하지 않아도 된다모\n무츠츠는 다 알고 있다모[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev040405_MSG0005",
+      "style": 1,
+      "name": "사츠 오빠는 머나먼 세계로\n떠나고 만 거다모……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev040405_MSG0006",
+      "style": 1,
+      "name": "슬프다모…… 괴롭다모……\n산다는 건 괴로운 거다모……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev040405_MSG0007",
+      "style": 1,
+      "name": "이렇게 될 줄 알았다면\n얌전히 카라반에 있었을 텐데모[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev040405_MSG0008",
+      "style": 1,
+      "name": "……결국 무츠츠는 헛수고만 했다모\n……이 세상은 험난하다모[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev040405_MSG0009",
+      "style": 1,
+      "name": "응? ……사실 사츠 오빠는 살아 있다고모?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev040405_MSG0010",
+      "style": 1,
+      "name": "날 속였다모!!\n……그래도 사츠 오빠가 살아 있으니 용서하겠다모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev040405_MSG0011",
+      "style": 1,
+      "name": "아아! 세상이 반짝이는 것 같다모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev040405_MSG0012",
+      "style": 1,
+      "name": "만세! 만세! 만세!\n노폰 만세!\n[ST:playername ] 만세![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev040405_MSG0013",
+      "style": 1,
+      "name": "산다는 건 멋진 거다모!!\n얼른 돌아가서 사츠 오빠를 만날 거다모![ST:wait ]"
+    }
+  ]
+}

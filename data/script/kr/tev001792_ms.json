@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001792_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ] 씨, 안녕하세요\n이런 곳에서 만나다니 의외네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001792_MSG0002",
+      "style": 1,
+      "name": "저는 약속이 있어서 기다리고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001792_JNK0010",
+      "style": 4,
+      "name": "묻는다"
+    },
+    {
+      "$id": 4,
+      "label": "tev001792_SEL0011",
+      "style": 3,
+      "name": "누구와 만나기로 했는지 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001792_JNK0020",
+      "style": 4,
+      "name": "사과한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001792_SEL0021",
+      "style": 3,
+      "name": "늦어서 미안하다고 사과한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001792_MSG0003",
+      "style": 1,
+      "name": "궁금하세요?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001792_MSG0004",
+      "style": 1,
+      "name": "장난이에요…… 에이더 씨와 쇼핑하기로 했어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001792_MSG0005",
+      "style": 1,
+      "name": "적어도 쉬는 날에는\n아무도 상담해 주지 말고\n자신을 위해 시간을 쓰라고 들어서요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001792_MSG0006",
+      "style": 1,
+      "name": "네!?\n만나기로 했었던가요?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001792_MSG0007",
+      "style": 1,
+      "name": "음, 그러니까…… 스케줄을 봐도\n쓰여 있지 않았는데……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001792_MSG0008",
+      "style": 1,
+      "name": "분명 제가 까맣게 잊고 있었던 거겠죠\n죄송해요![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001792_MSG0009",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001792_MSG0010",
+      "style": 1,
+      "name": "앗, 절 속였죠!\n정말이지, 나쁜 사람이네요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001792_MSG0011",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001792_MSG0012",
+      "style": 1,
+      "name": "오늘은 에이더 씨와 옷을 보고\n꽃에 뿌릴 비료를 보고 나서\n그분이 저녁을 사 주실 거예요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001792_JNK0110",
+      "style": 4,
+      "name": "격려한다"
+    },
+    {
+      "$id": 18,
+      "label": "tev001792_SEL0111",
+      "style": 3,
+      "name": "실컷 즐기라고 말한다"
+    },
+    {
+      "$id": 19,
+      "label": "tev001792_JNK0120",
+      "style": 4,
+      "name": "불안을 부추긴다"
+    },
+    {
+      "$id": 20,
+      "label": "tev001792_SEL0121",
+      "style": 3,
+      "name": "설마 그렇게 순조롭겠냐며\n불안을 부추긴다"
+    },
+    {
+      "$id": 21,
+      "label": "tev001792_JNK0130",
+      "style": 4,
+      "name": "흥미를 보인다"
+    },
+    {
+      "$id": 22,
+      "label": "tev001792_SEL0131",
+      "style": 3,
+      "name": "저녁은 뭘 먹는지 묻는다"
+    },
+    {
+      "$id": 23,
+      "label": "tev001792_MSG0013",
+      "style": 1,
+      "name": "감사합니다\n말씀하신 대로 즐기고 오려고요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001792_MSG0014",
+      "style": 1,
+      "name": "모처럼 에이더 씨가\nNLA의 최고급 고기를 사 주실 거니까\n전력으로 임하는 게 예의겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001792_MSG0015",
+      "style": 1,
+      "name": "오늘은 뭐든 사양하지 않을 생각이에요![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001792_MSG0016",
+      "style": 1,
+      "name": "……앗! 저도\n예정대로 안 될 수도 있다는 건 알고 있으니\n짓궂은 말은 하지 말아 주세요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001792_MSG0017",
+      "style": 1,
+      "name": "분명 곤란한 사람을 발견해서\n도와주게 될 거예요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001792_MSG0018",
+      "style": 1,
+      "name": "저에게는 전혀 피곤한 일이 아닌데\n에이더 씨가 또 짜증을 낼지도 모른다고 생각하면\n조금 걱정된단 말이에요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001792_MSG0019",
+      "style": 1,
+      "name": "오늘은 스테이크를 사 주신다고 했어요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001792_MSG0020",
+      "style": 1,
+      "name": "얼마 전 임무에서 생각지 못한 보수를 받았다며\n웃으면서 크게 한턱내겠다고 했어요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001792_MSG0021",
+      "style": 1,
+      "name": "죄송스럽기도 하지만\n그냥 순수하게 기뻐하려고요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001792_MSG0022",
+      "style": 1,
+      "name": "저도 다른 분에게 무언가를 줄 때\n기뻐해 주는 편이 좋으니까요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001792_MSG0023",
+      "style": 1,
+      "name": "아마 그래도 되는 거겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001792_MSG0024",
+      "style": 1,
+      "name": "아, 저쪽에 에이더 씨가……\n그러면 저는 다녀오겠습니다\n또 임무에서 만나요[ST:wait ]"
+    }
+  ]
+}

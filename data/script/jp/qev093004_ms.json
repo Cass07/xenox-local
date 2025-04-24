@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093004_MSG0010",
+      "style": 0,
+      "name": "今のところ\n巫女のドールは現れませんね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093004_MSG0020",
+      "style": 0,
+      "name": "この大陸の遺跡は\nクリューとは無関係だったのでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093004_MSG0030",
+      "style": 0,
+      "name": "いや　そうでもなさそうだよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093004_MSG0040",
+      "style": 0,
+      "name": "修道区と呼ばれる場所を見たけど\n様式に僅かながらクリューの名残があった[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093004_MSG0050",
+      "style": 0,
+      "name": "おそらく古代サマール信仰を原型に\n全く別の宗教へと変化したんだろうね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093004_MSG0060",
+      "style": 0,
+      "name": "ここに“彼女達”がいる可能性は高い\n問題はどこにいるか　だけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093004_MSG0070",
+      "style": 0,
+      "name": "ふむ[ST:wide ]―\nもっと中枢に踏み込むべきかな[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093004_MSG0080",
+      "style": 0,
+      "name": "中枢[ST:wide ]―　ですか？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093004_MSG0090",
+      "style": 0,
+      "name": "断片的な記録によれば　この遺跡の異星文明は\n一人の王によって統治されていたらしい[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093004_MSG0100",
+      "style": 0,
+      "name": "この遺跡は言わば王都[ST:wide ]―\nさて　王がいる場所と言えば？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093004_JNK0110",
+      "style": 4,
+      "name": "答える"
+    },
+    {
+      "$id": 12,
+      "label": "qev093004_SEL0120",
+      "style": 3,
+      "name": "[ST:wide ]―城？と答える"
+    },
+    {
+      "$id": 13,
+      "label": "qev093004_MSG0130",
+      "style": 0,
+      "name": "うん　その通り[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093004_JNK0140",
+      "style": 4,
+      "name": "答えない"
+    },
+    {
+      "$id": 15,
+      "label": "qev093004_SEL0150",
+      "style": 3,
+      "name": "セリカに聞く"
+    },
+    {
+      "$id": 16,
+      "label": "qev093004_MSG0160",
+      "style": 0,
+      "name": "わ　私ですか？\nえーっと　王がいる場所[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093004_MSG0170",
+      "style": 0,
+      "name": "[ST:wide ]―お城でしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093004_MSG0180",
+      "style": 0,
+      "name": "その通りだよ　セリカ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093004_MSG0190",
+      "style": 0,
+      "name": "城というのは　どういうわけか\n王政の文明圏によくある類型なんだ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093004_MSG0200",
+      "style": 0,
+      "name": "城は　王と民を分かつ境界線であり\n王を外敵から守る鎧でもある[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093004_MSG0210",
+      "style": 0,
+      "name": "外敵から守る[ST:wide ]―\nあのドール達のように[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093004_MSG0220",
+      "style": 0,
+      "name": "可能性はある\nあとは実際に確かめるだけだ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093004_MSG0230",
+      "style": 0,
+      "name": "オ・ラ・シーム城に向かおう\nきっとそこに答えがある[ST:wait ]"
+    }
+  ]
+}

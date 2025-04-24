@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999925_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999925_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999925_JNK0030",
+      "style": 4,
+      "name": "バトルメンバーに加える[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999925_SEL0031",
+      "style": 3,
+      "name": "活動中のブレイド隊員[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999925_MSG0001",
+      "style": 1,
+      "name": "こんにちは\n調子はどう？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999925_MSG0101",
+      "style": 1,
+      "name": "こんにちは\n相変わらず調子はよさそうね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999925_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999925_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999925_MSG2001",
+      "style": 1,
+      "name": "わかった\nユニオンに戦闘支援を要請しておくわ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999925_MSG2101",
+      "style": 1,
+      "name": "安心して戦いなさい\n私のユニオンがしっかりとサポートするわ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999925_MSG3001",
+      "style": 1,
+      "name": "私でよければ力になるわ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999925_MSG3101",
+      "style": 1,
+      "name": "行きましょうか\nあなたと一緒の任務[ST:wide ]―胸が躍るわ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999925_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999925_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999925_MSG5001",
+      "style": 1,
+      "name": "今　取り込み中よ\n後にしてくれるかしら[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999925_MSG5101",
+      "style": 1,
+      "name": "ごめんなさい　今　手が離せないの\nまた後で来てくれる？[ST:wait ]"
+    }
+  ]
+}

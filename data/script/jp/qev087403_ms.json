@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087403_MSG0001",
+      "style": 0,
+      "name": "この時間帯は　この辺りが怪しいわね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087403_MSG0002",
+      "style": 0,
+      "name": "エルマさん　来ました[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087403_MSG0003",
+      "style": 0,
+      "name": "シレイのおっちゃんですも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087403_MSG0004",
+      "style": 0,
+      "name": "昼のヴァンダム司令　見つかりましたね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087403_MSG0005",
+      "style": 0,
+      "name": "今度は仕事をしている雰囲気ね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087403_MSG0006",
+      "style": 0,
+      "name": "メンテが追いつかないんです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087403_MSG0007",
+      "style": 0,
+      "name": "あぁ　昨日の戦闘は激しかったもんなぁ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087403_MSG0008",
+      "style": 0,
+      "name": "まずは損傷の少ない機体を優先するとしよう[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087403_MSG0009",
+      "style": 0,
+      "name": "大破したドールは直すよりもパーツ取りに\n使っちまえ　その方が早い[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087403_MSG0010",
+      "style": 0,
+      "name": "なるほど！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087403_MSG0011",
+      "style": 0,
+      "name": "電装系やジェネレーターは流用できますが\n二次装甲の部材は使い物にならなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087403_MSG0012",
+      "style": 0,
+      "name": "あぁ　そっちはマテリアルが必要だよなぁ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087403_MSG0013",
+      "style": 0,
+      "name": "おーい　そこの見物人[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087403_MSG0014",
+      "style": 0,
+      "name": "ええ！？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087403_MSG0015",
+      "style": 0,
+      "name": "見物人はひどいわね[ST:wide ]―\n自分で見に来いって言っておいて[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087403_MSG0016",
+      "style": 0,
+      "name": "まぁ　そう言うな\n結果としてブレイド全体の役に立つんだからな[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087403_MSG0017",
+      "style": 0,
+      "name": "ほれ　分かったら必要なマテリアルを\nちょっくら集めてきてくれや[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087403_MSG0018",
+      "style": 0,
+      "name": "そんなの　おっちゃんが行けばいいですも！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087403_MSG0019",
+      "style": 0,
+      "name": "俺か　俺はここでメカニックの\n監督しなきゃならねえんだよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087403_MSG0020",
+      "style": 0,
+      "name": "悪いが頼むわ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087403_MSG0021",
+      "style": 0,
+      "name": "これも任務ね[ST:wide ]―　了解[ST:wait ]"
+    }
+  ]
+}

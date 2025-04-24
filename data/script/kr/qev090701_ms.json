@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090701_MSG0001",
+      "style": 0,
+      "name": "……잠깐, 당신\n기다려 줄 수 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090701_MSG0002",
+      "style": 0,
+      "name": "지금 그 임무를 받으려 하는\n당신 말입니다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090701_JNK0010",
+      "style": 4,
+      "name": "응답"
+    },
+    {
+      "$id": 4,
+      "label": "qev090701_SEL0011",
+      "style": 3,
+      "name": "부르는 소리에 반응한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev090701_JNK0020",
+      "style": 4,
+      "name": "무시"
+    },
+    {
+      "$id": 6,
+      "label": "qev090701_SEL0021",
+      "style": 3,
+      "name": "신경 쓰지 않고 임무를 수주한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev090701_MSG0003",
+      "style": 0,
+      "name": "다행이다, 말이 통할 것 같은 사람이라……\n잠시 이야기하고 싶은 것이 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090701_MSG0004",
+      "style": 0,
+      "name": "이런 식으로 대화의 중요함을\n이해하지 못하는 사람이 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090701_MSG0005",
+      "style": 0,
+      "name": "세상에서 다툼이 사라지지 않는 거겠죠[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090701_MSG0006",
+      "style": 0,
+      "name": "……제 말 듣고 있죠?\n계속 이야기할게요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090701_MSG0007",
+      "style": 0,
+      "name": "그러니까……\n지금 당신이 받으려 하는 그 임무 말인데요……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090701_MSG0008",
+      "style": 0,
+      "name": "패스파인더로서의 경험……\n체력, 그리고 무엇보다도 지성……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090701_MSG0009",
+      "style": 0,
+      "name": "종합적으로 봤을 때\n바로 저, 헥터 바트위슬이 가는 편이[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090701_MSG0010",
+      "style": 0,
+      "name": "타당하다고 봅니다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090701_MSG0011",
+      "style": 0,
+      "name": "부디 사사로운 감정은 버리고 양보해 주세요\n그것이 나아가 지구인을 위한 일이기도 합니다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090701_JNK0030",
+      "style": 4,
+      "name": "거부"
+    },
+    {
+      "$id": 17,
+      "label": "qev090701_SEL0031",
+      "style": 3,
+      "name": "HB의 제안을 거부한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev090701_JNK0040",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 19,
+      "label": "qev090701_SEL0041",
+      "style": 3,
+      "name": "어째서 지구인을 위한\n일이라는 건지 묻는다"
+    },
+    {
+      "$id": 20,
+      "label": "qev090701_MSG0012",
+      "style": 0,
+      "name": "완고한 사람이군요……\n그렇다면 당신에게는 이 임무를 드리죠[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090701_MSG0013",
+      "style": 0,
+      "name": "간단한 이유입니다\n당신보다 제가 우수하기 때문이죠[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090701_MSG0014",
+      "style": 0,
+      "name": "반드시 성공시킬 테니까\n부디 양보해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090701_MSG0015",
+      "style": 0,
+      "name": "……그렇지, 당신에게는 이 임무를 드리죠[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090701_MSG0016",
+      "style": 0,
+      "name": "제제 질경이 2개 수집……\n이 정도라면 당신도 할 수 있겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090701_MSG0017",
+      "style": 0,
+      "name": "……뭔가요? 불만이라도 있습니까?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090701_MSG0018",
+      "style": 0,
+      "name": "곤란한 사람이네요\n그렇게까지 제게 대항하려 하다니[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090701_MSG0019",
+      "style": 0,
+      "name": "그러면 이렇게 하죠[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090701_MSG0020",
+      "style": 0,
+      "name": "지금 제가 받은 3개의 임무를\n누가 더 빨리 달성할지[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090701_MSG0021",
+      "style": 0,
+      "name": "경쟁해 보는 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090701_MSG0022",
+      "style": 0,
+      "name": "당신과 저의 차이가 얼마나 큰지\n몸소 깨닫게 해 드릴게요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090701_MSG0023",
+      "style": 0,
+      "name": "전부 끝나면 이곳에 모이죠\n그러면 실례합니다[ST:wait ]"
+    }
+  ]
+}

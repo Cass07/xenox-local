@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001691_MSG0001",
+      "style": 1,
+      "name": "안녕, [ST:playername ]!\n오늘도 돌을 보고 있어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001691_MSG0002",
+      "style": 1,
+      "name": "움직이지 않는 건 아무래도 슬슬 질리는데\n움직이는 모습은 봐도 봐도 질리지 않아[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001691_MSG0003",
+      "style": 1,
+      "name": "암즈가 성능 시험장에서 움직이는 걸\n보기만 해도 두근두근한단 말이지![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001691_JNK0010",
+      "style": 4,
+      "name": "지겨워한다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001691_SEL0011",
+      "style": 3,
+      "name": "다른 할 일은 없느냐며\n지겨워한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001691_JNK0020",
+      "style": 4,
+      "name": "질문한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001691_SEL0021",
+      "style": 3,
+      "name": "쉬는 날에도\n돌을 보는지 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001691_MSG0004",
+      "style": 1,
+      "name": "다른 할 일이라……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001691_MSG0005",
+      "style": 1,
+      "name": "돌 정비를 돕기도 해[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001691_MSG0006",
+      "style": 1,
+      "name": "그리고 다른 유니언의 돌 조종사에게\n이야기를 듣고 참고하거나……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001691_MSG0007",
+      "style": 1,
+      "name": "아~ 지금 역시 돌 바보라고 생각했지?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001691_MSG0008",
+      "style": 1,
+      "name": "쉬는 날에는 말이지~\n교회에 간 다음에 장을 보고\n친구 집에 가서 밥을 먹어![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001691_MSG0009",
+      "style": 1,
+      "name": "어때, 의외로 평범하지?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001691_MSG0010",
+      "style": 1,
+      "name": "뭐…… 집 가는 길에는 격납고에 들러서\n정비 중인 돌을 보면서\n메카닉 쪽 사람들과 이야기하기도 하지만[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001691_MSG0011",
+      "style": 1,
+      "name": "아~ 지금 돌 바보라고 생각했지?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001691_JNK0030",
+      "style": 4,
+      "name": "긍정한다"
+    },
+    {
+      "$id": 17,
+      "label": "tev001691_SEL0031",
+      "style": 3,
+      "name": "한없이 강하게 끄덕인다"
+    },
+    {
+      "$id": 18,
+      "label": "tev001691_JNK0040",
+      "style": 4,
+      "name": "부정한다"
+    },
+    {
+      "$id": 19,
+      "label": "tev001691_SEL0041",
+      "style": 3,
+      "name": "무언가에 열중하는 건\n좋은 일이라고 대답한다"
+    },
+    {
+      "$id": 20,
+      "label": "tev001691_MSG0012",
+      "style": 1,
+      "name": "크윽……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001691_MSG0013",
+      "style": 1,
+      "name": "단칼에 긍정 당하고 말았어……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001691_MSG0014",
+      "style": 1,
+      "name": "그래도, 우리 아버지가 그랬어\n뭐든지 최고가 되는 게 좋다고[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001691_MSG0015",
+      "style": 1,
+      "name": "돌 지식이나 기술로는 최고가 될 수 없지만\n돌에 대한 애정으로는 최고라고 생각해[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001691_MSG0016",
+      "style": 1,
+      "name": "아니, 역시 지금\nNLA 최고의 돌 바보라고 생각했지!?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001691_MSG0017",
+      "style": 1,
+      "name": "그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001691_MSG0018",
+      "style": 1,
+      "name": "일하는 데 있어서 동기 부여는\n굉장히 중요하잖아![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001691_MSG0019",
+      "style": 1,
+      "name": "난 왠지 돌과 관련된 일에서는\n200%의 힘을 낼 수 있어![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001691_MSG0020",
+      "style": 1,
+      "name": "그 외에는 50% 정도지만……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001691_MSG0021",
+      "style": 1,
+      "name": "농담이야, 농담[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001691_MSG0022",
+      "style": 1,
+      "name": "모두에게 인정받아서\n전속 파일럿이 되고 싶으니까\n어떤 임무든 열심히 할 거야!![ST:wait ]"
+    }
+  ]
+}

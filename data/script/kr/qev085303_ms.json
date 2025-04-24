@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085303_MSG0001",
+      "style": 0,
+      "name": "랜드뱅크의 리브로 콜?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085303_MSG0002",
+      "style": 0,
+      "name": "아, 그렇다, 자네들은?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085303_MSG0003",
+      "style": 0,
+      "name": "키아스 씨의 구조 요청으로\n리브로 씨를 구하러 왔어요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085303_MSG0004",
+      "style": 0,
+      "name": "쓸데없는 짓을\n그 녀석은 이미 돌아갔나?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085303_MSG0005",
+      "style": 0,
+      "name": "그래, 당신을 남겨 두고 말이지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085303_MSG0006",
+      "style": 0,
+      "name": "그 녀석이 더 빨랐구먼[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085303_MSG0007",
+      "style": 0,
+      "name": "당신도 그런 이야기 할 때가 아니잖아!\n당신을 두고 혼자 갔다고![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085303_MSG0008",
+      "style": 0,
+      "name": "콜 가문의 네 번째 가훈\n목적을 이뤘으면 빨리 돌아가라[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085303_MSG0009",
+      "style": 0,
+      "name": "키아스도 똑같이 말했어!\n교육을 어떻게 하고 있는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085303_MSG0010",
+      "style": 0,
+      "name": "자네들, 무기를 갖고 있나?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085303_MSG0011",
+      "style": 0,
+      "name": "네? 물론 있는데요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085303_MSG0012",
+      "style": 0,
+      "name": "마침 잘 됐군[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085303_MSG0013",
+      "style": 0,
+      "name": "이 동굴에 원시 생물이 우글거려서 말이지\n아직 광석을 확보하지 못했어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085303_MSG0014",
+      "style": 0,
+      "name": "자네들이 가서 모아 와 줄 수 있겠나?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085303_MSG0015",
+      "style": 0,
+      "name": "사람 말을 듣고 있는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085303_MSG0016",
+      "style": 0,
+      "name": "콜 가문의 두 번째 가훈\n설령 혼자 남더라도 목적을 완수해라[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085303_MSG0017",
+      "style": 0,
+      "name": "NLA를 발전시키기 위해서는\n플레멘타이드 확보가 꼭 필요해[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085303_MSG0018",
+      "style": 0,
+      "name": "그것도 아까 들었어\n그러니까 내 말은……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085303_MSG0019",
+      "style": 0,
+      "name": "됐으니까, 부탁을 들어주자[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085303_MSG0020",
+      "style": 0,
+      "name": "엘마 대령님[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085303_MSG0021",
+      "style": 0,
+      "name": "그들에게는 그들의 임무가 있어\n지원할 수 있는 것이라면 해 줘야지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085303_MSG0022",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085303_MSG0023",
+      "style": 1,
+      "name": "플레멘타이드는 불꽃처럼 붉은 광석이다\n이 동굴 곳곳에 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085303_MSG0024",
+      "style": 1,
+      "name": "도와줄 거면\n동굴을 철저히 찾아 봐 줘[ST:wait ]"
+    }
+  ]
+}

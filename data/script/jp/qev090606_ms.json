@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090606_MSG0001",
+      "style": 1,
+      "name": "あんな化け物　見たことありません[ST:wide ]―\n思い出すだけで　身体が震えてきますよ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090606_MSG0002",
+      "style": 1,
+      "name": "先生なら大丈夫だとは思うけど[ST:wide ]―\nどうか　気を付けてくださいね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090606_MSG0003",
+      "style": 1,
+      "name": "お帰りなさい先生！\nその様子だと　奴を見事倒したみたいですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090606_MSG0004",
+      "style": 1,
+      "name": "本当に[ST:wide ]―　さすがですね！\n先生は最強のアヴァランチですよ！[ST:wait ]"
+    }
+  ]
+}

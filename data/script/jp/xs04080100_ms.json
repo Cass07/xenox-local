@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04080100_MSG0001",
+      "style": 0,
+      "name": "ああっ　やられましたですも！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04080100_MSG0002",
+      "style": 0,
+      "name": "ああ　なんということを[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04080100_MSG0003",
+      "style": 0,
+      "name": "ひどい[ST:wide ]―　私達の　地球の大切な遺産を[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs04080100_MSG0004",
+      "style": 0,
+      "name": "どうやら　ただの好戦的な異星人って\nだけではなさそうね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs04080100_MSG0005",
+      "style": 0,
+      "name": "明確な意図を持ってライフを攻撃している[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs04080100_MSG0006",
+      "style": 0,
+      "name": "そういえば　この前\n地球人を皆殺しにするって[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs04080100_MSG0007",
+      "style": 0,
+      "name": "まだ間に合うかもしれない\nやるわよ[ST:wait ]\n"
+    }
+  ]
+}

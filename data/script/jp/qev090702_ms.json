@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090702_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―やっと戻ってきましたか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090702_MSG0002",
+      "style": 0,
+      "name": "まぁ　まだ任務は終わっていないと思いますが\n最優先で解決せねばならぬ問題が起きましてね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090702_MSG0003",
+      "style": 0,
+      "name": "勝負は延期にして差し上げようと思って\nお待ちしていたんですよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090702_JNK0010",
+      "style": 4,
+      "name": "申告"
+    },
+    {
+      "$id": 5,
+      "label": "qev090702_SEL0011",
+      "style": 3,
+      "name": "任務は全て達成したと\n告げる"
+    },
+    {
+      "$id": 6,
+      "label": "qev090702_JNK0020",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 7,
+      "label": "qev090702_SEL0021",
+      "style": 3,
+      "name": "HBが抱えている\n問題について尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "qev090702_MSG0004",
+      "style": 0,
+      "name": "まさか[ST:wide ]―　もう全ての任務を[ST:wide ]―！？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090702_MSG0005",
+      "style": 0,
+      "name": "いえ　僕は当然のごとく\n全ての任務を完了しているので[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090702_MSG0006",
+      "style": 0,
+      "name": "そこまで驚くべきことではありませんが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090702_MSG0007",
+      "style": 0,
+      "name": "[ST:wide ]―なるほど\n僕は君を見誤っていたようです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090702_MSG0008",
+      "style": 0,
+      "name": "これはとても重大な任務でしてね　あのような\n任務に手こずるような者には言えませんよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090702_MSG0009",
+      "style": 0,
+      "name": "いや[ST:wide ]―　ちょっと待ってください[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090702_MSG0010",
+      "style": 0,
+      "name": "任務が３つとも完了している[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090702_MSG0011",
+      "style": 0,
+      "name": "なるほど　君は僕の次にやり手のようだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090702_MSG0012",
+      "style": 0,
+      "name": "僕は君よりも早く\n３つの任務を終えましたからね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090702_MSG0013",
+      "style": 0,
+      "name": "[ST:wide ]―しかし\nどうやら僕は君を見誤っていたようです[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090702_MSG0014",
+      "style": 0,
+      "name": "君にもこの任務を\nお教えした方が良さそうですね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090702_MSG0015",
+      "style": 0,
+      "name": "ある洞窟で原生生物に襲われ\n身動きが取れなくなっている者がいるのです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090702_MSG0016",
+      "style": 0,
+      "name": "彼は非常に有能な学者でしてね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090702_MSG0016_02",
+      "style": 0,
+      "name": "どうあっても今　失うわけにはいかない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090702_MSG0017",
+      "style": 0,
+      "name": "わかりますか？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090702_MSG0017_2",
+      "style": 0,
+      "name": "これはＮＬＡの科学発展に関わる\n急を要する事態なのです[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090702_MSG0018",
+      "style": 0,
+      "name": "どうでしょう　共に力を合わせ\nこの救出任務に当たりませんか？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090702_MSG0019",
+      "style": 0,
+      "name": "君くらいの力があれば\nきっと足手まといにはならないはずですから[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090702_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 27,
+      "label": "qev090702_SEL0031",
+      "style": 3,
+      "name": "HBの申し出を受ける"
+    },
+    {
+      "$id": 28,
+      "label": "qev090702_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 29,
+      "label": "qev090702_SEL0041",
+      "style": 3,
+      "name": "HBの申し出を断る"
+    },
+    {
+      "$id": 30,
+      "label": "qev090702_MSG0020",
+      "style": 0,
+      "name": "良い返事です\nそれでは一刻も早く出発しましょう！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090702_MSG0021",
+      "style": 0,
+      "name": "もしかしてプライドを気にしているのですか？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090702_MSG0022",
+      "style": 0,
+      "name": "そんな私情はさっさと捨ててください\n一刻も早く出発しますよ！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090702_MSG0023",
+      "style": 0,
+      "name": "君の実力　期待していますから[ST:wide ]―\n失望させないでくださいね[ST:wait ]"
+    }
+  ]
+}

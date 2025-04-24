@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs07070100_MSG0001",
+      "style": 0,
+      "name": "エルマ大佐[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs07070100_MSG0002",
+      "style": 0,
+      "name": "あの異星人達　何だってあそこまで\n地球人を憎んでるんでしょう[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs07070100_MSG0003",
+      "style": 0,
+      "name": "彼らの中に　単なる憎しみを超えた\n何かがあることだけは確かね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs07070100_MSG0004",
+      "style": 0,
+      "name": "自らの生存を脅かされるような何かが[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs07070100_MSG0005",
+      "style": 0,
+      "name": "あたしらだって好きで\n宇宙に出てきたわけじゃない[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs07070100_MSG0006",
+      "style": 0,
+      "name": "地球を失って[ST:wide ]―\nそれで　こんな星まで来たのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs07070100_MSG0007",
+      "style": 0,
+      "name": "イリーナ中尉[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs07070100_MSG0008",
+      "style": 0,
+      "name": "ごめん　つい思い出しちゃったよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs07070100_MSG0009",
+      "style": 0,
+      "name": "もう平気　行こう[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs07070100_MSG0010",
+      "style": 0,
+      "name": "あ　はい[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs07070100_MSG0011",
+      "style": 0,
+      "name": "エルマ大佐\nこちらは先にＮＬＡへ帰還します[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs07070100_MSG0012",
+      "style": 0,
+      "name": "ミッションへの支援　感謝いたします[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs07070100_MSG0013",
+      "style": 0,
+      "name": "イリーナさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs07070100_MSG0014",
+      "style": 0,
+      "name": "イリーナには弟がいたのよ\nグインの親友でもあった弟が[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs07070100_MSG0015",
+      "style": 0,
+      "name": "彼は白鯨に乗れなかった\n地球と運命を共にしたの[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs07070100_MSG0017",
+      "style": 0,
+      "name": "よくある話[ST:wide ]―\nで　すませたくはないけどそれが現実[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32050100_MSG0010",
+      "style": 0,
+      "name": "다 같이 와 주다니[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32050100_MSG0020",
+      "style": 0,
+      "name": "컨디션은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32050100_MSG0030",
+      "style": 0,
+      "name": "알 씨는 그 말만 한다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32050100_MSG0040",
+      "style": 0,
+      "name": "입버릇이야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32050100_MSG0050",
+      "style": 0,
+      "name": "진지하게 대답할 필요는 없어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32050100_MSG0060",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32050100_MSG0070",
+      "style": 0,
+      "name": "컨디션이 어떠냐는 소리를 들으면……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32050100_MSG0080",
+      "style": 0,
+      "name": "물론 최악이야, 넌 어때?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32050100_MSG0090",
+      "style": 0,
+      "name": "너보다는 낫지, 다시 말해 최고다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32050100_MSG0100",
+      "style": 0,
+      "name": "아하하하하하하![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32050100_MSG0101",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "xs32050100_MSG0102",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "xs32050100_MSG0110",
+      "style": 0,
+      "name": "이상한 대화다모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32050100_MSG0120",
+      "style": 0,
+      "name": "옛말에 이르기를 이심전심이라죠[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32050100_MSG0130",
+      "style": 0,
+      "name": "멋진 커뮤니케이션입니다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32050100_MSG0140",
+      "style": 0,
+      "name": "알 씨![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32050100_MSG0150",
+      "style": 0,
+      "name": "저도요, 저도![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32050100_MSG0160",
+      "style": 0,
+      "name": "이봐 그윈, 컨디션은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32050100_MSG0170",
+      "style": 0,
+      "name": "물론 최악이에요, 알 씨는 어때요?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32050100_MSG0180",
+      "style": 0,
+      "name": "너한테 걱정받을 만큼 죽진 않았다, 이 녀석아[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32050100_MSG0190",
+      "style": 0,
+      "name": "네엣!?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32050100_MSG0200",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "xs32050100_MSG0210",
+      "style": 0,
+      "name": "하하하![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32050100_MSG0211",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "xs32050100_MSG0212",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "xs32050100_MSG0213",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "xs32050100_MSG0214",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "xs32050100_MSG0220",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "xs32050100_MSG0230",
+      "style": 0,
+      "name": "역시 그대로네[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32050100_MSG0240",
+      "style": 0,
+      "name": "세계의 끝을 보고 왔잖아?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32050100_MSG0250",
+      "style": 0,
+      "name": "깨달음 하나쯤 얻었을 만하지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32050100_MSG0260",
+      "style": 0,
+      "name": "거기는 그런 고상한 곳이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32050100_MSG0270",
+      "style": 0,
+      "name": "그저 지루할 뿐인\n망한 피서지 같은 곳이었어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32050100_MSG0280",
+      "style": 0,
+      "name": "부디!\n자세히 가르쳐 주셨으면 합니다![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32050100_MSG0290",
+      "style": 0,
+      "name": "나도……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs32050100_MSG0300",
+      "style": 0,
+      "name": "알고 싶은데[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs32050100_MSG0310",
+      "style": 0,
+      "name": "다들 하나같이 뭐야?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs32050100_MSG0320",
+      "style": 0,
+      "name": "재미없는 이야기인데, 괜찮겠어?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs32050100_JNK0010",
+      "style": 4,
+      "name": "진지"
+    },
+    {
+      "$id": 40,
+      "label": "xs32050100_SEL0010",
+      "style": 3,
+      "name": "알을 올곧은 눈빛으로 바라본다"
+    },
+    {
+      "$id": 41,
+      "label": "xs32050100_MSG0330",
+      "style": 0,
+      "name": "넌 분명 잠들 거다[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs32050100_JNK0020",
+      "style": 4,
+      "name": "요구"
+    },
+    {
+      "$id": 43,
+      "label": "xs32050100_SEL0020",
+      "style": 3,
+      "name": "이야기하기 나름이라고 말한다"
+    },
+    {
+      "$id": 44,
+      "label": "xs32050100_MSG0340",
+      "style": 0,
+      "name": "부담스럽게 만들지 마[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs32050100_MSG0350",
+      "style": 0,
+      "name": "뭐, 상관없나[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs32050100_MSG0360",
+      "style": 0,
+      "name": "그 대신 한턱내는 거다[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs32050100_MSG0370",
+      "style": 0,
+      "name": "나 참, 호기심도 많은 녀석들이군……[ST:wait ]"
+    }
+  ]
+}

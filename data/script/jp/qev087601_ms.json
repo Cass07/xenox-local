@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087601_MSG0001",
+      "style": 0,
+      "name": "誰か来たですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087601_MSG0002",
+      "style": 0,
+      "name": "諸君　ようやく君達に栄えある任務に\n就いてもらう日がやってきた[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087601_MSG0003",
+      "style": 0,
+      "name": "その言い方[ST:wide ]―　どうやらラース人と\n友好関係を築く準備ができたようね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087601_MSG0004",
+      "style": 0,
+      "name": "その通りだ　エルマ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087601_MSG0005",
+      "style": 0,
+      "name": "君達が持ち帰ってくれたデータボックスを\n解析したところ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087601_MSG0006",
+      "style": 0,
+      "name": "彼らラース人は\n完全にグロウスと訣別したことが判明した[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087601_MSG0007",
+      "style": 0,
+      "name": "ならば　我ら地球人と手を結ぶことは\n互いの益となるに違いない[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087601_MSG0008",
+      "style": 0,
+      "name": "そこで　我々からの書状を\n君達からラース人の代表に手渡してもらいたい[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087601_MSG0009",
+      "style": 0,
+      "name": "彼らがどう考えるかは分からないけれど\n申し出そのものは有意義だと思う[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087601_MSG0010",
+      "style": 0,
+      "name": "引き受けるわ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087601_MSG0011",
+      "style": 0,
+      "name": "でも　ラースの人達がどこにいるかは\nわかったんですか？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087601_MSG0012",
+      "style": 0,
+      "name": "問題はそこだ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087601_MSG0013",
+      "style": 0,
+      "name": "データボックスに残されていた航法記録から[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087601_MSG0014",
+      "style": 0,
+      "name": "彼らが忘却の渓谷に拠点を\n持っているのは確からしい[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087601_MSG0015",
+      "style": 0,
+      "name": "だが　それ以上は絞り込めなかったのだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087601_MSG0016",
+      "style": 0,
+      "name": "それなら　タツが捜し出すですも！\nお安い御用ですも！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087601_MSG0017",
+      "style": 0,
+      "name": "よろしく頼む[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087601_MSG0018",
+      "style": 0,
+      "name": "了解\n良い返事がもらえるよう努力してみる[ST:wait ]"
+    }
+  ]
+}

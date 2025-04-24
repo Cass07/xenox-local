@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087002_MSG0001",
+      "style": 0,
+      "name": "부재중이었는데 미안하군\n기다리고 있었다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087002_MSG0002",
+      "style": 0,
+      "name": "그 얼굴을 보니\n모리스의 의뢰를 알고 있는 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087002_MSG0003",
+      "style": 0,
+      "name": "그 반응은 아무래도 받아들인 것 같군[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087002_MSG0004",
+      "style": 0,
+      "name": "괜찮아요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087002_MSG0004_2",
+      "style": 0,
+      "name": "위험하면 중지하겠다고\n엘마 씨가 확실히 말했으니까요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087002_MSG0005",
+      "style": 0,
+      "name": "그런가, 그런 마음가짐이라면 안심이지만[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087002_MSG0006",
+      "style": 0,
+      "name": "잊지 마라, 정보도 중요하지만\n나에게는 자네들이 훨씬 중요하다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087002_MSG0007",
+      "style": 0,
+      "name": "알고 있다모!\n타츠도 자신의 목숨이 먼저다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087002_MSG0008",
+      "style": 0,
+      "name": "……저 말대로니까 걱정하지 마[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087002_MSG0009",
+      "style": 1,
+      "name": "자일 요새에는\n그로우스의 정예가 모여 있다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087002_MSG0010",
+      "style": 1,
+      "name": "아무리 자네들이라도 정면으로 들어가면\n잠시도 버티기 힘들겠지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087002_MSG0011",
+      "style": 1,
+      "name": "그래, 선발대의 보고에 따르면\n자일 요새 동쪽 해안의 경비가\n비교적 허술하다더군[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087002_MSG0012",
+      "style": 1,
+      "name": "그곳으로 잠입하여 적을 피해\n정보를 관리하는 적진의 중추로\n들어가는 건 어떤가?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087002_MSG0013",
+      "style": 1,
+      "name": "뭐, 방식은 일임하겠다만……\n아무튼 죽지 말도록, 어떤 정보보다도\n자네들의 목숨이 훨씬 중요하니까[ST:wait ]"
+    }
+  ]
+}

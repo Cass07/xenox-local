@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31180100_MSG0010",
+      "style": 0,
+      "name": "나는 보이드[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31180100_MSG0030",
+      "style": 0,
+      "name": "이 행성에 모인 \"나의 아이들\"이여[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31180100_MSG0040",
+      "style": 0,
+      "name": "나의 목소리에 응답하라[ST:wait ]"
+    }
+  ]
+}

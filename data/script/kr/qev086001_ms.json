@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086001_MSG0001",
+      "style": 0,
+      "name": "린 씨, 왜 그러냐모?\n손이 멈춰 있다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086001_MSG0002",
+      "style": 0,
+      "name": "빨리 밥을 줘모!\n타츠는 배가 고프다모[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086001_MSG0003",
+      "style": 0,
+      "name": "앗, 미안\n잠깐만 기다려 줘[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086001_MSG0004",
+      "style": 0,
+      "name": "린, 왜 그래?\n몸이라도 안 좋아?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086001_MSG0005",
+      "style": 0,
+      "name": "아니요, 그게 아니라[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086001_MSG0006",
+      "style": 0,
+      "name": "사실은 공업 에어리어의 에너지 공급 시스템에\n전송 손실이 확인됐어요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086001_MSG0007",
+      "style": 0,
+      "name": "전에 네가 복구했던 곳이네\n손실률은?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086001_MSG0008",
+      "style": 0,
+      "name": "어제부터 5%를 넘었어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086001_MSG0009",
+      "style": 0,
+      "name": "그렇다면 아직 안전율을 넘지 않았을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086001_MSG0010",
+      "style": 0,
+      "name": "그건 그런데요……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086001_MSG0011",
+      "style": 0,
+      "name": "하지만 얼마 전에 복구했을 때\n손실은 전부 없앴을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086001_MSG0012",
+      "style": 0,
+      "name": "손실이 생길 때까지 1년은 버틸 줄 알았는데……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086001_MSG0013",
+      "style": 0,
+      "name": "너의 메카닉으로서의 프라이드구나[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086001_MSG0014",
+      "style": 0,
+      "name": "좋아, 이 건은 임무로서 맡아야겠네\n재점검하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086001_MSG0015",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086001_MSG0016",
+      "style": 0,
+      "name": "타츠의 밥이~~[ST:wait ]"
+    }
+  ]
+}

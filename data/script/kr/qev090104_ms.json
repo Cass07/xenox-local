@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090104_MSG0001",
+      "style": 0,
+      "name": "완전히 원시 생물들의\n둥지가 돼 버린 모양이군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090104_MSG0002",
+      "style": 0,
+      "name": "……준비됐어?\n저기에 있는 게 누구 건지……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090104_MSG0003",
+      "style": 0,
+      "name": "저 괴물들한테 확실히 알려 주자고[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090104_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 5,
+      "label": "qev090104_SEL0011",
+      "style": 3,
+      "name": "고개를 끄덕이고\n이엘브와 함께 싸운다"
+    },
+    {
+      "$id": 6,
+      "label": "qev090104_JNK0020",
+      "style": 4,
+      "name": "신중"
+    },
+    {
+      "$id": 7,
+      "label": "qev090104_SEL0021",
+      "style": 3,
+      "name": "상황을 보자고 제안한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev090104_MSG0004",
+      "style": 0,
+      "name": "……내 등은 너한테 맡긴다! 파트너![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090104_MSG0005",
+      "style": 0,
+      "name": "헷~! 이 느낌……\n그 녀석과 콤비를 이뤘을 때가 생각나는군![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090104_MSG0006",
+      "style": 0,
+      "name": "무슨 소리를 하는 거야!\n그런 건 싸우면서 보면 되잖아![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090104_MSG0007",
+      "style": 0,
+      "name": "그 녀석이라면……\n그런 말은 안 했을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090104_MSG0008",
+      "style": 0,
+      "name": "……그럼 간다!\n녀석들을 날려 버려 주자고![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090104_MSG0009",
+      "style": 0,
+      "name": "잔해 안에는 지구 동물들의\n연구 샘플이 들어 있는 것 같은데……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090104_MSG0010",
+      "style": 0,
+      "name": "정작 그건 없군……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090104_MSG0011",
+      "style": 0,
+      "name": "하아…… 가자고, 파트너\nNLA에 돌아가서 엘레오노라한테 보고한다[ST:wait ]"
+    }
+  ]
+}

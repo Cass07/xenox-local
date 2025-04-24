@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092904_MSG0010",
+      "style": 0,
+      "name": "うん　さすがだね\n鮮やかな手並みだったよ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092904_MSG0020",
+      "style": 0,
+      "name": "よし　次は私の番だ\n手早く調査をはじめよう[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092904_MSG0030",
+      "style": 0,
+      "name": "まずは　リングのふもとを調べて\nデータプラグのコンソールを探すよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092904_MSG0040",
+      "style": 0,
+      "name": "うまくいけば　この謎めいたリングの\n稼働ログをサルベージできるかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092904_MSG0050",
+      "style": 0,
+      "name": "とりあえずは[ST:wide ]―\n2ヶ所見つかれば十分かな[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092904_MSG0060",
+      "style": 0,
+      "name": "その間　また原生生物の相手を頼める？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092904_JNK0070",
+      "style": 4,
+      "name": "勇敢"
+    },
+    {
+      "$id": 8,
+      "label": "qev092904_SEL0080",
+      "style": 3,
+      "name": "自信満々で任せろと答える"
+    },
+    {
+      "$id": 9,
+      "label": "qev092904_MSG0090",
+      "style": 0,
+      "name": "あはは　期待通りの返事をありがとう\nキミになら安心して命を預けられるね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092904_MSG0100",
+      "style": 0,
+      "name": "それじゃあ　調査開始だ\n引き続き　よろしく頼んだよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092904_JNK0110",
+      "style": 4,
+      "name": "守銭奴"
+    },
+    {
+      "$id": 12,
+      "label": "qev092904_SEL0120",
+      "style": 3,
+      "name": "報酬の増額を求める"
+    },
+    {
+      "$id": 13,
+      "label": "qev092904_MSG0130",
+      "style": 0,
+      "name": "うーん　困ったなぁ\n今は手持ちが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092904_MSG0140",
+      "style": 0,
+      "name": "あ　そうだ！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092904_MSG0145",
+      "style": 0,
+      "name": "代わりに私が作った\n詩を詠んであげるのはどう？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092904_MSG0150",
+      "style": 0,
+      "name": "私の知性と感性の結晶を贈るんだ\nこれならキミも嬉しいよね？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092904_MSG0160",
+      "style": 0,
+      "name": "[ST:wide ]―えっ？　追加報酬はいらない？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092904_MSG0165",
+      "style": 0,
+      "name": "あ　そう[ST:wide ]―　ふーん　そっかぁ[ST:wait ]"
+    }
+  ]
+}

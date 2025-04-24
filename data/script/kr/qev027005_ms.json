@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev027005_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "qev027005_MSG0002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "qev027005_MSG0003",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "qev027005_MSG0004",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "qev027005_MSG0005",
+      "style": 1,
+      "name": "토핑으로 간을 잔뜩 올린 간간 피자를 먹고\n혈액 충전, 완료했어용![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev027005_MSG0006",
+      "style": 1,
+      "name": "당신은 어떤가용?\n절 쏜 녀석을 쓰러뜨렸나용?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev027005_MSG0007",
+      "style": 1,
+      "name": "이대로는 우주선 수리도\n마음 편히 할 수 없다고용![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev027005_MSG0008",
+      "style": 1,
+      "name": "어서 절 쏜 녀석의 위치를 찾아내서\n때려눕히고 와 주세용![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev027005_MSG0009",
+      "style": 1,
+      "name": "어서 와용![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev027005_MSG0010",
+      "style": 1,
+      "name": "이야기는 전부 들었지만……\n일단 비하바에게 보고하는 게 좋겠어용![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev027005_MSG0011",
+      "style": 1,
+      "name": "사격 방향은 북서쪽이에용!\n적은 야광의 숲 근처에 숨어 있을 거예용![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev027005_MSG0012",
+      "style": 1,
+      "name": "두 번이나 헤라도트를 쏜 녀석을\n빨리 쓰러뜨리고 오라고용~![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev027005_MSG0013",
+      "style": 1,
+      "name": "흥, 흥, 저 삐졌어용~![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev027005_MSG0014",
+      "style": 1,
+      "name": "절대 이대로 넘어가지 않을 거라고용~![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev027005_MSG0015",
+      "style": 1,
+      "name": "어머나, 어서 와용[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev027005_MSG0016",
+      "style": 1,
+      "name": "이제야 돌아왔네용![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev027005_MSG0017",
+      "style": 1,
+      "name": "피자값은 어떻게 됐나용?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev027005_JNK0030",
+      "style": 4,
+      "name": "피자값을 건네준다"
+    },
+    {
+      "$id": 19,
+      "label": "qev027005_SEL0031",
+      "style": 3,
+      "name": "헤라도트에게 피자값으로\n500000G를 건네준다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev027005_JNK0040",
+      "style": 4,
+      "name": "건네주지 않는다"
+    },
+    {
+      "$id": 21,
+      "label": "qev027005_SEL0041",
+      "style": 3,
+      "name": "아직은 건네주지 않는다"
+    },
+    {
+      "$id": 22,
+      "label": "qev027005_MSG0018",
+      "style": 1,
+      "name": "오오오, 굿 잡!\n굿 잡이에용![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev027005_MSG0019",
+      "style": 1,
+      "name": "이제 피자값은 죽을 때까지 안 부족하겠네용\n아니지, 피자를 먹다 죽어도 돈이 남겠어용[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev027005_MSG0020",
+      "style": 1,
+      "name": "하지만 그것도 행복하겠네용![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev027005_MSG0021",
+      "style": 1,
+      "name": "뭐, 제 한 몸 내던진 덕분에\n위험했던 이 주변도 평화로워졌고……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev027005_MSG0022",
+      "style": 1,
+      "name": "저도 피자 천국에 갈 수 있으니\n다 좋게 끝났다는 느낌이네용![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev027005_MSG0023",
+      "style": 1,
+      "name": "이 행복의 이면에\n당신의 활약이 있었다는 것도\n있지 않을게용![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev027005_MSG0024",
+      "style": 1,
+      "name": "다시 한번 말할게용, 굿 잡이에용![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev027005_MSG0025",
+      "style": 1,
+      "name": "……어디 보자\n그러면 일단, 오늘 세끼 분량과 간식, 야식,\n갑작스러운 손님맞이용, 비상 외출용으로[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev027005_MSG0026",
+      "style": 1,
+      "name": "피자를 합계 10인분 정도 사 올게용~\n아, 사치스럽게 배달을 시킬까용~[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev027005_MSG0027",
+      "style": 1,
+      "name": "아아, 행복해~ 피자 천국에서 승천할 거예용~!\n천국에서 승천하는 건 이상하지 않냐고 말해도\n무시할 거예용~![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev027005_MSG0028",
+      "style": 1,
+      "name": "기분 최고예용~~~![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev027005_MSG0029",
+      "style": 1,
+      "name": "흥, 흥!\n저 지금 엄청나게 배고파용![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev027005_MSG0030",
+      "style": 1,
+      "name": "어서 피자값, 가지고 오라고용~~~!![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev027005_MSG0031",
+      "style": 1,
+      "name": "……잠깐, 돈이 부족하잖아용!?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev027005_MSG0032",
+      "style": 1,
+      "name": "위로금으로 평생 먹을 피자값 500000G!\n빨리 벌어 오라고용~~~~~![ST:wait ]"
+    }
+  ]
+}

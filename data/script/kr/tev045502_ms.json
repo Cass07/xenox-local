@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev045502_MSG0001",
+      "style": 1,
+      "name": "결혼은 무슨 결혼이야아!\n헤프타나 씨도 엔네아나 씨도\n우리 못난 오빠를 싫어할 게 뻔하다고오![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev045502_MSG0002",
+      "style": 1,
+      "name": "결혼을 하고 싶다면\n지금보다 더 훌륭한\n전사가 돼야 할 거야아![ST:wait ]"
+    }
+  ]
+}

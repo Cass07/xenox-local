@@ -1,0 +1,438 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012401_MSG0001",
+      "style": 1,
+      "name": "やっと来てくれたか！\n[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012401_MSG0002",
+      "style": 1,
+      "name": "精悍な顔つき　それに身のこなしがいかにも\n手練れのブレイドだな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012401_MSG0003",
+      "style": 1,
+      "name": "私は運がいい\n窮地に陥ったが　キミのような優秀な人材に\n巡り合えたのだからな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev012401_JNK0010",
+      "style": 4,
+      "name": "困惑"
+    },
+    {
+      "$id": 5,
+      "label": "qev012401_SEL0011",
+      "style": 3,
+      "name": "発言が理解できないので\n詳しい事情を尋ねる"
+    },
+    {
+      "$id": 6,
+      "label": "qev012401_JNK0020",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 7,
+      "label": "qev012401_SEL0021",
+      "style": 3,
+      "name": "クエストボードに依頼を\n出したのか尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "qev012401_MSG0004",
+      "style": 1,
+      "name": "おや？\nクエストボードを見たから\n来てくれたのではないのか……？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev012401_MSG0005",
+      "style": 1,
+      "name": "いやいや\nこんな好機を逃がすわけにはいかないな[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev012401_MSG0006",
+      "style": 1,
+      "name": "とにかく事情を聞いて欲しいんだ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev012401_MSG0007",
+      "style": 1,
+      "name": "その通りだとも　……掲載にはしばらく時間が\n掛かる上に適任は簡単に見つからないと\n言っていたが　あまりに早い到着だな？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev012401_MSG0008",
+      "style": 1,
+      "name": "[ST:wide ]―細かいことはどうでもいいか\n今はとにかく事情を聞いてほしいんだ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev012401_MSG0009",
+      "style": 1,
+      "name": "私はロスコル\nコレペディアンの一員だ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev012401_MSG0010",
+      "style": 1,
+      "name": "普段はグラナダから依頼を受けて\nミラニウムなどの資源を\nNLAに搬送しているんだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev012401_MSG0011",
+      "style": 1,
+      "name": "しかし　先日　夜光の森の日向湧水付近で\n輸送ヘリからの信号が消えたんだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev012401_MSG0012",
+      "style": 1,
+      "name": "二人の乗員とも連絡が取れなくてね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev012401_MSG0013",
+      "style": 1,
+      "name": "だから　一刻も早く救助に\n向かわなければならないんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev012401_JNK0030",
+      "style": 4,
+      "name": "悲観"
+    },
+    {
+      "$id": 19,
+      "label": "qev012401_SEL0031",
+      "style": 3,
+      "name": "二人とも原生生物に\nやられたに違いないと嘆く"
+    },
+    {
+      "$id": 20,
+      "label": "qev012401_JNK0040",
+      "style": 4,
+      "name": "主張"
+    },
+    {
+      "$id": 21,
+      "label": "qev012401_SEL0041",
+      "style": 3,
+      "name": "ロスコルが助けに行くべきだ\nと主張する"
+    },
+    {
+      "$id": 22,
+      "label": "qev012401_JNK0050",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 23,
+      "label": "qev012401_SEL0051",
+      "style": 3,
+      "name": "原因に心当たりはないか\n質問する"
+    },
+    {
+      "$id": 24,
+      "label": "qev012401_MSG0014",
+      "style": 1,
+      "name": "おいおい　縁起でもない……\n十中八九そうだろうがな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev012401_MSG0015",
+      "style": 1,
+      "name": "いやいや　私が諦めてはいかんな[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev012401_MSG0016",
+      "style": 1,
+      "name": "私はそれほど強くない[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev012401_MSG0017",
+      "style": 1,
+      "name": "夜光の森へ捜索に行っても原生生物に\n食われてしまうオチは見えているんだ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev012401_MSG0018",
+      "style": 1,
+      "name": "それにヘリは故障しているかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev012401_MSG0019",
+      "style": 1,
+      "name": "つまり修理できる力を持っていて\n腕っ節も強く　安い報酬で受けてくれる\nブレイドが適任なんだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev012401_MSG0020",
+      "style": 1,
+      "name": "原因か[ST:wide ]―\nこの星は奇想天外なことばかり起きるからな\n原因なんて予想できない[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev012401_MSG0021",
+      "style": 1,
+      "name": "ただハワードくんとシスカくんの仲は\n相当悪いからな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev012401_MSG0022",
+      "style": 1,
+      "name": "銃火器を使った大ゲンカに\n発展したのかもしれない　ハハッ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev012401_MSG0023",
+      "style": 1,
+      "name": "[ST:wide ]―笑えない冗談はさておき[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev012401_MSG0024",
+      "style": 1,
+      "name": "頼む[ST:wide ]―\n夜光の森で行方不明になった\nハワードくんとシスカくんを救助してくれ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev012401_MSG0025",
+      "style": 1,
+      "name": "ありがとう[ST:wide ]―\n期待しているよ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev012401_MSG0026",
+      "style": 1,
+      "name": "二人を無事NLAへ連れ帰ってくれ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev012401_MSG0027",
+      "style": 1,
+      "name": "輸送ヘリからの通信が途絶えたポイントは\n夜光の森の日向湧水付近だ\n気を付けて向かってくれ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev012401_MSG0028",
+      "style": 1,
+      "name": "もしヘリが故障していたら修理も\n手伝ってやってくれ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev012401_MSG0029",
+      "style": 1,
+      "name": "もし二人の駆け落ちだった場合は\nぶん殴って連れ帰ってきてくれ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev012401_MSG0030",
+      "style": 1,
+      "name": "もし凶悪な原生生物が原因だった場合は\n逃げ帰って来てくれてもいいからな[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev012401_MSG0031",
+      "style": 1,
+      "name": "よかった[ST:wide ]―\n二人は無事だったか[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev012401_MSG0032",
+      "style": 1,
+      "name": "しかし　キミの任務は二人を連れ帰ることだ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev012401_MSG0033",
+      "style": 1,
+      "name": "ヘリの修理もよろしく手伝ってやってくれ\n頼んだよ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev012401_MSG0034",
+      "style": 1,
+      "name": "待っていたよ！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev012401_MSG0035",
+      "style": 1,
+      "name": "ハワードくんもシスカくんも\nこうして無事戻ってきてくれたんだ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev012401_MSG0036",
+      "style": 1,
+      "name": "しかも積み荷も無事でね\nグラナダからの依頼も見事達成できたよ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev012401_MSG0037",
+      "style": 1,
+      "name": "キミにはなんとお礼を言っていいやら……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev012401_MSG0038",
+      "style": 1,
+      "name": "いやいや　キミにはお礼の言葉よりも\n報酬を渡さなければな[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev012401_MSG0039",
+      "style": 1,
+      "name": "ハワードくんとシスカくんは\n相変わらず犬猿の仲みたいだから\nまたトラブルもあるかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev012401_MSG0040",
+      "style": 1,
+      "name": "その時はまたよろしく頼むよ[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev012401_MSG0041",
+      "style": 1,
+      "name": "キミか[ST:wide ]―\nありがとう\n無事にシスカくんは帰ってきたよ[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev012402_JNK0060",
+      "style": 4,
+      "name": "催促"
+    },
+    {
+      "$id": 53,
+      "label": "qev012402_SEL0061",
+      "style": 3,
+      "name": "報酬が早くほしいと促す"
+    },
+    {
+      "$id": 54,
+      "label": "qev012402_JNK0070",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 55,
+      "label": "qev012402_SEL0071",
+      "style": 3,
+      "name": "ハワードはどうしたか尋ねる"
+    },
+    {
+      "$id": 56,
+      "label": "qev012401_MSG0042",
+      "style": 1,
+      "name": "キミはプロフェッショナルなんだな\nただただ忠実に任務をこなすブレイドか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev012401_MSG0043",
+      "style": 1,
+      "name": "キミの責任だとはいえないが[ST:wide ]―\nハワードくんが死んだんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev012401_MSG0044",
+      "style": 1,
+      "name": "ハワードくんは死んだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev012401_MSG0045",
+      "style": 1,
+      "name": "シスカくんの操縦するヘリは\nNLAのウエストゲート付近までは\n順調に飛行を続けていたが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev012401_MSG0046",
+      "style": 1,
+      "name": "その場しのぎの修理がたたったのか\n急に操縦不能になり墜落したんだ[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev012401_MSG0047",
+      "style": 1,
+      "name": "シスカくんはなんとか脱出できたんだが\nハワードくんは間に合わなくてね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev012401_MSG0048",
+      "style": 1,
+      "name": "すべておしまいだ\nヘリも積み荷も大切なメンバーも失った[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev012401_MSG0049",
+      "style": 1,
+      "name": "シスカくんは塞ぎこんでいるし\nチームとしてはもう活動できないだろう[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev012401_MSG0050",
+      "style": 1,
+      "name": "[ST:wide ]―今後どうなるかはわからない[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev012401_MSG0051",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev012401_MSG0052",
+      "style": 1,
+      "name": "いやいや　とにかく報酬を渡さなければな[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev012401_MSG0053",
+      "style": 1,
+      "name": "報酬は当初の約束よりも奮発しておいたよ[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev012401_MSG0054",
+      "style": 1,
+      "name": "気が向いたらでいいんだがシスカくんに\n声を掛けてやってほしいんだ[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev012401_MSG0055",
+      "style": 1,
+      "name": "彼女のことは私だけではどうにもできないかも\nしれないからな[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev012401_MSG0056",
+      "style": 1,
+      "name": "よろしく頼むよ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999910_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999910_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999910_JNK0030",
+      "style": 4,
+      "name": "배틀 멤버에 넣는다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999910_SEL0031",
+      "style": 3,
+      "name": "활동 중인 블레이드 대원[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999910_MSG0001",
+      "style": 1,
+      "name": "어이![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999910_MSG0101",
+      "style": 1,
+      "name": "안녕![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999910_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999910_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999910_MSG2001",
+      "style": 1,
+      "name": "유니언의 서포트를 받고 싶은 거지?\n……나한테 맡겨[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999910_MSG2101",
+      "style": 1,
+      "name": "안심해라\n이걸로 유니언의 전투 지원을 받을 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999910_MSG3001",
+      "style": 1,
+      "name": "설마 날 지명할 줄이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999910_MSG3101",
+      "style": 1,
+      "name": "드디어 나설 차례가 왔군!\n어디까지고 따라가겠어![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999910_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999910_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999910_MSG5001",
+      "style": 1,
+      "name": "지금 좀 바빠\n나중에 보자[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999910_MSG5101",
+      "style": 1,
+      "name": "안타깝지만 지금 좀 바빠\n다음 기회에 해 줘[ST:wait ]"
+    }
+  ]
+}

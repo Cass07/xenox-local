@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs99110120_MSG0001",
+      "style": 0,
+      "name": "リンさん　リンさん\nなにを作ってるんですも？[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs99110120_MSG0002",
+      "style": 0,
+      "name": "今日は地球のおやつ　パイを作ってるの[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs99110120_MSG0003",
+      "style": 0,
+      "name": "パイだったら\nタツが食材にされる心配はないですも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs99110120_MSG0004",
+      "style": 0,
+      "name": "タツもお手伝いしますですも！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs99110120_MSG0005",
+      "style": 0,
+      "name": "じゃあ　そのパイ生地を伸ばしてくれる？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs99110120_MSG0006",
+      "style": 0,
+      "name": "わかったですも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs99110120_MSG0007",
+      "style": 0,
+      "name": "ところでリンさん\nなんのパイを作るですも？[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs99110120_MSG0008",
+      "style": 0,
+      "name": "ミートパイよ♪[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs99110120_MSG0008_2",
+      "style": 0,
+      "name": "さぁ　そこに寝て～[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs99110120_MSG0009",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "xs99110120_MSG0010",
+      "style": 0,
+      "name": "リ　リリリ　リンさん\nタツは食材じゃないですも！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs99110120_MSG0011",
+      "style": 0,
+      "name": "確かに美味しいけど　やめてですも！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs99110120_MSG0012",
+      "style": 0,
+      "name": "ごめ～ん　間違えちゃったぁ！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs99110120_MSG0013",
+      "style": 0,
+      "name": "わざとですも！\n絶対わざとですも～～！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs99110120_MSG0014",
+      "style": 0,
+      "name": "お料理　完成で～す！[ST:wait ]"
+    }
+  ]
+}

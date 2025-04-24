@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092807_MSG0010",
+      "style": 0,
+      "name": "며칠 후……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092807_MSG0020",
+      "style": 0,
+      "name": "와 주었군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092807_MSG0030",
+      "style": 0,
+      "name": "이걸 봐 줘\n드디어 완성했다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092807_JNK0040",
+      "style": 4,
+      "name": "칭찬"
+    },
+    {
+      "$id": 5,
+      "label": "qev092807_SEL0050",
+      "style": 3,
+      "name": "선망의 눈빛으로 흐레스벨그를 본다"
+    },
+    {
+      "$id": 6,
+      "label": "qev092807_MSG0060",
+      "style": 0,
+      "name": "나중에 테스트 비행도 할 예정이야\n너도 시승해 보도록 해[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092807_JNK0070",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 8,
+      "label": "qev092807_SEL0080",
+      "style": 3,
+      "name": "정말로 변형하는 건지 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "qev092807_MSG0090",
+      "style": 0,
+      "name": "돌의 비이클 형태와는 다르지만 말이지\n분명 놀랄 거야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092807_MSG0100",
+      "style": 0,
+      "name": "음, 그리고……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092807_MSG0110",
+      "style": 0,
+      "name": "실은 우리, 오늘부로\n그라나다에서 나가기로 했다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092807_MSG0120",
+      "style": 0,
+      "name": "아리샤가 모든 책임을 지게 됐어\n상층부는 그걸로 클레만 사건을 마무리했다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092807_MSG0130",
+      "style": 0,
+      "name": "뭐, 여기서 해야 할 일도 다 했고\n끝내기 적당한 타이밍인 셈이지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092807_MSG0140",
+      "style": 0,
+      "name": "그리고 리젤과 상의해서\n우리 둘이 회사를 차리기로 했어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092807_MSG0150",
+      "style": 0,
+      "name": "언젠가 업계 메이저인 암즈 컴퍼니와\n어깨를 나란히 할 기업이 될 거야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092807_MSG0160",
+      "style": 0,
+      "name": "우리는 정공법으로 올바른 길을 나아갈 거다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092807_MSG0165",
+      "style": 0,
+      "name": "클레만처럼 되지는 않겠어, 절대로[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092807_MSG0170",
+      "style": 0,
+      "name": "그러면 어디 한번\n날아 보실까[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092807_MSG0180",
+      "style": 0,
+      "name": "우리의 새로운 출발이 축복받기를……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092807_MSG0185",
+      "style": 0,
+      "name": "그렇게 기도하면서 말이야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092807_MSG0190",
+      "style": 0,
+      "name": "그래, 잘 다녀와[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092807_MSG0200",
+      "style": 0,
+      "name": "분명 흐레스벨그도\n너와 하늘을 날고 싶을 거야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092807_MSG0210",
+      "style": 0,
+      "name": "너도 곁에서 지켜봐 줘[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092807_MSG0220",
+      "style": 0,
+      "name": "최종적으로 완성된 흐레스벨그의……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092807_MSG0225",
+      "style": 0,
+      "name": "최고로 멋진 플라이트를[ST:wait ]"
+    }
+  ]
+}

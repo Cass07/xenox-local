@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12050100_MSG0001",
+      "style": 0,
+      "name": "ここがセントラルライフ[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs12050100_MSG0002",
+      "style": 0,
+      "name": "急ぎましょう\n敵に侵入される前に中へ[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs12050100_MSG0003",
+      "style": 0,
+      "name": "ようやく辿り着いた[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs12050100_MSG0004",
+      "style": 0,
+      "name": "ここに　ここに私達の身体があるんですね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12050100_MSG0005",
+      "style": 0,
+      "name": "セントラルライフ制御システムより\n通達します[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs12050100_MSG0006",
+      "style": 0,
+      "name": "システム残存エネルギーが\n０コンマ２を切りました[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12050100_MSG0007",
+      "style": 0,
+      "name": "防御フィールド消失まで１０００秒[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12050100_MSG0008",
+      "style": 0,
+      "name": "繰り返します[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12050100_MSG0008_2",
+      "style": 0,
+      "name": "セントラルライフ制御[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs12050100_MSG0009",
+      "style": 0,
+      "name": "１５分しか持たないのか！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12050100_MSG0010",
+      "style": 0,
+      "name": "どのみちエネルギーが尽きたら\nフィールドだけ残ってもしょうがないさ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs12050100_MSG0011",
+      "style": 0,
+      "name": "予備システムを起動させれば[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs12050100_MSG0012",
+      "style": 0,
+      "name": "稼働限界時間も延びるし\n防御フィールドも維持できる[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12050100_MSG0013",
+      "style": 0,
+      "name": "防御フィールドを維持できれば[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs12050100_MSG0014",
+      "style": 0,
+      "name": "補給に限界がある敵を\n撤退させられるかもしれませんね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12050100_MSG0015",
+      "style": 0,
+      "name": "そういうこと\n全ては　予備システムを確保できるかどうかよ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs12050100_MSG0016",
+      "style": 0,
+      "name": "行きましょう　エルマさん[ST:wait ]\n"
+    }
+  ]
+}

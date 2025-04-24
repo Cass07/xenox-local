@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev300031_MSG0001",
+      "style": 1,
+      "name": "ミラニウムを持ってきてくれたのか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev300031_MSG0002",
+      "style": 1,
+      "name": "ドールや重機の整備に必要でな\n1800gmほど欲しかったんだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev300031_JNK0010",
+      "style": 4,
+      "name": "渡す[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev300031_SEL0011",
+      "style": 3,
+      "name": "1800gmのミラニウムを\n渡す[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev300031_JNK0020",
+      "style": 4,
+      "name": "渡さない[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev300031_SEL0021",
+      "style": 3,
+      "name": "今はまだ渡さないでおく[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev300031_MSG0004",
+      "style": 1,
+      "name": "ありがとうよ\nまたよろしくな[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev300031_MSG0005",
+      "style": 1,
+      "name": "ダメか[ST:wide ]―\n気が変わったら言ってくれ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev300031_MSG0006",
+      "style": 1,
+      "name": "1800gm持っていないようだな\nまとめて欲しいんだ\nまた来てくれ[ST:wait ]"
+    }
+  ]
+}

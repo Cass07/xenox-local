@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093101_MSG0010",
+      "style": 0,
+      "name": "이봐, 잠깐 실례할게\n컨디션은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093101_JNK0020",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 3,
+      "label": "qev093101_SEL0030",
+      "style": 3,
+      "name": "아주 좋다고 대답한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev093101_MSG0040",
+      "style": 0,
+      "name": "훗, 그거 다행이네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093101_MSG0050",
+      "style": 0,
+      "name": "지금부터 할 일을 생각하면\n컨디션이 아주 좋아야 할 거야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093101_JNK0060",
+      "style": 4,
+      "name": "긴장"
+    },
+    {
+      "$id": 7,
+      "label": "qev093101_SEL0070",
+      "style": 3,
+      "name": "긴장한 채 바라본다"
+    },
+    {
+      "$id": 8,
+      "label": "qev093101_MSG0080",
+      "style": 0,
+      "name": "호오……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093101_MSG0085",
+      "style": 0,
+      "name": "설마 내가 온 이유를\n대충 눈치챈 건가?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093101_MSG0090",
+      "style": 0,
+      "name": "만약 그렇다면 대단하군\n항상 전투에 대비한다는 뜻이잖아[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093101_MSG0100",
+      "style": 0,
+      "name": "아무튼…… 잡담은 여기까지다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093101_MSG0110",
+      "style": 0,
+      "name": "단도직입적으로 말하지\n나와 모의전을 하자[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093101_MSG0120",
+      "style": 0,
+      "name": "공주님이 자랑하는 부하의 실력을\n직접 확인해 보고 싶어서 말이다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093101_MSG0130",
+      "style": 0,
+      "name": "그 위터를 쓰러뜨렸다고 듣기는 했지만[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093101_MSG0135",
+      "style": 0,
+      "name": "난 직접 본 것만 믿는 성격이거든[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093101_MSG0140",
+      "style": 0,
+      "name": "잘 들어, 생사를 가르는 싸움에서 중요한 건[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093101_MSG0145",
+      "style": 0,
+      "name": "목숨을 맡길 수 있는 동료다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093101_MSG0150",
+      "style": 0,
+      "name": "네가 내 목숨을 맡길 자격이 있는 녀석인지……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093101_MSG0155",
+      "style": 0,
+      "name": "사전에 알아 두고 싶거든[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093101_MSG0160",
+      "style": 0,
+      "name": "그래서, 어떡할래?\n내 권유를 받아 줄 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093101_JNK0170",
+      "style": 4,
+      "name": "강인한 자세"
+    },
+    {
+      "$id": 22,
+      "label": "qev093101_SEL0180",
+      "style": 3,
+      "name": "여유로운 표정으로 끄덕인다"
+    },
+    {
+      "$id": 23,
+      "label": "qev093101_MSG0190",
+      "style": 0,
+      "name": "하하, 자신감이 넘치는걸!\n이거 기대해도 되겠어[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093101_MSG0200",
+      "style": 4,
+      "name": "나약한 자세"
+    },
+    {
+      "$id": 25,
+      "label": "qev093101_MSG0210",
+      "style": 3,
+      "name": "자신 없게 고개를 젓는다"
+    },
+    {
+      "$id": 26,
+      "label": "qev093101_MSG0220",
+      "style": 0,
+      "name": "재미없는 소리 하지 마\n서로 전력을 다하자고, 응?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093101_MSG0230",
+      "style": 0,
+      "name": "나는 아레스를 타고 나설 거지만\n어떻게 싸울지는 너한테 맡기겠어[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093101_MSG0240",
+      "style": 0,
+      "name": "돌끼리 맞부딪치는 전투를 하든\n굳이 백병전을 선택하든…… 네 자유야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev093101_MSG0250",
+      "style": 0,
+      "name": "동료를 데리고 와도 상관없어\n팀을 지휘하는 것도 실력이니까[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev093101_MSG0260",
+      "style": 0,
+      "name": "할 말은 다 했다, 준비가 끝나면\n이스트 게이트 근처 \"지붕 바위\"로 와라[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev093101_MSG0270",
+      "style": 0,
+      "name": "아레스와 함께\n네가 오길 기대하고 있을 테니[ST:wait ]"
+    }
+  ]
+}

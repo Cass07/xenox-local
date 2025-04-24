@@ -1,0 +1,276 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090302_MSG0001",
+      "style": 0,
+      "name": "이엘브, 오늘은 무슨 일인가요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090302_MSG0002",
+      "style": 0,
+      "name": "절박한 표정이라 그런지……\n평소보다 더 무섭게 생겼네요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090302_MSG0003",
+      "style": 0,
+      "name": "오늘은 잡담할 시간 없어, 엘레오노라\n당장 조사해 줬으면 하는 일이 있거든[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090302_MSG0004",
+      "style": 0,
+      "name": "지금부터 4개의 팔다리가 낙하한\n포인트를 보낼 테니[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090302_MSG0005",
+      "style": 0,
+      "name": "본체가 떨어졌을 가능성이 높은 에어리어를\n계산해 줬으면 해[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090302_MSG0006",
+      "style": 0,
+      "name": "……어머? 혹시 당신 파트너가 찾던\n친구분의 몸 이야기인가요?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090302_MSG0007",
+      "style": 0,
+      "name": "뭐…… 그걸 어떻게……?\n너, 엘레오노라한테 말했냐!?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090302_JNK0010",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 9,
+      "label": "qev090302_SEL0011",
+      "style": 3,
+      "name": "말하지 않았다고 한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev090302_JNK0020",
+      "style": 4,
+      "name": "모호"
+    },
+    {
+      "$id": 11,
+      "label": "qev090302_SEL0021",
+      "style": 3,
+      "name": "기억이 확실하지 않다고 한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev090302_MSG0008",
+      "style": 0,
+      "name": "네가 이런 중요한 일로\n거짓말을 할 녀석이 아니라는 건 알아[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090302_MSG0009",
+      "style": 0,
+      "name": "아니, 네가 이런 일을 무심코\n말해 버릴 녀석이 아니라는 건 알아[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090302_MSG0010",
+      "style": 0,
+      "name": "……엘레오노라, 뭘 조사한 거야?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090302_MSG0011",
+      "style": 0,
+      "name": "후훗, 여러분의 모든 것을 아는 제게\n모르는 일 같은 건 없답니다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090302_MSG0012",
+      "style": 0,
+      "name": "친구분의 낙하지점을\n알려 드리고 싶은 마음은 굴뚝같지만……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090302_MSG0013",
+      "style": 0,
+      "name": "현재 프런티어넷에\n확인되는 정보는 없네요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090302_MSG0014",
+      "style": 0,
+      "name": "프런티어넷을 더 확장한다면\n분석할 수 있을 것 같은데요……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090302_MSG0015",
+      "style": 0,
+      "name": "그럼 우리의 힘으로 데이터 프로브를\n잔뜩 설치하면 그만이야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090302_MSG0016",
+      "style": 0,
+      "name": "엘레오노라, 이번만큼은 네 참견을\n감사히 받아들이겠어![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090302_MSG0017",
+      "style": 0,
+      "name": "이것도 일이니까요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090302_MSG0018",
+      "style": 0,
+      "name": "프런티어넷을 더 확장하면\n다시 제게 말을 걸어 주세요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090302_MSG0019",
+      "style": 0,
+      "name": "이엘브의 소중한 분의 위치를\n재차 조사해 드릴 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090302_MSG0020",
+      "style": 0,
+      "name": "맡겨 주세요\n그거라면 이미 전부 계산했습니다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090302_MSG0021",
+      "style": 0,
+      "name": "상세한 정보도 여러분이 설치한\n프런티어넷으로 획득할 수 있었죠[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090302_MSG0022",
+      "style": 0,
+      "name": "무슨…… 네 녀석\n어디까지 참견할 셈이야, 젠장……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090302_MSG0023",
+      "style": 0,
+      "name": "하지만…… 엘레오노라, 이번만큼은\n네 참견을 감사히 받아들이겠어![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090302_MSG0024",
+      "style": 0,
+      "name": "이것도 일이니까요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090302_MSG0025",
+      "style": 0,
+      "name": "자세한 좌표는 나중에 보내겠습니다만[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090302_MSG0026",
+      "style": 0,
+      "name": "그분은 망각의 계곡에 계실\n가능성이 높을 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090302_MSG0027",
+      "style": 0,
+      "name": "그런 곳에 처박혀 있었던 거냐……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090302_MSG0028",
+      "style": 0,
+      "name": "……좋았어! 당장 가자고![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090302_MSG0029",
+      "style": 0,
+      "name": "그 천연덕스러운 면상을 한 대 때려 주고\nNLA로 데리고 오는 거야![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev090302_MSG0030",
+      "style": 0,
+      "name": "젠장, 있는 힘껏 패 줄 테니\n각오하라고, 바보 녀석……![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev090302_MSG0031",
+      "style": 1,
+      "name": "어서 와요, 이엘브\n아직…… 프런티어넷 정보가\n부족한 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev090302_MSG0032",
+      "style": 1,
+      "name": "망각의 계곡에서\n프런티어넷을 더 확장한 다음\n다시 제게 말을 걸어 주세요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev090302_MSG0033",
+      "style": 1,
+      "name": "이엘브의 소중한 분의 위치를\n재차 조사해 드릴 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev090302_MSG0034",
+      "style": 0,
+      "name": "어서 오세요, 이엘브\n좋은 소식이에요![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev090302_MSG0035",
+      "style": 0,
+      "name": "여러분이 프런티어넷을 확장해 준 덕분에\n당신이 줄곧 찾고 있던 보물의 위치를……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev090302_MSG0036",
+      "style": 0,
+      "name": "계산할 수 있었습니다[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev090302_MSG0037",
+      "style": 0,
+      "name": "정말이냐! 그래서……\n그 녀석은 대체 어디 있는 건데![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev090302_MSG0038",
+      "style": 0,
+      "name": "자세한 좌표는 나중에 보내겠습니다만[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev090302_MSG0039",
+      "style": 0,
+      "name": "그분은 망각의 계곡에 계실\n가능성이 높을 것 같네요[ST:wait ]"
+    }
+  ]
+}

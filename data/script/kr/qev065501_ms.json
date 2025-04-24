@@ -1,0 +1,750 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065501_MSG0030",
+      "style": 1,
+      "name": "오!\n혹시 네가 [ST:playername ]인가?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065501_MSG0031",
+      "style": 1,
+      "name": "에리양 말대로 제법 예쁘게 생겼네!\n나도 너 같은 사람, 싫지 않다고[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065501_JNK0050",
+      "style": 4,
+      "name": "감사"
+    },
+    {
+      "$id": 4,
+      "label": "qev065501_SEL0051",
+      "style": 3,
+      "name": "일단 고마워한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev065501_JNK0060",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 6,
+      "label": "qev065501_SEL0061",
+      "style": 3,
+      "name": "에리양이 누구인지 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "qev065501_MSG0032",
+      "style": 1,
+      "name": "그러면 악수하자! 악수![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev065501_MSG0033",
+      "style": 1,
+      "name": "……뭐야, 에리양?\n왜 그렇게 삐졌는데?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev065501_MSG0034",
+      "style": 1,
+      "name": "난 딱히 이런 일로\n감정이 흐트러지지는 않아……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065501_MSG0035",
+      "style": 1,
+      "name": "그저…… 은인에게 실례되는 소리는\n하지 않았으면 할 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065501_MSG0036",
+      "style": 1,
+      "name": "에리양이 누구냐면……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065501_MSG0037",
+      "style": 1,
+      "name": "오, 호랑이도 제 말 하면 온다더니\n저 녀석을 보면 뭔가 떠오르지 않냐?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065501_MSG0038",
+      "style": 1,
+      "name": "리비아, 그녀는 평범한 지구인이야\n눈치챌 수 있을 리가 없잖아?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065501_MSG0039",
+      "style": 1,
+      "name": "……이전에 신세를 졌지\n난 데피니아인 에리오야[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065501_MSG0040",
+      "style": 1,
+      "name": "지금은 이 모습으로 살고 있어\n어때? 지금의 내가 이상하지는 않아?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev065501_JNK0070",
+      "style": 4,
+      "name": "칭찬"
+    },
+    {
+      "$id": 17,
+      "label": "qev065501_SEL0071",
+      "style": 3,
+      "name": "자신의 이상형이라고 한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev065501_JNK0080",
+      "style": 4,
+      "name": "비판"
+    },
+    {
+      "$id": 19,
+      "label": "qev065501_SEL0081",
+      "style": 3,
+      "name": "이상형은 아니라고 한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev065501_MSG0041",
+      "style": 1,
+      "name": "그래…… 그렇다면 다행이야……\n역시 넌 상냥하네[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev065501_MSG0042",
+      "style": 1,
+      "name": "이야~ 얼굴이 새빨개졌잖아!\n그렇게나 좋냐?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev065501_MSG0043",
+      "style": 1,
+      "name": "여전히 솔직한 녀석이군\n그래…… 이 모습은 별로인가……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev065501_MSG0044",
+      "style": 1,
+      "name": "이런 일로 침울해하기는……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev065501_MSG0045",
+      "style": 1,
+      "name": "헤헷, 연애라는 건 즐거울 것 같아\n나도 지구인 여자 친구를 사귀고 싶어![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev065501_MSG0046",
+      "style": 1,
+      "name": "[ST:playername ][KR:Particle char=ha ] 그냥 은인이야……\n오해를 살 발언은 하지 마[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev065501_MSG0047",
+      "style": 1,
+      "name": "게다가 몇 번이나 말하지만 우리는 데피니아야\n우리가 연애 같은 감정을\n이해할 수 있을 리 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev065501_MSG0048",
+      "style": 1,
+      "name": "쳇!\n그런 건 해 보기 전에는 모르는 거라고?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev065501_MSG0049",
+      "style": 1,
+      "name": "있잖아 [ST:playername ], 부탁이 있어\n내게 어울리는 여자 친구 후보를\n데리고 와 줬으면 하는데[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev065501_MSG0050",
+      "style": 1,
+      "name": "생각해 봐, 갑자기 내가 접근하는 것보다는\n지구인인 네가 사이에서 중재해 주는 게\n일이 더 잘 풀릴 것 같지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev065501_MSG0051",
+      "style": 1,
+      "name": "좋았어!\n벌써 귀여운 여자를\n몇 명 골라 봤거든[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev065501_MSG0052",
+      "style": 1,
+      "name": "지나, 루시, 아리엘 세라……\n이 3명 중에서 네가 이야기해 보고\n가장 괜찮겠다 싶은 사람을 데리고 와 줘[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev065501_MSG0053",
+      "style": 1,
+      "name": "그러면 데피니아도 아무 문제 없이\n연애를 할 수 있다는 걸 보여 주겠어![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev065501_MSG0054",
+      "style": 1,
+      "name": "제발! 부탁할게!\n난 불꽃 같은 사랑을 하고 싶다고\n멋진 여자 친구 후보를 데리고 와 줘![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev065501_MSG0055",
+      "style": 1,
+      "name": "좋았어!\n벌써 귀여운 여자를\n몇 명 골라 봤거든[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev065501_MSG0056",
+      "style": 1,
+      "name": "지나, 루시, 아리엘 세라……\n이 3명 중에서 네가 이야기해 보고\n가장 괜찮겠다 싶은 사람을 데리고 와 줘[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev065501_MSG0057",
+      "style": 1,
+      "name": "그러면 데피니아도 아무 문제 없이\n연애를 할 수 있다는 걸 보여 주겠어![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev065501_MSG0059",
+      "style": 1,
+      "name": "내가 발견한 여자의 이름은\n지나, 루시, 아리엘 세라야\n가장 괜찮은 사람을 데리고 와 줘![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev065501_MSG0072",
+      "style": 1,
+      "name": "오호라, 지나구나!\n확실히 저 사람은 이야기를 재미있게 하니까\n여자 친구 삼기에 좋을지도 모르겠어[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev065501_MSG0073",
+      "style": 1,
+      "name": "오호라, 루시구나!\n확실히 저 사람은 머리도 좋아 보이니까\n여자 친구 삼기에 좋을지도 모르겠어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev065501_MSG0074",
+      "style": 1,
+      "name": "오호라, 아리엘 세라구나!\n확실히 저 사람은 활기차 보이니까\n여자 친구 삼기에 좋을지도 모르겠어[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev065501_MSG0075",
+      "style": 1,
+      "name": "남은 문제는 어떻게 친해질까인데\n있잖아, 넌 무슨 좋은 생각 없어?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev065501_JNK0110",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 43,
+      "label": "qev065501_SEL0111",
+      "style": 3,
+      "name": "선물을 준다고 말한다"
+    },
+    {
+      "$id": 44,
+      "label": "qev065501_JNK0120",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 45,
+      "label": "qev065501_SEL0121",
+      "style": 3,
+      "name": "그런 경험이 없어서 모르겠다고 말한다"
+    },
+    {
+      "$id": 46,
+      "label": "qev065501_MSG0076",
+      "style": 1,
+      "name": "오~ 넌 상대에게 헌신하는 성격이구나\n나도 상냥한 여자는 좋아해[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev065501_MSG0077",
+      "style": 1,
+      "name": "그렇다면 선물로\n펭귀니온과 달관 수선화\n그리고 콧노래 스톤을 줘 볼까[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev065501_MSG0078",
+      "style": 1,
+      "name": "어…… 에리양도 너한테 푹 빠졌으니까\n남자 친구 한둘쯤은 있을 줄 알았는데[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev065501_MSG0079",
+      "style": 1,
+      "name": "그렇지도 않구나…… 흐~음……\n조금 의외랄까?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev065501_MSG0080",
+      "style": 1,
+      "name": "……그러면 선물이라도 줘 볼까\n어떤 외계인이든 무언가 받고서\n기뻐하지 않을 녀석은 없잖아?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev065501_MSG0081",
+      "style": 1,
+      "name": "건네줄 물건은…… 글쎄\n펭귀니온과 달관 수선화\n그리고 콧노래 스톤이면 되겠지?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev065501_MSG0082",
+      "style": 1,
+      "name": "저기, 선물들을 가지고 와 주겠어?\n그러면 나머지는 내가 어떻게든 할게\n응? 부탁할게, [ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev065501_MSG0083",
+      "style": 1,
+      "name": "너에게 맡겨 버려서 미안하지만……\n선물, 잘 가지고 와 줘[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev065501_MSG0084",
+      "style": 1,
+      "name": "그 선물로 그녀의 마음을\n꽉 붙잡고 말겠어![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev065501_MSG0145",
+      "style": 1,
+      "name": "어서 와, [ST:playername ]!\n헤헷, 널 기다리는 동안\n지나랑 얘기를 해 봤는데[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev065501_MSG0146",
+      "style": 1,
+      "name": "지나 이 사람, 계속해서\n재미있는 얘기를 해 주더라고[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev065501_MSG0147",
+      "style": 1,
+      "name": "너는 사람 보는 눈도 있네\n멋진 사람을 데리고 와 줘서 고마워[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev065501_MSG0148",
+      "style": 1,
+      "name": "후훗, 그렇게 말해 주니 기쁜걸\n나도 당신 같은 남자, 싫지 않아[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev065501_MSG0149",
+      "style": 1,
+      "name": "어서 와, [ST:playername ]!\n헤헷, 널 기다리는 동안\n루시랑 얘기를 해 봤는데[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev065501_MSG0150",
+      "style": 1,
+      "name": "루시 이 사람, 계속해서 다양한 지식을\n알기 쉽게 풀어서 설명해 주더라고\n많은 공부가 됐어[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev065501_MSG0151",
+      "style": 1,
+      "name": "너는 사람 보는 눈도 있네\n멋진 사람을 데리고 와 줘서 고마워[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev065501_MSG0152",
+      "style": 1,
+      "name": "다들 제 이야기를 따분하다고 했는데……\n그런 말을 들으니 솔직히 기쁘네요[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev065501_MSG0153",
+      "style": 1,
+      "name": "어서 와, [ST:playername ]!\n헤헷, 널 기다리는 동안\n아리엘 세라와 얘기를 해 봤는데[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev065501_MSG0154",
+      "style": 1,
+      "name": "아리엘 세라 이 사람, 계속해서\n블레이드 임무 중에 있었던\n즐거운 일화를 말해 주더라고[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev065501_MSG0155",
+      "style": 1,
+      "name": "너는 사람 보는 눈도 있네\n멋진 사람을 데리고 와 줘서 고마워[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev065501_MSG0156",
+      "style": 1,
+      "name": "상대가 웃으며 이야기를 들어 주니까\n이쪽도 떠드는 보람이 있네[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev065501_MSG0157",
+      "style": 1,
+      "name": "나도 너랑 만나서 기뻐[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev065501_MSG0158",
+      "style": 1,
+      "name": "……그래서, 넌 어때?\n선물은 손에 넣었어?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev065501_MSG0159",
+      "style": 1,
+      "name": "정말로 전부 가지고 와 줬구나……\n힘들었겠지?\n좀 늦은 말이지만…… 미안해[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev065501_MSG0160",
+      "style": 1,
+      "name": "어쩐지 너에게는 어떤 부탁이든\n다 들어줄 것 같은 포용력이 있어서\n무심코 응석을 부리게 돼[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev065501_JNK0160",
+      "style": 4,
+      "name": "겸손하게 말한다"
+    },
+    {
+      "$id": 72,
+      "label": "qev065501_SEL0161",
+      "style": 3,
+      "name": "그런 포용력은 없다고 말한다"
+    },
+    {
+      "$id": 73,
+      "label": "qev065501_JNK0170",
+      "style": 4,
+      "name": "쑥스러워한다"
+    },
+    {
+      "$id": 74,
+      "label": "qev065501_SEL0171",
+      "style": 3,
+      "name": "얼굴이 빨개진 채 쑥스러워한다"
+    },
+    {
+      "$id": 75,
+      "label": "qev065501_MSG0161",
+      "style": 1,
+      "name": "게다가 그렇게 말하는 점이\n고상하기도 하고\n정말이지…… 넌 최고야[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev065501_MSG0162",
+      "style": 1,
+      "name": "쑥스러워하는 얼굴도 귀여운걸\n정말이지…… 넌 최고야[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev065501_MSG0163",
+      "style": 1,
+      "name": "그러면 이걸……[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev065501_MSG0164",
+      "style": 1,
+      "name": "[ST:playername ]…… 너에게 주겠어!\n이것저것 생각해 봤지만\n내가 가장 마음에 드는 건 역시…… 너야[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev065501_MSG0165",
+      "style": 1,
+      "name": "뭐……!?[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev065501_MSG0166",
+      "style": 1,
+      "name": "미안해, 지나!\n나 말이야, 너와 이야기하면서 깨달았어[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev065501_MSG0167",
+      "style": 1,
+      "name": "내가 사랑하는 건……\n[ST:playername ][KR:Particle char=ya ]라는 걸[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev065501_MSG0168",
+      "style": 1,
+      "name": "게다가 네가 내 진짜 모습을 본다면\n날 싫어하게 될 거야……\n그러니까 안 돼[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev065501_MSG0169",
+      "style": 1,
+      "name": "무슨 소리 하는 거야!\n나도 여러 남자를 봐 왔어\n당신이 어떤 녀석이든 싫어할 리가……[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev065501_MSG0170",
+      "style": 1,
+      "name": "정말이야?\n그러면 보여 줄게, 난 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev065501_MSG0171",
+      "style": 1,
+      "name": "지구인이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev065501_MSG0172",
+      "style": 1,
+      "name": "꺄악……!\n꺄아아아아아아아아아아아아아아아![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev065501_MSG0173",
+      "style": 1,
+      "name": "헤헷…… 역시 가 버렸네……[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev065501_MSG0174",
+      "style": 1,
+      "name": "어…… 그게 무슨……[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev065501_MSG0175",
+      "style": 1,
+      "name": "미안해, 루시!\n나 말이야, 너와 이야기하면서 깨달았어[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev065501_MSG0176",
+      "style": 1,
+      "name": "내가 사랑하는 건……\n[ST:playername ][KR:Particle char=ya ]라는 걸[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev065501_MSG0177",
+      "style": 1,
+      "name": "게다가 네가 내 진짜 모습을 본다면\n분명 날 꺼리게 될 테니까…… 말이야[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev065501_MSG0178",
+      "style": 1,
+      "name": "……딱히 놀라지는 않아요\n여기는 지구가 아니니까요\n무슨 일이 일어나도 이상할 게 없죠[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev065501_MSG0179",
+      "style": 1,
+      "name": "정말이야?\n그러면 보여 줄게, 난 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev065501_MSG0180",
+      "style": 1,
+      "name": "지구인이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev065501_MSG0181",
+      "style": 1,
+      "name": "위장 능력…… 보기 드문 사례지만\n놀랄 정도는 아니네요[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev065501_MSG0182",
+      "style": 1,
+      "name": "하지만, 아무래도 당신은 여성……\n저는 그런 취향에 맞지 않아요\n할 말은 이게 전부예요[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev065501_MSG0183",
+      "style": 1,
+      "name": "안색 하나 변하지 않았어……\n그녀는 대단한 사람이구나[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev065501_MSG0184",
+      "style": 1,
+      "name": "이…… 이봐![ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev065501_MSG0185",
+      "style": 1,
+      "name": "미안해, 아리엘 세라!\n나 말이야, 너와 이야기하면서 깨달았어[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev065501_MSG0186",
+      "style": 1,
+      "name": "내가 사랑하는 건……\n[ST:playername ][KR:Particle char=ya ]라는 걸[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev065501_MSG0187",
+      "style": 1,
+      "name": "게다가 네가 내 진짜 모습을 본다면\n분명 날 꺼리게……[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev065501_MSG0188",
+      "style": 1,
+      "name": "그럴 리 없어!\n어떤 모습이든 리비아는 리비아잖아?[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev065501_MSG0189",
+      "style": 1,
+      "name": "정말이야?\n그러면 보여 줄게, 난 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev065501_MSG0190",
+      "style": 1,
+      "name": "지구인이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev065501_MSG0191",
+      "style": 1,
+      "name": "흥, 그래서 어떻다는 건데?\n난 있지, 네가 날 여자로 봐 줘서\n기뻤을 뿐이라고……[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev065501_MSG0192",
+      "style": 1,
+      "name": "……쳇, 바~보! 지옥에나 떨어져!\n그 여자랑 잘 먹고 잘살아라![ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev065501_MSG0193",
+      "style": 1,
+      "name": "미안해, 아리엘 세라……\n하지만 너라면 분명 좋은 녀석을 만날 거야[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev065501_MSG0194",
+      "style": 1,
+      "name": "……그래서, [ST:playername ]?\n넌 어떤데, 내가 싫어?[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev065501_JNK0180",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 110,
+      "label": "qev065501_SEL0181",
+      "style": 3,
+      "name": "싫지는 않다고 말한다"
+    },
+    {
+      "$id": 111,
+      "label": "qev065501_JNK0190",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 112,
+      "label": "qev065501_SEL0191",
+      "style": 3,
+      "name": "이상형은 아니라고\n완곡하게 말한다"
+    },
+    {
+      "$id": 113,
+      "label": "qev065501_MSG0195",
+      "style": 1,
+      "name": "정말이냐!?\n그러면……[ST:wait ]"
+    },
+    {
+      "$id": 114,
+      "label": "qev065501_MSG0196",
+      "style": 1,
+      "name": "흥…… 그렇구나……\n하지만 난 포기하지 않아\n네가 돌아볼 때까지 고백을……[ST:wait ]"
+    },
+    {
+      "$id": 115,
+      "label": "qev065501_MSG0197",
+      "style": 1,
+      "name": "……그만해, 리비아!!\n[ST:playername ]에게 이상한 소리 하지 마[ST:wait ]"
+    },
+    {
+      "$id": 116,
+      "label": "qev065501_MSG0198",
+      "style": 1,
+      "name": "응? 딱히 이상한 소리 한 적 없는데?\n그냥 이 녀석을 좋아한다고……[ST:wait ]"
+    },
+    {
+      "$id": 117,
+      "label": "qev065501_MSG0199",
+      "style": 1,
+      "name": "그게 문제야! 어째서인지 그 말을 들으면\n가슴이, 찢어지는 듯한 기분이라고[ST:wait ]"
+    },
+    {
+      "$id": 118,
+      "label": "qev065501_MSG0200",
+      "style": 1,
+      "name": "이유는 모르겠지만…… 그러지 마, 리비아\n이대로 있으면 나까지 이상해질 것 같아……[ST:wait ]"
+    },
+    {
+      "$id": 119,
+      "label": "qev065501_MSG0201",
+      "style": 1,
+      "name": "……헤헷, 그렇구나[ST:wait ]"
+    },
+    {
+      "$id": 120,
+      "label": "qev065501_MSG0202",
+      "style": 1,
+      "name": "알았어, 에리양\n지금은 휴전인 걸로 해 둘게\n그러니까 그렇게 울 것 같은 표정 짓지 마![ST:wait ]"
+    },
+    {
+      "$id": 121,
+      "label": "qev065501_MSG0203",
+      "style": 1,
+      "name": "……[ST:playername ], 너도 죄 많은 여자네\n두 데피니아의 마음을\n이렇게 흔들다니 말이야[ST:wait ]"
+    },
+    {
+      "$id": 122,
+      "label": "qev065501_MSG0204",
+      "style": 1,
+      "name": "뭐, 적어도 이 정도는 받아 줘\n내 마음의 표시야\n저기…… 답례는 당장 안 해도 돼![ST:wait ]"
+    }
+  ]
+}

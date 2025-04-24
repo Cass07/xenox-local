@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055403_MSG0001",
+      "style": 1,
+      "name": "어떤가요? 세니라파 물 탐색은\n순조롭게 진행되고 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055403_MSG0002",
+      "style": 1,
+      "name": "우리는 콘에이브에게 오르페에 대해서\n여러 가지를 배우고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055403_MSG0003",
+      "style": 1,
+      "name": "……하지만 신기하네요\n배운 모든 것을 이미 다 알고 있고[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev055403_MSG0004",
+      "style": 1,
+      "name": "하나하나 떠올리는 것 같은 느낌이에요\n이것이 오르페…… 이것이 오버인가요[ST:wait ]"
+    }
+  ]
+}

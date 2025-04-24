@@ -1,0 +1,468 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060302_MSG0001",
+      "style": 1,
+      "name": "아아…… 부족해요, 부족해\n자극이 부족합니다……\n제게 더 많은 자극을……![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060302_JNK0010",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 3,
+      "label": "qev060302_SEL0011",
+      "style": 3,
+      "name": "어떤 자극을 원하는지 묻는다"
+    },
+    {
+      "$id": 4,
+      "label": "qev060302_JNK0020",
+      "style": 4,
+      "name": "의뢰"
+    },
+    {
+      "$id": 5,
+      "label": "qev060302_SEL0021",
+      "style": 3,
+      "name": "트로이란의 의뢰를 전한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev060302_MSG0002",
+      "style": 1,
+      "name": "저는 물건을 만드는 게 정말 좋습니다!\n미지의 기술이라면 말할 것도 없죠![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev060302_MSG0003",
+      "style": 1,
+      "name": "하지만 지구인의 기술 레벨은\n제 호기심을 충족하지 못했어요……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev060302_MSG0004",
+      "style": 1,
+      "name": "그로우스 편에 섰다면\n더 고도의 기술을 접했을지도 모른다는\n그런 위험한 생각이 들 정도라고요……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev060302_MSG0005",
+      "style": 1,
+      "name": "뭐라고요?\n자르보가인 트로이란의 의뢰!?\n게다가 절 지명하다니 영광입니다![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev060302_MSG0006",
+      "style": 1,
+      "name": "그러면 어서\n수리해야 할 물건을 보여 주세요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev060302_MSG0007",
+      "style": 1,
+      "name": "이것이 고르콰……\n이걸 들고 있는 자르보가를 보면서\n한번 만져 보고는 싶었지만……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev060302_MSG0008",
+      "style": 1,
+      "name": "설마 이런 식으로 만나게 될 줄이야!\n멋지군요…… 이 형태를 보니\n제 호기심이 폭발할 것 같아요![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev060302_MSG0009",
+      "style": 1,
+      "name": "수리 견적을 짜야 하니까\n잠시만 기다려 주세요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev060302_MSG0010",
+      "style": 1,
+      "name": "죄송하지만 지금 가진 것만으로는\n수리할 수가 없네요……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev060302_MSG0011",
+      "style": 1,
+      "name": "고성능 센서 부품과\n멋진 이빨만 있으면\n새것처럼 만들어 드리죠[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev060302_MSG0012",
+      "style": 1,
+      "name": "번거로우시겠지만\n가지고 와 주시겠습니까?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev060302_MSG0013",
+      "style": 1,
+      "name": "그때까지 저는\n이 고르콰를 마음껏……\n아니, 수리할 준비를 해 두겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev060302_MSG0014",
+      "style": 1,
+      "name": "수리에 필요한 것은\n고성능 센서 부품과\n멋진 이빨입니다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev060302_MSG0015",
+      "style": 1,
+      "name": "고성능 센서 부품은 백목의 대륙의 지그\n멋진 이빨은 원초의 황야에 있는 히포가\n각각 가지고 있겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev060302_MSG0016",
+      "style": 1,
+      "name": "솔직히 늦게 가지고 와도 괜찮습니다\n그만큼 이 고르콰를 마음껏 조사할 시간이\n늘어날 테니까요…… 멋진 일이죠![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev060302_MSG0017",
+      "style": 1,
+      "name": "이런, 벌써 시간이 됐군요\n유감이지만 수리를 시작하죠……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev060302_MSG0018",
+      "style": 1,
+      "name": "확실히 받았습니다\n잠시만 기다려 주세요……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev060302_MSG0019",
+      "style": 1,
+      "name": "끝났습니다!\n보면 볼수록 훌륭하군요!\n그렇지 않습니까?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev060302_JNK0030",
+      "style": 4,
+      "name": "동의"
+    },
+    {
+      "$id": 25,
+      "label": "qev060302_SEL0031",
+      "style": 3,
+      "name": "자르보가의 기술을 칭찬한다"
+    },
+    {
+      "$id": 26,
+      "label": "qev060302_JNK0040",
+      "style": 4,
+      "name": "칭찬"
+    },
+    {
+      "$id": 27,
+      "label": "qev060302_SEL0041",
+      "style": 3,
+      "name": "르라듀의 기술을 칭찬한다"
+    },
+    {
+      "$id": 28,
+      "label": "qev060302_MSG0020",
+      "style": 1,
+      "name": "들은 바에 따르면 이 지팡이\n고르콰는 자르보가의 기술로\n만들어진 게 아니라더군요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev060302_MSG0021",
+      "style": 1,
+      "name": "그들은 과연 어떤 존재일까요……\n참으로 흥미로운 외계인입니다[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev060302_MSG0022",
+      "style": 1,
+      "name": "제 호기심을 충족하기 위해\n하는 일입니다만\n칭찬받으니 기쁘네요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev060302_MSG0023",
+      "style": 1,
+      "name": "지구인은 자극이 적다고 했었지만\n정정하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev060302_MSG0024",
+      "style": 1,
+      "name": "이렇게 멋진 의뢰를\n가지고 와 주시다니…… 최고예요![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev060302_MSG0025",
+      "style": 1,
+      "name": "이런, 이야기는 이쯤 하죠\n자, 트로이란 씨에게\n이 물건을 돌려주세요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev060302_MSG0026",
+      "style": 1,
+      "name": "목숨보다 소중하다면서요?\n자, 한시라도 빨리![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev060302_MSG0027",
+      "style": 1,
+      "name": "최고 속력으로 가는 겁니다![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev060302_MSG0028",
+      "style": 1,
+      "name": "고르콰의 구조는\n참으로 흥미롭더군요……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev060302_MSG0029",
+      "style": 1,
+      "name": "자, 이런 곳에서 놀지 말고\n한시라도 빨리 트로이란 씨에게\n이 물건을 돌려주세요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev060302_MSG0030",
+      "style": 1,
+      "name": "어라…… 르라듀 씨가 자리에 없네요\n그 대신 치로밀이 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev060302_MSG0031",
+      "style": 1,
+      "name": "안녕, 트로이란\n르라듀에게 볼일이라도 있어?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev060302_MSG0032",
+      "style": 1,
+      "name": "제 고르콰 문제로\n묻고 싶은 게 있는데……\n어디로 갔습니까?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev060302_MSG0033",
+      "style": 1,
+      "name": "흑강의 대륙으로 갔어\n볼턴트가 잔뜩 있는 곳을\n알려 달라고 하더라[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev060302_MSG0034",
+      "style": 1,
+      "name": "아앗!\n르라듀 씨가 제 고르콰를\n가지고 간 게 아닐까요……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev060302_MSG0035",
+      "style": 1,
+      "name": "누구 물건인지는 몰라도\n확실히 고르콰를 가지고 갔어[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev060302_MSG0036",
+      "style": 1,
+      "name": "이걸로 성능을 실험하면\n더 많은 연구를 할 수 있다고\n기뻐하던데[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev060302_MSG0037",
+      "style": 1,
+      "name": "르라듀 씨가 수리를 마친 후\n진짜와 똑같이 생긴 모조품을 만들어\n제게 주었다는 뜻이겠네요……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev060302_MSG0038",
+      "style": 1,
+      "name": "……어째서 르라듀 씨를\n막지 않은 겁니까?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev060302_MSG0039",
+      "style": 1,
+      "name": "가게 보는 일을 맡아 주면\n볼턴트를 대량으로\n선물해 주겠다고 했거든[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev060302_MSG0040",
+      "style": 1,
+      "name": "그래도 말렸어야죠[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev060302_MSG0041",
+      "style": 1,
+      "name": "백팩이 없는 사람이 고르콰를 사용하면\n볼턴트를 그대로 체내에 흡수하게 됩니다![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev060302_MSG0042",
+      "style": 1,
+      "name": "만약 저희 때문에\n마 논인이 죽기라도 하면\n큰 문제라고요[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev060302_MSG0043",
+      "style": 1,
+      "name": "그 사람도 우리처럼 백팩을\n메고 다니는 것 같길래\n괜찮을 거라고 생각했어[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev060302_MSG0044",
+      "style": 1,
+      "name": "그럴 리가 없잖습니까[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev060302_MSG0045",
+      "style": 1,
+      "name": "……흑강의 대륙이면, 백린 호수에 갔나요?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev060302_MSG0046",
+      "style": 1,
+      "name": "정답이야, 트로이란[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev060302_MSG0047",
+      "style": 1,
+      "name": "느긋하게 있을 순 없습니다[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev060302_MSG0048",
+      "style": 1,
+      "name": "르라듀 씨를 막아야 해요!\n그리고 무엇보다 제 고르콰를\n회수해야만 합니다![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev060302_MSG0049",
+      "style": 1,
+      "name": "부탁드립니다, [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev060302_MSG0050",
+      "style": 1,
+      "name": "결국 남한테 부탁하는구나……[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev060302_MSG0051",
+      "style": 1,
+      "name": "리, 리볼턴트가 이렇게나\n괴로운…… 것이었다니……[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev060302_MSG0052",
+      "style": 1,
+      "name": "너무 괴로워서……\n할아버지와 할머니께서 어른거리네……[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev060302_MSG0053",
+      "style": 1,
+      "name": "뭐지……\n지금까지 맛본 적 없는……[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev060302_MSG0054",
+      "style": 1,
+      "name": "이 감각은……[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev060302_MSG0055",
+      "style": 1,
+      "name": "아아, 그리고\n[ST:playername ]도 보이네……[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev060302_JNK0050",
+      "style": 4,
+      "name": "꾸짖는다"
+    },
+    {
+      "$id": 65,
+      "label": "qev060302_SEL0051",
+      "style": 3,
+      "name": "우리를 속인 것을 추궁한다"
+    },
+    {
+      "$id": 66,
+      "label": "qev060302_JNK0060",
+      "style": 4,
+      "name": "구한다"
+    },
+    {
+      "$id": 67,
+      "label": "qev060302_SEL0061",
+      "style": 3,
+      "name": "괜찮냐며 말을 건다"
+    },
+    {
+      "$id": 68,
+      "label": "qev060302_MSG0056",
+      "style": 1,
+      "name": "엄청나게 무서운 표정이네……[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev060302_MSG0057",
+      "style": 1,
+      "name": "무슨 말을 하는 건지…… 들리지 않아……[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev060302_MSG0058",
+      "style": 1,
+      "name": "깨달았어……[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev060302_MSG0059",
+      "style": 1,
+      "name": "트로이란에게 말도 없이……[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev060302_MSG0060",
+      "style": 1,
+      "name": "가짜랑 바꿔치기한 탓에 이렇게 된 거야……[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev060302_MSG0061",
+      "style": 1,
+      "name": "다시는…… 안 그럴게……[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev060302_MSG0062",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev060302_MSG0063",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    }
+  ]
+}

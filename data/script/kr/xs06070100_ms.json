@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06070100_MSG0001",
+      "style": 0,
+      "name": "아무래도 목적지에 거의 다 온 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06070100_MSG0002",
+      "style": 0,
+      "name": "그래, 이 앞이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs06070100_MSG0003",
+      "style": 0,
+      "name": "에, 엘마 씨……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06070100_MSG0004",
+      "style": 0,
+      "name": "무시해\n우리의 몸에는 반응하지 않을 테니까[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06070100_MSG0005",
+      "style": 0,
+      "name": "알고는 있지만요……[ST:wait ]"
+    }
+  ]
+}

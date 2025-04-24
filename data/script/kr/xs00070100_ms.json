@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00070100_MSG0001",
+      "style": 0,
+      "name": "꽤 좋은 움직임이었어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00070100_MSG0002",
+      "style": 0,
+      "name": "무기를 다루는 것도 문제없어 보이고\n이 정도라면 금방 일을 시작할 수 있겠어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs00070100_JNK0010",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "xs00070100_SEL0011",
+      "style": 3,
+      "name": "일에 대해 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "xs00070100_JNK0020",
+      "style": 4,
+      "name": "불안"
+    },
+    {
+      "$id": 6,
+      "label": "xs00070100_SEL0021",
+      "style": 3,
+      "name": "고개를 숙이고 가만히 있는다"
+    },
+    {
+      "$id": 7,
+      "label": "xs00070100_MSG0003",
+      "style": 0,
+      "name": "흥미를 느껴 줘서 기뻐\n분명 당신과 맞는 일이 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs00070100_MSG0004",
+      "style": 0,
+      "name": "하든 안 하든 당신 자유야\n이야기를 듣고 나서 결정해도 괜찮아[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs00070100_MSG0005",
+      "style": 0,
+      "name": "자세한 건 안전한 곳으로 가서 이야기하자\n자, 갈까?[ST:wait ]"
+    }
+  ]
+}

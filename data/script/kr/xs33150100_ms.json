@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33150100_MSG0010",
+      "style": 0,
+      "name": "우리가 이겼군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33150100_MSG0020",
+      "style": 0,
+      "name": "코어는 돌려받도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33150100_MSG0025",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "xs33150100_MSG0030",
+      "style": 0,
+      "name": "나는 패배 따위 하지 않는다……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33150100_MSG0040",
+      "style": 0,
+      "name": "나의 지성은……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33150100_MSG0050",
+      "style": 0,
+      "name": "너희의 존재를……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33150100_MSG0060",
+      "style": 0,
+      "name": "제거할 것이다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33150100_MSG0070",
+      "style": 0,
+      "name": "마지막 발악이군[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33150100_MSG0075",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "xs33150100_MSG0080",
+      "style": 0,
+      "name": "뭐지!?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33150100_MSG0090",
+      "style": 0,
+      "name": "알![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33150100_MSG0100",
+      "style": 0,
+      "name": "젠장![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33150100_MSG0110",
+      "style": 0,
+      "name": "움직여![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33150100_MSG0120",
+      "style": 0,
+      "name": "알고 있다……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33150100_MSG0130",
+      "style": 0,
+      "name": "아레스가 탑승자와 동화해 있다는 것을……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33150100_MSG0140",
+      "style": 0,
+      "name": "나는 초월할 것이다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33150100_MSG0150",
+      "style": 0,
+      "name": "너, 그리고 새로운 강림기와 함께……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33150100_MSG0160",
+      "style": 0,
+      "name": "저게……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33150100_MSG0165",
+      "style": 0,
+      "name": "새로운 강림기……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33150100_MSG0170",
+      "style": 0,
+      "name": "코어가 기동했어……![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33150100_MSG0180",
+      "style": 0,
+      "name": "다들 조심해![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33150100_MSG0190",
+      "style": 0,
+      "name": "투쟁은 끝났다[ST:wait ]"
+    }
+  ]
+}

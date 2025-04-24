@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999902_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999902_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999902_JNK0030",
+      "style": 4,
+      "name": "バトルメンバーに加える[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999902_SEL0031",
+      "style": 3,
+      "name": "活動中のブレイド隊員[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999902_MSG0001",
+      "style": 1,
+      "name": "よう！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999902_MSG0101",
+      "style": 1,
+      "name": "やっと来てくれたか！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999902_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999902_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999902_MSG2001",
+      "style": 1,
+      "name": "ユニオンから戦闘中に支援を\n受けられるようにしておいたぜ！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999902_MSG2101",
+      "style": 1,
+      "name": "がんばれよ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999902_MSG3001",
+      "style": 1,
+      "name": "一緒にひと暴れしようぜ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999902_MSG3101",
+      "style": 1,
+      "name": "おーし！　大暴れしてやるぜ！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999902_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999902_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999902_MSG5001",
+      "style": 1,
+      "name": "悪ぃな\n今　取り込み中なんだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999902_MSG5002",
+      "style": 1,
+      "name": "後にしてくれ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev999902_MSG5101",
+      "style": 1,
+      "name": "ちくしょう\nどうして俺は今忙しいんだ[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev999902_MSG5102",
+      "style": 1,
+      "name": "お前と話をしたいってのに[ST:wide ]―！[ST:wait ]"
+    }
+  ]
+}

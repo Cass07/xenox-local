@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000595_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]　こんばんは！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000595_MSG0002",
+      "style": 1,
+      "name": "奇遇ですね\nこれからミトスとイリーナ中尉と一緒に\nご飯を食べるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000595_MSG0003",
+      "style": 1,
+      "name": "[ST:wide ]―けど　イリーナ中尉\nそこのお店で買いたいものあるからって\n入っていっちゃって　待たされているんです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000595_JNK0010",
+      "style": 4,
+      "name": "応援"
+    },
+    {
+      "$id": 5,
+      "label": "tev000595_SEL0011",
+      "style": 3,
+      "name": "イリーナにプレゼント\nするのはどうかと勧める"
+    },
+    {
+      "$id": 6,
+      "label": "tev000595_JNK0020",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 7,
+      "label": "tev000595_SEL0021",
+      "style": 3,
+      "name": "イリーナの代わりに自分が\n行くと提案する"
+    },
+    {
+      "$id": 8,
+      "label": "tev000595_MSG0004",
+      "style": 1,
+      "name": "プレゼントって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000595_MSG0005",
+      "style": 1,
+      "name": "と　特別な日でもないですし[ST:wide ]―\n渡す理由がないですし\nイリーナ中尉も訝しむに違いないですよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000595_MSG0006",
+      "style": 1,
+      "name": "でも　イリーナ中尉の今度の誕生日には\n任務の報酬を全部使って　すごいものを\nプレゼントしようと考えているんですよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000595_MSG0007",
+      "style": 1,
+      "name": "[ST:wide ]―サクラバ重工の最新の\nアサルトライフルを！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000595_MSG0008",
+      "style": 1,
+      "name": "いやいや　そんなことすると\nイリーナ中尉に怒られて\nバーストグレネードを喰らってしまいますよ！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000595_MSG0009",
+      "style": 1,
+      "name": "今度のイリーナ中尉の誕生日には\nいいものをプレゼントしようと考えているのに\n受け取ってもらえなくなります……！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000595_MSG0010",
+      "style": 1,
+      "name": "サクラバ重工の最新のアサルトライフル[ST:wide ]―\n仮予約までしたのに……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000595_JNK0030",
+      "style": 4,
+      "name": "メレデス＆コー"
+    },
+    {
+      "$id": 16,
+      "label": "tev000595_SEL0031",
+      "style": 3,
+      "name": "メレデス＆コーの武器を\n勧める"
+    },
+    {
+      "$id": 17,
+      "label": "tev000595_JNK0040",
+      "style": 4,
+      "name": "偽りなき真心堂"
+    },
+    {
+      "$id": 18,
+      "label": "tev000595_SEL0041",
+      "style": 3,
+      "name": "偽りなき真心堂のスーツを\n勧める"
+    },
+    {
+      "$id": 19,
+      "label": "tev000595_JNK0050",
+      "style": 4,
+      "name": "指輪"
+    },
+    {
+      "$id": 20,
+      "label": "tev000595_SEL0051",
+      "style": 3,
+      "name": "指輪を勧める"
+    },
+    {
+      "$id": 21,
+      "label": "tev000595_MSG0011",
+      "style": 1,
+      "name": "メレデス＆コーの武器ですか[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000595_MSG0012",
+      "style": 1,
+      "name": "[ST:playername ]がオススメしてくださるのなら\nきっとイリーナ中尉に合ってるんでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000595_MSG0013",
+      "style": 1,
+      "name": "最初からサクラバ重工って決めつけずに\nもうちょっと調べてみるっす！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000595_MSG0014",
+      "style": 1,
+      "name": "貴重な意見ありがとうございます！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000595_MSG0015",
+      "style": 1,
+      "name": "[ST:wide ]―あっ\nイリーナ中尉　出てきたみたいです[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000595_MSG0016",
+      "style": 1,
+      "name": "じゃあ　僕たちは行きます\nまた今度　任務でよろしくです[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000595_MSG0017",
+      "style": 1,
+      "name": "偽りなき真心堂のスーツですか[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000595_MSG0018",
+      "style": 1,
+      "name": "イリーナ中尉\n武器には　こだわりがあるみたいなんですけど\n防具に関しては割と無頓着なんですよね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000595_MSG0019",
+      "style": 1,
+      "name": "だから　いいチョイスかもしれないっすね\nさすが[ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000595_MSG0020",
+      "style": 1,
+      "name": "[ST:wide ]―でも　確か偽りなき真心堂のスーツって\nなんだかミニスカートみたいな……ゴクっ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000595_MSG0021",
+      "style": 1,
+      "name": "[ST:wide ]―あっ！\nイリーナ中尉　出てきたみたいです！？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000595_MSG0022",
+      "style": 1,
+      "name": "じゃじゃあ　僕たちは行きますから！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000595_MSG0023",
+      "style": 1,
+      "name": "また今度　スーツの相談に乗ってください！\nまずはどうやって着てもらうか　からです！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000595_MSG0024",
+      "style": 1,
+      "name": "ゆ　指輪っすか！？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000595_MSG0025",
+      "style": 1,
+      "name": "それはちょっと早くないっすかね！？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000595_MSG0026",
+      "style": 1,
+      "name": "二つ同じのを買いそろえなきゃならないですし\nお金も任務の報酬だけで足りるかどうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000595_MSG0027",
+      "style": 1,
+      "name": "いや　けど既製品を買うのじゃなくて\nフロンティアネットで\n採掘したレアリソースを使えば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000595_MSG0028",
+      "style": 1,
+      "name": "どんなレアリソースがいいかな[ST:wide ]―\nドーンナイトか千年氷鉱か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000595_MSG0029",
+      "style": 1,
+      "name": "[ST:wide ]―あっ！\nイリーナ中尉　出てきたみたいです！？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000595_MSG0030",
+      "style": 1,
+      "name": "じゃじゃあ　僕たちは行きますから！\nまた今度　任務でよろしくです！[ST:wait ]"
+    }
+  ]
+}

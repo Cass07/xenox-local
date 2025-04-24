@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000193_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]인가[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000193_MSG0002",
+      "style": 1,
+      "name": "자네도 이제 이 도시 풍경이\n익숙해졌을 테지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000193_MSG0003",
+      "style": 1,
+      "name": "오랜만에 이 상업 에어리어를 느긋하게\n바라보다가 난 크게 감명받았다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000193_MSG0004",
+      "style": 1,
+      "name": "[ST:playername ]\n자네는 이 도시를 보면 어떤 생각이 들지?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000193_JNK0010",
+      "style": 4,
+      "name": "감탄한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000193_SEL0011",
+      "style": 3,
+      "name": "마치 지구에 있는 것 같다고 대답한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000193_JNK0020",
+      "style": 4,
+      "name": "솔직하게 대답한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000193_SEL0021",
+      "style": 3,
+      "name": "지구인과 외계인이 있다고 대답한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev000193_JNK0030",
+      "style": 4,
+      "name": "질문한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev000193_SEL0031",
+      "style": 3,
+      "name": "언제쯤 완성되는 건지 의문을 품는다"
+    },
+    {
+      "$id": 11,
+      "label": "tev000193_MSG0005",
+      "style": 1,
+      "name": "하하……\n기억은 없어도 고향처럼\n느껴진다는 뜻인가?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000193_MSG0006",
+      "style": 1,
+      "name": "하지만 지구에 있던 도시와 같은 규모로\n발전시키려면 아직 시간이 더 걸리겠지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000193_MSG0007",
+      "style": 1,
+      "name": "내가 감명받은 것은\n그런 고향의 그리움이 아니다\n완전히 다른 부분이지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000193_MSG0008",
+      "style": 1,
+      "name": "우리가 다른 별에 이주한 사례는 미라가 처음이다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000193_MSG0009",
+      "style": 1,
+      "name": "라이프에 그로우스…… 여러 문제를\n떠안으면서도 외계인과 서로 손을 맞잡고\n훌륭히 살아가고 있지 않은가?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000193_MSG0010",
+      "style": 1,
+      "name": "도시를 오가는 지구인과 외계인……\n이 자연스러운 광경을 볼 때면\n희망을 재확인할 수 있다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000193_MSG0011",
+      "style": 1,
+      "name": "우주도 제법 괜찮다고 말이다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000193_MSG0012",
+      "style": 1,
+      "name": "기쁘군\n나와 같은 것을 보고 있었을 줄이야……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000193_MSG0013",
+      "style": 1,
+      "name": "우리가 다른 별에 이주한 사례는 미라가 처음이다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000193_MSG0014",
+      "style": 1,
+      "name": "라이프에 그로우스…… 여러 문제를\n떠안으면서도 외계인과 서로 손을 맞잡고\n훌륭히 살아가고 있지 않은가?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000193_MSG0015",
+      "style": 1,
+      "name": "도시를 오가는 지구인과 외계인……\n이 자연스러운 광경을 볼 때면\n희망을 재확인할 수 있다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000193_MSG0016",
+      "style": 1,
+      "name": "우주도 제법 괜찮다고 말이다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000193_MSG0017",
+      "style": 1,
+      "name": "으윽…… \n이것 참 신랄한 의견이군[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000193_MSG0018",
+      "style": 1,
+      "name": "행정장관에게는 너무 대놓고\n말하지 않도록 해라[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000193_MSG0019",
+      "style": 1,
+      "name": "NLA 인원 다수는 블레이드로서 일하고 있다\n건설에 종사하는 인원은 충분하지 않아[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000193_MSG0020",
+      "style": 1,
+      "name": "그러니 진척이 늦어지고 있는 것도\n현재로서는 어쩔 수 없는 일이다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000193_MSG0021",
+      "style": 1,
+      "name": "하지만 우리가 살아 있는 몸을 되찾으면\n이 도시에서 모두가 살기에는 아무래도 좁겠지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000193_MSG0022",
+      "style": 1,
+      "name": "외계인의 힘을 빌려서\n완성을 향해 서두를 예정이다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000193_MSG0023",
+      "style": 1,
+      "name": "그럼 난 이 주변을 산책하도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000193_MSG0024",
+      "style": 1,
+      "name": "[ST:playername ]의 블레이드 홈에 있는\n찻잔에 관심이 가더군\n잡화점을 둘러볼 생각이다[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000193_MSG0025",
+      "style": 1,
+      "name": "그럼 또 만나지[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000994_MSG0001",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000994_MSG0002",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000994_MSG0003",
+      "style": 1,
+      "name": "[ST:playername ]인가……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000994_MSG0004",
+      "style": 1,
+      "name": "이런 곳까지 올 줄이야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000994_MSG0005",
+      "style": 1,
+      "name": "난 임무가 없을 때면\n여기서 명상으로 시간을 보낸다네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000994_MSG0006",
+      "style": 1,
+      "name": "지혜를 얻고자 반복하고는 있지만\n그렇게 쉽지는 않더군[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000994_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 8,
+      "label": "tev000994_SEL0011",
+      "style": 3,
+      "name": "보제의 종교관에 대해서"
+    },
+    {
+      "$id": 9,
+      "label": "tev000994_JNK0020",
+      "style": 4,
+      "name": "지적"
+    },
+    {
+      "$id": 10,
+      "label": "tev000994_SEL0021",
+      "style": 3,
+      "name": "교회가 아니라 절에서\n명상해야 한다고 말해 준다"
+    },
+    {
+      "$id": 11,
+      "label": "tev000994_MSG0007",
+      "style": 1,
+      "name": "흠……\n어째서 내가 묘한 신앙심을 품게 됐는지\n알고 싶다는 뜻인가[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000994_MSG0008",
+      "style": 1,
+      "name": "이미 수십 년도 더 전……\n내가 소대장이 되어 처음으로 나간 임무에서였지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000994_MSG0009",
+      "style": 1,
+      "name": "거짓 정보에 속아\n아시아의 밀림에 고립된 채 부대가 전멸했네[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000994_MSG0010",
+      "style": 1,
+      "name": "죽어 가던 나를 살린 것은\n어떤 시골 소녀였어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000994_MSG0011",
+      "style": 1,
+      "name": "그곳에서 난 놀라운 가르침을 받았지……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000994_MSG0012",
+      "style": 1,
+      "name": "먼저 죽을 만드는 방법을\n배우는 것부터 시작했다네[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000994_MSG0013",
+      "style": 1,
+      "name": "그 죽은 날 되살리고 내 인생에 변혁을 끼친\n위대한 음식이라고 할 수 있지[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000994_MSG0014",
+      "style": 1,
+      "name": "그 후로……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000994_MSG0015",
+      "style": 1,
+      "name": "아군이 당도한 것은 고립된 지\n정확히 22일째 되는 날이었어[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000994_MSG0016",
+      "style": 1,
+      "name": "그렇게 이별의 때가 왔고\n헬기가 떠나려는 순간……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000994_MSG0017",
+      "style": 1,
+      "name": "로켓탄이 날아와서……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000994_MSG0018",
+      "style": 1,
+      "name": "이렇게 나는 드디어 부대와 합류할 수 있었네\n정확히 49일째 되는 날이었지[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000994_MSG0019",
+      "style": 1,
+      "name": "그 후로 나는……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000994_MSG0020",
+      "style": 1,
+      "name": "……그래서 지금에 이르게 된 걸세[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000994_MSG0021",
+      "style": 1,
+      "name": "생략된 점이 많기는 하지만 요점은 전했네[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000994_MSG0022",
+      "style": 1,
+      "name": "흥미가 생겼다면 다음에 다시 물어보러 오게나\n그때는 조금 더 자세히 이야기해 줄 테니[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000994_MSG0023",
+      "style": 1,
+      "name": "난 언제든지 기다리고 있겠네![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000994_MSG0024",
+      "style": 1,
+      "name": "물론 교회에서 명상을 하는 게\n잘못되었다고 말할 수도 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000994_MSG0025",
+      "style": 1,
+      "name": "하나 NLA 어디를 찾아 봐도\n절이 없지 않은가[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000994_MSG0026",
+      "style": 1,
+      "name": "거대한 나무 아래도 괜찮지만\n이 또한 NLA에는 없는 곳이지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000994_MSG0027",
+      "style": 1,
+      "name": "그렇다고 NLA 밖에서 명상에 빠졌다가는\n곧바로 괴물들 위장 구경을 할 테고 말일세[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000994_MSG0028",
+      "style": 1,
+      "name": "그러니 이곳이 행성 미라에서\n가장 명상에 적합한 곳이라네[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000994_MSG0029",
+      "style": 1,
+      "name": "자, 명상은 이 정도로 하고\n난 블레이드 홈으로 돌아가도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000994_MSG0030",
+      "style": 1,
+      "name": "조반을 먹어야 하거든\n살사 소스를 뿌린 삶은 두부가 일품이야[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000994_MSG0031",
+      "style": 1,
+      "name": "궁금하거든 먹으러 와 보게[ST:wait ]"
+    }
+  ]
+}

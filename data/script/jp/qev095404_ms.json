@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095404_MSG0001",
+      "style": 1,
+      "name": "アタイたちが束になっても\n敵わなかったヤツを倒すなんて\n大したもんだナ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095404_MSG0002",
+      "style": 1,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095404_MSG0003",
+      "style": 1,
+      "name": "アタイはまだ戦える[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev095404_MSG0004",
+      "style": 1,
+      "name": "動ける者は逃げろ！\n怪我人はアタイが守る！！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev095404_MSG0005",
+      "style": 1,
+      "name": "隊長[ST:wide ]―\nそんなボロボロの身体じゃムリだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev095404_JNK0010",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 7,
+      "label": "qev095404_SEL0011",
+      "style": 3,
+      "name": "捕虜としてNLAに\n迎え入れる"
+    },
+    {
+      "$id": 8,
+      "label": "qev095404_JNK0020",
+      "style": 4,
+      "name": "手当てする"
+    },
+    {
+      "$id": 9,
+      "label": "qev095404_SEL0021",
+      "style": 3,
+      "name": "怪我の治療を施す"
+    },
+    {
+      "$id": 10,
+      "label": "qev095404_MSG0006",
+      "style": 1,
+      "name": "オマエ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095404_MSG0007",
+      "style": 1,
+      "name": "隊長[ST:wide ]―\nコイツの命令を聞こう[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095404_MSG0008",
+      "style": 1,
+      "name": "私たちの命を握ってるのはコイツなんだから[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095404_MSG0009",
+      "style": 1,
+      "name": "[ST:wide ]―ドリゴ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095404_MSG0010",
+      "style": 1,
+      "name": "……わかった[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095404_MSG0011",
+      "style": 1,
+      "name": "地球人なんて信用できはしないけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev095404_MSG0012",
+      "style": 1,
+      "name": "オマエたちが生き延びる可能性があるなら\nアタイはそうするナ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev095404_MSG0013",
+      "style": 1,
+      "name": "[ST:wide ]―隊長[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev095404_MSG0014",
+      "style": 1,
+      "name": "さあ　地球人よ\nどこにでも連れて行けばいいナ[ST:wait ]"
+    }
+  ]
+}

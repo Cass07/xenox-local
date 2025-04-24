@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev015204_MSG0004",
+      "style": 1,
+      "name": "이 미라에 대규모 정수장을 짓는\n프로젝트가 드디어 시작됐어![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev015204_MSG0005",
+      "style": 1,
+      "name": "처음에는 리더인 내가 프로젝트를\n진행할 생각이었지만[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev015204_MSG0006",
+      "style": 1,
+      "name": "이 프로젝트의 실현을 주도한 여성……\n아조아에게 일임하기로 했지[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev015204_MSG0007",
+      "style": 1,
+      "name": "여러 문제도 일어나고 있는 것 같지만\n그녀라면 분명 어떻게든 해 줄 거야![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev015204_MSG0001",
+      "style": 1,
+      "name": "문제도 해결되어서\n드디어 본격적인 공사가 시작되었나 봐[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev015204_MSG0002",
+      "style": 1,
+      "name": "이제 계획대로 시설이 완공되면\nNLA의 물 부족 문제가 단번에 해결될 거야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev015204_MSG0003",
+      "style": 1,
+      "name": "하하, 벌써 완공이 기다려지는군![ST:wait ]"
+    }
+  ]
+}

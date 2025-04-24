@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086508_MSG0001",
+      "style": 1,
+      "name": "言われてみれば　カーチャンが三日も\n帰ってこないなんて初めてのことだし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086508_MSG0002",
+      "style": 1,
+      "name": "急に心配になってきたも[ST:wide ]―\n早く　捜してきて欲しいんだも！[ST:wait ]"
+    }
+  ]
+}

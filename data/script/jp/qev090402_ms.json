@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090402_MSG0001",
+      "style": 0,
+      "name": "やるじゃないか新入り！\n腕も良いが　オヌシはまず肝が据わっている[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090402_MSG0002",
+      "style": 0,
+      "name": "[ST:wide ]―ンッ[ST:wide ]―？　異星人か[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090402_MSG0003",
+      "style": 0,
+      "name": "グッ[ST:wide ]―　アアッ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090402_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―ンンッ[ST:wide ]―！\nあんた達　地球人かい[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090402_MSG0005",
+      "style": 0,
+      "name": "なぁ[ST:wide ]―　助けてくれないかい？\n僕ってば　こんな所でケガしちゃってさ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090402_MSG0006",
+      "style": 0,
+      "name": "足が痛くて[ST:wide ]―\n原生生物達から逃げ出すこともできないんダヨ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090402_MSG0007",
+      "style": 0,
+      "name": "知ったことか[ST:wide ]―\n俺達には救わねばならぬ者がいるのだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090402_MSG0008",
+      "style": 0,
+      "name": "このような異星人になど構ってられん[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090402_MSG0009",
+      "style": 0,
+      "name": "そんな冷たいこと言わないでよ\n僕達マ・ノン人と地球人は友達[ST:wide ]―　デショ？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090402_MSG0010",
+      "style": 0,
+      "name": "友達だと[ST:wide ]―？　ふざけたことを言うな！\nオヌシら異星人など皆　敵だ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090402_MSG0011",
+      "style": 0,
+      "name": "もう行くぞ！\nこのような者　助ける道理は俺達にはない[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090402_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 13,
+      "label": "qev090402_SEL0011",
+      "style": 3,
+      "name": "ボゼに従いマ・ノンを見捨てて先を急ぐ"
+    },
+    {
+      "$id": 14,
+      "label": "qev090402_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 15,
+      "label": "qev090402_SEL0021",
+      "style": 3,
+      "name": "ジェジェバを助けようと提案する"
+    },
+    {
+      "$id": 16,
+      "label": "qev090402_MSG0012",
+      "style": 0,
+      "name": "[ST:wide ]―そっか　[ST:wide ]―呼び止めて悪かったね\nなら　自分でなんとかしてみるよ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090402_MSG0013",
+      "style": 0,
+      "name": "それじゃあね[ST:wide ]―　お互い無事に\nこの洞窟を抜け出せるといいね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090402_MSG0014",
+      "style": 0,
+      "name": "[ST:wide ]―声を荒げてすまなかった\nつい異星人共を目にしてしまうと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090402_MSG0015",
+      "style": 0,
+      "name": "心を乱してしまってな[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090402_MSG0016",
+      "style": 0,
+      "name": "もう大丈夫だ[ST:wide ]―　さぁ行こう\n早く仲間を助け出さねばな[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090402_MSG0017",
+      "style": 0,
+      "name": "[ST:wide ]―わかった　従おう[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090402_MSG0018",
+      "style": 0,
+      "name": "俺は異星人など助けようとは思わんが\nオヌシと言いあう気もないよ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090402_MSG0019",
+      "style": 0,
+      "name": "ありがとう！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090402_MSG0020",
+      "style": 0,
+      "name": "それじゃあミュナリアフラワーを\n採ってきてくれないかい？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090402_MSG0021",
+      "style": 0,
+      "name": "そいつがあれば　僕が作ったこの治療装置で\nケガなんて一瞬で治せちゃうんダヨ！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090402_MSG0022",
+      "style": 0,
+      "name": "頼んだよ！　ミュナリアフラワーだからね！[ST:wait ]"
+    }
+  ]
+}

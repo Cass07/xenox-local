@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085405_MSG0001",
+      "style": 0,
+      "name": "なあ　あんなので大丈夫なのか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085405_MSG0002",
+      "style": 0,
+      "name": "ええ　入ったら[System:Ruby rt=デバイス ]端末[/System:Ruby]で\nケージの蓋が閉められますから[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085405_MSG0003",
+      "style": 0,
+      "name": "でも　アイシャちゃんが入ってくるまで\n待つしかないんですよね？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085405_MSG0004",
+      "style": 0,
+      "name": "そうなんです\nすみません[ST:wide ]―　[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085405_MSG0005",
+      "style": 0,
+      "name": "気にしなくていいわ\n待つことも任務よ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085405_MSG0006",
+      "style": 0,
+      "name": "しっかし　こないなぁ\nアイシャの奴　お腹すかないのかな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085405_MSG0007",
+      "style": 0,
+      "name": "グイン先輩[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085405_MSG0008",
+      "style": 0,
+      "name": "ん？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085405_MSG0009",
+      "style": 0,
+      "name": "先輩ってもしかして\n動物飼ってたんですか？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085405_MSG0010",
+      "style": 0,
+      "name": "ああ　犬をな\n地球にいた頃[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085405_MSG0011",
+      "style": 0,
+      "name": "やっぱり　好物をって言ってた顔を見て\nそう思ったんです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085405_MSG0012",
+      "style": 0,
+      "name": "うちのバカ犬　食い意地はってたんでな[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085405_MSG0013",
+      "style": 0,
+      "name": "静かに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085405_MSG0014",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "qev085405_MSG0015",
+      "style": 0,
+      "name": "ちっ　アイシャじゃないのが釣れちまったか[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085405_MSG0018",
+      "style": 0,
+      "name": "ああっ！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085405_MSG0019",
+      "style": 0,
+      "name": "アイシャ！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085405_MSG0020",
+      "style": 0,
+      "name": "自分のエサを盗られたと思ったのか！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085405_MSG0021",
+      "style": 0,
+      "name": "おい　ミトス！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085405_MSG0022",
+      "style": 0,
+      "name": "アイシャ　無茶だよ！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085405_MSG0023",
+      "style": 0,
+      "name": "無茶はお前だ！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085405_MSG0024",
+      "style": 0,
+      "name": "グイン先輩！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085405_MSG0025",
+      "style": 0,
+      "name": "こいつは引き受ける\nアイシャを連れてＮＬＡに戻れ！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085405_MSG0026",
+      "style": 0,
+      "name": "は　はい！[ST:wait ]"
+    }
+  ]
+}

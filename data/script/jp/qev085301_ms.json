@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085301_MSG0001",
+      "style": 0,
+      "name": "誰か来たみたいですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085301_MSG0002",
+      "style": 0,
+      "name": "イリーナ\nエルマの助っ人をやってたところか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085301_MSG0003",
+      "style": 0,
+      "name": "ええ　そうですけど[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085301_MSG0004",
+      "style": 0,
+      "name": "ちょうどいい\n任務手伝ってやってくれんか[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085301_MSG0005",
+      "style": 0,
+      "name": "何か難しい任務でも？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085301_MSG0006",
+      "style": 0,
+      "name": "難しいってほどのことでもないんだがなぁ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085301_MSG0007",
+      "style": 0,
+      "name": "ランドバンクのチームから救援要請が入ってな\n助けに行って欲しいんだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085301_MSG0008",
+      "style": 0,
+      "name": "キアス・コールとリブロ・コールだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085301_JNK0010",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 10,
+      "label": "qev085301_SEL0011",
+      "style": 3,
+      "name": "二人は親子に違いないと主張"
+    },
+    {
+      "$id": 11,
+      "label": "qev085301_JNK0020",
+      "style": 4,
+      "name": "憶測"
+    },
+    {
+      "$id": 12,
+      "label": "qev085301_SEL0021",
+      "style": 3,
+      "name": "仲の良さそうな兄弟だと語る"
+    },
+    {
+      "$id": 13,
+      "label": "qev085301_MSG0009",
+      "style": 0,
+      "name": "確かに同じ名字だし　顔立ちも似ていますね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085301_MSG0010",
+      "style": 0,
+      "name": "ああ　そうだ\n親父も息子もちょっと変わっているがな[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085301_MSG0011",
+      "style": 0,
+      "name": "確かに名字は同じだし　顔立ちも似てますけど[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085301_MSG0012",
+      "style": 0,
+      "name": "兄弟っていうより\n親子って感じじゃないですか？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085301_MSG0013",
+      "style": 0,
+      "name": "リンの言う通り親子だ\n親父も息子もちょっと変わっているがな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085301_MSG0014",
+      "style": 0,
+      "name": "ランドバンクということは\n鉱物資源の調査でも？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085301_MSG0015",
+      "style": 0,
+      "name": "二人共地質学者でな[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085301_MSG0016",
+      "style": 0,
+      "name": "長年　息子が親父の助手を\nやってきたってわけだ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085301_MSG0017",
+      "style": 0,
+      "name": "なるほどね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085301_MSG0018",
+      "style": 0,
+      "name": "早速行きましょう\n情報をよろしく[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085301_MSG0019",
+      "style": 0,
+      "name": "おう　手配しておく[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs09080100_MSG0001",
+      "style": 0,
+      "name": "地球人よ\nこの上もなく痛快な戦　感謝する[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs09080100_MSG0002",
+      "style": 0,
+      "name": "これより北方には\n切り立った漆黒の岩盤に覆われ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs09080100_MSG0003",
+      "style": 0,
+      "name": "その裂け目に煮えたぎった\n溶岩が流れる大地がある[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs09080100_MSG0004",
+      "style": 0,
+      "name": "そこがグロウスの本陣だ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs09080100_MSG0005",
+      "style": 0,
+      "name": "貴君らの今後の旅路に武運あれ[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs09080100_MSG0006",
+      "style": 0,
+      "name": "敵ながら　話のわかるやつらでしたも！[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs09080100_MSG0007",
+      "style": 0,
+      "name": "そうだね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs09080100_MSG0008",
+      "style": 0,
+      "name": "傭兵団だって言ってたし\nもしかしたら一緒に戦ってくれるかも！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs09080100_MSG0009",
+      "style": 0,
+      "name": "タツ大歓迎ですも\nワンワン大好きですも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs09080100_MSG0010",
+      "style": 0,
+      "name": "それ　ラース人の前で絶対にいっちゃダメだよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs09080100_MSG0011",
+      "style": 0,
+      "name": "パリパリに焼かれて\n皮を一枚一枚スライスされて[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs09080100_MSG0012",
+      "style": 0,
+      "name": "ももっ！？\nタツは北京ダックじゃないですも～[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs09080100_MSG0013",
+      "style": 0,
+      "name": "あはは　よく知ってるね\n感心感心！[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs09080100_MSG0014",
+      "style": 0,
+      "name": "うれしくないですも～[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs09080100_MSG0015",
+      "style": 0,
+      "name": "皆　聞いて[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs09080100_MSG0016",
+      "style": 0,
+      "name": "ＮＬＡの[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]メンテナンスセンターに\nラオが収容されたそうよ[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs09080100_MSG0017",
+      "style": 0,
+      "name": "無事だったんですね\nよかった[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs09080100_MSG0018",
+      "style": 0,
+      "name": "急いでお見舞いに行きましょう！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs09080100_MSG0019",
+      "style": 0,
+      "name": "ええ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs09080100_MSG0020",
+      "style": 0,
+      "name": "エルマさん　どうしたんです？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs09080100_MSG0021",
+      "style": 0,
+      "name": "ごめんなさい\nラオが心配だっただけよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs09080100_MSG0022",
+      "style": 0,
+      "name": "さぁ　ＮＬＡに戻りましょう[ST:wait ]"
+    }
+  ]
+}

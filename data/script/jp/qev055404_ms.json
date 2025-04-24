@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055404_MSG0001",
+      "style": 1,
+      "name": "クンエイブが君に託した想いは\n強く私の中にも残っている[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055404_MSG0002",
+      "style": 1,
+      "name": "どうか彼と交わした約束……\n必ず果たして欲しい[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055404_MSG0003",
+      "style": 1,
+      "name": "このミラでは　セニラパ水は貴重なものだが\n駆け回れば　いつか見つかるはずだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev055404_MSG0004",
+      "style": 1,
+      "name": "そう　クンエイブのように\n諦めず追い求めていればな……[ST:wait ]"
+    }
+  ]
+}

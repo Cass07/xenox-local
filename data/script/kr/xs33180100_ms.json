@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33180100_MSG0010",
+      "style": 0,
+      "name": "정신이 들었구나[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33180100_MSG0020",
+      "style": 0,
+      "name": "보기엔 상처는 없는 것 같은데……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33180100_MSG0030",
+      "style": 0,
+      "name": "괜찮아?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33180100_MSG0040",
+      "style": 0,
+      "name": "안심이야\n서로 무사한 게 불행 중 다행이네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33180100_MSG0050",
+      "style": 0,
+      "name": "그렇다 해도……\n상황은 그다지 좋지 않아[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33180100_MSG0060",
+      "style": 0,
+      "name": "봐[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33180100_MSG0070",
+      "style": 0,
+      "name": "아무래도 우리는 보이드에 의해\n여기까지 날아온 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33180100_MSG0080",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "xs33180100_MSG0090",
+      "style": 0,
+      "name": "그때 당신도 봤겠지만[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33180100_MSG0100",
+      "style": 0,
+      "name": "알은 아레스와 함께\n보이드에게 빨려 들어가 버렸어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33180100_MSG0101",
+      "style": 0,
+      "name": "동료들과도 떨어졌고\n돌은 어딘가에 추락……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33180100_MSG0102",
+      "style": 0,
+      "name": "말 그대로 사면초가네[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33180100_JNK0103",
+      "style": 4,
+      "name": "희망"
+    },
+    {
+      "$id": 14,
+      "label": "xs33180100_SEL0104",
+      "style": 3,
+      "name": "일단 동료와 합류하자고 제안한다"
+    },
+    {
+      "$id": 15,
+      "label": "xs33180100_MSG0105",
+      "style": 0,
+      "name": "그래, 당신 말이 맞아[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33180100_JNK0106",
+      "style": 4,
+      "name": "절망"
+    },
+    {
+      "$id": 17,
+      "label": "xs33180100_SEL0107",
+      "style": 3,
+      "name": "다 끝났다며 고개를 숙인다"
+    },
+    {
+      "$id": 18,
+      "label": "xs33180100_MSG0108",
+      "style": 0,
+      "name": "진정해[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33180100_MSG0109",
+      "style": 0,
+      "name": "포기하기에는 아직 일러[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33180100_MSG0110",
+      "style": 0,
+      "name": "보이드라고 해도[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33180100_MSG0120",
+      "style": 0,
+      "name": "모든 코어를 기동하기 위해선[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33180100_MSG0125",
+      "style": 0,
+      "name": "그에 상응하는 시간이 필요할 거야……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33180100_MSG0130",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "xs33180100_MSG0140",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "xs33180100_MSG0150",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "xs33180100_MSG0160",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "xs33180100_MSG0170",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "xs33180100_MSG0180",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "xs33180100_MSG0190",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "xs33180100_MSG0200",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "xs33180100_MSG0210",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "xs33180100_MSG0220",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "xs33180100_MSG0230",
+      "style": 0,
+      "name": "일단 주위를 수색해서 부대와 합류하자[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs33180100_MSG0240",
+      "style": 0,
+      "name": "구조용 비컨으로 위치 정보를 파악하면\n분명 찾아낼 수 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs33180100_MSG0250",
+      "style": 0,
+      "name": "우리의 돌도\n아마 어딘가에 불시착했겠지[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs33180100_MSG0260",
+      "style": 0,
+      "name": "수색 때 이동 수단으로 써야 하니까\n가능한 한 빨리 회수하는 게 좋겠어[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs33180100_MSG0270",
+      "style": 0,
+      "name": "아무튼 서두르지 말고\n하나씩 대처해 나가자[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090902_MSG0001",
+      "style": 0,
+      "name": "이 주변 타깃은 전부\n쓸어버린 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090902_MSG0002",
+      "style": 0,
+      "name": "……전에 왔을 때보다\n더 많이 번식한 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090902_MSG0003",
+      "style": 0,
+      "name": "귀찮은 일이 생기기 전에 한시라도 빨리\n안에 있는 어미를 쓰러뜨립시다[ST:wait ]"
+    }
+  ]
+}

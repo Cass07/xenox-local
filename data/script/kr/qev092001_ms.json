@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092001_MSG0001",
+      "style": 0,
+      "name": "이런 일이 일어나다니\n뭐가 문제였던 걸까?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092001_MSG0002",
+      "style": 0,
+      "name": "울적해지네……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092001_JNK0010",
+      "style": 4,
+      "name": "이유를 묻는다"
+    },
+    {
+      "$id": 4,
+      "label": "qev092001_SEL0011",
+      "style": 3,
+      "name": "무슨 일이냐며 자세히 물어본다"
+    },
+    {
+      "$id": 5,
+      "label": "qev092001_JNK0020",
+      "style": 4,
+      "name": "격려한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev092001_SEL0021",
+      "style": 3,
+      "name": "아무튼 기운 내라며 격려한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev092001_JNK0030",
+      "style": 4,
+      "name": "추측한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev092001_SEL0031",
+      "style": 3,
+      "name": "돌을 망가뜨렸냐고 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "qev092001_MSG0003",
+      "style": 0,
+      "name": "고마워, 넌 가끔 상냥하네[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092001_MSG0004",
+      "style": 0,
+      "name": "들어 줄래……?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092001_MSG0005",
+      "style": 0,
+      "name": "그래, 맞아……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092001_MSG0006",
+      "style": 0,
+      "name": "저번 돌 웨펀 테스트 중의 일인데[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092001_MSG0007",
+      "style": 0,
+      "name": "테스트하던 장착 병기가 갑자기 진동하기 시작했어\n그러더니 결국 폭발해 버린 거야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092001_MSG0008",
+      "style": 0,
+      "name": "게다가 꽤 커다란 병기여서[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092001_MSG0009",
+      "style": 0,
+      "name": "같이 테스트 중이던 다른 블레이드의 돌까지\n피해를 입고 말았어……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092001_MSG0010",
+      "style": 0,
+      "name": "물론 테스트는 완전히 실패했고, 난 크게 혼났지\n다친 사람이 없어서 그나마 다행이야[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092001_MSG0011",
+      "style": 0,
+      "name": "티카 말고 다른 팀이 만든 물건을 시험해 본 건\n이번이 처음이었는데 나도 놀랐어[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092001_MSG0012",
+      "style": 0,
+      "name": "지금까지 티카가 서포트를\n많이 해 줬다는 생각도 들고[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092001_MSG0013",
+      "style": 0,
+      "name": "우울하기도 해[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092001_JNK0040",
+      "style": 4,
+      "name": "위로한다"
+    },
+    {
+      "$id": 21,
+      "label": "qev092001_SEL0041",
+      "style": 3,
+      "name": "병기가 폭발한 건 아크세나 탓이\n아니라며 위로한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev092001_JNK0050",
+      "style": 4,
+      "name": "격려한다"
+    },
+    {
+      "$id": 23,
+      "label": "qev092001_SEL0051",
+      "style": 3,
+      "name": "다음에 성공하면 된다며 격려한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev092001_JNK0060",
+      "style": 4,
+      "name": "쓴소리를 한다"
+    },
+    {
+      "$id": 25,
+      "label": "qev092001_SEL0061",
+      "style": 3,
+      "name": "아크세나의 마음은 한 번의 실수로\n꺾이는 수준이었냐며 쓴소리를 한다"
+    },
+    {
+      "$id": 26,
+      "label": "qev092001_MSG0014",
+      "style": 0,
+      "name": "응, 그렇지……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092001_MSG0015",
+      "style": 0,
+      "name": "내가 신형 병기를 만든 것도 아니고\n테스트에서 실패는 흔히 있는 일이니까[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092001_MSG0016",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092001_MSG0017",
+      "style": 0,
+      "name": "응, 물론 그렇게 생각해\n또 실패를 반복하진 않을 거야[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092001_MSG0018",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092001_MSG0019",
+      "style": 0,
+      "name": "꺾이지 않아![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092001_MSG0019_2",
+      "style": 0,
+      "name": "하지만, 휘어지기는 하나 봐……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092001_MSG0020",
+      "style": 0,
+      "name": "주위에 폐를 끼친 건 사실이니까……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092001_MSG0021",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092001_MSG0022",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092001_MSG0023",
+      "style": 0,
+      "name": "아~ 답답해!![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092001_MSG0024",
+      "style": 0,
+      "name": "고민해 봤자 문제가 해결되지는 않으니까\n이 답답함을 하나씩 해소해야겠어![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092001_MSG0025",
+      "style": 0,
+      "name": "너도 따라와 줄 거지?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092001_MSG0026",
+      "style": 0,
+      "name": "애초부터 그럴 생각으로\n말을 걸었을 테니까 문제없겠네[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092001_MSG0027",
+      "style": 0,
+      "name": "일단 캠버에게 사과하러 가자![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092001_MSG0028",
+      "style": 0,
+      "name": "앗, 캠버가 누구인지 모르는구나[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092001_MSG0029",
+      "style": 0,
+      "name": "캠버의 팀은 4명 모두 돌 조종사야\n굉장하지 않아? 근사하다니까[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092001_MSG0030",
+      "style": 0,
+      "name": "그래서 난 자주 캠버네 팀이\n있는 곳에 가서 돌을 구경하고는 해[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092001_MSG0031",
+      "style": 0,
+      "name": "4대가 나란히 있어서\n진짜 어마어마하게 멋있거든[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092001_MSG0032",
+      "style": 0,
+      "name": "아무리 바라봐도 질리지 않을 정도로……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092001_MSG0033",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092001_MSG0034",
+      "style": 0,
+      "name": "미안, 말이 조금 샜네……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092001_MSG0035",
+      "style": 0,
+      "name": "나 때문에 캠버의 돌이 망가졌으니까\n지금은 정비 중일 거야[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092001_MSG0036",
+      "style": 0,
+      "name": "블레이드 에어리어로 운송됐을 테니\n그곳에 가서 캠버와 이야기해 보자[ST:wait ]"
+    }
+  ]
+}

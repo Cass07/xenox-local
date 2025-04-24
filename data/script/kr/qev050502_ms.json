@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050502_MSG0007",
+      "style": 1,
+      "name": "으으, 이 사람…… 무서워……\n대체 목적이 뭐야……?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050502_MSG0001",
+      "style": 1,
+      "name": "이 사람 얘기만 듣지 말고\n어딘가에 신고라도\n해야 하는 거 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050502_MSG0002",
+      "style": 1,
+      "name": "위협만 할 뿐이고\n덤비지는 않는 것 같지만……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050502_MSG0003",
+      "style": 1,
+      "name": "그러다가 칼이라도 꺼내면\n손을 쓸 수가 없잖아![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050502_MSG0004",
+      "style": 1,
+      "name": "이 사람…… 나쁜 사람은 아닌 것 같으니까\n레시피만 가지고 오면 요리를 가르쳐 줄게[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev050502_MSG0005",
+      "style": 1,
+      "name": "그러니 도시 사람들 말에 귀 기울이며\n여기저기 돌아다녀 봐[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev050502_MSG0006",
+      "style": 1,
+      "name": "NLA에는 요리 애호가도 많으니\n자기만의 레시피를 가진 사람도\n어딘가에 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev050502_MSG0008",
+      "style": 1,
+      "name": "카레 재료라……\n어디 보자……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev050502_MSG0009",
+      "style": 1,
+      "name": "레이시 감자랑\n케포 당근……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050502_MSG0010",
+      "style": 1,
+      "name": "그리고 즈우스가 떨어뜨리는\n즈우스의 숙성 어깨살이라면\n그럴싸한 카레를 만들 수 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev050502_MSG0011",
+      "style": 1,
+      "name": "이것저것 요구를 들어주느라\n힘들겠지만…… 열심히 해 줘[ST:wait ]"
+    }
+  ]
+}

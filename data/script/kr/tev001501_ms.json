@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001501_MSG0001",
+      "style": 1,
+      "name": "……뭐야, 너?\n돈 되는 짭짤한 일이라도 알려 주러 왔니?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001501_MSG0002",
+      "style": 1,
+      "name": "그렇다면 상관없지만……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001501_MSG0003",
+      "style": 1,
+      "name": "시시한 이야기를 하러 온 거면\n목숨은 보장 못 해[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001501_MSG1001",
+      "style": 1,
+      "name": "[ST:playername ], 잘 왔어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001501_MSG1002",
+      "style": 1,
+      "name": "너처럼 실력 있는 블레이드와\n같이 또 일하고 싶다고 생각했거든[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001501_MSG1003",
+      "style": 1,
+      "name": "……후훗, 정말이야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001501_JNK0010",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001501_SEL0011",
+      "style": 3,
+      "name": "머더레스를 멤버에 넣는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001501_JNK0020",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001501_SEL0021",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 11,
+      "label": "tev001501_MSG1004",
+      "style": 1,
+      "name": "걱정하지 마, 등 뒤에서 기습 안 할 테니까\n안심해[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001501_MSG1005",
+      "style": 1,
+      "name": "어머, 유감이네\n또 한바탕 벌 수 있을 줄 알았는데[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001501_MSG1010",
+      "style": 1,
+      "name": "뭐야, 외계인의 기동 병기 따위를 가지러\n굳이 위험한 곳까지 가는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001501_MSG1011",
+      "style": 1,
+      "name": "흐음…… 그런 수지에 안 맞는 임무\n나는 사양할게[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001501_MSG1016",
+      "style": 1,
+      "name": "흐음, 그 착한 애가 위기에 처했다고……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001501_MSG1017",
+      "style": 1,
+      "name": "그로우스 따위에게 당하는 것도 짜증 나니까\n구하러 갈 거면 도와줄 수도 있어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001501_JNK0070",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 18,
+      "label": "tev001501_SEL0071",
+      "style": 3,
+      "name": "머더레스를 멤버에 넣는다"
+    },
+    {
+      "$id": 19,
+      "label": "tev001501_JNK0080",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 20,
+      "label": "tev001501_SEL0081",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 21,
+      "label": "tev001501_MSG1018",
+      "style": 1,
+      "name": "바로 출발하자\n죽어 버리면 나한테 빚지게 만들 수가 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001501_MSG1019",
+      "style": 1,
+      "name": "이런, 모처럼 나한테 빚지게 할 기회였는데\n안타깝네[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001501_MSG1024",
+      "style": 1,
+      "name": "백목의 대륙까지 가면 아직 발견되지 않은\n보물을 찾아낼 가능성도 높아……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001501_MSG1025",
+      "style": 1,
+      "name": "그렇네, 도움이 필요하다면 같이 가 줄게\n감사하도록 해[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001501_JNK0090",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 26,
+      "label": "tev001501_SEL0091",
+      "style": 3,
+      "name": "머더레스를 멤버에 넣는다"
+    },
+    {
+      "$id": 27,
+      "label": "tev001501_JNK0100",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 28,
+      "label": "tev001501_SEL0101",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 29,
+      "label": "tev001501_MSG1026",
+      "style": 1,
+      "name": "자, 그런 위험한 곳에 가는 거니까\n그만큼 벌어들이고 와야지[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001501_MSG1027",
+      "style": 1,
+      "name": "꽤 강하게 나오는데?\n뭐, 이번만큼은 용서해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001501_MSG1032",
+      "style": 1,
+      "name": "또 반담 사령관이 내린 임무?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001501_MSG1033",
+      "style": 1,
+      "name": "뭘 하는지는 모르겠지만\n보수도 괜찮은 것 같으니, 도와줄 수도 있어[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001501_JNK0110",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 34,
+      "label": "tev001501_SEL0111",
+      "style": 3,
+      "name": "머더레스를 멤버에 넣는다"
+    },
+    {
+      "$id": 35,
+      "label": "tev001501_JNK0120",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 36,
+      "label": "tev001501_SEL0121",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 37,
+      "label": "tev001501_MSG1034",
+      "style": 1,
+      "name": "후훗, 임무에 성공하면 나한테도\n괜찮은 일을 넘기라고 사령관에게 전해 줘[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001501_MSG1035",
+      "style": 1,
+      "name": "어머, 유감이네\n또 한바탕 벌 수 있을 줄 알았는데[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001501_MSG1040",
+      "style": 1,
+      "name": "그런 타입은 한번 꽂히면\n무슨 일을 벌일지 모르니까[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001501_MSG1041",
+      "style": 1,
+      "name": "말도 안 되는 일을 저지르기 전에\n어떻게든 할 수밖에 없네[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001501_JNK0130",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 42,
+      "label": "tev001501_SEL0131",
+      "style": 3,
+      "name": "머더레스를 멤버에 넣는다"
+    },
+    {
+      "$id": 43,
+      "label": "tev001501_JNK0140",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 44,
+      "label": "tev001501_SEL0141",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 45,
+      "label": "tev001501_MSG1042",
+      "style": 1,
+      "name": "자, 그러면…… 오랜만에 몸이 근질근질한걸[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001501_MSG1043",
+      "style": 1,
+      "name": "호오…… 너처럼 순해 빠진 녀석이\n혼자 그 남자에게 뭘 어떻게 할 수 있을까?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001501_MSG1048",
+      "style": 1,
+      "name": "아무리 돈을 모아 봤자\n살아 있지 않으면 꿈은 꿀 수 없어……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001501_MSG1049",
+      "style": 1,
+      "name": "이 임무, 반드시 성공시킬 거야[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001501_JNK0150",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 50,
+      "label": "tev001501_SEL0151",
+      "style": 3,
+      "name": "머더레스를 멤버에 넣는다"
+    },
+    {
+      "$id": 51,
+      "label": "tev001501_JNK0160",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 52,
+      "label": "tev001501_SEL0161",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 53,
+      "label": "tev001501_MSG1051",
+      "style": 1,
+      "name": "센트럴 라이프는 천국인가 지옥인가……\n기대되네[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev001501_MSG1052",
+      "style": 1,
+      "name": "좋아, 그렇다면 반드시 임무를 성공시켜\n만약 실패하면……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001501_MSG1053",
+      "style": 1,
+      "name": "후훗, 지옥에서 다시 한번 죽여 줄 테니까[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev001501_MSG1058",
+      "style": 1,
+      "name": "오늘도 미라에는 돈벌이가 넘치고 있네[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev001501_MSG1059",
+      "style": 1,
+      "name": "이런 좋은 기회를 놓칠 수는 없지\n자, 같이 가자[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev001501_JNK0170",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 59,
+      "label": "tev001501_SEL0171",
+      "style": 3,
+      "name": "머더레스를 멤버에 넣는다"
+    },
+    {
+      "$id": 60,
+      "label": "tev001501_JNK0180",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 61,
+      "label": "tev001501_SEL0181",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 62,
+      "label": "tev001501_MSG1060",
+      "style": 1,
+      "name": "안심해, 방해하는 녀석은\n남김없이 치워 줄 테니까…… 말이야[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev001501_MSG1061",
+      "style": 1,
+      "name": "어머, 유감이네\n또 한바탕 벌 수 있을 줄 알았는데[ST:wait ]"
+    }
+  ]
+}

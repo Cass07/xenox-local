@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087705_MSG0001",
+      "style": 0,
+      "name": "이게 마지막 1대, 끝났네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087705_MSG0002",
+      "style": 0,
+      "name": "그래, 델그 전하에게 보고해야지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087705_MSG0003",
+      "style": 0,
+      "name": "너희들의 승리군, 지구인[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087705_MSG0004",
+      "style": 0,
+      "name": "우리를 앞지르다니, 대단하다고 해야 하나[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087705_MSG0005",
+      "style": 0,
+      "name": "지구의 전사들이여\n이 일은 우리의 잘못이 원흉이다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087705_MSG0006",
+      "style": 0,
+      "name": "사태 수습을 도와준 것\n이 델그, 결코 잊지 않겠다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087705_JNK0010",
+      "style": 4,
+      "name": "우호"
+    },
+    {
+      "$id": 8,
+      "label": "qev087705_SEL0011",
+      "style": 3,
+      "name": "친구끼리 신경 쓰지 말라며 웃는다"
+    },
+    {
+      "$id": 9,
+      "label": "qev087705_JNK0020",
+      "style": 4,
+      "name": "친교"
+    },
+    {
+      "$id": 10,
+      "label": "qev087705_SEL0021",
+      "style": 3,
+      "name": "곤란할 때는 도와 달라며 웃는다"
+    },
+    {
+      "$id": 11,
+      "label": "qev087705_MSG0007",
+      "style": 0,
+      "name": "그리고 별로 고생도 아니었어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087705_MSG0008",
+      "style": 0,
+      "name": "비록 당신들의 기체가 뛰어나다 해도\n타는 사람이 미숙해서는 성능을 끌어낼 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087705_MSG0009",
+      "style": 0,
+      "name": "당신들 라스인이 탔던 돌과 싸웠을 때만큼\n고생하진 않았어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087705_MSG0010",
+      "style": 0,
+      "name": "과분한 칭찬이군[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087705_MSG0011",
+      "style": 0,
+      "name": "좋다, 다음에는 우리가\n위기에 처한 벗에게 달려가지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087705_MSG0012",
+      "style": 0,
+      "name": "그대들에게 고생이 찾아올 날을\n손꼽아 기다리겠다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087705_MSG0013",
+      "style": 0,
+      "name": "그래, 그걸로 서로 빚은 없어지는 거야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087705_MSG0014",
+      "style": 0,
+      "name": "빚을 지고 있는 것은 좋아하지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087705_MSG0015",
+      "style": 0,
+      "name": "지구인이여, 빨리 궁지에 빠져 다오\n기대하고 있겠다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087705_MSG0016",
+      "style": 0,
+      "name": "정말~~ 그게 친구에게 할 말인가요![ST:wait ]"
+    }
+  ]
+}

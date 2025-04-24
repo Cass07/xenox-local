@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000893_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ][KR:Particle char=ya ]냐[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000893_MSG0002",
+      "style": 1,
+      "name": "오늘은 아직 남과 싸운 적 없어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000893_MSG0003",
+      "style": 1,
+      "name": "심심해서 잠깐 헌팅인가 하는 걸\n시도해 봤을 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000893_JNK0010",
+      "style": 4,
+      "name": "질문한다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000893_SEL0011",
+      "style": 3,
+      "name": "결과가 좋았는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000893_JNK0020",
+      "style": 4,
+      "name": "막는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000893_SEL0021",
+      "style": 3,
+      "name": "헌팅을 그만두라고 한다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000893_MSG0009",
+      "style": 1,
+      "name": "되는 게 전혀 없어서\n슬슬 총을 꺼내야 하나 고민하던 참이지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000893_MSG0010",
+      "style": 1,
+      "name": "이거 하나면 만사형통이잖아?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000893_JNK0110",
+      "style": 4,
+      "name": "지적한다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000893_SEL0111",
+      "style": 3,
+      "name": "그러면 범죄일 뿐이니 그만두라고 지적한다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000893_JNK0120",
+      "style": 4,
+      "name": "때린다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000893_SEL0121",
+      "style": 3,
+      "name": "이엘브를 때려서 말린다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000893_MSG0016",
+      "style": 1,
+      "name": "알았어, 알았다고[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000893_MSG0018",
+      "style": 1,
+      "name": "자, 잠깐, 때리지 마![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000893_MSG0019",
+      "style": 1,
+      "name": "네 표정을 보니 좋지 않은 행동 같군[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000893_MSG0021",
+      "style": 1,
+      "name": "영화에서 자주 보이길래\n별문제 없는 줄 알았는데 전혀 아닌가 보네……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000893_MSG0022",
+      "style": 1,
+      "name": "실행에 옮기기 전에 지적해 줘서 고맙다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000893_MSG0023",
+      "style": 1,
+      "name": "하여튼 엘레오노라도 너무하다니까[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000893_MSG0024",
+      "style": 1,
+      "name": "그 녀석, 지구의 문화를 공부하라면서\n영화를 보여 줬는데 말이지[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000893_MSG0025",
+      "style": 1,
+      "name": "대부분이 갱스터 영화더라고[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000893_MSG0026",
+      "style": 1,
+      "name": "옛 로스앤젤레스에서는 그런 영화 속 일들이\n일상적으로 일어나는 줄 알았다니까[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000893_MSG0027",
+      "style": 1,
+      "name": "엘레오노라한테 가서 좀 따져야겠어[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000893_MSG0028",
+      "style": 1,
+      "name": "너랑은 다음에 또 이야기할게[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000893_MSG0032",
+      "style": 1,
+      "name": "되는 것도 전혀 없고\n슬슬 질리기도 했으니\n네가 말 안 해도 그만둘 거야[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000893_MSG0033",
+      "style": 1,
+      "name": "애초에 엘레오노라가……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000893_MSG0034",
+      "style": 1,
+      "name": "「이엘브 씨는 [ST:playername ] 씨와\n저 이외의 사람과도 친해져야 해요」[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000893_MSG0035",
+      "style": 1,
+      "name": "「모르는 여성을 데리고 온다면\n다음 임무는 보수를 추가하죠」\n라고 말했는데……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000893_MSG0036",
+      "style": 1,
+      "name": "잘 생각해 보니까 엘레오노라는\n보수를 결정할 권한이 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000893_MSG0037",
+      "style": 1,
+      "name": "난 그 녀석의 심심풀이에\n이용당했을 뿐인 거지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000893_MSG0038",
+      "style": 1,
+      "name": "하여튼 말짱 어쩌고 같네……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000893_MSG0039",
+      "style": 1,
+      "name": "기분 전환 삼아 토벌 임무라도 가야겠다\n버설트를 조각내 주겠어[ST:wait ]"
+    }
+  ]
+}

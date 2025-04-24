@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055104_MSG0001",
+      "style": 1,
+      "name": "요즘 오버가 묘하게 술렁였던 것은\n이 상황으로 인한 것인가……?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055104_MSG0002",
+      "style": 1,
+      "name": "순오살라그여, 부디 무사하길……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055104_MSG0003",
+      "style": 1,
+      "name": "오버가 술렁인다……\n전에도 이런 감각을 느꼈었지……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev055104_MSG0004",
+      "style": 1,
+      "name": "그 후, 그로우스에게 동료가 처형당했네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev055104_MSG0005",
+      "style": 1,
+      "name": "무슨 일이 일어날지는 모르지만\n나아가는 길에 불길한 미래가 있다는 것을\n가르쳐 주시고 있는 게 틀림없다네[ST:wait ]"
+    }
+  ]
+}

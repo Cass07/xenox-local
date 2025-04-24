@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087101_MSG0001",
+      "style": 0,
+      "name": "누가 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087101_MSG0002",
+      "style": 0,
+      "name": "행정장관이 직접 블레이드 홈에 방문하다니\n별일이네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087101_MSG0003",
+      "style": 0,
+      "name": "이래 봬도 바쁜 몸이라서 말일세[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087101_MSG0004",
+      "style": 0,
+      "name": "하지만 자네 팀에\n꼭 부탁하고 싶은 게 있어 찾아왔다네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087101_MSG0005",
+      "style": 0,
+      "name": "모모모, 타츠의 능력을 눈여겨보다니\n역시 대단하다모, 뭐든지 말해 봐라모[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087101_MSG0006",
+      "style": 0,
+      "name": "음, 실은 그로우스에 대한\n감시 체제를 강화하고 싶네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087101_MSG0007",
+      "style": 0,
+      "name": "신경 쓰이는 일이라도 있으세요?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087101_MSG0008",
+      "style": 0,
+      "name": "그래, 최근 조금 이상한 사례가 보고되고 있네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087101_MSG0009",
+      "style": 0,
+      "name": "그로우스 간의 전투가 몇 건 관측되었어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087101_MSG0010",
+      "style": 0,
+      "name": "자기들끼리?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087101_MSG0010_2",
+      "style": 0,
+      "name": "다양한 종족이 소속되어 있는 만큼\n내분이 일어나기 쉽겠지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087101_MSG0011",
+      "style": 0,
+      "name": "그렇다네, 자세한 내막을 알 수 있으면\n우리에게 유익한 정보가 될 걸세[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087101_MSG0012",
+      "style": 0,
+      "name": "자네들은 당분간\n프런티어넷 확충에 힘써 줬으면 하네[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087101_MSG0013",
+      "style": 0,
+      "name": "알겠어\n행정장관의 정식 의뢰로서 맡을게[ST:wait ]"
+    }
+  ]
+}

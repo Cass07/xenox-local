@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012404_MSG0001",
+      "style": 1,
+      "name": "あなたがハワードの言ってた人？\n修理用の素材を集めてきてくれたってわけね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012404_MSG0002",
+      "style": 1,
+      "name": "そうそうこれこれ\nこれで破損したメインローターは\n修理できるんだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012404_MSG0003",
+      "style": 1,
+      "name": "実は私　修理の仕方よく知らないのよね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev012404_MSG0004",
+      "style": 1,
+      "name": "赤の線につなぐべきなのか\n青の線につなぐべきなのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev012404_MSG0005",
+      "style": 1,
+      "name": "正直なところどっちでもいいと思うんだけど\nハワードは君は無責任だとかうるさくって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev012404_MSG0006",
+      "style": 1,
+      "name": "さっきもケンカしてヘリの中から\n追い出されちゃったわけ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev012404_MSG0007",
+      "style": 1,
+      "name": "[ST:wide ]―あなた　修理お願いできる？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev012404_MSG0008",
+      "style": 1,
+      "name": "私が触って墜落したら文句言うだろうけど\nあなたになら言わないでしょ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev012404_MSG0009",
+      "style": 1,
+      "name": "いえ　墜落したら何も　もの言えないよね\nフフッ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev012404_MSG0010",
+      "style": 1,
+      "name": "さあ　メインローターを修理してきてよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev012404_MSG0011",
+      "style": 1,
+      "name": "赤の線につなぐべきなのか\n青の線につなぐべきなのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev012404_MSG0012",
+      "style": 1,
+      "name": "どっちが正解だったかは分からないけど\nなんにせよヘリは飛ぶと思うし\n適当によろしくね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev012404_MSG0013",
+      "style": 1,
+      "name": "修理は終わったみたいね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev012404_MSG0014",
+      "style": 1,
+      "name": "案外適当な素材でも動くものね[ST:wide ]―\nテールローターの調子も良くなったから\nこれで飛べそうよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev012404_MSG0015",
+      "style": 1,
+      "name": "ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev012404_MSG0016",
+      "style": 1,
+      "name": "あなたはヘリの修理はお手の物だし\nハワードよりも強いし[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev012404_MSG0017",
+      "style": 1,
+      "name": "[ST:wide ]―ロスコルは最高のブレイドを\n寄越してくれたみたいね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev012404_MSG0018",
+      "style": 1,
+      "name": "報酬はNLAに着いたら払うわ\nロスコルがいた場所で落ち合いましょう[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev012404_MSG0019",
+      "style": 1,
+      "name": "[ST:wide ]―さて\n今度は大ゲンカにならなければいいけど[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev012404_MSG0022",
+      "style": 1,
+      "name": "あなたがハワードの言ってた人？\nでも　修理用の素材はまだ集めてないみたいね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev012404_MSG0023",
+      "style": 1,
+      "name": "新式無水ラジエーターは\n原初の荒野で手に入るらしいわ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev012404_MSG0024",
+      "style": 1,
+      "name": "球体電磁モーターは　夜光の森の大杭岩から\n北東に広がる岩山一帯で見つかるそうよ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev012404_MSG0025",
+      "style": 1,
+      "name": "……現地調達も楽じゃないわね[ST:wait ]"
+    }
+  ]
+}

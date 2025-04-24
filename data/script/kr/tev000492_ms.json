@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000492_MSG0001",
+      "style": 1,
+      "name": "안녕하세요, [ST:playername ] 씨\n이른 아침부터 고생 많으시네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000492_MSG0002",
+      "style": 1,
+      "name": "산책 중인가요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000492_MSG0003",
+      "style": 1,
+      "name": "저는 보시다시피 종합 생산 플랜트를\n시찰하고 있었습니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000492_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 5,
+      "label": "tev000492_SEL0011",
+      "style": 3,
+      "name": "HB에게 컴패니언이었냐고 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000492_JNK0020",
+      "style": 4,
+      "name": "칭찬"
+    },
+    {
+      "$id": 7,
+      "label": "tev000492_SEL0021",
+      "style": 3,
+      "name": "블레이드 본부의 업무를 맡다니\n대단하다며 칭찬한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000492_MSG0004",
+      "style": 1,
+      "name": "진보라고는 없네요……\n솔직히 조금 식상한데요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000492_MSG0005",
+      "style": 1,
+      "name": "저는 패스파인더라고요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000492_MSG0006",
+      "style": 1,
+      "name": "역시 당신도 엘리트군요\n감이 좋아요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000492_MSG0007",
+      "style": 1,
+      "name": "외계인들이 NLA에 온 후로\n이 종합 생산 플랜트는 밤낮없이\n계속 가동 중이라고 들었거든요……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000492_MSG0008",
+      "style": 1,
+      "name": "만약 사고라도 일어나면 블레이드도\nNLA 시민들도 외계인들도 모두\n큰 문제를 겪겠죠[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000492_MSG0009",
+      "style": 1,
+      "name": "너무 바쁘면 주변을 보지 못하는 법이니까요\n제삼자가 체크해 줘야죠[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000492_MSG0010",
+      "style": 1,
+      "name": "뭐, 그런 걱정이 들어서 보러 온 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000492_JNK0030",
+      "style": 4,
+      "name": "확인"
+    },
+    {
+      "$id": 16,
+      "label": "tev000492_SEL0031",
+      "style": 3,
+      "name": "플랜트의 현재 상태를 확인한다"
+    },
+    {
+      "$id": 17,
+      "label": "tev000492_JNK0040",
+      "style": 4,
+      "name": "협력"
+    },
+    {
+      "$id": 18,
+      "label": "tev000492_SEL0041",
+      "style": 3,
+      "name": "무언가 도울 일은 없느냐며\n협력하겠다고 나선다"
+    },
+    {
+      "$id": 19,
+      "label": "tev000492_MSG0011",
+      "style": 1,
+      "name": "걱정하실 필요 없어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000492_MSG0012",
+      "style": 1,
+      "name": "다들 프로페셔널이거든요\n제 걱정은 기우일 뿐이던데요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000492_MSG0013",
+      "style": 1,
+      "name": "피자 생산량이 2000% 정도\n폭발적으로 증가한 것만 빼면\n큰 문제는 없었습니다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000492_MSG0014",
+      "style": 1,
+      "name": "신경 써 주셔서 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000492_MSG0015",
+      "style": 1,
+      "name": "하지만 돕지 않으셔도 돼요\n제가 나설 필요조차 없던데요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000492_MSG0016",
+      "style": 1,
+      "name": "피자 생산량이 2000% 정도\n증가하기는 했지만\n다들 프로페셔널이거든요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000492_MSG0017",
+      "style": 1,
+      "name": "수요가 적은 것의 우선순위를 낮춰서\n생산을 적절히 조절하고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000492_MSG0018",
+      "style": 1,
+      "name": "자, 저는 이제 블레이드 본부에\n보고하러 가겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000492_MSG0019",
+      "style": 1,
+      "name": "당신은 최근 순풍에 돛을 단 기세지만\n그러다가 주변의 가까운 문제를\n놓치지 않게 조심하세요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000492_MSG0020",
+      "style": 1,
+      "name": "그럼 임무 때 또 만나죠[ST:wait ]"
+    }
+  ]
+}

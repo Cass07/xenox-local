@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087006_MSG0001",
+      "style": 0,
+      "name": "오우, 이걸 분석하면 되는 거징?\n쉬워, 쉬워, 베리 이지![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087006_MSG0002",
+      "style": 0,
+      "name": "당신들밖에 의지할 데가 없어\n고마워[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087006_MSG0003",
+      "style": 0,
+      "name": "엘마 씨는 생명의 은인이잖앙!\n도움이 될 수 있어서 베리 베리 해피양![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087006_MSG0004",
+      "style": 0,
+      "name": "분석 결과는 모리스 행정장관님에게\n직접 보고해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087006_MSG0005",
+      "style": 0,
+      "name": "알았엉![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087006_MSG0006",
+      "style": 0,
+      "name": "자, 행정장관에게 보고하자[ST:wait ]"
+    }
+  ]
+}

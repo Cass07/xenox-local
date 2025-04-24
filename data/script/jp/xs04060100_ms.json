@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04060100_MSG0001",
+      "style": 0,
+      "name": "みっ　みなさん　誰かいるですも！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04060100_JNK0010",
+      "style": 4,
+      "name": "警戒"
+    },
+    {
+      "$id": 3,
+      "label": "xs04060100_SEL0011",
+      "style": 3,
+      "name": "リンを庇うように前に出る"
+    },
+    {
+      "$id": 4,
+      "label": "xs04060100_JNK0020",
+      "style": 4,
+      "name": "弱気"
+    },
+    {
+      "$id": 5,
+      "label": "xs04060100_SEL0021",
+      "style": 3,
+      "name": "リンの後ろにそっと下がる"
+    },
+    {
+      "$id": 6,
+      "label": "xs04060100_MSG0002",
+      "style": 0,
+      "name": "ちょ　ちょっと　邪魔です！\n前が見えません！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs04060100_MSG0003",
+      "style": 0,
+      "name": "任せてください！\n私が護ります！[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs04060100_MSG0004",
+      "style": 0,
+      "name": "異星人？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs04060100_MSG0005",
+      "style": 0,
+      "name": "バイアス人では[ST:wide ]―　なさそうですね[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs04060100_MSG0006",
+      "style": 0,
+      "name": "おお　あんな野蛮な方々と一緒にされてしまう\nなんてヒドイ　ヒドすぎます[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs04060100_MSG0008",
+      "style": 0,
+      "name": "あなたは？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs04060100_MSG0009",
+      "style": 0,
+      "name": "私の個体名はル・シルフェ\n気安くルーとお呼びください[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs04060100_MSG0010",
+      "style": 0,
+      "name": "そこのノポンのお方同様\nこの星に古くから暮らす者です[ST:wait ]\n"
+    }
+  ]
+}

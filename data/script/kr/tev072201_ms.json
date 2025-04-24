@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev072201_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev072201_SEL0011",
+      "style": 3,
+      "name": "오버에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev072201_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev072201_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev072201_MSG0001",
+      "style": 1,
+      "name": "먼 옛날부터 힘이 약한 오르페인은\n오버의 인도를 받아[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev072201_MSG0002",
+      "style": 1,
+      "name": "적으로부터 달아나고, 진화하여\n지금까지 살아남았습니다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev072201_MSG0003",
+      "style": 1,
+      "name": "그것은 저도 이 신체에 흐르는 것을\n감지하면 알 수 있습니다만……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev072201_MSG0004",
+      "style": 1,
+      "name": "그걸로 저희는 정말로 올바른 곳에\n도달할 수 있을까요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev072201_MSG0005",
+      "style": 1,
+      "name": "……모두가 그런 건 아니지만\n저희 β체 중에는 오버에 대해\n의문을 품는 자도 있는 모양이더군요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev072201_MSG0010",
+      "style": 1,
+      "name": "온오토남에게서 태어난 뒤로……\n제게는 줄곧 강렬한 위화감이 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev072201_MSG0011",
+      "style": 1,
+      "name": "그게 무엇인지는 모릅니다……\n알고 있는 건, 이 상태로는 안 된다\n라는 절박감뿐[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev072201_MSG0012",
+      "style": 1,
+      "name": "오버는 아무런 답도 해 주지 않습니다\n오르페인에게 물어도 이해조차 해 주지 않습니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev072201_MSG0013",
+      "style": 1,
+      "name": "아아……\n저는 어찌하면 좋을까요……[ST:wait ]"
+    }
+  ]
+}

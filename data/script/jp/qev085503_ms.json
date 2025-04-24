@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085503_MSG0001",
+      "style": 0,
+      "name": "ええっ！？　これって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085503_MSG0002",
+      "style": 0,
+      "name": "覚えてる？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085503_MSG0003",
+      "style": 0,
+      "name": "当然ですよ　軍に入った時に\n一番最初に支給された銃ですから[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085503_MSG0004",
+      "style": 0,
+      "name": "でも　本当にこれを使うんですか？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085503_MSG0005",
+      "style": 0,
+      "name": "ええ　しばらくの間は\nこれ以外は使用禁止よ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085503_MSG0006",
+      "style": 0,
+      "name": "でも　これじゃ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085503_MSG0007",
+      "style": 0,
+      "name": "エルマさんが選んだんですよ\nグインさんのために[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085503_MSG0008",
+      "style": 0,
+      "name": "大佐が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085503_MSG0009",
+      "style": 0,
+      "name": "ありがとうございます\nしばらくこれを使ってみます[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085503_MSG0010",
+      "style": 0,
+      "name": "任務を受けてきたから早速行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085503_MSG0011",
+      "style": 0,
+      "name": "えっ　いきなり！？\nしかも　３つもですか！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085503_MSG0012",
+      "style": 0,
+      "name": "さぁ　グズグズしない！\nさっさと行く！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085503_MSG0013",
+      "style": 0,
+      "name": "はっ　はい！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085503_MSG0014",
+      "style": 0,
+      "name": "もも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085503_JNK0010",
+      "style": 4,
+      "name": "戦慄"
+    },
+    {
+      "$id": 16,
+      "label": "qev085503_SEL0011",
+      "style": 3,
+      "name": "鬼教官[ST:wide ]―　ぼそりとつぶやく"
+    },
+    {
+      "$id": 17,
+      "label": "qev085503_JNK0020",
+      "style": 4,
+      "name": "意見"
+    },
+    {
+      "$id": 18,
+      "label": "qev085503_SEL0021",
+      "style": 3,
+      "name": "これは厳しすぎだと口を挟む"
+    },
+    {
+      "$id": 19,
+      "label": "qev085503_MSG0015",
+      "style": 0,
+      "name": "そうですも　鬼教官ですも！\nエルマさん　急にどうしたんですも？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085503_MSG0016",
+      "style": 0,
+      "name": "訓練所の時を思い出すな\nエルマ大佐　厳しいので有名だったからな[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085503_MSG0017",
+      "style": 0,
+      "name": "いいえ　違います\nこれはいわゆる　愛のムチというやつです！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085503_MSG0018",
+      "style": 0,
+      "name": "それならいいんだけどね\n訓練所にいた時は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085503_MSG0019",
+      "style": 0,
+      "name": "そこっ　無駄話するな！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085503_MSG0020",
+      "style": 0,
+      "name": "は　はい！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085503_MSG0021",
+      "style": 1,
+      "name": "僕に最適な武器[ST:wide ]―\nエルマ大佐が選んでくれるんですから\nきっとすごい武器に違いないはずですよね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085503_MSG0022",
+      "style": 1,
+      "name": "えっ？　このスーツは最適なのかって？\nははっ　これは訓練用ですよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085503_MSG0023",
+      "style": 1,
+      "name": "任務に行く時は\nいつもの装備に着替えますから\n安心してください！[ST:wait ]"
+    }
+  ]
+}

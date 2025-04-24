@@ -1,0 +1,390 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev016101_MSG0001",
+      "style": 1,
+      "name": "들어 봐! 벌써 지구에서 가지고 온\n자재도 바닥나고 있는 마당에……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev016101_MSG0002",
+      "style": 1,
+      "name": "미라늄 발굴량이 이래서야\nNLA를 유지할 수 없어![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev016101_MSG0003",
+      "style": 1,
+      "name": "그래…… 당신들이 필사적으로 일하는 건 알아!\n그건 알지만…… 이대로는![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev016101_MSG0004",
+      "style": 1,
+      "name": "……앗, 신입……\n이야기한 대로 또 와 주었구나[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev016101_MSG0005",
+      "style": 1,
+      "name": "미안해……\n신입 앞에서 꼴사나운 모습을 보이고 말았네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev016101_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 7,
+      "label": "qev016101_SEL0011",
+      "style": 3,
+      "name": "무슨 일이 있었는지 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "qev016101_JNK0020",
+      "style": 4,
+      "name": "냉소"
+    },
+    {
+      "$id": 9,
+      "label": "qev016101_SEL0021",
+      "style": 3,
+      "name": "힘들수록 냉정해지라고 설파한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev016101_MSG0006",
+      "style": 1,
+      "name": "그렇네, 당신에게도 남 일이 아니니까\n이 기회에 강의하는 편이 좋겠어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev016101_MSG0007",
+      "style": 1,
+      "name": "미라에 불시착한 지 수개월 만에\n흰고래에 실려 있던 자원이 바닥나기 시작했어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev016101_MSG0008",
+      "style": 1,
+      "name": "지금 NLA는 프런티어넷에서 얻을 수 있는\n자원을 활용해서 부흥 작업 중이야[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev016101_MSG0009",
+      "style": 1,
+      "name": "그러니 사람들의 안정된 생활을 위해\n한시라도 빨리 많은 미라늄을\n확보해야 하는데[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev016101_MSG0010",
+      "style": 1,
+      "name": "데이터 프로브 설치의 진척이 더뎌서……\n어떻게 해야 할지 고민하던 참이야[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev016101_MSG0011",
+      "style": 1,
+      "name": "……저기, 신입, 당신이라면 할 수 있지 않아?\n다들 바빠서 여러 일거리가 방치되어 있거든[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev016101_MSG0012",
+      "style": 1,
+      "name": "이 [ST:gender p1=누님 p2=언니 ][KR:Particle char=wo ] 가르치려 들다니\n아주 대단한 인물 나셨군[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev016101_MSG0013",
+      "style": 1,
+      "name": "좋아, 당신이 그렇게 잘났다면\n이 임무를 전부 맡겨도 되겠네[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev016101_MSG0014",
+      "style": 1,
+      "name": "미라늄 750gm 획득과……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev016101_MSG0015",
+      "style": 1,
+      "name": "원초의 황야에서 패스파인더의 임무를\n방해하고 있는 주니어 시미우스 토벌[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev016101_MSG0016",
+      "style": 1,
+      "name": "그리고 이쪽은 특별 임무이기는 한데\n데이터 유닛 FN093이라고 하는\n미라에 낙하한 기밀 데이터를 회수해 줘[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev016101_MSG0017",
+      "style": 1,
+      "name": "계산이 틀리지 않다면 아마 이것도\n원초의 황야 어딘가에 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev016101_MSG0018",
+      "style": 1,
+      "name": "어때? 보수라면 충분히 줄 수 있어\n도전해 보지 않을래?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev016101_MSG0019",
+      "style": 1,
+      "name": "고마워, 미라늄을 얻으려면\n데이터 프로브를 설치해야 하니까[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev016101_MSG0020",
+      "style": 1,
+      "name": "원초의 황야의 프런티어넷을 확장하면서\n다른 임무도 수행하는 편이 효율적일 거야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev016101_MSG0021",
+      "style": 1,
+      "name": "기억해 두도록 해, 신입\n이게 패스파인더류 임무 수행 방식이야[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev016101_JNK0030",
+      "style": 4,
+      "name": "수긍"
+    },
+    {
+      "$id": 27,
+      "label": "qev016101_SEL0031",
+      "style": 3,
+      "name": "커스티의 조언을\n얌전히 받아들인다"
+    },
+    {
+      "$id": 28,
+      "label": "qev016101_JNK0040",
+      "style": 4,
+      "name": "거부"
+    },
+    {
+      "$id": 29,
+      "label": "qev016101_SEL0041",
+      "style": 3,
+      "name": "신입 취급은 그만하라며\n얼굴을 찌푸린다"
+    },
+    {
+      "$id": 30,
+      "label": "qev016101_MSG0022",
+      "style": 1,
+      "name": "태도가 보기 좋네\n그게 당신의 장점이지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev016101_MSG0023",
+      "style": 1,
+      "name": "하지만 이 정도로 큰일을 해낸다면\n더는 신입 취급하지 않을게[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev016101_MSG0024",
+      "style": 1,
+      "name": "어엿한 블레이드로 인정해 주겠어\n열심히 하고 와![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev016101_MSG0025",
+      "style": 1,
+      "name": "어머, 벌써 전문가처럼 구네?\n그렇다면야……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev016101_MSG0026",
+      "style": 1,
+      "name": "이 정도로 큰일을 해낸다면\n더는 신입 취급하지 않을게[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev016101_MSG0027",
+      "style": 1,
+      "name": "어엿한 블레이드로 인정해 주겠어\n그러니 힘내![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev016101_MSG0028",
+      "style": 1,
+      "name": "프런티어넷과 당신의 힘으로\nNLA 사람들을 구하는 거야![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev016101_MSG0029",
+      "style": 1,
+      "name": "미라늄을 750gm이나\n모으는 건 힘들겠지만[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev016101_MSG0030",
+      "style": 1,
+      "name": "프런티어넷을 잘 이용하면\n분명 획득할 수 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev016101_MSG0031",
+      "style": 1,
+      "name": "이 NLA를 올바른 모습으로 되돌리기 위해\n함께 열심히 해 보자![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev016101_MSG0032",
+      "style": 1,
+      "name": "어때, 미라늄 수집은 잘되고 있어?\n750gm 정도라면 당분간은\n버틸 수 있을 것 같은데……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev016101_MSG0033",
+      "style": 1,
+      "name": "고마워!\n바로 각 기업과 부서에 배부할게[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev016101_MSG0034",
+      "style": 1,
+      "name": "이제 원초의 황야에서의 남은 임무도\n지금 같은 느낌으로 부탁해[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev016101_MSG0035",
+      "style": 1,
+      "name": "미라늄은 이걸로 충분해[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev016101_MSG0036",
+      "style": 1,
+      "name": "이제 원초의 황야에서의 남은 임무도\n지금 같은 느낌으로 부탁해[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev016101_MSG0037",
+      "style": 1,
+      "name": "후우…… 모두가 노력해 준 덕분에\n프런티어넷도 서서히 확장되고 있어[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev016101_MSG0038",
+      "style": 1,
+      "name": "……그래서, 그쪽은 어때?\n내가 부탁한 일은 어떻게 됐어?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev016101_JNK0050",
+      "style": 4,
+      "name": "자부"
+    },
+    {
+      "$id": 48,
+      "label": "qev016101_SEL0051",
+      "style": 3,
+      "name": "자랑하듯 의뢰를\n마쳤다고 보고한다"
+    },
+    {
+      "$id": 49,
+      "label": "qev016101_JNK0060",
+      "style": 4,
+      "name": "냉정"
+    },
+    {
+      "$id": 50,
+      "label": "qev016101_SEL0061",
+      "style": 3,
+      "name": "의뢰를 마쳤다고\n담담히 보고한다"
+    },
+    {
+      "$id": 51,
+      "label": "qev016101_MSG0039",
+      "style": 1,
+      "name": "미라늄 수도 충분하고\n임무도 완벽하게 마쳤어……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev016101_MSG0040",
+      "style": 1,
+      "name": "후후, 가슴 펴도 돼!\n당신은 훌륭히 일을 해냈으니까[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev016101_MSG0041",
+      "style": 1,
+      "name": "미라늄 수도 충분하고\n임무도 완벽하게 마쳤어……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev016101_MSG0042",
+      "style": 1,
+      "name": "마치 당연한 일이라는 듯이 말하지만\n이건 신입이 쉽게 해낼 수 있는 일이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev016101_MSG0043",
+      "style": 1,
+      "name": "정말로 덕분에 살았어\n이제 막혀 있던 NLA 부흥도 진척이 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev016101_MSG0044",
+      "style": 1,
+      "name": "좋아…… 오늘부터 당신을\n어엿한 블레이드로 인정해 주겠어[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev016101_MSG0045",
+      "style": 1,
+      "name": "[ST:playername ], 다시금 잘 부탁해\n이건 보수야, 다음에 또 함께 일해 보자[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev016101_JNK0070",
+      "style": 4,
+      "name": "건네준다[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev016101_SEL0071",
+      "style": 3,
+      "name": "미라늄 750gm을 건네준다[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev016101_JNK0080",
+      "style": 4,
+      "name": "건네주지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev016101_SEL0081",
+      "style": 3,
+      "name": "아직은 건네주지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev016101_MSG0046",
+      "style": 1,
+      "name": "이러는 동안에도 NLA의 미라늄은\n점점 줄어들고 있어……\n시간이 많지 않아, 서둘러 줘[ST:wait ]"
+    }
+  ]
+}

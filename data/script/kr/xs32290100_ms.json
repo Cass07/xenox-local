@@ -1,0 +1,414 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32290100_MSG0010",
+      "style": 0,
+      "name": "저 녀석인 것 같군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32290100_MSG0020",
+      "style": 0,
+      "name": "테드 맞아?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32290100_MSG0030",
+      "style": 0,
+      "name": "엘마 팀 여러분![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32290100_MSG0040",
+      "style": 0,
+      "name": "여기는 어쩐 일로?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32290100_MSG0050",
+      "style": 0,
+      "name": "에릭의 의뢰로 당신을 찾으러 왔어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32290100_MSG0060",
+      "style": 0,
+      "name": "대장이……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32290100_MSG0070",
+      "style": 0,
+      "name": "죄송합니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32290100_MSG0080",
+      "style": 0,
+      "name": "저 같은 걸 위해서 이런 곳까지……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32290100_MSG0090",
+      "style": 0,
+      "name": "솔직히 말할게[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32290100_MSG0100",
+      "style": 0,
+      "name": "계획에 변경은 없어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32290100_MSG0110",
+      "style": 0,
+      "name": "NLA로 돌아갈 생각은 있어?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32290100_MSG0120",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "xs32290100_MSG0130",
+      "style": 0,
+      "name": "지금 당신의 행동은[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32290100_MSG0140",
+      "style": 0,
+      "name": "직무 유기라는 복무규율 위반 행위야[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32290100_MSG0150",
+      "style": 0,
+      "name": "우리는 당신을 연행할 수도 있어[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32290100_MSG0160",
+      "style": 0,
+      "name": "……역시 납득이 안 돼요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32290100_MSG0170",
+      "style": 0,
+      "name": "동식물을 데려가지 않는 게 말이야?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32290100_MSG0180",
+      "style": 0,
+      "name": "맞아요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32290100_MSG0190",
+      "style": 0,
+      "name": "하지만 현실적으로\n어렵다는 것 정도는 알고 있겠지?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32290100_MSG0200",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32290100_MSG0210",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32290100_MSG0220",
+      "style": 0,
+      "name": "이 미라를 키워 온 존재들이에요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32290100_MSG0230",
+      "style": 0,
+      "name": "우리가 오기 전부터 계속……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32290100_MSG0240",
+      "style": 0,
+      "name": "우리가 온 탓에……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32290100_MSG0250",
+      "style": 0,
+      "name": "모두 이 대지에서 사라지는 거예요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32290100_MSG0260",
+      "style": 0,
+      "name": "그러니까 적어도 저만이라도 함께……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32290100_JNK0010",
+      "style": 4,
+      "name": "존중"
+    },
+    {
+      "$id": 28,
+      "label": "xs32290100_SEL0010",
+      "style": 3,
+      "name": "테드에게 동의한다"
+    },
+    {
+      "$id": 29,
+      "label": "xs32290100_MSG0270",
+      "style": 0,
+      "name": "테드 씨의 마음이\n가장 중요하다고 생각해요……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32290100_MSG0280",
+      "style": 0,
+      "name": "그래도……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32290100_MSG0290",
+      "style": 0,
+      "name": "말로 잘 표현할 수는 없지만[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32290100_MSG0300",
+      "style": 0,
+      "name": "테드 씨를 생각하는 사람들도 있다는 걸\n잊지 말아 주셨으면 해요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32290100_JNK0020",
+      "style": 4,
+      "name": "숙고"
+    },
+    {
+      "$id": 34,
+      "label": "xs32290100_SEL0020",
+      "style": 3,
+      "name": "다시 생각해 보라고 한다"
+    },
+    {
+      "$id": 35,
+      "label": "xs32290100_MSG0310",
+      "style": 0,
+      "name": "그렇네[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs32290100_MSG0320",
+      "style": 0,
+      "name": "당신의 생각이 중요하다는 것에 변함은 없어[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs32290100_MSG0330",
+      "style": 0,
+      "name": "우리도 그걸 존중해[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs32290100_MSG0340",
+      "style": 0,
+      "name": "그렇지만[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs32290100_MSG0350",
+      "style": 0,
+      "name": "당신을 이곳에 남기고\n떠나는 사람들이 있다는 것도 잊지 마[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs32290100_MSG0360",
+      "style": 0,
+      "name": "[ST:undisp ]……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs32290100_MSG0370",
+      "style": 0,
+      "name": "뭐, 너도 여러 고민 끝에\n여기로 온 거겠지[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs32290100_MSG0380",
+      "style": 0,
+      "name": "죄송합니다[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs32290100_MSG0390",
+      "style": 0,
+      "name": "어떻게 할 수 있는 일이\n아니라는 건 알고 있어요……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs32290100_MSG0400",
+      "style": 0,
+      "name": "유전자 정보를 가져가면\n안 되냐모?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs32290100_MSG0410",
+      "style": 0,
+      "name": "미라의 동식물 유전자 정보 말이야?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs32290100_MSG0420",
+      "style": 0,
+      "name": "그렇다모[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs32290100_MSG0430",
+      "style": 0,
+      "name": "안 되는 건 아니겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs32290100_MSG0440",
+      "style": 0,
+      "name": "그렇구나[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs32290100_MSG0450",
+      "style": 0,
+      "name": "타츠는 지구종 범이민 계획과 같은 요령으로[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs32290100_MSG0460",
+      "style": 0,
+      "name": "미라의 동식물 유전자 정보를\n가져가자는 말이지?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs32290100_MSG0470",
+      "style": 0,
+      "name": "역시 엘마 씨다모![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs32290100_MSG0480",
+      "style": 0,
+      "name": "바로 그거다모![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs32290100_MSG0490",
+      "style": 0,
+      "name": "마음이 통해서 타츠는 기쁘다모![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs32290100_MSG0500",
+      "style": 0,
+      "name": "너, 노폰 주제에 좋은 말을 하는구나[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs32290100_MSG0510",
+      "style": 0,
+      "name": "「노폰 주제에」는 빼도 된다모![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs32290100_MSG0520",
+      "style": 0,
+      "name": "시간이 한정되어 있으니까\n모든 종을 모을 수는 없겠지만[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs32290100_MSG0530",
+      "style": 0,
+      "name": "어때?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs32290100_MSG0540",
+      "style": 0,
+      "name": "저희도 도울게요![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs32290100_MSG0550",
+      "style": 0,
+      "name": "네, 찬성이에요[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs32290100_MSG0560",
+      "style": 0,
+      "name": "조금이라도 이 미라가 있었다는 증거를\n다음 세대에게 남길 수 있다면[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs32290100_MSG0570",
+      "style": 0,
+      "name": "할 수 있는 건 모두 하고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs32290100_MSG0580",
+      "style": 0,
+      "name": "야광의 숲은 제가 모을 테니\n다른 대륙을 부탁드려도 될까요?[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs32290100_MSG0590",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs32290100_MSG0600",
+      "style": 0,
+      "name": "원초의 황야에서 채취할 유전자 정보의\n위치 좌표를 보냈어요[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs32290100_MSG0610",
+      "style": 0,
+      "name": "잘 부탁드립니다[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs32290100_MSG0620",
+      "style": 0,
+      "name": "가자[ST:wait ]"
+    }
+  ]
+}

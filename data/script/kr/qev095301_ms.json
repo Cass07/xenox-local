@@ -1,0 +1,276 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095301_MSG0001",
+      "style": 1,
+      "name": "마침 필요할 때 와 줬네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095301_MSG0002",
+      "style": 1,
+      "name": "당신 블레이드 홈에 찾아가려고 했거든[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095301_MSG0003",
+      "style": 1,
+      "name": "모리스 행정장관님께서\n극비 임무를 맡기셨어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev095301_MSG0004",
+      "style": 1,
+      "name": "잠시 시간을 내어 줘[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev095301_MSG0005",
+      "style": 1,
+      "name": "야광의 숲을 조사하던\n컬렉피디언에게서 들어온 정보야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev095301_MSG0006",
+      "style": 1,
+      "name": "죽은 자의 계곡 입구에\n그로우스가 집결해 있었다고 해[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev095301_MSG0007",
+      "style": 1,
+      "name": "아무래도 조사를 하기 위한\n장비를 갖춘 것 같다던데……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095301_MSG0008",
+      "style": 1,
+      "name": "저번에 당신이 회수한 대형 돌 이외에도\n무언가 중요한 게 있을지도 모른다고[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095301_MSG0009",
+      "style": 1,
+      "name": "모리스 행정장관님은 생각하고 계셔[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095301_MSG0010",
+      "style": 1,
+      "name": "당신이 어떻게든 그로우스의 목적을\n알아내 주었으면 해[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095301_JNK0010",
+      "style": 4,
+      "name": "받아들인다"
+    },
+    {
+      "$id": 12,
+      "label": "qev095301_SEL0011",
+      "style": 3,
+      "name": "반드시 임무를 달성하겠다고 맹세한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev095301_JNK0020",
+      "style": 4,
+      "name": "거절한다"
+    },
+    {
+      "$id": 14,
+      "label": "qev095301_SEL0021",
+      "style": 3,
+      "name": "그 무서운 곳에는\n가고 싶지 않다고 말한다"
+    },
+    {
+      "$id": 15,
+      "label": "qev095301_JNK0030",
+      "style": 4,
+      "name": "질문한다"
+    },
+    {
+      "$id": 16,
+      "label": "qev095301_SEL0031",
+      "style": 3,
+      "name": "보수는 얼마냐고 묻는다"
+    },
+    {
+      "$id": 17,
+      "label": "qev095301_MSG0011",
+      "style": 1,
+      "name": "대답이 시원시원해서 좋네[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev095301_MSG0012",
+      "style": 1,
+      "name": "모리스 행정장관님이\n마음에 들어 하는 이유를 알겠어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev095301_MSG0013",
+      "style": 1,
+      "name": "임무 내용은 이거야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev095301_MSG0014",
+      "style": 1,
+      "name": "당신은 B.B.잖아?\n생명체에만 반응하는 원시 생물을\n두려워할 필요는 없을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev095301_MSG0015",
+      "style": 1,
+      "name": "모리스 행정장관님은 이 임무를\n다른 누군가에게 맡길 생각이 없는 것 같았어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095301_MSG0016",
+      "style": 1,
+      "name": "우수한 블레이드인 당신이 꼭 필요해[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095301_MSG0017",
+      "style": 1,
+      "name": "그런데도 거절할 생각이야?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095301_MSG0018",
+      "style": 1,
+      "name": "역시 프로페셔널이네[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095301_MSG0019",
+      "style": 1,
+      "name": "합당한 돈만 주면\n무슨 일이든 한다니 말이야[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095301_MSG0020",
+      "style": 1,
+      "name": "이 금액이면 충분할까?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev095301_MSG0021",
+      "style": 1,
+      "name": "거절할 줄이야……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095301_MSG0022",
+      "style": 1,
+      "name": "하지만 행정장관님은 한 푼도\n추가해 줄 생각 없는 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev095301_MSG0023",
+      "style": 1,
+      "name": "생각이 바뀌면 다시 말해 줘[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev095301_MSG0024",
+      "style": 1,
+      "name": "행정장관님은 이 임무를 다른 누군가에게\n맡길 생각이 없는 것 같거든[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev095301_MSG0025",
+      "style": 1,
+      "name": "이전에 간 적 있는 곳이니까\n길을 잃지는 않겠지만, 그래도 조심해[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev095301_MSG0026",
+      "style": 1,
+      "name": "좋은 소식 기다릴게[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev095301_MSG0027",
+      "style": 1,
+      "name": "설마 빈손으로 돌아온 거야?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev095301_MSG0028",
+      "style": 1,
+      "name": "모리스 행정장관님이 바라는 건 성과뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev095301_MSG0029",
+      "style": 1,
+      "name": "그로우스 녀석들이 뭘 하려는 건지\n알아낸 다음에 돌아와 줘[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev095301_MSG0030",
+      "style": 1,
+      "name": "좋은 소식 기다릴게[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev095301_MSG0031",
+      "style": 1,
+      "name": "어서 와\n모리스 행정장관님께서 기대한 것\n이상의 성과를 가지고 온 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev095301_MSG0032",
+      "style": 1,
+      "name": "그로우스에 예속되어 있던 자르보가인을\n구해 낸 건 찬사받아 마땅한 일이라며\n크게 기뻐하시더라고[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev095301_MSG0033",
+      "style": 1,
+      "name": "이건 보수야[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev095301_MSG0034",
+      "style": 1,
+      "name": "지금 그들은 검역 절차를 진행 중이야\n절차에 문제가 없다면\n이 도시에서 살게 되겠지[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev095301_MSG0035",
+      "style": 1,
+      "name": "당신에게 정말 고마워했으니까\n나중에 만나러 가 주도록 해[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev095301_MSG0036",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "qev095301_MSG0037",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

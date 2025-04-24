@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050304_MSG0010",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050304_JNK0010",
+      "style": 4,
+      "name": "말을 건다"
+    },
+    {
+      "$id": 3,
+      "label": "qev050304_SEL0011",
+      "style": 3,
+      "name": "멍하니 있는 게 쥬에게 말을 건다"
+    },
+    {
+      "$id": 4,
+      "label": "qev050304_JNK0020",
+      "style": 4,
+      "name": "도우러 간다"
+    },
+    {
+      "$id": 5,
+      "label": "qev050304_SEL0021",
+      "style": 3,
+      "name": "게 쥬를 구하기 위해\n임전 태세를 갖춘다"
+    },
+    {
+      "$id": 6,
+      "label": "qev050304_MSG0001",
+      "style": 1,
+      "name": "큭……!\n너, 이전의 참견쟁이!\n날 구하기라도 하게?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev050304_MSG0002",
+      "style": 1,
+      "name": "……젠장!\n이 은팔찌를 다시 보니까\n그 애와의 수많은 추억이 떠올라서……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev050304_MSG0003",
+      "style": 1,
+      "name": "죽는 게 너무 무서워!\n다리가 떨리고 눈물이 나와서……\n저 녀석한테 덤빌 수가 없었어![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev050304_MSG0004",
+      "style": 1,
+      "name": "이 중차대한 순간에 겁을 먹다니\n난 최악의 사무라이야![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050304_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 11,
+      "label": "qev050304_SEL0031",
+      "style": 3,
+      "name": "게 쥬의 나약함을 비웃는다"
+    },
+    {
+      "$id": 12,
+      "label": "qev050304_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 13,
+      "label": "qev050304_SEL0041",
+      "style": 3,
+      "name": "게 쥬의 판단은\n올바르다고 말한다"
+    },
+    {
+      "$id": 14,
+      "label": "qev050304_MSG0005",
+      "style": 1,
+      "name": "비웃어도 상관없어……\n나는 그만큼 한심하니까[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev050304_MSG0006",
+      "style": 1,
+      "name": "난 사무라이야!\n이런 건 절대 올바른 게 아니라고……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev050304_MSG0007",
+      "style": 1,
+      "name": "……하지만 부탁할게, 날 구해 줘!\n팔찌를 보고 소중한 것을 떠올렸는데\n여기서 죽으면 약속을 지킬 수 없어……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev050304_MSG0008",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev050304_JNK0050",
+      "style": 4,
+      "name": "말을 건다"
+    },
+    {
+      "$id": 19,
+      "label": "qev050304_SEL0051",
+      "style": 3,
+      "name": "멍하니 있는 게 쥬에게 말을 건다"
+    },
+    {
+      "$id": 20,
+      "label": "qev050304_JNK0060",
+      "style": 4,
+      "name": "도우러 간다"
+    },
+    {
+      "$id": 21,
+      "label": "qev050304_SEL0061",
+      "style": 3,
+      "name": "게 쥬를 구하기 위해\n임전 태세를 갖춘다"
+    }
+  ]
+}

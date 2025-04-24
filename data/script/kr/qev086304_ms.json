@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086304_MSG0003",
+      "style": 0,
+      "name": "가, 강해……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086304_MSG0001",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "qev086304_MSG0004",
+      "style": 0,
+      "name": "아아, 이래서 얽히지 않는 게\n좋을 거라고 말했는데……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086304_MSG0005",
+      "style": 0,
+      "name": "그런 말 못 들었어요……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086304_MSG0007",
+      "style": 0,
+      "name": "우리를 봐준…… 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086304_JNK0011",
+      "style": 4,
+      "name": "강건"
+    },
+    {
+      "$id": 7,
+      "label": "qev086304_SEL0012",
+      "style": 3,
+      "name": "언젠가 반드시 쓰러뜨리겠다고\n모두에게 맹세한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev086304_JNK0021",
+      "style": 4,
+      "name": "평온"
+    },
+    {
+      "$id": 9,
+      "label": "qev086304_SEL0022",
+      "style": 3,
+      "name": "서로를 이해할 수 있을 것 같다고 말한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev086304_MSG0008",
+      "style": 0,
+      "name": "저 적을 쓰러뜨리기 위해서는\n혹독히 단련해야 할 거야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086304_MSG0009",
+      "style": 0,
+      "name": "그래도 괜찮아?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086304_MSG0010",
+      "style": 0,
+      "name": "결의는 확고한 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086304_MSG0011",
+      "style": 0,
+      "name": "그렇네요, 생명을 다스리는 자는\n사람의 마음을 읽는다는 말도 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086304_MSG0012",
+      "style": 0,
+      "name": "저희의 목적을 인정해 준 걸지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086304_MSG0012_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "qev086304_MSG0013",
+      "style": 0,
+      "name": "저기 좀 보세요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086304_MSG0014",
+      "style": 0,
+      "name": "이건……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086304_MSG0015",
+      "style": 0,
+      "name": "수호자의 영린 같습니다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086304_MSG0016",
+      "style": 0,
+      "name": "정말요!?\n해냈다, 이제 약을 만들 수 있어요![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086304_MSG0017",
+      "style": 0,
+      "name": "생명을 다스리는 자……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086304_MSG0017_2",
+      "style": 0,
+      "name": "우리가 부정한 생명이 아니라는 걸\n인정해 준 걸까?[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051302_MSG0001",
+      "style": 1,
+      "name": "よう　景気はどうだ？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051302_MSG0002",
+      "style": 1,
+      "name": "良いはずだよな\nいや　正確にはこれから良くなるのか[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051302_MSG0003",
+      "style": 1,
+      "name": "では……\n手に入れたキーを渡してもらおうか[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051302_MSG0004",
+      "style": 1,
+      "name": "……フッ　これはカギではないな\n他のはどうだ？\n3つのカギは揃えたのだろう？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051302_MSG0005",
+      "style": 1,
+      "name": "……どうした？\n揃えてくれたんだろう？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev051302_MSG0006",
+      "style": 1,
+      "name": "さあ　私に3つのカギを渡してくれ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev051302_MSG0007",
+      "style": 1,
+      "name": "待ってください　マスター[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev051302_MSG0008",
+      "style": 1,
+      "name": "ん？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev051302_MSG0009",
+      "style": 1,
+      "name": "私は　この者について重大な事実を\n掴みました[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev051302_MSG0010",
+      "style": 1,
+      "name": "重大な事実？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev051302_MSG0011",
+      "style": 1,
+      "name": "はい……\nマスターが取り戻そうとした4つのカギ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev051302_MSG0012",
+      "style": 1,
+      "name": "そのうちの3つは　実は最初からこの者が\n所持していたのです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev051302_MSG0013",
+      "style": 1,
+      "name": "……？\nどういうことだ　それは[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev051302_MSG0014",
+      "style": 1,
+      "name": "つまり　セレストスリーから\n3つのカギを奪った犯人は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev051302_MSG0015",
+      "style": 1,
+      "name": "あなたの同志\nフォスダイクたちを殺したのは[ST:wide ]―\nこの者だったということ！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev051302_MSG0016",
+      "style": 1,
+      "name": "なんだと……！？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev051302_JNK0010",
+      "style": 4,
+      "name": "批難する"
+    },
+    {
+      "$id": 18,
+      "label": "qev051302_SEL0011",
+      "style": 3,
+      "name": "告げ口したガ・ビユを\n批難する[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev051302_JNK0020",
+      "style": 4,
+      "name": "驚く"
+    },
+    {
+      "$id": 20,
+      "label": "qev051302_SEL0021",
+      "style": 3,
+      "name": "アドルファスが\n4人目だったのかと驚く[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev051302_JNK0030",
+      "style": 4,
+      "name": "開き直る"
+    },
+    {
+      "$id": 22,
+      "label": "qev051302_SEL0031",
+      "style": 3,
+      "name": "騙されたのはこちらだから\n正当防衛だったと開き直る[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev051302_MSG0017",
+      "style": 1,
+      "name": "悪人に耳を貸さないでください\n我がマスター[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev051302_MSG0018",
+      "style": 1,
+      "name": "わかっている……\nだが　フォスダイクたちを倒したとあっては\n予想以上の手練れだぞ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev051302_MSG0019",
+      "style": 1,
+      "name": "マスター　心配は無用です[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev051302_MSG0020",
+      "style": 1,
+      "name": "俺の方こそ驚きだ\nまさか　あいつらを殺したヤツに\nのうのうと依頼をしてしまうとはな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev051302_MSG0021",
+      "style": 1,
+      "name": "しかし　フォスダイクたちを倒したとあっては\n予想以上の手練れだな[ST:wide ]―\nどうすべきか……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev051302_MSG0022",
+      "style": 1,
+      "name": "マスター　心配は無用です[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev051302_MSG0023",
+      "style": 1,
+      "name": "欲に目がくらんだ人間が何を言う\nお前さえいなければ　ホワイトゴールドは\n俺のものだったのだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev051302_MSG0024",
+      "style": 1,
+      "name": "今度はこちらがお前を殺し\n3つのカギを取り戻してやる[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev051302_MSG0025",
+      "style": 1,
+      "name": "マスター　それには及びません[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev051302_MSG0026",
+      "style": 1,
+      "name": "この者から　3つのカギはすでに私が\n取り戻していますゆえ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev051302_MSG0027",
+      "style": 1,
+      "name": "そうだったのか……\nでかしたぞ　ガ・ビユ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev051302_MSG0028",
+      "style": 1,
+      "name": "とすると……　ガ・ビユ\nお前がこの者を私に引き合わせたのは……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev051302_MSG0029",
+      "style": 1,
+      "name": "はい　隙を見てカギを取り戻すために\n相違ありません[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev051302_MSG0030",
+      "style": 1,
+      "name": "なるほどな……\nすべてはお前の策略のうちだったというわけか[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev051302_MSG0031",
+      "style": 1,
+      "name": "今になってのご報告　誠に申し訳ありません[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev051302_MSG0032",
+      "style": 1,
+      "name": "良い　結果的に4つのカギは揃ったのだ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev051302_MSG0033",
+      "style": 1,
+      "name": "……うん？\nブレイド殿は何か不思議そうな顔だな[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev051302_MSG0034",
+      "style": 1,
+      "name": "そうか……　あと1つ\n最後のカギはどうしたのか　ということだな[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev051302_MSG0035",
+      "style": 1,
+      "name": "最後のカギは　私が最初から持っていたのだ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev051302_MSG0036",
+      "style": 1,
+      "name": "お前に4つを集めろといったのは……\nまぁ保険のようなものだ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev051302_MSG0037",
+      "style": 1,
+      "name": "ガ・ビユに命じ　どこぞのブレイドに掴ませた\nニセモノをお前は必死に探したというわけだ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev051302_MSG0038",
+      "style": 1,
+      "name": "フハハハハハハハ！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev051302_MSG0039",
+      "style": 1,
+      "name": "ガ・ビユ！[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev051302_MSG0040",
+      "style": 1,
+      "name": "カギを手に入れてしまえば　この者は不要だ\n…………始末しろ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev051302_MSG0041",
+      "style": 1,
+      "name": "仰せのままに……！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev051302_MSG0042",
+      "style": 1,
+      "name": "やはり強いな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev051302_MSG0043",
+      "style": 1,
+      "name": "命を賭ける価値はもうない[ST:wide ]―\nさらば！[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev051302_MSG0044",
+      "style": 1,
+      "name": "なっ……！　なぜだ！？[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev051302_MSG0045",
+      "style": 1,
+      "name": "なぜだ　ガ・ビユ！\nまだ戦いは終わっていない！[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev051302_MSG0046",
+      "style": 1,
+      "name": "敵は……\n我々からカギを奪った賊は　まだこうして\n私に武器を向けているというのに……！[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev051302_MSG0047",
+      "style": 1,
+      "name": "なぜなんだ……！[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev051302_MSG0048",
+      "style": 1,
+      "name": "ま　待ってくれ……\n話し合おう[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev051302_MSG0049",
+      "style": 1,
+      "name": "そうだ……\nカギはここに4つ揃っているのだ！[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev051302_MSG0050",
+      "style": 1,
+      "name": "これで金庫を開けて　中のホワイトゴールドを\n山分けしようじゃないか！[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev051302_MSG0051",
+      "style": 1,
+      "name": "そうすれば　最初の依頼と条件は同じになる！\nお前たちが損をすることもない！[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev051302_MSG0052",
+      "style": 1,
+      "name": "あのラースの女がいなくなってしまえば\n我らの間に　わだかまる問題はないはずだ！[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev051302_MSG0053",
+      "style": 1,
+      "name": "今から金庫を開ける！\nホワイトゴールドの山を見れば\nお前だって考えが変わるだろう！！[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev051302_MSG0054",
+      "style": 1,
+      "name": "金庫が開いたぞ……[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev051302_MSG0055",
+      "style": 1,
+      "name": "…………これで　ホワイトゴールドは\n我々の手に…………[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev051302_MSG0056",
+      "style": 1,
+      "name": "……………………\n…………っ！？[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev051302_MSG0057",
+      "style": 1,
+      "name": "無い！　何も無い！\n金庫の中は……カラだ！[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev051302_MSG0058",
+      "style": 1,
+      "name": "そんな……　どういうことだ！？[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev051302_MSG0059",
+      "style": 1,
+      "name": "何者かが……\n先に金庫を開けて　中にあったものを\n奪い去って…………[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev051302_MSG0060",
+      "style": 1,
+      "name": "まさか……\nまさかあのラースの女が…………！[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev051302_MSG0061",
+      "style": 1,
+      "name": "……………………フ\nフフフフフフ…………[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev051302_MSG0062",
+      "style": 1,
+      "name": "アハハハハハハハハ！[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev051302_MSG0063",
+      "style": 1,
+      "name": "そうか……\nヤツは先にお前たちからカギを奪って……[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev051302_MSG0064",
+      "style": 1,
+      "name": "そして　お前たちがカギを探索している間\n私も同じように探索の結果を待っていた\nそのスキに……[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev051302_MSG0065",
+      "style": 1,
+      "name": "私が持っていた残り1つのカギをも使って\n金庫を開け…………\n中身を　奪い去っていたのか…………[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev051302_MSG0066",
+      "style": 1,
+      "name": "およそ　最後まで残ってお前たちと\n戦ってまで見せたのは　追っ手の可能性を\nここで消すことができれば好都合……[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev051302_MSG0067",
+      "style": 1,
+      "name": "……そういうことだったのか！[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev051302_MSG0068",
+      "style": 1,
+      "name": "してやられたよ！\nものの見事にしてやられた！[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev051302_MSG0069",
+      "style": 1,
+      "name": "アハハハハハハハハ！[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev051302_MSG0070",
+      "style": 1,
+      "name": "アーッハハハハハハハハハハハハハハ！[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev051302_MSG0071",
+      "style": 1,
+      "name": "アハハハハハハハハハハハハハハハハハ！[ST:wait ]"
+    }
+  ]
+}

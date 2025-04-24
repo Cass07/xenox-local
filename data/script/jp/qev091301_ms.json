@@ -1,0 +1,318 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091301_MSG0003",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091301_JNK0010",
+      "style": 4,
+      "name": "促す"
+    },
+    {
+      "$id": 3,
+      "label": "qev091301_SEL0011",
+      "style": 3,
+      "name": "話をするよう促す"
+    },
+    {
+      "$id": 4,
+      "label": "qev091301_JNK0020",
+      "style": 4,
+      "name": "待つ"
+    },
+    {
+      "$id": 5,
+      "label": "qev091301_SEL0021",
+      "style": 3,
+      "name": "話し始めるまで待つ"
+    },
+    {
+      "$id": 6,
+      "label": "qev091301_MSG0004",
+      "style": 1,
+      "name": "[ST:wide ]―話ですか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091301_MSG0005",
+      "style": 1,
+      "name": "えっと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091301_MSG0006",
+      "style": 1,
+      "name": "[ST:wide ]―最近\nようやくこの惑星にも慣れてきました[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091301_MSG0007",
+      "style": 1,
+      "name": "[ST:wide ]―なんだか無駄話をするな\nという顔をしてますね？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091301_MSG0008",
+      "style": 1,
+      "name": "[ST:wide ]―あ　そうか！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091301_MSG0008_02",
+      "style": 1,
+      "name": "もしかして　クエストボードを見て\n来てくださったんですか？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091301_MSG0009",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091301_MSG0010",
+      "style": 1,
+      "name": "[ST:wide ]―あ　そうか！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091301_MSG0010_02",
+      "style": 1,
+      "name": "もしかして　クエストボードを見て\n来てくださったんですか？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091301_MSG0011",
+      "style": 1,
+      "name": "これはすみませんでした[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091301_MSG0012",
+      "style": 1,
+      "name": "はじめまして　フォグ・クリストフと言います[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091301_MSG0013",
+      "style": 1,
+      "name": "まさかボクに協力してくれる人がいるなんて\n思ってもいませんでした[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091301_MSG0014",
+      "style": 1,
+      "name": "今月に入って一番嬉しい出来事です[ST:wide ]―\n感無量[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091301_JNK0030",
+      "style": 4,
+      "name": "促す"
+    },
+    {
+      "$id": 20,
+      "label": "qev091301_SEL0031",
+      "style": 3,
+      "name": "本題に入るよう促す"
+    },
+    {
+      "$id": 21,
+      "label": "qev091301_JNK0040",
+      "style": 4,
+      "name": "待つ"
+    },
+    {
+      "$id": 22,
+      "label": "qev091301_SEL0041",
+      "style": 3,
+      "name": "本題を話し始めるまで待つ"
+    },
+    {
+      "$id": 23,
+      "label": "qev091301_MSG0015",
+      "style": 1,
+      "name": "[ST:wide ]―そうですね　時は金なりといいますから\n早速本題に入りましょう[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091301_MSG0016",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091301_MSG0017",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091301_MSG0018",
+      "style": 1,
+      "name": "ボクのペースに合わせてくれるなんて\nものすごくいい人ですね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091301_MSG0019",
+      "style": 1,
+      "name": "ようやく考えがまとまったので\n任務の説明をしたいと思います[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091301_MSG0020",
+      "style": 1,
+      "name": "えっと　パスファインダーが設置した\nデータプローブの調子がどうもおかしいんです[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091301_MSG0021",
+      "style": 1,
+      "name": "彼らはデータプローブの設置に\n専念していまして　[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091301_MSG0022",
+      "style": 1,
+      "name": "ボク達ランドバンクにお鉢が回ってきたんです[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091301_MSG0023",
+      "style": 1,
+      "name": "普段はデータプローブを活用して\n鉱石や資源の回収を行っているのですが[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091301_MSG0024",
+      "style": 1,
+      "name": "ついでに　故障の原因調査を\n頼まれてしまったんですよね[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091301_MSG0025",
+      "style": 1,
+      "name": "ランドバンクは回収がメインのはずなのに\nそんな危険な任務に回されるなんて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091301_MSG0026",
+      "style": 1,
+      "name": "調査とか戦うとか完全に苦手分野なんです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091301_JNK0050",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 36,
+      "label": "qev091301_SEL0051",
+      "style": 3,
+      "name": "さっそく調査に向かおうと提案する"
+    },
+    {
+      "$id": 37,
+      "label": "qev091301_JNK0060",
+      "style": 4,
+      "name": "助言"
+    },
+    {
+      "$id": 38,
+      "label": "qev091301_SEL0061",
+      "style": 3,
+      "name": "挑戦もせずに他人に頼ってはいけないと\nアドバイスする"
+    },
+    {
+      "$id": 39,
+      "label": "qev091301_MSG0027",
+      "style": 1,
+      "name": "信じられないくらいの即決ですね\n見習いたいです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091301_MSG0028",
+      "style": 1,
+      "name": "では　お言葉に甘えて早速向かいましょう[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091301_MSG0029",
+      "style": 1,
+      "name": "あ　でも　まだ行き先を\nお伝えしてませんでしたよね[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091301_MSG0031",
+      "style": 1,
+      "name": "何カ所かエラーがでているプローブが\nあるのですが　まずは近い所から行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091301_MSG0032",
+      "style": 1,
+      "name": "一理ありますが　やはり未熟なボクを\n導いてくれる人がいて然るべきだと思うんです[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091301_MSG0033",
+      "style": 1,
+      "name": "[ST:wide ]―生意気言ってすみませんでした[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091301_MSG0034",
+      "style": 1,
+      "name": "[ST:wide ]―ボク一人では心許ないので\n一緒に来てほしいんです[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091301_MSG0036",
+      "style": 1,
+      "name": "何カ所かエラーがでているプローブが\nあるのですが　まずは近い所から行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091301_MSG0037",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091301_MSG0038",
+      "style": 1,
+      "name": "原因が解明できれば\nランドバンクの任務も元通り順調になります[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091301_MSG0039",
+      "style": 1,
+      "name": "がんばりましょう　ＮＬＡのために[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091301_MSG0042",
+      "style": 1,
+      "name": "場所は忘却の渓谷[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

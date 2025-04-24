@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091804_MSG0001",
+      "style": 0,
+      "name": "응? 무슨 일이야, 누님?\n당장 누구 하나 죽일 것 같은 눈이네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091804_MSG0002",
+      "style": 0,
+      "name": "당신, 데일 기번이지?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091804_MSG0003",
+      "style": 0,
+      "name": "뭐? 그게 누군데?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091804_MSG0004",
+      "style": 0,
+      "name": "시치미 떼는 건 그쯤 해 줄래?\n당장 자백하지 않으면 죽여 버리겠어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091804_MSG0005",
+      "style": 0,
+      "name": "자, 잠깐 기다려 봐!\n난 데일인가 하는 사람이 아니야!![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091804_MSG0006",
+      "style": 0,
+      "name": "신에게 맹세코!\n내 이름은 태어난 후로 계속 다트였다고!![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091804_MSG0007",
+      "style": 0,
+      "name": "……아무래도 틀렸나 봐[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091804_MSG0008",
+      "style": 0,
+      "name": "데일 기번은\n이렇게 배짱 없는 남자가 아니야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091804_MSG0009",
+      "style": 0,
+      "name": "마틴 쪽으로 가 보자[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091804_MSG0010",
+      "style": 1,
+      "name": "젠장…… 내가 혼자만 아니었어도\n당당하게 반박했을 텐데……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091804_MSG0011",
+      "style": 1,
+      "name": "배짱 없는 남자라 미안하게 됐네……[ST:wait ]"
+    }
+  ]
+}

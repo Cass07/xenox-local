@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev068601_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev068601_SEL0011",
+      "style": 3,
+      "name": "ガ・ボウについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev068601_JNK0020",
+      "style": 4,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev068601_SEL0021",
+      "style": 3,
+      "name": "困っていることを尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev068601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev068601_SEL0031",
+      "style": 3,
+      "name": "ガ・ボウについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev068601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev068601_SEL0041",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev068601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev068601_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev068601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev068601_SEL0051",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev068601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev068601_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev068601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev068601_SEL0061",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev068601_MSG0001",
+      "style": 1,
+      "name": "ボウ様のことをお聞かせできるのは\nデルグ殿下が認めた者のみ……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev068601_MSG0002",
+      "style": 1,
+      "name": "今はまだ　あなたは\nその資格をお持ちでないようですね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev068601_MSG0007",
+      "style": 1,
+      "name": "真の忠義とは　疑いを挟まぬこと……\n私達は　デルグ殿下のご決断に全て従います[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev068601_MSG0008",
+      "style": 1,
+      "name": "それは病床に伏している者も　同じはず……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev068601_MSG0009",
+      "style": 1,
+      "name": "だから　どんなに苦しくとも……\n我々は平気なのです[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev068601_MSG0014",
+      "style": 1,
+      "name": "ボウ様は　殿下に長らくお仕えしている\n一番のお側仕え[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev068601_MSG0015",
+      "style": 1,
+      "name": "己の全てを犠牲にしてでも\n主を守り抜くそのお姿は\n勇猛なラース人の中でも一際　勇ましい[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev068601_MSG0016",
+      "style": 1,
+      "name": "私も　今はサゾンの元に嫁ぎ\n剣を捨てた身ですが[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev068601_MSG0017",
+      "style": 1,
+      "name": "火急の折には　ボウ様のように\nこの身を投げ打って戦ってみせますよ！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev068601_MSG0023",
+      "style": 1,
+      "name": "あなたの薬というのは凄いですね……\n多くの病に苦しむ者が　救われました[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev068601_MSG0024",
+      "style": 1,
+      "name": "本当に良かった……\nいくら忠義のためとはいえ　罪なき子供達が\n犠牲になるのは苦しかった……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev068601_MSG0025",
+      "style": 1,
+      "name": "しかし……苦しみを訴えればデルグ殿下の\n重荷になると思い　口を閉ざしていたのです[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev068601_MSG0026",
+      "style": 1,
+      "name": "ありがとうございました\nこのご恩は　決して忘れはいたしません[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev068601_MSG0031",
+      "style": 1,
+      "name": "ああ……\n息子は行ってしまいました……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev068601_MSG0032",
+      "style": 1,
+      "name": "あなたがどういう意図で\nあの子の手伝いをしたかは知りませんが……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev068601_MSG0033",
+      "style": 1,
+      "name": "この恨み……忘れませんよ\n永遠に[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev068601_MSG0038",
+      "style": 1,
+      "name": "息子を引き渡していただき\n本当にありがとうございました[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev068601_MSG0039",
+      "style": 1,
+      "name": "あなたのお気持ちを無駄にせぬためにも\n必ずや立派な武人に　更生させてみせますよ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev068601_MSG0040",
+      "style": 1,
+      "name": "そのためには手段は選びません\n泣き言も聞きません　私は心を……鬼にします[ST:wait ]"
+    }
+  ]
+}

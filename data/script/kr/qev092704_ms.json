@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092704_JNK0010",
+      "style": 4,
+      "name": "보고"
+    },
+    {
+      "$id": 2,
+      "label": "qev092704_SEL0020",
+      "style": 3,
+      "name": "그라나다 GG의 의뢰를 받고 왔다고 말한다"
+    },
+    {
+      "$id": 3,
+      "label": "qev092704_MSG0030",
+      "style": 0,
+      "name": "그라나다의 의뢰?\n아아…… 그런 거로군[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092704_MSG0040",
+      "style": 0,
+      "name": "분명 그 녀석이 의뢰했겠지……\n역시 걱정을 끼치고 말았나[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092704_JNK0050",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 6,
+      "label": "qev092704_SEL0060",
+      "style": 3,
+      "name": "다친 곳은 없는지 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "qev092704_MSG0070",
+      "style": 0,
+      "name": "그래, 다행히도 난 상처 하나 없어[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092704_MSG0080",
+      "style": 0,
+      "name": "다치기라도 했다가는\n그 녀석한테 혼쭐이 날 테니까[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092704_MSG0090",
+      "style": 0,
+      "name": "아무튼 고맙다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092704_MSG0100",
+      "style": 0,
+      "name": "통신 기능이 고장 나서\n구조 요청도 못 하고 있었거든[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092704_MSG0110",
+      "style": 0,
+      "name": "덕분에 살았어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092704_MSG0120",
+      "style": 0,
+      "name": "자기소개를 하지, 나는 리젤[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092704_MSG0125",
+      "style": 0,
+      "name": "그라나다 GG 소속의 테스트 파일럿이다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092704_MSG0130",
+      "style": 0,
+      "name": "구조하러 와 준 건 고맙지만…… \n정작 기체가 이 모양이라니[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092704_MSG0140",
+      "style": 0,
+      "name": "어떻게든 이 녀석을 고쳐서\n함께 돌아가야만 해[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092704_MSG0150",
+      "style": 0,
+      "name": "이건 기밀 덩어리거든……\n여기에 두고 가는 건 너무 위험해[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092704_MSG0160",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092704_MSG0170",
+      "style": 0,
+      "name": "이봐, 도움이 필요한 일이 있는데\n내 의뢰도 하나 받아 주지 않겠나?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092704_MSG0180",
+      "style": 0,
+      "name": "이 근처에 돌 응급 처치에 쓸 만한 소재를\n주울 수 있는 곳이 있다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092704_MSG0190",
+      "style": 0,
+      "name": "지금 소재 리스트를 보낼 테니\n그 소재들을 회수해 주었으면 해[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092704_MSG0200",
+      "style": 0,
+      "name": "난 수리 준비를 진행하지\n미안하지만 잘 부탁한다[ST:wait ]"
+    }
+  ]
+}

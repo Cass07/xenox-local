@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086110_MSG0001",
+      "style": 0,
+      "name": "美味しいですも！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086110_MSG0002",
+      "style": 0,
+      "name": "コッチもソッチもアッチもドッチも\n全部　美味しいですも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086110_MSG0003",
+      "style": 0,
+      "name": "よかったぁ　タツに喜んでもらえて[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086110_MSG0004",
+      "style": 0,
+      "name": "タツ　勘違いしてましたですも[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086110_MSG0005",
+      "style": 0,
+      "name": "リンさんはタツに食べてもらうレシピを\n探してたんですも！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086110_MSG0006",
+      "style": 0,
+      "name": "ごめんね　勘違いさせちゃって[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086110_MSG0007",
+      "style": 0,
+      "name": "でもなんで　こんなご馳走を？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086110_MSG0008",
+      "style": 0,
+      "name": "タツはこの前１３歳になったんでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086110_MSG0009",
+      "style": 0,
+      "name": "そうですも　一人前のノポンですも[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086110_MSG0010",
+      "style": 0,
+      "name": "ずっと忙しくてできなかったからね\nタツの誕生日のお祝いをしようと思って[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086110_MSG0011",
+      "style": 0,
+      "name": "誕生日にお祝いするですも？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086110_MSG0012",
+      "style": 0,
+      "name": "地球ではね　大切な家族が産まれてきた日を\nお祝いする習慣があるの[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086110_MSG0013",
+      "style": 0,
+      "name": "私も初めてお祝いしてもらった時は\n嬉しかったわ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086110_MSG0014",
+      "style": 0,
+      "name": "リ　リンさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086110_JNK0010",
+      "style": 4,
+      "name": "言葉"
+    },
+    {
+      "$id": 16,
+      "label": "qev086110_SEL0011",
+      "style": 3,
+      "name": "微笑んで祝福の言葉を伝える"
+    },
+    {
+      "$id": 17,
+      "label": "qev086110_JNK0020",
+      "style": 4,
+      "name": "行動"
+    },
+    {
+      "$id": 18,
+      "label": "qev086110_SEL0021",
+      "style": 3,
+      "name": "ご馳走をどんどん食べさせる"
+    },
+    {
+      "$id": 19,
+      "label": "qev086110_MSG0015",
+      "style": 0,
+      "name": "ありがとうですも！\n嬉しいですも！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086110_MSG0016",
+      "style": 0,
+      "name": "嬉しいですも！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086110_MSG0017",
+      "style": 0,
+      "name": "でも　タツだけ食べてちゃ申し訳ないですも\nみなさんも一緒に食べるですも！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086110_MSG0018",
+      "style": 0,
+      "name": "何言ってるのタツの誕生日なんだから[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086110_MSG0019",
+      "style": 0,
+      "name": "リンさん　タツは大切な家族ですも？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086110_MSG0020",
+      "style": 0,
+      "name": "当たり前じゃない！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086110_MSG0021",
+      "style": 0,
+      "name": "ももも　タツにもオヨメサンが\nきてくれたですも！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086110_MSG0021_2",
+      "style": 0,
+      "name": "うれしいですも～～♪[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086110_MSG0022",
+      "style": 0,
+      "name": "ええっ？　何でそうなるのよっ！\n調子に乗るな～～～！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12070110_MSG0001",
+      "style": 0,
+      "name": "忌々しい原始人め！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12070110_MSG0002",
+      "style": 0,
+      "name": "例え我らが滅ぼされる定めだとしても\n従わねばならぬ謂われなどないわ！[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs12070110_MSG0003",
+      "style": 0,
+      "name": "障壁だと？\nあのお方の[ST:wide ]―　ウィータの力さえあれば！[ST:wait ]"
+    }
+  ]
+}

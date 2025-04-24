@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087202_MSG0001",
+      "style": 0,
+      "name": "ナギおじさまが連絡を絶った場所って\nここですよね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087202_MSG0002",
+      "style": 0,
+      "name": "護衛のチームが入れてきた[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087202_MSG0003",
+      "style": 0,
+      "name": "グロウスと交戦中\nという通信とも符合するわね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087202_MSG0004",
+      "style": 0,
+      "name": "でも　誰もいないんですも[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087202_MSG0005",
+      "style": 0,
+      "name": "エルマさん　残留熱量がまだ検出可能です[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087202_MSG0006",
+      "style": 0,
+      "name": "戦闘からまだそんなに\n時間がたってないのかも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087202_MSG0007",
+      "style": 0,
+      "name": "高熱源反応　これって[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087202_MSG0008",
+      "style": 0,
+      "name": "行ってみましょう[ST:wait ]"
+    }
+  ]
+}

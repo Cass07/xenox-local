@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091704_MSG0001",
+      "style": 0,
+      "name": "これがランクロドの研究のデータ[ST:wide ]―\n目的の１つは達成ね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091704_MSG0002",
+      "style": 0,
+      "name": "あとは本人が見つかればいいんだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091704_MSG0012",
+      "style": 1,
+      "name": "ランクロドの研究のデータはもう入手したわ\nあとは本人を見つけるだけ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091704_MSG0013",
+      "style": 1,
+      "name": "[ST:wide ]―そうね　他の要塞のコンソールも\n調べてみましょ　奴の居場所に繋がる情報が\n手に入るかもしれないわよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091704_MSG0003",
+      "style": 0,
+      "name": "ようやく見つけたわ\nこれがランクロドの研究のデータね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091704_MSG0004",
+      "style": 0,
+      "name": "あの虫ケラから場所を聞き出さなかったのは\n大失敗だったわね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091704_MSG0005",
+      "style": 0,
+      "name": "余計な時間を費やしてしまった[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091704_MSG0006",
+      "style": 0,
+      "name": "次からは撃つ前に拷問するようにするわね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091704_JNK0010",
+      "style": 4,
+      "name": "同意する"
+    },
+    {
+      "$id": 10,
+      "label": "qev091704_SEL0011",
+      "style": 3,
+      "name": "次は効率よくいきたいものだと\n同意する"
+    },
+    {
+      "$id": 11,
+      "label": "qev091704_JNK0020",
+      "style": 4,
+      "name": "たしなめる"
+    },
+    {
+      "$id": 12,
+      "label": "qev091704_SEL0021",
+      "style": 3,
+      "name": "非道な行いをするマードレスをたしなめる"
+    },
+    {
+      "$id": 13,
+      "label": "qev091704_MSG0007",
+      "style": 0,
+      "name": "わかってるじゃない\nお金の前には情けも容赦もないのよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091704_MSG0008",
+      "style": 0,
+      "name": "さあ　ＮＬＡに戻りましょう\n報酬が私達を待っているわ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091704_MSG0009",
+      "style": 0,
+      "name": "はいはい[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091704_MSG0009_2",
+      "style": 0,
+      "name": "あなたもイリーナみたいないい子ちゃんね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091704_MSG0010",
+      "style": 0,
+      "name": "ＮＬＡに戻って　私の部屋に来たら\nいくらでもほめそやしてあげるから[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091704_MSG0011",
+      "style": 0,
+      "name": "今はとにかく報告に行きましょ[ST:wait ]"
+    }
+  ]
+}

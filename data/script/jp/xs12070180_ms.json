@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12070180_MSG0001",
+      "style": 0,
+      "name": "そうだ[ST:wide ]―　ようやく認める気になったわ[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs12070180_MSG0002",
+      "style": 0,
+      "name": "私は確かに　お前たち地球人に怯えていた[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12070180_MSG0003",
+      "style": 0,
+      "name": "宇宙創世の時代\n他の世界よりやってきたサマールの民[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12070180_MSG0004",
+      "style": 0,
+      "name": "我らグロウスは決して\n彼らに逆らうことはできない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12070180_MSG0005",
+      "style": 0,
+      "name": "逆らえば　滅びる\nただの神話だと思っていた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12070180_MSG0006",
+      "style": 0,
+      "name": "だが　今もなお　サマールの末裔が\n生き延びているという[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12070180_MSG0007",
+      "style": 0,
+      "name": "それが貴様らだ　地球人！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12070180_MSG0008",
+      "style": 0,
+      "name": "例え貴様らがサマールの末裔だとしても\n今は原始的な蛮族に過ぎん！[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs12070180_MSG0009",
+      "style": 0,
+      "name": "我らが従う理由など　怖れる謂われなどない！[ST:wait ]"
+    }
+  ]
+}

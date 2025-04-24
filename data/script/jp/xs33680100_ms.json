@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33680100_MSG0010",
+      "style": 0,
+      "name": "ああ　お前か\n無事で何よりだ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33680100_MSG0020",
+      "style": 0,
+      "name": "せめてドールがあれば動けたんだが[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33680100_MSG0030",
+      "style": 0,
+      "name": "この状況じゃおれに出来ることは\nほとんどなくてな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33680100_MSG0040",
+      "style": 0,
+      "name": "不気味な場所だが[ST:wide ]―\nお前は奴のもとへ戻るんだろう？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33680100_MSG0050",
+      "style": 0,
+      "name": "ああ　もちろんおれも行こう[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33680100_MSG0060",
+      "style": 0,
+      "name": "あいつもおれの帰りを待ってる\n生きて戻るためなら何だってするさ[ST:wait ]"
+    }
+  ]
+}

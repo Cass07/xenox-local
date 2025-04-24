@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33060100_MSG0010",
+      "style": 0,
+      "name": "모든 주민 피난 완료[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33060100_MSG0020",
+      "style": 0,
+      "name": "좋았어![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33060100_MSG0030",
+      "style": 0,
+      "name": "긴급 발진![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33060100_MSG0040",
+      "style": 0,
+      "name": "소실 현상에 휩쓸리지 마![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33060100_MSG0050",
+      "style": 0,
+      "name": "알겠습니다[ST:wait ]"
+    }
+  ]
+}

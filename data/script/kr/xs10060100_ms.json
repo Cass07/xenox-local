@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs10060100_MSG0001",
+      "style": 0,
+      "name": "이게 망가진 데이터 프로브네요\n수리가 끝날 때까지 잠시 기다려 주세요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs10060100_MSG0002",
+      "style": 0,
+      "name": "이걸로 끝, 됐다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs10060100_MSG0003",
+      "style": 0,
+      "name": "오래 기다리셨죠\n이제 다 고쳤어요![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs10060100_MSG0004",
+      "style": 0,
+      "name": "역시 대단하네, 린\n고마워[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs10060100_MSG0005",
+      "style": 0,
+      "name": "감사합니다![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs10060100_MSG0006",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs10060100_MSG0007",
+      "style": 0,
+      "name": "지금까지 설치한 프로브도 모두\n수정 패치를 하는 편이 좋을 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs10060100_MSG0008",
+      "style": 0,
+      "name": "언젠가 작동이 멈출지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs10060100_MSG0009",
+      "style": 0,
+      "name": "뭐, 뭐라고모!?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs10060100_MSG0010",
+      "style": 0,
+      "name": "프로브를 하나하나 확인하면서\n수정 매치라는 걸 하려고모!?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs10060100_MSG0011",
+      "style": 0,
+      "name": "타츠, 아저씨가 되어 버릴 거다모![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs10060100_MSG0012",
+      "style": 0,
+      "name": "아니, 그러지는 않을 거야\n이번에는 내가 직접 고쳤지만……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs10060100_MSG0013",
+      "style": 0,
+      "name": "이것 이외의 프로브는 수정한 프로그램을\n전송하기만 해도 고칠 수 있거든[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs10060100_MSG0014",
+      "style": 0,
+      "name": "잘은 모르겠지만 안심했다모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs10060100_MSG0015",
+      "style": 0,
+      "name": "이 별에는 프로브가\n잔뜩, 잔~뜩 있으니까모[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs10060100_MSG0016",
+      "style": 0,
+      "name": "그렇네[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs10060100_MSG0017",
+      "style": 0,
+      "name": "지금까지 수많은 프로브를\n설치하며 노력해 왔어[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs10060100_MSG0018",
+      "style": 0,
+      "name": "린 씨?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs10060100_MSG0019",
+      "style": 0,
+      "name": "저희만이 아니에요\n수많은 팀이 작업을 계속하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs10060100_MSG0020",
+      "style": 0,
+      "name": "하지만 아무리 프런티어넷을 확장해도\n센트럴 라이프는 보이지 않아요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs10060100_MSG0021",
+      "style": 0,
+      "name": "어째서일까요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs10060100_MSG0023",
+      "style": 0,
+      "name": "어쩌면 저희가 찾는 물건은\n이 별에 없다든가……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs10060100_MSG0024",
+      "style": 0,
+      "name": "아뇨, 어쩌면\n지상에 추락했을 때 파괴됐을지도……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs10060100_MSG0025",
+      "style": 0,
+      "name": "그럴 리는 없어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs10060100_MSG0026",
+      "style": 0,
+      "name": "하지만![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs10060100_MSG0027",
+      "style": 0,
+      "name": "우리의 B.B.를 움직이게 하는 의식은\n이 몸 안에 있는 게 아니야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs10060100_MSG0028",
+      "style": 0,
+      "name": "센트럴 라이프에 있지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs10060100_MSG0029",
+      "style": 0,
+      "name": "당연히 통신 지연이 느껴지지 않는 거리에\n멀쩡히 존재한다는 뜻이고[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs10060100_MSG0030",
+      "style": 0,
+      "name": "그렇네요……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs10060100_MSG0030_2",
+      "style": 0,
+      "name": "죄송해요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs10060100_MSG0030_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "xs10060100_MSG0031",
+      "style": 0,
+      "name": "괜찮아, 힘든 게 당연해\n본 적도 없는 별에 불시착하고[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs10060100_MSG0032",
+      "style": 0,
+      "name": "계속 B.B.인 채로 살아야만 한다는 건\n어른에게조차도 힘든 상황이지[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs10060100_MSG0033",
+      "style": 0,
+      "name": "오늘까지 견뎌 낸 네가 얼마나 대견한지 몰라[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs10060100_MSG0034",
+      "style": 0,
+      "name": "B.B.를 디자인한 사람은\n어떤 생각으로 이걸 만든 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs10060100_MSG0035",
+      "style": 0,
+      "name": "무슨 곤란한 일이라도 있냐모?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs10060100_MSG0036",
+      "style": 0,
+      "name": "그게…… 이렇게 눈물을 잔뜩 흘리게\n만들지는 않아도 됐을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs10060100_MSG0037",
+      "style": 0,
+      "name": "부끄러워[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs10060100_MSG0038",
+      "style": 0,
+      "name": "눈물이라는 건 꼭 필요한 거야\n무언가를 씻어 낸다는 중요한 기능이 있지[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs10060100_MSG0039",
+      "style": 0,
+      "name": "눈에 들어간 이물질이나 먼지[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs10060100_MSG0040",
+      "style": 0,
+      "name": "그리고 마음속에 쌓인 감정도[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs10060100_MSG0041",
+      "style": 0,
+      "name": "잘 만들어졌네요\n인간의 몸도, B.B.도[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs10060100_MSG0042",
+      "style": 0,
+      "name": "언젠가 디자이너를 만나면\n감사 인사를 하도록 해[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs10060100_MSG0043",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs10060100_MSG0044",
+      "style": 0,
+      "name": "뭐, 뭔가모, 이 소리는?[ST:wait ]"
+    }
+  ]
+}

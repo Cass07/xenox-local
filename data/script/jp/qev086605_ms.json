@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086605_MSG0001",
+      "style": 0,
+      "name": "ダグさん！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086605_MSG0002",
+      "style": 0,
+      "name": "よう　上にいた原生生物は\n片付けてくれたようだな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086605_MSG0003",
+      "style": 0,
+      "name": "ええ　イリーナは？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086605_MSG0004",
+      "style": 0,
+      "name": "大丈夫です\nダグが応急処置してくれたから[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086605_MSG0005",
+      "style": 0,
+      "name": "さすがダグさん！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086605_MSG0006",
+      "style": 0,
+      "name": "なあに　あんたらが戦ってるのが\n見えたもんでね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086605_MSG0007",
+      "style": 0,
+      "name": "一番乗りできなくても\n役に立てることがあってよかったよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086605_MSG0008",
+      "style": 0,
+      "name": "落とし物よ　無事に返せてよかった[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086605_MSG0009",
+      "style": 0,
+      "name": "エルマ大佐[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086605_MSG0010",
+      "style": 0,
+      "name": "イリーナ中尉～～ッ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086605_MSG0011",
+      "style": 0,
+      "name": "あ　あれ？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086605_MSG0012",
+      "style": 0,
+      "name": "なんだお前　今頃[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086605_MSG0013",
+      "style": 0,
+      "name": "あ　その　イリーナ中尉と手分けして漂流物の\n調査してたんですけど　救難信号が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086605_MSG0014",
+      "style": 0,
+      "name": "もうグインさん　遅いですよ！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086605_MSG0015",
+      "style": 0,
+      "name": "やっぱり[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086605_MSG0016",
+      "style": 0,
+      "name": "気にすんなよ　グイン\n早い遅いじゃなくてさ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086605_MSG0017",
+      "style": 0,
+      "name": "必死に来てくれたあんたの気持ち\nけっこう嬉しいよ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086605_MSG0018",
+      "style": 0,
+      "name": "ちゅ　中尉[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086605_MSG0019",
+      "style": 0,
+      "name": "よし　後は任せた\nお前さんがＮＬＡまで連れてってやんな[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086605_MSG0020",
+      "style": 0,
+      "name": "は　はい！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093202_MSG0010",
+      "style": 0,
+      "name": "よう　ピザの注文だ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093202_MSG0020",
+      "style": 0,
+      "name": "アメリカンスタイルの厚めの生地に\nトッピングは全種増量で頼む　2人分な[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093202_MSG0030",
+      "style": 0,
+      "name": "あー　スンマセン\n今日はもう品切れでして[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093202_MSG0040",
+      "style": 0,
+      "name": "[ST:wide ]―ああ？　品切れだと？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093202_MSG0050",
+      "style": 0,
+      "name": "ええ　今日はマ・ノン人の皆さんが\nお祝いごとがあるとかで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093202_MSG0060",
+      "style": 0,
+      "name": "超大口の注文だったんで\nそれでトッピングを使い果たしちゃいまして[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093202_MSG0070",
+      "style": 0,
+      "name": "嘘だろ[ST:wide ]―\nこんな時に限ってかよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093202_MSG0080",
+      "style": 0,
+      "name": "くそっ　食えないとわかった途端\n余計に食いたくなるのは何故だ[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093202_MSG0090",
+      "style": 0,
+      "name": "あ～　わかります\nありますよねぇ　そういうこと[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093202_MSG0100",
+      "style": 0,
+      "name": "なに他人事みたいに言ってんだ\n店員なら責任もってどうにかしろ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093202_MSG0110",
+      "style": 0,
+      "name": "そんなこと言われましても[ST:wide ]―\n具抜きのプレーンピザならありますけど？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093202_MSG0120",
+      "style": 0,
+      "name": "具抜きだと[ST:wide ]―？　冗談はよせ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093202_MSG0130",
+      "style": 0,
+      "name": "仮にお前がスシ・バーに行って[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093202_MSG0140",
+      "style": 0,
+      "name": "ビネガー入りのライスだけ出されたら\nどうする？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093202_MSG0150",
+      "style": 0,
+      "name": "まあ　普通にクレームものですね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093202_MSG0160",
+      "style": 0,
+      "name": "よくわかってるじゃないか\nならどうにかしてくれ　今すぐに[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093202_MSG0170",
+      "style": 0,
+      "name": "そ　そう言われましても[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093202_MSG0180",
+      "style": 0,
+      "name": "今からコンパニオンに依頼をかけても\n食材の調達には時間が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093202_MSG0190",
+      "style": 0,
+      "name": "[ST:wide ]―ん？　ちょっと待て\nコンパニオンだと？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093202_MSG0200",
+      "style": 0,
+      "name": "ブレイドってのは\nそんなお使いじみた依頼まで請け負うのか？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093202_MSG0210",
+      "style": 0,
+      "name": "え　えぇ　まあ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093202_MSG0220",
+      "style": 0,
+      "name": "[ST:wide ]―話には聞いてたが\n軍も随分とまぁ様変わりしたもんだ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093202_MSG0230",
+      "style": 0,
+      "name": "だが　待てよ　なるほどな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093202_MSG0240",
+      "style": 0,
+      "name": "ふっ　こいつはラッキーだ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev093202_MSG0245",
+      "style": 0,
+      "name": "ちょうど目の前に腕利きのブレイドがいる[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093202_MSG0250",
+      "style": 0,
+      "name": "よし　特急の依頼だ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093202_MSG0260",
+      "style": 0,
+      "name": "オレの[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093202_MSG0265",
+      "style": 0,
+      "name": "いや　オレ達のために\nピザの食材を調達してきてくれ　大至急だ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev093202_JNK0270",
+      "style": 4,
+      "name": "引き受ける"
+    },
+    {
+      "$id": 30,
+      "label": "qev093202_SEL0280",
+      "style": 3,
+      "name": "任せろ　余裕だと自信満々で答える"
+    },
+    {
+      "$id": 31,
+      "label": "qev093202_MSG0290",
+      "style": 0,
+      "name": "[ST:wide ]―自分で言っといてナンだが\nお前　結構ノリいいな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev093202_MSG0300",
+      "style": 0,
+      "name": "オレの無茶ぶりにも怯まねえとは\nふっ[ST:wide ]―　その意気や良しだ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev093202_JNK0310",
+      "style": 4,
+      "name": "苦言"
+    },
+    {
+      "$id": 34,
+      "label": "qev093202_SEL0320",
+      "style": 3,
+      "name": "アルも一緒だと主張する"
+    },
+    {
+      "$id": 35,
+      "label": "qev093202_MSG0330",
+      "style": 0,
+      "name": "ちっ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev093202_MSG0335",
+      "style": 0,
+      "name": "そういえば　一応オレも\nブレイドの所属ってことになってるんだったか[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev093202_MSG0340",
+      "style": 0,
+      "name": "とはいえ　お前の方が\nブレイドとしてこなれてるだろ？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev093202_MSG0350",
+      "style": 0,
+      "name": "手は貸してやるが　指示はお前に任せる\n頼むぜ　リーダー？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev093202_MSG0360",
+      "style": 0,
+      "name": "さて　聞いての通りだ\n必要な食材のリストをよこせ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev093202_MSG0370",
+      "style": 0,
+      "name": "あ　はい[ST:wide ]―　なんかすみません[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev093202_MSG0375",
+      "style": 0,
+      "name": "てか　そんなにウチのピザが食べたいんで？[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev093202_MSG0380",
+      "style": 0,
+      "name": "初志貫徹がオレのモットーでね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev093202_MSG0385",
+      "style": 0,
+      "name": "一度食うと決めたら　死んでも食ってやるさ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev093202_MSG0390",
+      "style": 0,
+      "name": "オレ達に手間をかけさせた分\n最高のピザを焼いてくれよ？[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev093202_MSG0400",
+      "style": 0,
+      "name": "は　はあ[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

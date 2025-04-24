@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08160100_MSG0001",
+      "style": 0,
+      "name": "미안하다, 우리가 담당 구역을 벗어난 틈에\n보기 좋게 빼앗기고 말았어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08160100_MSG0002",
+      "style": 0,
+      "name": "적이 도시에 침입했으니 어쩔 수 없지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08160100_MSG0003",
+      "style": 0,
+      "name": "피해가 적었다는 걸 다행으로 여기자[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08160100_MSG0004",
+      "style": 0,
+      "name": "뭐, 그렇지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08160100_MSG0005",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08160100_MSG0006",
+      "style": 0,
+      "name": "녀석들, 어째서 그 돌에\n그렇게까지 집착한 거지?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08160100_MSG0007",
+      "style": 0,
+      "name": "글쎄……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs08160100_MSG0008",
+      "style": 0,
+      "name": "그들은 어떻게 그 기체가\n우리에게 회수되었다는 것을[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs08160100_MSG0009",
+      "style": 0,
+      "name": "그리고 여기에 보관 중이라는 것을\n알고 있었던 걸까……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs08160100_MSG0009_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "xs08160100_MSG0010",
+      "style": 0,
+      "name": "설마……![ST:wait ]"
+    }
+  ]
+}

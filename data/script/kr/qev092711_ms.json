@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092711_MSG0010",
+      "style": 1,
+      "name": "필요한 소재는 분명\n시엘 호수 부근에서 채집할 수 있을 거다\n미안하지만 잘 부탁한다[ST:wait ]"
+    }
+  ]
+}

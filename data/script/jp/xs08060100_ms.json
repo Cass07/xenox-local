@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08060100_MSG0001",
+      "style": 0,
+      "name": "いやな雨ですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08060100_MSG0002",
+      "style": 0,
+      "name": "こちらは　地球人類居留地[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08060100_MSG0003",
+      "style": 0,
+      "name": "ニューロサンゼルス防衛軍指揮官\nヴァンダム将軍である！[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs08060100_MSG0004",
+      "style": 0,
+      "name": "防衛軍　将軍[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08060100_MSG0005",
+      "style": 0,
+      "name": "そんなのありましたっけ[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs08060100_MSG0006",
+      "style": 0,
+      "name": "グロウス軍と交渉するための箔付けよ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08060100_MSG0007",
+      "style": 0,
+      "name": "民間組織の司令よりは\n威厳があると思ったのでしょう[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs08060100_MSG0008",
+      "style": 0,
+      "name": "そういうものなんですか[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs08060100_JNK0010",
+      "style": 4,
+      "name": "賛成"
+    },
+    {
+      "$id": 10,
+      "label": "xs08060100_SEL0011",
+      "style": 3,
+      "name": "言い得て妙だとうなずく"
+    },
+    {
+      "$id": 11,
+      "label": "xs08060100_JNK0020",
+      "style": 4,
+      "name": "反対"
+    },
+    {
+      "$id": 12,
+      "label": "xs08060100_SEL0021",
+      "style": 3,
+      "name": "ピンとこないと苦笑いする"
+    },
+    {
+      "$id": 13,
+      "label": "xs08060100_MSG0009",
+      "style": 0,
+      "name": "ですよね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08060100_MSG0010",
+      "style": 0,
+      "name": "なんかこう　ムキムキっとした感じが\n将軍ぽいって言うか[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08060100_MSG0011",
+      "style": 0,
+      "name": "肩書きはどうあれ\n指揮官としての彼の能力に間違いはないわ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs08060100_MSG0012",
+      "style": 0,
+      "name": "司令でも将軍でも別にいいんじゃない[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs08060100_MSG0013",
+      "style": 0,
+      "name": "私はもう将軍ってイメージが頭を離れませんよ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev014601_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev014601_SEL0011",
+      "style": 3,
+      "name": "지명에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev014601_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev014601_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev014601_SEL0031",
+      "style": 3,
+      "name": "습격 당시의 행동을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev014601_SEL0041",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev014601_MSG0001",
+      "style": 1,
+      "name": "야광의 숲의 지명 중에\n저희, 팀 발리사르다가\n명명한 곳이 몇 군데 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev014601_MSG0002",
+      "style": 1,
+      "name": "이국적인 이름이 많아서\n다른 에어리어와는 분위기가 조금 다르죠?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev014601_MSG0003",
+      "style": 1,
+      "name": "신고가 『HANJA』를 잘 안다기에\n라오 리더가 이름 짓는 걸 맡겼거든요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev014601_MSG0004",
+      "style": 1,
+      "name": "저는 무슨 의미인지 모르지만……\n그래도 왠지 멋있는 느낌이네요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev014601_MSG0010",
+      "style": 1,
+      "name": "신고가…… 걱정됩니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev014601_MSG0013",
+      "style": 1,
+      "name": "예전에는 라오 리더를 만나겠다며\n계속 뒤를 따라다니고는 했는데[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev014601_MSG0014",
+      "style": 1,
+      "name": "요즘은 상업 에어리어에 가면\n돌아오는 경우가 거의 없습니다……\n미팅 중에도 멍하니 있고……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev014601_MSG0015",
+      "style": 1,
+      "name": "팀 활동에 싫증이 나서\n최대한 거리를 두려고 하는 건……\n아니겠지요…………?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev014601_MSG0016",
+      "style": 1,
+      "name": "라오 리더도 이야기해 보겠다고 했지만……\n아아…… 걱정됩니다……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev014601_MSG0028",
+      "style": 1,
+      "name": "격리 격납고 앞에서 이탈한 일……\n저는 후회하고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev014601_MSG0029",
+      "style": 1,
+      "name": "반담 사령관님의 명령을 마지막까지\n따르는 것이 이치에 맞았을 텐데……\n설령 그 자리에서 죽게 되더라도……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev014601_MSG0030",
+      "style": 1,
+      "name": "아뇨, 라오 리더가 정한 일이었으니\n부하인 제가 잘잘못을 따지는 것은\n보기 좋은 모습이 아니겠군요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev014601_MSG0031",
+      "style": 1,
+      "name": "……그런데 적은 어째서\n격리 격납고에 그 돌이 있다는 걸\n알고 있었던 걸까요……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev014601_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev014601_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev014601_MSG0032",
+      "style": 1,
+      "name": "신고 일은…… 라오 리더한테\n전부 들었습니다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev014601_MSG0033",
+      "style": 1,
+      "name": "여러분께서 도움을 주셨다지요……\n감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev014601_MSG0034",
+      "style": 1,
+      "name": "어린아이라고 생각했었는데\n이미 훌륭한 사나이였군요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev014601_MSG0035",
+      "style": 1,
+      "name": "자신의 연인을 지키기 위해\n신고는 더욱 강해질 겁니다[ST:wait ]"
+    }
+  ]
+}

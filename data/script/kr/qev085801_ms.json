@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085801_MSG0001",
+      "style": 0,
+      "name": "누가 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085801_MSG0002",
+      "style": 0,
+      "name": "아, 정말 고맙네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085801_MSG0003",
+      "style": 0,
+      "name": "도중에 위험 지대도 지나야 해서\n실력 있는 팀이 맡아 줬으면 했거든[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085801_MSG0004",
+      "style": 0,
+      "name": "패스파인더가 보급 물자 부족으로\n고립되다니, 어이없는 이야기네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085801_MSG0005",
+      "style": 0,
+      "name": "누구 팀이야?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085801_MSG0006",
+      "style": 0,
+      "name": "그게 말이네, 라오 팀일세[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085801_MSG0007",
+      "style": 0,
+      "name": "라오 씨 팀이요? 믿을 수 없네요\n아무리 봐도 실력자라는 느낌인데[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085801_MSG0008",
+      "style": 0,
+      "name": "정말 그렇다모\n타츠만큼 실력 있는 느낌이다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085801_MSG0009",
+      "style": 0,
+      "name": "뭐, 그 녀석 본인은\n능력 있는 녀석이지만……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085801_MSG0010",
+      "style": 0,
+      "name": "무슨 일 있어?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085801_MSG0011",
+      "style": 0,
+      "name": "최근에 그 녀석, 임무를 팀 멤버에게\n맡기고 사라지는 일이 많아[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085801_MSG0012",
+      "style": 0,
+      "name": "대체 어디를 싸돌아다니는 건지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085801_MSG0019",
+      "style": 0,
+      "name": "걱정"
+    },
+    {
+      "$id": 14,
+      "label": "qev085801_MSG0020",
+      "style": 0,
+      "name": "뭔가 사정이 있는 건 아닌지\n의문을 가진다"
+    },
+    {
+      "$id": 15,
+      "label": "qev085801_MSG0021",
+      "style": 0,
+      "name": "불만"
+    },
+    {
+      "$id": 16,
+      "label": "qev085801_MSG0022",
+      "style": 0,
+      "name": "무책임한 녀석이라고 라오를 나무란다"
+    },
+    {
+      "$id": 17,
+      "label": "qev085801_MSG0013",
+      "style": 0,
+      "name": "그럴 땐 나에게 의논을 부탁하면 되잖나?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085801_MSG0014",
+      "style": 0,
+      "name": "아저씨는 인망이 없어서 어쩔 수 없다모[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085801_MSG0015",
+      "style": 0,
+      "name": "그런가, 인망이 말이지……\n아니, 뭐라고!?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085801_MSG0016",
+      "style": 0,
+      "name": "뭐, 그런 말을 듣는 것도 어쩔 수 없지\n내 쪽에서도 주의를 줘야겠군[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085801_MSG0017",
+      "style": 0,
+      "name": "라오 문제는 그렇다 치고\n그 팀을 그냥 둘 수는 없겠네[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085801_MSG0018",
+      "style": 0,
+      "name": "그래, 서둘러 주게\n부탁하네[ST:wait ]"
+    }
+  ]
+}

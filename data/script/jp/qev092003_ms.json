@@ -1,0 +1,540 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092003_MSG0001",
+      "style": 0,
+      "name": "お待たせ　ティカ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092003_MSG0002",
+      "style": 0,
+      "name": "アクセナ　思ったより元気そうじゃない[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092003_MSG0003",
+      "style": 0,
+      "name": "落ち込んでると思って\nすぐに次の任務を入れてあげたのに[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092003_MSG0004",
+      "style": 0,
+      "name": "お気遣いどーも\nカンバーのドールの修理のメドが立ったから[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092003_MSG0005",
+      "style": 0,
+      "name": "割といつも通りのテンションになってきたよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092003_MSG0006",
+      "style": 0,
+      "name": "勘違いされてないといいけど[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092003_MSG0007",
+      "style": 0,
+      "name": "ん　何が？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092003_MSG0008",
+      "style": 0,
+      "name": "ま　いいわ　アクセナと新米テスター君には\n新しいテストを頼みたくて来てもらったの[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092003_MSG0009",
+      "style": 0,
+      "name": "またインナーウェポンね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092003_MSG0010",
+      "style": 0,
+      "name": "私がドールに関わるのなんて\n５回に１回くらいだからね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092003_MSG0011",
+      "style": 0,
+      "name": "アクセナにとっては\n楽しくないかもしれないけど[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092003_MSG0012",
+      "style": 0,
+      "name": "これから渡す武器を使って\n指定する原生生物を倒してきて[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092003_MSG0013",
+      "style": 0,
+      "name": "今回は２か所でお願い[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092003_MSG0014",
+      "style": 0,
+      "name": "気候や特性の異なる土地でも\n運用できるかテストしたいの[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092003_MSG0015",
+      "style": 0,
+      "name": "なるほど　わかった　了解！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092003_MSG0016",
+      "style": 1,
+      "name": "私の武器は爆発するなんてヘマはしないわ\n安心してテストしてきて[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092003_MSG0017",
+      "style": 0,
+      "name": "さすがティカが設計しただけあって\n絶好調だったよ！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092003_MSG0018",
+      "style": 0,
+      "name": "アクセナ\n[ST:wide ]―その武器　少しおかしくなかった？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092003_MSG0019",
+      "style": 0,
+      "name": "へ？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092003_MSG0020",
+      "style": 0,
+      "name": "データを見てると\n何か異物が混入しているような感じがして[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092003_MSG0021",
+      "style": 0,
+      "name": "そう言われれば　なんか熱いような[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092003_MSG0022",
+      "style": 0,
+      "name": "早く投げ捨てて！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092003_MSG0022_02",
+      "style": 0,
+      "name": "！！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092003_MSG0023",
+      "style": 0,
+      "name": "あー[ST:wide ]―　危なかった[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092003_MSG0024",
+      "style": 0,
+      "name": "大丈夫？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092003_MSG0025",
+      "style": 0,
+      "name": "うん　なんとか[ST:wide ]―\nティカでも失敗するんだね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092003_MSG0026",
+      "style": 0,
+      "name": "失敗はするけど　あんな失敗はしない[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092003_MSG0027",
+      "style": 0,
+      "name": "どう考えても作為的な悪意を感じるわ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092003_MSG0028",
+      "style": 0,
+      "name": "アクセナ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092003_MSG0028_2",
+      "style": 0,
+      "name": "あんた誰かに狙われてるんじゃないの？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092003_JNK0010",
+      "style": 4,
+      "name": "反論する"
+    },
+    {
+      "$id": 32,
+      "label": "qev092003_SEL0011",
+      "style": 3,
+      "name": "アクセナは人から恨まれる性格ではないと言う"
+    },
+    {
+      "$id": 33,
+      "label": "qev092003_JNK0020",
+      "style": 4,
+      "name": "同意する"
+    },
+    {
+      "$id": 34,
+      "label": "qev092003_SEL0021",
+      "style": 3,
+      "name": "もしかすると誰かから\n恨まれているのかもしれないとうなずく"
+    },
+    {
+      "$id": 35,
+      "label": "qev092003_MSG0029",
+      "style": 0,
+      "name": "そうそう！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092003_MSG0030",
+      "style": 0,
+      "name": "と言いたいところだけど　この前の失敗が\n大きかったから恨まれてるのかなぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092003_MSG0031",
+      "style": 0,
+      "name": "いえ　そもそも前のテストの時には\n既に恨まれてたんじゃないの？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092003_MSG0032",
+      "style": 0,
+      "name": "そっ　そんなことないよ！[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092003_MSG0033",
+      "style": 0,
+      "name": "そんなことあるわ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092003_MSG0033_2",
+      "style": 0,
+      "name": "そもそも前のテストの時には\n既に恨まれてたんじゃないの？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092003_MSG0034",
+      "style": 0,
+      "name": "あっ　そういうこと！？[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092003_MSG0035",
+      "style": 0,
+      "name": "試作兵器とはいえ\nＮＬＡの外で運用テストをするくらいになると[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092003_MSG0036",
+      "style": 0,
+      "name": "それなりの安全性が保証されてるわ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092003_MSG0037",
+      "style": 0,
+      "name": "なのに　人の命を奪いかねない事故が\n連続で起こるのは明らかにおかしい[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092003_MSG0038",
+      "style": 0,
+      "name": "あたし　本当に危なかったんだ[ST:wide ]―\nあー　生きててよかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092003_MSG0039",
+      "style": 0,
+      "name": "でも　一体誰があたしを？[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092003_MSG0040",
+      "style": 0,
+      "name": "そんなの私にもわからない[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092003_MSG0041",
+      "style": 0,
+      "name": "だけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092003_MSG0041_2",
+      "style": 0,
+      "name": "犯人を特定することはできるかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092003_MSG0042",
+      "style": 0,
+      "name": "ホント！？[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092003_MSG0043",
+      "style": 0,
+      "name": "壊れた武器の残骸を調べるわ　そうすれば\n誰がどんな手段を使ったのかが特定できる[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092003_MSG0044",
+      "style": 0,
+      "name": "ありがとう　ティカ！　さすが頼りになる！！[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092003_MSG0045",
+      "style": 0,
+      "name": "少し待ってて　最優先で片づけるわ[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092003_MSG0046",
+      "style": 0,
+      "name": "わかったわ[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092003_MSG0046_2",
+      "style": 0,
+      "name": "犯人は超小型の爆薬を武器につけてた[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092003_MSG0047",
+      "style": 0,
+      "name": "発信機があって\nそれを押せば爆発する仕組みね[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092003_MSG0048",
+      "style": 0,
+      "name": "じゃあ　もしかして背負ってる時に\n押されたりしたら[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092003_MSG0049",
+      "style": 0,
+      "name": "天国行きだったわね[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092003_MSG0050",
+      "style": 0,
+      "name": "怖っ！？[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092003_MSG0051",
+      "style": 0,
+      "name": "でも　犯人はさすがに殺そうとは\n思わなかったみたいね[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092003_MSG0052",
+      "style": 0,
+      "name": "アクセナの任務が失敗するようなタイミングで\n爆発させているだけみたいだし[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev092003_MSG0053",
+      "style": 0,
+      "name": "それでも十分な嫌がらせだよ！[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev092003_MSG0054",
+      "style": 0,
+      "name": "だけど　これは大きなヒントよ[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev092003_MSG0055",
+      "style": 0,
+      "name": "アクセナを見ていないと\nそのタイミングで爆発はさせられないからね[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev092003_MSG0056",
+      "style": 0,
+      "name": "あっそっか　あたしをこっそりと\n見張ってる人がいたってこと？[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev092003_JNK0030",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 67,
+      "label": "qev092003_SEL0031",
+      "style": 3,
+      "name": "この近くに不審者がいなかったか調べようと提案する"
+    },
+    {
+      "$id": 68,
+      "label": "qev092003_JNK0040",
+      "style": 4,
+      "name": "自首"
+    },
+    {
+      "$id": 69,
+      "label": "qev092003_SEL0041",
+      "style": 3,
+      "name": "実は自分がやっていましたと自首する"
+    },
+    {
+      "$id": 70,
+      "label": "qev092003_MSG0057",
+      "style": 0,
+      "name": "そうだね　そうしよう！[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092003_MSG0058",
+      "style": 0,
+      "name": "目撃情報を辿っていけば\nいずれ犯人にたどり着くかもしれないよね[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092003_MSG0059",
+      "style": 0,
+      "name": "キミが！？[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092003_MSG0060",
+      "style": 0,
+      "name": "って　そんなワケないよね\n最初の事故の時は近くにいなかったわけだし[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092003_MSG0061",
+      "style": 0,
+      "name": "ドールバカのあたしにだって\nそれくらいはわかるよ[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092003_MSG0062",
+      "style": 0,
+      "name": "さっきの爆発の時\n不審者がいなかったか調べてみるべきね[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092003_MSG0063",
+      "style": 0,
+      "name": "よし　急ごう[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092003_MSG0064",
+      "style": 0,
+      "name": "新米テスター君　アクセナのことよろしくね\n気を付けて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092003_MSG0065",
+      "style": 0,
+      "name": "おかえり テストのデータは十分に取れたわ[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092003_MSG0066",
+      "style": 0,
+      "name": "試作兵器を返却してくれる？[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092003_MSG0067",
+      "style": 1,
+      "name": "おかえり テストのデータは十分に取れたわ[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092003_MSG0068",
+      "style": 0,
+      "name": "試作兵器を返却してくれる？[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092003_MSG0069",
+      "style": 1,
+      "name": "アクセナがやらかした事故の後処理は\nどうするのかって？[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092003_MSG0070",
+      "style": 1,
+      "name": "メカのことは\nメカニックに任せておけばいいのよ[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092003_MSG0071",
+      "style": 1,
+      "name": "でも　へこんでるテストパイロットのことは\nブレイド同士でなんとかしてね[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev092003_MSG0072",
+      "style": 1,
+      "name": "アクセナのこと[ST:wide ]―\n任せたわよ[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev092003_MSG0073",
+      "style": 1,
+      "name": "監視カメラを確認してみたけど\n不審者はいなかったわ[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev092003_MSG0074",
+      "style": 1,
+      "name": "……ここに出入りしてても\nおかしくない人物……ってことかしらね[ST:wait ]"
+    }
+  ]
+}

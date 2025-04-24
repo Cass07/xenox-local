@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095202_MSG0001",
+      "style": 1,
+      "name": "私達の救助信号を受信してくれたのか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095202_MSG0002",
+      "style": 1,
+      "name": "グロウスの目から逃れるため　微弱な信号しか\n送れなかったが成功したようだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095202_JNK0010",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 4,
+      "label": "qev095202_SEL0011",
+      "style": 3,
+      "name": "相手のことを詳しく聞く"
+    },
+    {
+      "$id": 5,
+      "label": "qev095202_JNK0020",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 6,
+      "label": "qev095202_SEL0021",
+      "style": 3,
+      "name": "助けがほしいのかと尋ねる"
+    },
+    {
+      "$id": 7,
+      "label": "qev095202_MSG0003",
+      "style": 1,
+      "name": "……私達の存在を未確認のまま\nここまで来たのか[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095202_MSG0004",
+      "style": 1,
+      "name": "地球人というのは随分と奇妙な異星人だが\nそうした奇異な行為を取る生物がいるのも\nまた事実だな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095202_MSG0005",
+      "style": 1,
+      "name": "ともあれ救援信号を送った私達が\n正しかったということだ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095202_MSG0006",
+      "style": 1,
+      "name": "君は論理的行動にはやや欠けるようだが\n戦闘能力は高いと判断する[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095202_MSG0007",
+      "style": 1,
+      "name": "地球人がグロウスを粉砕する可能性は51％\n私達は強者の側につきたい[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095202_MSG0008",
+      "style": 1,
+      "name": "だからこそ地球人に助けを求めた\nなぜならそれが合理的行動だからだ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095202_MSG0009",
+      "style": 1,
+      "name": "だが[ST:wide ]―\nグロウスにとって私達の利用価値は高い[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095202_MSG0010",
+      "style": 1,
+      "name": "私達の高度な技術力を\nグロウスは手放したがらない[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095202_MSG0011",
+      "style": 1,
+      "name": "私達を取り戻すために　\nグロウスの攻撃は地球人に集中するだろう[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev095202_MSG0026",
+      "style": 1,
+      "name": "ああ　そうだ\n私たちが救援信号を送ったのだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev095202_JNK0030",
+      "style": 4,
+      "name": "進言"
+    },
+    {
+      "$id": 18,
+      "label": "qev095202_SEL0031",
+      "style": 3,
+      "name": "早く街に戻ろうと促す"
+    },
+    {
+      "$id": 19,
+      "label": "qev095202_JNK0040",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 20,
+      "label": "qev095202_SEL0041",
+      "style": 3,
+      "name": "どのような名前の\n異星人なのかと尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev095202_JNK0050",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 22,
+      "label": "qev095202_SEL0051",
+      "style": 3,
+      "name": "自分のことを私達と呼んでいる理由を尋ねる"
+    },
+    {
+      "$id": 23,
+      "label": "qev095202_MSG0012",
+      "style": 1,
+      "name": "……それが論理的行動だ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095202_MSG0013",
+      "style": 1,
+      "name": "だが　少し待て[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095202_MSG0014",
+      "style": 1,
+      "name": "私の他にも仲間がいるのだ\n一緒に救出してもらおう[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095202_MSG0015",
+      "style": 1,
+      "name": "悠長に自己紹介をしている暇はないが\n私達は　オルフェと呼ばれる者たちだ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev095202_MSG0016",
+      "style": 1,
+      "name": "時間がないというのは私の他にも\n仲間がいるのだ\n大所帯での救出は時間がかかる[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095202_MSG0017",
+      "style": 1,
+      "name": "なかなかの洞察力だ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev095202_MSG0018",
+      "style": 1,
+      "name": "私の他にも仲間がいるのだ\n一緒に救出してもらおう[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev095202_MSG0019",
+      "style": 1,
+      "name": "これが現時点での私達オルフェの総員だ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev095202_MSG0020",
+      "style": 1,
+      "name": "それでは　NLAまで\n連れて行ってもらうとしよう[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev095202_MSG0021",
+      "style": 1,
+      "name": "しまった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev095202_MSG0022",
+      "style": 1,
+      "name": "さすがに感づかれたようだ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev095202_MSG0023",
+      "style": 1,
+      "name": "私達は技術者ゆえ戦いは不得手だ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev095202_MSG0024",
+      "style": 1,
+      "name": "従って　君はグロウスと戦い\n私達を守らねばならない[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev095202_MSG0025",
+      "style": 1,
+      "name": "……頼むぞ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev095202_MSG1001",
+      "style": 1,
+      "name": "[ST:wide ]―ふむ　敵の殲滅を確認した[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev095202_MSG1002",
+      "style": 1,
+      "name": "よくやってくれた\nさあ　今のうちに私達をNLAに\n連れて行ってくれ[ST:wait ]"
+    }
+  ]
+}

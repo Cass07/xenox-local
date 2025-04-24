@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012103_MSG0001",
+      "style": 1,
+      "name": "고마워요…… 선배[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012103_MSG0002",
+      "style": 1,
+      "name": "에헤헤, 정말 이번 일은 뭐라고 해야 할지\n신세만 져서 죄송해요……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012103_MSG0003",
+      "style": 1,
+      "name": "지금 이렇게 살아 있는 건\n전부 선배 덕분이에요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev012103_MSG0004",
+      "style": 1,
+      "name": "아무리 저라도 이번 일은 반성하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev012103_MSG0005",
+      "style": 1,
+      "name": "세계는 넓다는 걸\n다시 한번 통감했어요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev012103_MSG0006",
+      "style": 1,
+      "name": "역시……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev012103_MSG0007",
+      "style": 1,
+      "name": "역시 이 문명 시대에\n맨몸 하나로 모험하려는 건\n너무 무모했죠?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev012103_MSG0008",
+      "style": 1,
+      "name": "맞아요, 장비가 더 충분했다면\n이런 위험한 일을 당하지 않았을 거예요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev012103_MSG0009",
+      "style": 1,
+      "name": "음…… 이번에는\n저 자신은 문제없던 걸로 하고……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev012103_MSG0010",
+      "style": 1,
+      "name": "다음 모험에는 좀 더 제대로 된 장비를……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev012103_MSG0011",
+      "style": 1,
+      "name": "그러기 위해선 역시 자본이……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev012103_MSG0012",
+      "style": 1,
+      "name": "음~ 음~[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev012103_MSG0013",
+      "style": 1,
+      "name": "아빠랑 엄마가 그랬었지~\n스폰서는 중요하다고……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev012103_MSG0014",
+      "style": 1,
+      "name": "음……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev012103_MSG0015",
+      "style": 1,
+      "name": "……\n…………[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev012103_MSG0016",
+      "style": 1,
+      "name": "응? 어라!?\n선배, 아직도 있었어요?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev012103_MSG0017",
+      "style": 1,
+      "name": "저는 이제 괜찮으니까\n신경 쓰지 말고 일하러 가셔도 돼요![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev012103_MSG0018",
+      "style": 1,
+      "name": "저, 튼튼한 몸만큼은\n자신 있으니까요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev012103_MSG0019",
+      "style": 1,
+      "name": "상태를 보러 와 주셔서 감사해요![ST:wait ]"
+    }
+  ]
+}

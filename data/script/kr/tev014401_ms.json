@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev014401_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev014401_SEL0011",
+      "style": 3,
+      "name": "NLA의 환경에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev014401_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev014401_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev014401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev014401_SEL0031",
+      "style": 3,
+      "name": "NLA의 시설에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev014401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev014401_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev014401_MSG0001",
+      "style": 1,
+      "name": "도로는 미완성에, 도시는 절반도 완성되지 않았으니\n여기 작업자들은 뭐 하는 건가 싶지?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev014401_MSG0002",
+      "style": 1,
+      "name": "……아니, 우리도 여기 오고 나서\n열심히 도시를 보수하고 증축하느라 분주했다고[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev014401_MSG0003",
+      "style": 1,
+      "name": "하지만 어쩔 수 없잖냐?\n원래 흰고래 내부에서 완성할 예정이었던 도시를\n외계인들이 갑자기 땅에 처박았으니까[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev014401_MSG0004",
+      "style": 1,
+      "name": "흰고래에 있던 대규모 건축 유닛도 없이\n도시를 짓는 건…… 그리 쉬운 일이 아니라고[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev014401_MSG0005",
+      "style": 1,
+      "name": "아직 자재 확보도 제대로 안 되고 있으니\n불편하겠지만 당분간 참아 줘[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev014401_MSG0008",
+      "style": 1,
+      "name": "저기 있는 암즈 성능 시험장에서\n신형 병기 테스트 협력자를 모집한다더라[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev014401_MSG0009",
+      "style": 1,
+      "name": "듣자 하니 강하면 강할수록\n좋다고 하던데[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev014401_MSG0010",
+      "style": 1,
+      "name": "대체 뭘 시키려는 건지는 몰라도……\n실력에 자신이 있다면 가 보는 건 어때?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev014401_MSG0011",
+      "style": 1,
+      "name": "발매 전의 무기나 돌 같은 걸\n건드려 볼 수 있을지도 모르잖아[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev014401_MSG0019",
+      "style": 1,
+      "name": "후우~ 그 습격 때는 이곳이\n박살 나는 것조차 각오했었는데[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev014401_MSG0020",
+      "style": 1,
+      "name": "역시 수많은 이민선 중에서도 단연 최고인\n만능 우주선, 흰고래에서 만든 도시야![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev014401_MSG0021",
+      "style": 1,
+      "name": "그 엄청난 포격을 멀쩡히 견딘 덕에\n우리 작업자들이 손댈 곳도 별로 없었다고[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev014401_MSG0022",
+      "style": 1,
+      "name": "이 정도면 복구 작업은 빠르게 마치고\n미완성 부분 공사를 진행할 수 있겠어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev014401_MSG0023",
+      "style": 1,
+      "name": "힘내서 흰고래의 건축 유닛으로 만들어진 도시에\n지지 않을 작품을 완성해야지![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev014401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev014401_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev014401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev014401_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev014401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev014401_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev014401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev014401_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev014401_MSG0024",
+      "style": 1,
+      "name": "저번에, 록이 걱정되는 건지\n세리카 아가씨가 또 왔더라고[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev014401_MSG0025",
+      "style": 1,
+      "name": "모르는 곳에서 낯선 일을 하고 있으니\n괜찮을지 신경이야 쓰이겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev014401_MSG0026",
+      "style": 1,
+      "name": "그렇게 매일같이 찾아오는 건……\n아무래도 과보호라는 생각이 들거든[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev014401_MSG0027",
+      "style": 1,
+      "name": "녀석도 여기서 일하는 이상\n어엿한 작업자야\n그럼 어른 대접을 해 줘야지[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev014401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "tev014401_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev014401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev014401_SEL2021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev014401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev014401_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev014401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev014401_SEL2021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "tev014401_MSG0028",
+      "style": 1,
+      "name": "록 그 녀석, 세리카 아가씨한테\n건방진 소리를 했다더라[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev014401_MSG0029",
+      "style": 1,
+      "name": "『보러 와 주지 않아도 괜찮아\n네 일에 집중해 줘』……라고[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev014401_MSG0030",
+      "style": 1,
+      "name": "처음 만났을 때는 좀 어수룩했는데……\n제법 어른스러워졌다니까[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev014401_MSG0031",
+      "style": 1,
+      "name": "대신 세리카 아가씨의\n발걸음이 뜸해진 건 아쉽네[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev014401_MSG0032",
+      "style": 1,
+      "name": "앞으로는 내가 아가씨를\n만나러 가 봐야 하나……[ST:wait ]"
+    }
+  ]
+}

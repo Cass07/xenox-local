@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092704_JNK0010",
+      "style": 4,
+      "name": "報告"
+    },
+    {
+      "$id": 2,
+      "label": "qev092704_SEL0020",
+      "style": 3,
+      "name": "グラナダＧＧの依頼で来たと伝える"
+    },
+    {
+      "$id": 3,
+      "label": "qev092704_MSG0030",
+      "style": 0,
+      "name": "グラナダから？\nああ[ST:wide ]―　そういうことか[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092704_MSG0040",
+      "style": 0,
+      "name": "きっとあいつだな[ST:wide ]―\nやはり心配をかけてしまったか[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092704_JNK0050",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 6,
+      "label": "qev092704_SEL0060",
+      "style": 3,
+      "name": "怪我はないか？と聞く"
+    },
+    {
+      "$id": 7,
+      "label": "qev092704_MSG0070",
+      "style": 0,
+      "name": "ああ　おれは幸い　傷一つない[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092704_MSG0080",
+      "style": 0,
+      "name": "怪我なんかしていたら\nあいつにどやされるところだしな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092704_MSG0090",
+      "style": 0,
+      "name": "何はともあれ　ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092704_MSG0100",
+      "style": 0,
+      "name": "通信機能の故障で\n救援要請もままならなくてな[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092704_MSG0110",
+      "style": 0,
+      "name": "おかげで助かったよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092704_MSG0120",
+      "style": 0,
+      "name": "改めて　おれはリーゼル[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092704_MSG0125",
+      "style": 0,
+      "name": "グラナダ・ＧＧ所属のテストパイロットだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092704_MSG0130",
+      "style": 0,
+      "name": "救助に来てくれたのは有り難いが[ST:wide ]―\n肝心の機体が　この有様でな[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092704_MSG0140",
+      "style": 0,
+      "name": "どうにかして\nこいつを直して持ち帰らないといけない[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092704_MSG0150",
+      "style": 0,
+      "name": "なにせ企業秘密の塊だからな[ST:wide ]―\nここに放置するのは　流石にまずい[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092704_MSG0160",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092704_MSG0170",
+      "style": 0,
+      "name": "なあ　ものは相談なんだが\nおれからも一つ頼まれてくれないか？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092704_MSG0180",
+      "style": 0,
+      "name": "このあたりはドールの応急処置に使える素材が\n拾えることがある[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092704_MSG0190",
+      "style": 0,
+      "name": "今から　その素材リストを送る\nそれらを回収してきてもらいたい[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092704_MSG0200",
+      "style": 0,
+      "name": "おれは修理の準備を進めておく\nすまないが　よろしく頼む[ST:wait ]"
+    }
+  ]
+}

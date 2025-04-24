@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001091_MSG0001",
+      "style": 1,
+      "name": "……아, [ST:playername ] 씨\n안녕하세요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001091_MSG0002",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001091_MSG0003",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001091_MSG0004",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001091_MSG0005",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001091_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 7,
+      "label": "tev001091_SEL0011",
+      "style": 3,
+      "name": "뭘 하고 있었는지 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001091_JNK0020",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 9,
+      "label": "tev001091_SEL0021",
+      "style": 3,
+      "name": "물고기를 보고 있었냐며 말을 건다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001091_MSG0006",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001091_MSG0007",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001091_MSG0008",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001091_MSG0009",
+      "style": 1,
+      "name": "……유감이지만 물고기는 없어요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001091_MSG0010",
+      "style": 1,
+      "name": "물고기가 있었다면\n매일 낚시를 했겠지만요……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001091_MSG0011",
+      "style": 1,
+      "name": "……고민하고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001091_MSG0012",
+      "style": 1,
+      "name": "……여기에 있는 이건 평범한 물처럼 보이지만\n사실은 충격을 완화하기 위한 젤이에요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001091_MSG0013",
+      "style": 1,
+      "name": "굳으면 NLA 외벽을 감싸고 있는\n결정처럼 변한다고 하던데\n아무래도 믿기지 않아서요……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001091_MSG0014",
+      "style": 1,
+      "name": "그런데 어떤 액체를 주입하면 순간적으로\n응고된다는 소문을 들었거든요……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001091_MSG0015",
+      "style": 1,
+      "name": "실제로 시험해 봐야 할지\n계속 고민하고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001091_JNK0030",
+      "style": 4,
+      "name": "제안한다"
+    },
+    {
+      "$id": 21,
+      "label": "tev001091_SEL0031",
+      "style": 3,
+      "name": "그렇게 궁금하다면\n해 봐야 한다고 제안한다"
+    },
+    {
+      "$id": 22,
+      "label": "tev001091_JNK0040",
+      "style": 4,
+      "name": "진정시킨다"
+    },
+    {
+      "$id": 23,
+      "label": "tev001091_SEL0041",
+      "style": 3,
+      "name": "혼날 테니 하지 말라고\n진정시킨다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001091_MSG0016",
+      "style": 1,
+      "name": "역시 당신도 궁금하세요?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001091_MSG0017",
+      "style": 1,
+      "name": "그렇다면, 꼭 시험해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001091_MSG0018",
+      "style": 1,
+      "name": "저는 멀리서 구경하고 있을게요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001091_MSG0019",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001091_MSG0020",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001091_MSG0021",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001091_MSG0022",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001091_MSG0023",
+      "style": 1,
+      "name": "……아무래도 그럴 수는 없겠죠[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001091_MSG0024",
+      "style": 1,
+      "name": "모리스 행정장관님이나 나기 군무장관님\n혹은 반담 사령관님의 불호령이 떨어질 거예요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001091_MSG0025",
+      "style": 1,
+      "name": "사소한 호기심을 채우기 위해\n위험을 무릅쓰고 모험을 강행하는 건\n분명 현명한 판단이 아니겠죠[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001091_MSG0026",
+      "style": 1,
+      "name": "일단은 꾹 참아야겠어요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001091_MSG0027",
+      "style": 1,
+      "name": "하지만, 언젠가 다른 곳에서 꼭 시험해 봐요![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001091_MSG0028",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001091_MSG0029",
+      "style": 1,
+      "name": "……그렇네요, 안 하는 게 좋겠어요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001091_MSG0030",
+      "style": 1,
+      "name": "주택 에어리어에서 실수로\n발을 헛디뎌 여기까지 떨어진 게\n한두 번이 아니거든요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001091_MSG0031",
+      "style": 1,
+      "name": "그때는 액체여서 안 다치고 넘어갔지만\n이걸 고체로 바꾸어 버리면\n다리를 다치게 될지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001091_MSG0032",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001091_MSG0033",
+      "style": 1,
+      "name": "……저, 결심했어요\n젤은 이대로 놔둘게요[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001091_MSG0034",
+      "style": 1,
+      "name": "당신 덕분에 결심할 수 있었어요\n정말 다행이네요[ST:wait ]"
+    }
+  ]
+}

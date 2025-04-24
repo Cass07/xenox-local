@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev027105_MSG0020",
+      "style": 1,
+      "name": "후우~! 아침에 『ROSE MOSS』에서 먹은\n피자 덕분에 오늘도 컨디션 최고잖앙![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev027105_MSG0021",
+      "style": 1,
+      "name": "이대로 임시자치정부 입성을 목표로\n팍팍 선거 운동을 펼치는 거양~![ST:wait ]"
+    }
+  ]
+}

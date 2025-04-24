@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095401_MSG0001",
+      "style": 1,
+      "name": "저기, 시간 있어?\n잠깐 잡담이나 하고 싶은데[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095401_JNK0010",
+      "style": 4,
+      "name": "있다"
+    },
+    {
+      "$id": 3,
+      "label": "qev095401_SEL0011",
+      "style": 3,
+      "name": "함께 잡담을 나눈다"
+    },
+    {
+      "$id": 4,
+      "label": "qev095401_JNK0020",
+      "style": 4,
+      "name": "없다"
+    },
+    {
+      "$id": 5,
+      "label": "qev095401_SEL0021",
+      "style": 3,
+      "name": "바쁘니까 다음에 하자고 한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev095401_MSG0002",
+      "style": 1,
+      "name": "그렇구나……\n시간이 생기면 말 걸어 줘[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev095401_MSG0003",
+      "style": 1,
+      "name": "중요한 잡담을 해야 하거든[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095401_MSG0004",
+      "style": 1,
+      "name": "NLA는 비교적 평화롭네\n다양한 외계인까지 있는데 말이야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095401_MSG0005",
+      "style": 1,
+      "name": "기억나? 지구에 살던 시절 인류는\n항상 전쟁이나 분쟁을 벌였잖아?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095401_MSG0006",
+      "style": 1,
+      "name": "각 국가는 물론이고 인종 간에도\n민족 간에도 싸움이 끊이지 않았어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095401_MSG0007",
+      "style": 1,
+      "name": "그런 과거를 생각하면 지금의 인류는\n진보했다고 말할 수도 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095401_JNK0030",
+      "style": 4,
+      "name": "동의한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev095401_SEL0031",
+      "style": 3,
+      "name": "확실히 지구인은 성장했다며 끄덕인다"
+    },
+    {
+      "$id": 14,
+      "label": "qev095401_JNK0040",
+      "style": 4,
+      "name": "부정한다"
+    },
+    {
+      "$id": 15,
+      "label": "qev095401_SEL0041",
+      "style": 3,
+      "name": "하지만 외계인과 싸우고 있다고 반론한다"
+    },
+    {
+      "$id": 16,
+      "label": "qev095401_JNK0050",
+      "style": 4,
+      "name": "질문한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev095401_SEL0051",
+      "style": 3,
+      "name": "그래서 결론이 뭐냐고 묻는다"
+    },
+    {
+      "$id": 18,
+      "label": "qev095401_MSG0008",
+      "style": 1,
+      "name": "하지만 진보하지 못한 녀석들이\n있다는 것도 틀린 말은 아니야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev095401_MSG0009",
+      "style": 1,
+      "name": "이걸 봐 봐[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev095401_MSG0010",
+      "style": 1,
+      "name": "맞는 말이야……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev095401_MSG0011",
+      "style": 1,
+      "name": "인간의 본성을 잘 아는 당신이\n봐 줬으면 하는 게 있어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095401_MSG0012",
+      "style": 1,
+      "name": "결론이 뭐냐면, 바로 이거야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095401_MSG0013",
+      "style": 1,
+      "name": "모리스 행정장관님이 극비 임무니까\n조금 더 비밀리에 전달하라고 하셨거든[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095401_MSG0014",
+      "style": 1,
+      "name": "그로우스에 소속된 바이어스인은\n암굴의 일족으로 불린다고 해[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095401_MSG0015",
+      "style": 1,
+      "name": "우리 도시에 있는 거목의 일족과는\n전혀 다른 흉포한 녀석들[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095401_MSG0016",
+      "style": 1,
+      "name": "하지만 행정장관님은 그들의 기술에\n흥미를 가지고 계셔[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev095401_MSG0017",
+      "style": 1,
+      "name": "원시 생물도 있는 곳에 여러 견고한 거점을\n지을 수 있는 비결 말이야[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095401_MSG0018",
+      "style": 1,
+      "name": "일단 현지로 가서 조사해 봐\n그 후에 필요하다면 파괴해[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev095401_MSG0019",
+      "style": 1,
+      "name": "잘 부탁할게[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev095401_MSG0028",
+      "style": 1,
+      "name": "많은 블레이드가 그 바이어스인\n암굴의 일족한테 당해 목숨을 잃었어[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev095401_MSG0029",
+      "style": 1,
+      "name": "최대한 주의하면서 조사를 진행해 줘\n그리고 결과적으로 위험하다고 판단되면……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev095401_MSG0030",
+      "style": 1,
+      "name": "적절하게 처리해 줬으면 해\n잘 부탁할게[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev095401_MSG0020",
+      "style": 1,
+      "name": "어서 와[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev095401_MSG0021",
+      "style": 1,
+      "name": "엄청난 결과로 끝났네[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev095401_MSG0022",
+      "style": 1,
+      "name": "천하의 모리스 행정장관님도\n말문이 막힌 듯하더라고[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev095401_MSG0023",
+      "style": 1,
+      "name": "하지만 그녀 일행을 NLA에서\n보호하기로 결정하신 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev095401_MSG0024",
+      "style": 1,
+      "name": "그로우스 관련 정보를 제공받거나\n바이어스인을 조사하고 싶으시대[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev095401_MSG0025",
+      "style": 1,
+      "name": "거목의 일족이 있으니까 당당하게\n생활할 수는 없을지도 모르지만……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev095401_MSG0026",
+      "style": 1,
+      "name": "그로우스에 있는 것보다는\n더 나은 인생을 살 수 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev095401_MSG0027",
+      "style": 1,
+      "name": "당신의 결단이 NLA에 있어서도\n바이어스인에게 있어서도 올바른 선택이었으면 좋겠네[ST:wait ]"
+    }
+  ]
+}

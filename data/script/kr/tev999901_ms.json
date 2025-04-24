@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999901_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999901_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999901_JNK0030",
+      "style": 4,
+      "name": "배틀 멤버에 넣는다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999901_SEL0031",
+      "style": 3,
+      "name": "활동 중인 블레이드 대원[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999901_MSG0001",
+      "style": 1,
+      "name": "이것이 인도인가……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999901_MSG0101",
+      "style": 1,
+      "name": "영원한 숙적이자 벗이여……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999901_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999901_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999901_MSG2001",
+      "style": 1,
+      "name": "계약은 맺어졌다……\n지원은 우리 유니언에서 맡지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999901_MSG2101",
+      "style": 1,
+      "name": "맹약에 따라 우리 유니언은\n시공을 넘어 너를 계속 지원하도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999901_MSG3001",
+      "style": 1,
+      "name": "나와 계약을 맺고 싶다는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999901_MSG3101",
+      "style": 1,
+      "name": "……당연한 판단이군[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999901_MSG3102",
+      "style": 1,
+      "name": "내가 함께한다는 건 이 행성이\n태어났을 때부터 정해져 있던 것이니[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev999901_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999901_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev999901_MSG5001",
+      "style": 1,
+      "name": "지금 오라의 힘을 극한까지 높이고 있어\n말 걸지 마……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev999901_MSG5101",
+      "style": 1,
+      "name": "하늘의 목소리가 들리지 않나?\n지금은 말 걸 때가 아니다……라고[ST:wait ]"
+    }
+  ]
+}

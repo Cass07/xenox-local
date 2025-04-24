@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08160100_MSG0001",
+      "style": 0,
+      "name": "すまねぇ　俺達が持ち場を離れた隙に\nまんまと奪われちまった[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08160100_MSG0002",
+      "style": 0,
+      "name": "街に侵入されたんだし　仕方ないわ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08160100_MSG0003",
+      "style": 0,
+      "name": "被害が少なかっただけよかったと思いましょう[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08160100_MSG0004",
+      "style": 0,
+      "name": "まあ　そうだな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08160100_MSG0005",
+      "style": 0,
+      "name": "しかし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08160100_MSG0006",
+      "style": 0,
+      "name": "奴ら　あのドールになんだって\nそこまでこだわってたんだ？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08160100_MSG0007",
+      "style": 0,
+      "name": "さあ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs08160100_MSG0008",
+      "style": 0,
+      "name": "彼らは何故あの機体が\n私達に回収されていることを[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs08160100_MSG0009",
+      "style": 0,
+      "name": "そしてここに保管されていたことを\n知っていたのだろう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs08160100_MSG0009_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "xs08160100_MSG0010",
+      "style": 0,
+      "name": "まさか[ST:wait ]\n"
+    }
+  ]
+}

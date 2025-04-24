@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000893_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]か[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000893_MSG0002",
+      "style": 1,
+      "name": "今日はまだモメてねえぞ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000893_MSG0003",
+      "style": 1,
+      "name": "ヒマだからちょっとナンパってやつを試してた\nだけだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000893_JNK0010",
+      "style": 4,
+      "name": "尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000893_SEL0011",
+      "style": 3,
+      "name": "うまくいったのか成果を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000893_JNK0020",
+      "style": 4,
+      "name": "やめさせる[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000893_SEL0021",
+      "style": 3,
+      "name": "ナンパをやめさせる[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000893_MSG0009",
+      "style": 1,
+      "name": "全然うまくいかないから\nそろそろ銃を取り出そうと思ってたところだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000893_MSG0010",
+      "style": 1,
+      "name": "そうすりゃ一件落着だろ？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000893_JNK0110",
+      "style": 4,
+      "name": "指摘する[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000893_SEL0111",
+      "style": 3,
+      "name": "それは犯罪なのでやめるべきだと指摘する[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000893_JNK0120",
+      "style": 4,
+      "name": "殴る[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000893_SEL0121",
+      "style": 3,
+      "name": "イエルヴを殴って止める[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000893_MSG0016",
+      "style": 1,
+      "name": "分かった　分かったよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000893_MSG0018",
+      "style": 1,
+      "name": "待て　待て　殴るな！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000893_MSG0019",
+      "style": 1,
+      "name": "お前の表情から察するによくないことなんだな[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000893_MSG0021",
+      "style": 1,
+      "name": "映画の中じゃよくやってたから\n問題ないと思ってたが　大アリだったか……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000893_MSG0022",
+      "style": 1,
+      "name": "実行に移す前に指摘してくれてありがとよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000893_MSG0023",
+      "style": 1,
+      "name": "まったくエレオノーラも人が悪いぜ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000893_MSG0024",
+      "style": 1,
+      "name": "アイツ　地球の文化の勉強でもしなさいって\n言って映画を勧めてくるんだけどよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000893_MSG0025",
+      "style": 1,
+      "name": "大半がギャング映画なんだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000893_MSG0026",
+      "style": 1,
+      "name": "昔のロサンゼルスはこういうことが\nまかり通ってたと勘違いしちまったぜ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000893_MSG0027",
+      "style": 1,
+      "name": "俺は今からエレオノーラに文句を言ってくる[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000893_MSG0028",
+      "style": 1,
+      "name": "お前と話すのはまた今度な[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000893_MSG0032",
+      "style": 1,
+      "name": "全然うまくいかねぇし\nそろそろ飽きてきたころだから\nお前に言われるまでもねぇよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000893_MSG0033",
+      "style": 1,
+      "name": "そもそもエレオノーラが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000893_MSG0034",
+      "style": 1,
+      "name": "「イエルヴさんは\n　[ST:playername ]さんと\n　私以外の人とも関わり合いを持つべきです」[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000893_MSG0035",
+      "style": 1,
+      "name": "「見知らぬ女性を連れてきたら\n　次の任務の報酬を増やします」\nとかいいやがったが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000893_MSG0036",
+      "style": 1,
+      "name": "よくよく考えりゃエレオノーラに\n報酬を決める権限はないし[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000893_MSG0037",
+      "style": 1,
+      "name": "俺はあいつの暇つぶしに\n付き合わされただけなんだよな[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000893_MSG0038",
+      "style": 1,
+      "name": "まったく骨折り損のなんとかだぜ……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000893_MSG0039",
+      "style": 1,
+      "name": "気晴らしに討伐任務にでも行ってくるわ\nヴァサルトを切り刻んでやる[ST:wait ]"
+    }
+  ]
+}

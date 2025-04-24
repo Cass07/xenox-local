@@ -1,0 +1,276 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092302_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―あれ　ヒメリ　何でここに？\n後で会うんじゃなかったっけ？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092302_MSG0002",
+      "style": 0,
+      "name": "私が[ST:wide ]―　ですか？\n私は　そんなお約束はしていませんが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092302_MSG0003",
+      "style": 0,
+      "name": "いやいや！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092302_MSG0003_2",
+      "style": 0,
+      "name": "さっきオルネラさんと一緒に来たじゃない？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092302_MSG0004",
+      "style": 0,
+      "name": "聞いて欲しい話があるから\n後で会って欲しいって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092302_MSG0005",
+      "style": 0,
+      "name": "もしかしてヒメリ　疲れてる？\nいきなり相談ってのも　変だなと思ったけど[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092302_MSG0006",
+      "style": 0,
+      "name": "いえ[ST:wide ]―　あの[ST:wide ]―\nこれは　どういうことでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092302_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 9,
+      "label": "qev092302_SEL0011",
+      "style": 3,
+      "name": "エイダに約束について\n詳しく尋ねる"
+    },
+    {
+      "$id": 10,
+      "label": "qev092302_JNK0020",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 11,
+      "label": "qev092302_SEL0021",
+      "style": 3,
+      "name": "ヒメリの偽者がいると\n察する"
+    },
+    {
+      "$id": 12,
+      "label": "qev092302_MSG0007",
+      "style": 0,
+      "name": "本人が横にいるのに　変なの[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092302_MSG0008",
+      "style": 0,
+      "name": "そんな[ST:wide ]―　それじゃ私の偽者が\n皆さんを連れ出していたと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092302_MSG0009",
+      "style": 0,
+      "name": "えっ？　なになに？\nもしかして約束　忘れちゃった？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092302_MSG0010",
+      "style": 0,
+      "name": "ジャンパス湖の南平原に\n深夜に来いって言ってたじゃない[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092302_MSG0011",
+      "style": 0,
+      "name": "わざわざそんな場所まで来させるんだから\nよっぽどの話なんでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092302_MSG0012",
+      "style": 0,
+      "name": "あたし　いっつもお世話になってる分\nなーんでも聞いてあげるつもりだから[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092302_MSG0013",
+      "style": 0,
+      "name": "ヒメリ　大船に乗ったつもりで来てね！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092302_MSG0014",
+      "style": 0,
+      "name": "あの　それ[ST:wide ]―　私じゃないんです\n私達　その犯人を追ってるんです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092302_MSG0015",
+      "style": 0,
+      "name": "えっと[ST:wide ]―　ごめん　よくわかんない[ST:wide ]―\n良かったら詳しく話を聞かせてくれない？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092302_MSG0016",
+      "style": 0,
+      "name": "へぇ[ST:wide ]―　なんだか\nやっかいそうな事件を追いかけてるんだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092302_MSG0017",
+      "style": 0,
+      "name": "私達　そこへ行って犯人を捕まえてきます[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092302_MSG0018",
+      "style": 0,
+      "name": "だからエイダさんは　待ち合わせ場所には\n行かず　ＮＬＡにいてください[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092302_MSG0019",
+      "style": 0,
+      "name": "なーに言ってんの！\nこう見えてもあたしだってブレイドよ？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092302_MSG0020",
+      "style": 0,
+      "name": "本当は相談に乗って\nいつものお返しするつもりだったけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092302_MSG0021",
+      "style": 0,
+      "name": "一つ　そいつらをおびきだす囮にでもなって\n貢献させてもらうわよ！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092302_MSG0022",
+      "style": 0,
+      "name": "ダメです！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092302_MSG0022_2",
+      "style": 0,
+      "name": "それじゃエイダさんを\n危険な目にあわせることになるじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092302_JNK0030",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 30,
+      "label": "qev092302_SEL0031",
+      "style": 3,
+      "name": "エイダの申し出を\n素直に受けるべきだと言う"
+    },
+    {
+      "$id": 31,
+      "label": "qev092302_JNK0040",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 32,
+      "label": "qev092302_SEL0041",
+      "style": 3,
+      "name": "エイダを囮になど\nするべきではないと言う"
+    },
+    {
+      "$id": 33,
+      "label": "qev092302_MSG0023",
+      "style": 0,
+      "name": "そうそう！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092302_MSG0023_2",
+      "style": 0,
+      "name": "あたし　ヒメリのこと大好きだけどね[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092302_MSG0024",
+      "style": 0,
+      "name": "そうやって何でも自分だけで抱えるとこは\nちょーっと　かわいげないと思うよ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092302_MSG0025",
+      "style": 0,
+      "name": "こっちはやりたくてやるんだから\nあんたは何も気にしないで頼めばいいの[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092302_MSG0026",
+      "style": 0,
+      "name": "[ST:wide ]―口出し無用！\nあたしはやりたくてやるだけなんだから[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092302_MSG0027",
+      "style": 0,
+      "name": "あんた達は何も気にしないで頼めばいいの[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092302_MSG0028",
+      "style": 0,
+      "name": "[ST:wide ]―ほら　ヒメリ\nあたしのお願い聞いてよ？　ダメ？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092302_MSG0029",
+      "style": 0,
+      "name": "あっ[ST:wide ]―　あの[ST:wide ]―\nありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092302_MSG0030",
+      "style": 0,
+      "name": "私　その犯人を絶対に捕まえたくて[ST:wide ]―\n協力してもらえると　助かります[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092302_MSG0031",
+      "style": 0,
+      "name": "はい　よくできました！\nそれじゃ先に行ってるからさ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092302_MSG0032",
+      "style": 0,
+      "name": "あんた達も深夜に約束の場所[ST:wide ]―\nジャンパス湖の南平原に来てよね[ST:wait ]"
+    }
+  ]
+}

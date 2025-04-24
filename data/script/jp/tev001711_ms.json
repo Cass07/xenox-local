@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001711_MSG0010",
+      "style": 1,
+      "name": "……お話は聞きました\nまだ戦いは終わっていないのですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001711_MSG0020",
+      "style": 1,
+      "name": "住民の皆さんも不安がっています\nこんな時こそ　私がしっかりしないと……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001711_JNK0030",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 4,
+      "label": "tev001711_SEL0040",
+      "style": 3,
+      "name": "ヒメリをメンバーに加える"
+    },
+    {
+      "$id": 5,
+      "label": "tev001711_MSG0050",
+      "style": 1,
+      "name": "はい　もちろんです\n私もあなたの力になりたいです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001711_JNK0060",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 7,
+      "label": "tev001711_SEL0070",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 8,
+      "label": "tev001711_MSG0080",
+      "style": 1,
+      "name": "NLAのことは私達に任せてください\n皆さんもお気をつけて……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001711_MSG0090",
+      "style": 1,
+      "name": "皆さん！\nご無事でしたか！？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001711_MSG0100",
+      "style": 1,
+      "name": "――そうですか　私を探しに……\nご面倒をおかけして申し訳ありません[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001711_MSG0110",
+      "style": 1,
+      "name": "他の方々は大丈夫でしょうか……\n一刻も早く　安否を確認しに行きましょう[ST:wait ]"
+    }
+  ]
+}

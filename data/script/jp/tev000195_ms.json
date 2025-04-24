@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000195_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]か[ST:wide ]―\nお邪魔しているよ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000195_MSG0002",
+      "style": 1,
+      "name": "なぁに小腹が減ってな\nここに来れば何か食事があるかと\n思ってきたんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000195_MSG0003",
+      "style": 1,
+      "name": "残念ながら何もないようだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000195_MSG0004",
+      "style": 1,
+      "name": "商業エリアに向かうのも手間だし\n[ST:playername ]と話でもして\n空腹を紛らわせるとしようか[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000195_MSG0005",
+      "style": 1,
+      "name": "さて[ST:playername ]は\nどんな系統の任務が好みなのかね？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000195_JNK0010",
+      "style": 4,
+      "name": "討伐"
+    },
+    {
+      "$id": 7,
+      "label": "tev000195_SEL0011",
+      "style": 3,
+      "name": "原生生物を倒す任務"
+    },
+    {
+      "$id": 8,
+      "label": "tev000195_JNK0020",
+      "style": 4,
+      "name": "開拓"
+    },
+    {
+      "$id": 9,
+      "label": "tev000195_SEL0021",
+      "style": 3,
+      "name": "フロンティアネットスポットに\nデータプローブを設置する任務"
+    },
+    {
+      "$id": 10,
+      "label": "tev000195_JNK0030",
+      "style": 4,
+      "name": "回収"
+    },
+    {
+      "$id": 11,
+      "label": "tev000195_SEL0031",
+      "style": 3,
+      "name": "白鯨の残骸を回収する任務"
+    },
+    {
+      "$id": 12,
+      "label": "tev000195_JNK0040",
+      "style": 4,
+      "name": "開発"
+    },
+    {
+      "$id": 13,
+      "label": "tev000195_SEL0041",
+      "style": 3,
+      "name": "新兵器の試験をしてアームズ\nカンパニーに協力する任務"
+    },
+    {
+      "$id": 14,
+      "label": "tev000195_JNK0050",
+      "style": 4,
+      "name": "調査"
+    },
+    {
+      "$id": 15,
+      "label": "tev000195_SEL0051",
+      "style": 3,
+      "name": "惑星ミラの調査をする任務"
+    },
+    {
+      "$id": 16,
+      "label": "tev000195_JNK0060",
+      "style": 4,
+      "name": "治安維持"
+    },
+    {
+      "$id": 17,
+      "label": "tev000195_SEL0061",
+      "style": 3,
+      "name": "NLAを見回り問題を\n解決する"
+    },
+    {
+      "$id": 18,
+      "label": "tev000195_MSG0006",
+      "style": 1,
+      "name": "なるほど　そうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000195_MSG0007",
+      "style": 1,
+      "name": "俺もお前さんみたいに\n自由に任務を受けてみたいものだ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000195_MSG0008",
+      "style": 1,
+      "name": "行政長官やヴァンダムには叱られるが\n軍務長官という立場はどうにももどかしくてな[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000195_MSG0009",
+      "style": 1,
+      "name": "原初の荒野北のライフポイントが\n見つかったときのことを覚えているか？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000195_MSG0010",
+      "style": 1,
+      "name": "派遣する部隊の編制を待っていると\n少なくとも半日は掛かってしまう[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000195_MSG0011",
+      "style": 1,
+      "name": "それぞれのチームはそれぞれの任務を\n受けているからな[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000195_MSG0012",
+      "style": 1,
+      "name": "すぐ集まるのは任務を終えたばかりの\nチームが多いんだ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000195_MSG0013",
+      "style": 1,
+      "name": "そうすると整備で時間が掛かるだろう？\n一筋縄ではいかんのだよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000195_MSG0014",
+      "style": 1,
+      "name": "これまで我々はライフポイントを発見しても\n破壊されることが多かった[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000195_MSG0015",
+      "style": 1,
+      "name": "あのライフポイントは\nなんとしてでも確保したかったのだ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000195_MSG0016",
+      "style": 1,
+      "name": "そう思うといても立ってもいられなくてな[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000195_MSG0017",
+      "style": 1,
+      "name": "手近にいたブレイド隊員を\n引き連れて行ったのだが\n最善の結果とはいかなかった[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000195_MSG0018",
+      "style": 1,
+      "name": "俺の焦りが彼らを失うことになったのだから\nな[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000195_MSG0019",
+      "style": 1,
+      "name": "しかし　[ST:playername ]達が助けに来てくれたとき\nふと気付いたのだ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000195_MSG0020",
+      "style": 1,
+      "name": "少数精鋭のチームであれば\n緊急の任務にも対応できる[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000195_MSG0021",
+      "style": 1,
+      "name": "ゆえに俺がブレイドとして活動したい時は\nお前のチームが最適だとな[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000195_MSG0022",
+      "style": 1,
+      "name": "[ST:wide ]―ハッハッハ\nどうだ　わりと浅い考えだろう[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000195_MSG0023",
+      "style": 1,
+      "name": "だが　これからもよろしく頼むぞ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000195_MSG0024",
+      "style": 1,
+      "name": "[ST:playername ]のいる\nエルマ・チームがブレイドの要なんだからな[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000195_MSG0025",
+      "style": 1,
+      "name": "さて　俺はブレイドタワーに戻るとしよう\n行政長官殿の部屋にまんじゅうがあったのを\n思い出したからな[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085905_MSG0001",
+      "style": 0,
+      "name": "どうだ　親父[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085905_MSG0002",
+      "style": 0,
+      "name": "むむむ[ST:wide ]―　こいつは難しいネ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085905_MSG0003",
+      "style": 0,
+      "name": "でも　ミーにできないことはナッシング！\nだけど　ベリーベリーハイプライスよ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085905_MSG0004",
+      "style": 0,
+      "name": "お　おいくらですか？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085905_MSG0005",
+      "style": 0,
+      "name": "ずばり　ピザ１０枚ネ\n地球のピザ　ミーのファミリーも大好物なのネ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085905_MSG0006",
+      "style": 0,
+      "name": "そ　そんなものでいいんですか～～[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085905_MSG0007",
+      "style": 1,
+      "name": "ずばり[ST:wide ]―　ピザ10枚ネ！\n地球のピザ　ミーのファミリーも大好物なのネ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085905_MSG0009",
+      "style": 1,
+      "name": "デリバリー頼んできてくれたら\nグレートなブレスレット作ってあげるよ！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085905_MSG0008",
+      "style": 1,
+      "name": "アーミーピザのグレネードピザは\n宇宙一デリシャスなのネ！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085905_MSG0010",
+      "style": 1,
+      "name": "ミーとファミリーで　あっという間に\n10枚たいらげちゃったよ！[ST:wait ]"
+    }
+  ]
+}

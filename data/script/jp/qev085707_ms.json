@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085707_MSG0001",
+      "style": 0,
+      "name": "よう\nさっき　任務が公示されたよ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085707_MSG0002",
+      "style": 0,
+      "name": "５分後に任務完了を報告してやったら\nヴァンダムの親父　目を丸くしてたぜ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085707_MSG0003",
+      "style": 0,
+      "name": "あなたの狙った通りというわけね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085707_MSG0004",
+      "style": 0,
+      "name": "報酬も五分五分で振り込まれるよう\n手続きしといたぜ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085707_MSG0005",
+      "style": 0,
+      "name": "ハッピーエンドってやつだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085707_MSG0006",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085707_MSG0007",
+      "style": 0,
+      "name": "何か言いたげだな\nあの時　原生生物の子供を殺したことか？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085707_MSG0008",
+      "style": 0,
+      "name": "そんなことないです[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085707_MSG0009",
+      "style": 0,
+      "name": "あのエリアはＮＬＡのために\n必要な場所だったから[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085707_MSG0010",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]\n      "
+    },
+    {
+      "$id": 11,
+      "label": "qev085707_MSG0011",
+      "style": 0,
+      "name": "でも　あの時の[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085707_MSG0012",
+      "style": 0,
+      "name": "引き金を引いた後のダグさん\nすごくつらそうな顔だったから[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085707_MSG0013",
+      "style": 0,
+      "name": "よく見てたな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085707_MSG0014",
+      "style": 0,
+      "name": "借金返済ですか？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085707_MSG0015",
+      "style": 0,
+      "name": "ああ　俺の親父は道楽者でな[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085707_MSG0016",
+      "style": 0,
+      "name": "とんでもない借金を押し付けて\n自分はぽっくりいっちまった[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085707_MSG0017",
+      "style": 0,
+      "name": "俺はまだ　自分を食わせていくのが\nやっとの若造だったってのによ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085707_MSG0018",
+      "style": 0,
+      "name": "確か　相続放棄という制度があったのでは？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085707_MSG0019",
+      "style": 0,
+      "name": "そんなことしたら　親父を信用して\n貸してくれた人に申しわけないだろう[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085707_MSG0020",
+      "style": 0,
+      "name": "だから　危険な仕事を[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085707_MSG0021",
+      "style": 0,
+      "name": "稼ぐためには　リスクは承知の上さ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085707_JNK0010",
+      "style": 4,
+      "name": "呆れ"
+    },
+    {
+      "$id": 23,
+      "label": "qev085707_SEL0011",
+      "style": 3,
+      "name": "馬鹿な奴だと正直に言う"
+    },
+    {
+      "$id": 24,
+      "label": "qev085707_JNK0020",
+      "style": 4,
+      "name": "共感"
+    },
+    {
+      "$id": 25,
+      "label": "qev085707_SEL0021",
+      "style": 3,
+      "name": "気持ちは分かると伝える"
+    },
+    {
+      "$id": 26,
+      "label": "qev085707_MSG0022",
+      "style": 0,
+      "name": "お　はっきり言うねえ\nまあ　自分でも分かってるんで指摘せんでくれ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085707_MSG0023",
+      "style": 0,
+      "name": "そう言ってもらったのは初めてだ\nお前さん　変わりモンだな[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085707_MSG0024",
+      "style": 0,
+      "name": "でも　地球はもう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085707_MSG0025",
+      "style": 0,
+      "name": "借金も返す相手も一緒に消えちまったな[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085707_MSG0026",
+      "style": 0,
+      "name": "それでも続けていくの？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085707_MSG0027",
+      "style": 0,
+      "name": "ああ　借金と同じ金額つかった\n豪華な墓　建ててやろうと思ってさ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085707_MSG0028",
+      "style": 0,
+      "name": "悪趣味だろ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085707_MSG0029",
+      "style": 0,
+      "name": "自覚してるなら　言うことはないわ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085707_MSG0030",
+      "style": 0,
+      "name": "今回は　いい仕事させてもらった\nじゃあな[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085707_MSG0031",
+      "style": 0,
+      "name": "ああっ！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085707_MSG0032",
+      "style": 0,
+      "name": "どうしたんですも　リンさん？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev085707_MSG0033",
+      "style": 0,
+      "name": "ダグさん　ここのコーヒー代払ってない！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev085707_MSG0034",
+      "style": 0,
+      "name": "全く気前いいのだか悪いのだか　不思議な人ね[ST:wait ]"
+    }
+  ]
+}

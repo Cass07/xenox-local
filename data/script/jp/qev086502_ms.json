@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086502_MSG0001",
+      "style": 0,
+      "name": "あ　トーチャンだも！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086502_MSG0002",
+      "style": 0,
+      "name": "トーーチャン！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086502_MSG0003",
+      "style": 0,
+      "name": "トーチャン　お腹すいたも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086502_MSG0004",
+      "style": 0,
+      "name": "トーチャン　土産くれだも！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086502_MSG0005",
+      "style": 0,
+      "name": "お前達　ちょっと待つですも！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086502_MSG0006",
+      "style": 0,
+      "name": "タツはトーチャンじゃなくて\nニーチャンですも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086502_MSG0007",
+      "style": 0,
+      "name": "あれ～～～？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086502_MSG0008",
+      "style": 0,
+      "name": "まったく　毎回間違えるんじゃないですも！\nお前達　カーチャンはどこにいるですも？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086502_MSG0009",
+      "style": 0,
+      "name": "カーチャン　魚捕りに行ったも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086502_MSG0010",
+      "style": 0,
+      "name": "でも　もう三日も帰ってこないも！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086502_MSG0011",
+      "style": 0,
+      "name": "ニーチャン　お腹すいたも！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086502_MSG0012",
+      "style": 0,
+      "name": "ニーチャン　魚食いたいも！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086502_MSG0013",
+      "style": 0,
+      "name": "ちょ　ちょっと待つですも！\n三日も帰ってないですも？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086502_MSG0014",
+      "style": 0,
+      "name": "それってよくあることですも？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086502_MSG0015",
+      "style": 0,
+      "name": "ううんだも！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086502_MSG0016",
+      "style": 0,
+      "name": "初めてだも！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086502_MSG0017",
+      "style": 0,
+      "name": "たいへん！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086502_MSG0018",
+      "style": 0,
+      "name": "急いでカーチャンを捜しに行くですも！[ST:wait ]"
+    }
+  ]
+}

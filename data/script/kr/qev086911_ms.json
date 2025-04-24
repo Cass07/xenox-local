@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086911_MSG0001",
+      "style": 1,
+      "name": "……뭐라고? 너희가\n에어로지움을 찾을 생각인 거야?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086911_MSG0002",
+      "style": 1,
+      "name": "그렇다면…… 그건 애초에 노폰 상인이\n지구인에게 판매한 물건이니까[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086911_MSG0003",
+      "style": 1,
+      "name": "녀석들한테 이야기를 듣는 게 가장 좋을걸?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086911_MSG0004",
+      "style": 1,
+      "name": "귀중한 돈벌이 수단일 테고\n직접 듣는 건 어려울 수도 있지만[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086911_MSG0005",
+      "style": 1,
+      "name": "녀석들의 소문을 듣고 다니다 보면\n에어로지움이 있는 곳에 대한 단서를\n얻을 수 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086911_MSG0006",
+      "style": 1,
+      "name": "에어로지움이 있으면\n바로 작업을 재개할 수 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086911_MSG0007",
+      "style": 1,
+      "name": "손에 넣기는 힘들겠지만……\n잘 부탁한다[ST:wait ]"
+    }
+  ]
+}

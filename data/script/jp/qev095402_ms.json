@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095402_MSG0001",
+      "style": 1,
+      "name": "傷の具合はどうだい？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095402_MSG0002",
+      "style": 1,
+      "name": "[ST:wide ]―もう全快しタ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095402_MSG0003",
+      "style": 1,
+      "name": "強がりはよしな　立てもしないんだから\n嘘だってすぐに分かるだろ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev095402_MSG0004",
+      "style": 1,
+      "name": "[ST:wide ]―あまりヨくならない[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev095402_MSG0005",
+      "style": 1,
+      "name": "そうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev095402_MSG0006",
+      "style": 1,
+      "name": "スラブティ隊長[ST:wide ]―！！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev095402_MSG0007",
+      "style": 1,
+      "name": "地球人か！？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095402_MSG0008",
+      "style": 1,
+      "name": "ちっ　見つかっちまうとは……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095402_MSG0009",
+      "style": 1,
+      "name": "ドリゴ！　皆を引き連れて逃げな！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095402_MSG0010",
+      "style": 1,
+      "name": "期待はできないけど\nもう一度救援を要請するんだ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095402_MSG0011",
+      "style": 1,
+      "name": "た　隊長はどうするナ？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095402_MSG0012",
+      "style": 1,
+      "name": "アタイはここで戦う！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095402_MSG0013",
+      "style": 1,
+      "name": "ひとりじゃムリだ！！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095402_MSG0014",
+      "style": 1,
+      "name": "全員で戦っても勝てる戦力じゃない！\nいいかい　さっさと逃げるんだ！！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095402_MSG0015",
+      "style": 1,
+      "name": "隊長[ST:wide ]―\n皆のことは私に任せるんだナ！！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev095402_MSG0016",
+      "style": 1,
+      "name": "アタイは巌窟の一族の女\nスラブティ・ペイガス[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev095402_MSG0017",
+      "style": 1,
+      "name": "グロウスのバイアス人の中じゃ異端って\n呼ばれてる[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev095402_MSG0018",
+      "style": 1,
+      "name": "この前　オマエたちの街を襲っただろ？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev095402_MSG0019",
+      "style": 1,
+      "name": "帰還するときに　アタイの部隊は\n原生生物に襲われたんダ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev095402_MSG0020",
+      "style": 1,
+      "name": "それで命からがらここに逃げ込んだのさ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev095402_MSG0021",
+      "style": 1,
+      "name": "救援要請を出しても通じてないのか無視されて\nいるのか助けは来ない[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095402_MSG0022",
+      "style": 1,
+      "name": "アタイが異端だからだろうね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095402_JNK0010",
+      "style": 4,
+      "name": "話をする"
+    },
+    {
+      "$id": 24,
+      "label": "qev095402_SEL0011",
+      "style": 3,
+      "name": "NLAで保護しようと\n持ちかける"
+    },
+    {
+      "$id": 25,
+      "label": "qev095402_JNK0020",
+      "style": 4,
+      "name": "武器を構える"
+    },
+    {
+      "$id": 26,
+      "label": "qev095402_SEL0021",
+      "style": 3,
+      "name": "スラブティを倒す"
+    },
+    {
+      "$id": 27,
+      "label": "qev095402_MSG0023",
+      "style": 1,
+      "name": "巌窟の一族はその昔　グロウスに下った[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095402_MSG0024",
+      "style": 1,
+      "name": "強力な武器　技術を授かり\n大樹の一族を殺しまくった[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev095402_MSG0025",
+      "style": 1,
+      "name": "そうして戦争に勝利した先に待っていたのは\nグロウスの一兵卒としての人生だ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev095402_MSG0026",
+      "style": 1,
+      "name": "だが　血気盛んな巌窟の一族に\nほとんど不満はなかった[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev095402_MSG0027",
+      "style": 1,
+      "name": "さて　NLAとやらに迎え入れたとして\n甘チャンな地球人はアタイたちに何を望む？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev095402_MSG0028",
+      "style": 1,
+      "name": "アタイたちは大樹の一族のヤツらを\n殺すだろうナ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev095402_MSG0029",
+      "style": 1,
+      "name": "もしかすると　地球人や他のヤツらも\n殺すかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev095402_MSG0030",
+      "style": 1,
+      "name": "アタイたちは戦い略奪することでしか\n生きられない人種だからナ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev095402_MSG0032",
+      "style": 1,
+      "name": "そろそろ時間稼ぎも十分だナ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev095402_MSG0033",
+      "style": 1,
+      "name": "あとは一人でも地球人の数を減らすだけ！！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev095402_MSG0034",
+      "style": 1,
+      "name": "利口だナ[ST:wide ]―\n時間稼ぎに気付いたか[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev095402_MSG0035",
+      "style": 1,
+      "name": "こうなれば戦うしかないナ！！[ST:wait ]"
+    }
+  ]
+}

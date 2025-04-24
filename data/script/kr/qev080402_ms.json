@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev080402_MSG0001",
+      "style": 1,
+      "name": "정말이지…… 보스가 될 수 있다고 하더니\n하는 일은 무기를 싸게 사거나\n블레이드 정보를 모으거나……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev080402_MSG0002",
+      "style": 1,
+      "name": "그런 별 볼 일 없는 것뿐이고……\n하아…… 이건 아닌 것 같은데……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev080402_MSG0003",
+      "style": 1,
+      "name": "……뭐야? 거래는 마무리됐으니까\n할 이야기가 있으면 들어 줄게[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev080402_JNK0010",
+      "style": 4,
+      "name": "친절"
+    },
+    {
+      "$id": 5,
+      "label": "qev080402_SEL0011",
+      "style": 3,
+      "name": "고민이 있다면\n상담해 주겠다고 말한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev080402_JNK0020",
+      "style": 4,
+      "name": "추궁"
+    },
+    {
+      "$id": 7,
+      "label": "qev080402_SEL0021",
+      "style": 3,
+      "name": "아비의 정체가\n데피니아라고 주장한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev080402_MSG0004",
+      "style": 1,
+      "name": "정말 좋은 사람이구나! 나 말이야\n최근에 어떤 사람에게 헤드 헌팅을 당해서\n어느 조직의 보스가 됐거든?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev080402_MSG0005",
+      "style": 1,
+      "name": "그런데 그 직장에 가 봤더니\n부하 같은 건 한 명도 없는 거 있지?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev080402_MSG0006",
+      "style": 1,
+      "name": "결국 어머니…… 그러니까 상사의\n심부름꾼 같은 일만 하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev080402_MSG0007",
+      "style": 1,
+      "name": "……응? 그 상사의 이름이\n포르툰 아니냐고!?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev080402_MSG0008",
+      "style": 1,
+      "name": "어! 어, 어, 어, 어!\n어떻게 그걸![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev080402_MSG0009",
+      "style": 1,
+      "name": "앗! 혹시 당신\n[ST:playername ]!?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev080402_MSG0010",
+      "style": 1,
+      "name": "무, 무슨 말이야!?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev080402_MSG0011",
+      "style": 1,
+      "name": "……아니, 내가 변신하는 걸 누가 봤다고!?\n어디서 그런 이야기를 듣고 온 거야……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev080402_MSG0012",
+      "style": 1,
+      "name": "아니! 핫!\n혹시 당신 [ST:playername ]!?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev080402_MSG0013",
+      "style": 1,
+      "name": "어머니가 당신은 조심하라고 그랬어![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev080402_MSG0014",
+      "style": 1,
+      "name": "게다가 여기는 완전 적진 한복판이잖아!?\n리비아 최대의 위기![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev080402_MSG0015",
+      "style": 1,
+      "name": "큭, 이렇게 된 이상! 최종 수단……![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev080402_MSG0016",
+      "style": 1,
+      "name": "쏜살같이! 도망친다!\n앗, 프리츠 씨, 그 물건은 바로 보내 줘![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev080402_MSG0017",
+      "style": 1,
+      "name": "뭐야! 이렇게나 대량으로 사는데\n좀 깎아 주면 안 돼?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev080402_MSG0018",
+      "style": 1,
+      "name": "나도 없는 자금 쥐어짜서\n이 가격으로 부탁하는 거니까![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev080402_MSG0019",
+      "style": 1,
+      "name": "응? 제발~![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev080402_MSG0020",
+      "style": 1,
+      "name": "……거래 중에 뭐야?\n나 지금 중요한 일을 하고 있다고[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev080402_MSG0021",
+      "style": 1,
+      "name": "용건이 있으면 나중에 말해 줘[ST:wait ]"
+    }
+  ]
+}

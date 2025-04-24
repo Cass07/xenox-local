@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085702_MSG0001",
+      "style": 0,
+      "name": "미안하군, 사실은 한잔하면서……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085702_MSG0002",
+      "style": 0,
+      "name": "이야기하자고 하고 싶지만\n그런 가게에서는 누가 엿들을지 몰라[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085702_MSG0003",
+      "style": 0,
+      "name": "신경 쓰지 마[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085702_MSG0004",
+      "style": 0,
+      "name": "이걸 봐 줘[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085702_MSG0005",
+      "style": 0,
+      "name": "사실은 말이지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085702_MSG0006",
+      "style": 0,
+      "name": "여기에 위험 대상으로 분류된\n원시 생물이 대량으로 발생했다는 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085702_MSG0007",
+      "style": 0,
+      "name": "여기는 프런티어넷 스폿이었죠?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085702_MSG0008",
+      "style": 0,
+      "name": "만약 데이터 프로브를 잘못 건드리기라도 하면\n미라늄 공급이 느려지는 거 아니에요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085702_MSG0009",
+      "style": 0,
+      "name": "바로 그거지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085702_MSG0010",
+      "style": 0,
+      "name": "반담 아저씨도 엄청난 보상을 걸었어\n이것 봐, 이만큼이나 나온다고[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085702_MSG0011",
+      "style": 0,
+      "name": "굉장하네요!\n토벌 임무로 이 보수라니, 처음 봐요![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085702_MSG0012",
+      "style": 0,
+      "name": "당연하지, 대략 10팀 이상이\n함께 담당할 걸 예상한 임무일 거야[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085702_MSG0013",
+      "style": 0,
+      "name": "아, 그런 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085702_MSG0014",
+      "style": 0,
+      "name": "듣고 보니 그 숫자로 나누면\n평범한 보수이긴 하네요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085702_MSG0015",
+      "style": 0,
+      "name": "문제는 아직 공시 전이라는 건데[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085702_MSG0016",
+      "style": 0,
+      "name": "지금이라면 우리끼리 임무를 달성해서\n보수를 독점하는 것도 가능해[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085702_MSG0017",
+      "style": 0,
+      "name": "이 정보는 어떻게 입수한 거야?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085702_MSG0018",
+      "style": 0,
+      "name": "그건 묻지 말아 줘\n본부에도 카드 게임에 약한 녀석은 있거든[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085702_MSG0019",
+      "style": 0,
+      "name": "그거, 대답한 거나 마찬가지 아니에요?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085702_MSG0020",
+      "style": 0,
+      "name": "뭐, 괜찮은 일인 건 확실하잖아?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085702_MSG0021",
+      "style": 0,
+      "name": "아무리 나라도 혼자서는 힘들지만\n너희들이 도와주면 어떻게든 될 거야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085702_MSG0022",
+      "style": 0,
+      "name": "어때?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085702_MSG0023",
+      "style": 0,
+      "name": "그렇네\n당신은 어떻게 생각해?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085702_JNK0010",
+      "style": 4,
+      "name": "독점"
+    },
+    {
+      "$id": 25,
+      "label": "qev085702_SEL0011",
+      "style": 3,
+      "name": "우리끼리만 하자고 제안한다"
+    },
+    {
+      "$id": 26,
+      "label": "qev085702_JNK0020",
+      "style": 4,
+      "name": "교섭"
+    },
+    {
+      "$id": 27,
+      "label": "qev085702_SEL0021",
+      "style": 3,
+      "name": "보수의 70%를 원한다고 주장한다"
+    },
+    {
+      "$id": 28,
+      "label": "qev085702_MSG0024",
+      "style": 0,
+      "name": "확실히 못 할 일은 아니네[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085702_MSG0025",
+      "style": 0,
+      "name": "그럼, 이 임무는 먼저 달성하는 사람이\n보수를 차지하는 걸로 하면 되지?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085702_MSG0026",
+      "style": 0,
+      "name": "건투를 빌어, 더그[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085702_MSG0027",
+      "style": 0,
+      "name": "이, 이봐!\n내가 가져온 정보로 그건 아니잖아?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085702_MSG0028",
+      "style": 0,
+      "name": "나 참, 엘마까지 너무하네[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085702_MSG0029",
+      "style": 0,
+      "name": "있잖아, 방금 건 농담이지?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085702_MSG0030",
+      "style": 0,
+      "name": "확실히 전력을 생각하면\n그 분배 비율이 알맞을지도 모르겠네[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085702_MSG0031",
+      "style": 0,
+      "name": "이봐, 이봐!\n내가 가져온 정보로 그건 아니잖아?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085702_MSG0032",
+      "style": 0,
+      "name": "정보료는 안 줘도 되니까 5 대 5야\n어때? 그럼 됐지?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev085702_MSG0033",
+      "style": 0,
+      "name": "좋아, 이번에는 우리 팀에도 극비라서 말이다[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev085702_MSG0034",
+      "style": 0,
+      "name": "너희들이 같이해 줘야겠어[ST:wait ]"
+    }
+  ]
+}

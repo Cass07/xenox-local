@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04500110_MSG0001",
+      "style": 0,
+      "name": "라이프 포인트는\n이 바위산 너머에 있는 것 같은데요……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04500110_MSG0002",
+      "style": 0,
+      "name": "모모모, 이 바위산을 넘어가는 건가모!?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04500110_MSG0003",
+      "style": 0,
+      "name": "타츠는 괜찮지만\n린 씨는 절대 못 넘을 거다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs04500110_MSG0004",
+      "style": 0,
+      "name": "무슨 소리야!\n못 넘는 건 너겠지![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs04500110_MSG0005",
+      "style": 0,
+      "name": "오를 수 있냐모?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs04500110_MSG0006",
+      "style": 0,
+      "name": "응!?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs04500110_MSG0008",
+      "style": 0,
+      "name": "……엘마 씨, 타츠가 힘들 것 같으니\n다른 길로 가요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs04500110_MSG0009",
+      "style": 0,
+      "name": "그렇네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs04500110_MSG0010",
+      "style": 0,
+      "name": "여기 오는 길에 갈림길이 있었지?\n돌아가서 그쪽 길로 가자[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs04500110_MSG0011",
+      "style": 0,
+      "name": "린 씨, 치사하다모[ST:wait ]"
+    }
+  ]
+}

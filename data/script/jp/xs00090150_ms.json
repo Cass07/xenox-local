@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00090150_MSG0001",
+      "style": 0,
+      "name": "あれが私達が住んでいる居住ユニット\nあそこに向かうのよ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00090150_MSG0002",
+      "style": 0,
+      "name": "待って　この先は崖よ[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs00090150_MSG0003",
+      "style": 0,
+      "name": "飛び降りるなとは言わないけど\nおすすめはしない[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00090150_MSG0004",
+      "style": 0,
+      "name": "崖下の原生生物は手強い\nそれに落ちてあなたが無事という保証もない[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs00090150_MSG0005",
+      "style": 0,
+      "name": "この道から海岸線の上の道を渡って行けば\n比較的安全にたどり着ける[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs00090150_MSG0006",
+      "style": 0,
+      "name": "とは言っても[ST:wide ]―\nどちらの道で行くか選ぶのは　あなたよ[ST:wait ]"
+    }
+  ]
+}

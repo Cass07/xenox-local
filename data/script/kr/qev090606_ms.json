@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090606_MSG0001",
+      "style": 1,
+      "name": "그런 괴물은 본 적도 없습니다……\n떠올리기만 해도 몸이 떨리네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090606_MSG0002",
+      "style": 1,
+      "name": "선생님이라면 괜찮으시겠지만……\n부디 조심하세요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090606_MSG0003",
+      "style": 1,
+      "name": "어서 오세요, 선생님!\n보아하니 무사히 녀석을 쓰러뜨렸나 보네요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090606_MSG0004",
+      "style": 1,
+      "name": "정말…… 대단하십니다!\n선생님은 최강의 애벌란시예요![ST:wait ]"
+    }
+  ]
+}

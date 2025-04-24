@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092101_MSG0001",
+      "style": 0,
+      "name": "오늘은 티카의 부탁으로\n돌 신형 병기 테스트를 하게 됐어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092101_MSG0002",
+      "style": 0,
+      "name": "땅속에 숨은 표적도 추적할 수 있는\n레이저를 개발 중이라고 하던데……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092101_MSG0003",
+      "style": 0,
+      "name": "너무 편리해서 낭만이 부족하지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092101_JNK0010",
+      "style": 4,
+      "name": "공격을 선호"
+    },
+    {
+      "$id": 5,
+      "label": "qev092101_SEL0011",
+      "style": 3,
+      "name": "거대한 검에 낭만을 느낀다고 말한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev092101_JNK0020",
+      "style": 4,
+      "name": "방어를 선호"
+    },
+    {
+      "$id": 7,
+      "label": "qev092101_SEL0021",
+      "style": 3,
+      "name": "거대한 방패에 낭만을 느낀다고 말한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev092101_JNK0030",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 9,
+      "label": "qev092101_SEL0031",
+      "style": 3,
+      "name": "무기는 편리하고 강력한 게 좋다고 주장한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev092101_MSG0004",
+      "style": 0,
+      "name": "오호, 너는 그런 취향이구나~[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092101_MSG0005",
+      "style": 0,
+      "name": "의외로 어린애 같네~[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092101_MSG0006",
+      "style": 0,
+      "name": "네 취향도 별반 다르지 않아, 아크세나[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092101_MSG0007",
+      "style": 0,
+      "name": "응응, 그렇고말고[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092101_MSG0008",
+      "style": 0,
+      "name": "적의 맹공을 강력한 실드로 손쉽게 막는 모습\n정말 멋있단 말이지![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092101_MSG0009",
+      "style": 0,
+      "name": "변함없이 이상한 취향이구나[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092101_MSG0010",
+      "style": 0,
+      "name": "하아~ 이러니까 현실주의자는……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092101_MSG0011",
+      "style": 0,
+      "name": "하지만 티카와는 마음이 맞을지도 모르겠다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092101_MSG0012",
+      "style": 0,
+      "name": "그래, 아크세나 너보다는 취향이 괜찮네[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092101_MSG0013",
+      "style": 0,
+      "name": "섣불리 특색 있는 물건을 만들어 봤자\n다수의 사람이 편하게 사용할 수 없다면[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092101_MSG0014",
+      "style": 0,
+      "name": "의미가 없다는 걸 아는 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092101_MSG0014_m",
+      "style": 0,
+      "name": "의미가 없다는 걸 아는 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092101_MSG0014_f",
+      "style": 0,
+      "name": "의미가 없다는 걸 아는 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092101_MSG0015",
+      "style": 0,
+      "name": "티카! 기다리고 있었어[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092101_MSG0016",
+      "style": 0,
+      "name": "아크세나……\n테스트를 할 상황이 아닌 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092101_MSG0017",
+      "style": 0,
+      "name": "캠버의 팀이 진행 중이던\n프로토타입 병기 테스트가 실패했어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092101_MSG0018",
+      "style": 0,
+      "name": "전원 행방불명 상태야, 프로토타입 병기가\n폭발한 탓인지 주변 상황을 파악할 수가 없어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092101_MSG0019",
+      "style": 0,
+      "name": "……캠버네 팀은 돌에 타고 있었어?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092101_JNK0040",
+      "style": 4,
+      "name": "꾸짖는다"
+    },
+    {
+      "$id": 29,
+      "label": "qev092101_SEL0041",
+      "style": 3,
+      "name": "이런 상황에서도 돌 걱정이냐며 꾸짖는다"
+    },
+    {
+      "$id": 30,
+      "label": "qev092101_JNK0050",
+      "style": 4,
+      "name": "칭찬한다"
+    },
+    {
+      "$id": 31,
+      "label": "qev092101_SEL0051",
+      "style": 3,
+      "name": "좋은 질문이었다며 칭찬한다"
+    },
+    {
+      "$id": 32,
+      "label": "qev092101_MSG0020",
+      "style": 0,
+      "name": "아니, 그런 게 아니라 돌에 타고 있었다면\n다칠 확률이 많이 줄었을 테니까……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092101_MSG0021",
+      "style": 0,
+      "name": "캠버의 팀은 돌에 타고 있었다고 해[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092101_MSG0022",
+      "style": 0,
+      "name": "하지만 행방을 파악할 수 없을 만큼\n큰 문제에 휘말렸어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092101_MSG0023",
+      "style": 0,
+      "name": "반드시 무사하다고는 장담할 수 없지[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092101_MSG0024",
+      "style": 0,
+      "name": "그래, 캠버의 팀은\n돌에 타고 있었다고 하니까[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092101_MSG0025",
+      "style": 0,
+      "name": "생존했을 가능성이 높아[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092101_MSG0026",
+      "style": 0,
+      "name": "그렇겠지![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092101_MSG0027",
+      "style": 0,
+      "name": "하지만 행방을 파악할 수 없을 만큼\n큰 문제에 휘말렸어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092101_MSG0028",
+      "style": 0,
+      "name": "반드시 무사하다고는 장담할 수 없지[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092101_MSG0029",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092101_MSG0030",
+      "style": 0,
+      "name": "나, 구출하러 갈래!\n물론 너도 갈 거지?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092101_JNK0060",
+      "style": 4,
+      "name": "찬성한다"
+    },
+    {
+      "$id": 44,
+      "label": "qev092101_SEL0061",
+      "style": 3,
+      "name": "한시라도 빨리 구출하러 가자며 찬성한다"
+    },
+    {
+      "$id": 45,
+      "label": "qev092101_JNK0070",
+      "style": 4,
+      "name": "반대한다"
+    },
+    {
+      "$id": 46,
+      "label": "qev092101_SEL0071",
+      "style": 3,
+      "name": "구출에 관여할 이유가 없다며 반대한다"
+    },
+    {
+      "$id": 47,
+      "label": "qev092101_MSG0031",
+      "style": 0,
+      "name": "뜨거운 마음을 가졌구나, 너![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092101_MSG0032",
+      "style": 0,
+      "name": "그런 마음가짐이라면\n반드시 캠버네 팀을 구할 수 있을 거야!![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092101_MSG0033",
+      "style": 0,
+      "name": "자, 당장이라도 출발하자[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092101_MSG0034",
+      "style": 0,
+      "name": "하지만 미카도 캠버도 위험하잖아?\n지금이 아니면 언제 구한다는 거야!?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092101_MSG0035",
+      "style": 0,
+      "name": "기회는 지금뿐이겠지……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092101_MSG0036",
+      "style": 0,
+      "name": "그래, 얼른 구하러 가야 해![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092101_MSG0037",
+      "style": 0,
+      "name": "어차피 테스트는 당분간 중지될 테니까\n가는 건 말리지 않겠지만[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092101_MSG0038",
+      "style": 0,
+      "name": "아크세나도 신입 테스터도 조심해[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092101_MSG0039",
+      "style": 0,
+      "name": "그리고…… 마음의 준비를 해야 할 거야[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092101_MSG0040",
+      "style": 1,
+      "name": "테스트는 폭발의 원인을\n파악할 때까지 미뤄야겠네[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092101_MSG0041",
+      "style": 1,
+      "name": "어쩌면 적측의 파괴 공작일 가능성도 있으니까\n신중하게 판단해야만 하거든[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092101_MSG0042",
+      "style": 1,
+      "name": "그러니 캠버 팀을 구출하겠다면\n너희가 하고 싶은 대로 해[ST:wait ]"
+    }
+  ]
+}

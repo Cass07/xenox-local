@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055902_MSG0001",
+      "style": 1,
+      "name": "지구인의 부탁을 받고 여기에 왔다\n지구인의 지성으로는 해결할 수 없는 일이\n많다는 것은 알고 있어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055902_MSG0002",
+      "style": 1,
+      "name": "나르키의 생체 샘플이 6마리 분량 필요하다\n결론을 내려면 철저히 준비해야만 해[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055902_MSG0003",
+      "style": 1,
+      "name": "그렇군……\n분석 결과를 말할 때가 됐나……[ST:wait ]"
+    }
+  ]
+}

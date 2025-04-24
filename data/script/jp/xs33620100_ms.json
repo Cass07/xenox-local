@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33620100_MSG0010",
+      "style": 0,
+      "name": "よう相棒！\n元気そうだな！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33620100_MSG0020",
+      "style": 0,
+      "name": "[ST:wide ]―ってこんなとこで言うことじゃねーか[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33620100_MSG0030",
+      "style": 0,
+      "name": "俺か？　俺は大丈夫だ\nピンピンしてるぜ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33620100_MSG0040",
+      "style": 0,
+      "name": "相棒　向こうに戻るんだろ？\n目を見てりゃわかる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33620100_MSG0050",
+      "style": 0,
+      "name": "俺たちならやれる\nあんなのに負けやしねぇさ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33620100_MSG0060",
+      "style": 0,
+      "name": "さあ行こうぜ\n今度こそぶっ叩いてやる！[ST:wait ]"
+    }
+  ]
+}

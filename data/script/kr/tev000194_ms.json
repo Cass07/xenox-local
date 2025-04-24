@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000194_MSG0001",
+      "style": 1,
+      "name": "오오……\n[ST:playername ]도 온 건가[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000194_MSG0002",
+      "style": 1,
+      "name": "그래, 한잔 마시겠나?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000194_MSG0003",
+      "style": 1,
+      "name": "……음?\n우리가 대체 뭘 하는 건지\n모르겠다는 표정이군[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000194_JNK0010",
+      "style": 4,
+      "name": "정치 자금 후원 파티"
+    },
+    {
+      "$id": 5,
+      "label": "tev000194_SEL0011",
+      "style": 3,
+      "name": "나기가 파티를 열어 자금을\n모으고 있다고 추측한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000194_JNK0020",
+      "style": 4,
+      "name": "동창회"
+    },
+    {
+      "$id": 7,
+      "label": "tev000194_SEL0021",
+      "style": 3,
+      "name": "나기와 동창생이 모여 옛날을\n추억하고 있다고 추측한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000194_JNK0030",
+      "style": 4,
+      "name": "생일 파티"
+    },
+    {
+      "$id": 9,
+      "label": "tev000194_SEL0031",
+      "style": 3,
+      "name": "나기의 환갑을\n축하하고 있다고 추측한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev000194_MSG0004",
+      "style": 1,
+      "name": "핫하……\n그런 건 모리스 행정장관이 할 일이지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000194_MSG0005",
+      "style": 1,
+      "name": "우리는 그저 대화하고 먹고 마실 뿐이다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000194_MSG0006",
+      "style": 1,
+      "name": "아깝군……\n옛날을 추억하고 있는 건 맞지만\n동창생은 아니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000194_MSG0007",
+      "style": 1,
+      "name": "핫핫하……\n환갑까지는 아직 멀었어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000194_MSG0008",
+      "style": 1,
+      "name": "하지만 나도 57살이니\n3년 후에 이런 식으로 축하해 준다면\n기쁘기는 하겠군……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000194_MSG0009",
+      "style": 1,
+      "name": "여기에 있는 사람들은 지구 시절\n사쿠라바 중공업의 중역이었던 자들이다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000194_MSG0010",
+      "style": 1,
+      "name": "지금은 일선에서 물러났지만\n암즈 컴퍼니 경영에는\n어느 정도 관여하고 있지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000194_MSG0011",
+      "style": 1,
+      "name": "과거에 흰고래와 돌을 완성할 수 있었던 건\n사쿠라바 중공업 덕분이라고 할 수 있다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000194_MSG0012",
+      "style": 1,
+      "name": "……아니, 지구종 범이민 계획 수행도\n사쿠라바 중공업의 도움이 있었기에 가능했어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000194_MSG0013",
+      "style": 1,
+      "name": "너무 치켜세우면 녀석이 싫어할 테니\n더 이야기하지는 않겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000194_MSG0014",
+      "style": 1,
+      "name": "아무튼 NLA가 앞으로도 발전하고\n인류가 미라에서 살아가기 위해서\n사쿠라바 중공업과의 협력은 필수다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000194_MSG0015",
+      "style": 1,
+      "name": "그래서 이렇게 옛 친구들을 만나고 있는 거지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000194_MSG0016",
+      "style": 1,
+      "name": "[ST:playername ]도 그런 사람이 있지 않나?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000194_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 24,
+      "label": "tev000194_SEL0041",
+      "style": 3,
+      "name": "기억이 없어서 모르겠다고 대답한다"
+    },
+    {
+      "$id": 25,
+      "label": "tev000194_JNK0050",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 26,
+      "label": "tev000194_SEL0051",
+      "style": 3,
+      "name": "있다고 대답한다"
+    },
+    {
+      "$id": 27,
+      "label": "tev000194_MSG0017",
+      "style": 1,
+      "name": "그렇군……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000194_MSG0018",
+      "style": 1,
+      "name": "센트럴 라이프를 확보하면\n원래 몸으로 돌아갈 수 있을 거다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000194_MSG0019",
+      "style": 1,
+      "name": "그러면서 기억도 회복되면 좋겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000194_MSG0020",
+      "style": 1,
+      "name": "잘 안되면 검사나 조사가 필요하겠지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000194_MSG0021",
+      "style": 1,
+      "name": "하지만 안심해라[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000194_MSG0022",
+      "style": 1,
+      "name": "내가 책임지고\n[ST:playername ]의 기억을 되찾아 줄 테니[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000194_MSG0023",
+      "style": 1,
+      "name": "그렇군……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000194_MSG0024",
+      "style": 1,
+      "name": "센트럴 라이프는 확보했다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000194_MSG0025",
+      "style": 1,
+      "name": "원래 몸으로 돌아가면\n기억이 회복될지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000194_MSG0026",
+      "style": 1,
+      "name": "잘 안되더라도 안심해라[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000194_MSG0027",
+      "style": 1,
+      "name": "내가 책임지고\n[ST:playername ]의 기억을 되찾아 줄 테니[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000194_MSG0028",
+      "style": 1,
+      "name": "그거 다행이군……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000194_MSG0029",
+      "style": 1,
+      "name": "그렇다면 시간이 있을 때\n만나 보는 것도 괜찮겠지[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000194_MSG0030",
+      "style": 1,
+      "name": "이렇게 지구가 아닌 다른 별에서\n심지어 다른 몸으로 대화하는 것도 신선하니까[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000194_MSG0031",
+      "style": 1,
+      "name": "그러면……\n난 이만 안으로 들어가 봐야겠다[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000194_MSG0032",
+      "style": 1,
+      "name": "슬슬 이소베 씨가 만드는\n수타 메밀국수가 완성될 시간이거든[ST:wait ]"
+    }
+  ]
+}

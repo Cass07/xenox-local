@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001395_MSG0001",
+      "style": 1,
+      "name": "안녕하세요\n[ST:playername ] 씨[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001395_MSG0002",
+      "style": 1,
+      "name": "지금 록과 별을 보고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001395_MSG0003",
+      "style": 1,
+      "name": "미라의 밤하늘…… 정말 아름답네요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001395_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 5,
+      "label": "tev001395_SEL0011",
+      "style": 3,
+      "name": "세리카의 별은\n어디에 있는지 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001395_JNK0020",
+      "style": 4,
+      "name": "비탄"
+    },
+    {
+      "$id": 7,
+      "label": "tev001395_SEL0021",
+      "style": 3,
+      "name": "이 밤하늘 어디에도\n지구는 없다고 한탄한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001395_MSG0004",
+      "style": 1,
+      "name": "제가 살던 별이요……?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001395_MSG0005",
+      "style": 1,
+      "name": "제 고향은 사진으로 보여 주셨던\n지구와 조금 닮았는데……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001395_MSG0006",
+      "style": 1,
+      "name": "여기서는 알 수 없어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001395_MSG0007",
+      "style": 1,
+      "name": "이 수천수만 개의 별 중 하나인지\n아니면 보이지 않을 정도로 멀리 있는지……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001395_MSG0008",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001395_MSG0009",
+      "style": 1,
+      "name": "그랬었죠……\n지구는 서멀에게……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001395_MSG0010",
+      "style": 1,
+      "name": "사진으로 보여 주신 지구의 밤하늘은\n정말 아름다웠어요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001395_MSG0011",
+      "style": 1,
+      "name": "미라의 하늘처럼 큰 별은 보이지 않았지만 헤아릴 수\n없을 만큼 수많은 작은 별들이 반짝이고 있어서……\n제 고향 하늘과 조금 비슷했어요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001395_MSG0012",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001395_MSG0013",
+      "style": 1,
+      "name": "……[ST:playername ] 씨는\n만약 돌아갈 수 있다면\n지구로 돌아가고 싶나요?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001395_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 19,
+      "label": "tev001395_SEL0031",
+      "style": 3,
+      "name": "돌아가고 싶다며 끄덕인다"
+    },
+    {
+      "$id": 20,
+      "label": "tev001395_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 21,
+      "label": "tev001395_SEL0041",
+      "style": 3,
+      "name": "딱히 돌아가고 싶은 생각은\n없다고 대답한다"
+    },
+    {
+      "$id": 22,
+      "label": "tev001395_MSG0014",
+      "style": 1,
+      "name": "그렇죠……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001395_MSG0015",
+      "style": 1,
+      "name": "비록 가혹한 상황일지라도\n자신이 태어나고 자란 별이\n마음에 걸리지 않을 리가 없죠[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001395_MSG0016",
+      "style": 1,
+      "name": "저와 록도 이 도시, 이 별이 마음에 들어서\n제2의 고향이라고 생각하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001395_MSG0017",
+      "style": 1,
+      "name": "하지만 언젠가는 이 별을 떠나……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001395_MSG0018",
+      "style": 1,
+      "name": "기억이 없어서인가요……?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001395_MSG0019",
+      "style": 1,
+      "name": "아니면 돌아가면 괴로운 일이\n있을 것 같아서인가요……?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001395_MSG0020",
+      "style": 1,
+      "name": "록은 고향이 없어요\n그리고 제가 살던 별도……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001395_MSG0021",
+      "style": 1,
+      "name": "그러니까 분명 당신과 같은 마음일 거예요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001395_MSG0022",
+      "style": 1,
+      "name": "이 도시가 마음에 들어서 계속 여러분과\n함께 있을 수 있다면 좋겠어요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001395_MSG0023",
+      "style": 1,
+      "name": "이 제2의 고향을\n꼭 지키고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001395_MSG0024",
+      "style": 1,
+      "name": "그건 나쁜 게 아니죠?[ST:wait ]"
+    }
+  ]
+}

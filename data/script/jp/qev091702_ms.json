@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091702_MSG0001",
+      "style": 0,
+      "name": "どうした　まだ達成できてないみたいだねぇ\nびびっちまったかい？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091702_MSG0039",
+      "style": 4,
+      "name": "諦めない"
+    },
+    {
+      "$id": 3,
+      "label": "qev091702_MSG0040",
+      "style": 3,
+      "name": "まだ諦めないと言う"
+    },
+    {
+      "$id": 4,
+      "label": "qev091702_MSG0041",
+      "style": 4,
+      "name": "諦める"
+    },
+    {
+      "$id": 5,
+      "label": "qev091702_MSG0042",
+      "style": 3,
+      "name": "ギブアップすると告げる"
+    },
+    {
+      "$id": 6,
+      "label": "qev091702_MSG0002",
+      "style": 0,
+      "name": "ふっ　アンタも相当負けず嫌いだね\nこっちとしては諦めてくれてもいいんだよ？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091702_MSG0003",
+      "style": 0,
+      "name": "おっ　ギブアップかい？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091702_MSG0004",
+      "style": 0,
+      "name": "本当にいいんだな？　マードレスの１０万Ｇは\nあたし達のもんになるぞ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091702_MSG0043",
+      "style": 4,
+      "name": "諦めない"
+    },
+    {
+      "$id": 10,
+      "label": "qev091702_MSG0044",
+      "style": 3,
+      "name": "実は冗談だったと言う"
+    },
+    {
+      "$id": 11,
+      "label": "qev091702_MSG0045",
+      "style": 4,
+      "name": "諦める"
+    },
+    {
+      "$id": 12,
+      "label": "qev091702_MSG0046",
+      "style": 3,
+      "name": "本当にギブアップする"
+    },
+    {
+      "$id": 13,
+      "label": "qev091702_MSG0005",
+      "style": 0,
+      "name": "そうそう[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091702_MSG0005_2",
+      "style": 0,
+      "name": "諦めるって簡単には言わない方がいい[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091702_MSG0006",
+      "style": 0,
+      "name": "マードレスがアンタのこと\n今にも殺すような視線で見てたからね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091702_MSG0007",
+      "style": 0,
+      "name": "よしっ　こりゃ大儲けできたな！！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091702_MSG0008",
+      "style": 0,
+      "name": "あんがとよ　根性ナシさん[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091702_MSG0009",
+      "style": 0,
+      "name": "マードレスから巻き上げるのは\nなかなかに痛快だな[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091702_MSG0010",
+      "style": 0,
+      "name": "せいぜいほざいてるがいいわ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091702_MSG0011",
+      "style": 0,
+      "name": "今度一緒の任務に就く時\n背中には気を付けることね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091702_MSG0012",
+      "style": 0,
+      "name": "おー　こわっ　目がマジなんだよな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091702_MSG0013",
+      "style": 0,
+      "name": "けっ　やり遂げやがったか[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091702_MSG0014",
+      "style": 0,
+      "name": "さあ　負け犬ども現金を寄越しなさい[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091702_MSG0015",
+      "style": 0,
+      "name": "ほらよ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091702_MSG0016",
+      "style": 0,
+      "name": "ちょっとふざけないでよ\nたかが１０Ｇのわけないでしょ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091702_MSG0017",
+      "style": 0,
+      "name": "マードレスが意地でも倒してくるだろうなって\nことで　あまり盛り上がらなかったんだよな[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091702_MSG0018",
+      "style": 0,
+      "name": "嘘つかないで\nそれでも２０００Ｇくらいはあるでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091702_MSG0019",
+      "style": 0,
+      "name": "[ST:wide ]―ちっ　やっぱり敵わないね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091702_MSG0020",
+      "style": 0,
+      "name": "全部で２１０１Ｇある　アンタの一人勝ちだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091702_JNK0050",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 31,
+      "label": "qev091702_SEL0051",
+      "style": 3,
+      "name": "自分の分け前はいくらか尋ねる"
+    },
+    {
+      "$id": 32,
+      "label": "qev091702_JNK0060",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 33,
+      "label": "qev091702_SEL0061",
+      "style": 3,
+      "name": "これからダイナーに行き\n宴会をしようと提案する"
+    },
+    {
+      "$id": 34,
+      "label": "qev091702_MSG0021",
+      "style": 0,
+      "name": "あなた　賭けてたかしら？\n報酬が欲しければ自分に賭けるべきだったわね[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091702_MSG0022",
+      "style": 0,
+      "name": "容赦ない女だな\n１００Ｇくらいやってもいいんじゃないか？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091702_MSG0023",
+      "style": 0,
+      "name": "１Ｇだってイヤよ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091702_MSG0024",
+      "style": 0,
+      "name": "おっ　素晴らしい提案だね\nダイナーに行って飲んだくれようじゃないか[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091702_MSG0025",
+      "style": 0,
+      "name": "アンタ達みたいなクズにおごるわけないでしょ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091702_MSG0026",
+      "style": 0,
+      "name": "ドケチな女[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091702_MSG0027",
+      "style": 0,
+      "name": "私にとっては素敵な褒め言葉ね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091702_MSG0028",
+      "style": 0,
+      "name": "すげー報酬の任務が出されたぞ！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091702_MSG0029",
+      "style": 0,
+      "name": "耳寄りな情報ね　詳しく聞かせて[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091702_MSG0030",
+      "style": 0,
+      "name": "げっ　マードレスさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091702_MSG0031",
+      "style": 0,
+      "name": "さあ　早く[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091702_MSG0032",
+      "style": 0,
+      "name": "[ST:wide ]―詳細はクエストボードを見ただけじゃ\nわからなかったんですけど[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091702_MSG0033",
+      "style": 0,
+      "name": "異星人に賞金を懸けたとか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091702_MSG0034",
+      "style": 0,
+      "name": "賞金首というわけね\nおもしろそうじゃない[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091702_MSG0035",
+      "style": 0,
+      "name": "エレオノーラあたりが何か知ってそうだわ\nすぐにでも聞きに行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091702_MSG0036",
+      "style": 0,
+      "name": "ああ　そうだ\nあなた達はこの任務には関わらないこと[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091702_MSG0037",
+      "style": 0,
+      "name": "私の邪魔をするようなら\n賞金首よりも先に殺すからね[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091702_MSG0038",
+      "style": 0,
+      "name": "うっ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091702_MSG0047",
+      "style": 1,
+      "name": "ったく　バカ[ST:wide ]―\n最悪のタイミングで飛び込んできやがって[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091702_MSG0048",
+      "style": 1,
+      "name": "マードレスのいる前で　儲け話をするなんて\n飢えたハイエナの前で　マヌケ面して\nご馳走広げてるようなもんじゃないか[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

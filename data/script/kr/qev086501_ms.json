@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086501_MSG0001",
+      "style": 0,
+      "name": "누가 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086501_MSG0002",
+      "style": 0,
+      "name": "새로운 임무가 있는데……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086501_MSG0003",
+      "style": 0,
+      "name": "오, 아저씨, 타츠에게 용건이 있냐모?\n뭐든지 말해 봐모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086501_MSG0004",
+      "style": 0,
+      "name": "야, 타츠![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086501_MSG0005",
+      "style": 0,
+      "name": "반담 사령관님은 임무 이야기를 하러 오신 거라고\n너한테 볼일이 있을 리 없잖아![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086501_MSG0006",
+      "style": 0,
+      "name": "아니, 그게 말이지……\n그 임무라는 걸 이 녀석에게 부탁하고 싶네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086501_MSG0007",
+      "style": 0,
+      "name": "네에에~~!?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086501_MSG0008",
+      "style": 0,
+      "name": "그래서, 타츠에게 부탁하고 싶은 임무라는 건\n어떤 거야?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086501_MSG0009",
+      "style": 0,
+      "name": "사실은 말이지……\n이 녀석에게 친선 대사를 맡기고 싶다네[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086501_MSG0010",
+      "style": 0,
+      "name": "친선 대사……\n그, 그건 맛있는 건가모?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086501_MSG0011",
+      "style": 0,
+      "name": "먹는 게 아니야![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086501_MSG0012",
+      "style": 0,
+      "name": "당신들과 사이좋게 지내고 싶다……\n그런 제안을 하러 가는 역할을 말하는 거야[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086501_MSG0013",
+      "style": 0,
+      "name": "타츠 같은 사랑스러운 미소년이라면\n평화의 사자로서 딱이지모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086501_MSG0014",
+      "style": 0,
+      "name": "아니, 상대가 자네 어머니이기 때문이다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086501_MSG0015",
+      "style": 0,
+      "name": "뭐야, 겨우 그거예요?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086501_MSG0016",
+      "style": 0,
+      "name": "겨우라고 생각하면 곤란하네\n우리 정부는 노폰인을 높게 평가하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086501_JNK0010",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 18,
+      "label": "qev086501_SEL0011",
+      "style": 3,
+      "name": "우수한 교역 능력 때문이라고 지적"
+    },
+    {
+      "$id": 19,
+      "label": "qev086501_JNK0020",
+      "style": 4,
+      "name": "억측"
+    },
+    {
+      "$id": 20,
+      "label": "qev086501_SEL0021",
+      "style": 3,
+      "name": "폭신폭신 귀여운 점이라고 주장"
+    },
+    {
+      "$id": 21,
+      "label": "qev086501_MSG0017",
+      "style": 0,
+      "name": "그래, 바로 그거일세[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086501_MSG0018",
+      "style": 0,
+      "name": "NLA에서 멀리 떨어진 장소의 자원이나\n교류가 없는 종족의 생산물을 다루고 있으니 말이지[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086501_MSG0019",
+      "style": 0,
+      "name": "그리고 도시에 정착한 우리에게\n미라의 정보를 넓게 파악한 녀석들은 중요하다네[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086501_MSG0020",
+      "style": 0,
+      "name": "그렇죠? 타츠는 둘째 치고\n노폰 아이들의 귀여움이란![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086501_MSG0021",
+      "style": 0,
+      "name": "뭐, 그들의 외견이, 그러니까\n굉장히 매력적인 면이 있다는 걸 부정하지 않지만……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086501_MSG0022",
+      "style": 0,
+      "name": "아니, 그런 이유가 아니라……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086501_MSG0023",
+      "style": 0,
+      "name": "우리 인류는 이 행성에서의\n그들의 교역 능력을 높이 평가하고 있네[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086501_MSG0024",
+      "style": 0,
+      "name": "그렇네, 교역 종족인 그들은……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086501_MSG0025",
+      "style": 0,
+      "name": "이 미라라는 행성에서 하나의 사회를 이루는 데에\n중요한 존재라고 생각해[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086501_MSG0026",
+      "style": 0,
+      "name": "그런 걸세[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086501_MSG0027",
+      "style": 0,
+      "name": "여기저기 떠돌아다니며\n다양한 종족과의 교류로 얻은 지식도 무시할 수 없지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086501_MSG0028",
+      "style": 0,
+      "name": "뭔지 잘 모르겠다모[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086501_MSG0029",
+      "style": 0,
+      "name": "하지만 노폰이 대단하다는 건 알았다모![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086501_MSG0030",
+      "style": 0,
+      "name": "앞으로도 NLA에\n많은 노폰이 와 줬으면 하네[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086501_MSG0031",
+      "style": 0,
+      "name": "그러기 위해서 노폰의 카라반과\n우호 조약을 체결하고 싶은 거다[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086501_MSG0032",
+      "style": 0,
+      "name": "그래서 카카 씨에게 가는 거군요?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086501_MSG0033",
+      "style": 0,
+      "name": "그래, 하지만 가 줬으면 하는 건\n그곳뿐만이 아니네[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086501_MSG0034",
+      "style": 0,
+      "name": "야광의 숲에 있는 도돈가 카라반은\n이미 알고 있다고 생각하지만, 하나 더[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086501_MSG0035",
+      "style": 0,
+      "name": "망각의 계곡에 있는 도리안 카라반에도\n가 줬으면 한다네[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086501_MSG0036",
+      "style": 0,
+      "name": "알았다모![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086501_MSG0037",
+      "style": 0,
+      "name": "순서는 어디부터 가도 상관없네[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086501_MSG0038",
+      "style": 0,
+      "name": "모리스 행정장관에게 받은 친서를\n카라반 리더에게 건네주고……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev086501_MSG0039",
+      "style": 0,
+      "name": "우호 조약의 합의를 성사하고 와 주게\n부탁하지[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086501_MSG0040",
+      "style": 0,
+      "name": "맡겨 줘모![ST:wait ]"
+    }
+  ]
+}

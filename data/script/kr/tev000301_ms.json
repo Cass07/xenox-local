@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000301_MSG0001",
+      "style": 1,
+      "name": "어떻게든 라이프를 이 눈으로 보고 싶어\n날 데려가 줘, 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000301_JNK0010",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 3,
+      "label": "tev000301_SEL0011",
+      "style": 3,
+      "name": "라오를 멤버에 넣는다"
+    },
+    {
+      "$id": 4,
+      "label": "tev000301_JNK0020",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev000301_SEL0021",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000301_MSG0004",
+      "style": 1,
+      "name": "그렇게 나와야지\n너한테 방해가 되지는 않을 거다\n맡겨 줘[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000301_MSG0005",
+      "style": 1,
+      "name": "그러지 말고 다시 생각해 줘, 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000301_MSG0006",
+      "style": 1,
+      "name": "너는 엘마네 팀의\n[ST:playername ][KR:Particle char=ya ]였지?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000301_MSG0007",
+      "style": 1,
+      "name": "그래, 요즘 좀 어때?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000301_MSG0008",
+      "style": 1,
+      "name": "재미있을 것 같은 임무를 수행 중이라면\n나도 끼워 줘, 보다시피 한가하거든[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000301_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 12,
+      "label": "tev000301_SEL0031",
+      "style": 3,
+      "name": "라오를 멤버에 넣는다"
+    },
+    {
+      "$id": 13,
+      "label": "tev000301_JNK0040",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 14,
+      "label": "tev000301_SEL0041",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 15,
+      "label": "tev000301_MSG0009",
+      "style": 1,
+      "name": "심심풀이로 제격이겠군\n잘 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000301_MSG0010",
+      "style": 1,
+      "name": "뭐, 억지 부릴 생각은 없어\n아무튼 열심히 해 봐[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000301_MSG0015",
+      "style": 1,
+      "name": "적의 적은 아군……\n그렇게 단순하면 좋겠지만[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000301_MSG0016",
+      "style": 1,
+      "name": "뭐가 됐든 정신 똑바로 차리고\n미지의 외계인과 교섭하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000301_JNK0050",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 20,
+      "label": "tev000301_SEL0051",
+      "style": 3,
+      "name": "라오를 멤버에 넣는다"
+    },
+    {
+      "$id": 21,
+      "label": "tev000301_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 22,
+      "label": "tev000301_SEL0061",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 23,
+      "label": "tev000301_MSG0017",
+      "style": 1,
+      "name": "좋아, 맡겨 줘\n함께 가게 됐으니\n그에 걸맞은 활약을 해 주마[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000301_MSG0018",
+      "style": 1,
+      "name": "그러냐, 마음이 바뀌거든\n다시 말이라도 걸어 줘[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000301_MSG0023",
+      "style": 1,
+      "name": "이야기 들었다, 이리나 팀이\n그로우스 녀석들한테 공격받고 있나 본데[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000301_MSG0024",
+      "style": 1,
+      "name": "정말이지 어쩔 수 없군……\n얼른 망각의 계곡에 가서 구해 주자고[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000301_JNK0070",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 28,
+      "label": "tev000301_SEL0071",
+      "style": 3,
+      "name": "라오를 멤버에 넣는다"
+    },
+    {
+      "$id": 29,
+      "label": "tev000301_JNK0080",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 30,
+      "label": "tev000301_SEL0081",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 31,
+      "label": "tev000301_MSG0025",
+      "style": 1,
+      "name": "좋아, 맡겨 줘\n함께 가게 됐으니\n그에 걸맞은 활약을 해 주마[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000301_MSG0026",
+      "style": 1,
+      "name": "그러냐, 마음이 바뀌거든\n다시 말이라도 걸어 줘[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000301_MSG0031",
+      "style": 1,
+      "name": "어서 가…… 나도 프로다\n이쪽 일은 내가 어떻게든 하겠어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000301_MSG0032",
+      "style": 1,
+      "name": "너희는 먼저 가라고[ST:wait ]"
+    }
+  ]
+}

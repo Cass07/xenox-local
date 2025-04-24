@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085505_MSG0001",
+      "style": 0,
+      "name": "느낌은 어때?\n그윈[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085505_MSG0002",
+      "style": 0,
+      "name": "왠지 표정이 굉장히 좋네요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085505_MSG0003",
+      "style": 0,
+      "name": "응![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085505_MSG0004",
+      "style": 0,
+      "name": "엘마 대령님, 감사합니다\n초심으로 돌아가 기본부터 다시 하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085505_MSG0005",
+      "style": 0,
+      "name": "떠올랐어요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085505_MSG0005_2",
+      "style": 0,
+      "name": "그 녀석은 항상 늦은 시간까지\n질리지도 않고 기본 훈련을 했었다는 게[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085505_MSG0006",
+      "style": 0,
+      "name": "계속 궁금했는데\n그 녀석이란 게 누구예요?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085505_MSG0007",
+      "style": 0,
+      "name": "레온, 내 친한 친구였어\n그리고……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085505_MSG0008",
+      "style": 0,
+      "name": "이리나의 남동생이야\n흰고래에 타지 못한[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085505_MSG0009",
+      "style": 0,
+      "name": "……그윈 씨, 죄송해요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085505_MSG0010",
+      "style": 0,
+      "name": "아니야, 괜찮아[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085505_MSG0010_2",
+      "style": 0,
+      "name": "그 녀석은 힘도 세고\n언제나 나를 보호해 주었어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085505_MSG0011",
+      "style": 0,
+      "name": "이리나 중위님도 그 녀석과 있을 때는\n안심이 된다는 얼굴이었고……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085505_MSG0012",
+      "style": 0,
+      "name": "그 녀석이 부러웠어요\n그래서 저도 레온처럼 되고 싶었죠[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085505_JNK0010",
+      "style": 4,
+      "name": "호랑이 교관"
+    },
+    {
+      "$id": 16,
+      "label": "qev085505_SEL0011",
+      "style": 3,
+      "name": "레온을 넘어서라 말하며 팔짱을 낀다"
+    },
+    {
+      "$id": 17,
+      "label": "qev085505_JNK0020",
+      "style": 4,
+      "name": "사랑의 매"
+    },
+    {
+      "$id": 18,
+      "label": "qev085505_SEL0021",
+      "style": 3,
+      "name": "그윈에게는 어려울 거라고 냉정히 말한다"
+    },
+    {
+      "$id": 19,
+      "label": "qev085505_MSG0013",
+      "style": 0,
+      "name": "그래, 똑같은 정도로 만족하면 곤란하지[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085505_MSG0013_m",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "qev085505_MSG0013_f",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "qev085505_MSG0014",
+      "style": 0,
+      "name": "호랑이 교관이 둘이다![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085505_MSG0015",
+      "style": 0,
+      "name": "맞아요, 녀석을 목표로 하는 게 아니라\n녀석을 넘어설 수 있도록 열심히 하겠어요![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085505_MSG0016",
+      "style": 0,
+      "name": "후훗, 엄하네[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085505_MSG0017",
+      "style": 0,
+      "name": "엘마 씨보다 호랑이다모![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085505_MSG0017_m",
+      "style": 0,
+      "name": "엘마 씨보다 호랑이다모![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085505_MSG0017_f",
+      "style": 0,
+      "name": "엘마 씨보다 호랑이다모![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085505_MSG0018",
+      "style": 0,
+      "name": "지금의 저로는 어렵겠지만, 깨달았어요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085505_MSG0019",
+      "style": 0,
+      "name": "그 녀석의 시간은 멈춰 있지만……\n제 시간은 움직이고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085505_MSG0020",
+      "style": 0,
+      "name": "그러니까 지금부터라도 제대로 하면\n언젠가 분명히 넘어설 수 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085505_MSG0021",
+      "style": 0,
+      "name": "그때 다시 상대해 주시겠어요?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085505_MSG0022",
+      "style": 0,
+      "name": "그럼, 물론이야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085505_MSG0023",
+      "style": 0,
+      "name": "하지만 갈 길이 머네요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085505_MSG0024",
+      "style": 0,
+      "name": "그냥 강해지는 것이 아니라\n이리나 씨를 지킬 수 있을 정도로잖아요?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085505_MSG0025",
+      "style": 0,
+      "name": "어, 어떻게 그걸!?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085505_MSG0026",
+      "style": 0,
+      "name": "전부 다 보여요~~[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev085505_MSG0027",
+      "style": 0,
+      "name": "그윈 씨는 이리나 씨 이야기를 할 때\n굉장히 진지한걸요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev085505_MSG0028",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "qev085505_MSG0029",
+      "style": 0,
+      "name": "린에게 들킬 정도면 아직 멀었네[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev085505_MSG0030",
+      "style": 0,
+      "name": "이쪽도 아직 수행이 필요한 건가……\n갈 길이 멀구나[ST:wait ]"
+    }
+  ]
+}

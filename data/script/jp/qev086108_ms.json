@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086108_MSG0001",
+      "style": 0,
+      "name": "リンさんは　やっぱりタツのことを[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086108_MSG0002",
+      "style": 0,
+      "name": "美味しそうな高級食材としか\n見てくれてないんですも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086108_MSG0003",
+      "style": 0,
+      "name": "そりゃ　タツの魅惑のボディは\nきっと最高の珍味ですも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086108_MSG0004",
+      "style": 0,
+      "name": "食べたらきっとウマウマで\nホッペが落ちちゃうですも[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086108_MSG0005",
+      "style": 0,
+      "name": "そんなことを考えてたら\nヨダレが出てきちゃうですも[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086108_MSG0006",
+      "style": 0,
+      "name": "て　そういう話じゃなくて！\nとにかくショックなんですも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086108_MSG0007",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086108_MSG0008",
+      "style": 0,
+      "name": "ももももも～～！？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086108_MSG0009",
+      "style": 0,
+      "name": "もう　どこ行っちゃったのよ　タツ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086108_MSG0010",
+      "style": 0,
+      "name": "もももももももも～～！？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086108_MSG0011",
+      "style": 0,
+      "name": "タツ！？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086108_MSG0012",
+      "style": 0,
+      "name": "こっちよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086108_MSG0013",
+      "style": 0,
+      "name": "ももも！\nタツを食べたらきっと美味しいですも！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086108_MSG0014",
+      "style": 0,
+      "name": "じゃなくて美味しくないですも！\n食べるのやめるですも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086108_MSG0015",
+      "style": 0,
+      "name": "ああ　どうせ食べられるなら\nこんな奴じゃなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086108_MSG0016",
+      "style": 0,
+      "name": "リンさんの方がよかった気がしてきましたも[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086108_MSG0017",
+      "style": 0,
+      "name": "リンさん　さよならですも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086108_MSG0018",
+      "style": 0,
+      "name": "タツ！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086108_MSG0020",
+      "style": 0,
+      "name": "もう　タツのバカ！\n何でいきなりいなくなっちゃうんだよぉ！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086108_MSG0021",
+      "style": 0,
+      "name": "リ　リンさん！？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086108_MSG0022",
+      "style": 0,
+      "name": "タツを食べようだなんて許せない！\n私が討伐しちゃいます！[ST:wait ]"
+    }
+  ]
+}

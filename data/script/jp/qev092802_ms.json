@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092802_MSG0010",
+      "style": 0,
+      "name": "ああ　来てくれたか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092802_JNK0020",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 3,
+      "label": "qev092802_SEL0030",
+      "style": 3,
+      "name": "何があった？と不審げに聞く"
+    },
+    {
+      "$id": 4,
+      "label": "qev092802_MSG0040",
+      "style": 0,
+      "name": "そう構えなくていい\nちょっと意見をもらいたいだけだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092802_JNK0050",
+      "style": 4,
+      "name": "冗談"
+    },
+    {
+      "$id": 6,
+      "label": "qev092802_SEL0060",
+      "style": 3,
+      "name": "暇だったと打ち明ける"
+    },
+    {
+      "$id": 7,
+      "label": "qev092802_MSG0070",
+      "style": 0,
+      "name": "ブレイドが暇なのは良いことだ\n平和である証だ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092802_MSG0080",
+      "style": 0,
+      "name": "それで　フレスベルグのことなんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092802_MSG0090",
+      "style": 0,
+      "name": "あれには特殊な機構がある[ST:wide ]―\nという話をしたのを覚えているか？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092802_MSG0100",
+      "style": 0,
+      "name": "現在　ドールフライトカスタムの導入で\nドールは飛行機能が標準化されたけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092802_MSG0110",
+      "style": 0,
+      "name": "私達のフレスベルグは\nより高度な空中機動を可能にする[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092802_MSG0120",
+      "style": 0,
+      "name": "“巡航形態”に変形できるの[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092802_MSG0130",
+      "style": 0,
+      "name": "つまり　フライト中は\nドールが戦闘機に変身するんだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092802_MSG0140",
+      "style": 0,
+      "name": "どうだ　すごいだろう？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092802_MSG0150",
+      "style": 0,
+      "name": "巡航形態への可変システムは\nあと少しのところまで完成しているのだけど[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092802_MSG0160",
+      "style": 0,
+      "name": "最後の調整がどうしても上手くいかなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092802_MSG0170",
+      "style": 0,
+      "name": "それで　何か新しい知見を得られないかと\nブレイドであるあなたに相談[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092802_MSG0180",
+      "style": 0,
+      "name": "全く度し難い[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092802_MSG0190",
+      "style": 0,
+      "name": "ドールフライトという無二の技術を\n年端も行かぬ子供に先を越され[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092802_MSG0200",
+      "style": 0,
+      "name": "打開策があると聞いて来てみれば\n門外漢の部外者に助けを請うなどと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092802_MSG0210",
+      "style": 0,
+      "name": "全く[ST:wide ]―　全く度し難い\n開発者としてのプライドはないのか？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092802_MSG0220",
+      "style": 0,
+      "name": "ドールを実戦運用している人間の意見だ\n話を聞くだけの価値はある[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092802_MSG0230",
+      "style": 0,
+      "name": "そもそも　先を越されたと言うが\n別に　おれ達は競争してるわけじゃ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092802_MSG0240",
+      "style": 0,
+      "name": "その認識が度し難いと言っている！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092802_MSG0250",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092802_MSG0260",
+      "style": 0,
+      "name": "これは企業間の紛れもない競争だ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092802_MSG0270",
+      "style": 0,
+      "name": "技術革新とは\n常にせめぎ合いの中で生まれるのだ！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092802_MSG0280",
+      "style": 0,
+      "name": "やれやれ[ST:wide ]―　君ならできると信じて\n主任を任せたのだがな　アリシャ君[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092802_MSG0290",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wide ]―ッ！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092802_MSG0300",
+      "style": 0,
+      "name": "他社に出し抜かれる前に完成させなければ\nここまでの全てが無駄になる[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092802_MSG0310",
+      "style": 0,
+      "name": "今すぐ現場に戻り\n巡航形態を完成させろ　いいな？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092802_MSG0320",
+      "style": 0,
+      "name": "は　はい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092802_MSG0330",
+      "style": 0,
+      "name": "部長　アリシャはミラに漂着して以来\nずっと開発室にこもりきりだ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092802_MSG0340",
+      "style": 0,
+      "name": "いい加減　休ませ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092802_MSG0350",
+      "style": 0,
+      "name": "たかがテストパイロットが\n上長である我らの決定に口を挟むのかね？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092802_MSG0360",
+      "style": 0,
+      "name": "アリシャは[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092802_MSG0370",
+      "style": 0,
+      "name": "すぐに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092802_MSG0380",
+      "style": 0,
+      "name": "すぐに完成させます[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092802_MSG0390",
+      "style": 0,
+      "name": "なっ　アリシャ[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092802_MSG0400",
+      "style": 0,
+      "name": "[ST:wide ]―失礼します[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092802_MSG0410",
+      "style": 0,
+      "name": "アリシャ！！[ST:wait ]"
+    }
+  ]
+}

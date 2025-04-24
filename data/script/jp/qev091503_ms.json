@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091503_MSG0001",
+      "style": 0,
+      "name": "もう敵は攻めてこないみたいですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091503_MSG0002",
+      "style": 0,
+      "name": "あなたがいてくれてよかった[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091503_MSG0003",
+      "style": 0,
+      "name": "ボクがこういう任務に呼ばれるなんて\nあなたの助けなくして有り得なかったことです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091503_MSG0004",
+      "style": 0,
+      "name": "一緒に任務をこなしてきてくれたこと\n感謝しています[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091503_JNK0010",
+      "style": 4,
+      "name": "謙遜"
+    },
+    {
+      "$id": 6,
+      "label": "qev091503_SEL0011",
+      "style": 3,
+      "name": "フォグの実力だと褒める"
+    },
+    {
+      "$id": 7,
+      "label": "qev091503_JNK0020",
+      "style": 4,
+      "name": "自讃"
+    },
+    {
+      "$id": 8,
+      "label": "qev091503_SEL0021",
+      "style": 3,
+      "name": "確かにアドバイスが良かったからだと\n自画自賛する"
+    },
+    {
+      "$id": 9,
+      "label": "qev091503_MSG0005",
+      "style": 0,
+      "name": "それもあるかもしれませんが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091503_MSG0006",
+      "style": 0,
+      "name": "でもやっぱり　あなたのおかげです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091503_MSG0007",
+      "style": 0,
+      "name": "そのお調子者なところ\n兄さんに似ていて微笑ましいです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091503_MSG0008",
+      "style": 0,
+      "name": "えっ[ST:wide ]―！？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091503_MSG0009",
+      "style": 0,
+      "name": "兄さんから救援信号[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091503_MSG0010",
+      "style": 0,
+      "name": "すぐに行きます！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091503_MSG0011",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091503_MSG0012",
+      "style": 0,
+      "name": "グロウスの増援が岩盤要塞に現れたそうです\nそれで兄さん達は挟撃にあって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091503_MSG0013",
+      "style": 0,
+      "name": "一刻も早く岩盤要塞に向かいましょう[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091503_MSG0015",
+      "style": 0,
+      "name": "兄さん[ST:wide ]―　無事でいて[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

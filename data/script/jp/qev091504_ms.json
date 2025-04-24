@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091504_MSG0001",
+      "style": 0,
+      "name": "兄さん！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091504_MSG0002",
+      "style": 0,
+      "name": "フォグ[ST:wide ]―　来てくれたのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091504_MSG0003",
+      "style": 0,
+      "name": "大丈夫！？　他の人達は？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091504_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―他のヤツらは先に逃がしたから無事だ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091504_MSG0005",
+      "style": 0,
+      "name": "こんな場所で一人で戦うなんてムチャだ！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091504_MSG0006",
+      "style": 0,
+      "name": "ああ[ST:wide ]―　そのようだな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091504_MSG0007",
+      "style": 0,
+      "name": "俺は限界が来ちまった\nわりぃが　後は任せたぞ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091504_MSG0008",
+      "style": 0,
+      "name": "[ST:wide ]―うん[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091504_MSG0009",
+      "style": 0,
+      "name": "安全を確保するために\n周囲の敵を殲滅しましょう[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091504_MSG0010",
+      "style": 0,
+      "name": "それから兄さんをＮＬＡに連れて帰るんです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091504_MSG0011",
+      "style": 0,
+      "name": "兄さん　大丈夫？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091504_MSG0012",
+      "style": 0,
+      "name": "ああ[ST:wide ]―\nじっとしてたら少しは体力が回復したみたいだ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091504_MSG0013",
+      "style": 0,
+      "name": "へっ　フォグもやるようになったじゃねぇか[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091504_MSG0014",
+      "style": 0,
+      "name": "これでも　毎日成長してるんだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091504_MSG0015",
+      "style": 0,
+      "name": "そうみたいだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091504_MSG0016",
+      "style": 0,
+      "name": "なぁ[ST:wide ]―　俺に話したいことがあったんだろ？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091504_MSG0017",
+      "style": 0,
+      "name": "今なら聞くぜ[ST:wide ]―\n逃げも隠れもできねぇからな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091504_MSG0018",
+      "style": 0,
+      "name": "それよりも\nすぐにＮＬＡに戻って治療をしないと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091504_MSG0019",
+      "style": 0,
+      "name": "大丈夫だ　これくらいで俺は死にやしない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091504_MSG0020",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091504_MSG0021",
+      "style": 0,
+      "name": "ほら　早く聞かせろよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091504_MSG0022",
+      "style": 0,
+      "name": "父さんは[ST:wide ]―　年老いた自分よりも\n若い人を白鯨に乗せたいんだって言ってたよ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091504_MSG0023",
+      "style": 0,
+      "name": "犠牲になることを厭わなかったんだ\nだから　父さんは後悔してない[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091504_MSG0024",
+      "style": 0,
+      "name": "ボクだって父さんを残すのは辛かった\nでも　受け入れようと必死で努力したんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091504_MSG0025",
+      "style": 0,
+      "name": "[ST:wide ]―そうか　お前は親父の願いを叶えたんだな[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091504_MSG0026",
+      "style": 0,
+      "name": "叶える努力をしてるんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091504_MSG0027",
+      "style": 0,
+      "name": "[ST:wide ]―ああ　そうか　そういうことか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091504_MSG0028",
+      "style": 0,
+      "name": "すまなかったな　フォグ\n俺が無鉄砲なばかりに[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091504_MSG0029",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091504_MSG0030",
+      "style": 0,
+      "name": "いいんだ　兄さんはそれで\n豪快で猪突猛進で無鉄砲で[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091504_MSG0031",
+      "style": 0,
+      "name": "それが父さんとボクが望んだ姿だから[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091504_MSG0032",
+      "style": 0,
+      "name": "そう言うと思ったぜ[ST:wide ]―\nなら俺はとことん思うがままにやってやるさ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091504_MSG0033",
+      "style": 0,
+      "name": "[ST:wide ]―お前さんもありがとよ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091504_JNK0010",
+      "style": 4,
+      "name": "うなずく"
+    },
+    {
+      "$id": 35,
+      "label": "qev091504_SEL0011",
+      "style": 3,
+      "name": "仲間だから当然だと答える"
+    },
+    {
+      "$id": 36,
+      "label": "qev091504_JNK0020",
+      "style": 4,
+      "name": "ねだる"
+    },
+    {
+      "$id": 37,
+      "label": "qev091504_SEL0021",
+      "style": 3,
+      "name": "お礼にダイナーでおごってほしいとねだる"
+    },
+    {
+      "$id": 38,
+      "label": "qev091504_MSG0034",
+      "style": 0,
+      "name": "フォグも俺もいい仲間をもったもんだな[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091504_MSG0035",
+      "style": 0,
+      "name": "そうだね　最高の仲間だよ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091504_MSG0035_m",
+      "style": 0,
+      "name": "そうだね　最高の仲間だよ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091504_MSG0035_f",
+      "style": 0,
+      "name": "そうだね　最高の仲間だよ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091504_MSG0036",
+      "style": 0,
+      "name": "今度は兄さんと一緒の任務を受けたいね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091504_MSG0037",
+      "style": 0,
+      "name": "ああ　そりゃいいな\n俺達が組めば最強だろ　楽しみだな[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091504_MSG0038",
+      "style": 0,
+      "name": "よくわかってんな[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091504_MSG0039",
+      "style": 0,
+      "name": "フォグ　[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]メンテナンスセンターに\n行く前にダイナーに寄ろうぜ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091504_MSG0040",
+      "style": 0,
+      "name": "ちょっと飲んでからでも遅くはないだろ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091504_MSG0041",
+      "style": 0,
+      "name": "兄さんが飲みだすと半日は飲むんだから\n絶対にダメだよ！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091504_MSG0042",
+      "style": 0,
+      "name": "口うるせぇところは変わってねぇな[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091504_MSG0043",
+      "style": 1,
+      "name": "くっ[ST:wide ]―持ちこたえてくれ\nフォグ　[ST:playername ][ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs02020100_MSG0001",
+      "style": 0,
+      "name": "그럼 바로 연수에 관해 설명하지[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs02020100_MSG0002",
+      "style": 0,
+      "name": "연수 내용은 지정된 포인트에\n데이터 프로브를 설치하는 것이다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs02020100_MSG0003",
+      "style": 0,
+      "name": "아직 설명하지 않았지만[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs02020100_MSG0004",
+      "style": 0,
+      "name": "NLA에서는 프런티어넷이라는\n시스템을 사용해서……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs02020100_MSG0005",
+      "style": 0,
+      "name": "이 미라의 정보를 NLA에 모으고 있어\n그 정보를 수집하고 있는 게 데이터 프로브야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs02020100_MSG0006",
+      "style": 0,
+      "name": "그래, 그걸 설치하는 것도\n블레이드의 중요한 일이지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs02020100_MSG0006_2",
+      "style": 0,
+      "name": "이걸 봐 주겠나[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs02020100_MSG0007",
+      "style": 0,
+      "name": "지금 표시된 것이\n이 NLA와 주변의 지형이다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs02020100_MSG0008",
+      "style": 0,
+      "name": "보면 알겠지만\n지형이 여러 블록으로 나뉘어 있다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs02020100_MSG0009",
+      "style": 0,
+      "name": "우리는 이 블록을\n세그먼트라고 부르고 있지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs02020100_MSG0010",
+      "style": 0,
+      "name": "이 미라의 모든 땅에 프런티어넷을\n확충하기 위해……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs02020100_MSG0011",
+      "style": 0,
+      "name": "가장 효율적인 데이터 프로브의\n설치 위치를 산출해 내고 있는 것이다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs02020100_MSG0012",
+      "style": 0,
+      "name": "세그먼트의 설정에는 그 밖에도 다른 목적이 있어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs02020100_MSG0013",
+      "style": 0,
+      "name": "예를 들면 블레이드 대원이나 주민에게\n무슨 일이 생겨서 구조하러 가야 할 때[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs02020100_MSG0014",
+      "style": 0,
+      "name": "효율적으로 목적지를 파악할 수 있지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs02020100_MSG0015",
+      "style": 0,
+      "name": "본론으로 돌아가지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs02020100_MSG0016",
+      "style": 0,
+      "name": "지도상에서 하얗게 빛나고 있는\n세그먼트가 보이나?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs02020100_MSG0017",
+      "style": 0,
+      "name": "이곳에 데이터 프로브를\n설치하고 오는 것이 연수 내용이다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs02020100_MSG0018",
+      "style": 0,
+      "name": "NLA 동쪽이네[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs02020100_MSG0019",
+      "style": 0,
+      "name": "이 빛나는 지점이\n이스트 게이트 근처니까……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs02020100_MSG0020",
+      "style": 0,
+      "name": "여기서 가깝네요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs02020100_MSG0023",
+      "style": 0,
+      "name": "데이터 프로브 설치 방법은\n현지에서 엘마에게 배우도록[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs02020100_MSG0024",
+      "style": 0,
+      "name": "그래, 알겠어[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs02020100_MSG0025",
+      "style": 0,
+      "name": "그럼, 갈까?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs02020100_MSG0026",
+      "style": 0,
+      "name": "연수지만 첫 임무니까 저희 잘해 봐요[ST:wait ]"
+    }
+  ]
+}

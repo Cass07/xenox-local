@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev072201_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev072201_SEL0011",
+      "style": 3,
+      "name": "オーヴァについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev072201_JNK0020",
+      "style": 4,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev072201_SEL0021",
+      "style": 3,
+      "name": "困っていることを尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev072201_MSG0001",
+      "style": 1,
+      "name": "遥か昔より　非力なオルフェ人は\nオーヴァによって導かれ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev072201_MSG0002",
+      "style": 1,
+      "name": "外敵より逃れ　進化し\nこれまで生き延びて来ました[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev072201_MSG0003",
+      "style": 1,
+      "name": "それは　私もこの身体に流れるものを\n感じ取れば分かるのですが……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev072201_MSG0004",
+      "style": 1,
+      "name": "それで我々は本当に　正しき場所へ\n辿り着くことができるのでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev072201_MSG0005",
+      "style": 1,
+      "name": "[ST:wide ]―皆が皆ではありませんが\n我らβ体の中には　オーヴァに対し\n疑問を持っている者もいるようですよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev072201_MSG0010",
+      "style": 1,
+      "name": "オンオトナムより生まれ出てから……\n私には　ずっと強烈な違和感があります[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev072201_MSG0011",
+      "style": 1,
+      "name": "それが何かは分からない……\n分かるのはこのままではいけないという\n切迫感だけ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev072201_MSG0012",
+      "style": 1,
+      "name": "オーヴァは何も応えてくれない\nオルフェ人に聞いても　理解すらして貰えない[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev072201_MSG0013",
+      "style": 1,
+      "name": "ああ……\n私は　どうしたらいいのでしょうか……[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev035402_MSG0001",
+      "style": 1,
+      "name": "오! 대장!\n제법 멋지게 싸우던걸?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev035402_MSG0002",
+      "style": 1,
+      "name": "방금 그 괴물의 토벌 보수는……\n헷, 돈 좀 되겠는데![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev035402_MSG0003",
+      "style": 1,
+      "name": "수고가 많았어\n보수 수령은 우리한테 맡겨 줘\n이제 대장은 어디로든 꺼지라고[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev035402_JNK0010",
+      "style": 4,
+      "name": "격분"
+    },
+    {
+      "$id": 5,
+      "label": "qev035402_SEL0011",
+      "style": 3,
+      "name": "감정에 몸을 맡긴 채 반박한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev035402_JNK0020",
+      "style": 4,
+      "name": "냉정"
+    },
+    {
+      "$id": 7,
+      "label": "qev035402_SEL0021",
+      "style": 3,
+      "name": "냉정한 태도로 상대에게 반론한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev035402_MSG0004",
+      "style": 1,
+      "name": "캬하하하하하!\n이 자식, 제대로 열불 났구나![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev035402_MSG0005",
+      "style": 1,
+      "name": "뭐어어?\n뭔 소리 하는 건지는 모르겠는데\n지금 우리한테 반항하는 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev035402_MSG0006",
+      "style": 1,
+      "name": "헷…… 우리 거스 팀을 상대로\n건방지게 굴면 어떻게 되는지……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev035402_MSG0007",
+      "style": 1,
+      "name": "야, 너희들!\n퀸시 팀의 멍청한 도우미한테\n확실하게 가르쳐 주자고!![ST:wait ]"
+    }
+  ]
+}

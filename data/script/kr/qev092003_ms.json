@@ -1,0 +1,540 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092003_MSG0001",
+      "style": 0,
+      "name": "기다렸지, 티카[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092003_MSG0002",
+      "style": 0,
+      "name": "아크세나, 생각보다 기운이 있어 보이네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092003_MSG0003",
+      "style": 0,
+      "name": "침울해할 것 같아서\n바로 다음 임무를 맡기려고 한 건데[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092003_MSG0004",
+      "style": 0,
+      "name": "신경 써 줘서 고마워\n캠버의 돌을 수리할 수 있게 도왔거든[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092003_MSG0005",
+      "style": 0,
+      "name": "의외로 평소랑 다르지 않은 기분이야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092003_MSG0006",
+      "style": 0,
+      "name": "착각하지만 않으면 좋을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092003_MSG0007",
+      "style": 0,
+      "name": "응, 뭐가?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092003_MSG0008",
+      "style": 0,
+      "name": "별일 아니야, 아크세나와 신입 테스터\n너희에게 새로운 테스트를 맡기고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092003_MSG0009",
+      "style": 0,
+      "name": "또 이너 웨펀이구나[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092003_MSG0010",
+      "style": 0,
+      "name": "내가 돌에 관련된 일을 맡는 건\n다섯 번에 한 번 정도니까[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092003_MSG0011",
+      "style": 0,
+      "name": "아크세나에게 있어서는\n즐겁지 않을지도 모르겠지만[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092003_MSG0012",
+      "style": 0,
+      "name": "지금부터 건네줄 무기를 사용해서\n지정한 원시 생물을 쓰러뜨리고 와 줘[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092003_MSG0013",
+      "style": 0,
+      "name": "이번에는 두 군데 부탁할게[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092003_MSG0014",
+      "style": 0,
+      "name": "기후나 특성이 다른 땅에서도\n운용할 수 있을지 테스트하고 싶거든[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092003_MSG0015",
+      "style": 0,
+      "name": "그렇구나, 알았어![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092003_MSG0016",
+      "style": 1,
+      "name": "내 무기는 실수로 폭발할 일 없어\n안심하고 테스트를 진행해 줘[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092003_MSG0017",
+      "style": 0,
+      "name": "역시 티카가 설계한 물건이라\n최고로 쓰기 편하더라![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092003_MSG0018",
+      "style": 0,
+      "name": "아크세나\n……그 무기, 조금 이상하지 않았어?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092003_MSG0019",
+      "style": 0,
+      "name": "응?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092003_MSG0020",
+      "style": 0,
+      "name": "데이터를 보니까\n무슨 이물질이 섞인 것 같은 느낌인데……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092003_MSG0021",
+      "style": 0,
+      "name": "그러고 보니까 어쩐지 뜨거운 것 같기도……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092003_MSG0022",
+      "style": 0,
+      "name": "빨리 던져 버려![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092003_MSG0022_02",
+      "style": 0,
+      "name": "으앗!![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092003_MSG0023",
+      "style": 0,
+      "name": "휴…… 위험할 뻔했어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092003_MSG0024",
+      "style": 0,
+      "name": "괜찮아?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092003_MSG0025",
+      "style": 0,
+      "name": "응, 그럭저럭 무사해……\n티카도 실패할 때가 있구나[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092003_MSG0026",
+      "style": 0,
+      "name": "실패할 때도 있지만, 저런 실패는 안 해[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092003_MSG0027",
+      "style": 0,
+      "name": "아무리 생각해도 작위적이야, 악의가 느껴져[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092003_MSG0028",
+      "style": 0,
+      "name": "아크세나[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092003_MSG0028_2",
+      "style": 0,
+      "name": "누군가가 널 노리는 게 아닐까?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092003_JNK0010",
+      "style": 4,
+      "name": "반론한다"
+    },
+    {
+      "$id": 32,
+      "label": "qev092003_SEL0011",
+      "style": 3,
+      "name": "아크세나는 남의 미움을 살 성격이\n아니라고 말한다"
+    },
+    {
+      "$id": 33,
+      "label": "qev092003_JNK0020",
+      "style": 4,
+      "name": "동의한다"
+    },
+    {
+      "$id": 34,
+      "label": "qev092003_SEL0021",
+      "style": 3,
+      "name": "어쩌면 누군가가 아크세나를\n미워하고 있을지도 모른다며 끄덕인다"
+    },
+    {
+      "$id": 35,
+      "label": "qev092003_MSG0029",
+      "style": 0,
+      "name": "그래, 맞아![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092003_MSG0030",
+      "style": 0,
+      "name": "라고 말하고 싶지만, 저번 실패가 심각해서\n누군가가 날 미워하는 걸지도……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092003_MSG0031",
+      "style": 0,
+      "name": "아니, 애초에 저번 테스트 때 이미\n널 미워하는 사람이 있었던 거 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092003_MSG0032",
+      "style": 0,
+      "name": "그, 그럴 리 없어![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092003_MSG0033",
+      "style": 0,
+      "name": "그럴 리 있어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092003_MSG0033_2",
+      "style": 0,
+      "name": "애초에 저번 테스트 때 이미\n널 미워하는 사람이 있었던 거 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092003_MSG0034",
+      "style": 0,
+      "name": "앗, 그때부터!?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092003_MSG0035",
+      "style": 0,
+      "name": "아무리 프로토타입 병기라고 해도\nNLA 외부에서 운용 테스트를 할 정도쯤 되면[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092003_MSG0036",
+      "style": 0,
+      "name": "어느 정도의 안전성은 충족했다는 뜻이야[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092003_MSG0037",
+      "style": 0,
+      "name": "그런데 사람 목숨이 위험할 수도 있는 사고가\n연달아 일어나다니 명백한 이상 사태잖아[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092003_MSG0038",
+      "style": 0,
+      "name": "나, 정말로 위험했던 거구나……\n아~ 살아 있어서 다행이다……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092003_MSG0039",
+      "style": 0,
+      "name": "하지만, 대체 누가 나를 노리는 건데?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092003_MSG0040",
+      "style": 0,
+      "name": "그것까지는 나도 모르지[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092003_MSG0041",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092003_MSG0041_2",
+      "style": 0,
+      "name": "범인을 찾는 건 가능할지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092003_MSG0042",
+      "style": 0,
+      "name": "진짜!?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092003_MSG0043",
+      "style": 0,
+      "name": "파괴된 무기의 잔해를 조사할게\n그러면 누가 어떤 수단을 쓴 건지 알 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092003_MSG0044",
+      "style": 0,
+      "name": "고마워, 티카! 역시 믿음직스러워!![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092003_MSG0045",
+      "style": 0,
+      "name": "조금만 기다려 줘, 우선적으로 처리할게[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092003_MSG0046",
+      "style": 0,
+      "name": "알아냈어[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092003_MSG0046_2",
+      "style": 0,
+      "name": "범인은 무기에 초소형 폭약을 달았던 거야[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092003_MSG0047",
+      "style": 0,
+      "name": "범인에게 발신기가 있고\n버튼을 누르면 폭발하는 구조지[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092003_MSG0048",
+      "style": 0,
+      "name": "그러면, 무기를 메고 있었을 때\n범인이 그 버튼을 눌렀으면……?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092003_MSG0049",
+      "style": 0,
+      "name": "천국행 열차를 탔겠지[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092003_MSG0050",
+      "style": 0,
+      "name": "세상에![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092003_MSG0051",
+      "style": 0,
+      "name": "하지만 범인은 아무래도 살인까지\n할 생각은 없었던 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092003_MSG0052",
+      "style": 0,
+      "name": "아크세나의 임무가 실패할 타이밍에\n무기를 터뜨리려고 했던 것 같으니까[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev092003_MSG0053",
+      "style": 0,
+      "name": "그것도 충분히 못된 짓이라고![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev092003_MSG0054",
+      "style": 0,
+      "name": "하지만 이건 중요한 힌트야[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev092003_MSG0055",
+      "style": 0,
+      "name": "아크세나를 보고 있지 않으면\n원하는 타이밍에 터뜨릴 수 없으니까 말이야[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev092003_MSG0056",
+      "style": 0,
+      "name": "아 그렇구나, 나를 몰래\n감시하는 사람이 있었다는 거지?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev092003_JNK0030",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 67,
+      "label": "qev092003_SEL0031",
+      "style": 3,
+      "name": "이 근처에 수상한 자가 없었는지\n조사해 보자고 제안한다"
+    },
+    {
+      "$id": 68,
+      "label": "qev092003_JNK0040",
+      "style": 4,
+      "name": "자수"
+    },
+    {
+      "$id": 69,
+      "label": "qev092003_SEL0041",
+      "style": 3,
+      "name": "범인은 자신이었다며 자수한다"
+    },
+    {
+      "$id": 70,
+      "label": "qev092003_MSG0057",
+      "style": 0,
+      "name": "그래, 그렇게 하자![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092003_MSG0058",
+      "style": 0,
+      "name": "목격자의 증언을 따라가다 보면\n언젠가 범인에게 다다를지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092003_MSG0059",
+      "style": 0,
+      "name": "네가!?[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092003_MSG0060",
+      "style": 0,
+      "name": "아니, 그럴 리가 없지\n처음 사고 때는 근처에 있지도 않았으니까[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092003_MSG0061",
+      "style": 0,
+      "name": "돌 바보인 나도\n그 정도는 안다고[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092003_MSG0062",
+      "style": 0,
+      "name": "방금 있었던 폭발 당시에\n수상한 자가 없었는지 조사하는 게 좋겠어[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092003_MSG0063",
+      "style": 0,
+      "name": "좋아, 서두르자[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092003_MSG0064",
+      "style": 0,
+      "name": "신입 테스터, 아크세나를 잘 부탁할게\n그리고 조심해……[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092003_MSG0065",
+      "style": 0,
+      "name": "어서 와, 테스트 데이터는 충분히 얻었어[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092003_MSG0066",
+      "style": 0,
+      "name": "프로토타입 병기를 반납해 줄래?[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092003_MSG0067",
+      "style": 1,
+      "name": "어서 와, 테스트 데이터는 충분히 얻었어[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092003_MSG0068",
+      "style": 0,
+      "name": "프로토타입 병기를 반납해 줄래?[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092003_MSG0069",
+      "style": 1,
+      "name": "아크세나가 저지른 사고의 뒤처리는\n어떻게 할 거냐고?[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092003_MSG0070",
+      "style": 1,
+      "name": "기계에 관한 문제는\n메카닉에게 맡기면 돼[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092003_MSG0071",
+      "style": 1,
+      "name": "하지만 침울해하는 테스트 파일럿 문제는\n블레이드 동료들끼리 어떻게든 해 줘[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev092003_MSG0072",
+      "style": 1,
+      "name": "아크세나 일은……\n너한테 맡길게[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev092003_MSG0073",
+      "style": 1,
+      "name": "감시 카메라를 확인해 봤는데\n수상한 자는 없었어[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev092003_MSG0074",
+      "style": 1,
+      "name": "……여기를 드나들어도\n수상하지 않은 인물……이라는 뜻일까?[ST:wait ]"
+    }
+  ]
+}

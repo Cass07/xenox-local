@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091202_MSG0001",
+      "style": 0,
+      "name": "이것이 미확인 자원……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091202_MSG0002",
+      "style": 0,
+      "name": "확실히 지금까지 이런 건 본 적 없어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091202_MSG0003",
+      "style": 0,
+      "name": "미라에 온 후로 처음 겪는 일이 잔뜩 있지만\n이건 특히나 신비로워[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091202_MSG0004",
+      "style": 0,
+      "name": "이걸 정말 자원으로 쓸 수 있다면\n어마어마한 에너지가 될 것 같은데[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091202_MSG0005",
+      "style": 0,
+      "name": "돌이나 흰고래가 제작됐을 때처럼\n기술 혁신이 일어날지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091202_MSG0006",
+      "style": 0,
+      "name": "기대되는걸[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091202_MSG0007",
+      "style": 0,
+      "name": "응, 랜드뱅크 임무의 묘미지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091202_MSG0008",
+      "style": 0,
+      "name": "잡담은 여기까지 하고\n얼른 끝내자[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091202_MSG0009",
+      "style": 0,
+      "name": "그런 다음 다이너에서 뒤풀이하자고[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091202_MSG0010",
+      "style": 0,
+      "name": "그러면 회수하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091202_MSG0011",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091202_MSG0012",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091202_JNK0010",
+      "style": 4,
+      "name": "놀란다"
+    },
+    {
+      "$id": 14,
+      "label": "qev091202_SEL0011",
+      "style": 3,
+      "name": "미확인 자원이 사라진 것에 놀란다"
+    },
+    {
+      "$id": 15,
+      "label": "qev091202_JNK0020",
+      "style": 4,
+      "name": "따진다"
+    },
+    {
+      "$id": 16,
+      "label": "qev091202_SEL0021",
+      "style": 3,
+      "name": "포그가 또 이상한 짓이라도\n한 건 아니냐고 묻는다"
+    },
+    {
+      "$id": 17,
+      "label": "qev091202_MSG0013",
+      "style": 0,
+      "name": "뭐야, 사라져 버렸잖아[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091202_MSG0014",
+      "style": 0,
+      "name": "저기, 미리 말해 두는데\n난 아무것도 안 했어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091202_MSG0015",
+      "style": 0,
+      "name": "그래, 포그[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091202_MSG0015_02",
+      "style": 0,
+      "name": "넌 옛날부터 경계심이 없었잖아\n또 이상한 짓이라도 한 거지?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091202_MSG0016",
+      "style": 0,
+      "name": "난 지극히 평범하게\n자원을 회수하려고 한 것뿐이야……![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091202_MSG0017",
+      "style": 0,
+      "name": "하지만 너 말이야, 초등학생 때\n불이 난 것도 아닌데 화재경보기를 누른 적도 있잖아[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091202_MSG0018",
+      "style": 0,
+      "name": "그야…… 눈앞에 버튼이 있으면\n누르고 싶은 게 당연한 거라고[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091202_MSG0019",
+      "style": 0,
+      "name": "나무 타는 게 특기여서\n미식축구 골대에 오른 적도 있었는데[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091202_MSG0019_02",
+      "style": 0,
+      "name": "그때랑 비슷한 거야[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091202_MSG0020",
+      "style": 0,
+      "name": "아, 그랬었지…… 그리운 시절이야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091202_MSG0021_02",
+      "style": 0,
+      "name": "그렇지![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091202_MSG0021",
+      "style": 0,
+      "name": "그건 그렇다 치고……\n너처럼 이해하기 어려운 자원이니까[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091202_MSG0022",
+      "style": 0,
+      "name": "포그리움이라고 부르자[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091202_MSG0023",
+      "style": 0,
+      "name": "새로운 물질에 내 별명을 붙이다니\n어쩐지 기쁜걸[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091202_MSG0024",
+      "style": 0,
+      "name": "칭찬하려고 그런 게 아닌데[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091202_MSG0025",
+      "style": 0,
+      "name": "아직 이 근처에 몇 개 있는 것 같으니까\n그쪽은 잘되기를 빌어 보자고[ST:wait ]"
+    }
+  ]
+}

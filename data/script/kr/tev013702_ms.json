@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev013702_MSG0001",
+      "style": 1,
+      "name": "그, 공업 에어리어 변두리에 사는\n닥터 B라는 외계인……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev013702_MSG0002",
+      "style": 1,
+      "name": "대체 뭐 하는 사람일까?\n넌 그가 어떤 인물인지 알아?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev013702_MSG0003",
+      "style": 1,
+      "name": "파츠를 잔뜩 사 주는\n좋은 고객이기는 하지만……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev013702_MSG0004",
+      "style": 1,
+      "name": "뭘 만드는 건지 짐작도 안 가고\n가끔 이해할 수 없는 말도 하고[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev013702_MSG0005",
+      "style": 1,
+      "name": "수수께끼투성이라 조금 꺼림칙해\n애초에 언제부터 NLA에 살기 시작한 거지?[ST:wait ]"
+    }
+  ]
+}

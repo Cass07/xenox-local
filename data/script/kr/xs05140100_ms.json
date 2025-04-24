@@ -1,0 +1,414 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05140100_MSG0001",
+      "style": 0,
+      "name": "정신이 든 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs05140100_MSG0002",
+      "style": 0,
+      "name": "새로운 왼팔 상태는 어떤가요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs05140100_JNK0010",
+      "style": 4,
+      "name": "양호"
+    },
+    {
+      "$id": 4,
+      "label": "xs05140100_SEL0011",
+      "style": 3,
+      "name": "왼팔의 상태를 확인하며 끄덕인다"
+    },
+    {
+      "$id": 5,
+      "label": "xs05140100_JNK0020",
+      "style": 4,
+      "name": "불편"
+    },
+    {
+      "$id": 6,
+      "label": "xs05140100_SEL0021",
+      "style": 3,
+      "name": "왼팔을 바라보며 고개를 갸웃한다"
+    },
+    {
+      "$id": 7,
+      "label": "xs05140100_MSG0003",
+      "style": 0,
+      "name": "다행이다~[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs05140100_MSG0004",
+      "style": 0,
+      "name": "린의 처치가 빨랐던 덕분이야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs05140100_MSG0005",
+      "style": 0,
+      "name": "조금만 늦었으면 생체 순환액이\n전부 새어 나가서 재생이 불가능했을 거야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs05140100_MSG0006",
+      "style": 0,
+      "name": "에헤헤……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs05140100_MSG0007",
+      "style": 0,
+      "name": "음~ 분석 결과로는\n별다른 문제는 없었는데요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs05140100_MSG0008",
+      "style": 0,
+      "name": "접합 부분의 순환액이 새는 것도 아니고\n손가락도 제대로 움직이고 있으니[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs05140100_MSG0009",
+      "style": 0,
+      "name": "문제는 없어 보이는데……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs05140100_MSG0010",
+      "style": 0,
+      "name": "린의 처치는 완벽했어\n그리고 분석 결과도 문제가 없다면……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs05140100_MSG0011",
+      "style": 0,
+      "name": "몸과 팔의 융화가\n아직 덜 된 것뿐 아닐까?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs05140100_MSG0012",
+      "style": 0,
+      "name": "아마도 그럴 거예요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs05140100_MSG0013",
+      "style": 0,
+      "name": "처치한 지 얼마 안 되기도 했고\n그건 저도 어쩔 수가 없어요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs05140100_MSG0014",
+      "style": 0,
+      "name": "조금 지나면 괜찮아질 거예요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs05140100_MSG0015",
+      "style": 0,
+      "name": "우선 당신에게는 사과부터 해야겠네[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs05140100_MSG0016",
+      "style": 0,
+      "name": "당신의 기억 상실을 생각하면\nB.B.……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs05140100_MSG0017",
+      "style": 0,
+      "name": "인공 생체, 블루 블러드에 관해\n이야기해 주지 않은 건 내 실수야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs05140100_MSG0018",
+      "style": 0,
+      "name": "미안해[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs05140100_MSG0019",
+      "style": 0,
+      "name": "우리 B.B.는\n일상생활에서는 그 사실을 의식하지 않도록[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs05140100_MSG0020",
+      "style": 0,
+      "name": "모든 생리 기능을 재현하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs05140100_MSG0021",
+      "style": 0,
+      "name": "그러니까 저도 요리를 즐기고 있고요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs05140100_MSG0022",
+      "style": 0,
+      "name": "흰고래라는 거대 이민선을 조종하고\n보수하기 위한 크루[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs05140100_MSG0023",
+      "style": 0,
+      "name": "모두가 B.B.야[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs05140100_MSG0024",
+      "style": 0,
+      "name": "그런데 어째서 B.B.가 되어야 했냐모?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs05140100_MSG0025",
+      "style": 0,
+      "name": "그야 당연하잖아![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs05140100_MSG0026",
+      "style": 0,
+      "name": "거주 가능한 행성을 발견할 때까지\n몇십 년, 몇백 년이 걸릴지 알 수 없었다고[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs05140100_MSG0027",
+      "style": 0,
+      "name": "배 안에서 나이를 먹고 죽게 된다면\n아무도 크루가 되고 싶어 하지 않았을걸?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs05140100_MSG0028",
+      "style": 0,
+      "name": "아하~ 이해했다모[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs05140100_MSG0029",
+      "style": 0,
+      "name": "우리의 살아 있는 육체는\n다른 사람들과 마찬가지로 라이프에 잠들어 있어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs05140100_MSG0030",
+      "style": 0,
+      "name": "그곳에서 B.B.를 원격 조작하고 있는 거지[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs05140100_MSG0031",
+      "style": 0,
+      "name": "그러니까 잊지 마[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs05140100_MSG0032",
+      "style": 0,
+      "name": "라이프 포인트를 발견, 확보한다는 건\n우리의 안전을 확보한다는 것이기도 해[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs05140100_MSG0033",
+      "style": 0,
+      "name": "우리 B.B.의 본체가 콜드 슬립된\n라이프의 기능이 정지되면[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs05140100_MSG0034",
+      "style": 0,
+      "name": "NLA에서 생활하고 있는 모든 B.B.가\n죽게 될 거예요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs05140100_MSG0035",
+      "style": 0,
+      "name": "그리고 한 가지 경고해 두고 싶은 게 있어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs05140100_MSG0036",
+      "style": 0,
+      "name": "우리는 지금의 몸을 잃어도\n새로운 B.B.를 얻어서 다시 활동할 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs05140100_MSG0037",
+      "style": 0,
+      "name": "하지만 그 재설정은 라이프의 중추……\n센트럴 라이프에서만 할 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs05140100_MSG0038",
+      "style": 0,
+      "name": "모모모! 그럼 그로우스나 원시 생물에게 당해서\nB.B.를 잃어버리면……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs05140100_MSG0039",
+      "style": 0,
+      "name": "바로는 되살아날 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs05140100_MSG0040",
+      "style": 0,
+      "name": "당분간은 단 하나뿐인 생명이라고 생각하고\n신중하게 행동해 줬으면 해[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs05140100_MSG0041",
+      "style": 0,
+      "name": "B.B.라고 해서 함부로 다루지 마\n팀 리더로서의 부탁이야[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs05140100_MSG0042",
+      "style": 0,
+      "name": "그리고 한 가지 더\n너희들에게 말해 두고 싶은 게 있어[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs05140100_MSG0043",
+      "style": 0,
+      "name": "혼란을 막기 위해 각 블레이드의\n팀 리더만 알고 있는 사실이야[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs05140100_MSG0044",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "xs05140100_MSG0045",
+      "style": 0,
+      "name": "블레이드 타워의 시계를 본 적 있어?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs05140100_MSG0046",
+      "style": 0,
+      "name": "그 시계는 말이지\n어떤 카운트다운을 표시하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs05140100_MSG0047",
+      "style": 0,
+      "name": "어떤 카운트다운이라는 게 뭔가모?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs05140100_MSG0048",
+      "style": 0,
+      "name": "라이프의 가동 한계야[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs05140100_MSG0049",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs05140100_MSG0050",
+      "style": 0,
+      "name": "흰고래의 주 동력로에서 떨어져 나간 라이프는\n가까운 시일 내에 가동 한계가 찾아올 거야[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs05140100_MSG0051",
+      "style": 0,
+      "name": "우리는 그때까지 어떻게든 찾아내서\n새로운 동력을 확보해야만 해[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs05140100_MSG0052",
+      "style": 0,
+      "name": "만약 발견하지 못하면[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs05140100_MSG0053",
+      "style": 0,
+      "name": "이 몸은 영원히 활동을 정지할 거야[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs05140100_MSG0054",
+      "style": 0,
+      "name": "그렇다는 건……[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs05140100_MSG0055",
+      "style": 0,
+      "name": "영원한 어둠의 세계, 죽음이 찾아오는 거지……[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs05140100_MSG0056",
+      "style": 0,
+      "name": "모든 지구인에게 아무런 차별 없이 평등하게[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs05140100_MSG0057",
+      "style": 0,
+      "name": "엘마 씨, 이제 어떻게 할까요?[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs05140100_MSG0058",
+      "style": 0,
+      "name": "몸 상태는……[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs05140100_MSG0058_2",
+      "style": 0,
+      "name": "괜찮은 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs05140100_MSG0059",
+      "style": 0,
+      "name": "그럼 블레이드 타워로 가자\n반담에게 임무를 보고해야지[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs05140100_MSG0060",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs05140100_MSG9000",
+      "style": 0,
+      "name": "~ B.B. 메인터넌스 센터 ~[ST:wait ]"
+    }
+  ]
+}

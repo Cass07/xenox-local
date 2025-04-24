@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085302_MSG0001",
+      "style": 0,
+      "name": "救援要請したのは　あなた？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085302_MSG0002",
+      "style": 0,
+      "name": "ああ　俺だ　キアス・コールだ\nやっと来てくれたか[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085302_MSG0003",
+      "style": 0,
+      "name": "リブロさんは？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085302_MSG0004",
+      "style": 0,
+      "name": "中にいるよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085302_MSG0005",
+      "style": 0,
+      "name": "何だと！？　一人でか？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085302_MSG0006",
+      "style": 0,
+      "name": "中は怖い生き物がうようよしてるですも\n危ないですも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085302_MSG0007",
+      "style": 0,
+      "name": "知ってるよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085302_MSG0008",
+      "style": 0,
+      "name": "だが　ＮＬＡを発展させるためには\nフレムタイドの確保が不可欠なんだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085302_MSG0009",
+      "style": 0,
+      "name": "危険は覚悟の上さ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085302_MSG0010",
+      "style": 0,
+      "name": "そうじゃねぇ！\n何で一人で残して来たんだ　家族だろ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085302_MSG0011",
+      "style": 0,
+      "name": "家族だからさ\n俺は　自分の分の仕事はしたからな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085302_MSG0012",
+      "style": 0,
+      "name": "コール家家訓その４\n目的遂げたらさっさと帰れ　だ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085302_MSG0013",
+      "style": 0,
+      "name": "だからって家族を見殺しにするっていうのか？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085302_MSG0014",
+      "style": 0,
+      "name": "だから　あんた達を呼んだじゃないか\nあとは任せたぜ！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085302_MSG0015",
+      "style": 0,
+      "name": "俺は　一足先にＮＬＡに戻ってるよ！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085302_MSG0016",
+      "style": 0,
+      "name": "おっ　おい　ちょっと待て\nふざけるな　そんな考え方[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085302_MSG0017",
+      "style": 0,
+      "name": "なんて親だ！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085302_MSG0018",
+      "style": 0,
+      "name": "イリーナ　彼はひとまず放っておきましょう\nリブロ・コールの救出が先よ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085302_MSG0018_2",
+      "style": 0,
+      "name": "急ぎましょう[ST:wait ]"
+    }
+  ]
+}

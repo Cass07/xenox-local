@@ -1,0 +1,636 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33140100_MSG0010",
+      "style": 0,
+      "name": "……투쟁은 슬슬 끝인가[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33140100_MSG0020",
+      "style": 0,
+      "name": "기다리고는 있었으나[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33140100_MSG0030",
+      "style": 0,
+      "name": "나에게는 무의미한 시간이었다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33140100_MSG0040",
+      "style": 0,
+      "name": "그거 미안하네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33140100_MSG0050",
+      "style": 0,
+      "name": "그럼 빨리 결판을 지을까[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33140100_MSG0060",
+      "style": 0,
+      "name": "결국……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33140100_MSG0070",
+      "style": 0,
+      "name": "이 투쟁도 무의미했다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33140100_MSG0080",
+      "style": 0,
+      "name": "너희와 싸우면\n죽음이라는 것을 알 수 있으리라 생각했다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33140100_MSG0090",
+      "style": 0,
+      "name": "그러나 소용없었다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33140100_MSG0100",
+      "style": 0,
+      "name": "지금의 나는 이제\n너희의 적조차 아닐지도 모른다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33140100_MSG0110",
+      "style": 0,
+      "name": "투쟁 자체가 무의미하니까[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33140100_MSG0120",
+      "style": 0,
+      "name": "이제 와서……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33140100_MSG0130",
+      "style": 0,
+      "name": "무슨 소리를 하는 거냐[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33140100_MSG0140",
+      "style": 0,
+      "name": "나의 모성은 당신의 사상으로 인해 멸망했어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33140100_MSG0150",
+      "style": 0,
+      "name": "감정적으로는 원한도 있지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33140100_MSG0160",
+      "style": 0,
+      "name": "하지만 지금은 자신의 존재를 걸고\n싸우기로 결심했어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33140100_MSG0170",
+      "style": 0,
+      "name": "당신이 우리의 존재를 위협하고[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33140100_MSG0175",
+      "style": 0,
+      "name": "살려는 의지를 방해한다면……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33140100_MSG0180",
+      "style": 0,
+      "name": "난 당신을 적으로 생각하고[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33140100_MSG0185",
+      "style": 0,
+      "name": "사력을 다해 투쟁할 각오가 되어 있어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33140100_MSG0190",
+      "style": 0,
+      "name": "그런가[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33140100_MSG0200",
+      "style": 0,
+      "name": "그것이 너의 정의로군[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33140100_MSG0210",
+      "style": 0,
+      "name": "이해는 하지 않지만[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs33140100_MSG0215",
+      "style": 0,
+      "name": "기억은 해 두지[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs33140100_MSG0220",
+      "style": 0,
+      "name": "어째서 이해하려고 하지 않는 거야!?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs33140100_MSG0230",
+      "style": 0,
+      "name": "당신 정도의 지성이 있으면\n할 수 있을 텐데![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs33140100_MSG0240",
+      "style": 0,
+      "name": "할 수 있는가 없는가의 문제가 아니다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs33140100_MSG0250",
+      "style": 0,
+      "name": "하지 않을 뿐이다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs33140100_MSG0260",
+      "style": 0,
+      "name": "나의 행동은 필연에 의해\n자동으로 이루어진다고 말했다[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs33140100_MSG0270",
+      "style": 0,
+      "name": "이해에 필연이란 없다[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs33140100_MSG0280",
+      "style": 0,
+      "name": "하지만 앎에는 필연이 있지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs33140100_MSG0290",
+      "style": 0,
+      "name": "나는 서멀 최고의 지성[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs33140100_MSG0300",
+      "style": 0,
+      "name": "모르는 것은 용납되지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs33140100_MSG0310",
+      "style": 0,
+      "name": "서멀이라고?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs33140100_MSG0320",
+      "style": 0,
+      "name": "죽음이란 무엇인가……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs33140100_MSG0330",
+      "style": 0,
+      "name": "그것은 단지 패배의 대가일 뿐인가[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs33140100_MSG0340",
+      "style": 0,
+      "name": "존재의 끝을 나타내는 것인가[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs33140100_MSG0350",
+      "style": 0,
+      "name": "그렇다면 너희가 정의하는 존재란 무엇인가?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs33140100_MSG0360",
+      "style": 0,
+      "name": "너희는 모른다……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs33140100_MSG0370",
+      "style": 0,
+      "name": "아무것도 모른다[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs33140100_MSG0380",
+      "style": 0,
+      "name": "모든 의식이 축적된\n전 우주의 중심에 있는 심연을[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs33140100_MSG0390",
+      "style": 0,
+      "name": "너희가 만든 사람을 본뜬 몸 안에\n의식을 봉하는 기술조차[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs33140100_MSG0400",
+      "style": 0,
+      "name": "유사하게 그 구조를\n재현했을 뿐이라는 것도 모른다……![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs33140100_MSG0410",
+      "style": 0,
+      "name": "의식이 축적된 심연……?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs33140100_MSG0420",
+      "style": 0,
+      "name": "역시 센트럴 라이프와는 별개로[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs33140100_MSG0430",
+      "style": 0,
+      "name": "우리 의식의 근원이 있다는 건가……?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs33140100_MSG0440",
+      "style": 0,
+      "name": "B.B.의 기술은\n그것을 유사하게 재현했을 뿐……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs33140100_MSG0450",
+      "style": 0,
+      "name": "센트럴 라이프는 즉……[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs33140100_MSG0460",
+      "style": 0,
+      "name": "중계점일 뿐이었나?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs33140100_MSG0470",
+      "style": 0,
+      "name": "어떠한 일에도 우연은 있다[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs33140100_MSG0480",
+      "style": 0,
+      "name": "우연히도 너희는 단편적으로나마\n이 우주의 심연과 연결될 수 있었다[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs33140100_MSG0490",
+      "style": 0,
+      "name": "그것은 칭찬하지[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs33140100_MSG0500",
+      "style": 0,
+      "name": "그렇기에 너희는 우스운 것이다[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs33140100_MSG0520",
+      "style": 0,
+      "name": "따라서 흥미가 끊이질 않지[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs33140100_MSG0530",
+      "style": 0,
+      "name": "그 빈약한 지성으로\n너희는 어떻게 이해하고 있는가……[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs33140100_MSG0540",
+      "style": 0,
+      "name": "다시 한번 묻지[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs33140100_MSG0550",
+      "style": 0,
+      "name": "죽음이란 무엇인가[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs33140100_MSG0560",
+      "style": 0,
+      "name": "죽음은 끝 따위가 아니야[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs33140100_MSG0570",
+      "style": 0,
+      "name": "맞아요[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs33140100_MSG0580",
+      "style": 0,
+      "name": "생명 활동의 정지에 불과합니다[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs33140100_MSG0590",
+      "style": 0,
+      "name": "존재는 남아 있지요[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs33140100_MSG0600",
+      "style": 0,
+      "name": "존재란 산다는 것[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs33140100_MSG0605",
+      "style": 0,
+      "name": "살아 있었다는 증거야[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs33140100_MSG0610",
+      "style": 0,
+      "name": "그것이……[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs33140100_MSG0620",
+      "style": 0,
+      "name": "너희들의 정의인가[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs33140100_MSG0630",
+      "style": 0,
+      "name": "단순한 정의 같은 게 아니야[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs33140100_MSG0640",
+      "style": 0,
+      "name": "그게 얼마나 중요한 것인지[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs33140100_MSG0650",
+      "style": 0,
+      "name": "우리는 이해하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs33140100_MSG0660",
+      "style": 0,
+      "name": "대단한 자신감이군[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs33140100_MSG0670",
+      "style": 0,
+      "name": "하지만 이해하고[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs33140100_MSG0675",
+      "style": 0,
+      "name": "받아들인 것이 너희들의 한계다[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs33140100_MSG0680",
+      "style": 0,
+      "name": "지성의 패배다[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs33140100_MSG0690",
+      "style": 0,
+      "name": "거기에는 대가로서의 죽음만이 있지[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs33140100_MSG0700",
+      "style": 0,
+      "name": "그러므로……[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs33140100_MSG0710",
+      "style": 0,
+      "name": "난 결코 이해하지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs33140100_MSG0720",
+      "style": 0,
+      "name": "불쌍하군……[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs33140100_MSG0730",
+      "style": 0,
+      "name": "나에게는 도망치는 걸로만 보인다고[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs33140100_MSG0740",
+      "style": 0,
+      "name": "그래, 나는 항상 도망치고 있다[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs33140100_MSG0750",
+      "style": 0,
+      "name": "영겁의 세월을 도망 다니지[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "xs33140100_MSG0760",
+      "style": 0,
+      "name": "받아들이는 것보다\n도망치는 것이 훨씬 능동적이다[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs33140100_MSG0770",
+      "style": 0,
+      "name": "난 계속 도망치는 것으로[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs33140100_MSG0780",
+      "style": 0,
+      "name": "오직 나의 존재를 승리시킨다[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs33140100_MSG0790",
+      "style": 0,
+      "name": "계속 도망치는 존재에게 무슨 의미가 있겠어[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs33140100_MSG0800",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs33140100_MSG0810",
+      "style": 0,
+      "name": "죽음이 패배의 대가라고 한다면[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs33140100_MSG0820",
+      "style": 0,
+      "name": "당신은 이미 죽은 거야[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "xs33140100_MSG0830",
+      "style": 0,
+      "name": "무의미한 존재지[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "xs33140100_MSG0840",
+      "style": 0,
+      "name": "나의 존재가 무의미하다고?[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "xs33140100_MSG0850",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "xs33140100_MSG0860",
+      "style": 0,
+      "name": "우주의 구조가 어떻고는 상관없어[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "xs33140100_MSG0870",
+      "style": 0,
+      "name": "그런 것과는 별개인 진실이다[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "xs33140100_MSG0880",
+      "style": 0,
+      "name": "네가[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "xs33140100_MSG0890",
+      "style": 0,
+      "name": "영원히 \"알려고 하지 않는 것\"이다![ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "xs33140100_MSG0900",
+      "style": 0,
+      "name": "내가……[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "xs33140100_MSG0910",
+      "style": 0,
+      "name": "알 수 없는 것 따위는 없다[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "xs33140100_MSG0920",
+      "style": 0,
+      "name": "네 입으로 말해 버렸군[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "xs33140100_MSG0930",
+      "style": 0,
+      "name": "그게 바로 네가 무지하다는 증거야[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "xs33140100_MSG0940",
+      "style": 0,
+      "name": "모른다는 것을 모르는……[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "xs33140100_MSG0950",
+      "style": 0,
+      "name": "그것을 받아들이지 못하는 너는[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "xs33140100_MSG0960",
+      "style": 0,
+      "name": "스스로 패배를 인정한 거라고![ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "xs33140100_MSG0970",
+      "style": 0,
+      "name": "……불쾌하군[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "xs33140100_MSG0980",
+      "style": 0,
+      "name": "난 너희에게 죽음을 선사하고 승리하여[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "xs33140100_MSG0990",
+      "style": 0,
+      "name": "이 세계를 초월할 것이다[ST:wait ]"
+    }
+  ]
+}

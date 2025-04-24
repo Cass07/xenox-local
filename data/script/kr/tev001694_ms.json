@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001694_MSG0001",
+      "style": 1,
+      "name": "안녕, [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001694_MSG0002",
+      "style": 1,
+      "name": "수직 이착륙기란 거 제법 흥미롭지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001694_MSG0003",
+      "style": 1,
+      "name": "메카닉인 매슈 아저씨는\n수송기와 해리어 전투기를 합쳐서\n해레이터라고 부르는데 전혀 퍼지지 않았어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001694_MSG0004",
+      "style": 1,
+      "name": "나한테 있어서 비행기란\n역시 프로펠러니까 와닿지 않는단 말이지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001694_MSG0005",
+      "style": 1,
+      "name": "우리 집 자가용 비행기가 단발 프로펠러기였어\n운전은 물론 아버지 담당[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001694_MSG0006",
+      "style": 1,
+      "name": "언제 추락할지 모르니까\n타고 있는 동안은 항상 손을 모으고\n기도했었지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001694_MSG0007",
+      "style": 1,
+      "name": "그때가 생각나네~\n하지만 이제 탈 수 없다니……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001694_JNK0010",
+      "style": 4,
+      "name": "지적한다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001694_SEL0011",
+      "style": 3,
+      "name": "오늘은 그 이야기\n안 하냐고 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001694_JNK0020",
+      "style": 4,
+      "name": "위로한다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001694_SEL0021",
+      "style": 3,
+      "name": "그래도 지금의 아크세나에게는\n돌이 있다고 위로한다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001694_MSG0013",
+      "style": 1,
+      "name": "맞아, 그 이야기는 안 하기로 했는데\n용케 알았네[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001694_MSG0015",
+      "style": 1,
+      "name": "도……![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001694_MSG0016",
+      "style": 1,
+      "name": "그 이야기는 안 하기로 했어![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001694_MSG0018",
+      "style": 1,
+      "name": "티카가 자꾸 그 이야기만 하면\n이제 슬슬 진짜 바보 같아 보이니까\n그만하라고 했거든[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001694_MSG0019",
+      "style": 1,
+      "name": "그야 물론 「그걸 쓰다듬고 싶어」라든가\n「뺨을 비비고 싶어~」라는 말을 했으니까\n위험한 사람이 되기 일보 직전이었지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001694_MSG0020",
+      "style": 1,
+      "name": "하지만, 그것에 대한 나의 넘치는 마음은\n그렇게 쉽게 진정되지 않는다고[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001694_JNK0030",
+      "style": 4,
+      "name": "납득한다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001694_SEL0031",
+      "style": 3,
+      "name": "마음을 달래려고\n수송기를 보고 있었음에 납득한다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001694_JNK0040",
+      "style": 4,
+      "name": "장난친다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001694_SEL0041",
+      "style": 3,
+      "name": "돌이라는 단어를\n억지로 말하게 해 본다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001694_MSG0027",
+      "style": 1,
+      "name": "맞아! 용케 알았구나[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001694_MSG0028",
+      "style": 1,
+      "name": "수송기는 그것과 통하는 게 있잖아?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001694_MSG0029",
+      "style": 1,
+      "name": "조금 부족하지만\n잠깐의 위로는 되지 않을까 해서[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001694_MSG0030",
+      "style": 1,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001694_MSG0031",
+      "style": 1,
+      "name": "하지만 이렇게 이야기했더니\n왠지 마음이 심란해졌어……![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001694_MSG0032",
+      "style": 1,
+      "name": "잠깐 블레이드 에어리어를 산책하고 올게![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001694_MSG0033",
+      "style": 1,
+      "name": "그걸 슬쩍 보려는 게 아니라고\n기분 전환을 위해서야![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001694_MSG0037",
+      "style": 1,
+      "name": "응!?\n갑자기 퀴즈!?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001694_MSG0038",
+      "style": 1,
+      "name": "이탈리아 알프스 동쪽 끝의 백운암 산맥을\n뭐라고 부르냐고……?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001694_MSG0039",
+      "style": 1,
+      "name": "음, 그러니까……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001694_MSG0040",
+      "style": 1,
+      "name": "히말라야 산맥인가……?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001694_MSG0041",
+      "style": 1,
+      "name": "응!? 틀렸어!?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001694_MSG0042",
+      "style": 1,
+      "name": "이번엔 프랑스 프로방스 지방의\n8분의 6박자 무곡?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001694_MSG0043",
+      "style": 1,
+      "name": "으음……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001694_MSG0044",
+      "style": 1,
+      "name": "캉캉……인가?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001694_MSG0045",
+      "style": 1,
+      "name": "또 틀렸어!?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001694_MSG0046",
+      "style": 1,
+      "name": "난 미국인이라고!\n그런 걸 어떻게 알아……![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001694_MSG0047",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001694_MSG0048",
+      "style": 1,
+      "name": "사람을 무시하는 눈으로 보고 말이야……\n네, 네, 어차피 전 돌 바보랍니다![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001694_MSG0049",
+      "style": 1,
+      "name": "앗, 말해 버렸다……!?[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev030201_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev030201_SEL0011",
+      "style": 3,
+      "name": "마 논 우주선에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev030201_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev030201_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev030201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev030201_SEL0031",
+      "style": 3,
+      "name": "습격 당시의 행동을 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev030201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev030201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev030201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev030201_SEL0061",
+      "style": 3,
+      "name": "마 논인에 관해 묻는다"
+    },
+    {
+      "$id": 11,
+      "label": "tev030201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev030201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev030201_MSG0001",
+      "style": 1,
+      "name": "지금 NLA에 와 있는 우리 우주선은\n모성에서 다른 행성으로 가는 도중이었어요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev030201_MSG0002",
+      "style": 1,
+      "name": "몇 번이고 몇 년이고 다니던\n안전한 에어리어에서 항행하고 있었는데……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev030201_MSG0003",
+      "style": 1,
+      "name": "어째서 그런 트러블이……?\n우주선 엔진이나 계기에는\n전혀 문제가 없었는데……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev030201_MSG0004",
+      "style": 1,
+      "name": "으으, 생각을 너무 많이 했더니\n피자를 먹고 싶어졌어요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev030201_MSG0011",
+      "style": 1,
+      "name": "언제나 기술과 지식은 합격인데\n면접에서 떨어져 버려요……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev030201_MSG0012",
+      "style": 1,
+      "name": "면접 날에 비가 와서\n다음 날 갔더니 혼나고……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev030201_MSG0013",
+      "style": 1,
+      "name": "면접 시간이 점심때여서\n피자를 5판 정도 배달시켰더니 혼나고……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev030201_MSG0016",
+      "style": 1,
+      "name": "음…… 지구인을 이해하는 건\n저에게는 무리일까요?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev030201_MSG0027",
+      "style": 1,
+      "name": "NLA 도시 사람들을 태우고\n마 논 우주선은 남쪽 해역으로 피난했어요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev030201_MSG0028",
+      "style": 1,
+      "name": "우리의 기술이나 지구인의 목숨을\n노릴지도 모른다며 경계하고 있었는데……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev030201_MSG0029",
+      "style": 1,
+      "name": "그로우스는 우주선을\n조금도 습격하지 않았네요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev030201_MSG0030",
+      "style": 1,
+      "name": "우리의 기술이나 지구인의 목숨에는\n흥미가 없었던 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev030201_MSG0035",
+      "style": 1,
+      "name": "앞으로 그로우스의 공격을 받을 일은\n없을 거라고 들었어요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev030201_MSG0036",
+      "style": 1,
+      "name": "하지만 우리는 아직 NLA에 남아 있어요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev030201_MSG0037",
+      "style": 1,
+      "name": "기술적인 문제도 있겠지만\n우리가 이 도시에 더 있고 싶기 때문이에요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev030201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev030201_SEL0041",
+      "style": 3,
+      "name": "마 논 우주선에 관해 묻는다"
+    },
+    {
+      "$id": 30,
+      "label": "tev030201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev030201_SEL0051",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 32,
+      "label": "tev030201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev030201_SEL0071",
+      "style": 3,
+      "name": "습격 당시의 행동을 묻는다"
+    },
+    {
+      "$id": 34,
+      "label": "tev030201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "tev030201_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "tev030201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev030201_SEL0081",
+      "style": 3,
+      "name": "마 논인에 관해 묻는다"
+    },
+    {
+      "$id": 38,
+      "label": "tev030201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev030201_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev030201_MSG1001",
+      "style": 1,
+      "name": "어…… 마 논 우주선 말인가요?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev030201_MSG1002",
+      "style": 1,
+      "name": "음…… 그게…… 그러니까……\n그 정보를 듣고 우리에게\n무슨 짓을 할 생각은 아니겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev030201_MSG1003",
+      "style": 1,
+      "name": "……죄송해요\n그런 일이 있었다 보니\n지구인의 얼굴을 제대로 볼 수가 없어요……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev030201_MSG1008",
+      "style": 1,
+      "name": "지구인 중에도 그로우스 같은\n무서운 분이 있군요……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev030201_MSG1009",
+      "style": 1,
+      "name": "면접을 본 기업의 지구인은\n사고방식이 다르긴 했지만\n좋은 사람들이었어서 쇼크예요……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev030201_MSG1010",
+      "style": 1,
+      "name": "알렉스 사건은 많은 공부가 됐어요……\n앞으로는 조심하도록 할게요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev030201_MSG1015",
+      "style": 1,
+      "name": "마 논의 리더들이 지구인을\n우주선에 태워서 피난시킨다길래\n의견에 따랐지만……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev030201_MSG1016",
+      "style": 1,
+      "name": "알렉스 같은 지구인이\n더 있을 수도 있다면……\n매우 위험한 행위였을지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev030201_MSG1017",
+      "style": 1,
+      "name": "마 논 우주선을 빼앗아 개조해서\n지구인 이외의 사람들을 공격하는…………[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev030201_MSG1018",
+      "style": 1,
+      "name": "……죄송해요\n그런 일이 있었다 보니\n지구인이…… 무서워요……[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev030201_MSG1025",
+      "style": 1,
+      "name": "앞으로 그로우스의 공격을 받을 일은\n없을 거라고 들었어요[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev030201_MSG1026",
+      "style": 1,
+      "name": "하지만 우리는 아직 NLA에 남아 있어요……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev030201_MSG1027",
+      "style": 1,
+      "name": "아아, 어째서 리더들은\n계속 위험한 판단을 하는 걸까요![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev030201_MSG1028",
+      "style": 1,
+      "name": "빨리, 빨리 모성으로 돌아가고 싶어요…………[ST:wait ]"
+    }
+  ]
+}

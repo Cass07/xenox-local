@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000791_MSG0001",
+      "style": 1,
+      "name": "おう　[ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000791_MSG0002",
+      "style": 1,
+      "name": "この犬　おまえんとこの犬だろ？\n可愛がらせてもらってたんだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000791_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 4,
+      "label": "tev000791_SEL0011",
+      "style": 3,
+      "name": "どうやって可愛がったかを\n尋ねる"
+    },
+    {
+      "$id": 5,
+      "label": "tev000791_JNK0020",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 6,
+      "label": "tev000791_SEL0021",
+      "style": 3,
+      "name": "粗相をしなかったか尋ねる"
+    },
+    {
+      "$id": 7,
+      "label": "tev000791_MSG0003",
+      "style": 1,
+      "name": "どうやってって　そりゃあお前[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000791_MSG0004",
+      "style": 1,
+      "name": "あごの下を撫でてから　お腹を撫でて\n更に頬をすりすりしてだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000791_MSG0005",
+      "style": 1,
+      "name": "……ちっ　白い目でみるなよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000791_MSG0006",
+      "style": 1,
+      "name": "そこに犬がいるなら　可愛がらざるを得ない\nそういうもんだろ？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000791_MSG0007",
+      "style": 1,
+      "name": "本物の犬と違って大人しいもんさ\n決して人を襲わないように\n作られてるんだからな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000791_MSG0008",
+      "style": 1,
+      "name": "だから　心配無用だ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000791_MSG0009",
+      "style": 1,
+      "name": "それよか俺が頬をすりすりしすぎたせいで\n嫌われたんじゃないかってことの方が心配だ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000791_JNK0110",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 15,
+      "label": "tev000791_SEL0111",
+      "style": 3,
+      "name": "犬が大好きなのかと尋ねる"
+    },
+    {
+      "$id": 16,
+      "label": "tev000791_JNK0120",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 17,
+      "label": "tev000791_SEL0121",
+      "style": 3,
+      "name": "ダグはペットを飼わないのか\nと尋ねる"
+    },
+    {
+      "$id": 18,
+      "label": "tev000791_MSG0010",
+      "style": 1,
+      "name": "そんなに好きってわけじゃなかったんだがな\nただこの星じゃペットなんて珍しいだろ？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000791_MSG0011",
+      "style": 1,
+      "name": "裏を返せば　ペットがいるってことは\n地球的ってことだ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000791_MSG0012",
+      "style": 1,
+      "name": "懐かしくなったんだよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000791_MSG0013",
+      "style": 1,
+      "name": "両親や兄弟がいて　庭にはペットもいてな\n何の心配もせずに暮らしてた頃がな[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000791_MSG0014",
+      "style": 1,
+      "name": "[ST:wide ]―俺はセンチメンタリストじゃないから\nこういう感傷はラオのもんだと思ってたが[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000791_MSG0015",
+      "style": 1,
+      "name": "俺も心のどこかで地球を恋しく思ってたんだな[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000791_MSG0016",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000791_MSG0017",
+      "style": 1,
+      "name": "っと　望郷はここまでだ\n俺は任務をこなしに行って来るよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000791_MSG0018",
+      "style": 1,
+      "name": "また儲け話があれば　一緒に行こうぜ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000791_MSG0019",
+      "style": 1,
+      "name": "飼わないだろうな[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000791_MSG0020",
+      "style": 1,
+      "name": "維持費も時間も手間も掛かるからな[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000791_MSG0021",
+      "style": 1,
+      "name": "それだったら　お前のブレイドホームに\nお邪魔して少し遊ばせてもらえれば\nそれで俺は満足ってわけだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000791_MSG0022",
+      "style": 1,
+      "name": "ドライな考え方かもしれんが\n俺にはそれが合ってると思うんだ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000791_MSG0023",
+      "style": 1,
+      "name": "さてと　気もまぎれたことだし\n任務に戻るとするよ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000791_MSG0024",
+      "style": 1,
+      "name": "また儲け話があれば　一緒に行こうぜ[ST:wait ]"
+    }
+  ]
+}

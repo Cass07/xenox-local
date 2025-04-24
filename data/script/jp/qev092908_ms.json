@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092908_MSG0010",
+      "style": 0,
+      "name": "ふ～　びっくりしたね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092908_MSG0015",
+      "style": 0,
+      "name": "キミがいなかったらどうなってたか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092908_JNK0020",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 4,
+      "label": "qev092908_SEL0030",
+      "style": 3,
+      "name": "怪我はないかと聞く"
+    },
+    {
+      "$id": 5,
+      "label": "qev092908_MSG0040",
+      "style": 0,
+      "name": "うん　私は平気\nキミが冷静に対処してくれたから[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092908_MSG0050",
+      "style": 0,
+      "name": "キミに依頼して正解だったよ\n私って運がいいね　あはは[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092908_JNK0060",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 8,
+      "label": "qev092908_SEL0070",
+      "style": 3,
+      "name": "さっきのドールについて聞く"
+    },
+    {
+      "$id": 9,
+      "label": "qev092908_MSG0080",
+      "style": 0,
+      "name": "少なくとも　偶然通りかかったって\nわけじゃなさそうだね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092908_MSG0090",
+      "style": 0,
+      "name": "それにしても　あの双子のような機体\nどこかで見たような[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092908_MSG0100",
+      "style": 0,
+      "name": "うーん　思い出せないなぁ[ST:wide ]―\n戻ったら調べてみよう[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092908_MSG0110",
+      "style": 0,
+      "name": "さて[ST:wide ]―　ひとまず依頼はこれにて終了！\nここまでお疲れさま[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092908_MSG0120",
+      "style": 0,
+      "name": "機会があったら\nまた仕事をお願いさせてもらうね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092908_MSG0130",
+      "style": 0,
+      "name": "あ　プライベートな付き合いも大歓迎だよ\nしばらくはNLAに滞在するつもりだから[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092908_MSG0140",
+      "style": 0,
+      "name": "私が必要な時は遠慮なく言ってね\n力になるよ[ST:wait ]"
+    }
+  ]
+}

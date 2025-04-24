@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs10070100_MSG0001",
+      "style": 0,
+      "name": "저게 대체 뭔가모?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs10070100_MSG0002",
+      "style": 0,
+      "name": "설마……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs10070100_MSG0003",
+      "style": 0,
+      "name": "이동 물체 접근 경보\n저 거대한 물체 말이야!?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs10070100_MSG0004",
+      "style": 0,
+      "name": "커다랗다모![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs10070100_MSG0005",
+      "style": 0,
+      "name": "노폰의 전설 속 성지\n땅끝 마을보다도 커다랗다모!![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs10070100_MSG0006",
+      "style": 0,
+      "name": "지구 규격의 IFF 신호는 발신되지 않고 있어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs10070100_MSG0007",
+      "style": 0,
+      "name": "적대적인 존재로 추정돼, 후퇴하자[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs10070100_MSG0008",
+      "style": 0,
+      "name": "이런 곳에서 재회할 줄이야~![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs10070100_MSG0009",
+      "style": 0,
+      "name": "도시를 불태우기 전에\n저번 일의 답례를 톡톡히 해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs10070100_MSG0010",
+      "style": 0,
+      "name": "저 정도의 크기라면 틀림없이 섬멸 병기일 거야\n목적지는 아마도 NLA겠지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs10070100_MSG0011",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "xs10070100_MSG0012",
+      "style": 0,
+      "name": "저게 NLA를 불태우게 둘 수는 없어\n다들, 여기서 저걸 막자![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs10070100_JNK0010",
+      "style": 4,
+      "name": "찬성"
+    },
+    {
+      "$id": 14,
+      "label": "xs10070100_SEL0011",
+      "style": 3,
+      "name": "반드시 여기서 쓰러뜨리겠다고 맹세한다"
+    },
+    {
+      "$id": 15,
+      "label": "xs10070100_JNK0020",
+      "style": 4,
+      "name": "공포"
+    },
+    {
+      "$id": 16,
+      "label": "xs10070100_SEL0021",
+      "style": 3,
+      "name": "주위를 둘러보며 도망칠 길을 찾는다"
+    },
+    {
+      "$id": 17,
+      "label": "xs10070100_MSG0013",
+      "style": 0,
+      "name": "당신이라면 그렇게 말할 줄 알았어\n기대하고 있을게[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs10070100_MSG0014",
+      "style": 0,
+      "name": "저희가 지키는 거예요, NLA를![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs10070100_MSG0015",
+      "style": 0,
+      "name": "이제 도망칠 곳도 없어요!\n함께 싸워요![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs10070100_MSG0016",
+      "style": 0,
+      "name": "우리가 지켜야 해, NLA를[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs10070100_MSG0017",
+      "style": 0,
+      "name": "저 녀석들, 기특하네~\n필사의 각오로 덤빌 셈인가!?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs10070100_MSG0018",
+      "style": 0,
+      "name": "리즈, 방심은, 좋지 않다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs10070100_MSG0019",
+      "style": 0,
+      "name": "시끄럽거든~\n넌 도움도 안 되니까 가만히 구경이나 해![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs10070100_MSG0020",
+      "style": 0,
+      "name": "지구인 녀석들, 잿더미가 되어 버려라![ST:wait ]"
+    }
+  ]
+}

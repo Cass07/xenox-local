@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs01040100_MSG0001",
+      "style": 0,
+      "name": "여기가 우리가 살고 있는 곳이야[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs01040100_MSG0002",
+      "style": 0,
+      "name": "등록 절차를 마칠 때까지 당신은 한동안\n게스트로서 지내게 될 거야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs01040100_JNK0010",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "xs01040100_SEL0011",
+      "style": 3,
+      "name": "등록 절차에 관해 자세히 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "xs01040100_JNK0020",
+      "style": 4,
+      "name": "불만"
+    },
+    {
+      "$id": 6,
+      "label": "xs01040100_SEL0021",
+      "style": 3,
+      "name": "등록은 하고 싶지 않다고 고개를 젓는다"
+    },
+    {
+      "$id": 7,
+      "label": "xs01040100_MSG0003",
+      "style": 0,
+      "name": "그것에 대해서는 내가 이야기하지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs01040100_MSG0004",
+      "style": 0,
+      "name": "불만스러워 보이는군[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs01040100_MSG0005",
+      "style": 0,
+      "name": "새로 보호되었다는 크루가 자네인가[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs01040100_MSG0005_m",
+      "style": 0,
+      "name": "새로 보호되었다는 크루가 자네인가[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs01040100_MSG0005_f",
+      "style": 0,
+      "name": "새로 보호되었다는 크루가 자네인가[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs01040100_MSG0006",
+      "style": 0,
+      "name": "나기 아저씨![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs01040100_MSG0007",
+      "style": 0,
+      "name": "린, 여전히 기운차구나[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs01040100_MSG0008",
+      "style": 0,
+      "name": "네, 그게 제 장점이니까요![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs01040100_MSG0009",
+      "style": 0,
+      "name": "그러고 보니 여기 오는 중에\n굉장히 화나 보이는 더그와 만났는데……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs01040100_MSG0010",
+      "style": 0,
+      "name": "시험 비행에서 무슨 일 있었나?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs01040100_MSG0011",
+      "style": 0,
+      "name": "……아무 일도 없었는데요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs01040100_MSG0012",
+      "style": 0,
+      "name": "그런가, 그럼 됐다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs01040100_MSG0013",
+      "style": 0,
+      "name": "그보다 엘마, 고생했군\n잘 데려왔다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs01040100_MSG0014",
+      "style": 0,
+      "name": "난 임무를 수행했을 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs01040100_MSG0015",
+      "style": 0,
+      "name": "그럼 자네의 등록 절차에 관해서 말인데……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs01040100_MSG0016",
+      "style": 0,
+      "name": "나머지는 안에서 이야기하자[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs01040100_MSG0017",
+      "style": 0,
+      "name": "알아 둬야 할 것이 많아[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs01040100_MSG0018",
+      "style": 0,
+      "name": "미안하군[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs01040100_MSG0019",
+      "style": 0,
+      "name": "자네도 정신을 차린 지 얼마 안 됐고\n엘마도 임무로 피곤할 테니[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs01040100_MSG0020",
+      "style": 0,
+      "name": "그렇게 하지[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs01040100_MSG0021",
+      "style": 0,
+      "name": "저는 차를 끓일게요[ST:wait ]"
+    }
+  ]
+}

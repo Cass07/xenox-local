@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091206_MSG0001",
+      "style": 0,
+      "name": "프라이, 그리고 포그\n임무는 완료했나?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091206_MSG0002",
+      "style": 0,
+      "name": "그래…… 금방 해결했지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091206_MSG0003",
+      "style": 0,
+      "name": "힘들었습니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091206_MSG0004",
+      "style": 0,
+      "name": "……형제의 감상이 다르다는 점이\n신경 쓰이지만 아무튼 잘했다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091206_MSG0005",
+      "style": 0,
+      "name": "그 자원은 어디 있지?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091206_MSG0006",
+      "style": 0,
+      "name": "여기 있습니다, 포그리움이라고 해요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091206_MSG0007",
+      "style": 0,
+      "name": "포그리움……? 벌써 이름까지 지어진 건가?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091206_MSG0008",
+      "style": 0,
+      "name": "형이 지어 준 이름입니다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091206_MSG0009",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091206_MSG0010",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091206_MSG0011",
+      "style": 0,
+      "name": "흠…… 아무 특징도 없는 결정 같아 보이는데[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091206_MSG0012",
+      "style": 0,
+      "name": "에너지를 가하면 결정화해요\n이렇게 하지 않으면 옮길 수가 없었죠[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091206_MSG0013",
+      "style": 0,
+      "name": "그런가……\n연구할 보람이 있는 물질 같군[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091206_MSG0014",
+      "style": 0,
+      "name": "잘만 되면 향후 NLA의 발전에\n크게 공헌하게 될지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091206_MSG0015",
+      "style": 0,
+      "name": "공을 세웠군[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091206_MSG0016",
+      "style": 0,
+      "name": "다른 팀이 실패를 거듭하는 동안\n너희 팀은 한 번에 성공했다……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091206_MSG0017",
+      "style": 0,
+      "name": "너희는 최고의 팀이다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091206_MSG0018",
+      "style": 0,
+      "name": "형…… 칭찬받았어, 기쁜걸[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091206_MSG0019",
+      "style": 0,
+      "name": "기분이 나쁘지는 않네\n앞으로도 팀으로 활동해 볼까[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091206_MSG0020",
+      "style": 0,
+      "name": "그러자! 정말 좋을 거야!![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091206_MSG0021",
+      "style": 0,
+      "name": "물론 너도 끼워 줄 테니 안심해[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091206_JNK0010",
+      "style": 4,
+      "name": "감사"
+    },
+    {
+      "$id": 23,
+      "label": "qev091206_SEL0011",
+      "style": 3,
+      "name": "사이좋은 형제와 한 팀이 된 것에 감사한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev091206_JNK0020",
+      "style": 4,
+      "name": "거절"
+    },
+    {
+      "$id": 25,
+      "label": "qev091206_SEL0021",
+      "style": 3,
+      "name": "팀에 끼고 싶지 않다며 거절한다"
+    },
+    {
+      "$id": 26,
+      "label": "qev091206_JNK0030",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 27,
+      "label": "qev091206_SEL0031",
+      "style": 3,
+      "name": "슈퍼 크리스토프 브라더스라고\n불러 주겠다고 제안한다"
+    },
+    {
+      "$id": 28,
+      "label": "qev091206_MSG0022",
+      "style": 0,
+      "name": "좋은 대답이야……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091206_MSG0023",
+      "style": 0,
+      "name": "네가 없었으면\n나와 포그도 화해하지 못했어[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091206_MSG0024",
+      "style": 0,
+      "name": "맞아……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091206_MSG0025",
+      "style": 0,
+      "name": "저희야말로 당신에게 감사해요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091206_MSG0026",
+      "style": 0,
+      "name": "고맙다, 그리고 앞으로도 잘 부탁해[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091206_MSG0027",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091206_MSG0028",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091206_MSG0029",
+      "style": 0,
+      "name": "뭐, 팀에 낄지 말지는 네 자유지[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091206_MSG0030",
+      "style": 0,
+      "name": "하지만 들어오고 싶다면 언제든지 말씀해 주세요\n환영해 드릴게요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091206_MSG0031",
+      "style": 0,
+      "name": "그래, 네가 없었으면\n나와 포그도 화해하지 못했어[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091206_MSG0032",
+      "style": 0,
+      "name": "우리는 항상 네 편이니까\n필요하면 언제든 찾으라고[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091206_MSG0033",
+      "style": 0,
+      "name": "네가 포그도 아니고\n이상한 소리 좀 하지 마[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091206_MSG0035",
+      "style": 0,
+      "name": "끝내주게 멋있네요[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091206_MSG0036",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091206_MSG0037",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091206_MSG0038",
+      "style": 0,
+      "name": "알았다고……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091206_MSG0039",
+      "style": 0,
+      "name": "앞으로도 잘 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091206_MSG0039_m",
+      "style": 0,
+      "name": "앞으로도 잘 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091206_MSG0039_f",
+      "style": 0,
+      "name": "앞으로도 잘 부탁한다[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092101_MSG0001",
+      "style": 0,
+      "name": "今日はドールの新兵器のテストを\nティカからお願いされてるんだよね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092101_MSG0002",
+      "style": 0,
+      "name": "何でも地中に逃げた標的をも追いかける\nレーザーを開発中だって言ってたけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092101_MSG0003",
+      "style": 0,
+      "name": "便利すぎて浪漫が少ないよね？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092101_JNK0010",
+      "style": 4,
+      "name": "攻撃的な提案"
+    },
+    {
+      "$id": 5,
+      "label": "qev092101_SEL0011",
+      "style": 3,
+      "name": "大型の剣が浪漫を感じると提案する"
+    },
+    {
+      "$id": 6,
+      "label": "qev092101_JNK0020",
+      "style": 4,
+      "name": "防御的な提案"
+    },
+    {
+      "$id": 7,
+      "label": "qev092101_SEL0021",
+      "style": 3,
+      "name": "大型の盾が浪漫を感じると提案する"
+    },
+    {
+      "$id": 8,
+      "label": "qev092101_JNK0030",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 9,
+      "label": "qev092101_SEL0031",
+      "style": 3,
+      "name": "武器は便利で強力であるほうがいいと主張する"
+    },
+    {
+      "$id": 10,
+      "label": "qev092101_MSG0004",
+      "style": 0,
+      "name": "なるほど　キミはそっち派かぁ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092101_MSG0005",
+      "style": 0,
+      "name": "意外と子供っぽいんだねぇ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092101_MSG0006",
+      "style": 0,
+      "name": "アンタの趣味も大して変わらないわよ\nアクセナ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092101_MSG0007",
+      "style": 0,
+      "name": "うんうん　そうだよね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092101_MSG0008",
+      "style": 0,
+      "name": "敵の猛攻を強力なシールドでいとも簡単に防ぐ\nすごくカッコイイよ！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092101_MSG0009",
+      "style": 0,
+      "name": "相変わらず　変な趣味してるわね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092101_MSG0010",
+      "style": 0,
+      "name": "はぁ～　これだからリアリストは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092101_MSG0011",
+      "style": 0,
+      "name": "でも　ティカと気が合うかもね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092101_MSG0012",
+      "style": 0,
+      "name": "そうね　アクセナよりは趣味が合うわ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092101_MSG0013",
+      "style": 0,
+      "name": "下手に特徴あるものを作っても\n一般人が使いこなせないんじゃ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092101_MSG0014",
+      "style": 0,
+      "name": "意味がないって理解してるみたいだしね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092101_MSG0014_m",
+      "style": 0,
+      "name": "意味がないって理解してるみたいだしね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092101_MSG0014_f",
+      "style": 0,
+      "name": "意味がないって理解してるみたいだしね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092101_MSG0015",
+      "style": 0,
+      "name": "ティカ！　待ってたよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092101_MSG0016",
+      "style": 0,
+      "name": "アクセナ[ST:wide ]―\nテストどころじゃなくなったかもしれないわ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092101_MSG0017",
+      "style": 0,
+      "name": "カンバーのチームが行っていた\n試作兵器のテストが失敗したの[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092101_MSG0018",
+      "style": 0,
+      "name": "全員が行方不明よ　試作兵器が\n暴発したからか周辺の状況が掴めない[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092101_MSG0019",
+      "style": 0,
+      "name": "[ST:wide ]―カンバー達はドールに乗ってたの？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092101_JNK0040",
+      "style": 4,
+      "name": "叱る"
+    },
+    {
+      "$id": 29,
+      "label": "qev092101_SEL0041",
+      "style": 3,
+      "name": "こんなときでもドールの心配をするのかと叱る"
+    },
+    {
+      "$id": 30,
+      "label": "qev092101_JNK0050",
+      "style": 4,
+      "name": "褒める"
+    },
+    {
+      "$id": 31,
+      "label": "qev092101_SEL0051",
+      "style": 3,
+      "name": "いい質問だと褒める"
+    },
+    {
+      "$id": 32,
+      "label": "qev092101_MSG0020",
+      "style": 0,
+      "name": "ううん　そうじゃないよ ドールに乗ってたら\n怪我する確率は格段に下がるから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092101_MSG0021",
+      "style": 0,
+      "name": "カンバー達はドールに乗っていたらしいわ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092101_MSG0022",
+      "style": 0,
+      "name": "でもね　行方がわからないくらいの\nトラブルに見舞われてるの[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092101_MSG0023",
+      "style": 0,
+      "name": "絶対に無事だとは言い切れないわ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092101_MSG0024",
+      "style": 0,
+      "name": "そう　カンバー達は\nドールに乗っていたらしいから[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092101_MSG0025",
+      "style": 0,
+      "name": "生存している可能性は高いわ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092101_MSG0026",
+      "style": 0,
+      "name": "だよね！[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092101_MSG0027",
+      "style": 0,
+      "name": "でもね　行方がわからないくらいの\nトラブルに見舞われてるの[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092101_MSG0028",
+      "style": 0,
+      "name": "絶対に無事だとは言い切れないわ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092101_MSG0029",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092101_MSG0030",
+      "style": 0,
+      "name": "あたし　救出に行く！\nもちろんキミも行くよね？[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092101_JNK0060",
+      "style": 4,
+      "name": "賛成する"
+    },
+    {
+      "$id": 44,
+      "label": "qev092101_SEL0061",
+      "style": 3,
+      "name": "一刻も早く救出に向かおうと賛成する"
+    },
+    {
+      "$id": 45,
+      "label": "qev092101_JNK0070",
+      "style": 4,
+      "name": "反対する"
+    },
+    {
+      "$id": 46,
+      "label": "qev092101_SEL0071",
+      "style": 3,
+      "name": "助けに行く義理はないと反対する"
+    },
+    {
+      "$id": 47,
+      "label": "qev092101_MSG0031",
+      "style": 0,
+      "name": "あっついハートをもってるね　キミは！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092101_MSG0032",
+      "style": 0,
+      "name": "その心意気があれば\n絶対にカンバー達を助けられるよ！！[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092101_MSG0033",
+      "style": 0,
+      "name": "さあ　すぐにでも出発しよう[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092101_MSG0034",
+      "style": 0,
+      "name": "でも　ミカもカンバーもピンチなんだよ？\nここで助けないで　いつ助けるっていうの！？[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092101_MSG0035",
+      "style": 0,
+      "name": "今しかないわね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092101_MSG0036",
+      "style": 0,
+      "name": "そう　早く助けに行かなくちゃ！[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092101_MSG0037",
+      "style": 0,
+      "name": "どうせテストはしばらく中止だから\n行くのは止めないけど[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092101_MSG0038",
+      "style": 0,
+      "name": "アクセナも新米テスターくんも気を付けて[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092101_MSG0039",
+      "style": 0,
+      "name": "あと[ST:wide ]―　覚悟をしておいたほうがいいわ[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092101_MSG0040",
+      "style": 1,
+      "name": "爆発の原因を掴むまでテストは延期なのよ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092101_MSG0041",
+      "style": 1,
+      "name": "もしかして敵側の破壊工作の可能性もあるから\n慎重に判断しないといけない[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092101_MSG0042",
+      "style": 1,
+      "name": "だから　カンバーたちの救出は\nあなたたちの思うようにしなさいな[ST:wait ]"
+    }
+  ]
+}

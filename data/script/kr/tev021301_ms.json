@@ -1,0 +1,456 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev021301_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev021301_SEL0011",
+      "style": 1,
+      "name": "블레이드의 임무에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev021301_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev021301_SEL0031",
+      "style": 3,
+      "name": "습격에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev021301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev021301_SEL0041",
+      "style": 3,
+      "name": "앞으로의 일에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev021301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev021301_MSG0001",
+      "style": 1,
+      "name": "외벽 경비 중에 입구 쪽에서\n루프스가 울부짖는 소리가 들리길래[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev021301_MSG0002",
+      "style": 1,
+      "name": "뭔가 싶어서 달려가 봤더니\n엘마 대령님네 신입이\n이미 퇴치한 후였어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev021301_MSG0003",
+      "style": 1,
+      "name": "나 참…… 인터셉터의 방위 임무를\n신입이 해치워 버리다니\n대체 어떻게 생겨 먹은 얼굴일까?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev021301_MSG0004",
+      "style": 1,
+      "name": "네 앞에 있는 [ST:playername ][KR:Particle char=ga ]\n그 신입이야, 다나[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev021301_MSG0005",
+      "style": 1,
+      "name": "이리나 언니! 실례했습니다!\n언니의 팀 멤버였군요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev021301_MSG0006",
+      "style": 1,
+      "name": "아니, 내가 멤버고\n리더는 네가 말한 신입이야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev021301_MSG0007",
+      "style": 1,
+      "name": "우와…… 이리나 언니를 멤버로 두다니\n엄청난 대형 신인이네요……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev021301_MSG0008",
+      "style": 1,
+      "name": "난 말이지, 파이팅 넘치게\n인터셉터 일을 하고 있어![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev021301_MSG0009",
+      "style": 1,
+      "name": "뭐…… 아직 돌을 다루는 게 익숙하지 않아서\n괴물들을 잘 쓰러뜨리진 못하지만[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev021301_MSG0010",
+      "style": 1,
+      "name": "난 언젠가 최고로 파이팅 넘치는\n블레이드가 되어 주겠어![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev021301_MSG0011",
+      "style": 1,
+      "name": "응…… 그럼 크리스토퍼도\n나를 봐 줄지도 모르고……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev021301_MSG0012",
+      "style": 1,
+      "name": "……앗, 이런! 아무것도 아니야!\n이런 간지러운 소리는 나답지 않지?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev021301_MSG0013",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev021301_MSG0014",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev021301_MSG0015",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev021301_MSG0023",
+      "style": 1,
+      "name": "엄청난 맹공격이었네……\n우리 동료도 많이 당했어[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev021301_MSG0024",
+      "style": 1,
+      "name": "그중에는 옛 친구도 있었는데\n그 녀석, NLA를 지키려는 듯이 미사일 앞으로\n뛰어들더니, 그대로 먼지가 되어 버렸어……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev021301_MSG0025",
+      "style": 1,
+      "name": "용감한 데다가…… 엄청난 바보 녀석이야\n센트럴 라이프를 찾아내서……\n빨리 살려 내 주겠어![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev021301_MSG0026",
+      "style": 1,
+      "name": "그리고 다 같이 날이 새도록 마시는 거야\n「한 번 죽어 본 기분은 어때?」\n이런 가벼운 농담이나 하면서 말이지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev021301_MSG0027",
+      "style": 1,
+      "name": "센트럴 라이프는 찾았잖아?\n살아 있는 몸은 언제 돌아오는 걸까?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev021301_MSG0028",
+      "style": 1,
+      "name": "……죽어 버린 녀석들도 모두 되살려서\n빨리 이리나 언니를 둘러싸고 한잔하고 싶네[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev021301_MSG0029",
+      "style": 1,
+      "name": "분명…… 피와 살을 가진 살아 있는 육체에\n퍼지는 맥주 맛은 각별할 거야![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev021301_MSG0030",
+      "style": 1,
+      "name": "마커스…… 우리를 위해서……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev021301_MSG0031",
+      "style": 1,
+      "name": "이리나 언니! 안 돼요!\n그런 애처로운 말은 언니답지 않아요![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev021301_MSG0032",
+      "style": 1,
+      "name": "빨리 센트럴 라이프를 찾고\n잽싸게 살려 내서\n슬프게 한 대가로 한 대 때려 주자고요![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev021301_MSG0033",
+      "style": 1,
+      "name": "훗, 다나는 여전히 파이팅이 넘치는구나\n고마워[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev021301_MSG0034",
+      "style": 1,
+      "name": "분명 멀지 않았을 거야, 다나[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev021301_MSG0035",
+      "style": 1,
+      "name": "이리나 언니…… 네, 맞아요!\n모두가 돌아오면 언니를 중심으로 한잔해요![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev021301_MSG0036",
+      "style": 1,
+      "name": "훗, 다나는 임무도 술 마시는 것도\n파이팅이 넘치는구나[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev021301_MSG0037",
+      "style": 1,
+      "name": "물론이죠!\n그게 제 장점이니까요![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev021301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev021301_SEL0051",
+      "style": 1,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "tev021301_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "tev021301_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 51,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "tev021301_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "tev021301_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 55,
+      "label": "tev021301_MSG0039",
+      "style": 1,
+      "name": "크리스토퍼는 무척 다정하게 대해 줘……\n나 너무 행복해[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev021301_MSG0042",
+      "style": 1,
+      "name": "너희는 우리의 사랑의 큐피드야\n너와 그 치오피터스인가 하는\n이상한 마 논인에게는 정말 감사하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev021301_MSG0043",
+      "style": 1,
+      "name": "정말 고마워\n나도 언제까지고 그에게만 기대지 않고[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev021301_MSG0044",
+      "style": 1,
+      "name": "그와의 생활을 지키기 위해서라도\n인터셉터로서 더욱더 열심히 하겠어![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "tev021301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "tev021301_SEL0061",
+      "style": 1,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "tev021301_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 66,
+      "label": "tev021301_SEL0061",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 67,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 68,
+      "label": "tev021301_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 69,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 70,
+      "label": "tev021301_SEL0061",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 71,
+      "label": "tev021301_MSG0080",
+      "style": 1,
+      "name": "너희와 크리스토퍼 이야기는\n더 이상 하고 싶지 않네……[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev021301_MSG0081",
+      "style": 1,
+      "name": "너도 그 치오피터스인가 하는\n마 논인도 사랑의 역신이야……[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev021301_MSG0082",
+      "style": 1,
+      "name": "다른 이야기라면 괜찮지만, 이제 이런 이야기는\n너희와는 절대 하지 않을 거야[ST:wait ]"
+    }
+  ]
+}

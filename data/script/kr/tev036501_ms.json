@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev036501_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev036501_SEL0011",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev036501_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev036501_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev036501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev036501_SEL0031",
+      "style": 3,
+      "name": "스쿼드 리워드에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev036501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev036501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev036501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev036501_SEL0041",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev036501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev036501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev036501_SEL1021",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 14,
+      "label": "tev036501_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev036501_MSG0002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev036501_MSG0003",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev036501_MSG0004",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev036501_MSG0008",
+      "style": 1,
+      "name": "다제베노네 감독은\n언젠가 사고 칠 것 같은 사람이랭[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev036501_MSG0009",
+      "style": 1,
+      "name": "앗, 다제베노라는 건\n바로 근처에 있는 폐기물 처리 탱크에서\n일하고 있는 마 논인데 말이징[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev036501_MSG0010",
+      "style": 1,
+      "name": "감독에게서 정확한 지시가 안 내려와서\n다제베노는 계~속 바쁘댕[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev036501_MSG0011",
+      "style": 1,
+      "name": "엄격한 감독도 괴롭지만\n엉성한 감독도 힘들구낭[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev036501_MSG0017",
+      "style": 1,
+      "name": "스쿼드 씨가 열심히 일하면\n자신도 보수를 받을 수 있는 거 알고 있었엉?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev036501_MSG0018",
+      "style": 1,
+      "name": "……응? 스쿼드 씨라는 게\n사람 이름이 아니양!?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev036501_MSG0019",
+      "style": 1,
+      "name": "농땡이 피워도 도와주는\n모두의 친구인 줄 알았엉……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev036501_MSG0020",
+      "style": 1,
+      "name": "주비에타는 착각을 많이 한다고\n사마냐 감독에게 또 혼나겠당……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev036501_MSG0025",
+      "style": 1,
+      "name": "블레이드들은 스카우트 한 친구에게서\n멋진 메달을 받을 수 있징?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev036501_MSG0026",
+      "style": 1,
+      "name": "좋겠다…… 주비에타도\n사마냐 감독에게 칭찬 들으면서\n메달을 받고 싶엉……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev036501_MSG0027",
+      "style": 1,
+      "name": "응? 그거 친구한테서가 아니라\n블레이드 본부에서 받는 거양?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev036501_MSG0028",
+      "style": 1,
+      "name": "뭐야, 그럼 블레이드 본부에 가서\n달라고 하면…… 안 됑?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev036501_MSG1001",
+      "style": 1,
+      "name": "다제베노네 감독……\n결국 사고 친 것 같앙[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev036501_MSG1002",
+      "style": 1,
+      "name": "바이어스에 자르보가까지 말려든\n큰 소동이 났었나 봥[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev036501_MSG1003",
+      "style": 1,
+      "name": "일이 안 끝난다면서\n피자도 안 먹고 계~속 작업하고 있었엉\n믿을 수 없엉![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev036501_MSG1004",
+      "style": 1,
+      "name": "다제베노는 정말 인내심이 강하넹\n같은 마 논이 맞나 싶엉[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001591_MSG0001",
+      "style": 1,
+      "name": "……어머, 촌스러운 사람이네\n티타임을 방해하는 건 좋지 않아[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001591_MSG0002",
+      "style": 1,
+      "name": "……애초에 내가 우아하게 차를 마시는 걸\n수상하게 여기는 모양이구나[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001591_MSG0003",
+      "style": 1,
+      "name": "이건 틀림없는 실론티야\n다만 NLA에서 만든 가짜지만[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001591_JNK0010",
+      "style": 4,
+      "name": "요청"
+    },
+    {
+      "$id": 5,
+      "label": "tev001591_SEL0011",
+      "style": 3,
+      "name": "같이 차를 마시고 싶다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001591_JNK0020",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 7,
+      "label": "tev001591_SEL0021",
+      "style": 3,
+      "name": "함께 있는 남성은 누구인지 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001591_MSG0004",
+      "style": 1,
+      "name": "다음에 같이 전투 식량 먹어 줄 테니까\n지금은 참아 줘[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001591_MSG0005",
+      "style": 1,
+      "name": "중요한 거래 이야기를 하는 중이야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001591_MSG0006",
+      "style": 1,
+      "name": "음~ 그렇지\n비즈니스 파트너라고 하면 좋을까[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001591_MSG0007",
+      "style": 1,
+      "name": "지금은 중요한 거래 이야기를 하는 중이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001591_JNK0110",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 13,
+      "label": "tev001591_SEL0111",
+      "style": 3,
+      "name": "중요한 거래 이야기가 뭐냐고 묻는다"
+    },
+    {
+      "$id": 14,
+      "label": "tev001591_JNK0120",
+      "style": 4,
+      "name": "의심"
+    },
+    {
+      "$id": 15,
+      "label": "tev001591_SEL0121",
+      "style": 3,
+      "name": "또 나쁜 일을 꾸미는 거냐고 의심한다"
+    },
+    {
+      "$id": 16,
+      "label": "tev001591_JNK0130",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 17,
+      "label": "tev001591_SEL0131",
+      "style": 3,
+      "name": "자신도 끼워 달라고 부탁한다"
+    },
+    {
+      "$id": 18,
+      "label": "tev001591_MSG0008",
+      "style": 1,
+      "name": "그건 비밀이야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001591_MSG0009",
+      "style": 1,
+      "name": "하지만 걱정하지 마\n절대 사람을 속이는 것도 위험한 것도 아니야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001591_MSG0010",
+      "style": 1,
+      "name": "굳이 따지자면…… 그래……\n꿈을 사는 느낌이라고 해야 할까?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001591_MSG0011",
+      "style": 1,
+      "name": "자, 이 이상은 말해 줄 수 없어\n다음엔 블레이드 에어리어에서 임무 이야기라도 하자[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001591_MSG0012",
+      "style": 1,
+      "name": "그럼 또 봐[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001591_MSG0013",
+      "style": 1,
+      "name": "너무하네……\n날 그런 식으로 생각하고 있다니[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001591_MSG0014",
+      "style": 1,
+      "name": "그렇게 말하는 것도 이해하지만, 이번에는 안심해\n절대 사람을 속이는 것도 위험한 것도 아니야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001591_MSG0015",
+      "style": 1,
+      "name": "굳이 따지자면…… 그래……\n꿈을 사는 느낌이라고 해야 할까?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001591_MSG0016",
+      "style": 1,
+      "name": "자, 이 이상은 말해 줄 수 없어\n다음엔 블레이드 에어리어에서 임무 이야기라도 하자[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001591_MSG0017",
+      "style": 1,
+      "name": "그럼 또 봐[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001591_MSG0018",
+      "style": 1,
+      "name": "네가 무슨 하이에나라도 되니?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001591_MSG0019",
+      "style": 1,
+      "name": "돈 되는 일에 무조건 끼려고 하는 건\n좋지 않아[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001591_MSG0020",
+      "style": 1,
+      "name": "긍지를 가지고 돈을 벌도록 해[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001591_MSG0021",
+      "style": 1,
+      "name": "이번 건은 자세히 이야기하고 싶지 않아\n너와는 블레이드 에어리어에서\n임무 이야기라도 하면 좋겠네[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001591_MSG0022",
+      "style": 1,
+      "name": "그럼 또 봐[ST:wait ]"
+    }
+  ]
+}

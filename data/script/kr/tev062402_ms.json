@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev062402_MSG0001",
+      "style": 1,
+      "name": "쿠타 녀석, 몹시 허둥대던데……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev062402_MSG0002",
+      "style": 1,
+      "name": "설마 카라반에도 찾아왔던\n그거에 습격받은 건가모?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev062402_MSG0003",
+      "style": 1,
+      "name": "만일 그렇다면…… 용케 살아남았다모\n보통 밖에서 그런 녀석이 덮치면\n목숨은 부지 못 한다모~[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32300100_MSG0010",
+      "style": 0,
+      "name": "採取できました！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32300100_MSG0020",
+      "style": 0,
+      "name": "これで原初の荒野は　クリアだな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32300100_MSG0030",
+      "style": 0,
+      "name": "原初の荒野は　終わったわ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32300100_MSG0040",
+      "style": 0,
+      "name": "ありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32300100_MSG0050",
+      "style": 0,
+      "name": "次は　忘却の渓谷をお願いします[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32300100_MSG0060",
+      "style": 0,
+      "name": "分かったわ[ST:wait ]"
+    }
+  ]
+}

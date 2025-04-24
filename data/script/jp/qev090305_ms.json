@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090305_MSG0001",
+      "style": 0,
+      "name": "はい[ST:wide ]―　そうです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090305_MSG0002",
+      "style": 0,
+      "name": "懸案事項であった擬似記憶については\n安定領域に達しています[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090305_MSG0003",
+      "style": 0,
+      "name": "また　第三者の協力もあって\n人格の固定化にも成功したと言えます[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090305_MSG0004",
+      "style": 0,
+      "name": "以降　これをマスターピースとし\n量産中のＪボディにプリセットしていけば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090305_MSG0005",
+      "style": 0,
+      "name": "はい[ST:wide ]―　わかりました[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090305_MSG0006",
+      "style": 0,
+      "name": "これより計画の第二フェーズへと移行します[ST:wait ]"
+    }
+  ]
+}

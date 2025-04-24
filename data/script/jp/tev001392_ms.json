@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001392_MSG0001",
+      "style": 1,
+      "name": "こんにちは　[ST:playername ]さん[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001392_MSG0002",
+      "style": 1,
+      "name": "ここでロックと一緒に休んでいたんです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001392_MSG0003",
+      "style": 1,
+      "name": "公園にあるのは少しばかりの緑なんですが\n落ち着くんですよね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001392_MSG0004",
+      "style": 1,
+      "name": "私の星は木々が多く　自然が\n豊かな場所だったんです[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001392_MSG0005",
+      "style": 1,
+      "name": "それで故郷を思い出すっていうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001392_MSG0006",
+      "style": 1,
+      "name": "あなたの故郷[ST:wide ]―\n地球はどんな場所だったんですか？\nよければ　教えてほしいです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001392_JNK0010",
+      "style": 4,
+      "name": "写真"
+    },
+    {
+      "$id": 8,
+      "label": "tev001392_SEL0011",
+      "style": 3,
+      "name": "写真では自然もあり人工物も\n多く映っていたと答える"
+    },
+    {
+      "$id": 9,
+      "label": "tev001392_JNK0020",
+      "style": 4,
+      "name": "記録"
+    },
+    {
+      "$id": 10,
+      "label": "tev001392_SEL0021",
+      "style": 3,
+      "name": "自然をどんどん破壊したという\n記録を読んだと答える"
+    },
+    {
+      "$id": 11,
+      "label": "tev001392_JNK0030",
+      "style": 4,
+      "name": "豆知識"
+    },
+    {
+      "$id": 12,
+      "label": "tev001392_SEL0031",
+      "style": 3,
+      "name": "陸と海の割合が3対7だった\nと教える"
+    },
+    {
+      "$id": 13,
+      "label": "tev001392_MSG0007",
+      "style": 1,
+      "name": "なるほど\n原初の荒野みたいな感じだったのでしょうか[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001392_MSG0008",
+      "style": 1,
+      "name": "緑も多いし　その中にこんな大きな街が\nあるような[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001392_MSG0009",
+      "style": 1,
+      "name": "うまく共存できていたとしたなら\nきっと素敵な星だったんでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001392_MSG0010",
+      "style": 1,
+      "name": "もし地球に行けるのなら　行ってみたいです\nそれで観光してみたいです[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001392_MSG0011",
+      "style": 1,
+      "name": "ロックの寝られる場所があるかどうかが\n心配ですけど[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001392_MSG0012",
+      "style": 1,
+      "name": "そうですか[ST:wide ]―\n悲しいことですね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001392_MSG0013",
+      "style": 1,
+      "name": "私たちは星の上で暮らしています[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001392_MSG0014",
+      "style": 1,
+      "name": "つまり自然の中で生きていると言えると\n思います[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001392_MSG0015",
+      "style": 1,
+      "name": "その足場を自ら崩すことは自分を苦しめるのも\n同じこと[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001392_MSG0016",
+      "style": 1,
+      "name": "きっとやむをえない事情は\nあったんでしょうけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001392_MSG0017",
+      "style": 1,
+      "name": "いえ[ST:wide ]―\n私がこんなことをいっても仕方がないですよね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001392_MSG0018",
+      "style": 1,
+      "name": "今度はこの星を大切にすればいいんですよ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001392_MSG0019",
+      "style": 1,
+      "name": "へぇ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001392_MSG0020",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001392_MSG0021",
+      "style": 1,
+      "name": "……あれ？　それだけですか？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001392_MSG0022",
+      "style": 1,
+      "name": "それでどんな星だったかは私が想像すべきって\nことですね！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001392_MSG0023",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001392_MSG0024",
+      "style": 1,
+      "name": "[ST:wide ]―海が7割ってことはきっと青い星だったと\n思います[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001392_MSG0025",
+      "style": 1,
+      "name": "陸地は緑なんでしょうか　それとも土ばかり？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001392_MSG0026",
+      "style": 1,
+      "name": "きっと地球の方の性格から考えると\n自然は豊かだったんだと思います[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001392_MSG0027",
+      "style": 1,
+      "name": "作物の育たない土地だと\nきっとバイアス人のように\n争いが絶えなかったと思いますし[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001392_MSG0028",
+      "style": 1,
+      "name": "私の想像が正しいかはわかりませんけど\nきっと綺麗な星でしょうね[ST:wait ]"
+    }
+  ]
+}

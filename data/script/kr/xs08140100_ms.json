@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08140100_MSG0001",
+      "style": 0,
+      "name": "목적은 그 기체였다는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08140100_MSG0002",
+      "style": 0,
+      "name": "정답이야!\n위터는 우리가 회수했다고![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08140100_MSG0003",
+      "style": 0,
+      "name": "앗하하하하, 이렇게 멍청하실 줄이야~![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08140100_MSG0004",
+      "style": 0,
+      "name": "미끼에 걸린 주제에\n다 이긴 양 거들먹거리기나 하고~[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08140100_MSG0005",
+      "style": 0,
+      "name": "그래서 뭐?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08140100_MSG0006",
+      "style": 0,
+      "name": "윽![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08140100_MSG0007",
+      "style": 0,
+      "name": "엘마 씨?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs08140100_MSG0008",
+      "style": 0,
+      "name": "네 말대로 그 기체를 강탈했으니\n그로우스의 작전은 성공했어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs08140100_MSG0009",
+      "style": 0,
+      "name": "하지만 우리의 목적은 NLA 방위야\n그리고 해냈지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs08140100_MSG0010",
+      "style": 0,
+      "name": "이 사실은 변하지 않아[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs08140100_MSG0011",
+      "style": 0,
+      "name": "그래서 어떻다는 건데~![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs08140100_MSG0012",
+      "style": 0,
+      "name": "애초에 너희는 양동 작전과 무관하게\n이 도시를 함락시킬 작정이었겠지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs08140100_MSG0013",
+      "style": 0,
+      "name": "하지만 실패했잖아[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08140100_MSG0014",
+      "style": 0,
+      "name": "큭……![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08140100_MSG0015",
+      "style": 0,
+      "name": "그로우스의 대부대는 괴멸했어\n그리고 너도 패배했지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs08140100_MSG0016",
+      "style": 0,
+      "name": "이 상황, 돌아가서 상관에게 전해![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs08140100_MSG0017",
+      "style": 0,
+      "name": "그 오만한 태도, 용서 못 해![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs08140100_MSG0018",
+      "style": 0,
+      "name": "기억해 둬![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs08140100_MSG0019",
+      "style": 0,
+      "name": "우리와 너희에게 공존 따위는 존재하지 않아\n어느 한쪽이 멸망할 때까지 싸워야만 한다고![ST:wait ]"
+    }
+  ]
+}

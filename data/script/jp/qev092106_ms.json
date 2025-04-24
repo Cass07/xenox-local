@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092106_MSG0001",
+      "style": 0,
+      "name": "アクセナ[ST:wide ]―　ありがとう\n本当に助かったわ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092106_MSG0002",
+      "style": 0,
+      "name": "ハンナとフェルナンのことは\n残念だったけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092106_MSG0003",
+      "style": 0,
+      "name": "アクセナが落ち込む必要は無い\n俺達の責任さ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092106_MSG0004",
+      "style": 0,
+      "name": "ええ[ST:wide ]―　私達の命を救ってくれただけでも\n十分すぎるわ　感謝してる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092106_MSG0005",
+      "style": 0,
+      "name": "ああ　惚れ直したよ\n単なるドールバカじゃなかったんだなって[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092106_MSG0006",
+      "style": 0,
+      "name": "そうだよ　そこいらのドール好きの人とは\nレベルが違うんだから[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092106_MSG0007",
+      "style": 0,
+      "name": "どうしてアクセナをそこまで駆り立てるんだ？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092106_MSG0008",
+      "style": 0,
+      "name": "白鯨が襲撃され　この惑星に墜落する時ね\n黒いドールに命を救われたんだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092106_MSG0009",
+      "style": 0,
+      "name": "あたしが避難する間　飛び交う銃弾から\n盾となって守り続けてくれたの[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092106_MSG0010",
+      "style": 0,
+      "name": "その時のパイロットはわからないし\n所属もよくわからない[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092106_MSG0011",
+      "style": 0,
+      "name": "でも　あたしはドールのことが大好きになった[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092106_MSG0012",
+      "style": 0,
+      "name": "いつか自分もああやって　人の命を守りたい\nって憧れるようになったの[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092106_JNK0010",
+      "style": 4,
+      "name": "理解する"
+    },
+    {
+      "$id": 14,
+      "label": "qev092106_SEL0011",
+      "style": 3,
+      "name": "アクセナらしい理由だと言う"
+    },
+    {
+      "$id": 15,
+      "label": "qev092106_JNK0020",
+      "style": 4,
+      "name": "指摘する"
+    },
+    {
+      "$id": 16,
+      "label": "qev092106_SEL0021",
+      "style": 3,
+      "name": "カンバーのドールは黒いと指摘する"
+    },
+    {
+      "$id": 17,
+      "label": "qev092106_MSG0013",
+      "style": 0,
+      "name": "ありがと[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092106_MSG0013_2",
+      "style": 0,
+      "name": "なかなか理解してくれる人いないんだよね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092106_MSG0014",
+      "style": 0,
+      "name": "私にはわからない世界ね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092106_MSG0015",
+      "style": 0,
+      "name": "アクセナが良ければ　いいだろ\nそのおかげで俺達は助かったんだからな[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092106_MSG0016",
+      "style": 0,
+      "name": "そうね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092106_MSG0017",
+      "style": 0,
+      "name": "じゃあ　ＮＬＡに戻ろっか\nカンバーのドールを修理してあげなきゃ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092106_MSG0018",
+      "style": 0,
+      "name": "さっきはフォローしたけど\n常識的に考えて俺達を治療するのが先だろ？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092106_MSG0019",
+      "style": 0,
+      "name": "えー？　カンバー達は自分で歩けるじゃない[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092106_MSG0020",
+      "style": 0,
+      "name": "さすがぐうの音も出ないくらいのドール好きね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092106_MSG0021",
+      "style": 0,
+      "name": "うん　あたしのドール好きはＮＬＡ一だよ！！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092106_MSG0022",
+      "style": 0,
+      "name": "えー？　絶対にカンバーじゃないよ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092106_MSG0023",
+      "style": 0,
+      "name": "カンバーの腕じゃ　あんなカッコイイ動きは\nできないし　あんなに正確に攻撃を防げないよ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092106_MSG0024",
+      "style": 0,
+      "name": "ヒドイ言われようだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092106_MSG0025",
+      "style": 0,
+      "name": "でも　カンバーが私を庇ってくれた時の動きは\nすごく良かったわ　嬉しかった[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092106_MSG0026",
+      "style": 0,
+      "name": "そうそう！　ミカ　その気持ちだよ\nドールって最高って思う瞬間だよ！！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092106_MSG0027",
+      "style": 0,
+      "name": "いや　そこはパイロットである俺だろ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092106_MSG0028",
+      "style": 0,
+      "name": "普通はそうよね[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092106_MSG0029",
+      "style": 0,
+      "name": "ううん　やっぱりカッコイイのはドールだよ\n絶対にそこだけは譲れないからね！[ST:wait ]"
+    }
+  ]
+}

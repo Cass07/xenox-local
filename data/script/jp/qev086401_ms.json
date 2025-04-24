@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086401_MSG0001",
+      "style": 0,
+      "name": "おう　タツだも\nちょうどいいところなんだも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086401_MSG0002",
+      "style": 0,
+      "name": "あら　お友達？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086401_MSG0004_02",
+      "style": 0,
+      "name": "トモダチなんかじゃないだも！\nトモダチなんかじゃないですも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086401_JNK0010",
+      "style": 4,
+      "name": "想像"
+    },
+    {
+      "$id": 5,
+      "label": "qev086401_SEL0011",
+      "style": 3,
+      "name": "きっと兄弟だろうと指摘する"
+    },
+    {
+      "$id": 6,
+      "label": "qev086401_JNK0020",
+      "style": 4,
+      "name": "憶測"
+    },
+    {
+      "$id": 7,
+      "label": "qev086401_SEL0021",
+      "style": 3,
+      "name": "まさか敵同士なのかと尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "qev086401_MSG0005",
+      "style": 0,
+      "name": "失礼ですも！\nトラとタツ　全然似てないですも！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086401_MSG0006",
+      "style": 0,
+      "name": "そう言われても\nノポン人の区別ってつけにくいし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086401_MSG0007",
+      "style": 0,
+      "name": "その通りだも！\nこいつとはいつか必ず決着をつけるだも！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086401_MSG0008",
+      "style": 0,
+      "name": "トラとタツは　終生のらいばるですも！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086401_MSG0009",
+      "style": 0,
+      "name": "終生のライバルねえ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086401_MSG0010",
+      "style": 0,
+      "name": "この街に来てから　知り合ったですも\n目と目があった瞬間にピキーンと来たですも[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086401_MSG0011",
+      "style": 0,
+      "name": "こいつこそは　タツがいずれ雌雄を決する\n強敵と書いてトモと読むノポンですも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086401_MSG0012",
+      "style": 0,
+      "name": "やっぱり友達じゃない[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086401_MSG0013",
+      "style": 0,
+      "name": "もも？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086401_MSG0014",
+      "style": 0,
+      "name": "そいつはそうと　お前を捜してたんだも[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086401_MSG0015",
+      "style": 0,
+      "name": "ライバルにも塩を送る\nトラは潔いノポンなんだも[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086401_MSG0016",
+      "style": 0,
+      "name": "捜してましたですも？\nなにか用でもあるですも？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086401_MSG0017",
+      "style": 0,
+      "name": "あるある大有りだも[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086401_MSG0018",
+      "style": 0,
+      "name": "夜光の森にノポンのキャラバンが\nやってきたそうだも[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086401_MSG0019",
+      "style": 0,
+      "name": "それがどうしたですも\nタツには関係のない話ですも[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086401_MSG0020",
+      "style": 0,
+      "name": "そうなんだも？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086401_MSG0021",
+      "style": 0,
+      "name": "それが　ドドンガ・キャラバン\nと知ってでもだも？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086401_MSG0022",
+      "style": 0,
+      "name": "な　なんですも～～！？[ST:wait ]"
+    }
+  ]
+}

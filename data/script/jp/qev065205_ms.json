@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065205_MSG0001",
+      "style": 1,
+      "name": "ハリエス　ジェダ……答えて……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065205_MSG0002",
+      "style": 1,
+      "name": "あっ……ああ……\n妹の声が　聞こえない……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065205_MSG0003",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065205_MSG0004",
+      "style": 1,
+      "name": "……そうね　そう……\nもっと大きな力でもって\n調教してあげればいいだけですね……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev065205_MSG0005",
+      "style": 1,
+      "name": "私達　ずっとそうしてゴミみたいな\n異星人を使ってきたじゃない？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev065205_MSG0006",
+      "style": 1,
+      "name": "今度だってきっと……うまく行くはず……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev065205_MSG0007",
+      "style": 1,
+      "name": "こんなのウソ……\n下級生命体ごときに　こんな……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev065205_MSG0008",
+      "style": 1,
+      "name": "私達は　絶対的支配者\nそれが宇宙の摂理だって\nお母様も言っていたじゃない！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev065205_MSG0009",
+      "style": 1,
+      "name": "ああっ……フォルトゥンお母様！\nどうか私達をお助けください！[ST:wait ]"
+    }
+  ]
+}

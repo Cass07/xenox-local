@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11020100_MSG0001",
+      "style": 0,
+      "name": "라오, 무슨 짓이냐![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11020100_MSG0002",
+      "style": 0,
+      "name": "그 정보가 우리에게 있어서\n어떤 의미인지 알고 있을 텐데![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs11020100_MSG0003",
+      "style": 0,
+      "name": "알고 있지\n그래서 행동에 나선 거야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs11020100_MSG0003_2",
+      "style": 0,
+      "name": "난 이날을 줄곧 기다려 왔어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs11020100_MSG0004",
+      "style": 0,
+      "name": "큭……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs11020100_MSG0005",
+      "style": 0,
+      "name": "반담, 무슨 일이야!?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11020100_MSG0006",
+      "style": 0,
+      "name": "라오 때문이라네[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11020100_MSG0007",
+      "style": 0,
+      "name": "저 녀석은 데이터 단말기를 가지고\n그로우스로 넘어갈 작정이야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11020100_MSG0008",
+      "style": 0,
+      "name": "라오 씨가!?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs11020100_MSG0009",
+      "style": 0,
+      "name": "설명해, 라오[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs11020100_MSG0010",
+      "style": 0,
+      "name": "엘마……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11020100_MSG0010_2",
+      "style": 0,
+      "name": "날 죽게 놔두지 않은 게 너희 실수야[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs11020100_MSG0011",
+      "style": 0,
+      "name": "눈치채고 있었을 텐데\n내가 그로우스의 스파이라는 걸[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs11020100_MSG0012",
+      "style": 0,
+      "name": "그럴 수가![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs11020100_MSG0013",
+      "style": 0,
+      "name": "의심하기는 했지\n하지만 믿고 싶지 않았어[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs11020100_MSG0014",
+      "style": 0,
+      "name": "솔직하군[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs11020100_MSG0015",
+      "style": 0,
+      "name": "뭐 됐어, 겸사겸사 이 신형 돌\n프로그아레스도 가져가 주지[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs11020100_MSG0016",
+      "style": 0,
+      "name": "그로우스에게 줄 선물로 말이야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs11020100_MSG0017",
+      "style": 0,
+      "name": "웃기는 소리!\n갈 거라면 나를 때려눕히고 가라, 라오![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs11020100_MSG0018",
+      "style": 0,
+      "name": "당신을 맨손으로 어떻게 이겨[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs11020100_MSG0019",
+      "style": 0,
+      "name": "라오, 너 이게 무슨 짓이냐![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs11020100_MSG0020",
+      "style": 0,
+      "name": "줄줄이 튀어나오기는\n어지간히 한가한 모양이군[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs11020100_MSG0021",
+      "style": 0,
+      "name": "농담할 때 아니야, 라오![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs11020100_MSG0022",
+      "style": 0,
+      "name": "그만둬라!\n녀석한테서 되찾아야 할 물건이 있다![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs11020100_MSG0023",
+      "style": 0,
+      "name": "큭……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs11020100_MSG0024",
+      "style": 0,
+      "name": "그렇게 됐다\n미안해, 더그[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs11020100_MSG0025",
+      "style": 0,
+      "name": "정말로 배신자가 된 거야, 라오?\n상대는 그로우스라고![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs11020100_MSG0026",
+      "style": 0,
+      "name": "걸어 다니는 뇌 덩어리나 강아지 같은 녀석들과\n손을 잡는 건 솔직히 내키지 않지만[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs11020100_MSG0027",
+      "style": 0,
+      "name": "그래도 목적이 같다면 협력할 수 있지[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs11020100_MSG0028",
+      "style": 0,
+      "name": "목적이라고?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs11020100_MSG0029",
+      "style": 0,
+      "name": "더그, 너라면 이해하겠지?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs11020100_MSG0030",
+      "style": 0,
+      "name": "이해 못 해, 하고 싶지도 않아![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs11020100_MSG0031",
+      "style": 0,
+      "name": "난 이제 가야겠다, 잘 있어라[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs11020100_MSG0032",
+      "style": 0,
+      "name": "라오![ST:wait ]"
+    }
+  ]
+}

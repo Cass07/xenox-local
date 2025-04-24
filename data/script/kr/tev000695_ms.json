@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000695_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]인가\n이런 곳에서 만나다니\n너 한가하냐?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000695_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 3,
+      "label": "tev000695_SEL0011",
+      "style": 3,
+      "name": "프라이에게 뭐 하고 있냐고 묻는다"
+    },
+    {
+      "$id": 4,
+      "label": "tev000695_JNK0020",
+      "style": 4,
+      "name": "솔직"
+    },
+    {
+      "$id": 5,
+      "label": "tev000695_SEL0021",
+      "style": 3,
+      "name": "프라이를 만나러 왔다고 말한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000695_MSG0002",
+      "style": 1,
+      "name": "안 어울려 보이겠지만\n술도 없이 애수에 젖어 있는 중이다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000695_MSG0003",
+      "style": 1,
+      "name": "그거 고마운걸[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000695_MSG0004",
+      "style": 1,
+      "name": "……내 이야기 좀 들어 주겠어?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000695_MSG0005",
+      "style": 1,
+      "name": "지구 생각이 끊임없이\n머릿속을 맴돌 때가 있어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000695_MSG0006",
+      "style": 1,
+      "name": "혼잡한 도심 거리\n거기서 살짝 골목 안쪽으로 들어가면[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000695_MSG0007",
+      "style": 1,
+      "name": "늘 들락거리던 작고 지저분한 바에\n언제나처럼 단골 녀석들이 있지……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000695_MSG0008",
+      "style": 1,
+      "name": "이젠 아무도 돌아오지 않지만……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000695_MSG0009",
+      "style": 1,
+      "name": "이 별이 마음에 들기는 하지만\n고향 생각이 나는 건 어쩔 수 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000695_MSG0010",
+      "style": 1,
+      "name": "지금 생각해 봤자 아무 의미 없다는 건\n나도 알고는 있어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000695_MSG0011",
+      "style": 1,
+      "name": "그래도, 지구가 아직 남아 있다면……\n뭐, 그런 환상에 빠지고 싶을 때도 있다고[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000695_MSG0012",
+      "style": 1,
+      "name": "……이럴 때는 어떻게 해야 할까?\n내 고민을 뿌리 뽑을 조언을 해 줘[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000695_JNK0030",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 18,
+      "label": "tev000695_SEL0031",
+      "style": 3,
+      "name": "마시고 마시고 또 마셔야 한다고 제안한다"
+    },
+    {
+      "$id": 19,
+      "label": "tev000695_JNK0040",
+      "style": 4,
+      "name": "당연"
+    },
+    {
+      "$id": 20,
+      "label": "tev000695_SEL0041",
+      "style": 3,
+      "name": "마시러 가는 것밖에 없다고 대답한다"
+    },
+    {
+      "$id": 21,
+      "label": "tev000695_MSG0013",
+      "style": 1,
+      "name": "그렇지![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000695_MSG0014",
+      "style": 1,
+      "name": "이런 날에는 마셔도 별로 취하지 않겠지만\n아무튼 그건 마셔 봐야 아는 거니까 말이지[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000695_MSG0015",
+      "style": 1,
+      "name": "저번에 네가 추천해 준\n맥주를 잔뜩 마실 거다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000695_MSG0016",
+      "style": 1,
+      "name": "저번에 네가 추천해 준\n칵테일을 잔뜩 마실 거다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000695_MSG0017",
+      "style": 1,
+      "name": "저번에 네가 추천해 준\n와인을 잔뜩 마실 거다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000695_MSG0018",
+      "style": 1,
+      "name": "저번에 네가 추천해 준\n보드카를 잔뜩 마실 거다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000695_MSG0019",
+      "style": 1,
+      "name": "저번에 네가 추천해 준\n일본주를 잔뜩 마실 거다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000695_MSG0020",
+      "style": 1,
+      "name": "내가 가장 좋아하는 스카치를\n물처럼 들이켤 거다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000695_MSG0021",
+      "style": 1,
+      "name": "오늘은 포그랑 인터셉터 녀석들도\n데리고 가서 아침까지 밤새워 마시겠어[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000695_MSG0022",
+      "style": 1,
+      "name": "그런 다음 숙취에 시달리며\n오버드를 쓰러뜨리러 가는 거지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000695_MSG0023",
+      "style": 1,
+      "name": "이렇게 평소와 다를 바 없는\n일상이 완성되는 거야[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000695_MSG0024",
+      "style": 1,
+      "name": "그래, 지금은 이 정도로 충분해……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000695_MSG0025",
+      "style": 1,
+      "name": "이야기 들어 줘서 고맙다!\n시간 있으면 너도 오라고![ST:wait ]"
+    }
+  ]
+}

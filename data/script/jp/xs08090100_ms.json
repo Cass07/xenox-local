@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08090100_MSG0001",
+      "style": 0,
+      "name": "アンナ未開種族を相手に何やってるノよ[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs08090100_MSG0002",
+      "style": 0,
+      "name": "リーズ　オレ　戦いたい[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08090100_MSG0003",
+      "style": 0,
+      "name": "もう　何逸ってるノさ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08090100_MSG0004",
+      "style": 0,
+      "name": "っていっても　あんまりサボりすぎても\nルクザールの阿呆がうるさいんだヨねぇ[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs08090100_MSG0005",
+      "style": 0,
+      "name": "いいよ　行こうじゃなイか[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08090100_MSG0006",
+      "style": 0,
+      "name": "オオッ[ST:wide ]―[ST:wait ]\n"
+    }
+  ]
+}

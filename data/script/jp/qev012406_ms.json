@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012406_MSG0001",
+      "style": 1,
+      "name": "ありがとう\n君のことは一生忘れないよ\n僕の歴史の中に名前が刻まれたからね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012406_MSG0002",
+      "style": 1,
+      "name": "シスカの適当で投げやりな所が\nどうにもいけすかないんだけど\n今後もなんとかやっていくよ[ST:wait ]"
+    }
+  ]
+}

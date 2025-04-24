@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065303_MSG0001",
+      "style": 1,
+      "name": "후우…… 이제야 일이 끝났군\n이 틈에 쌓인 서류라도\n살펴보는 게 좋을까?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065303_MSG0002",
+      "style": 1,
+      "name": "……이런, 왜 그러지?\n용건이 있다면 짧게 해 줘\n겨우 생긴 휴식 시간이니 유익하게 쓰고 싶거든[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065303_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065303_SEL0011",
+      "style": 3,
+      "name": "어떤 성격인지 캐묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev065303_JNK0020",
+      "style": 4,
+      "name": "제안[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev065303_SEL0021",
+      "style": 3,
+      "name": "리비아가 만나고 싶어 한다고\n말을 전한다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev065303_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "qev065303_MSG0003",
+      "style": 1,
+      "name": "나는 B.B.의 수리……\n즉 너희의 생명을 보호하는 것이 일이다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev065303_MSG0004",
+      "style": 1,
+      "name": "그래서 이 직무에 어울리는 사람이 되고자\n항상 신경 쓰고 있지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065303_MSG0005",
+      "style": 1,
+      "name": "어떤 때에도 냉정하고\n합리적인 판단을 도출할 수 있는 남자\n그것이 나의 이상적인 모습이다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065303_MSG0006",
+      "style": 1,
+      "name": "……뭐, 내 이런 성격은\n대부분의 여성에게 이해받지 못하지만\n딱히 상관없어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065303_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "qev065303_MSG0007",
+      "style": 1,
+      "name": "나를 만나고 싶어 하는 여성이 있다고?\n흠, 특이한 사람도 다 있군[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065303_MSG0008",
+      "style": 1,
+      "name": "한 번 정도는 그런 독특한 인간을\n만나 보는 것도 나쁘지 않지[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065303_MSG0009",
+      "style": 1,
+      "name": "알았어\n다행히 아직 휴식 시간이 남았으니……\n가 볼게[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev065303_MSG0010",
+      "style": 1,
+      "name": "리비아……라\n아름다운 사람이야\n이건 확고한 객관적 사실이다, 인정하지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev065303_MSG0011",
+      "style": 1,
+      "name": "하지만 저런 사람이 내게\n흥미가 있다니…… 정말일까?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev065303_MSG0012",
+      "style": 1,
+      "name": "내 따분한 이야기를\n이렇게 즐겁게 들어 준 여성은 처음이다\n리비아…… 좋은 사람이군[ST:wait ]"
+    }
+  ]
+}

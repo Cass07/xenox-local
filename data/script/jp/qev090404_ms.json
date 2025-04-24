@@ -1,0 +1,558 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090404_MSG0001",
+      "style": 0,
+      "name": "[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]なんか食べたって\nうまいもんじゃないだろうに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090404_MSG0002",
+      "style": 0,
+      "name": "くそっ　もうカンベンしてくれよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090404_MSG0003",
+      "style": 0,
+      "name": "[ST:wide ]―あっ！　あなたは[ST:wide ]―！？\nもしかして僕のこと助けにきてくれた[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090404_MSG0075",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 5,
+      "label": "qev090404_MSG0076",
+      "style": 3,
+      "name": "助けに来たと伝える"
+    },
+    {
+      "$id": 6,
+      "label": "qev090404_MSG0077",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 7,
+      "label": "qev090404_MSG0078",
+      "style": 3,
+      "name": "状況を尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "qev090404_MSG0004",
+      "style": 0,
+      "name": "良かった[ST:wide ]―　仲間も奴らに食われてしまって\nもうダメだって諦めかけてたんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090404_MSG0005",
+      "style": 0,
+      "name": "僕達のチームは　この辺りの原生生物の親玉を\n倒しに来たんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090404_MSG0006",
+      "style": 0,
+      "name": "それで　なんとか親玉の方は倒せたんだけど　[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090404_MSG0007",
+      "style": 0,
+      "name": "奴の断末魔を聞いた洞窟の原生生物共が\n興奮して一斉に襲いかかって来たんだよ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090404_MSG0008",
+      "style": 0,
+      "name": "仲間も皆奴らに食われてしまって　\nもうダメだって諦めかけてたんだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090404_MSG0009",
+      "style": 0,
+      "name": "それで逃げ回ってたか\nレジーの坊や　いつもの威勢はどうした？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090404_MSG0010",
+      "style": 0,
+      "name": "ボウズ先生！？　どうしてこんな所に[ST:wide ]―\n確か先生は遠方任務の途中じゃ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090404_MSG0011",
+      "style": 0,
+      "name": "かわいい教え子の命を救うこと以上に\n大切な任務などあるもんかよ？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090404_MSG0012",
+      "style": 0,
+      "name": "強力な助っ人を連れて来てやったわ\nだから　そんな情けない顔はするな！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090404_MSG0013",
+      "style": 0,
+      "name": "ああっ[ST:wide ]―！　先生[ST:wide ]―　すみません[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090404_MSG0014",
+      "style": 0,
+      "name": "説教は後回しだな\n今はこの状況を打破するとしようか[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090404_MSG0015",
+      "style": 0,
+      "name": "奴ら　すぐにここに来ると思います！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090404_MSG0016",
+      "style": 0,
+      "name": "お願いします！\n奴らを撃退して　生きてＮＬＡへ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090404_MSG0017",
+      "style": 0,
+      "name": "おうよ任せろ！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090404_MSG0018",
+      "style": 0,
+      "name": "この辺りのバケモン共に\n我らが力を示してくれようぞ！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090404_MSG0019",
+      "style": 0,
+      "name": "もう終わったぞ　いつまでもしゃがみこんで\nどうした？　どこか傷むのか？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090404_MSG0020",
+      "style": 0,
+      "name": "[ST:wide ]―先生　[ST:wide ]―すいません　[ST:wide ]―僕\n先生に教えられたこと守れなかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090404_MSG0021",
+      "style": 0,
+      "name": "最後まで仲間を裏切るなってあれだけ\n教わってきたのに結局　見捨てて逃げて来た[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090404_MSG0022",
+      "style": 0,
+      "name": "僕[ST:wide ]―　もうブレイド辞めますよ[ST:wide ]―\n今回のことではっきりしました[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090404_MSG0023",
+      "style": 0,
+      "name": "僕は先生が言ってたような　立派な\n軍人になんかなれない　卑怯者なんだって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090404_MSG0024",
+      "style": 0,
+      "name": "ふむ[ST:wide ]―　己を省みることも\n時として必要なことではあるな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090404_MSG0025",
+      "style": 0,
+      "name": "どうだ　オヌシはどう思う？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090404_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 31,
+      "label": "qev090404_SEL0031",
+      "style": 3,
+      "name": "続けられる気力がないなら\n辞めたほうがいいと言う"
+    },
+    {
+      "$id": 32,
+      "label": "qev090404_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 33,
+      "label": "qev090404_SEL0041",
+      "style": 3,
+      "name": "いま辞めたら後悔すると\n引き留める"
+    },
+    {
+      "$id": 34,
+      "label": "qev090404_MSG0026",
+      "style": 0,
+      "name": "ははっ[ST:wide ]―　キツいな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev090404_MSG0027",
+      "style": 0,
+      "name": "でもそれが正解さ\n僕なんてブレイドにはいらない人間なんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev090404_MSG0028",
+      "style": 0,
+      "name": "あなた　良い人だな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev090404_MSG0029",
+      "style": 0,
+      "name": "だけどそういう優しさってのは\n時として人を傷つけるんだよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev090404_MSG0030",
+      "style": 0,
+      "name": "僕みたいなダメな奴が続けても自分も\n周りも　不幸にするだけさ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev090404_MSG0031",
+      "style": 0,
+      "name": "そうか[ST:wide ]―　ふむ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev090404_MSG0032",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev090404_MSG0033",
+      "style": 0,
+      "name": "カァーーーーーーーーッツ！！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev090404_MSG0034",
+      "style": 0,
+      "name": "仲間の死を己の逃げ場所にするとは\nなんたることか！[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev090404_MSG0035",
+      "style": 0,
+      "name": "甘えるなよ　小僧ッ！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev090404_MSG0036",
+      "style": 0,
+      "name": "オヌシはバケモンに殺されかけて\nたんに臆病風に吹かれているだけよ[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev090404_MSG0037",
+      "style": 0,
+      "name": "どんな時でも前を向き　[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev090404_MSG0038",
+      "style": 0,
+      "name": "いつかライフにある仲間の身体を\n取り戻さんとするのが我らであろう！[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev090404_MSG0039",
+      "style": 0,
+      "name": "せっ[ST:wide ]―　先生[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev090404_MSG0040",
+      "style": 0,
+      "name": "立て！　立たねば　鉄拳をもって教えてやる！\nオヌシはそんなフヌケでない！[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev090404_MSG0041",
+      "style": 0,
+      "name": "仲間の想いを背負える男のはずだ！[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev090404_JNK0050",
+      "style": 4,
+      "name": "制止"
+    },
+    {
+      "$id": 51,
+      "label": "qev090404_SEL0051",
+      "style": 3,
+      "name": "殴りかからんとする\nボゼを止める"
+    },
+    {
+      "$id": 52,
+      "label": "qev090404_JNK0060",
+      "style": 4,
+      "name": "静観"
+    },
+    {
+      "$id": 53,
+      "label": "qev090404_SEL0061",
+      "style": 3,
+      "name": "ボゼの説教を見ている"
+    },
+    {
+      "$id": 54,
+      "label": "qev090404_MSG0042",
+      "style": 0,
+      "name": "ええいっ！　止めるな！\n俺にはこいつを立ち直らせる使命がある！[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev090404_MSG0043",
+      "style": 0,
+      "name": "どうだっ！　オヌシはこんなことで\n終わってしまう男なのか！？[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev090404_MSG0044",
+      "style": 0,
+      "name": "なぁ[ST:wide ]―　違うだろ！？[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev090404_MSG0045",
+      "style": 0,
+      "name": "士官学校にいたのなんて\nもう何年も前のことじゃないですか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev090404_MSG0046",
+      "style": 0,
+      "name": "なのに　こんな所まで助けにきてくれて[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev090404_MSG0047",
+      "style": 0,
+      "name": "いまでも　自分なんかに\nそんな親身になってくれて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev090404_MSG0048",
+      "style": 0,
+      "name": "熱すぎますよ　先生！[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev090404_MSG0049",
+      "style": 0,
+      "name": "そんな風に言われて\n逃げ出すことなんてできるわけないですよ！[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev090404_MSG0050",
+      "style": 0,
+      "name": "よしっ！　それでこそ我が教え子だ！\nそのままＮＬＡへ走って行け！[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev090404_MSG0051",
+      "style": 0,
+      "name": "そして気高きアヴァランチの戦士として\n次のバケモンとの戦いに備えるのだ！[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev090404_MSG0052",
+      "style": 0,
+      "name": "はいっ！！　ありがとうございました！[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev090404_MSG0053",
+      "style": 0,
+      "name": "ふふっ　打てば響く　鐘のような男よ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev090404_MSG0054",
+      "style": 0,
+      "name": "すまんな　バケモンの討伐だけではなく\n情けない教え子への説教にまで付き合せてな[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev090404_JNK0070",
+      "style": 4,
+      "name": "唖然"
+    },
+    {
+      "$id": 68,
+      "label": "qev090404_SEL0071",
+      "style": 3,
+      "name": "理解できない世界だと\n正直に伝える"
+    },
+    {
+      "$id": 69,
+      "label": "qev090404_JNK0080",
+      "style": 4,
+      "name": "心酔"
+    },
+    {
+      "$id": 70,
+      "label": "qev090404_SEL0081",
+      "style": 3,
+      "name": "大きく得るものがあったと\nボゼに心酔する"
+    },
+    {
+      "$id": 71,
+      "label": "qev090404_MSG0055",
+      "style": 0,
+      "name": "それは寂しいな\nオヌシにはまだ　この想い届かぬか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev090404_MSG0056",
+      "style": 0,
+      "name": "オヌシもまた　奴と同じ人種か[ST:wide ]―\nそのような者は　俺は好きだぞ[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev090404_MSG0057",
+      "style": 0,
+      "name": "[ST:wide ]―まぁいい\nエレオノーラ嬢に報告しにいかんとな[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev090404_MSG0058",
+      "style": 0,
+      "name": "帰り道も油断するなよ？\nこういう気の緩んだ時が一番危ないんだ[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev090404_MSG0059",
+      "style": 0,
+      "name": "[ST:wide ]―まぁいい　こんな場所に長居は無用\nＮＬＡへ戻って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev090404_MSG0060",
+      "style": 0,
+      "name": "ちょ[ST:wide ]―　ちょっと待って！[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev090404_MSG0061",
+      "style": 0,
+      "name": "何奴[ST:wide ]―！？[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev090404_MSG0062",
+      "style": 0,
+      "name": "僕です[ST:wide ]―\nあなた達に助けてもらったマ・ノン人だヨ！[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev090404_MSG0063",
+      "style": 0,
+      "name": "何をしに来た異星人\nもう　ケガは治ったのであろう？[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev090404_MSG0064",
+      "style": 0,
+      "name": "お礼をまだ渡してなかったデショ？\nこれを受け取ってください[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev090404_MSG0065",
+      "style": 0,
+      "name": "これは[ST:wide ]―　何かの発信機か？[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev090404_MSG0066",
+      "style": 0,
+      "name": "うん！　強力なデンパを発して[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev090404_MSG0067",
+      "style": 0,
+      "name": "辺りの捻じ曲がった空間を\n一発で元に戻しちゃうんだ！[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev090404_MSG0068",
+      "style": 0,
+      "name": "ふん　珍妙なものを[ST:wide ]―\nこんなものは必要ない[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev090404_MSG0069",
+      "style": 0,
+      "name": "鍛え抜かれた心さえ[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]に宿っていれば\n俺達　地球人は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev090404_MSG0070",
+      "style": 0,
+      "name": "いいからいいから！\nオマモリ代わりに持ってなって！[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev090404_MSG0071",
+      "style": 0,
+      "name": "それじゃサヨナラー！\nまた会える日を楽しみにしてますヨー！[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev090404_MSG0072",
+      "style": 0,
+      "name": "ふん[ST:wide ]―\nマ・ノン人とはワケのわからん奴らだな[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev090404_MSG0073",
+      "style": 0,
+      "name": "[ST:wide ]―とにかく\nエレオノーラ嬢に報告しにいかんとな[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev090404_MSG0074",
+      "style": 0,
+      "name": "帰り道も油断するなよ？\nこういう気の緩んだ時が一番危ないんだ[ST:wait ]"
+    }
+  ]
+}

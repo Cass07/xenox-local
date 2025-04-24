@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085804_MSG0001",
+      "style": 0,
+      "name": "いやあ　あんなたくさんの原生生物を[ST:wide ]―\nほんとにすごいっす！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085804_MSG0002",
+      "style": 0,
+      "name": "それでは　データプローブの打ち込みを\n始めさせていただきます[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085804_MSG0003",
+      "style": 0,
+      "name": "私達は周辺警戒にあたるわ\n作業に専念して[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085804_MSG0004",
+      "style": 0,
+      "name": "作業は順調なようね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085804_MSG0005",
+      "style": 0,
+      "name": "エルマさん　もうバッチリっすよ\nあと数分で完了です！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085804_MSG0006",
+      "style": 0,
+      "name": "うわぁ[ST:wide ]―　ザ　ザイデンさん\nはやく逃げましょう！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085804_MSG0007",
+      "style": 0,
+      "name": "行くなら勝手にいけ\n私はこれを終わらせるまで動けん[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085804_MSG0008",
+      "style": 0,
+      "name": "し　死んじゃいますよ！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085804_MSG0009",
+      "style": 0,
+      "name": "どうせ[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]だ\nブレイドのために一度死ぬくらい　何でもない[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085804_MSG0010",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "qev085804_MSG0011",
+      "style": 0,
+      "name": "お前達[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085804_MSG0012",
+      "style": 0,
+      "name": "一人より二人　二人より三人の方が\nはやく終わるでしょう！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085804_MSG0013",
+      "style": 0,
+      "name": "すまんな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085804_MSG0014",
+      "style": 0,
+      "name": "エルマさん！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085804_MSG0015",
+      "style": 0,
+      "name": "彼らに指一本触れさせてはならない[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085804_JNK0010",
+      "style": 4,
+      "name": "自信"
+    },
+    {
+      "$id": 17,
+      "label": "qev085804_SEL0011",
+      "style": 3,
+      "name": "必ず守るとうなずいてみせる"
+    },
+    {
+      "$id": 18,
+      "label": "qev085804_JNK0020",
+      "style": 4,
+      "name": "強気"
+    },
+    {
+      "$id": 19,
+      "label": "qev085804_SEL0021",
+      "style": 3,
+      "name": "速攻で倒してやると意気込む"
+    },
+    {
+      "$id": 20,
+      "label": "qev085804_MSG0016",
+      "style": 0,
+      "name": "頼もしいですも！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085804_MSG0017",
+      "style": 0,
+      "name": "あてにしているわ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085804_MSG0018",
+      "style": 0,
+      "name": "調子に乗らない[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085804_MSG0018_2",
+      "style": 0,
+      "name": "意気込むのはいいけど目的は\n彼らの安全を確保することよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085804_MSG0019",
+      "style": 0,
+      "name": "いいわね[ST:wait ]"
+    }
+  ]
+}

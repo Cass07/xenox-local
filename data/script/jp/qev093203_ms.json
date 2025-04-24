@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093203_MSG0010",
+      "style": 0,
+      "name": "そら　駆けずり回って食材を集めてきたぞ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093203_MSG0020",
+      "style": 0,
+      "name": "ほ　本当に持ってきてくれたんですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093203_MSG0030",
+      "style": 0,
+      "name": "さあ　さっさと作ってくれ\nいい加減　腹ペコだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093203_MSG0040",
+      "style": 0,
+      "name": "あ　はい　直ちに[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093203_MSG0050",
+      "style": 0,
+      "name": "あ　あのう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093203_MSG0060",
+      "style": 0,
+      "name": "おっ　ようやくか　待ちわびたぜ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093203_MSG0070",
+      "style": 0,
+      "name": "い　いえ！\nそれがその[ST:wide ]―　実は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093203_MSG0080",
+      "style": 0,
+      "name": "[ST:wide ]―サ　サラミも切らしてまして[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093203_MSG0090",
+      "style": 0,
+      "name": "[ST:wide ]―は？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093203_MSG0100",
+      "style": 0,
+      "name": "今なんて言った？\nサラミを[ST:wide ]―　切らしてるだと？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093203_MSG0110",
+      "style": 0,
+      "name": "よりにもよって　サラミを[ST:wide ]―　だと！？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093203_MSG0120",
+      "style": 0,
+      "name": "ひ　ひぃぃぃ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093203_MSG0130",
+      "style": 0,
+      "name": "お前[ST:wide ]―　ピザ屋のくせに\nサラミの重要性を理解してないのか？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093203_MSG0140",
+      "style": 0,
+      "name": "つうか　ねえならねえで\n最初からリストに入れとけよ！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093203_MSG0150",
+      "style": 0,
+      "name": "す　すみませ～ん！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093203_MSG0160",
+      "style": 0,
+      "name": "あ　でもベジタブルピザなら\nすぐにでもお出しできますよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093203_MSG0170",
+      "style": 0,
+      "name": "お前は　バーガーショップに行って\nパティのないバーガーを出されたら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093203_MSG0180",
+      "style": 0,
+      "name": "ですよねぇぇぇ！\nすぐコンパニオンに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093203_MSG0190",
+      "style": 0,
+      "name": "もういい[ST:wide ]―　オレ達がどうにかする\nどこにいけばサラミが手に入る？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093203_MSG0200",
+      "style": 0,
+      "name": "あ　ウチのサラミは特別製でして\nズース属の新鮮な肉を使ってるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093203_MSG0210",
+      "style": 0,
+      "name": "ズース[ST:wide ]―　あのイノシシみたいな原生生物か\nどこにいる？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093203_MSG0220",
+      "style": 0,
+      "name": "えーっと　原初の荒野[ST:wide ]―\nNLAからそう遠くない場所に群れがいます[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093203_MSG0230",
+      "style": 0,
+      "name": "そこで肉を調達してもらえれば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093203_MSG0240",
+      "style": 0,
+      "name": "話は聞いたな\nさっさと狩りに行くぞ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev093203_MSG0250",
+      "style": 0,
+      "name": "な　何度もすみません[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093203_MSG0260",
+      "style": 0,
+      "name": "いいから　お前は\nピザ窯をしっかり温めておけ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093203_MSG0270",
+      "style": 0,
+      "name": "オレ達が戻り次第　即ピザを焼けるようにな\nわかったか！？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093203_MSG0280",
+      "style": 0,
+      "name": "イ　イエッサー！[ST:wait ]"
+    }
+  ]
+}

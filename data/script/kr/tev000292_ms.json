@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000292_MSG0001",
+      "style": 1,
+      "name": "아니, [ST:playername ] 씨\n이런 곳에서 만날 줄이야\n우연이란 기이한 법이군요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000292_MSG0002",
+      "style": 1,
+      "name": "지금 나기에게 배운 반상회를 하면서\n같이 배운 끝말잇기를 즐기고 있었습니다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000292_MSG0003",
+      "style": 1,
+      "name": "그런데 한 번도 제대로 되지를 않더군요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000292_MSG0004",
+      "style": 1,
+      "name": "당신이 이곳을 지나가던 것도 어떠한 인연이니\n본고장의 끝말잇기를 부디 보여 주셨으면 합니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000292_JNK0010",
+      "style": 4,
+      "name": "한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000292_SEL0011",
+      "style": 3,
+      "name": "끝말잇기에 도전해 본다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000292_JNK0020",
+      "style": 4,
+      "name": "하지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000292_SEL0021",
+      "style": 3,
+      "name": "끝말잇기는 해 본 적이 없다며\n거절한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev000292_MSG0005",
+      "style": 1,
+      "name": "훌륭합니다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000292_MSG0006",
+      "style": 1,
+      "name": "그러면 일단 당신부터 시작해 주십시오[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000292_MSG0007",
+      "style": 1,
+      "name": "이럴 수가……\n끝말잇기 시범을 못 보여 주신다면\n지구인 체면이 말이 아닐 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000292_MSG0008",
+      "style": 1,
+      "name": "저도 마 논분도 노폰분도\n당신을 조금 경멸하게 될지도 모르죠[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000292_MSG0009",
+      "style": 1,
+      "name": "그런 슬픈 사태가 벌어지는 건\n막아야 하지 않겠습니까?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000292_MSG0010",
+      "style": 1,
+      "name": "자, 실력을 보여 주십시오[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000292_JNK0110",
+      "style": 4,
+      "name": "끝말잇기"
+    },
+    {
+      "$id": 16,
+      "label": "tev000292_SEL0111",
+      "style": 3,
+      "name": "일단 「끝말잇기」로 시작한다"
+    },
+    {
+      "$id": 17,
+      "label": "tev000292_JNK0120",
+      "style": 4,
+      "name": "블레이드"
+    },
+    {
+      "$id": 18,
+      "label": "tev000292_SEL0121",
+      "style": 3,
+      "name": "일단 「블레이드」로 시작한다"
+    },
+    {
+      "$id": 19,
+      "label": "tev000292_JNK0130",
+      "style": 4,
+      "name": "흰고래"
+    },
+    {
+      "$id": 20,
+      "label": "tev000292_SEL0131",
+      "style": 3,
+      "name": "일단 「흰고래」로 시작한다"
+    },
+    {
+      "$id": 21,
+      "label": "tev000292_MSG0011",
+      "style": 1,
+      "name": "흐음……\n기본에 충실한 시작이군요\n나기에게 배운 대로입니다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000292_MSG0012",
+      "style": 1,
+      "name": "그럼 기우라리는 어떻습니까?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000292_MSG0013",
+      "style": 1,
+      "name": "흐음……\n그렇군요……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000292_MSG0014",
+      "style": 1,
+      "name": "그럼 드메톰은 어떻습니까?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000292_MSG0015",
+      "style": 1,
+      "name": "흐음……\n그렇군요……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000292_MSG0016",
+      "style": 1,
+      "name": "그럼 래피드는 어떻습니까?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000292_MSG0017",
+      "style": 1,
+      "name": "당신과는 잘되는데 다른 사람들과는 안되다니……\n어째서일까요?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000292_JNK0030",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 29,
+      "label": "tev000292_SEL0031",
+      "style": 3,
+      "name": "규칙을 이해하지 못했기 때문이다"
+    },
+    {
+      "$id": 30,
+      "label": "tev000292_JNK0040",
+      "style": 4,
+      "name": "지적"
+    },
+    {
+      "$id": 31,
+      "label": "tev000292_SEL0041",
+      "style": 3,
+      "name": "같은 언어를 사용해야만\n끝말잇기를 할 수 있다고 지적한다"
+    },
+    {
+      "$id": 32,
+      "label": "tev000292_MSG0018",
+      "style": 1,
+      "name": "마 논분도, 노폰분도 규칙은 제대로 익혔다고\n당당하게 말씀했으니, 그건 아닐 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000292_MSG0019",
+      "style": 1,
+      "name": "그렇다면……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000292_MSG0020",
+      "style": 1,
+      "name": "……앗![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000292_MSG0021",
+      "style": 1,
+      "name": "이제야 이해했습니다[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000292_MSG0022",
+      "style": 1,
+      "name": "저희가 사용하는 언어는 본래 제각각입니다[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000292_MSG0023",
+      "style": 1,
+      "name": "저는 지구의 말을 사용하지만\n노폰분은 노폰어를, 마 논분은 마 논어를\n각각 사용하고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000292_MSG0024",
+      "style": 1,
+      "name": "불가사의하게도 의사소통은 가능하지만\n각각의 문자는 이어질 리가 없죠[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000292_MSG0025",
+      "style": 1,
+      "name": "이것 참, 완전히 망각하고 있었습니다[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000292_MSG0026",
+      "style": 1,
+      "name": "저는 끝말잇기를 즐기기 위해서\n마 논어를 공부하고 오겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000292_MSG0027",
+      "style": 1,
+      "name": "그럼 또 만납시다[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000292_MSG0028",
+      "style": 1,
+      "name": "……앗![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000292_MSG0029",
+      "style": 1,
+      "name": "확실히 당신 말씀대로네요!\n완전히 망각하고 있었습니다[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000292_MSG0030",
+      "style": 1,
+      "name": "저희가 사용하는 언어는 본래 제각각이죠[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev000292_MSG0031",
+      "style": 1,
+      "name": "저는 지구의 말을 사용하지만\n노폰분은 노폰어를, 마 논분은 마 논어를……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev000292_MSG0032",
+      "style": 1,
+      "name": "불가사의하게도 의사소통은 가능하지만\n각각의 문자는 이어질 리가 없었던 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev000292_MSG0033",
+      "style": 1,
+      "name": "역시 뛰어난 혜안을 가지고 계시군요\n당신이 제게 찾아와 주어서 다행입니다[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev000292_MSG0034",
+      "style": 1,
+      "name": "저는 끝말잇기를 즐기기 위해서\n마 논어를 공부하고 오겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev000292_MSG0035",
+      "style": 1,
+      "name": "그럼 또 만납시다[ST:wait ]"
+    }
+  ]
+}

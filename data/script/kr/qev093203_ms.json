@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093203_MSG0010",
+      "style": 0,
+      "name": "자, 여기저기 돌아다니며 모은 식재료다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093203_MSG0020",
+      "style": 0,
+      "name": "저, 정말로 가져와 주셨네요……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093203_MSG0030",
+      "style": 0,
+      "name": "이제 얼른 만들어 줘\n슬슬 배고파 죽겠다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093203_MSG0040",
+      "style": 0,
+      "name": "아, 넵! 바로 만들게요~![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093203_MSG0050",
+      "style": 0,
+      "name": "저, 저기……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093203_MSG0060",
+      "style": 0,
+      "name": "오, 이제야 완성인가\n기다리다 지쳤다고[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093203_MSG0070",
+      "style": 0,
+      "name": "아, 아뇨!\n그게, 저기…… 실은……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093203_MSG0080",
+      "style": 0,
+      "name": "……사, 살라미도 다 떨어져서요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093203_MSG0090",
+      "style": 0,
+      "name": "……뭐?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093203_MSG0100",
+      "style": 0,
+      "name": "지금 뭐라고 한 거지?\n살라미가…… 다 떨어졌어?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093203_MSG0110",
+      "style": 0,
+      "name": "하필이면 살라미가…… 없다고!?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093203_MSG0120",
+      "style": 0,
+      "name": "히, 히이이익……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093203_MSG0130",
+      "style": 0,
+      "name": "너 말이야…… 피자 가게에서 일하면서\n살라미가 얼마나 중요한지 몰라?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093203_MSG0140",
+      "style": 0,
+      "name": "아니 그보다, 없으면 없는 대로\n처음부터 리스트에 적어 두란 말이다![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093203_MSG0150",
+      "style": 0,
+      "name": "죄, 죄송합니다~![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093203_MSG0160",
+      "style": 0,
+      "name": "아, 그래도 야채 피자라면\n바로 만들어 드릴 수 있는데요……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093203_MSG0170",
+      "style": 0,
+      "name": "네가 햄버거 가게에 갔다고 쳐\n거기서 패티 없는 햄버거가 나오면……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093203_MSG0180",
+      "style": 0,
+      "name": "당연히 싫겠죠오오오!\n당장 컴패니언에……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093203_MSG0190",
+      "style": 0,
+      "name": "됐어…… 우리끼리 알아서 할게\n어디 가야 살라미를 얻을 수 있지?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093203_MSG0200",
+      "style": 0,
+      "name": "아, 저희 가게 살라미는 특별한 건데요\n즈우스속의 신선한 고기를 쓰고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093203_MSG0210",
+      "style": 0,
+      "name": "즈우스…… 그 멧돼지 같은 원시 생물 말이군\n어디에 있는데?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093203_MSG0220",
+      "style": 0,
+      "name": "어디 보자, 원초의 황야……\nNLA에서 그리 멀지 않은 곳에 무리 지어 있죠[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093203_MSG0230",
+      "style": 0,
+      "name": "거기에서 고기를 조달해 주신다면……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093203_MSG0240",
+      "style": 0,
+      "name": "얘기 들었지?\n얼른 사냥하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev093203_MSG0250",
+      "style": 0,
+      "name": "여, 여러 번 고생시켜서 죄송하네요……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093203_MSG0260",
+      "style": 0,
+      "name": "됐으니까, 넌 피자 화덕이나\n잘 데워 두라고[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093203_MSG0270",
+      "style": 0,
+      "name": "우리가 돌아오면 바로\n피자를 구울 수 있게 말이다, 알았지!?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093203_MSG0280",
+      "style": 0,
+      "name": "예, 예스, 서![ST:wait ]"
+    }
+  ]
+}

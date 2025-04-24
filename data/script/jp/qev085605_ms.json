@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085605_MSG0001",
+      "style": 0,
+      "name": "どうやら　この植物には秘密があるようね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085605_MSG0002",
+      "style": 0,
+      "name": "ああ　俺は先に本部に戻って\nこのことを報告する[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085605_MSG0003",
+      "style": 0,
+      "name": "報酬は　俺が受け取って渡すでいいか？\nそん時に礼もさせてもらうよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085605_MSG0004",
+      "style": 0,
+      "name": "了解よ　気をつけて[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085605_MSG0005",
+      "style": 0,
+      "name": "じゃぁ　カフェで待ち合わせだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085605_MSG0006",
+      "style": 0,
+      "name": "ラオの奴も呼んでおくから\n好きなだけたかってくれ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085605_MSG0007",
+      "style": 0,
+      "name": "もちろん！[ST:wait ]"
+    }
+  ]
+}

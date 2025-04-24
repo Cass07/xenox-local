@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085503_MSG0001",
+      "style": 0,
+      "name": "어!? 이건……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085503_MSG0002",
+      "style": 0,
+      "name": "기억나?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085503_MSG0003",
+      "style": 0,
+      "name": "당연하죠, 군에 들어왔을 때\n가장 처음 지급받은 총이니까요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085503_MSG0004",
+      "style": 0,
+      "name": "하지만, 정말로 이걸 사용하는 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085503_MSG0005",
+      "style": 0,
+      "name": "그래, 당분간은\n이것 외에는 사용 금지야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085503_MSG0006",
+      "style": 0,
+      "name": "하지만 이걸로는……![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085503_MSG0007",
+      "style": 0,
+      "name": "엘마 씨가 고른 거예요\n그윈 씨를 위해서[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085503_MSG0008",
+      "style": 0,
+      "name": "대령님이……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085503_MSG0009",
+      "style": 0,
+      "name": "감사합니다\n당분간 이걸 사용해 보겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085503_MSG0010",
+      "style": 0,
+      "name": "임무를 받아 왔으니 바로 가자[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085503_MSG0011",
+      "style": 0,
+      "name": "네? 갑자기요!?\n게다가 3개나요!?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085503_MSG0012",
+      "style": 0,
+      "name": "자, 우물쭈물하지 마!\n당장 간다![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085503_MSG0013",
+      "style": 0,
+      "name": "네, 네![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085503_MSG0014",
+      "style": 0,
+      "name": "모모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085503_JNK0010",
+      "style": 4,
+      "name": "전율"
+    },
+    {
+      "$id": 16,
+      "label": "qev085503_SEL0011",
+      "style": 3,
+      "name": "호랑이 교관이라고 나직이 중얼거린다"
+    },
+    {
+      "$id": 17,
+      "label": "qev085503_JNK0020",
+      "style": 4,
+      "name": "의견"
+    },
+    {
+      "$id": 18,
+      "label": "qev085503_SEL0021",
+      "style": 3,
+      "name": "이건 너무 엄하지 않냐고 끼어든다"
+    },
+    {
+      "$id": 19,
+      "label": "qev085503_MSG0015",
+      "style": 0,
+      "name": "그렇다모, 호랑이 교관이다모!\n엘마 씨, 갑자기 왜 그러냐모?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085503_MSG0016",
+      "style": 0,
+      "name": "훈련소 시절이 떠오르네\n엘마 대령님, 엄하기로 유명했으니까[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085503_MSG0017",
+      "style": 0,
+      "name": "아니에요!\n이건 말하자면 사랑의 매라는 거예요![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085503_MSG0018",
+      "style": 0,
+      "name": "그렇다면 좋겠지만 말이지\n훈련소 시절에는……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085503_MSG0019",
+      "style": 0,
+      "name": "거기, 잡담 금지![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085503_MSG0020",
+      "style": 0,
+      "name": "아, 네![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085503_MSG0021",
+      "style": 1,
+      "name": "저에게 최적인 무기……\n엘마 대령님이 골라 주시는 거니까\n분명 굉장한 무기일 게 틀림없어요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085503_MSG0022",
+      "style": 1,
+      "name": "응? 이 슈트는 최적이냐고요?\n하핫, 이건 훈련용이에요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085503_MSG0023",
+      "style": 1,
+      "name": "임무를 수행하러 갈 때는\n사용하던 장비로 갈아입을 거니까\n안심하세요![ST:wait ]"
+    }
+  ]
+}

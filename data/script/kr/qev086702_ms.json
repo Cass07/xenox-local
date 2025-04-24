@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086702_MSG0001",
+      "style": 0,
+      "name": "와, 여기서는 NLA가 잘 보이네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086702_MSG0002",
+      "style": 0,
+      "name": "뭐가 말이야모?\n우리의 도시가 어디에 보여모?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086702_MSG0003",
+      "style": 0,
+      "name": "눈앞에 있잖아[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086702_MSG0004",
+      "style": 0,
+      "name": "다들 타츠가 순진무구하다고\n속이면 안 된다모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086702_MSG0005",
+      "style": 0,
+      "name": "NLA는 저런 접시 위에 올려져 있지 않다모[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086702_MSG0006",
+      "style": 0,
+      "name": "접시 위……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086702_MSG0007",
+      "style": 0,
+      "name": "하긴, 여기서는 그렇게 보이네\n하지만 저게 우리의 도시야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086702_MSG0008",
+      "style": 0,
+      "name": "밖에서 보니 이렇게나 작군요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086702_MSG0009",
+      "style": 0,
+      "name": "NLA가 작은 게 아니야\n미라의 대지가 광대할 뿐[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086702_MSG0010",
+      "style": 0,
+      "name": "그렇구나, 하지만 우주는 더 넓고\n지구는 훨씬 멀리 있죠[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086702_MSG0011",
+      "style": 0,
+      "name": "아니, 있었죠[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086702_MSG0012",
+      "style": 0,
+      "name": "그래, 그리고 지구 인류는\n그 먼 거리를 넘어 저 도시를 옮겨 왔어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086702_MSG0013",
+      "style": 0,
+      "name": "그건 위대한 행위야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086702_MSG0014",
+      "style": 0,
+      "name": "그렇다모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086702_MSG0015",
+      "style": 0,
+      "name": "그렇기 때문에 노폰도 다른 종족도\n저 도시에서 사이좋게 살 수 있는 거다모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086702_MSG0016",
+      "style": 0,
+      "name": "그렇지, 그리고 언젠가 또 흰고래를 타고\n우주로 날아갈 날이 오면 멋질 거야[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086702_MSG0017",
+      "style": 0,
+      "name": "미라에서 만난 친구들과 함께[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086702_MSG0018",
+      "style": 0,
+      "name": "와, 그거 멋지네요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086702_MSG0019",
+      "style": 0,
+      "name": "하지만 엘마 씨\n왜 이 시간에 이 장소인가요?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086702_MSG0020",
+      "style": 0,
+      "name": "여기는 말이지\n흰고래가 미라에 불시착했던 그날[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086702_MSG0021",
+      "style": 0,
+      "name": "내가 돌을 타고 경비를 서다가\n처음으로 내려선 장소야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086702_MSG0022",
+      "style": 0,
+      "name": "오늘처럼 석양이 아름다웠어[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086702_MSG0023",
+      "style": 0,
+      "name": "라이프 건이 일단락된 지금\n다시 한번 그날을 가슴에 새기고……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086702_MSG0024",
+      "style": 0,
+      "name": "그리고 앞으로에 대해 생각하고 싶어서[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086702_MSG0025",
+      "style": 0,
+      "name": "같이 와 달라고 한 거야[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086702_MSG0026",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "qev086702_MSG0027",
+      "style": 0,
+      "name": "모두 후방 경계[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086702_MSG0028",
+      "style": 0,
+      "name": "이런 곳에서 만나게 되다니[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086702_MSG0029",
+      "style": 0,
+      "name": "엘마 씨!?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086702_MSG0030",
+      "style": 0,
+      "name": "린, 다른 사람들과 함께 도망가\n이 원시 생물은 강해[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086702_MSG0031",
+      "style": 0,
+      "name": "그럼 엘마 씨도 같이 가요![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086702_MSG0032",
+      "style": 0,
+      "name": "그럴 수 없어\n이 녀석은, 이 녀석만큼은 내가 쓰러뜨려야 해……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086702_JNK0010",
+      "style": 4,
+      "name": "협조"
+    },
+    {
+      "$id": 34,
+      "label": "qev086702_SEL0011",
+      "style": 3,
+      "name": "그렇다면 함께 싸우자고 말한다"
+    },
+    {
+      "$id": 35,
+      "label": "qev086702_JNK0020",
+      "style": 4,
+      "name": "진정"
+    },
+    {
+      "$id": 36,
+      "label": "qev086702_SEL0021",
+      "style": 3,
+      "name": "일단 침착하라고 달랜다"
+    },
+    {
+      "$id": 37,
+      "label": "qev086702_MSG0033",
+      "style": 0,
+      "name": "안 돼, 방금도 말했잖아\n이 녀석은 강하다고[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086702_MSG0034",
+      "style": 0,
+      "name": "엘마 씨, 왜 그래요?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086702_MSG0035",
+      "style": 0,
+      "name": "침착한 상태야\n난 냉정해[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086702_MSG0036",
+      "style": 0,
+      "name": "냉정하지 않아요\n갑자기 혼자서 싸우겠다니[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086702_MSG0037",
+      "style": 0,
+      "name": "지금까지 계속\n같이 싸워 왔잖아요![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086702_MSG0038",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "qev086702_MSG0039",
+      "style": 0,
+      "name": "미안해\n다들 도와줄래?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086702_MSG0040",
+      "style": 0,
+      "name": "물론이에요![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev086702_MSG0041",
+      "style": 0,
+      "name": "맡겨 줘모![ST:wait ]"
+    }
+  ]
+}

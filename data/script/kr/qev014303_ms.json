@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev014303_MSG0001",
+      "style": 1,
+      "name": "아하하! 아하하하하하하하하!![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev014303_MSG0002",
+      "style": 1,
+      "name": "푸후후……\n찾~았~다~![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev014303_MSG0003",
+      "style": 1,
+      "name": "아하하하!\n올 줄 알았어! 올 줄 알았어!\n무조건 알렉스를 죽이러 올 거라고![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev014303_MSG0004",
+      "style": 1,
+      "name": "결국 인간이란 죽고 죽이는 세상에서밖에\n살아갈 수 없는 생물이야~\n아하하하하하하! 이상해~![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev014303_MSG0005",
+      "style": 1,
+      "name": "그렇게 딱딱하게 굴지 말고~\n우리랑 놀자아![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev014303_MSG0006",
+      "style": 1,
+      "name": "알렉스!\n내기는 내가 이긴 거다?\n또 외계인 하나 장난감으로 만들어도 돼?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev014303_MSG0007",
+      "style": 1,
+      "name": "그 불쾌하기 짝이 없는 웃음 좀 그만둬\n외계인이라면 마음대로 해[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev014303_MSG0008",
+      "style": 1,
+      "name": "……하지만, 지금은 날 도와줘야겠어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev014303_MSG0009",
+      "style": 1,
+      "name": "아하하하! 알았어~![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev014303_MSG0010",
+      "style": 1,
+      "name": "자아, 그럼 당신을 죽이면\n다음은 누가 죽이러 올까?\n아하! 기대되는걸![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev014303_MSG0011",
+      "style": 1,
+      "name": "아하하하! 져 버렸네!\n유~감![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev014303_MSG0012",
+      "style": 1,
+      "name": "쿨럭…… 아, 피다아, 이상해라~![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev014303_MSG0013",
+      "style": 1,
+      "name": "어라…… 설 수가 없네?\n푸후후…… 후후후……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev014303_MSG0014",
+      "style": 1,
+      "name": "아하하! 오른손도 빠졌어, 빠졌어~!\n아파, 아파~! 아하하하하!!![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev014303_MSG0015",
+      "style": 1,
+      "name": "설마 이 장소를 찾아낼 줄이야……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev014303_JNK0010",
+      "style": 4,
+      "name": "설명한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev014303_SEL0011",
+      "style": 3,
+      "name": "노폰의 정보상에게서\n정보를 입수했다고 알려 준다"
+    },
+    {
+      "$id": 18,
+      "label": "qev014303_JNK0020",
+      "style": 4,
+      "name": "타이른다"
+    },
+    {
+      "$id": 19,
+      "label": "qev014303_SEL0021",
+      "style": 3,
+      "name": "자업자득, 인과응보라고 말한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev014303_MSG0016",
+      "style": 1,
+      "name": "그런가……\n역시 경멸스러운 녀석들이군……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev014303_MSG0017",
+      "style": 1,
+      "name": "흠…… 이 그로우스 녀석들도\n이용하다 버려 줄 생각이었지만……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev014303_MSG0018",
+      "style": 1,
+      "name": "일라이자와 너 때문에\n뜻대로 안 되는군……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev014303_MSG0019",
+      "style": 1,
+      "name": "모든 것은 내 행동 때문……인가\n웃기는군……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev014303_MSG0020",
+      "style": 1,
+      "name": "역시 넌, 그 무지몽매한 여자의\n부하에 불과하다……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev014303_MSG0021",
+      "style": 1,
+      "name": "잊지 마, 이긴 자의 의견이\n무조건 옳다고 생각해선 안 돼……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev014303_MSG0022",
+      "style": 1,
+      "name": "이쪽은 곧 황천길을 건널 위기인데도\n상당히 여유롭군[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev014303_MSG0023",
+      "style": 1,
+      "name": "동료가 매복해 있다 기습할 거라고는\n생각하지도 않는 건가…… 바보 같은 녀석[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev014303_MSG0024",
+      "style": 1,
+      "name": "아니…… 만들어진 존재에게는\n황천도 지옥도 없으려나……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev014303_MSG0025",
+      "style": 1,
+      "name": "난……\n이런 결말을 원했던 건가……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev014303_MSG0026",
+      "style": 1,
+      "name": "일라이자……\n원래…… 그 녀석과는……\n서로를 이해하고 있었는데……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev014303_MSG0027",
+      "style": 1,
+      "name": "훗…… 핫핫핫!![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev014303_MSG0028",
+      "style": 1,
+      "name": "너희들이 말하는 이상이\n보통 수단으로 이루어지리라고는…… 생각하지 마라[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev014303_MSG0029",
+      "style": 1,
+      "name": "훗훗훗……\n앗핫핫!![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev014303_MSG0030",
+      "style": 1,
+      "name": "아하핫!\n하…… 히잇![ST:wait ]"
+    }
+  ]
+}

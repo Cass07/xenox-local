@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085902_MSG0001",
+      "style": 0,
+      "name": "와, 저분이 도로시 씨인가요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085902_MSG0002",
+      "style": 0,
+      "name": "미인이시네요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085902_MSG0003",
+      "style": 0,
+      "name": "아니, 뭐, 그 정도는……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085902_MSG0004",
+      "style": 0,
+      "name": "신고 씨가 겸손하게 굴 일이 아닌데요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085902_MSG0005",
+      "style": 0,
+      "name": "그럼 바로 타츠가 좋아하는 음식을\n물어보고 와 주겠다모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085902_MSG0006",
+      "style": 0,
+      "name": "쓸데없는 짓 안 해도 돼![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085902_MSG0007",
+      "style": 0,
+      "name": "하아, 하지만 너무 예쁜 사람이라서\n저 같은 건 도저히……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085902_MSG0008",
+      "style": 0,
+      "name": "어떻게 하면 저 사람이 기뻐해 줄까요……?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085902_JNK0010",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 10,
+      "label": "qev085902_SEL0011",
+      "style": 3,
+      "name": "선물 작전을 계획한다"
+    },
+    {
+      "$id": 11,
+      "label": "qev085902_JNK0020",
+      "style": 4,
+      "name": "권유"
+    },
+    {
+      "$id": 12,
+      "label": "qev085902_SEL0021",
+      "style": 3,
+      "name": "망설이지 말고 고백할 것을 권한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev085902_MSG0009",
+      "style": 0,
+      "name": "네에? 갑자기 선물을요!?\n식사 초대 같은 게 아니라요?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085902_MSG0010",
+      "style": 0,
+      "name": "식사에 초대하는 것도 좋지만\n요즘엔 식사만으로는 안 돼요![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085902_MSG0011",
+      "style": 0,
+      "name": "깜짝 선물로 인상을 쾅 남겨야죠![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085902_MSG0012",
+      "style": 0,
+      "name": "그런 걸까……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085902_MSG0013",
+      "style": 0,
+      "name": "의외로 나쁘지 않을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085902_MSG0014",
+      "style": 0,
+      "name": "그녀는 패션에 신경 쓰는 것 같으니까[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085902_MSG0015",
+      "style": 0,
+      "name": "식사 때 브레이슬릿 같은\n액세서리를 받으면 좋아하지 않을까?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085902_MSG0016",
+      "style": 0,
+      "name": "무조건 좋아할 거예요![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085902_MSG0017",
+      "style": 0,
+      "name": "그래요!\n여기서는 적극적으로![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085902_MSG0018",
+      "style": 0,
+      "name": "네에? 갑자기요!?\n그렇게는 못 해요![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085902_MSG0019",
+      "style": 0,
+      "name": "너희들, 제대로 생각하고 있는 거야?\n아무리 그래도 그건 무모해[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085902_MSG0020",
+      "style": 0,
+      "name": "역시 그렇겠죠……\n그럼 무난하게 식사에 초대하는 건 어떨까요?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085902_MSG0021",
+      "style": 0,
+      "name": "그게 낫긴 하네요\n하지만 너무 평범할지도……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085902_MSG0022",
+      "style": 0,
+      "name": "그렇다면 그녀는\n패션에 신경 쓰는 것 같으니까[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085902_MSG0023",
+      "style": 0,
+      "name": "식사 때 브레이슬릿 같은\n액세서리라도 선물하면 되지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085902_MSG0024",
+      "style": 0,
+      "name": "그거 좋네요!\n인상도 쾅 남길 수 있겠어요![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085902_MSG0025",
+      "style": 0,
+      "name": "그렇군요![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085902_MSG0026",
+      "style": 0,
+      "name": "하지만 이 미라에서\n예쁜 브레이슬릿 같은 걸 어떻게 구하죠?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085902_MSG0027",
+      "style": 0,
+      "name": "타츠에게 좋은 생각이 있다모!\n반짝반짝 빛나는 돌을 주면 된다모[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085902_MSG0028",
+      "style": 0,
+      "name": "타츠의 아빠도 엄마에게\n그렇게 했었다모![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085902_MSG0029",
+      "style": 0,
+      "name": "오오, 그거 좋다!\n너, 노폰 주제에 센스가 있구나![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085902_MSG0030",
+      "style": 0,
+      "name": "노폰 주제에는 빼도 된다모![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085902_MSG0031",
+      "style": 0,
+      "name": "자, 이런 건 어떤가모?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085902_MSG0032",
+      "style": 0,
+      "name": "어머, 예쁘네[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev085902_MSG0033",
+      "style": 0,
+      "name": "노폰의 인연을 맺는 돌이다모![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev085902_MSG0034",
+      "style": 0,
+      "name": "먹을 것보다 가치가 있는\n굉장한 선물이다모![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev085902_MSG0035",
+      "style": 0,
+      "name": "그럼 바로 그 돌을 찾으러 가요![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev085902_MSG0036",
+      "style": 0,
+      "name": "발견하면 브레이슬릿으로 가공해야겠네[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev085902_MSG0037",
+      "style": 0,
+      "name": "상업 에어리어에 주얼리 숍이 있으니\n거기로 가져가 봐요[ST:wait ]"
+    }
+  ]
+}

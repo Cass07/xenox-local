@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000795_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000795_MSG0002",
+      "style": 1,
+      "name": "今　ラオが置いていったモノをどうしようか\nって話してたんだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000795_MSG0003",
+      "style": 1,
+      "name": "ライフルやスーツ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000795_MSG0004",
+      "style": 1,
+      "name": "シャツにコートにベッドや布団[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000795_MSG0005",
+      "style": 1,
+      "name": "それに高い酒[ST:wide ]―\nあとは家族の写真が入ったフォトフレームだな[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000795_MSG0006",
+      "style": 1,
+      "name": "ザイデンやシンゴはいずれ元の身体を\n取り戻せば　ここに帰ってくるから\n問題ないんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000795_MSG0007",
+      "style": 1,
+      "name": "アイツはな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000795_MSG0008",
+      "style": 1,
+      "name": "お前はどう思う？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000795_JNK0010",
+      "style": 4,
+      "name": "処分"
+    },
+    {
+      "$id": 10,
+      "label": "tev000795_SEL0011",
+      "style": 3,
+      "name": "すべて捨てる"
+    },
+    {
+      "$id": 11,
+      "label": "tev000795_JNK0020",
+      "style": 4,
+      "name": "そのまま"
+    },
+    {
+      "$id": 12,
+      "label": "tev000795_SEL0021",
+      "style": 3,
+      "name": "何一つ触らずに\nそのままにしておく"
+    },
+    {
+      "$id": 13,
+      "label": "tev000795_JNK0030",
+      "style": 4,
+      "name": "お酒"
+    },
+    {
+      "$id": 14,
+      "label": "tev000795_SEL0031",
+      "style": 3,
+      "name": "お酒だけはもらいたい"
+    },
+    {
+      "$id": 15,
+      "label": "tev000795_MSG0009",
+      "style": 1,
+      "name": "容赦ない意見だな[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000795_MSG0010",
+      "style": 1,
+      "name": "行政長官殿もそう言ってたよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000795_MSG0011",
+      "style": 1,
+      "name": "アイツの私物にグロウスのものが混じってる\nとも限らないから危険だってな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000795_MSG0012",
+      "style": 1,
+      "name": "それに新しいブレイド隊員が来たときのために\n部屋は開けておかなければならないしな[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000795_MSG0013",
+      "style": 1,
+      "name": "ただそれだとあまりにも寂しいだろ？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000795_MSG0014",
+      "style": 1,
+      "name": "俺はとりあえずどこか別の場所で\n保管しておいてもらおうと思うんだ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000795_MSG0015",
+      "style": 1,
+      "name": "ヴァンダムのおっさんにもそう言われたよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000795_MSG0016",
+      "style": 1,
+      "name": "フォトフレームくらいは俺が預かって\nおくけどよ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000795_MSG0017",
+      "style": 1,
+      "name": "そうだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000795_MSG0018",
+      "style": 1,
+      "name": "それができればいいよな[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000795_MSG0019",
+      "style": 1,
+      "name": "[ST:wide ]―もし　アイツが戻ってきたら\nそのままにしておいたほうが\n喜ぶとは思うけどよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000795_MSG0020",
+      "style": 1,
+      "name": "でも　ブレイドホームは場所に余裕が\nあるわけじゃない[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000795_MSG0021",
+      "style": 1,
+      "name": "新しいブレイド隊員が来たら\nそいつに部屋をあてがわなきゃならんからな[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000795_MSG0022",
+      "style": 1,
+      "name": "いなくなったヤツの部屋をそのままにってのは\nムリがあるんだ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000795_MSG0023",
+      "style": 1,
+      "name": "全部　押収してどこかに保管するのが\n無難なんだろうな[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000795_MSG0024",
+      "style": 1,
+      "name": "が　フォトフレームくらいは\n預かっておこうと思う[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000795_MSG0025",
+      "style": 1,
+      "name": "オマエな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000795_MSG0026",
+      "style": 1,
+      "name": "こんなときに冗談はよせよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000795_MSG0027",
+      "style": 1,
+      "name": "酒は俺がもらおうと思ってたんだぞ！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000795_MSG0028",
+      "style": 1,
+      "name": "なんてな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000795_MSG0029",
+      "style": 1,
+      "name": "酒は俺が預かっていいか？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000795_MSG0030",
+      "style": 1,
+      "name": "他のものはきっと押収されてから\n処分されちまうだろう[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000795_MSG0031",
+      "style": 1,
+      "name": "でも　酒だったら俺がもっておけるし\nもしアイツが戻ってきたら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000795_MSG0032",
+      "style": 1,
+      "name": "そのとき一緒に飲めるからな[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000795_MSG0033",
+      "style": 1,
+      "name": "あとは[ST:wide ]―フォトフレームか[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000795_MSG0034",
+      "style": 1,
+      "name": "アイツと嫁さんと娘が幸せそうに\n写ってるんだよな[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000795_MSG0035",
+      "style": 1,
+      "name": "俺たちはたくさんの家族を地球に\n置き去りにして白鯨に乗ったんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000795_MSG0036",
+      "style": 1,
+      "name": "戒めってわけじゃないが\n俺たちはそんな犠牲やら責任を背負って\nこの星に今いることを忘れちゃいけないからな[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000795_MSG0037",
+      "style": 1,
+      "name": "お前さんも[ST:wide ]―\nラオやラオの家族の分までがんばろうぜ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000795_MSG0038",
+      "style": 1,
+      "name": "そのために[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev000795_MSG0039",
+      "style": 1,
+      "name": "ラオの武器や防具はお前さんに預けておくよ\nその方がいいだろ？[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev000795_MSG0040",
+      "style": 1,
+      "name": "大丈夫\n少しばかり数が減っても\n俺が叱られるくらいで済むさ[ST:wait ]"
+    }
+  ]
+}

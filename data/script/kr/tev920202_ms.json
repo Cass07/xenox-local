@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev920202_MSG0010",
+      "style": 1,
+      "name": "호오~!\n또다시 NLA의 일대 사건이다모!![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev920202_MSG0020",
+      "style": 1,
+      "name": "그렇다는 건, 즉\n또다시 크게 한몫 챙길 기회라는 거다모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev920202_MSG0030",
+      "style": 1,
+      "name": "그래서 이번에도 너희를 위해\n콘솔을 운반해 왔다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev920202_MSG0035",
+      "style": 1,
+      "name": "게다가~! 지금 한정!\n돌 보험이 만료됐어도\n공짜로 수리가 가능한 캠페인을 개최 중이다모![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev920202_MSG0040",
+      "style": 1,
+      "name": "자, 마구마구 사서\n고스트를 해치우는 거다모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev920202_MSG0050",
+      "style": 1,
+      "name": "자, 마구마구 사서\n고스트를 해치우는 거다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev920202_MSG0060",
+      "style": 1,
+      "name": "덧붙이자면, 차차의 품에는\n무려 특별 보너스로\n매출의 70%가 들어온다모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev920202_MSG0070",
+      "style": 1,
+      "name": "아르바이트를 하는 노폰들도\n일당이 30G에서 50G로 오른다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev920202_MSG0080",
+      "style": 1,
+      "name": "대단한 호경기의 큰 여파로\n차차도 드디어 부자가 된다모!\n호오~ 호오~ 호오~!![ST:wait ]"
+    }
+  ]
+}

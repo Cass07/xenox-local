@@ -1,0 +1,330 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091601_MSG0001",
+      "style": 0,
+      "name": "어머, 착한 아이께서 오셨네\n시비라도 걸려고?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091601_MSG0002",
+      "style": 0,
+      "name": "여전하구나, 머더레스[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091601_MSG0003",
+      "style": 0,
+      "name": "딱히 남자 녀석들 싸움을 막을 생각은 없지만\n부추기는 건 못 봐주겠네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091601_MSG0004",
+      "style": 0,
+      "name": "부추기다니…… 농담도 참[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091601_MSG0005",
+      "style": 0,
+      "name": "힘 좀 쓰는 녀석들을 찾아서\n다음 일에 써먹으려는 건데 말이야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091601_MSG0006",
+      "style": 0,
+      "name": "악취미네……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091601_MSG0007",
+      "style": 0,
+      "name": "너보다는 나은 취미지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091601_MSG0008",
+      "style": 0,
+      "name": "그래도 오늘은 웬일로 나쁘지 않은걸[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091601_MSG0009",
+      "style": 0,
+      "name": "재미있는 애를 데리고 있잖아\n이 쓰레기들보다 매력적이야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091601_MSG0009_m",
+      "style": 0,
+      "name": "재미있는 애를 데리고 있잖아\n이 쓰레기들보다 매력적이야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091601_MSG0009_f",
+      "style": 0,
+      "name": "재미있는 애를 데리고 있잖아\n이 쓰레기들보다 매력적이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091601_JNK0010",
+      "style": 4,
+      "name": "인사한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev091601_SEL0011",
+      "style": 3,
+      "name": "만나서 반갑다고 예의 바르게 인사한다"
+    },
+    {
+      "$id": 14,
+      "label": "qev091601_JNK0020",
+      "style": 4,
+      "name": "대항한다"
+    },
+    {
+      "$id": 15,
+      "label": "qev091601_SEL0021",
+      "style": 3,
+      "name": "자신에게 주목하는 머더레스를 칭찬한다"
+    },
+    {
+      "$id": 16,
+      "label": "qev091601_JNK0030",
+      "style": 4,
+      "name": "겸손하게 말한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev091601_SEL0031",
+      "style": 3,
+      "name": "자신도 쓰레기나 다름없다고 말한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev091601_MSG0010",
+      "style": 0,
+      "name": "제대로 인사도 할 줄 아는 착한 아이구나[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091601_MSG0011",
+      "style": 0,
+      "name": "지고는 못 사는 성격이니? 재미있네[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091601_MSG0012",
+      "style": 0,
+      "name": "얘 정말 재미있는데\n알았어, 쓰레기야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091601_MSG0013",
+      "style": 0,
+      "name": "마음에 들어, 이리나 말고 나한테 올래?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091601_MSG0014",
+      "style": 0,
+      "name": "기다리시지, 지금은 나랑 같은 팀이거든[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091601_MSG0015",
+      "style": 0,
+      "name": "그러면 어쩔 수 없으려나\n내가 네 팀에 들어가 줄게[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091601_MSG0016",
+      "style": 0,
+      "name": "뭐어……!?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091601_MSG0017",
+      "style": 0,
+      "name": "이리나…… 난 너를 싫어하지 않아\n그렇게 짜증 난다는 표정 짓지 마[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091601_MSG0018",
+      "style": 0,
+      "name": "우리가 전혀 다르게 태어났을지는 몰라도\n성장 과정은 비슷하잖아[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091601_MSG0019",
+      "style": 0,
+      "name": "사이좋게 지내도 벌을 받지는 않을걸?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091601_MSG0020",
+      "style": 0,
+      "name": "말은 잘하네, 저번 임무 때\n날 뒤에서 쏜 일, 아직 잊지 않았어[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091601_MSG0021",
+      "style": 0,
+      "name": "난 일석이조를 노리는 효율적인 여자거든[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091601_MSG0022",
+      "style": 0,
+      "name": "이게 진짜……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091601_MSG0023",
+      "style": 0,
+      "name": "그런 얘기는 됐고 넌 나랑 손잡아야 해\n어때? 너도 그편이 좋을 것 같지?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091601_JNK0040",
+      "style": 4,
+      "name": "찬성한다"
+    },
+    {
+      "$id": 33,
+      "label": "qev091601_SEL0041",
+      "style": 3,
+      "name": "부디 함께 일하고 싶다"
+    },
+    {
+      "$id": 34,
+      "label": "qev091601_JNK0050",
+      "style": 4,
+      "name": "반대한다"
+    },
+    {
+      "$id": 35,
+      "label": "qev091601_SEL0051",
+      "style": 3,
+      "name": "인연이 없었다고 생각하라며 사양한다"
+    },
+    {
+      "$id": 36,
+      "label": "qev091601_MSG0024",
+      "style": 0,
+      "name": "그렇게 말할 줄 알았어……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091601_MSG0025",
+      "style": 0,
+      "name": "네 결정은 존중하겠지만\n그래도 잊지 마[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091601_MSG0026",
+      "style": 0,
+      "name": "저 녀석은 위험한 여자야\n애초에 살인자라는 별명만 해도 위험해 보이잖아?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091601_MSG0027",
+      "style": 0,
+      "name": "아무렇지도 않게 남을 짓밟고, 극악무도한 짓을 하고도\n전혀 개의치 않는 냉혹한 녀석이야[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091601_MSG0028",
+      "style": 0,
+      "name": "아기 고양이, 남을 험담하면 안 된다고\n엄마가 안 가르쳐 주셨니?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091601_MSG0029",
+      "style": 0,
+      "name": "그래, 가르쳐 주신 적 없어\n어머니가 안 계신 건 너도 알잖아?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091601_MSG0030",
+      "style": 0,
+      "name": "이리나는 농담이 안 통하네[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091601_MSG0031",
+      "style": 0,
+      "name": "그 탓에 발목 잡히지 않기를 기도하면서……\n임무를 하러 가 볼까[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091601_MSG0032",
+      "style": 0,
+      "name": "목표는 인류의 위대한 발전에\n큰 도움이 될 법한 자원을 회수하는 거야[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091601_MSG0033",
+      "style": 0,
+      "name": "정말이지 컬렉피디언에 어울리는\n따분하기 짝이 없는 임무지만, 잘 부탁해[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091601_MSG0034",
+      "style": 0,
+      "name": "알았어…… 이번만큼은\n아가씨 상대를 해 주지[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091601_MSG0035",
+      "style": 0,
+      "name": "잘 알고 있군\n그 판단은 틀리지 않았어, 만점이야[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091601_MSG0036",
+      "style": 0,
+      "name": "목표는 인류의 위대한 발전에\n큰 도움이 될 법한 자원을 회수하는 거야[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091601_MSG0037",
+      "style": 0,
+      "name": "야, 방금 거절했잖아\n이 녀석도 같이 가지 않겠다고 말했어[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091601_MSG0038",
+      "style": 0,
+      "name": "그런데 어쩌지, 이미 의뢰를 받아 버렸거든\n이번만 잘 부탁할게[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091601_MSG0039",
+      "style": 0,
+      "name": "하여튼…… 여전히 비겁하기는[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091601_MSG0040",
+      "style": 0,
+      "name": "어쩔 수 없지, 이번만큼은\n아가씨 상대를 해 주겠어[ST:wait ]"
+    }
+  ]
+}

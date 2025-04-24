@@ -1,0 +1,480 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091801_MSG0001",
+      "style": 0,
+      "name": "何[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091801_MSG0002",
+      "style": 0,
+      "name": "あなたに殺人の容疑がありますので\n同行願います[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091801_JNK0010",
+      "style": 4,
+      "name": "悲嘆する"
+    },
+    {
+      "$id": 4,
+      "label": "qev091801_SEL0011",
+      "style": 3,
+      "name": "マードレスが一線を越えてしまったことを嘆く"
+    },
+    {
+      "$id": 5,
+      "label": "qev091801_JNK0020",
+      "style": 4,
+      "name": "落ち着く"
+    },
+    {
+      "$id": 6,
+      "label": "qev091801_SEL0021",
+      "style": 3,
+      "name": "冷静になり　事情を尋ねる"
+    },
+    {
+      "$id": 7,
+      "label": "qev091801_JNK0030",
+      "style": 4,
+      "name": "謝罪"
+    },
+    {
+      "$id": 8,
+      "label": "qev091801_SEL0031",
+      "style": 3,
+      "name": "自分がやりましたと謝罪する"
+    },
+    {
+      "$id": 9,
+      "label": "qev091801_MSG0003",
+      "style": 0,
+      "name": "あなたねぇ[ST:wide ]―\nああ　やっぱりって顔しないでくれる？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091801_MSG0004",
+      "style": 0,
+      "name": "私は殺人を犯した覚えはないわ\n詳しく聞かせてくれるかしら？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091801_MSG0005",
+      "style": 0,
+      "name": "えらいわ\nこういう時こそクールに考えないとね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091801_MSG0006",
+      "style": 0,
+      "name": "身に覚えのないことで遺憾だけど\nまずは話を聞いてみましょう[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091801_MSG0007",
+      "style": 0,
+      "name": "いえ　あなたではありません\nコレペディアン所属のマードレスです[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091801_MSG0008",
+      "style": 0,
+      "name": "私？　身に覚えはないわね\n詳しく聞かせてくれるかしら？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091801_MSG0009",
+      "style": 0,
+      "name": "ブレイドが８人連続で\n殺害された事件が起きたのです[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091801_MSG0010",
+      "style": 0,
+      "name": "随分な数ね　誰がヤられたの？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091801_MSG0011",
+      "style": 0,
+      "name": "オブスにジョランダ[ST:wide ]―\nよく存じている名前ですよね？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091801_MSG0012",
+      "style": 0,
+      "name": "ええ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091801_MSG0013",
+      "style": 0,
+      "name": "そう[ST:wide ]―　あのロクでなし達が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091801_MSG0014",
+      "style": 0,
+      "name": "その二名に限らず　全員に共通しているのは\nあなたと一緒の任務に就いたことがある点です[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091801_MSG0015",
+      "style": 0,
+      "name": "あなたは任務の報酬について随分とシビアで\n同行者から不平不満が噴出すると聞きます[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091801_MSG0016",
+      "style": 0,
+      "name": "そして　頻繁に外道な方法を取って\n不評を買っていますし仲間への背信行為も多い[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091801_MSG0017",
+      "style": 0,
+      "name": "彼らの恨みを買って\n険悪な関係になってもおかしくはない[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091801_MSG0018",
+      "style": 0,
+      "name": "それに自らを殺人者と吹聴してる以上[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091801_MSG0019",
+      "style": 0,
+      "name": "一度くらい話を聞かせてもらいたくなるのは\n至極当然でしょう？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091801_JNK0040",
+      "style": 4,
+      "name": "抗議"
+    },
+    {
+      "$id": 27,
+      "label": "qev091801_SEL0041",
+      "style": 3,
+      "name": "ヒメリの時と同様デフィニアの仕業ではないかと主張\nする"
+    },
+    {
+      "$id": 28,
+      "label": "qev091801_JNK0050",
+      "style": 4,
+      "name": "かばう"
+    },
+    {
+      "$id": 29,
+      "label": "qev091801_SEL0051",
+      "style": 3,
+      "name": "マードレスは人殺しをする女性ではないと弁護する"
+    },
+    {
+      "$id": 30,
+      "label": "qev091801_MSG0020",
+      "style": 0,
+      "name": "確かに　デフィニアって\n異星人の可能性が高いんじゃない？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091801_MSG0021",
+      "style": 0,
+      "name": "ヤツらの可能性は我々も考慮しています[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091801_MSG0022",
+      "style": 0,
+      "name": "しかしながら　それでもなお\nまずはあなたに話を聞きたいのです[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091801_MSG0023",
+      "style": 0,
+      "name": "道理ね[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091801_MSG0024",
+      "style": 0,
+      "name": "信じてくれてありがと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091801_MSG0025",
+      "style": 0,
+      "name": "ねぇあなた　私は殺人者を名乗ってるけど\nこれには唾棄すべき理由があるの[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091801_MSG0026",
+      "style": 0,
+      "name": "語りたくはないけど　ただ名前を理由に\n嫌疑をかけるのはやめてちょうだい[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091801_MSG0027",
+      "style": 0,
+      "name": "[ST:wide ]―そうですね\n名前で判断するのは誤りでした　すみません[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091801_MSG0028",
+      "style": 0,
+      "name": "ただ　背信行為については\n抗弁できないと思いますが？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091801_MSG0029",
+      "style": 0,
+      "name": "そうね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091801_MSG0030",
+      "style": 0,
+      "name": "では同行していただきますよ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091801_MSG0031",
+      "style": 0,
+      "name": "待ちな！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091801_MSG0032",
+      "style": 0,
+      "name": "マードレスは金のためなら裏切るし冷酷だし\n外道だけど　人を殺すことだけはしないよ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091801_MSG0033",
+      "style": 0,
+      "name": "そんなことをするとマードレスの目標が\n遠ざかるんだ　するわけないだろ？[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091801_MSG0034",
+      "style": 0,
+      "name": "イリーナ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091801_MSG0035",
+      "style": 0,
+      "name": "イリーナさん言いたいことはわかりますが\nあくまで事情聴取だけであって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091801_MSG0036",
+      "style": 0,
+      "name": "それから永遠に営倉入りに\nなっちまうかもしれないだろ？[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091801_MSG0037",
+      "style": 0,
+      "name": "暫定政府にはマードレスのことを\n煙たがってる人もいるみたいだしさ[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091801_MSG0038",
+      "style": 0,
+      "name": "それではこのまま放免しろと？\nまた被害者が増えるかもしれないんですよ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091801_JNK0060",
+      "style": 4,
+      "name": "進言"
+    },
+    {
+      "$id": 50,
+      "label": "qev091801_SEL0061",
+      "style": 3,
+      "name": "まずはもっと調査すべきだと進言する"
+    },
+    {
+      "$id": 51,
+      "label": "qev091801_JNK0070",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 52,
+      "label": "qev091801_SEL0071",
+      "style": 3,
+      "name": "自分が犯人を捕まえると提案する"
+    },
+    {
+      "$id": 53,
+      "label": "qev091801_MSG0039",
+      "style": 0,
+      "name": "そうだね　あたしもそうすべきだと思う[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091801_MSG0040",
+      "style": 0,
+      "name": "マードレスに事情を聞くとしても\nもっと捜査を進めてからにすべきじゃないか？[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091801_MSG0041",
+      "style": 0,
+      "name": "[ST:wide ]―どうしたものですかね[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091801_MSG0042",
+      "style": 0,
+      "name": "迷う必要はないわ　私達が犯人を捕まえる[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091801_MSG0043",
+      "style": 0,
+      "name": "いいアイディアね\n私達が問題を処理するのが一番確実[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091801_MSG0043_m",
+      "style": 0,
+      "name": "いいアイディアね\n私達が問題を処理するのが一番確実[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091801_MSG0043_f",
+      "style": 0,
+      "name": "いいアイディアね\n私達が問題を処理するのが一番確実[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091801_MSG0044",
+      "style": 0,
+      "name": "それにジョランダ達への手向けにもなる[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091801_MSG0045",
+      "style": 0,
+      "name": "いえ　さすがに\n容疑者を自由に歩かせるわけには[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091801_MSG0046",
+      "style": 0,
+      "name": "問題ないわ　イリーナがいるじゃない[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091801_MSG0047",
+      "style": 0,
+      "name": "あたし？[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev091801_MSG0048",
+      "style": 0,
+      "name": "ああ[ST:wide ]― マードレスの代わりに協力して\n犯人を見つけろってことか[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev091801_MSG0049",
+      "style": 0,
+      "name": "いいよ　やってやるよ[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev091801_MSG0050",
+      "style": 0,
+      "name": "くだらない冗談はよしてよ　子猫ちゃん[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev091801_MSG0051",
+      "style": 0,
+      "name": "私の代わりにイリーナを預けるわ[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev091801_MSG0052",
+      "style": 0,
+      "name": "私が逃亡でもしたら\n煮るなり焼くなりしてあげてちょうだい[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev091801_MSG0053",
+      "style": 0,
+      "name": "ちょっ[ST:wide ]―\nさすがにそれはないんじゃない！？[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev091801_MSG0054",
+      "style": 0,
+      "name": "さっき　私のことを信じてくれたでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev091801_MSG0055",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev091801_MSG0056",
+      "style": 0,
+      "name": "わかった　信用するよ\nコイツもいるから　絶対に大丈夫だろ[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev091801_MSG0056_m",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 74,
+      "label": "qev091801_MSG0056_f",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 75,
+      "label": "qev091801_MSG0057",
+      "style": 0,
+      "name": "ええ　絶対に\n一秒でも早く犯人を見つけてくるから[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev091801_MSG0058",
+      "style": 0,
+      "name": "さあ行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev091801_MSG0058_2",
+      "style": 0,
+      "name": "まずは情報通のエレオノーラに\n話を聞いてみましょう[ST:wait ]"
+    }
+  ]
+}

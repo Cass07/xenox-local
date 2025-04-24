@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000611_MSG0010",
+      "style": 1,
+      "name": "승리 기념 축하주를 마시며\n기분 좋게 취하고 있었는데\n벌써 새로운 싸움이 시작된 거냐고[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000611_MSG0020",
+      "style": 1,
+      "name": "뭐, 투덜거려 봤자 별수 없지\n그게 우리 일이니까[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000611_MSG0030",
+      "style": 1,
+      "name": "그래서, 어떻게 할 건데?\n지금 내 도움이 필요하냐?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000611_JNK0040",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 5,
+      "label": "tev000611_SEL0050",
+      "style": 3,
+      "name": "프라이를 멤버에 넣는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000611_MSG0060",
+      "style": 1,
+      "name": "그래, 얼른 끝내 버리고\n다시 한잔하자고[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000611_JNK0070",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000611_SEL0080",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev000611_MSG0090",
+      "style": 1,
+      "name": "그러냐\n그러면 나는 이 틈에\n술이나 깨야겠다……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000611_MSG0100",
+      "style": 1,
+      "name": "오, 너 살아 있었냐?\n서로 명줄이 질겨서 다행이야, 하하[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000611_MSG0110",
+      "style": 1,
+      "name": "그러면 빨리 가 보자고\n적진 한복판에서는 속 편하게\n술에 취할 수가 없잖냐[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000611_MSG0120",
+      "style": 1,
+      "name": "이런, 내가 몰래 술을 가져온 건\n다른 녀석들한테는 비밀이다, 알았지?[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev042205_MSG0001",
+      "style": 1,
+      "name": "いやあ　すごい　すごいも！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev042205_MSG0002",
+      "style": 1,
+      "name": "ヌポポンを倒すほどの者が現れてくれて\n本当にうれしいも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev042205_MSG0003",
+      "style": 1,
+      "name": "精霊になりたてのころは\n倒せる者なんていないんじゃないかと\n心配していたも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev042205_MSG0004",
+      "style": 1,
+      "name": "ノポポンの人を見る目はすごいも[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev042205_MSG0005",
+      "style": 1,
+      "name": "あんな性格だけど　悪い奴ではないから\n仲良くしてやってくれも[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev042205_JNK0010",
+      "style": 4,
+      "name": "了解"
+    },
+    {
+      "$id": 7,
+      "label": "qev042205_SEL0011",
+      "style": 3,
+      "name": "仲良くすると伝える"
+    },
+    {
+      "$id": 8,
+      "label": "qev042205_JNK0020",
+      "style": 4,
+      "name": "断る"
+    },
+    {
+      "$id": 9,
+      "label": "qev042205_SEL0021",
+      "style": 3,
+      "name": "あんなのとは馴れ合えないと言う"
+    },
+    {
+      "$id": 10,
+      "label": "qev042205_MSG0006",
+      "style": 1,
+      "name": "なんてできた者なんだも……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev042205_MSG0007",
+      "style": 1,
+      "name": "精霊の試練をクリアするのがあんたで\n良かったも……本当に良かったも……！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev042205_MSG0008",
+      "style": 1,
+      "name": "あんたになら精霊の力を与えても\n正しい使い方をしてくれそうだも[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev042205_MSG0009",
+      "style": 1,
+      "name": "それが普通の考えだも[ST:wide ]―\nだが　あんたはここまで来たも[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev042205_MSG0010",
+      "style": 1,
+      "name": "ノポポンと気が合わないのであれば\nこんな試練　受けなければいいだけも[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev042205_MSG0011",
+      "style": 1,
+      "name": "例え気に入らなくても\nちゃんと話を聞いて　やって来たも[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev042205_MSG0012",
+      "style": 1,
+      "name": "並大抵のことではないも[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev042205_MSG0013",
+      "style": 1,
+      "name": "では……ヌポポンの洗礼を\nノポンの原石に与えるも[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev042205_MSG0014",
+      "style": 1,
+      "name": "もんがら～　へんがら～\nふんがらもんがら　ももももも～[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev042205_MSG0015",
+      "style": 1,
+      "name": "はい　終わりだも[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev042205_MSG0016",
+      "style": 1,
+      "name": "最後まで気を抜かずに　がんばれも……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev042205_MSG0017",
+      "style": 1,
+      "name": "…………ん？　なんだも？\nはよ行けも[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev042205_MSG0018",
+      "style": 1,
+      "name": "あっ　そうそう\nノポポンに試練を受ける者を\nまた連れてきてくれっていっといても[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev042205_MSG0019",
+      "style": 1,
+      "name": "ずーっとここでロロングの\n恰好をしてるのも　飽きてきたも[ST:wait ]"
+    }
+  ]
+}

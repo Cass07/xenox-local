@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00120100_MSG0001",
+      "style": 0,
+      "name": "どう　なかなかのものでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00120100_MSG0001_2",
+      "style": 0,
+      "name": "これが白鯨の居住ユニット[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs00120100_MSG0002",
+      "style": 0,
+      "name": "いいえ　今ではここが私達の街[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs00120100_MSG0003",
+      "style": 0,
+      "name": "モデルになった都市からとって\nこう呼んでいるわ[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs00120100_MSG0004",
+      "style": 0,
+      "name": "ニューロサンゼルスと[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs00120100_MSG0005",
+      "style": 0,
+      "name": "ようこそ　ＮＬＡへ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs00120100_MSG0006",
+      "style": 0,
+      "name": "こうして\n地球人類最後の一人を仲間に迎えた私たちは[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs00120100_MSG0006_m",
+      "style": 0,
+      "name": "こうして\n地球人類最後の一人を仲間に迎えた私たちは[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs00120100_MSG0006_f",
+      "style": 0,
+      "name": "こうして\n地球人類最後の一人を仲間に迎えた私たちは[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs00120100_MSG0007",
+      "style": 0,
+      "name": "この未開の惑星ミラで\n生きていく決意を固めました[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs00120100_MSG0008",
+      "style": 0,
+      "name": "光に包まれ　消えていった故郷の星\n地球[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs00120100_MSG0008_2",
+      "style": 0,
+      "name": "戻ることも叶わない　永久への旅[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs00120100_MSG0009",
+      "style": 0,
+      "name": "晴れ渡ったニューロサンゼルスの空とは裏腹に[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs00120100_MSG0010",
+      "style": 0,
+      "name": "私たちの未来は\n未だ深い霧に包まれたままでした[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs00120100_MSG0011",
+      "style": 0,
+      "name": "それでも私たちは[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

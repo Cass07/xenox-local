@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000695_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]か\nこんなところで会うなんて\nお前さん暇してるのか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000695_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 3,
+      "label": "tev000695_SEL0011",
+      "style": 3,
+      "name": "フライは何をしているのか\n尋ねる"
+    },
+    {
+      "$id": 4,
+      "label": "tev000695_JNK0020",
+      "style": 4,
+      "name": "素直"
+    },
+    {
+      "$id": 5,
+      "label": "tev000695_SEL0021",
+      "style": 3,
+      "name": "フライに会いに来た\nと言う"
+    },
+    {
+      "$id": 6,
+      "label": "tev000695_MSG0002",
+      "style": 1,
+      "name": "似合わないだろうが\n酒も飲まずにしんみりとしてんのさ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000695_MSG0003",
+      "style": 1,
+      "name": "そいつはありがとよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000695_MSG0004",
+      "style": 1,
+      "name": "[ST:wide ]―俺の話を聞いてくれるか？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000695_MSG0005",
+      "style": 1,
+      "name": "地球のことが\nやけに頭から離れない時があるんだ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000695_MSG0006",
+      "style": 1,
+      "name": "ダウンタウンの雑多な街並み\nそのちょっと路地を奥へ行った所にある[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000695_MSG0007",
+      "style": 1,
+      "name": "通い詰めてた　小汚いバーに\nそこにいた　常連の仲間達……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000695_MSG0008",
+      "style": 1,
+      "name": "もう　みんな戻ってこないんだ……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000695_MSG0009",
+      "style": 1,
+      "name": "この星のことも気に入っちゃいるが\n故郷のことが思い出されるのは当然だろ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000695_MSG0010",
+      "style": 1,
+      "name": "今考えてもどうにもならないことは\n理解してるつもりだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000695_MSG0011",
+      "style": 1,
+      "name": "けどよ　もし地球が今でも残ってたら……\nなんて幻想にすがりつきたくなっちまう[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000695_MSG0012",
+      "style": 1,
+      "name": "[ST:wide ]―こういうときどうすりゃいいと思う？\n悩みを振り払うアドバイスをくれよ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000695_JNK0030",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 18,
+      "label": "tev000695_SEL0031",
+      "style": 3,
+      "name": "飲んで飲んで飲みまくるべき\nだと提案する"
+    },
+    {
+      "$id": 19,
+      "label": "tev000695_JNK0040",
+      "style": 4,
+      "name": "当然"
+    },
+    {
+      "$id": 20,
+      "label": "tev000695_SEL0041",
+      "style": 3,
+      "name": "飲みに行くしかないと\n答える"
+    },
+    {
+      "$id": 21,
+      "label": "tev000695_MSG0013",
+      "style": 1,
+      "name": "だよなぁ！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000695_MSG0014",
+      "style": 1,
+      "name": "こういう日は飲んでもあまり酔わないが\nとにかく飲まないと始まらないよな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000695_MSG0015",
+      "style": 1,
+      "name": "この前　お前さんが勧めてくれた\nビールを飲みまくるよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000695_MSG0016",
+      "style": 1,
+      "name": "この前　お前さんが勧めてくれた\nカクテルを飲みまくるよ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000695_MSG0017",
+      "style": 1,
+      "name": "この前　お前さんが勧めてくれた\nワインを飲みまくるよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000695_MSG0018",
+      "style": 1,
+      "name": "この前　お前さんが勧めてくれた\nウォッカを飲みまくるよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000695_MSG0019",
+      "style": 1,
+      "name": "この前　お前さんが勧めてくれた\n日本酒を飲みまくるよ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000695_MSG0020",
+      "style": 1,
+      "name": "俺の大好きなスコッチを浴びるほどに飲むぜ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000695_MSG0021",
+      "style": 1,
+      "name": "今日はフォグもインターセプターの野郎どもも\n巻き込んで朝まで飲み明かすわ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000695_MSG0022",
+      "style": 1,
+      "name": "それから二日酔いのまま\nオーバードを倒しに行くんだ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000695_MSG0023",
+      "style": 1,
+      "name": "そうしてまったくいつも通りの日常が\nできあがるんだよな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000695_MSG0024",
+      "style": 1,
+      "name": "そう　今はそれでいいんだよな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000695_MSG0025",
+      "style": 1,
+      "name": "話　聞いてくれてありがとな！\n時間があったらお前も来いよ！[ST:wait ]"
+    }
+  ]
+}

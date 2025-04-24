@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev056502_MSG0001",
+      "style": 1,
+      "name": "おや　あなたは……\n私に何か用事があるようですね？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev056502_MSG0002",
+      "style": 1,
+      "name": "……ガードマシンの具合が　おかしい？\nそれは問題です[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev056502_MSG0003",
+      "style": 1,
+      "name": "もしビアーノ浄水場に何かが起これば\nセニラパ水も作れなくなります[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev056502_MSG0004",
+      "style": 1,
+      "name": "私たちにとっても重要な問題[ST:wide ]―\nすぐビアーノ浄水場に行きましょう[ST:wait ]"
+    }
+  ]
+}

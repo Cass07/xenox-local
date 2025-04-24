@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092710_MSG0010",
+      "style": 0,
+      "name": "……슬슬 돌아가자[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092710_MSG0020",
+      "style": 0,
+      "name": "곧 흐레스벨그 양산 계획이\n발표될 거다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092710_MSG0030",
+      "style": 0,
+      "name": "흐레스벨그는 좋은 기체야\n너도 꼭 써 봤으면 한다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092710_MSG0040",
+      "style": 0,
+      "name": "음, 그리고……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092710_MSG0045",
+      "style": 0,
+      "name": "이건 아직 공표되지 않은 내용인데……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092710_MSG0050",
+      "style": 0,
+      "name": "사실 흐레스벨그에는\n기존 돌에 없는 특수한 기구가 있어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092710_MSG0060",
+      "style": 0,
+      "name": "아직 개발 도중이지만\n당신도 분명 놀랄 거야, 기대해도 돼[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092710_MSG0070",
+      "style": 0,
+      "name": "그리고 또 하나……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092710_MSG0080",
+      "style": 0,
+      "name": "혹시 내 힘이 필요하다면\n언제든지 불러 줘[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092710_MSG0090",
+      "style": 0,
+      "name": "돌 조종이라면 자신 있다\n분명 블레이드 일에 도움이 되겠지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092710_MSG0100",
+      "style": 0,
+      "name": "리젤은 그라나다에 오기 전까지 공군에 있었고\n젊은 나이에 교관도 맡았던 베테랑이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092710_MSG0110",
+      "style": 0,
+      "name": "그 영웅 알로이스 브루놀트와\n견주어도 밀리지 않는다고 확신해[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092710_MSG0120",
+      "style": 0,
+      "name": "그건…… 아무래도 과대평가인데[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092710_MSG0130",
+      "style": 0,
+      "name": "아무튼, 너와는 좋은 전우가\n될 수 있을 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092710_MSG0140",
+      "style": 0,
+      "name": "괜찮다면 앞으로도 잘 부탁한다[ST:wait ]"
+    }
+  ]
+}

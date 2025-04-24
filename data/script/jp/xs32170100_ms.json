@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32170100_MSG0010",
+      "style": 0,
+      "name": "よう　調子はどうだ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32170100_MSG0020",
+      "style": 0,
+      "name": "最悪よ　そっちはどう？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32170100_MSG0030",
+      "style": 0,
+      "name": "君よりはいい　つまり最高だ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32170100_MSG0040",
+      "style": 0,
+      "name": "[ST:wide ]―聞いたかよ　アイツのセリフ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32170100_MSG0050",
+      "style": 0,
+      "name": "ええ　期待通りだったみたいね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32170100_MSG0070",
+      "style": 0,
+      "name": "ああ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32170100_MSG0080",
+      "style": 0,
+      "name": "でもどうして決断を委ねたの？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32170100_MSG0090",
+      "style": 0,
+      "name": "もしオレが倒れても\n人類の未来を託すことができる[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32170100_MSG0100",
+      "style": 0,
+      "name": "あいつはそういうヤツだからな[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32170100_MSG0110",
+      "style": 0,
+      "name": "らしくないわね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32170100_MSG0120",
+      "style": 0,
+      "name": "今のオレ達には　この世のものすべて[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32170100_MSG0130",
+      "style": 0,
+      "name": "世界をまるごと愛する覚悟[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32170100_MSG0140",
+      "style": 0,
+      "name": "それを受け継ぐヤツが必要なんだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32170100_MSG0150",
+      "style": 0,
+      "name": "もう一人の自分が欲しいのね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32170100_MSG0160",
+      "style": 0,
+      "name": "地球を脱出する時[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32170100_MSG0170",
+      "style": 0,
+      "name": "私の制止も聞かず\nアレスで突っ走って行った自分のような[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32170100_MSG0180",
+      "style": 0,
+      "name": "アル[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32170100_MSG0190",
+      "style": 0,
+      "name": "避難民の誘導は頼んだ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32170100_MSG0200",
+      "style": 0,
+      "name": "オレは外で船を護る[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32170100_MSG0210",
+      "style": 0,
+      "name": "敵の数は圧倒的よ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32170100_MSG0220",
+      "style": 0,
+      "name": "アレス一機で\n状況を変えられるものではないわ！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32170100_MSG0230",
+      "style": 0,
+      "name": "やってみなくちゃわかんねぇだろうが！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32170100_MSG0240",
+      "style": 0,
+      "name": "アル[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32170100_MSG0250",
+      "style": 0,
+      "name": "こっちから攻め入って　活路を開く[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32170100_MSG0260",
+      "style": 0,
+      "name": "丸ごと護り切ってやる[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32170100_MSG0270",
+      "style": 0,
+      "name": "地球の人間を[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32170100_MSG0280",
+      "style": 0,
+      "name": "ここで終わらせたりはしない！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32170100_MSG0290",
+      "style": 0,
+      "name": "そうね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32170100_MSG0300",
+      "style": 0,
+      "name": "あの人は　あの時のあなたにそっくりだわ[ST:wait ]"
+    }
+  ]
+}

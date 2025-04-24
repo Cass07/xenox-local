@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08140150_MSG0001",
+      "style": 0,
+      "name": "イリーナさん　グインさん\n二人共ご無事で[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08140150_MSG0002",
+      "style": 0,
+      "name": "ああ　あたし達は無事なんだけど\nマーカスの奴が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08140150_MSG0003",
+      "style": 0,
+      "name": "マーカスがどうしたの？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08140150_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―敵の攻撃で戦死しました[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08140150_MSG0005",
+      "style": 0,
+      "name": "えっ　マーカスさんが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08140150_MSG0006",
+      "style": 0,
+      "name": "中尉　セントラルライフを見つけたら[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs08140150_MSG0007",
+      "style": 0,
+      "name": "マーカスのために真っ先に\n最新型の[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]用意してやりましょう[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs08140150_JNK0010",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 9,
+      "label": "xs08140150_SEL0011",
+      "style": 3,
+      "name": "イケメンの最新型を勧める"
+    },
+    {
+      "$id": 10,
+      "label": "xs08140150_JNK0020",
+      "style": 4,
+      "name": "意見"
+    },
+    {
+      "$id": 11,
+      "label": "xs08140150_SEL0021",
+      "style": 3,
+      "name": "モデル体型の最新型を勧める"
+    },
+    {
+      "$id": 12,
+      "label": "xs08140150_MSG0008",
+      "style": 0,
+      "name": "そうですよ\nグインさんよりイケメンの[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]をね！[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs08140150_MSG0009",
+      "style": 0,
+      "name": "ついでに背が高くて\n細マッチョなのがいいですも！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08140150_MSG0010",
+      "style": 0,
+      "name": "そうですも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08140150_MSG0011",
+      "style": 0,
+      "name": "グインさんよりも背が高くて　しかも\n細マッチョなのを用意してあげるですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs08140150_MSG0012",
+      "style": 0,
+      "name": "それとイケメンのやつ！[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs08140150_MSG0013",
+      "style": 0,
+      "name": "二人共　それただの悪口だよ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs08140150_MSG0014",
+      "style": 0,
+      "name": "そうだな！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs08140150_MSG0015",
+      "style": 0,
+      "name": "グインよりイケメンで背の高い\n最新式の[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]を奪ってやろう！[ST:wait ]\n"
+    },
+    {
+      "$id": 20,
+      "label": "xs08140150_MSG0016",
+      "style": 0,
+      "name": "中尉まで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs08140150_MSG0017",
+      "style": 0,
+      "name": "エルマ大佐　奴らにしてやられましたね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs08140150_MSG0018",
+      "style": 0,
+      "name": "でもあれ　奴らにとっての神像って話でしょ？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs08140150_MSG0019",
+      "style": 0,
+      "name": "神像の一体や二体取られたからって[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs08140150_MSG0020",
+      "style": 0,
+      "name": "だといいのだけれど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs08140150_MSG0021",
+      "style": 0,
+      "name": "大佐？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs08140150_MSG0022",
+      "style": 0,
+      "name": "とにかく　グロウスの狙いが\n何であろうと関係ない[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs08140150_MSG0023",
+      "style": 0,
+      "name": "私達の任務はＮＬＡを防衛すること\nそして　それは果たされた[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs08140150_MSG0024",
+      "style": 0,
+      "name": "確かに[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "xs08140150_MSG0025",
+      "style": 0,
+      "name": "エルマ大佐の言う通りっすよ\n僕達　勝ったんだ！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs08140150_MSG0026",
+      "style": 0,
+      "name": "そうか　そうですよね[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs08140150_MSG0027",
+      "style": 0,
+      "name": "それじゃ　みんなでヴァンダム司令に\n報告に行きましょうか？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs08140150_MSG0028",
+      "style": 0,
+      "name": "ああ　そうしよう[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs08140150_MSG0029",
+      "style": 0,
+      "name": "悪いけどイリーナ達だけ\n先に行ってもらってもいいかしら？[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs08140150_MSG0030",
+      "style": 0,
+      "name": "格納庫の様子が気になってね[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs08140150_MSG0031",
+      "style": 0,
+      "name": "分かりました[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs08140150_MSG0032",
+      "style": 0,
+      "name": "では　私達は任務の報告に行きます\n失礼します[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs08140150_MSG0033",
+      "style": 0,
+      "name": "私達は格納庫に向かいましょう[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs08140150_MSG0034",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    }
+  ]
+}

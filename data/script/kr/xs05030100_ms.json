@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05030100_MSG0001",
+      "style": 0,
+      "name": "아, 정말 린의 요리는 언제 먹어도 맛있어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs05030100_MSG0002",
+      "style": 0,
+      "name": "고맙습니다!\n그런데 죄송해요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs05030100_MSG0003",
+      "style": 0,
+      "name": "두 분이 오실 줄 알았으면\n더 많이 준비해 뒀을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs05030100_MSG0004",
+      "style": 0,
+      "name": "정말 그렇다모!\n타츠가 먹을 게 줄어들었다모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs05030100_MSG0005",
+      "style": 0,
+      "name": "미안, 미안[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs05030100_MSG0006",
+      "style": 0,
+      "name": "그윈 녀석, 키는 작으면서 먹는 양은\n남들의 3배나 되니, 웃기는 일이지?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs05030100_MSG0007",
+      "style": 0,
+      "name": "키가 작다는 말은 안 하셔도 돼요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs05030100_MSG0008",
+      "style": 0,
+      "name": "애초에 이리나 중위님이\n저보다 많이 드셨잖아요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs05030100_MSG0009",
+      "style": 0,
+      "name": "그런데 너희들……\n뭔가 용건이 있는 거 아니었어?[ST:wait ]"
+    }
+  ]
+}

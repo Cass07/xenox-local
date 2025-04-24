@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086809_MSG0001",
+      "style": 1,
+      "name": "無理強いはさせたくないが[ST:wide ]―\n皆それぞれ持てる能力を最大限生かし[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086809_MSG0002",
+      "style": 1,
+      "name": "過酷なミラで生き延びるため\n様々な貢献をしているのだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086809_MSG0003",
+      "style": 1,
+      "name": "彼も　このNLAの市民である以上\nその責務を果たしてもらわねばな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086809_MSG0004",
+      "style": 1,
+      "name": "どうやら彼女は　一人で白樹の大陸へ\n向かったようだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086809_MSG0005",
+      "style": 1,
+      "name": "巨体を有する彼に　最も向いている役目が\n戦闘任務だと考えたのだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086809_MSG0006",
+      "style": 1,
+      "name": "そんな私の判断が\n彼女を追いつめてしまったということか[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

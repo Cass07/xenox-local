@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087401_MSG0001",
+      "style": 0,
+      "name": "누가 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087401_MSG0002",
+      "style": 0,
+      "name": "미안한데, 차 한 잔 주겠나?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087401_MSG0003",
+      "style": 0,
+      "name": "네~ 반담 사령관님\n요즘 여기 자주 오시네요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087401_MSG0004",
+      "style": 0,
+      "name": "아저씨, 왠지 한가해 보인다모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087401_MSG0005",
+      "style": 0,
+      "name": "그래, 그건 좋은 일이지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087401_MSG0006",
+      "style": 0,
+      "name": "조직이라는 건 윗사람이 한가할수록\n잘 돌아가고 있다는 뜻이니까[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087401_MSG0007",
+      "style": 0,
+      "name": "일리는 있지만……\n농땡이 피우려는 구실로도 들리네[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087401_MSG0008",
+      "style": 0,
+      "name": "의외로 블레이드 사령관이라는 것도\n편한 일일지도 모르겠어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087401_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 10,
+      "label": "qev087401_SEL0011",
+      "style": 3,
+      "name": "누구나 할 수 있다고 도발해 본다"
+    },
+    {
+      "$id": 11,
+      "label": "qev087401_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 12,
+      "label": "qev087401_SEL0021",
+      "style": 3,
+      "name": "반담 외에는 어려울 거라며 아부한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev087401_MSG0009",
+      "style": 0,
+      "name": "이런, 엘마 팀은 하나같이\n사령관직을 얕보고 있군[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087401_MSG0010",
+      "style": 0,
+      "name": "잘 알고 있군[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087401_MSG0011",
+      "style": 0,
+      "name": "그에 비해 엘마와 린은\n사령관직을 얕보고 있고[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087401_MSG0012",
+      "style": 0,
+      "name": "그래, 좋다 제군들\n블레이드 사령관의 하루를 꼼꼼히 관찰해 보도록[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087401_MSG0013",
+      "style": 0,
+      "name": "하루 종일 당신을 따라다니라는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087401_MSG0014",
+      "style": 0,
+      "name": "그럼 자네들의 임무를 수행할 수 없지 않나\n우선은 아침 시간에 나를 찾아 보게[ST:wait ]"
+    }
+  ]
+}

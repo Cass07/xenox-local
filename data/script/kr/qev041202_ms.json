@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev041202_MSG0001",
+      "style": 1,
+      "name": "오, 왔나, 수전노 녀서억[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev041202_MSG0002",
+      "style": 1,
+      "name": "므하하하~\n매번 고맙다모~[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev041202_MSG0003",
+      "style": 1,
+      "name": "리더의 지시가 있어서 말이지이\n오늘 물건은 안쪽에 옮겨 둬[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev041202_MSG0004",
+      "style": 1,
+      "name": "응?\n오늘은 처음 보는 녀석을 데려왔구나아[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev041202_MSG0005",
+      "style": 1,
+      "name": "아니, 지구인이지 않은가아![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev041202_MSG0006",
+      "style": 1,
+      "name": "이거 배짱이 좋구나아!\n일부러 죽으러 온 것이냐아![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev041202_MSG0007",
+      "style": 1,
+      "name": "잠! 자자자자자잠깐!\n아니다모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev041202_MSG0008",
+      "style": 1,
+      "name": "이쪽은 비즈니스상의 어시스턴트랄까\n심부름꾼이랄까……\n그, 부하 같은 거다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev041202_MSG0009",
+      "style": 1,
+      "name": "최근에 힘을 쓰는 일이 힘들어져서\n가난해 보이는 사람을 적당히 고용한 거다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev041202_MSG0010",
+      "style": 1,
+      "name": "바이어스인의 적이 될 만한\n대단한 녀석이 아니니까\n이번에는 너그럽게 봐주길 바란다모![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev041202_MSG0011",
+      "style": 1,
+      "name": "부하라고오?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev041202_MSG0012",
+      "style": 1,
+      "name": "………………[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev041202_MSG0013",
+      "style": 1,
+      "name": "하! 꼴에 부하라니 웃기는군![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev041202_MSG0014",
+      "style": 1,
+      "name": "그런 하찮은 녀석이라면\n못 본 척해 줄 수도 있지만[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev041202_MSG0015",
+      "style": 1,
+      "name": "여길 무사히 통과한다고 해도\n안에서는 어떻게 될지 모른다고오?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev041202_MSG0016",
+      "style": 1,
+      "name": "므하하\n그런 건 뭐, 자기 책임인 걸로 해 뒀다모[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev041202_MSG0017",
+      "style": 1,
+      "name": "음…… 그럼\n오늘은 안쪽까지 물건을 가져가겠다모![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev041202_MSG0018",
+      "style": 1,
+      "name": "착착 끝내겠다모!\n실례하겠다모~![ST:wait ]"
+    }
+  ]
+}

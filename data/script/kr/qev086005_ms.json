@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086005_MSG0013",
+      "style": 1,
+      "name": "재료는…… 아직 모이지 않은 것 같네요\n파츠 생산에 필요한 것 중에서도\n특히 에너지 튜브 같은 건[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086005_MSG0012",
+      "style": 1,
+      "name": "풍파의 요새에 있는 폰 베르데 같은\n무서운 적을 쓰러뜨려야만 얻을 수 있는\n희귀한 마테리얼이라[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086005_MSG0011",
+      "style": 1,
+      "name": "모으기 힘들겠지만……\n모쪼록 잘 부탁드려요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086005_MSG0001",
+      "style": 0,
+      "name": "역시 엘마 팀이네요\n정말 모든 재료를 모아 오다니[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086005_MSG0002",
+      "style": 0,
+      "name": "이걸로 정밀도 높은 파츠를\n생산할 수 있게 되는 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086005_MSG0003",
+      "style": 0,
+      "name": "네, 앞으로는 잔해를\n회수하러 가지 않아도 될 거예요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086005_MSG0004",
+      "style": 0,
+      "name": "이렇게 조금씩……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086005_MSG0005",
+      "style": 0,
+      "name": "우리는 이 행성에서 살아가기 위한 뿌리를\n뻗어 가고 있어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086005_MSG0006",
+      "style": 0,
+      "name": "린, 너 같은\n프로페셔널한 사람들 덕분이야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086005_MSG0007",
+      "style": 0,
+      "name": "그리고 우리를 받아들여 준\n미라의 선주민 덕분이죠……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086005_MSG0008",
+      "style": 0,
+      "name": "그거 다행이다모~~[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086005_MSG0009",
+      "style": 0,
+      "name": "자, 다음은 타츠의 배를 구해 줘야지\n약속대로 맛있는 걸 만들어 줄게![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086005_MSG0010",
+      "style": 0,
+      "name": "와~ 신난다모!\n린 씨, 정말 좋다모~~![ST:wait ]"
+    }
+  ]
+}

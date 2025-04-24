@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087402_MSG0001",
+      "style": 0,
+      "name": "朝はここで食事をとることが多いと\n聞いたのだけれど[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087402_MSG0002",
+      "style": 0,
+      "name": "あ　いたですも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087402_MSG0003",
+      "style": 0,
+      "name": "ようし　少し観察しちゃいましょう[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087402_MSG0004",
+      "style": 0,
+      "name": "食べ終わったのに　ずっと居座ってますね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087402_MSG0005",
+      "style": 0,
+      "name": "やっぱり　ヒマそうですも[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087402_MSG0006",
+      "style": 0,
+      "name": "ヴァサルトによる被害が拡大！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087402_MSG0007",
+      "style": 0,
+      "name": "ベン　ミランダ　コーネルのチームが討伐に\nあたっていますが　成果が出ていない状況です[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087402_MSG0008",
+      "style": 0,
+      "name": "あぁ　ヴァサルトなんざドタマの一本角を\n壊してやりゃあチョロいだろう[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087402_MSG0009",
+      "style": 0,
+      "name": "綺麗なオレンジ色の皮下組織が露出すっから\nそこにビーム兵器をバーっと撃ちこんでやれ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087402_MSG0010",
+      "style": 0,
+      "name": "気楽にいけよ　気楽に[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087402_MSG0011",
+      "style": 0,
+      "name": "サクラバインダストリーからミラニウムの\n納品量が予定に達していないとのクレームです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087402_MSG0012",
+      "style": 0,
+      "name": "そりゃ大変だなぁ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087402_MSG0013",
+      "style": 0,
+      "name": "まあ　とりあえず\nデータプローブの数増やすなり[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087402_MSG0014",
+      "style": 0,
+      "name": "繋ぎ方工夫するなりで\nやってみりゃいいんじゃないか？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087402_MSG0015",
+      "style": 0,
+      "name": "なんだか　キンチョーカンがないですも！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087402_MSG0016",
+      "style": 0,
+      "name": "こんなとこ見せるために\n見つけてみろとか言ってたの？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087402_MSG0017",
+      "style": 0,
+      "name": "お　見つかったか\nどうだ　朝の俺様の優雅な仕事ぶりは？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087402_MSG0018",
+      "style": 0,
+      "name": "あんまりよく分からなかったわ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087402_MSG0019",
+      "style": 0,
+      "name": "そうかそうか　まあ無理もない\nじゃあ　次は昼の顔を見せてやろう[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087402_MSG0020",
+      "style": 0,
+      "name": "ええ～　また見つけろっていうんですか？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087402_MSG0021",
+      "style": 0,
+      "name": "そういうことだ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085805_MSG0001",
+      "style": 0,
+      "name": "데이터 프로브는\n문제없이 기동하고 있는 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085805_MSG0002",
+      "style": 0,
+      "name": "이걸로 이 지역 데이터도\n프런티어넷에 반영되겠네요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085805_MSG0003",
+      "style": 0,
+      "name": "여러분 덕분이에요\n감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085805_MSG0004",
+      "style": 0,
+      "name": "저, 감동했습니다!\n소문 이상이에요![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085805_MSG0005",
+      "style": 0,
+      "name": "아니, 당신들의 팀워크가 있어서\n임무를 달성할 수 있었던 거야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085805_MSG0006",
+      "style": 0,
+      "name": "흐으음, 역시 이 두 사람……\n의심스럽다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085805_MSG0007",
+      "style": 0,
+      "name": "우리는 NLA로 돌아가도 괜찮을까?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085805_MSG0008",
+      "style": 0,
+      "name": "네, 저희는 데이터 프로브를\n조금 더 계측하고 돌아가겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085805_MSG0009",
+      "style": 0,
+      "name": "알겠어, 우리 먼저 돌아가자[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085805_MSG0010",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    }
+  ]
+}

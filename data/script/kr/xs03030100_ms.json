@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03030100_MSG0001",
+      "style": 0,
+      "name": "응답이 없어서 각오는 했지만……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs03030100_MSG0002",
+      "style": 0,
+      "name": "이 파손된 곳들을 보면 교전이 있었던 것 같네요\n원시 생물의 발톱 자국이 아니에요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs03030100_MSG0003",
+      "style": 0,
+      "name": "대원들도 보이지 않아……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs03030100_MSG0004",
+      "style": 0,
+      "name": "제 발로 어디론가 도망갔거나\n그렇지 않으면 잡혀갔거나[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs03030100_JNK0010",
+      "style": 4,
+      "name": "낙관"
+    },
+    {
+      "$id": 6,
+      "label": "xs03030100_SEL0011",
+      "style": 3,
+      "name": "근처 수색을 제안한다"
+    },
+    {
+      "$id": 7,
+      "label": "xs03030100_JNK0020",
+      "style": 4,
+      "name": "비관"
+    },
+    {
+      "$id": 8,
+      "label": "xs03030100_SEL0021",
+      "style": 3,
+      "name": "고개를 떨구며 대원의 명복을 빈다"
+    },
+    {
+      "$id": 9,
+      "label": "xs03030100_MSG0005",
+      "style": 0,
+      "name": "그렇네, 근처를 탐색해 보자\n대원들을 찾을 수 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs03030100_MSG0006",
+      "style": 0,
+      "name": "그런 생각으로는\n이 행성에서 살아남을 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs03030100_MSG0007",
+      "style": 0,
+      "name": "포기하면 거기서 모든 게 끝이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs03030100_MSG0007_2",
+      "style": 0,
+      "name": "우선은 주변을 탐색해 보자[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs03030100_MSG0008",
+      "style": 0,
+      "name": "잠깐만 기다려 주세요, 엘마 씨[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs03030100_MSG0009",
+      "style": 0,
+      "name": "저 방향에서 지구 규격의 IFF 발신이……\n패스파인더의 반응이에요![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs03030100_MSG0010",
+      "style": 0,
+      "name": "저곳은……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs03030100_MSG0011",
+      "style": 0,
+      "name": "명백한 인공물……이죠?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs03030100_MSG0012",
+      "style": 0,
+      "name": "저 구조……\n마치 요새 같네[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs03030100_MSG0013",
+      "style": 0,
+      "name": "이걸 봐 주세요\n저희와는 다른 생체 반응이……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs03030100_MSG0014",
+      "style": 0,
+      "name": "내부에서 미확인 생명체가 활동하고 있는 것 같아요\n엘마 씨, 이 움직임……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs03030100_JNK0030",
+      "style": 4,
+      "name": "확신"
+    },
+    {
+      "$id": 21,
+      "label": "xs03030100_SEL0031",
+      "style": 3,
+      "name": "지적 생명체의 존재를 의미한다"
+    },
+    {
+      "$id": 22,
+      "label": "xs03030100_JNK0040",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 23,
+      "label": "xs03030100_SEL0041",
+      "style": 3,
+      "name": "원시 생물일 거라고 말한다"
+    },
+    {
+      "$id": 24,
+      "label": "xs03030100_MSG0015",
+      "style": 0,
+      "name": "그렇네[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs03030100_MSG0016",
+      "style": 0,
+      "name": "아니야[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs03030100_MSG0017",
+      "style": 0,
+      "name": "질서 있는 집단행동을 하고 있어\n지적 생명체가 확실해[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs03030100_MSG0018",
+      "style": 0,
+      "name": "이게 이 행성의 선주민인지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs03030100_MSG0019",
+      "style": 0,
+      "name": "우리처럼 외부에서 온 생물인지는\n모르겠지만[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs03030100_MSG0020",
+      "style": 0,
+      "name": "지구를 싸움에 말려들게 한 종족일까요?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs03030100_MSG0021",
+      "style": 0,
+      "name": "우주에는 지구 인류의 상상을 뛰어넘는\n세계가 펼쳐져 있어[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs03030100_MSG0022",
+      "style": 0,
+      "name": "아직은 어떤 가능성도 배제할 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs03030100_MSG0023",
+      "style": 0,
+      "name": "NLA에 지원 요청을 보낼까요?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs03030100_MSG0024",
+      "style": 0,
+      "name": "무전이 새어 나갈 가능성도 있어\n지금은 통신을 봉쇄하고 대원들을 구출하자[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs03030100_MSG0025",
+      "style": 0,
+      "name": "네 녀석들 뭘 하는 거냐아![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs03030100_MSG0026",
+      "style": 0,
+      "name": "앗!?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs03030100_MSG0027",
+      "style": 0,
+      "name": "방심했어\n전방에만 너무 집중했어![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs03030100_MSG0028",
+      "style": 0,
+      "name": "지구인인가아?\n왜 여기에 있냐아![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs03030100_MSG0029",
+      "style": 0,
+      "name": "지구인을 알고 있어\n그렇다는 건 역시 이곳에……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs03030100_JNK0050",
+      "style": 4,
+      "name": "원만"
+    },
+    {
+      "$id": 40,
+      "label": "xs03030100_SEL0051",
+      "style": 3,
+      "name": "경계를 풀고 대화한다"
+    },
+    {
+      "$id": 41,
+      "label": "xs03030100_JNK0060",
+      "style": 4,
+      "name": "호전적"
+    },
+    {
+      "$id": 42,
+      "label": "xs03030100_SEL0061",
+      "style": 3,
+      "name": "싸울 자세를 잡는다"
+    },
+    {
+      "$id": 43,
+      "label": "xs03030100_MSG0030",
+      "style": 0,
+      "name": "왜 그러세요?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs03030100_MSG0031",
+      "style": 0,
+      "name": "그걸로 됐어[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs03030100_MSG0031_2",
+      "style": 0,
+      "name": "린, 너도 자세를 풀어\n아무래도 말은 통하는 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs03030100_MSG0032",
+      "style": 0,
+      "name": "그렇다는 건……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs03030100_MSG0033",
+      "style": 0,
+      "name": "교섭의 여지가 남아 있다는 뜻이지[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs03030100_MSG0034",
+      "style": 0,
+      "name": "그렇군요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs03030100_MSG0035",
+      "style": 0,
+      "name": "안 돼[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs03030100_MSG0036",
+      "style": 0,
+      "name": "처음 만났을 때 말했잖아\n지나치게 호전적일 필요는 없다고[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs03030100_MSG0037",
+      "style": 0,
+      "name": "다행히 상대는 지구인의 말을 이해하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs03030100_MSG0038",
+      "style": 0,
+      "name": "즉……\n교섭의 여지가 남아 있다는 뜻이지[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs03030100_MSG0039",
+      "style": 0,
+      "name": "그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs03030100_MSG0040",
+      "style": 0,
+      "name": "교섭하고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs03030100_MSG0040_2",
+      "style": 0,
+      "name": "포로가 있다면 풀어 줬으면 해\n해방에 조건이 있다면 그것도 듣겠어[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs03030100_MSG0041",
+      "style": 0,
+      "name": "포로가 없다면 우리는 여길 떠날게[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs03030100_MSG0042",
+      "style": 0,
+      "name": "지구인은 몰살이다아\n그렇게 명령받았다아![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs03030100_MSG0043",
+      "style": 0,
+      "name": "그렇다아, 한 마리도 놓치지 않는다아[ST:wait ]"
+    }
+  ]
+}

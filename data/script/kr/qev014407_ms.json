@@ -1,0 +1,690 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev014407_MSG0001",
+      "style": 1,
+      "name": "메인 시스템을 기동합니다\nID 카드를 삽입해 주십시오[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev014407_MSG0002",
+      "style": 1,
+      "name": "인증 중…………[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev014407_MSG0003",
+      "style": 1,
+      "name": "……………………인증이 확인되었습니다\n당신의 권한으로는 다음 정보를 확인할 수 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev014407_JNK0010",
+      "style": 4,
+      "name": "데이터 레벨 1[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev014407_SEL0011",
+      "style": 3,
+      "name": "이 시설에 관한 정보를 열람한다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev014407_JNK0020",
+      "style": 4,
+      "name": "데이터 레벨 2[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev014407_SEL0021",
+      "style": 3,
+      "name": "연구소의 직원 데이터를 열람한다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev014407_JNK0030",
+      "style": 4,
+      "name": "데이터 레벨 3[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev014407_SEL0031",
+      "style": 3,
+      "name": "감시 카메라 데이터를 열람한다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev014407_MSG0004",
+      "style": 1,
+      "name": "해당 시설은 비아노 정수장을 관리하며\nNLA에 안정적으로 식수, 공업용수를 제공하는 것을\n주요 목적으로 하는 시설입니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev014407_MSG0005",
+      "style": 1,
+      "name": "또한 행성 미라의 수질을 조사, 연구하는\n연구 시설의 역할도 겸하고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev014407_MSG0006",
+      "style": 1,
+      "name": "해당 정수장에는 현재\n다음 연구원이 근무 중입니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev014407_MSG0007",
+      "style": 1,
+      "name": "미라 수질 연구 팀 리더: 이안\n미라 수질 연구 팀 서브 리더: 아조아\n미라 수질 연구 팀 일반 직원: 탄자스[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev014407_MSG0008",
+      "style": 1,
+      "name": "미라 수질 연구 팀 일반 직원: 오티스\n미라 수질 연구 팀 일반 직원: 히스코트\n미라 수질 연구 팀 일반 직원: 데릭[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev014407_MSG0009",
+      "style": 1,
+      "name": "또한 미라 수질 연구 팀 로지는\nNLA에서 데이터 분석을 맡고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev014407_MSG0010",
+      "style": 1,
+      "name": "모종의 장애로 인해\n데이터가 손상되었습니다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev014407_MSG0011",
+      "style": 1,
+      "name": "복원 가능한 데이터를 추출하고 있습니다\n잠시만 기다려 주십시오……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev014407_MSG0012",
+      "style": 1,
+      "name": "일부 음성 데이터의 복원을 완료했습니다\n음성 데이터를 재생합니다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev014407_MSG0013",
+      "style": 1,
+      "name": "……아조아!\n아조아만이라도 살아남아야 해![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev014407_MSG0014",
+      "style": 1,
+      "name": "좋아, 아직 증상은 없겠지?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev014407_MSG0015",
+      "style": 1,
+      "name": "그 녀석, 차라리 우릴 잡아먹는 종족이었다면……![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev014407_MSG0016",
+      "style": 1,
+      "name": "크윽, 으으……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev014407_MSG0017",
+      "style": 1,
+      "name": "가, 감시 카메라는 작동하고 있나?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev014407_MSG0018",
+      "style": 1,
+      "name": "기록, 맞아, 기록을 남겨야 해!![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev014407_MSG0019",
+      "style": 1,
+      "name": "다른 직원들은, 이미 틀렸어![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev014407_MSG0020",
+      "style": 1,
+      "name": "그 원시 생물은\n습격한 상대의 몸에 알을 심어……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev014407_MSG0021",
+      "style": 1,
+      "name": "으윽, 쿨럭……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev014407_MSG0022",
+      "style": 1,
+      "name": "예, 예를 들자면\n나비 유충에 기생하는 벌 같은 거야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev014407_MSG0023",
+      "style": 1,
+      "name": "부화한 알은, 숙주의 몸을 차지하고\n태어나기 적합한 환경을 찾지[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev014407_MSG0024",
+      "style": 1,
+      "name": "커헉, 윽……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev014407_MSG0025",
+      "style": 1,
+      "name": "무, 물, 물을![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev014407_MSG0026",
+      "style": 1,
+      "name": "물을 줘, 물, 물이 필요해!![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev014407_MSG0027",
+      "style": 1,
+      "name": "허억! 허억!\n물이다…… 물……![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev014407_MSG0028",
+      "style": 1,
+      "name": "으윽, 아아아아아악!![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev014407_MSG0029",
+      "style": 1,
+      "name": "저기, 잠깐만\n아무도 없어?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev014407_MSG0030",
+      "style": 1,
+      "name": "이안? 이안?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev014407_MSG0031",
+      "style": 1,
+      "name": "열어 줘, 이 문 열어 달라고\n제발……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev014407_MSG0064",
+      "style": 1,
+      "name": "메인 시스템을 기동합니다\nID 카드를 삽입해 주십시오[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev014407_MSG0065",
+      "style": 1,
+      "name": "인증 중…………[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev014407_MSG0066",
+      "style": 1,
+      "name": "……………………인증이 확인되었습니다\n당신의 권한으로는 다음 정보를 확인할 수 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev014407_JNK0070",
+      "style": 4,
+      "name": "데이터 레벨 1[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev014407_SEL0071",
+      "style": 3,
+      "name": "이 시설에 관한 정보를 열람한다[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev014407_JNK0080",
+      "style": 4,
+      "name": "데이터 레벨 2[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev014407_SEL0081",
+      "style": 3,
+      "name": "연구소의 직원 데이터를 열람한다[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev014407_JNK0090",
+      "style": 4,
+      "name": "데이터 레벨 3[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev014407_SEL0091",
+      "style": 3,
+      "name": "감시 카메라 데이터를 열람한다[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev014407_MSG0067",
+      "style": 1,
+      "name": "해당 시설은 비아노 정수장을 관리하며\nNLA에 안정적으로 식수, 공업용수를 제공하는 것을\n주요 목적으로 하는 시설입니다[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev014407_MSG0068",
+      "style": 1,
+      "name": "또한 행성 미라의 수질을 조사, 연구하는\n연구 시설의 역할도 겸하고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev014407_MSG0069",
+      "style": 1,
+      "name": "해당 정수장에는 현재\n다음 연구원이 근무 중입니다[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev014407_MSG0070",
+      "style": 1,
+      "name": "미라 수질 연구 팀 리더: 이안\n미라 수질 연구 팀 서브 리더: 아조아\n미라 수질 연구 팀 일반 직원: 탄자스[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev014407_MSG0071",
+      "style": 1,
+      "name": "미라 수질 연구 팀 일반 직원: 오티스\n미라 수질 연구 팀 일반 직원: 히스코트\n미라 수질 연구 팀 일반 직원: 데릭[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev014407_MSG0072",
+      "style": 1,
+      "name": "또한 미라 수질 연구 팀 로지는\nNLA에서 데이터 분석을 맡고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev014407_MSG0073",
+      "style": 1,
+      "name": "모종의 장애로 인해\n데이터가 손상되었습니다[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev014407_MSG0074",
+      "style": 1,
+      "name": "복원 가능한 데이터를 추출하고 있습니다\n잠시만 기다려 주십시오……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev014407_MSG0075",
+      "style": 1,
+      "name": "일부 음성 데이터의 복원을 완료했습니다\n음성 데이터를 재생합니다[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev014407_MSG0076",
+      "style": 1,
+      "name": "……아조아!\n아조아만이라도 살아남아야 해![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev014407_MSG0077",
+      "style": 1,
+      "name": "좋아, 아직 증상은 없겠지?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev014407_MSG0078",
+      "style": 1,
+      "name": "그 녀석, 차라리 우릴 잡아먹는 종족이었다면……![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev014407_MSG0079",
+      "style": 1,
+      "name": "크윽, 으으……[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev014407_MSG0080",
+      "style": 1,
+      "name": "가, 감시 카메라는 작동하고 있나?[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev014407_MSG0081",
+      "style": 1,
+      "name": "기록, 맞아, 기록을 남겨야 해!![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev014407_MSG0082",
+      "style": 1,
+      "name": "다른 직원들은, 이미 틀렸어![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev014407_MSG0083",
+      "style": 1,
+      "name": "그 원시 생물은\n습격한 상대의 몸에 알을 심어……[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev014407_MSG0084",
+      "style": 1,
+      "name": "으윽, 쿨럭……[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev014407_MSG0085",
+      "style": 1,
+      "name": "예, 예를 들자면\n나비 유충에 기생하는 벌 같은 거야[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev014407_MSG0086",
+      "style": 1,
+      "name": "부화한 알은, 숙주의 몸을 차지하고\n태어나기 적합한 환경을 찾지[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev014407_MSG0087",
+      "style": 1,
+      "name": "커헉, 윽……[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev014407_MSG0088",
+      "style": 1,
+      "name": "무, 물, 물을![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev014407_MSG0089",
+      "style": 1,
+      "name": "물을 줘, 물, 물이 필요해!![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev014407_MSG0090",
+      "style": 1,
+      "name": "허억! 허억!\n물이다…… 물……![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev014407_MSG0091",
+      "style": 1,
+      "name": "으윽, 아아아아아악!![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev014407_MSG0092",
+      "style": 1,
+      "name": "저기, 잠깐만\n아무도 없어?[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev014407_MSG0093",
+      "style": 1,
+      "name": "이안? 이안?[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev014407_MSG0094",
+      "style": 1,
+      "name": "열어 줘, 이 문 열어 달라고\n제발……[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev014407_MSG0032",
+      "style": 1,
+      "name": "메인 시스템을 기동합니다\nID 카드를 삽입해 주십시오[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev014407_MSG0033",
+      "style": 1,
+      "name": "인증 중…………[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev014407_MSG0034",
+      "style": 1,
+      "name": "……………………인증이 확인되었습니다\n당신의 권한으로는 다음 정보를 확인할 수 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev014407_JNK0040",
+      "style": 4,
+      "name": "데이터 레벨 1[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev014407_SEL0041",
+      "style": 3,
+      "name": "이 시설에 관한 정보를 열람한다[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev014407_JNK0050",
+      "style": 4,
+      "name": "데이터 레벨 2[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev014407_SEL0051",
+      "style": 3,
+      "name": "연구소의 직원 데이터를 열람한다[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev014407_JNK0060",
+      "style": 4,
+      "name": "데이터 레벨 3[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev014407_SEL0061",
+      "style": 3,
+      "name": "감시 카메라 데이터를 열람한다[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev014407_MSG0035",
+      "style": 1,
+      "name": "해당 시설은 비아노 정수장을 관리하며\nNLA에 안정적으로 식수, 공업용수를 제공하는 것을\n주요 목적으로 하는 시설입니다[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev014407_MSG0036",
+      "style": 1,
+      "name": "또한 행성 미라의 수질을 조사, 연구하는\n연구 시설의 역할도 겸하고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev014407_MSG0037",
+      "style": 1,
+      "name": "해당 정수장에는 현재\n다음 연구원이 근무 중입니다[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev014407_MSG0038",
+      "style": 1,
+      "name": "미라 수질 연구 팀 리더: 이안\n미라 수질 연구 팀 서브 리더: 아조아\n미라 수질 연구 팀 일반 직원: 탄자스[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev014407_MSG0039",
+      "style": 1,
+      "name": "미라 수질 연구 팀 일반 직원: 오티스\n미라 수질 연구 팀 일반 직원: 히스코트\n미라 수질 연구 팀 일반 직원: 데릭[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev014407_MSG0040",
+      "style": 1,
+      "name": "또한 미라 수질 연구 팀 로지는\nNLA에서 데이터 분석을 맡고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev014407_MSG0041",
+      "style": 1,
+      "name": "모종의 장애로 인해\n데이터가 손상되었습니다[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev014407_MSG0042",
+      "style": 1,
+      "name": "복원 가능한 데이터를 추출하고 있습니다\n잠시만 기다려 주십시오……[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev014407_MSG0043",
+      "style": 1,
+      "name": "일부 음성 데이터의 복원을 완료했습니다\n음성 데이터를 재생합니다[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev014407_MSG0044",
+      "style": 1,
+      "name": "……아조아!\n아조아만이라도 살아남아야 해![ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev014407_MSG0045",
+      "style": 1,
+      "name": "좋아, 아직 증상은 없겠지?[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev014407_MSG0046",
+      "style": 1,
+      "name": "그 녀석, 차라리 우릴 잡아먹는 종족이었다면……![ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev014407_MSG0047",
+      "style": 1,
+      "name": "크윽, 으으……[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev014407_MSG0048",
+      "style": 1,
+      "name": "가, 감시 카메라는 작동하고 있나?[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev014407_MSG0049",
+      "style": 1,
+      "name": "기록, 맞아, 기록을 남겨야 해!![ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev014407_MSG0050",
+      "style": 1,
+      "name": "다른 직원들은, 이미 틀렸어![ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev014407_MSG0051",
+      "style": 1,
+      "name": "그 원시 생물은\n습격한 상대의 몸에 알을 심어……[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev014407_MSG0052",
+      "style": 1,
+      "name": "으윽, 쿨럭……[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev014407_MSG0053",
+      "style": 1,
+      "name": "예, 예를 들자면\n나비 유충에 기생하는 벌 같은 거야[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev014407_MSG0054",
+      "style": 1,
+      "name": "부화한 알은, 숙주의 몸을 차지하고\n태어나기 적합한 환경을 찾지[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev014407_MSG0055",
+      "style": 1,
+      "name": "커헉, 윽……[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev014407_MSG0056",
+      "style": 1,
+      "name": "무, 물, 물을![ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev014407_MSG0057",
+      "style": 1,
+      "name": "물을 줘, 물, 물이 필요해!![ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev014407_MSG0058",
+      "style": 1,
+      "name": "허억! 허억!\n물이다…… 물……![ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev014407_MSG0059",
+      "style": 1,
+      "name": "으윽, 아아아아아악!![ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev014407_MSG0060",
+      "style": 1,
+      "name": "아아…… 아아아아아아아아아아아![ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev014407_MSG0061",
+      "style": 1,
+      "name": "허억…… 허억…… 허억……[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev014407_MSG0062",
+      "style": 1,
+      "name": "무……울………… 물……이…… 나……\n나……는…… 뭐가……아……[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "qev014407_MSG0063",
+      "style": 1,
+      "name": "아아아아아아아아아아아아아아아아아악!!![ST:wait ]"
+    }
+  ]
+}

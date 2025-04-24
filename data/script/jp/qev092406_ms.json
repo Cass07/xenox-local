@@ -1,0 +1,378 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092406_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―久しぶりに読んだお父様の日記に\nとても怖い言葉が書かれていたんです[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092406_MSG0002",
+      "style": 0,
+      "name": "他人を恐れていた自分は　善意を押し付け\n好意を持ってもらうことで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092406_MSG0003",
+      "style": 0,
+      "name": "その不安を消し去ろうと\nしていただけではないか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092406_MSG0004",
+      "style": 0,
+      "name": "実に身勝手な動機[ST:wide ]―　だから結局　私は\n誰も救えなかったんじゃないだろうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092406_MSG0005",
+      "style": 0,
+      "name": "昔読んだ時は　よく理解できなかったんですが\n今ならわかります[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092406_MSG0006",
+      "style": 0,
+      "name": "きっと　私も同じなんです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092406_MSG0007",
+      "style": 0,
+      "name": "親切にしてあげないと裏切られそうで怖い\n裏切られるくらいなら　消えた方が良い[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092406_MSG0008",
+      "style": 0,
+      "name": "私[ST:wide ]―　どうしたらいいんでしょう[ST:wide ]―\n日記を読めば　迷いが晴れると思ったのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092406_MSG0009",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092406_MSG0010",
+      "style": 0,
+      "name": "ごめんなさい[ST:wide ]―　私　本当は[ST:wide ]―\n他人のことが　とても怖い[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092406_MSG0011",
+      "style": 0,
+      "name": "お父様が裏切られたみたいに\nオルネラさんが裏切ったみたいに[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092406_MSG0012",
+      "style": 0,
+      "name": "皆にもいつか\n裏切られてしまうんじゃないかって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092406_MSG0013",
+      "style": 0,
+      "name": "こんな気持ちで　どうやってエイダさん達と\n向き合ったらいいんでしょうか[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092406_JNK0010",
+      "style": 4,
+      "name": "アドバイス"
+    },
+    {
+      "$id": 15,
+      "label": "qev092406_SEL0011",
+      "style": 3,
+      "name": "ヒメリを裏切るような者は周囲にはいないと言う"
+    },
+    {
+      "$id": 16,
+      "label": "qev092406_JNK0020",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 17,
+      "label": "qev092406_SEL0021",
+      "style": 3,
+      "name": "強引にエイダのもとへ連れて行く"
+    },
+    {
+      "$id": 18,
+      "label": "qev092406_MSG0014",
+      "style": 0,
+      "name": "頭ではそう思うんですけど[ST:wide ]―\nやっぱり　足がすくんでしまうんです[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092406_MSG0015",
+      "style": 0,
+      "name": "[ST:wide ]―でも　このまま向き合わないわけには\nいかないです[ST:wide ]―　ね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092406_MSG0016",
+      "style": 0,
+      "name": "わかりました[ST:wide ]―　勇気を出して[ST:wide ]―\nエイダさんの所へ行きます[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092406_MSG0017",
+      "style": 0,
+      "name": "あっ　ちょっと　待ってください[ST:wide ]―\nまだ心の準備が[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092406_MSG0018",
+      "style": 0,
+      "name": "だから俺も手伝うって！\n彼女には返しきれないくらいの借りがあるんだ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092406_MSG0019",
+      "style": 0,
+      "name": "何言ってんの　あたしが全部調べてくるから\nあんたはひっこんでなさい！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092406_MSG0020",
+      "style": 0,
+      "name": "あの子には　ＮＬＡに来てから\nずっと面倒を見てもらいっぱなしなんだ！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092406_MSG0021",
+      "style": 0,
+      "name": "ちょっとちょっと！\nいくらなんでも人数オーバーだって！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092406_MSG0022",
+      "style": 0,
+      "name": "気持ちはわかるけど　こんな大人数で探したら\n余計に混乱しちゃうから[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092406_MSG0023",
+      "style": 0,
+      "name": "[ST:wide ]―あっ　お帰り！\nもしかして例のアレ　見つかっちゃった？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092406_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 29,
+      "label": "qev092406_SEL0031",
+      "style": 3,
+      "name": "見つかったとうなずく"
+    },
+    {
+      "$id": 30,
+      "label": "qev092406_JNK0040",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 31,
+      "label": "qev092406_SEL0041",
+      "style": 3,
+      "name": "この騒ぎについて質問する"
+    },
+    {
+      "$id": 32,
+      "label": "qev092406_MSG0024",
+      "style": 0,
+      "name": "ホント！？　よかったー！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092406_MSG0025",
+      "style": 0,
+      "name": "ヒメリの世話になった人に声をかけてたら\n人が人を呼んで　大事になっちゃってね！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092406_MSG0026",
+      "style": 0,
+      "name": "収集つかなくなっちゃってたんだ！\nいやー　助かったわ！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092406_MSG0027",
+      "style": 0,
+      "name": "ヒメリの世話になった人に声をかけてたら\n人が人を呼んで　大事になってね！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092406_MSG0028",
+      "style": 0,
+      "name": "収集つかなくなっちゃってたのよ[ST:wide ]―\nでも　その感じだと　もう見つかったのよね？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092406_MSG0029",
+      "style": 0,
+      "name": "いやー　助かったわ！\nこれどうしようかと思っちゃった！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092406_MSG0030",
+      "style": 0,
+      "name": "ヒメリ！　本当にあんたってすごいわね！\nこんな沢山の人を助けて来たんだもんね！[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092406_MSG0031",
+      "style": 0,
+      "name": "そんな　私なんか　ただの身勝手な[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092406_MSG0032",
+      "style": 0,
+      "name": "みんなー　日記はもう見つかったって！\nだから解散！　かいさーん！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092406_MSG0033",
+      "style": 0,
+      "name": "これでヒメリちゃんの心配事は解決？\nはーっ　よかったー！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092406_MSG0034",
+      "style": 0,
+      "name": "なんだかずっと暗い顔してたから\nどうしたのかと思っちゃった[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092406_MSG0035",
+      "style": 0,
+      "name": "もし　他に困ったことがあったら\nなんでも言って？[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092406_MSG0036",
+      "style": 0,
+      "name": "いやー　ハッキングみたいなことまでして\n探し出したかいがありました！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092406_MSG0037",
+      "style": 0,
+      "name": "[ST:wide ]―あっ　これ内緒ですよ？\n会社にバレたら　絶対クビですから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092406_MSG0038",
+      "style": 0,
+      "name": "私なんか[ST:wide ]―　なんて言ったら\nあんたに協力してくれた人　皆に失礼だよ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092406_MSG0039",
+      "style": 0,
+      "name": "ヒメリ！　皆あんたが必要なんだよ？\nお願いだから　それだけは疑わないで[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092406_MSG0040",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092406_JNK0050",
+      "style": 4,
+      "name": "褒める"
+    },
+    {
+      "$id": 50,
+      "label": "qev092406_SEL0051",
+      "style": 3,
+      "name": "これがヒメリのやってきたことだと褒める"
+    },
+    {
+      "$id": 51,
+      "label": "qev092406_JNK0060",
+      "style": 4,
+      "name": "質問する"
+    },
+    {
+      "$id": 52,
+      "label": "qev092406_SEL0061",
+      "style": 3,
+      "name": "これで迷いが晴れたかと尋ねる"
+    },
+    {
+      "$id": 53,
+      "label": "qev092406_MSG0041",
+      "style": 0,
+      "name": "これが　私がやってきたこと[ST:wide ]―\n私が得たもの[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092406_MSG0042",
+      "style": 0,
+      "name": "[ST:wide ]―私って　とんだ大馬鹿者ですね[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092406_MSG0043",
+      "style": 0,
+      "name": "答えは私の傍にあったのに迷ってしまった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092406_MSG0044",
+      "style": 0,
+      "name": "そうですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092406_MSG0045",
+      "style": 0,
+      "name": "迷う必要はなかったんですよね\n答えは私の傍にあったんですから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092406_MSG0046",
+      "style": 0,
+      "name": "私　もっと強くならなきゃですね[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092406_MSG0047",
+      "style": 0,
+      "name": "皆さんの役に立つだけじゃなくて\nもっともっと皆さんのことを理解しないと[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092406_MSG0048",
+      "style": 0,
+      "name": "あの[ST:wide ]―　ふつつかものですが\nこれからも末永く　よろしくお願いしますね[ST:wait ]"
+    }
+  ]
+}

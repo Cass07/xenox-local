@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03020100_MSG0001",
+      "style": 0,
+      "name": "바로 임무를 의뢰하고 싶네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs03020100_MSG0002",
+      "style": 0,
+      "name": "원초의 황야 동부에서[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs03020100_MSG0003",
+      "style": 0,
+      "name": "데이터 프로브 설치 작업을 하던\n넬슨 팀의 소식이 끊겼다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs03020100_MSG0003_02",
+      "style": 0,
+      "name": "그 수색을 부탁하고 싶다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs03020100_MSG0004",
+      "style": 0,
+      "name": "넬슨…… 패스파인더였지?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs03020100_MSG0005",
+      "style": 0,
+      "name": "원시 생물에게 습격당한 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs03020100_MSG0006",
+      "style": 0,
+      "name": "자세한 내막은 모르지만\n넬슨 팀은 돌도 가지고 있었네[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs03020100_MSG0007",
+      "style": 0,
+      "name": "그리 순순히 당하진 않겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs03020100_MSG0008",
+      "style": 0,
+      "name": "어쨌든 현지에 가서\n확인하는 게 확실하겠네[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs03020100_MSG0009",
+      "style": 0,
+      "name": "맡아 주겠나?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs03020100_MSG0010",
+      "style": 0,
+      "name": "물론이지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs03020100_MSG0010_2",
+      "style": 0,
+      "name": "가자[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs03020100_MSG0011",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    }
+  ]
+}

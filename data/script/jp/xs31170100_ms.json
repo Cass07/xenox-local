@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31170100_MSG0010",
+      "style": 0,
+      "name": "やれやれ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31170100_MSG0020",
+      "style": 0,
+      "name": "散々な目にあったぜ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31170100_MSG0030",
+      "style": 0,
+      "name": "お前が生体じゃなきゃ\nこっちも苦労しなかったんだがな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31170100_JNK0010",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 5,
+      "label": "xs31170100_SEL0010",
+      "style": 3,
+      "name": "生体とは生身のことか？と尋ねる"
+    },
+    {
+      "$id": 6,
+      "label": "xs31170100_MSG0040",
+      "style": 0,
+      "name": "そうよ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs31170100_MSG0050",
+      "style": 0,
+      "name": "彼は　[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]じゃなくて生身なの[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs31170100_JNK0020",
+      "style": 4,
+      "name": "指摘"
+    },
+    {
+      "$id": 9,
+      "label": "xs31170100_SEL0020",
+      "style": 3,
+      "name": "生体じゃなくB.B.と伝える"
+    },
+    {
+      "$id": 10,
+      "label": "xs31170100_MSG0060",
+      "style": 0,
+      "name": "いや[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs31170100_MSG0070",
+      "style": 0,
+      "name": "こいつは　[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]じゃなくて生身なんだ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs31170100_MSG0090",
+      "style": 0,
+      "name": "クルーは全員[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]のはずって思ってんだろ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs31170100_MSG0100",
+      "style": 0,
+      "name": "こいつは[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs31170100_MSG0105",
+      "style": 0,
+      "name": "選ばれし者ってとこかな[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs31170100_MSG0110",
+      "style": 0,
+      "name": "オリジナルアレスは[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs31170100_MSG0120",
+      "style": 0,
+      "name": "生体じゃないと乗れないの[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs31170100_MSG0130",
+      "style": 0,
+      "name": "お前ら[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs31170100_MSG0140",
+      "style": 0,
+      "name": "今はその話はいいだろ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs31170100_MSG0150",
+      "style": 0,
+      "name": "それより　あらためて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs31170100_MSG0160",
+      "style": 0,
+      "name": "よく戻った　アル[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs31170100_MSG0170",
+      "style": 0,
+      "name": "英雄の帰還を　我々は心より喜んでいる[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs31170100_MSG0190",
+      "style": 0,
+      "name": "その英雄ってのやめてくれないか？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs31170100_MSG0200",
+      "style": 0,
+      "name": "どんな顔したらいいのかわからん[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs31170100_MSG0210",
+      "style": 0,
+      "name": "[ST:wide ]―それより[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs31170100_MSG0220",
+      "style": 0,
+      "name": "この星のこと　これまでのことを\n聞かせてもらいたい[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs31170100_MSG0230",
+      "style": 0,
+      "name": "こっちはまだ　タイムトラベラーの気分なんだ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs31170100_MSG0240",
+      "style": 0,
+      "name": "わかった[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs31170100_MSG0250",
+      "style": 0,
+      "name": "順を追って話そう[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs31170100_MSG0260",
+      "style": 0,
+      "name": "[ST:wide ]―なるほど[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs31170100_MSG0270",
+      "style": 0,
+      "name": "オレがいなくなってからの経緯は大体把握した[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs31170100_MSG0280",
+      "style": 0,
+      "name": "ならば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs31170100_MSG0290",
+      "style": 0,
+      "name": "今度はこちらが尋ねさせてもらいたい[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs31170100_MSG0300",
+      "style": 0,
+      "name": "アル[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs31170100_MSG0310",
+      "style": 0,
+      "name": "君は今まで　どこにいたんだ？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs31170100_MSG0320",
+      "style": 0,
+      "name": "その話をするには[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs31170100_MSG0330",
+      "style": 0,
+      "name": "アレスの分析結果が必要なんだ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs31170100_MSG0340",
+      "style": 0,
+      "name": "裏付けがなけりゃ\nおよそ信じられない話だからな[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs31170100_MSG0350",
+      "style": 0,
+      "name": "どういうことだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs31170100_MSG0355",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "xs31170100_MSG0360",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "xs31170100_MSG0370",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "xs31170100_MSG0380",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "xs31170100_MSG0390",
+      "style": 0,
+      "name": "白樹の大陸付近で\n急激なエネルギーの増大を確認[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs31170100_MSG0400",
+      "style": 0,
+      "name": "消失現象か？[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs31170100_MSG0410",
+      "style": 0,
+      "name": "いえ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs31170100_MSG0420",
+      "style": 0,
+      "name": "消失現象のパターンとは一致しません[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs31170100_MSG0430",
+      "style": 0,
+      "name": "ちっ[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs31170100_MSG0440",
+      "style": 0,
+      "name": "次から次へとなんなんだ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs31170100_MSG0450",
+      "style": 0,
+      "name": "モニターに写せ[ST:wait ]"
+    }
+  ]
+}

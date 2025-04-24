@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090401_MSG0003",
+      "style": 0,
+      "name": "オヌシが今回のパートナーか？\nふぅむ[ST:wide ]―　ツラ構えは合格[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090401_MSG0004",
+      "style": 0,
+      "name": "しかしどうだ？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090401_MSG0004_2",
+      "style": 0,
+      "name": "その胸の奥にブレイドに相応しき\n熱き炎は灯っているか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090401_MSG0004_2_m",
+      "style": 0,
+      "name": "その胸の奥にブレイドに相応しき\n熱き炎は灯っているか？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090401_MSG0004_2_f",
+      "style": 0,
+      "name": "その胸の奥にブレイドに相応しき\n熱き炎は灯っているか？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev000904_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 7,
+      "label": "qev000904_SEL0011",
+      "style": 3,
+      "name": "まっすぐに瞳を見つめてうなずく"
+    },
+    {
+      "$id": 8,
+      "label": "qev000904_JNK0020",
+      "style": 4,
+      "name": "怒る"
+    },
+    {
+      "$id": 9,
+      "label": "qev000904_SEL0021",
+      "style": 3,
+      "name": "いきなりのぶしつけな\n問いかけに怒る"
+    },
+    {
+      "$id": 10,
+      "label": "qev090401_MSG0005",
+      "style": 0,
+      "name": "どんな言葉よりもオヌシの瞳は\n多くのものを語っているよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090401_MSG0006",
+      "style": 0,
+      "name": "どうやら　背中を託すに相応しき者のようだな\n頼もしいかぎりだ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090401_MSG0007",
+      "style": 0,
+      "name": "これは失礼した！\nしかしその心意気　悪くないぞ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090401_MSG0008",
+      "style": 0,
+      "name": "オヌシのようなはねっ返りの中からこそ\nこの苦難を打ち破る英雄は生まれてくるのだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090401_MSG0009",
+      "style": 0,
+      "name": "名乗り遅れてすまない\n俺はアヴァランチのボゼ・ロウズ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090401_MSG0010",
+      "style": 0,
+      "name": "今回の任務で\nオヌシのパートナーを勤めさせてもらう[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090401_MSG0011",
+      "style": 0,
+      "name": "まぁ[ST:wide ]―　ボウズとでも呼んでくれよ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090401_MSG0012",
+      "style": 0,
+      "name": "知ってるか？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090401_MSG0012_2",
+      "style": 0,
+      "name": "東洋じゃ徳の高い僧侶のことを\nそう親しみを込めて呼ぶんだ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev000904_JNK0030",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 20,
+      "label": "qev000904_SEL0031",
+      "style": 3,
+      "name": "ボゼの言葉にうなずき\n東洋の知識に関心を持つ"
+    },
+    {
+      "$id": 21,
+      "label": "qev000904_JNK0040",
+      "style": 4,
+      "name": "催促"
+    },
+    {
+      "$id": 22,
+      "label": "qev000904_SEL0041",
+      "style": 3,
+      "name": "早く仕事の話に入るよう\n話を進める"
+    },
+    {
+      "$id": 23,
+      "label": "qev090401_MSG0013",
+      "style": 0,
+      "name": "オヌシも俺と同類か！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090401_MSG0014",
+      "style": 0,
+      "name": "地球にいたころは　よく東洋の国々へ\n赴き　美しき仏像など買い集めていたものよ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090401_MSG0015",
+      "style": 0,
+      "name": "それに盆栽もいいな！\nあれは眺めているだけで穏やかな気持ちになる[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090401_MSG0016",
+      "style": 0,
+      "name": "ところで\nオヌシはどういったものに興味が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090401_MSG0017",
+      "style": 0,
+      "name": "いや　いかんな！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090401_MSG0018",
+      "style": 0,
+      "name": "この話を始めてしまっては夜が明ける\n早いところ　仕事の話に入るとするか！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090401_MSG0019",
+      "style": 0,
+      "name": "よしわかった！\nそれじゃ早速　今回の仕事の話といこう！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090401_MSG0020",
+      "style": 0,
+      "name": "数日前から　バケモン退治に出かけた\nブレイドの連中からの連絡が[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090401_MSG0021",
+      "style": 0,
+      "name": "途絶えてしまったんだ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090401_MSG0022",
+      "style": 0,
+      "name": "そこで　その者達の行方を探り[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090401_MSG0023",
+      "style": 0,
+      "name": "ついでに　バケモン共も\n一掃してきてしまおうというわけよ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev090401_MSG0024",
+      "style": 0,
+      "name": "案ずることはない[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev090401_MSG0024_m",
+      "style": 0,
+      "name": "案ずることはない[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev090401_MSG0024_f",
+      "style": 0,
+      "name": "案ずることはない[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev090401_MSG0025",
+      "style": 0,
+      "name": "アヴァランチの仕事がどういうものか\nこのボウズが見せてやる[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev090401_MSG0026",
+      "style": 0,
+      "name": "さぁ行くぞ！\n真のプロの仕事というものを見せてやろう！[ST:wait ]"
+    }
+  ]
+}

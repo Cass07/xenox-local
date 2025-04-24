@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090401_MSG0003",
+      "style": 0,
+      "name": "그대가 이번 파트너인가?\n흐으음…… 풍채는 합격이군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090401_MSG0004",
+      "style": 0,
+      "name": "하나 내면은 어떻지?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090401_MSG0004_2",
+      "style": 0,
+      "name": "그 가슴 깊이 블레이드에 어울리는\n뜨거운 불꽃이 타오르고 있는가?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090401_MSG0004_2_m",
+      "style": 0,
+      "name": "그 가슴 깊이 블레이드에 어울리는\n뜨거운 불꽃이 타오르고 있는가?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090401_MSG0004_2_f",
+      "style": 0,
+      "name": "그 가슴 깊이 블레이드에 어울리는\n뜨거운 불꽃이 타오르고 있는가?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev000904_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 7,
+      "label": "qev000904_SEL0011",
+      "style": 3,
+      "name": "똑바로 눈을 바라보며 끄덕인다"
+    },
+    {
+      "$id": 8,
+      "label": "qev000904_JNK0020",
+      "style": 4,
+      "name": "분노"
+    },
+    {
+      "$id": 9,
+      "label": "qev000904_SEL0021",
+      "style": 3,
+      "name": "갑자기 노골적인 질문을\n한 것에 화를 낸다"
+    },
+    {
+      "$id": 10,
+      "label": "qev090401_MSG0005",
+      "style": 0,
+      "name": "그 어떤 말보다도 그대의 눈이\n더 많은 것을 말해 주고 있어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090401_MSG0006",
+      "style": 0,
+      "name": "보아하니 등을 맡기기에 합당한 자 같군\n믿음직스러울 따름일세![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090401_MSG0007",
+      "style": 0,
+      "name": "이런, 실례했네!\n하나 그 마음가짐, 나쁘지 않군[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090401_MSG0008",
+      "style": 0,
+      "name": "그대처럼 반골 기질을 지닌 자들 중에서\n이 역경을 이겨 낼 영웅이 탄생하는 법이니[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090401_MSG0009",
+      "style": 0,
+      "name": "자기소개가 늦어 미안하네\n나는 애벌란시의 보제 로우즈[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090401_MSG0010",
+      "style": 0,
+      "name": "이번 임무에서\n그대의 파트너를 맡도록 하겠네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090401_MSG0011",
+      "style": 0,
+      "name": "하하하…… 보살이라고 불러 주게[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090401_MSG0012",
+      "style": 0,
+      "name": "알고 있는가?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090401_MSG0012_2",
+      "style": 0,
+      "name": "동양에서는 덕이 높은 승려를\n경의를 담아 그렇게 부른다네[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev000904_JNK0030",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 20,
+      "label": "qev000904_SEL0031",
+      "style": 3,
+      "name": "보제의 말에 끄덕이며\n동양의 지식에 관심을 가진다"
+    },
+    {
+      "$id": 21,
+      "label": "qev000904_JNK0040",
+      "style": 4,
+      "name": "재촉"
+    },
+    {
+      "$id": 22,
+      "label": "qev000904_SEL0041",
+      "style": 3,
+      "name": "어서 임무에 관해 설명하라며\n이야기를 되돌린다"
+    },
+    {
+      "$id": 23,
+      "label": "qev090401_MSG0013",
+      "style": 0,
+      "name": "그대도 나와 동류인가![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090401_MSG0014",
+      "style": 0,
+      "name": "지구에 있었을 무렵에는 자주 동양 국가를\n방문하며 아름다운 불상을 사 모으고는 했지[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090401_MSG0015",
+      "style": 0,
+      "name": "그리고 분재도 좋지!\n바라보기만 해도 온화한 마음이 들어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090401_MSG0016",
+      "style": 0,
+      "name": "그건 그렇고\n그대는 어떤 것에 흥미가……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090401_MSG0017",
+      "style": 0,
+      "name": "아니, 안 되지![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090401_MSG0018",
+      "style": 0,
+      "name": "이렇게 이야기하다가 날이 새겠어\n빠르게 임무에 관해 설명하도록 하지![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090401_MSG0019",
+      "style": 0,
+      "name": "그래, 알겠네!\n그러면 바로 이번 임무에 관해 설명하지![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090401_MSG0020",
+      "style": 0,
+      "name": "며칠 전에 괴물 퇴치를 나선\n블레이드 녀석들과[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090401_MSG0021",
+      "style": 0,
+      "name": "연락이 두절되고 말았다네[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090401_MSG0022",
+      "style": 0,
+      "name": "그러니 그자들의 행방을 찾고[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090401_MSG0023",
+      "style": 0,
+      "name": "겸사겸사 괴물들도\n일소해 버리자는 것이 골자일세[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev090401_MSG0024",
+      "style": 0,
+      "name": "걱정할 필요는 없네[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev090401_MSG0024_m",
+      "style": 0,
+      "name": "걱정할 필요는 없네[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev090401_MSG0024_f",
+      "style": 0,
+      "name": "걱정할 필요는 없네[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev090401_MSG0025",
+      "style": 0,
+      "name": "애벌란시의 임무가 어떤 것인지\n이 보살이 보여 줄 테니[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev090401_MSG0026",
+      "style": 0,
+      "name": "자, 가세!\n진정한 프로의 솜씨를 잘 보게나![ST:wait ]"
+    }
+  ]
+}

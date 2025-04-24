@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093206_MSG0010",
+      "style": 0,
+      "name": "な[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093206_MSG0020",
+      "style": 0,
+      "name": "なんですかこれ～！？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093206_MSG0030",
+      "style": 0,
+      "name": "もも～っ！　ピザがいっぱいですも！\nタツも一緒に食べていいんですも！？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093206_MSG0040",
+      "style": 0,
+      "name": "ああ　オレのおごりだ\n好きなだけ食っていいぞ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093206_JNK0050",
+      "style": 0,
+      "name": "主張"
+    },
+    {
+      "$id": 6,
+      "label": "qev093206_SEL0060",
+      "style": 0,
+      "name": "自分の功績も主張する"
+    },
+    {
+      "$id": 7,
+      "label": "qev093206_MSG0070",
+      "style": 0,
+      "name": "おっと　悪い悪い\nオレ“達”のおごりだったな[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093206_MSG0080",
+      "style": 0,
+      "name": "一体何があったの？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093206_MSG0090",
+      "style": 0,
+      "name": "別に大したことじゃない[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093206_MSG0100",
+      "style": 0,
+      "name": "オレとこいつで　ちょっとした\nブレイドの任務をこなしただけさ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093206_MSG0110",
+      "style": 0,
+      "name": "[ST:wide ]―なあ？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093206_MSG0120",
+      "style": 0,
+      "name": "あなた達[ST:wide ]―　私の知らない間に\n随分　仲良くなっていたのね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093206_MSG0130",
+      "style": 0,
+      "name": "悪いな　君の部下を連れ回して[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093206_MSG0140",
+      "style": 0,
+      "name": "構わないわ\nむしろ好ましく思っているくらいよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093206_MSG0150",
+      "style": 0,
+      "name": "ただでさえ気難しい性格のあなたに\n友人ができたのだから[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093206_MSG0160",
+      "style": 0,
+      "name": "アルさん　トモダチがいないんですも？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093206_MSG0170",
+      "style": 0,
+      "name": "ちょ　ちょっと　タツ！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093206_MSG0180",
+      "style": 0,
+      "name": "まったく[ST:wide ]―　つれない連中だぜ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093206_MSG0190",
+      "style": 0,
+      "name": "オレは別に　孤高のヒーローを\n気取ってるわけじゃないんだがな[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093206_MSG0200",
+      "style": 0,
+      "name": "オレ自身は　こんなにも\nお前達を愛してるっていうのによ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093206_MSG0210",
+      "style": 0,
+      "name": "ふふっ[ST:wide ]―　ええ　そうね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093206_MSG0215",
+      "style": 0,
+      "name": "あなたはそういう人だったわね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093206_MSG0220",
+      "style": 0,
+      "name": "あ　愛ですか[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093206_MSG0230",
+      "style": 0,
+      "name": "そうだぞ　リン[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev093206_MSG0240",
+      "style": 0,
+      "name": "地球脱出からこっち　本当に色々あったが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093206_MSG0250",
+      "style": 0,
+      "name": "今はここが[ST:wide ]―　オレの“家”だ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093206_MSG0260",
+      "style": 0,
+      "name": "家ってのは家族が帰りを待ってるもんだ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093206_MSG0265",
+      "style": 0,
+      "name": "だから　お前らはオレにとっての家族[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev093206_MSG0270",
+      "style": 0,
+      "name": "家族を愛するのは当然で　自然なことだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev093206_MSG0275",
+      "style": 0,
+      "name": "[ST:wide ]―そうだろう？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev093206_MSG0280",
+      "style": 0,
+      "name": "アルさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev093206_MSG0290",
+      "style": 0,
+      "name": "[ST:wide ]―おっ　やってるな[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev093206_MSG0300",
+      "style": 0,
+      "name": "お邪魔します　エルマ大佐[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev093206_MSG0310",
+      "style": 0,
+      "name": "あら　あなた達も来たのね[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev093206_MSG0320",
+      "style": 0,
+      "name": "ええ　英雄殿直々の招待とあっては\n断るわけにはいきませんから[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev093206_MSG0330",
+      "style": 0,
+      "name": "連絡が来たのはついさっきですけどね[ST:wide ]―\n突然すぎてびっくりしましたよ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev093206_MSG0340",
+      "style": 0,
+      "name": "こいつが周りを振り回すのはいつものことさ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev093206_MSG0345",
+      "style": 0,
+      "name": "ま　そのぶん退屈はしないがな[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev093206_MSG0350",
+      "style": 0,
+      "name": "お褒めに預かり光栄だ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev093206_MSG0360",
+      "style": 0,
+      "name": "おお　なるほど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev093206_MSG0365",
+      "style": 0,
+      "name": "これが故事に言う　呉越同舟ですね！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev093206_MSG0370",
+      "style": 0,
+      "name": "オレ達は軍人だ　任務がある\n実際　状況は差し迫ってはいるが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev093206_MSG0380",
+      "style": 0,
+      "name": "今この時だけは[ST:wide ]―　家族団欒の時間だ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev093206_MSG0385",
+      "style": 0,
+      "name": "大いに楽しもうぜ[ST:wait ]"
+    }
+  ]
+}

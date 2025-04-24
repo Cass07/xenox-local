@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00110100_MSG0001",
+      "style": 0,
+      "name": "本当なら　安全な地域を選んで\n着陸したかったのだけれど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00110100_MSG0002",
+      "style": 0,
+      "name": "宇宙には友好的な種族もいれば\nそうでない生物もいる[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs00110100_MSG0003",
+      "style": 0,
+      "name": "無闇に好戦的になる必要はないけれど\n自分を護れるのは自分だけ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00110100_MSG0004",
+      "style": 0,
+      "name": "それだけは覚えておいて[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs00110100_MSG0005",
+      "style": 0,
+      "name": "さぁ　行きましょう[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs00110100_MSG0006",
+      "style": 0,
+      "name": "あなたなら　ここで暮らす人達とも\nすぐ馴染めるわ[ST:wait ]"
+    }
+  ]
+}

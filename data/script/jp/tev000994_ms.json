@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000994_MSG0001",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000994_MSG0002",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000994_MSG0003",
+      "style": 1,
+      "name": "[ST:playername ]か……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000994_MSG0004",
+      "style": 1,
+      "name": "こんなところまで来るとはな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000994_MSG0005",
+      "style": 1,
+      "name": "俺は任務のないときは\nここで瞑想することにしているのだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000994_MSG0006",
+      "style": 1,
+      "name": "智慧を得られればと思い繰り返しているが\n簡単に行くわけがないな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000994_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 8,
+      "label": "tev000994_SEL0011",
+      "style": 3,
+      "name": "ボゼの宗教観について"
+    },
+    {
+      "$id": 9,
+      "label": "tev000994_JNK0020",
+      "style": 4,
+      "name": "指摘"
+    },
+    {
+      "$id": 10,
+      "label": "tev000994_SEL0021",
+      "style": 3,
+      "name": "教会ではなく寺社で\n瞑想すべきだと教える"
+    },
+    {
+      "$id": 11,
+      "label": "tev000994_MSG0007",
+      "style": 1,
+      "name": "ふむ[ST:wide ]―\nどうして俺が妙な信仰心をもっているのか\n知りたいというのか[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000994_MSG0008",
+      "style": 1,
+      "name": "もう何十年も昔[ST:wide ]―\n俺が小隊長となり初めての任務のときだった[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000994_MSG0009",
+      "style": 1,
+      "name": "情報に騙され\nアジアの密林で孤立し　部隊は壊滅状態[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000994_MSG0010",
+      "style": 1,
+      "name": "衰弱したところを\nひとりの村娘が救ってくれたんだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000994_MSG0011",
+      "style": 1,
+      "name": "そこで俺は素晴らしい教えを受け[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000994_MSG0012",
+      "style": 1,
+      "name": "まず俺は　お粥の作り方を\n習うところから始めた[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000994_MSG0013",
+      "style": 1,
+      "name": "あれは俺を蘇らせ　人生に変革をもたらせた\n偉大な食べ物だからな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000994_MSG0014",
+      "style": 1,
+      "name": "それから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000994_MSG0015",
+      "style": 1,
+      "name": "迎えが来たのは孤立してから\n実に22日目のことだ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000994_MSG0016",
+      "style": 1,
+      "name": "いよいよ別れの時\nヘリが飛び立つ瞬間のことだった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000994_MSG0017",
+      "style": 1,
+      "name": "ロケット弾が飛んできて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000994_MSG0018",
+      "style": 1,
+      "name": "こうして今度こそ俺は部隊に合流できたんだ\n実に49日目のことだった[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000994_MSG0019",
+      "style": 1,
+      "name": "それから俺は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000994_MSG0020",
+      "style": 1,
+      "name": "[ST:wide ]―と今に至るわけだ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000994_MSG0021",
+      "style": 1,
+      "name": "随分端折ってしまったが要点は抑えたつもりだ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000994_MSG0022",
+      "style": 1,
+      "name": "興味を持ってくれたのなら\nまた聞きにくるがいい\n今度はもっと詳しく話そう[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000994_MSG0023",
+      "style": 1,
+      "name": "俺はいつでも待っているからな！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000994_MSG0024",
+      "style": 1,
+      "name": "確かに教会で瞑想するのは\n間違っていると言えるだろう[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000994_MSG0025",
+      "style": 1,
+      "name": "しかし　NLAには\nどこを探したって寺はないだろう[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000994_MSG0026",
+      "style": 1,
+      "name": "巨大な樹木の下でもいいのだが\nやはりNLAにはそういう場所はない[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000994_MSG0027",
+      "style": 1,
+      "name": "かといって　NLAの外で瞑想にふけっていると\nすぐに化物どもの胃袋の中だ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000994_MSG0028",
+      "style": 1,
+      "name": "つまるところ　ここが惑星ミラで\n最も適している場所なんだ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000994_MSG0029",
+      "style": 1,
+      "name": "さて　瞑想はこれくらいにして\nブレイドホームに戻るとするよ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000994_MSG0030",
+      "style": 1,
+      "name": "朝餉を取らなければならないからな\nサルサソースを掛けた湯豆腐が絶品なんだ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000994_MSG0031",
+      "style": 1,
+      "name": "気が向いたら食べにくるといい[ST:wait ]"
+    }
+  ]
+}

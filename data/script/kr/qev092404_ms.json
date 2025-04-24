@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092404_MSG0001",
+      "style": 0,
+      "name": "오오, 심부름꾼 언니다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092404_MSG0001_m",
+      "style": 0,
+      "name": "오오, 심부름꾼 언니다모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092404_MSG0001_f",
+      "style": 0,
+      "name": "오오, 심부름꾼 언니다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092404_MSG0002",
+      "style": 0,
+      "name": "루리리타 씨, 저번에 수리해 드린\n집의 지붕은 좀 어떤가요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092404_MSG0003",
+      "style": 0,
+      "name": "비가 새던 게 완벽하게 고쳐졌다모!\n언제나 공짜로 일해 줘서 고맙다모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092404_MSG0004",
+      "style": 0,
+      "name": "그런데 이런 곳에서\n뭘 하고 계신 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092404_MSG0005",
+      "style": 0,
+      "name": "루리리타, 심부름꾼 언니에게\n평소의 은혜를 갚고 싶어서[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092404_MSG0006",
+      "style": 0,
+      "name": "흰고래의 잔해라는 걸 찾으러 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092404_MSG0007",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "qev092404_MSG0008",
+      "style": 0,
+      "name": "협력해 주셔서 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092404_MSG0009",
+      "style": 0,
+      "name": "……그건 그렇고, 이 임무에\n많은 분이 협력해 주시네요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092404_MSG0010",
+      "style": 0,
+      "name": "무언가 다른 분들의 흥미를\n끌 만한 것이라도 있는 걸까요……?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092404_JNK0010",
+      "style": 4,
+      "name": "얼버무린다"
+    },
+    {
+      "$id": 14,
+      "label": "qev092404_SEL0011",
+      "style": 3,
+      "name": "어쩌다 보니 우연이\n겹쳤을 뿐이라며 얼버무린다"
+    },
+    {
+      "$id": 15,
+      "label": "qev092404_JNK0020",
+      "style": 4,
+      "name": "암시한다"
+    },
+    {
+      "$id": 16,
+      "label": "qev092404_SEL0021",
+      "style": 3,
+      "name": "히메리도 분명 흥미가 생길 거라며\n일기를 암시하는 듯이 말한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev092404_MSG0011",
+      "style": 0,
+      "name": "그런가요……\n하지만 우연도 반복되면 운명이라고 하죠[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092404_MSG0012",
+      "style": 0,
+      "name": "분명 모두를 행복하게 만들\n아주 멋진 무언가를 찾을 수 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092404_MSG0013",
+      "style": 0,
+      "name": "어머, 어떤 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092404_MSG0014",
+      "style": 0,
+      "name": "분명 모두를 행복하게 만들\n아주 멋진 무언가겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092404_MSG0015",
+      "style": 0,
+      "name": "어서 보고 싶네요\n그러면 바로 가 볼까요?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092404_MSG0016",
+      "style": 0,
+      "name": "드론고 카라반 최강의 전사인 루리리타조차도\n당해 내지 못한 녀석이 돌아다니고 있어모[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092404_MSG0017",
+      "style": 0,
+      "name": "심부름꾼 언니, 조심해서 가라모![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092404_MSG0017_m",
+      "style": 0,
+      "name": "심부름꾼 언니, 조심해서 가라모![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092404_MSG0017_f",
+      "style": 0,
+      "name": "심부름꾼 언니, 조심해서 가라모![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092404_MSG0018",
+      "style": 1,
+      "name": "흰고래의 잔해는 아~주 높은 곳에 있다모![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092404_MSG0019",
+      "style": 1,
+      "name": "힘들겠지만 적의 맹공을 뚫고\n무사히 심부름꾼 언니에게\n선물을 줬으면 좋겠어모[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092404_MSG0020",
+      "style": 1,
+      "name": "멋진 선물, 발견한 거야모?\n잘됐다모![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092404_MSG0020_m",
+      "style": 1,
+      "name": "멋진 선물, 발견한 거야모?\n잘됐다모![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092404_MSG0020_f",
+      "style": 1,
+      "name": "멋진 선물, 발견한 거야모?\n잘됐다모![ST:wait ]"
+    }
+  ]
+}

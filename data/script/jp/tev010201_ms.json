@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev010201_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev010201_SEL0011",
+      "style": 3,
+      "name": "NLAに住む異星人に\nついて聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev010201_JNK0020",
+      "style": 4,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev010201_SEL0021",
+      "style": 3,
+      "name": "困っていることを尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev010201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev010201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev010201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev010201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev010201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev010201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev010201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev010201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev010201_MSG0001",
+      "style": 1,
+      "name": "長丁場の任務から戻って来てみれば\n……なんだこの街のありさまは[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev010201_MSG0002",
+      "style": 1,
+      "name": "奇怪な見た目の奴らが\n我が物顔で闊歩しているなど……\n一体　暫定自治政府は何をしているのだ？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev010201_MSG0003",
+      "style": 1,
+      "name": "なんだって？　モーリス行政長官が\n認めた　正式な住民だと？\n……ふん　おかしな世の中だ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev010201_MSG0008",
+      "style": 1,
+      "name": "皆……異星人に地球を追い出されたことを\n忘れてしまったのか？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev010201_MSG0009",
+      "style": 1,
+      "name": "苦しく長い旅を余儀なくされ\nさらにこの奇妙な惑星に\n不時着させられたのも異星人が原因なのだ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev010201_MSG0010",
+      "style": 1,
+      "name": "ここは地球人のために作られた街[ST:wide ]―だが\nこの状況では　俺が何をいっても\n変わらないのだろうな……[ST:wait ]"
+    }
+  ]
+}

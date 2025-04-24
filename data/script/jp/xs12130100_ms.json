@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12130100_MSG0001",
+      "style": 0,
+      "name": "防衛システム　最終フェイズ　起動します[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs12130100_MSG0002",
+      "style": 0,
+      "name": "き　貴様[ST:wide ]―\n滅ぼしたかったのではないのか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12130100_MSG0003",
+      "style": 0,
+      "name": "地球人類をこの宇宙から[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12130100_MSG0004",
+      "style": 0,
+      "name": "悪いな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12130100_MSG0005",
+      "style": 0,
+      "name": "地球人ってのは変わっていくものなのさ\n身体も[ST:wide ]―　心も！[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs12130100_MSG0006",
+      "style": 0,
+      "name": "節操のない原始人め[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs12130100_MSG0007",
+      "style": 0,
+      "name": "地球人はあの時に滅ぶべきだった\nというのは虚言だったか！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12130100_MSG0008",
+      "style": 0,
+      "name": "元々　てめぇらが地球の側でドンパチさえ\n始めなければ　こんなことには[ST:wide ]―！[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs12130100_MSG0009",
+      "style": 0,
+      "name": "残念だが　ここにゃ２千万しかいねぇ\n残り９９億８千万人分の怨嗟！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12130100_MSG0010",
+      "style": 0,
+      "name": "キッチリ精算してもらうぜ！\nルクザール！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12130100_MSG0011",
+      "style": 0,
+      "name": "うっうぉぉぉっ[ST:wide ]―！[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs12130100_MSG0012",
+      "style": 0,
+      "name": "[ST:wide ]―ラオさん！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs12130100_MSG0013",
+      "style": 0,
+      "name": "いけない！\n早くラオを！[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs12130100_MSG0014",
+      "style": 0,
+      "name": "ぐおおおおっ[ST:wide ]―！[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs12130100_MSG0015",
+      "style": 0,
+      "name": "これは[ST:wide ]―　地球人の遺伝子\nやはり神話は[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs12130100_MSG0016",
+      "style": 0,
+      "name": "待ってろ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs12130100_MSG0017",
+      "style": 0,
+      "name": "ラオさん[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12130100_MSG0018",
+      "style": 0,
+      "name": "俺は[ST:wide ]―　地球種汎移民計画で\n生き延びた者など　偽りの命[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs12130100_MSG0019",
+      "style": 0,
+      "name": "地球人は地球と運命を共にすべきと思っていた\nだが　そうではなかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12130100_MSG0020",
+      "style": 0,
+      "name": "たとえ[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]だろうと\n人々はこの惑星で懸命に生きていた[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs12130100_MSG0021",
+      "style": 0,
+      "name": "ミラに辿り着いたのは[ST:wide ]―\n死に損ねた命なんかじゃない[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "xs12130100_MSG0022",
+      "style": 0,
+      "name": "新しい宇宙に　芽吹くべき命の種子だったんだ\n俺は　やっと気づいた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12130100_MSG0023",
+      "style": 0,
+      "name": "なんだこれは[ST:wide ]―\n命が　地球上の全ての命が　俺の中に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12130100_MSG0024",
+      "style": 0,
+      "name": "あああああっ[ST:wide ]―！！[ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "xs12130100_MSG0025",
+      "style": 0,
+      "name": "地球の生き物の遺伝子情報が[ST:wide ]―\n止めないと！[ST:wait ]\n"
+    },
+    {
+      "$id": 26,
+      "label": "xs12130100_MSG0026",
+      "style": 0,
+      "name": "みんな[ST:wide ]―　やめてっ！！[ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "xs12130100_MSG0027",
+      "style": 0,
+      "name": "どきなさいリン[ST:wide ]―\nライフを破壊させるわけにはいかない[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs12130100_MSG0028",
+      "style": 0,
+      "name": "今度は[ST:wide ]―　撃つ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs12130100_MSG0029",
+      "style": 0,
+      "name": "でも　でも[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs12130100_MSG0030",
+      "style": 0,
+      "name": "エルマが正しい[ST:wide ]―　リン[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs12130100_MSG0031",
+      "style": 0,
+      "name": "この身体は[ST:wide ]―　もう俺の思い通りにならん\n頼む　リン[ST:wide ]―　俺を止めてくれ[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "xs12130100_MSG0032",
+      "style": 0,
+      "name": "俺の手で地球種汎移民計画を[ST:wide ]―\n地球人類の可能性を破壊させないでくれ[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs12130100_MSG0034",
+      "style": 0,
+      "name": "もう一度言うわ\nどきなさい　リン！[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs12130100_MSG0036",
+      "style": 0,
+      "name": "いえ[ST:wide ]―　私も戦います[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs12130100_MSG0037",
+      "style": 0,
+      "name": "私が止めます[ST:wide ]―　ラオさんのためにも！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs12130100_MSG0038",
+      "style": 0,
+      "name": "あなたも　一緒に？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs12130100_MSG0039",
+      "style": 0,
+      "name": "ありがとう[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000492_MSG0001",
+      "style": 1,
+      "name": "おはようございます\n[ST:playername ]さん　こんな早朝から\nご苦労さまです[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000492_MSG0002",
+      "style": 1,
+      "name": "散歩ですか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000492_MSG0003",
+      "style": 1,
+      "name": "僕はご覧のとおり総合生産プラントの\n視察をしてたんです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000492_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 5,
+      "label": "tev000492_SEL0011",
+      "style": 3,
+      "name": "HBはコンパニオンだったか\n尋ねる"
+    },
+    {
+      "$id": 6,
+      "label": "tev000492_JNK0020",
+      "style": 4,
+      "name": "賞賛"
+    },
+    {
+      "$id": 7,
+      "label": "tev000492_SEL0021",
+      "style": 3,
+      "name": "ブレイド本部の仕事もこなすのは\nさすがだと賞賛する"
+    },
+    {
+      "$id": 8,
+      "label": "tev000492_MSG0004",
+      "style": 1,
+      "name": "進歩ないですねぇ……\n呆れてしまいますよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000492_MSG0005",
+      "style": 1,
+      "name": "僕はパスファインダーです[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000492_MSG0006",
+      "style": 1,
+      "name": "君もさすがエリートですね\n察しがいい[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000492_MSG0007",
+      "style": 1,
+      "name": "異星人がNLAに来てからというもの\nこの総合生産プラントは昼夜を問わず\nフル稼働だという話を聞きまして[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000492_MSG0008",
+      "style": 1,
+      "name": "もし事故でも起きれば　ブレイドにとっても\nNLA市民にとっても　異星人にとっても\n一大事です[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000492_MSG0009",
+      "style": 1,
+      "name": "忙しいときほど足元は見えませんからね\n第三者がチェックしてあげないと[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000492_MSG0010",
+      "style": 1,
+      "name": "そう心配になって見に来た次第です[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000492_JNK0030",
+      "style": 4,
+      "name": "確認"
+    },
+    {
+      "$id": 16,
+      "label": "tev000492_SEL0031",
+      "style": 3,
+      "name": "プラントの現状を確認する"
+    },
+    {
+      "$id": 17,
+      "label": "tev000492_JNK0040",
+      "style": 4,
+      "name": "協力"
+    },
+    {
+      "$id": 18,
+      "label": "tev000492_SEL0041",
+      "style": 3,
+      "name": "何か手伝えることはないか\n協力を申し出る"
+    },
+    {
+      "$id": 19,
+      "label": "tev000492_MSG0011",
+      "style": 1,
+      "name": "ご心配には及びません[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000492_MSG0012",
+      "style": 1,
+      "name": "彼らもプロフェッショナルです\n僕の杞憂でした[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000492_MSG0013",
+      "style": 1,
+      "name": "ピザの生産量がプラス2000％になり\n爆発的に増加したのを除けば\n些細な問題があるくらいでしたよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000492_MSG0014",
+      "style": 1,
+      "name": "気遣いありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000492_MSG0015",
+      "style": 1,
+      "name": "しかし　協力は不要です\n私の力さえも無用でした[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000492_MSG0016",
+      "style": 1,
+      "name": "ピザの生産量が\nプラス2000％になっていましたが\n彼らもプロフェッショナルでした[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000492_MSG0017",
+      "style": 1,
+      "name": "需要の少ないもののプライオリティを下げ\n生産をうまく調整していましたよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000492_MSG0018",
+      "style": 1,
+      "name": "さて　僕はこれからブレイド本部に\n報告に行きます[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000492_MSG0019",
+      "style": 1,
+      "name": "君も近頃は順風満帆のようですが\n足元をすくわれないように\n注意はしてくださいよ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000492_MSG0020",
+      "style": 1,
+      "name": "では　また任務でご一緒しましょう[ST:wait ]"
+    }
+  ]
+}

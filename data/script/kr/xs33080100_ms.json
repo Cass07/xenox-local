@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33080100_MSG0010",
+      "style": 0,
+      "name": "NLA가……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33080100_MSG0020",
+      "style": 0,
+      "name": "모든 대원에게 알린다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33080100_MSG0030",
+      "style": 0,
+      "name": "본선은 지금부터 2시간 후에\n적의 거점을 향해 발진한다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33080100_MSG0040",
+      "style": 0,
+      "name": "각 대원 출격 준비![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33080100_MSG0050",
+      "style": 0,
+      "name": "마지막 임무야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33080100_MSG0060",
+      "style": 0,
+      "name": "가자[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33080100_MSG0070",
+      "style": 0,
+      "name": "드디어 때가 됐군[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33080100_MSG0080",
+      "style": 0,
+      "name": "보이드 녀석에게\n누가 패자인지 알게 해 주겠어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33080100_MSG0090",
+      "style": 0,
+      "name": "총수와 똑같은 꼴을 당하게 해 주겠다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33080100_MSG0100",
+      "style": 0,
+      "name": "옛말에 이르길\n살을 주고 뼈를 취한다고 했습니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33080100_MSG0110",
+      "style": 0,
+      "name": "아니, 그것보다 더 괜찮은 말은 없냐?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33080100_MSG0120",
+      "style": 0,
+      "name": "첫 한 방은 내 거다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33080100_MSG0130",
+      "style": 0,
+      "name": "그럼 마지막은 나야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33080100_MSG0140",
+      "style": 0,
+      "name": "라오 씨……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33080100_MSG0150",
+      "style": 0,
+      "name": "반드시 살아남을게요[ST:wait ]"
+    }
+  ]
+}

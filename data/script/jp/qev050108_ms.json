@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050108_MSG0001",
+      "style": 1,
+      "name": "負けた……負けたのォ　ギ・ゾルデよ！\n我らはまだまだ未熟だなァ！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050108_MSG0002",
+      "style": 1,
+      "name": "しかし悔いはない\n得られたものの大きさを思えばな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050108_MSG0003",
+      "style": 1,
+      "name": "私達は　これからまだまだ強くなれるさ\n気に食わぬが……共にいればな！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050108_MSG0004",
+      "style": 1,
+      "name": "おうよ！　これからも頼むぞ！\nいずれこのミラに　我ら二人の名を\n轟かせてやろうぞ！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050108_MSG0005",
+      "style": 1,
+      "name": "フッ……いつからそんな小さい男になった\nせめてこの宇宙に[ST:wide ]―くらい言ったらどうだ？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev050108_MSG0006",
+      "style": 1,
+      "name": "フハハハッ！　それはそうだな！\n思えばそれこそ　幼き頃よりの我らが夢！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev050108_MSG0007",
+      "style": 1,
+      "name": "……ありがとうな　[ST:playername ]！\nお前のおかげで　遥かな理想まで取り戻したわ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev050108_MSG0008",
+      "style": 1,
+      "name": "フフッ　血が燃えたぎってきたぞ！\nなぁゾルデよ　すぐにでも修行に行くか？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev050108_MSG0009",
+      "style": 1,
+      "name": "無論　無駄にできる時間など一刻たりともない[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050108_MSG0010",
+      "style": 1,
+      "name": "……[ST:playername ]　すぐに\nお前に負けぬ力を手に入れてみせるよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev050108_MSG0011",
+      "style": 1,
+      "name": "そうしたら……また手合せを願おう\n……それでは失礼する[ST:wait ]"
+    }
+  ]
+}

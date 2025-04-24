@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086905_MSG0001",
+      "style": 0,
+      "name": "다행이다, 지켜 냈어요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086905_MSG0002",
+      "style": 0,
+      "name": "여기에 더 있을 필요는 없겠어\n빨리 NLA로 가져가자[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086002_MSG0001",
+      "style": 0,
+      "name": "えっ　この区域の供給システムに伝送損失？\nいや　特に異常は感じないですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086002_MSG0002",
+      "style": 0,
+      "name": "でも　実際に計測されてるんです\nとにかく　点検をお願いします[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086002_MSG0003",
+      "style": 0,
+      "name": "なんだか　難しい話で\nタツよくわからないですも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086002_MSG0004",
+      "style": 0,
+      "name": "ＮＬＡはもともと\n宇宙船の居住ブロックだったのよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086002_MSG0005",
+      "style": 0,
+      "name": "ここは宇宙に面した船の外壁にあたるの[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086002_MSG0006",
+      "style": 0,
+      "name": "不要になった姿勢制御用スラスターに\nまわされるはずだった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086002_MSG0007",
+      "style": 0,
+      "name": "主機関からのエネルギーが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086002_MSG0008",
+      "style": 0,
+      "name": "要するに　水漏れが起きているようなものね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086002_MSG0009",
+      "style": 0,
+      "name": "前にリンが塞いでくれたのだけれど\nまた漏れてきちゃったの[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086002_MSG0010",
+      "style": 0,
+      "name": "なるほどですも！\nやっとわかったですも～～！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086002_MSG0012",
+      "style": 0,
+      "name": "どうしたの？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086002_MSG0013",
+      "style": 0,
+      "name": "そういえば　リンがメカニックの仕事を\nしているところを見るのは久しぶりね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086002_MSG0014",
+      "style": 0,
+      "name": "珍しい？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086002_JNK0010",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 15,
+      "label": "qev086002_SEL0011",
+      "style": 3,
+      "name": "リンについて詳しく聞く"
+    },
+    {
+      "$id": 16,
+      "label": "qev086002_JNK0020",
+      "style": 4,
+      "name": "関心"
+    },
+    {
+      "$id": 17,
+      "label": "qev086002_SEL0021",
+      "style": 3,
+      "name": "楽しげに作業する様子を見守る"
+    },
+    {
+      "$id": 18,
+      "label": "qev086002_MSG0015",
+      "style": 0,
+      "name": "元々リンはメカニックが本業だったのよ\nだから　どちらかというと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086002_MSG0016",
+      "style": 0,
+      "name": "ブレイドとして戦っている現状の方が\n無理をしてくれているのよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086002_MSG0017",
+      "style": 0,
+      "name": "楽しそうよね　彼女[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086002_MSG0018",
+      "style": 0,
+      "name": "リンは賢い子だから\nミラで生きることの意味を理解して[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086002_MSG0018_2",
+      "style": 0,
+      "name": "今でこそブレイドとして\n頑張ってくれているけれど[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086002_MSG0019",
+      "style": 0,
+      "name": "本当はこういう形で才能を活かせる方が\n嬉しいのかもしれないわね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086002_MSG0020",
+      "style": 0,
+      "name": "リンはね[ST:wide ]―\n白鯨でも機関区の保守要員だったのよ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086002_MSG0021",
+      "style": 0,
+      "name": "白鯨がミラに落着する時　ギリギリまで\n主機関の所に留まって保守を続けたのよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086002_MSG0022",
+      "style": 0,
+      "name": "若くても　彼女が信頼できる\nメカニックであることに変わりはない[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086002_MSG0023",
+      "style": 0,
+      "name": "そのリンが疑問を感じたのなら\nこの区画の設備には　必ず問題があるはず[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086002_MSG0024",
+      "style": 0,
+      "name": "問題が特定できました\n交換パーツの精度の問題みたいです[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086002_MSG0025",
+      "style": 0,
+      "name": "前回　交換した部分の？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086002_MSG0026",
+      "style": 0,
+      "name": "はい[ST:wide ]―\nＮＬＡで製造したパーツだったんですけど[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086002_MSG0027",
+      "style": 0,
+      "name": "やっぱり白鯨で使われてた地球製のものに\n比べると　性能が低いみたいです[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086002_MSG0028",
+      "style": 0,
+      "name": "それは仕方ない話ね[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086002_MSG0029",
+      "style": 0,
+      "name": "でも　流星の谷へ行けば\nまだ使えるパーツが見つかるかも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086002_MSG0030",
+      "style": 0,
+      "name": "リンさんがそう言うなら　すぐ行くですも！\nはやくお仕事終わらせて　ご飯にするですも！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086002_MSG0031",
+      "style": 0,
+      "name": "そうね\nタツが倒れてしまう前に終わらせましょう[ST:wait ]"
+    }
+  ]
+}

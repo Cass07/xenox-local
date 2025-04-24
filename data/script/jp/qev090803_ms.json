@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090803_MSG0001",
+      "style": 0,
+      "name": "あれが暴虐王ゲルボ・ボンゴ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090803_MSG0002",
+      "style": 0,
+      "name": "これからキャラバンを\n襲おうとしているようですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090803_MSG0003",
+      "style": 0,
+      "name": "[ST:wide ]―準備はできていますか？\n一気にしとめますよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090803_MSG0004",
+      "style": 0,
+      "name": "超人じみたバイアス人の身体能力[ST:wide ]―\nまさかここまでのものとは[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090803_MSG0005",
+      "style": 0,
+      "name": "君が隣にいなければこの僕であっても　\n勝てはしなかったでしょう[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090803_MSG0006",
+      "style": 0,
+      "name": "感謝しますよ\nさぁ　プララさんに報告に行きましょう[ST:wait ]"
+    }
+  ]
+}

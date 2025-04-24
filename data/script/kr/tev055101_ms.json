@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev055101_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev055101_SEL0011",
+      "style": 3,
+      "name": "카라반에 있는 동물에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev055101_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev055101_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev055101_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev055101_SEL0041",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev055101_SEL0051",
+      "style": 3,
+      "name": "즈 하그와의 싸움에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev055101_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev055101_SEL1011",
+      "style": 3,
+      "name": "노폰의 장사에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev055101_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev055101_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev055101_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev055101_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev055101_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev055101_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev055101_SEL2041",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev055101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev055101_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev055101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev055101_SEL2041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev055101_MSG0001",
+      "style": 1,
+      "name": "이건 노폰이 길들인 히포……\n노포히포다모![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev055101_MSG0002",
+      "style": 1,
+      "name": "무거운 짐을 잔~뜩 옮길 수 있고\n입안에 들어가면 위험한 녀석들로부터\n몸을 숨기고 이동할 수 있다모![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev055101_MSG0003",
+      "style": 1,
+      "name": "어떠냐모? 흥미가 생겼어모?\n입안에 들어가 보고 싶어졌냐모?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev055101_MSG0004",
+      "style": 1,
+      "name": "조금 축축하고 미끈미끈하지만\n온기가 느껴지면서 꽤 쾌적하다모![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev055101_MSG009",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev055101_MSG010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev055101_MSG011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev055101_MSG012",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev055101_MSG017",
+      "style": 1,
+      "name": "드론고 카라반에 사는 나르가\n그로우스에게 위협당하고 있는 것 같다모![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev055101_MSG018",
+      "style": 1,
+      "name": "불쌍하다모, 비극의 여주인공이다모![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev055101_MSG019",
+      "style": 1,
+      "name": "와나나는 힘이 부족해서 어려웠지만\n당신이라면 도와줄 수 있을 것 같다모[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev055101_MSG020",
+      "style": 1,
+      "name": "드론고 카라반은 북쪽으로 쭈~욱 가면 나오는\n용암이 부글부글한 곳에 있으니까……\n혹시 들르게 된다면 도와줬으면 한다모[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev055101_MSG025",
+      "style": 1,
+      "name": "그 덩치 큰 녀석이 날뛰는 바람에\n아직도 노포히포가 겁에 질려 있다모![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev055101_MSG026",
+      "style": 1,
+      "name": "밤에도 잠을 못 자는 것 같고, 식욕도 없고……\n그로우스, 용서할 수 없다모![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev055101_MSG027",
+      "style": 1,
+      "name": "지구인이 쓰러뜨려 주지 않았으면\n와나나가 분노의 라이트 스트레이트로\n그 녀석의 보디를 분쇄해 버렸을 거다모![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev055101_MSG1001",
+      "style": 1,
+      "name": "미라는 위험하다모! 하지만 위험하기 때문에\n상품을 멀리 가져가면 가격이 오른다모![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev055101_MSG1002",
+      "style": 1,
+      "name": "쿠타는 전설의 운반책으로서\n북쪽 부글부글 대륙부터 남쪽 대황야까지[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev055101_MSG1003",
+      "style": 1,
+      "name": "많~은 상품을 옮겨서 악착같이 돈을 벌고 있는\n사실은 대단한 노폰이다모![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev055101_MSG1004",
+      "style": 1,
+      "name": "지금도 이 미라의 하늘 아래에서\n굉장한 것을 옮기고 있을 거다모!\n언젠가 전설은 신화가 될 거다모~[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev055101_MSG2001",
+      "style": 1,
+      "name": "최근 드론고 카라반의 나르와\n편지를 주고받고 있는데모[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev055101_MSG2002",
+      "style": 1,
+      "name": "그 사람…… 그 가혹한 흑강의 대륙에서\n그로우스에게 위협받고 원시 생물에게 습격받으면서\n엄청나게 고생하는 것 같다모……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev055101_MSG2003",
+      "style": 1,
+      "name": "……너무 불쌍하다모!\n그래서 와나나는 나르를 돕기 위해\n여러 가지 필요한 걸 보내 주고 있다모![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev055101_MSG2004",
+      "style": 1,
+      "name": "그랬더니 나르가 답장에\n와나나가 정말 좋다고 써 줬다모!\n기쁘다모~ 더 많이 보내 주겠다모~[ST:wait ]"
+    }
+  ]
+}

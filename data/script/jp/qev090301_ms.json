@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090301_MSG0001",
+      "style": 0,
+      "name": "アイツの両足　左腕[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090301_MSG0002",
+      "style": 0,
+      "name": "[ST:wide ]―ここまで見つけてくれたんだな　相棒\n後はあいつの身体と頭だけ[ST:wide ]―　だな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090301_JNK0010",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 4,
+      "label": "qev090301_SEL0011",
+      "style": 3,
+      "name": "まだ右腕を見つけていないと\n疑問を口にする"
+    },
+    {
+      "$id": 5,
+      "label": "qev090301_JNK0020",
+      "style": 4,
+      "name": "慰める"
+    },
+    {
+      "$id": 6,
+      "label": "qev090301_SEL0021",
+      "style": 3,
+      "name": "友の死を前にしたイエルヴに\nいたわりの言葉をかける"
+    },
+    {
+      "$id": 7,
+      "label": "qev090301_MSG0003",
+      "style": 0,
+      "name": "実はよ[ST:wide ]―　右腕は　俺が持ってるんだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090301_MSG0004",
+      "style": 0,
+      "name": "バカ野郎[ST:wide ]―　アイツはまだ死んでねぇよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090301_MSG0005",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090301_MSG0006",
+      "style": 0,
+      "name": "実はよ　アイツの右腕はさ[ST:wide ]―\n俺が持ってるんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090301_MSG0007",
+      "style": 0,
+      "name": "白鯨が墜落する時[ST:wide ]―\n爆炎に消えるアイツのドールを見てよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090301_MSG0008",
+      "style": 0,
+      "name": "アイツとは　もう二度と会えないんだって[ST:wide ]―\n覚悟を決めたよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090301_MSG0009",
+      "style": 0,
+      "name": "だけどな　墜落の衝撃で気を失って\n目が覚めたら　俺を守るみたいに身体の上に[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090301_MSG0010",
+      "style": 0,
+      "name": "この右腕が乗っかってやがったんだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090301_MSG0011",
+      "style": 0,
+      "name": "本当　どこまでも面倒見の良い奴だよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090301_MSG0012",
+      "style": 0,
+      "name": "そんな奴がよ[ST:wide ]―　俺を見捨てて\n勝手に　先に逝っちまうわけがねぇだろ？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090301_MSG0013",
+      "style": 0,
+      "name": "[ST:wide ]―なぁ　頼む[ST:wide ]―\nアイツを捜すのを手伝ってくれないか？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090301_MSG0014",
+      "style": 0,
+      "name": "この４つの手足の落下地点から[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090301_MSG0015",
+      "style": 0,
+      "name": "今までより　もっと詳しく\nアイツの落ちた場所を割り出せるはずなんだ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090301_JNK0030",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 21,
+      "label": "qev090301_SEL0031",
+      "style": 3,
+      "name": "幼馴染は死んでいる可能性が\n高いと事実を告げる"
+    },
+    {
+      "$id": 22,
+      "label": "qev090301_JNK0040",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 23,
+      "label": "qev090301_SEL0041",
+      "style": 3,
+      "name": "イエルヴの気持ちを汲み\n静かに頷く"
+    },
+    {
+      "$id": 24,
+      "label": "qev090301_MSG0016",
+      "style": 0,
+      "name": "アイツは軍時代　何発食らおうが\nどんな大怪我しようが生還してきたんだよ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090301_MSG0017",
+      "style": 0,
+      "name": "こんなことぐらいじゃ　くたばらねぇよ[ST:wide ]―\nしぶとく生き延びてるはずさ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090301_MSG0018",
+      "style": 0,
+      "name": "とにかく早く[ST:wide ]―　迎えに行ってやらなきゃよ\nアイツ　寂しがってるはずだから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090301_MSG0019",
+      "style": 0,
+      "name": "ありがとよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090301_MSG0020",
+      "style": 0,
+      "name": "きっとアイツ　寂しがってるはずだから\n早く迎えに行ってやらなきゃな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090301_MSG0021",
+      "style": 0,
+      "name": "まずは[ST:wide ]―　エレオノーラに落下地点の\n予測を聞きに行こうぜ　相棒[ST:wait ]"
+    }
+  ]
+}

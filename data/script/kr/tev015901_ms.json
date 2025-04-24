@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev015901_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev015901_SEL0011",
+      "style": 3,
+      "name": "이 장소에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev015901_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev015901_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev015901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev015901_SEL0031",
+      "style": 3,
+      "name": "마 논인에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev015901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev015901_SEL0041",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev015901_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev015901_SEL1031",
+      "style": 3,
+      "name": "노폰에 관해 묻는다"
+    },
+    {
+      "$id": 11,
+      "label": "tev015901_MSG0001",
+      "style": 1,
+      "name": "여기는 놀이터야\n……농담하는 거 아니라고[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev015901_MSG0002",
+      "style": 1,
+      "name": "아무리 지구 도시와 비슷해도\n살다 보면 스트레스가 쌓이잖아\n그럴 때 여기서 발산하는 거지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev015901_MSG0003",
+      "style": 1,
+      "name": "……제대로 플레이해 주는 상대는\n내게 테니스를 권유해 준\n조이 정도밖에 없지만 말이야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev015901_MSG0004",
+      "style": 1,
+      "name": "여길 활용하는 사람이 늘면 좋을 텐데\n너도 한번 해 볼래?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev015901_MSG0008",
+      "style": 1,
+      "name": "NLA에서 동쪽으로 가면\n망각의 계곡이라는 곳이 나온다고 해[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev015901_MSG0009",
+      "style": 1,
+      "name": "깎아지른 듯한 절벽에 거대한 폭포\n신비로운 원형 유적……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev015901_MSG0010",
+      "style": 1,
+      "name": "마음을 들뜨게 하는 클라이밍 포인트가\n잔뜩 있을 것 같아![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev015901_MSG0011",
+      "style": 1,
+      "name": "원시 생물이 덤벼들지만 않으면\n당장이라도 등반하러 갔을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev015901_MSG0020",
+      "style": 1,
+      "name": "마 논인이 테니스 코트에\n흥미가 있다고 했어![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev015901_MSG0021",
+      "style": 1,
+      "name": "……다만, 좀 독특하게 놀더라……\n규칙을 알려 주었는데도\n그런 것에 속박되기는 싫다면서……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev015901_MSG0022",
+      "style": 1,
+      "name": "즐겁다면야…… 상관은 없지만……\n안 돼, 스트레스받지 말자……\n그들을 받아들여 줘야 해……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev015901_MSG0023",
+      "style": 1,
+      "name": "내게 테니스를 권유해 준 조이가\n그들을 받아들여 줬으니까……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev015901_MSG0027",
+      "style": 1,
+      "name": "NLA에서 서쪽으로 가면\n야광의 숲에 도달한다는 건 알지?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev015901_MSG0028",
+      "style": 1,
+      "name": "저번에 테스터먼트 친구에게 부탁해서\n임무에 동행할 때 구경을 좀 했거든[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev015901_MSG0029",
+      "style": 1,
+      "name": "대자연 속 야외 활동에\n딱 맞는 에어리어였어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev015901_MSG0030",
+      "style": 1,
+      "name": "원시 생물이 덤벼든다는\n끔찍한 부작용만 없으면\n최고일 텐데 말이야……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev015901_MSG1001",
+      "style": 1,
+      "name": "마 논인에 이어 이번엔 오르페인이\n테니스 코트에 흥미가 있다고 했어[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev015901_MSG1002",
+      "style": 1,
+      "name": "톤보이톤에게 테니스 규칙을 알려 주니까\n금방 숙달해서…… 이길 수가 없게 되더라[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev015901_MSG1003",
+      "style": 1,
+      "name": "승리의 비결을 물었더니\n네트의 그물망에 테니스의 법칙과 이론이\n담겨 있다고 하던데……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev015901_MSG1004",
+      "style": 1,
+      "name": "……뭐라고 해야 하나\n재미있었다는 말밖에 안 떠오르네[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev015901_MSG1008",
+      "style": 1,
+      "name": "노폰이 테니스에\n흥미가 있다……고는 했는데[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev015901_MSG1009",
+      "style": 1,
+      "name": "테니스 규칙을 알려 주었더니\n그보다 공을 멀리 날리는 게\n더 재밌다고 하면서……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev015901_MSG1010",
+      "style": 1,
+      "name": "순식간에 홈런을……\n아아…… 귀중한 공이……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev015901_MSG1011",
+      "style": 1,
+      "name": "안 돼……\n스트레스받지 말자……\n진정해야 해……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev015901_MSG1012",
+      "style": 1,
+      "name": "내게 테니스를 권유해 준 조이가\n그들을 받아들여 줬으니까……[ST:wait ]"
+    }
+  ]
+}

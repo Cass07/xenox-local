@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32230100_MSG0010",
+      "style": 0,
+      "name": "大丈夫ですか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32230100_MSG0020",
+      "style": 0,
+      "name": "だっ　大丈夫ですも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32230100_MSG0030",
+      "style": 0,
+      "name": "ここは私達に任せて　今のうちに[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32230100_MSG0040",
+      "style": 0,
+      "name": "わかったですも！[ST:wait ]"
+    }
+  ]
+}

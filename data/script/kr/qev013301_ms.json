@@ -1,0 +1,372 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013301_MSG0001",
+      "style": 1,
+      "name": "아앗! 드디어 찾았다!\n당신을 찾고 있었어……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev013301_MSG0002",
+      "style": 1,
+      "name": "콜론더스 대장도 사라져서……\n이제 의지할 수 있는 게 당신밖에 없어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev013301_MSG0003",
+      "style": 1,
+      "name": "부탁이야, 우리 팀을 도와줘……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev013301_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev013301_SEL0011",
+      "style": 3,
+      "name": "우선은 무슨 일이 있었는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev013301_JNK0020",
+      "style": 4,
+      "name": "수락[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev013301_SEL0021",
+      "style": 3,
+      "name": "래리의 부탁을 흔쾌히 받아들인다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev013301_MSG0004",
+      "style": 1,
+      "name": "그래…… 우선은 침착하게 설명해야겠지\n당신처럼 냉정하게 말이야……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev013301_MSG0005",
+      "style": 1,
+      "name": "사정도 묻지 않고…… 당신답네\n고마워, 당신에게 말을 걸어서 정말 다행이야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev013301_MSG0006",
+      "style": 1,
+      "name": "……나도 침착해야겠지\n처음부터 설명하도록 할게[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev013301_MSG0007",
+      "style": 1,
+      "name": "최근에 콜론더스 팀 대원이\n잇따라 그 검은 돌에게\n습격당하고 있어서 말이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev013301_MSG0008",
+      "style": 1,
+      "name": "NLA에 돌아오지 못하고\n소식이 끊긴 대원들이 많아졌어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev013301_MSG0009",
+      "style": 1,
+      "name": "그래서 콜론더스 대장이\n직접 구출대를 편성해서\nNLA를 뛰쳐나갔는데……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev013301_MSG0010",
+      "style": 1,
+      "name": "그게…… 대장의 부대까지\n행방불명돼 버려서\n지금 대원 중에 남아 있는 게 나뿐이라……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev013301_MSG0011",
+      "style": 1,
+      "name": "정말 이제 어떻게 해야 할지 몰랐는데……\n[ST:playername ]…… 당신을 떠올린 거야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev013301_JNK0030",
+      "style": 4,
+      "name": "감사[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev013301_SEL0031",
+      "style": 3,
+      "name": "의지해 줘서 영광이라고 말한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev013301_JNK0040",
+      "style": 4,
+      "name": "곤혹[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev013301_SEL0041",
+      "style": 3,
+      "name": "그런 상황에 의지하면 곤란하다고 말한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev013301_MSG0012",
+      "style": 1,
+      "name": "전에 보여 준 당신의 훌륭한 실력은\n잊고 싶어도 잊을 수 있는 게 아니야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev013301_MSG0013",
+      "style": 1,
+      "name": "제발 부탁해……\n그 힘으로 콜론더스 팀을\n도와줄 수 없을까?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev013301_MSG0014",
+      "style": 1,
+      "name": "그렇지…… 당신 같은 뛰어난 블레이드는\n분명 아주 바쁠 거야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev013301_MSG0015",
+      "style": 1,
+      "name": "그리고…… 이런 식으로\n동업자를 의지하다니\n굉장히 부끄러운 일일지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev013301_MSG0016",
+      "style": 1,
+      "name": "하지만 나는 어떻게 해서든 콜론더스 팀을 지키고 싶어\n부탁이야, 당신의 능력으로 대원들을 구해 줘……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev013301_MSG0017",
+      "style": 1,
+      "name": "……분명 당신이라면\n그렇게 말할 줄 알았어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev013301_MSG0018",
+      "style": 1,
+      "name": "그렇다면 우선 망각의 계곡에서 행방불명된\n피터 부대를 구하러 가 줘[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev013301_MSG0019",
+      "style": 1,
+      "name": "그 후에는 대원들의 소식을 알게 되는 대로\n이쪽에서 연락하도록 할게[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev013301_MSG0020",
+      "style": 1,
+      "name": "모쪼록 검은 돌은 조심하도록 해[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev013301_MSG0021",
+      "style": 1,
+      "name": "그 기체 한 대에\n콜론더스 팀 돌 부대가\n거의 전멸당했으니까[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev013301_JNK0050",
+      "style": 4,
+      "name": "낙관[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev013301_SEL0051",
+      "style": 3,
+      "name": "낙관적인 의견을 늘어놓는다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev013301_JNK0060",
+      "style": 4,
+      "name": "신중[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev013301_SEL0061",
+      "style": 3,
+      "name": "교전을 피하기 위한 신중론을 늘어놓는다[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev013301_MSG0022",
+      "style": 1,
+      "name": "당신이 그렇게 말하면\n정말 그럴 것 같아서 신기해\n고마워, 안심하고 일을 부탁할 수 있겠어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev013301_MSG0023",
+      "style": 1,
+      "name": "음…… 그래도 당신이라면……\n어째서인지 그 녀석에게도\n지지 않을 것 같은 기분이 들어[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev013301_MSG0024",
+      "style": 1,
+      "name": "그럼 부탁할게\n모두를 구해 줘[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev013301_MSG0025",
+      "style": 1,
+      "name": "콜론더스 대장은\n백목의 대륙에 있을 거야\n부탁해…… 대장을 구해 줘[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev013301_MSG0030",
+      "style": 1,
+      "name": "이렇게 대원들의 얼굴을 볼 수 있다니……\n[ST:playername ]…… 정말 고마워[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev013301_MSG0031",
+      "style": 1,
+      "name": "보수를 받아 줘\n당신은 정말 소중한 걸 지켜 줬어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev013301_MSG0032",
+      "style": 1,
+      "name": "많은 동료를 잃었지만\n콜론더스 대장과 함께 재건해 나가겠어[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev013301_MSG0033",
+      "style": 1,
+      "name": "엘마 팀도 힘내\n분명 당신들을 필요로 하는 사람은\n우리 말고도 더 많이 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev013301_MSG0026",
+      "style": 1,
+      "name": "베이츠……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev013301_MSG0027",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev013301_MSG0028",
+      "style": 1,
+      "name": "안 되지…… 지금은 앞을 봐야 할 때야\n죽음을 슬퍼하는 건 그 후에…… 해야겠지[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev013301_MSG0029",
+      "style": 1,
+      "name": "콜론더스 대장은\n백목의 대륙에 있을 거야\n부탁해…… 대장을 구해 줘[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev013301_MSG0034",
+      "style": 1,
+      "name": "어라…… 콜론더스 대장은 어떻게 됐어?\n당신과 함께 돌아올 줄 알았는데……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev013301_JNK0070",
+      "style": 4,
+      "name": "사죄[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev013301_SEL0071",
+      "style": 3,
+      "name": "콜론더스가 죽었다고\n솔직하게 전하고 사과한다[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev013301_JNK0080",
+      "style": 4,
+      "name": "변명[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev013301_SEL0081",
+      "style": 3,
+      "name": "콜론더스가 죽은 건\n자신 때문이 아니라고 말한다"
+    },
+    {
+      "$id": 51,
+      "label": "qev013301_MSG0035",
+      "style": 1,
+      "name": "당신이 사과할 필요는…… 전혀 없어\n그래도 당신은 사과하겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev013301_MSG0036",
+      "style": 1,
+      "name": "괜찮아…… 잘못한 건……\n이런 때에 아무것도 못 한 무력한 나……[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev013301_MSG0037",
+      "style": 1,
+      "name": "으흑……\n대장이 없어진 건……\n모든 건 다 내 책임이야……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev013301_MSG0038",
+      "style": 1,
+      "name": "당신은 분명 책임감이 강할 테니까\n그렇게 말하는 거겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev013301_MSG0039",
+      "style": 1,
+      "name": "알고 있어…… 당신에게 책임은 없어……[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev013301_MSG0040",
+      "style": 1,
+      "name": "잘못한 건……\n이런 때에 아무것도 못 한 무력한 나……[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev013301_MSG0041",
+      "style": 1,
+      "name": "미안해…… 너무 슬퍼서……\n아무 생각도 할 수 없어……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev013301_MSG0042",
+      "style": 1,
+      "name": "베이츠도 다른 사람들도\n다들 콜론더스 대장을 동경해서 입대했는데……\n앞으로 어떻게 해야……[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev013301_MSG0043",
+      "style": 1,
+      "name": "……맞다, 이건 보수야\n여러모로 움직여 줘서 고마워……[ST:wait ]"
+    }
+  ]
+}

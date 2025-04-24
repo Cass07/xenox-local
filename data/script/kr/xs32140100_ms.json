@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32140100_MSG0010",
+      "style": 0,
+      "name": "이건……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32140100_MSG0020",
+      "style": 0,
+      "name": "찾고 있던 장치 같네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32140100_MSG0030",
+      "style": 0,
+      "name": "찾아냈구나[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32140100_MSG0040",
+      "style": 0,
+      "name": "그런 것 같네요……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32140100_MSG0050",
+      "style": 0,
+      "name": "이 장치는 우리가 가지고 가자[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32140100_MSG0060",
+      "style": 0,
+      "name": "그들의 의지를 헛되게 하지 않기 위해[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32140100_MSG0070",
+      "style": 0,
+      "name": "……네[ST:wait ]"
+    }
+  ]
+}

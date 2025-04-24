@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05030100_MSG0001",
+      "style": 0,
+      "name": "いやぁ　ホントいつも美味しいなぁ\nリンちゃんの料理は[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs05030100_MSG0002",
+      "style": 0,
+      "name": "嬉しいです！\nでも　ごめんなさい[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs05030100_MSG0003",
+      "style": 0,
+      "name": "お二人が来るとわかってたら\nもっとたくさん作っておいたのに[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs05030100_MSG0004",
+      "style": 0,
+      "name": "全くですも！\nタツの分が減ってしまいましたですも[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs05030100_MSG0005",
+      "style": 0,
+      "name": "ごめんごめん[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs05030100_MSG0006",
+      "style": 0,
+      "name": "グインの奴　背は低いくせに食べる量は\n人の三倍なんだから　困ったもんだよな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs05030100_MSG0007",
+      "style": 0,
+      "name": "背が低いは余計っすよ[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs05030100_MSG0008",
+      "style": 0,
+      "name": "だいたい　イリーナ中尉の方が\n僕より食ったじゃないすか[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs05030100_MSG0009",
+      "style": 0,
+      "name": "で　あなた達[ST:wide ]―\n何か用があったんじゃないのかしら[ST:wait ]\n"
+    }
+  ]
+}

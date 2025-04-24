@@ -1,0 +1,552 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs01040150_MSG0001",
+      "style": 0,
+      "name": "自己紹介が遅くなってしまったが\n俺はナギ・ケンタロウ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs01040150_MSG0002",
+      "style": 0,
+      "name": "恒星間移民船　白鯨の船長だ\nいや　船長だったの方が正しいかな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs01040150_MSG0003",
+      "style": 0,
+      "name": "現在は暫定自治政府から\nＮＬＡの軍事や警察全般を任されている[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs01040150_MSG0004",
+      "style": 0,
+      "name": "私の上官でもあるわ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs01040150_MSG0005",
+      "style": 0,
+      "name": "あなたの住む所や仕事についても\n相談に乗ってくれるはずよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs01040150_MSG0006",
+      "style": 0,
+      "name": "ブレイドの所属にして\nここに住むのではダメなのか[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs01040150_MSG0006_m",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "xs01040150_MSG0006_f",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "xs01040150_MSG0007",
+      "style": 0,
+      "name": "しばらくはここに滞在してもらうつもりだけど\n所属については　意思を尊重してあげたい[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs01040150_MSG0007_m",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "xs01040150_MSG0007_f",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "xs01040150_MSG0008",
+      "style": 0,
+      "name": "それにどうも記憶障害みたいなの[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs01040150_MSG0008_m",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "xs01040150_MSG0008_f",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "xs01040150_MSG0009",
+      "style": 0,
+      "name": "何　それは本当か？[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs01040150_MSG0010",
+      "style": 0,
+      "name": "地球のことも白鯨のことも\n自分の名前以外は何も覚えていないみたい[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs01040150_MSG0010_m",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "xs01040150_MSG0010_f",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "xs01040150_MSG0011",
+      "style": 0,
+      "name": "そうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs01040150_MSG0012",
+      "style": 0,
+      "name": "だが我々にしたってこの星での記憶は\nまだ二ヶ月しかないからな[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs01040150_MSG0013",
+      "style": 0,
+      "name": "そんなに大差はないのかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs01040150_MSG0014",
+      "style": 0,
+      "name": "確かにそうね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs01040150_MSG0015",
+      "style": 0,
+      "name": "では　まず何から話そうか[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "xs01040150_JNK0010",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 25,
+      "label": "xs01040150_SEL0011",
+      "style": 3,
+      "name": "この星について詳しく聞く"
+    },
+    {
+      "$id": 26,
+      "label": "xs01040150_JNK0020",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 27,
+      "label": "xs01040150_SEL0021",
+      "style": 3,
+      "name": "ブレイドとは何か尋ねる"
+    },
+    {
+      "$id": 28,
+      "label": "xs01040150_JNK0030",
+      "style": 4,
+      "name": "催促"
+    },
+    {
+      "$id": 29,
+      "label": "xs01040150_SEL0031",
+      "style": 3,
+      "name": "登録手続きを急がせる"
+    },
+    {
+      "$id": 30,
+      "label": "xs01040150_MSG0016",
+      "style": 0,
+      "name": "今より遡ること二年前[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs01040150_MSG0017",
+      "style": 0,
+      "name": "我々の故郷地球は　突如として\n二つの異星文明の戦闘に巻き込まれたのだ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs01040150_MSG0018",
+      "style": 0,
+      "name": "強大な力と高い技術をもった異星人達の前に\n我々人類は何もできず[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs01040150_MSG0019",
+      "style": 0,
+      "name": "地球は焦土と化し\nそして[ST:wide ]―　消滅した[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs01040150_MSG0020",
+      "style": 0,
+      "name": "私がいなければ\nあんな事は起きずに今でも地球も人類も[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs01040150_MSG0021",
+      "style": 0,
+      "name": "何を言ってるんだ　エルマ[ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "xs01040150_MSG0022",
+      "style": 0,
+      "name": "君がいたからこそ地球種汎移民計画を\n実行に遷すことができたんじゃないか[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "xs01040150_MSG0023",
+      "style": 0,
+      "name": "不測の事態が起こったとはいえ\nこうしてここで　我々は生きていられるんだ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs01040150_MSG0024",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "xs01040150_MSG0025",
+      "style": 0,
+      "name": "話が逸れたな[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs01040150_MSG0026",
+      "style": 0,
+      "name": "たとえ母星を失ったとしても\n種を存続させなくてはならない[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs01040150_MSG0027",
+      "style": 0,
+      "name": "そう考えた人達が実行したのが\n地球種汎移民計画だ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs01040150_MSG0028",
+      "style": 0,
+      "name": "白鯨で地球を脱出した私達の旅は\n二年程続いた[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs01040150_MSG0028_2",
+      "style": 0,
+      "name": "過酷な日々だったわ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs01040150_MSG0029",
+      "style": 0,
+      "name": "それでも　居住可能な星を見つけ\nそこに移り住む[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs01040150_MSG0030",
+      "style": 0,
+      "name": "私達の意志は固かった[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs01040150_MSG0031",
+      "style": 0,
+      "name": "しかし　旅は突然　終わりを告げた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs01040150_MSG0032",
+      "style": 0,
+      "name": "異星文明どもは\nよっぽど俺達を根絶やしにしたかったらしい[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs01040150_MSG0033",
+      "style": 0,
+      "name": "しつこく追撃部隊を差し向けてきたのさ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs01040150_MSG0034",
+      "style": 0,
+      "name": "だが幸か不幸か　敵の攻撃で航行不能になった\n白鯨の目の前にこの惑星ミラがあった[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs01040150_MSG0035",
+      "style": 0,
+      "name": "損傷した船体は\n大気圏突入に耐えられなかった　[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs01040150_MSG0036",
+      "style": 0,
+      "name": "私達は残された動力を使って\n居住ユニットを軟着陸させたのよ[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs01040150_MSG0037",
+      "style": 0,
+      "name": "そうして地上に辿り着いた私達は\n生き残った人々を集め[ST:wait ]\n"
+    },
+    {
+      "$id": 53,
+      "label": "xs01040150_MSG0038",
+      "style": 0,
+      "name": "居住ユニットを中心に\nこの星に人類最初の街を築き[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs01040150_MSG0039",
+      "style": 0,
+      "name": "暫定自治政府を作ったというわけ[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs01040150_MSG0040",
+      "style": 0,
+      "name": "ブレイドとは[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 56,
+      "label": "xs01040150_MSG0041",
+      "style": 0,
+      "name": "[System:Ruby rt=神の ]Beyond[/System:Ruby] [System:Ruby rt=言葉を ]the[/System:Ruby] [System:Ruby rt=越えた ]Logos[/System:Ruby] [System:Ruby rt=人工的な ]Artificial[/System:Ruby]\n[System:Ruby rt=運命の ]Destiny[/System:Ruby] [System:Ruby rt=解放者 ]Emancipator[/System:Ruby][ST:wait ]\n"
+    },
+    {
+      "$id": 57,
+      "label": "xs01040150_MSG0042",
+      "style": 0,
+      "name": "頭の文字を取って　[System:Ruby rt=ブレイド ]ＢＬＡＤＥ[/System:Ruby][ST:wait ]\n"
+    },
+    {
+      "$id": 58,
+      "label": "xs01040150_MSG0043",
+      "style": 0,
+      "name": "不時着以前の航行時にはなかった組織だ\nというよりその必要がなかっただけだがな[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs01040150_MSG0044",
+      "style": 0,
+      "name": "とにもかくにも　未知の敵に襲われ\nこのミラに不時着して状況は一変した[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs01040150_MSG0045",
+      "style": 0,
+      "name": "水や食料の確保\nミラの探索やＮＬＡの治安維持[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs01040150_MSG0046",
+      "style": 0,
+      "name": "その他　多岐にわたる活動を\n暫定自治政府だけではとても賄いきれなかった[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs01040150_MSG0047",
+      "style": 0,
+      "name": "そこで　それら活動を引き受ける形で\n組織されたのがブレイドだ[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs01040150_MSG0048",
+      "style": 0,
+      "name": "母体が不時着以前の統合軍だから\n大半が元軍人だ[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs01040150_MSG0049",
+      "style": 0,
+      "name": "そして　ここからが重要なんだが[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs01040150_MSG0050",
+      "style": 0,
+      "name": "ブレイドにはこの活動とは\n別に重要な役割がある[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs01040150_MSG0051",
+      "style": 0,
+      "name": "それが　ライフポイントの探索だ[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs01040150_MSG0052",
+      "style": 0,
+      "name": "これを見て[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs01040150_MSG0053",
+      "style": 0,
+      "name": "元々白鯨にはもっとたくさんの人が\n眠ったままの状態で運ばれていたの[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs01040150_MSG0054",
+      "style": 0,
+      "name": "その施設のことを　ライフと呼んでいた[ST:wait ]\n"
+    },
+    {
+      "$id": 70,
+      "label": "xs01040150_MSG0055",
+      "style": 0,
+      "name": "これはその全体構成図[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs01040150_MSG0056",
+      "style": 0,
+      "name": "地球脱出以降　船内で目覚めていたのは\n操船クルーと戦闘要員を除けば[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 72,
+      "label": "xs01040150_MSG0057",
+      "style": 0,
+      "name": "ほとんどがこのライフを管理運営する\nスタッフだったというわけ[ST:wait ]\n"
+    },
+    {
+      "$id": 73,
+      "label": "xs01040150_MSG0058",
+      "style": 0,
+      "name": "でも　ミラに墜落した時\nライフも船体から分離[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs01040150_MSG0059",
+      "style": 0,
+      "name": "複数のブロックに分かれ\n地表各地に散らばってしまった[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs01040150_MSG0060",
+      "style": 0,
+      "name": "だから　ライフのある場所[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs01040150_MSG0061",
+      "style": 0,
+      "name": "つまり　ライフポイントを見つけ\n眠っている人を助け出さないといけないの[ST:wait ]\n"
+    },
+    {
+      "$id": 77,
+      "label": "xs01040150_MSG0062",
+      "style": 0,
+      "name": "このライフポイントの探索こそが\nブレイドの最大の目的よ[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs01040150_MSG0063",
+      "style": 0,
+      "name": "あなたと出会った時の私も　探索任務中だった[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs01040150_MSG0066",
+      "style": 0,
+      "name": "このＮＬＡで暮らす全住民は\nその氏名　年齢　職業は言うに及ばず[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "xs01040150_MSG0067",
+      "style": 0,
+      "name": "所有する資産や健康状態も\n登録が義務づけられている[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs01040150_MSG0068",
+      "style": 0,
+      "name": "このミラに辿り着いた地球人は我々だけだ[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs01040150_MSG0069",
+      "style": 0,
+      "name": "人類存続のための措置と\n理解してもらえればありがたい[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs01040150_MSG0070",
+      "style": 0,
+      "name": "登録すれば　色んな公共のサービスが\n受けられるようになりますよ[ST:wait ]\n"
+    },
+    {
+      "$id": 84,
+      "label": "xs01040150_MSG0071",
+      "style": 0,
+      "name": "長々と話してしまったな\n君も頭の整理が必要だろう[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs01040150_MSG0072",
+      "style": 0,
+      "name": "リン君[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs01040150_MSG0073",
+      "style": 0,
+      "name": "気分転換がてらブレイドエリアでも\n案内してやってくれないか[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "xs01040150_MSG0074",
+      "style": 0,
+      "name": "俺も少し　話し疲れた[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "xs01040150_MSG0076",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "xs01040150_MSG0076_02",
+      "style": 0,
+      "name": "ではさっそく行きましょう[ST:wait ]\n"
+    }
+  ]
+}

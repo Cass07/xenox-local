@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000292_MSG0001",
+      "style": 1,
+      "name": "おや　[ST:playername ]さん\nこんなところで会うなんて\nなんと奇遇なんでしょうか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000292_MSG0002",
+      "style": 1,
+      "name": "今　まさにナギから教わった井戸端会議を\nしていて　さらにナギから教わったしりとりに\n興じていたのです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000292_MSG0003",
+      "style": 1,
+      "name": "しかし　一度もうまくいかないんです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000292_MSG0004",
+      "style": 1,
+      "name": "あなたが通りがかったのも何かの縁\n本場の方のしりとりを\nぜひ　見せていただけないでしょうか[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000292_JNK0010",
+      "style": 4,
+      "name": "やる"
+    },
+    {
+      "$id": 6,
+      "label": "tev000292_SEL0011",
+      "style": 3,
+      "name": "しりとりに挑戦してみる"
+    },
+    {
+      "$id": 7,
+      "label": "tev000292_JNK0020",
+      "style": 4,
+      "name": "やらない"
+    },
+    {
+      "$id": 8,
+      "label": "tev000292_SEL0021",
+      "style": 3,
+      "name": "しりとりはしたことがないと\n断る"
+    },
+    {
+      "$id": 9,
+      "label": "tev000292_MSG0005",
+      "style": 1,
+      "name": "さすがです[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000292_MSG0006",
+      "style": 1,
+      "name": "では　まずはあなたからお願いします[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000292_MSG0007",
+      "style": 1,
+      "name": "そんな[ST:wide ]―\nしりとりがうまくできることを見せて\nいただかないと地球人の沽券に関わりますよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000292_MSG0008",
+      "style": 1,
+      "name": "私もマ・ノンの方もノポンの方もみんな\nあなたを少し軽蔑してしまうかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000292_MSG0009",
+      "style": 1,
+      "name": "そんな悲しい事態はぜひとも避けたいでしょう[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000292_MSG0010",
+      "style": 1,
+      "name": "さあさあ　手本を見せてください[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000292_JNK0110",
+      "style": 4,
+      "name": "しりとり"
+    },
+    {
+      "$id": 16,
+      "label": "tev000292_SEL0111",
+      "style": 3,
+      "name": "まずは「しりとり」から始める"
+    },
+    {
+      "$id": 17,
+      "label": "tev000292_JNK0120",
+      "style": 4,
+      "name": "ブレイド"
+    },
+    {
+      "$id": 18,
+      "label": "tev000292_SEL0121",
+      "style": 3,
+      "name": "まずは「ブレイド」から始める"
+    },
+    {
+      "$id": 19,
+      "label": "tev000292_JNK0130",
+      "style": 4,
+      "name": "白鯨"
+    },
+    {
+      "$id": 20,
+      "label": "tev000292_SEL0131",
+      "style": 3,
+      "name": "まずは「白鯨」から始める"
+    },
+    {
+      "$id": 21,
+      "label": "tev000292_MSG0011",
+      "style": 1,
+      "name": "ふむ[ST:wide ]―\n基本に忠実なスタートですね\nナギに教わった通りです[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000292_MSG0012",
+      "style": 1,
+      "name": "では　リーフバナナでいかがでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000292_MSG0013",
+      "style": 1,
+      "name": "ふむ[ST:wide ]―\nそうですね……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000292_MSG0014",
+      "style": 1,
+      "name": "では　ドールでいかがでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000292_MSG0015",
+      "style": 1,
+      "name": "ふむ[ST:wide ]―\nそうですね……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000292_MSG0016",
+      "style": 1,
+      "name": "では　インターセプターでいかがでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000292_MSG0017",
+      "style": 1,
+      "name": "あなたとならできるのに\n他の人とはできない……なぜでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000292_JNK0030",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 29,
+      "label": "tev000292_SEL0031",
+      "style": 3,
+      "name": "ルールを理解してくれていない"
+    },
+    {
+      "$id": 30,
+      "label": "tev000292_JNK0040",
+      "style": 4,
+      "name": "指摘"
+    },
+    {
+      "$id": 31,
+      "label": "tev000292_SEL0041",
+      "style": 3,
+      "name": "同じ言語を使わないと\n成立しないと指摘する"
+    },
+    {
+      "$id": 32,
+      "label": "tev000292_MSG0018",
+      "style": 1,
+      "name": "マ・ノンの方もノポンの方も\nルールはカンペキだと胸を張られているので\nそれはなさそうです[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000292_MSG0019",
+      "style": 1,
+      "name": "とすれば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000292_MSG0020",
+      "style": 1,
+      "name": "[ST:wide ]―っ！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000292_MSG0021",
+      "style": 1,
+      "name": "今　理解しました[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000292_MSG0022",
+      "style": 1,
+      "name": "私たちが使っている言語は本当は\n別々のものなんです[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000292_MSG0023",
+      "style": 1,
+      "name": "私は地球語を使っていますが\nノポンの方はノポン語ですし\nマ・ノンの方はマ・ノン語なんですよね[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000292_MSG0024",
+      "style": 1,
+      "name": "不思議と通じ合えていますが\n文字で考えると通じるわけがなかったんです[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000292_MSG0025",
+      "style": 1,
+      "name": "いやー　すっかり失念していました[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000292_MSG0026",
+      "style": 1,
+      "name": "私はしりとりを堪能するため\nマ・ノン語を勉強してきます[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000292_MSG0027",
+      "style": 1,
+      "name": "では　また[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000292_MSG0028",
+      "style": 1,
+      "name": "[ST:wide ]―っ！[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000292_MSG0029",
+      "style": 1,
+      "name": "確かにおっしゃる通りです！\nすっかり失念していました[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000292_MSG0030",
+      "style": 1,
+      "name": "私たちが使っている言語は本当は\n別々のものなんですよね[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev000292_MSG0031",
+      "style": 1,
+      "name": "私は地球語を使っていますが\nノポンの方はノポン語ですし\nマ・ノンの方はマ・ノン語[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev000292_MSG0032",
+      "style": 1,
+      "name": "不思議と通じ合えていますが\n文字で考えると通じるわけがありませんでした[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev000292_MSG0033",
+      "style": 1,
+      "name": "さすが素晴らしい着眼点をお持ちですね\nあなたが声を掛けてくれてよかった[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev000292_MSG0034",
+      "style": 1,
+      "name": "私はしりとりを堪能するため\nマ・ノン語を勉強してきます[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev000292_MSG0035",
+      "style": 1,
+      "name": "では　また[ST:wait ]"
+    }
+  ]
+}

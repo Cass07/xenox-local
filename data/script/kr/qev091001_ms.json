@@ -1,0 +1,402 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091001_MSG0001",
+      "style": 0,
+      "name": "으으음…… 난감하네……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091001_JNK0010",
+      "style": 4,
+      "name": "말을 건다"
+    },
+    {
+      "$id": 3,
+      "label": "qev091001_SEL0011",
+      "style": 3,
+      "name": "말을 걸어 도움의 손길을 뻗어 본다"
+    },
+    {
+      "$id": 4,
+      "label": "qev091001_JNK0020",
+      "style": 4,
+      "name": "상황을 본다"
+    },
+    {
+      "$id": 5,
+      "label": "qev091001_SEL0021",
+      "style": 3,
+      "name": "일단 말을 걸지 않고 당분간 상황을 본다"
+    },
+    {
+      "$id": 6,
+      "label": "qev091001_MSG0002",
+      "style": 0,
+      "name": "혹시 너도 나랑 같은 처지냐?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091001_MSG0003",
+      "style": 0,
+      "name": "그러면 마침 잘됐네, 내가 살 테니\n같이 진탕 마셔 보자고[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091001_MSG0004",
+      "style": 0,
+      "name": "혼자 쓸쓸히 마시긴 싫은데\n시간 되는 동료는 아무도 없고……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091001_MSG0005",
+      "style": 0,
+      "name": "어떻게 할까……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091001_MSG0006",
+      "style": 0,
+      "name": "……마침 좋은 녀석이 있었잖아![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091001_MSG0007",
+      "style": 0,
+      "name": "거기 너, 내가 살 테니\n같이 진탕 마셔 보자고[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091001_MSG0007_m",
+      "style": 0,
+      "name": "거기 너, 내가 살 테니\n같이 진탕 마셔 보자고[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091001_MSG0007_f",
+      "style": 0,
+      "name": "거기 너, 내가 살 테니\n같이 진탕 마셔 보자고[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091001_JNK0030",
+      "style": 4,
+      "name": "따라간다"
+    },
+    {
+      "$id": 15,
+      "label": "qev091001_SEL0031",
+      "style": 3,
+      "name": "감사히 공짜 술을 마신다"
+    },
+    {
+      "$id": 16,
+      "label": "qev091001_JNK0040",
+      "style": 4,
+      "name": "사양한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev091001_SEL0041",
+      "style": 3,
+      "name": "기분이 내키지 않는다며 사양한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev091001_JNK0050",
+      "style": 4,
+      "name": "거절한다"
+    },
+    {
+      "$id": 19,
+      "label": "qev091001_SEL0051",
+      "style": 3,
+      "name": "미성년자라 술을 못 마신다며 거절한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev091001_MSG0008",
+      "style": 0,
+      "name": "좋아, 그렇게 나와야지\n아침까지 밤새워 마시자![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091001_MSG0009",
+      "style": 0,
+      "name": "내가 사는 술을 못 마시겠다는 거냐?\n배짱 한번 두둑한데 그래[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091001_MSG0010",
+      "style": 0,
+      "name": "됐으니까 따라와! 아침까지 마시자![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091001_MSG0011",
+      "style": 0,
+      "name": "아무 문제 없어\n너는 주스든 우유든 알아서 마셔[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091001_MSG0012",
+      "style": 0,
+      "name": "나는 같이 홀짝일 녀석만\n곁에 있으면 충분하거든![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091001_MSG0013",
+      "style": 0,
+      "name": "즐거웠다!\n진짜로 해님이 떠 버렸네[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091001_MSG0014",
+      "style": 0,
+      "name": "좋아, 그러면 슬슬 일하러 가 볼까!![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091001_MSG0014_m",
+      "style": 0,
+      "name": "좋아, 그러면 슬슬 진지하게 갈까!![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091001_MSG0014_f",
+      "style": 0,
+      "name": "좋아, 그러면 슬슬 진지하게 갈까!![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091001_JNK0060",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 30,
+      "label": "qev091001_SEL0061",
+      "style": 3,
+      "name": "어디로 가는 건지 묻는다"
+    },
+    {
+      "$id": 31,
+      "label": "qev091001_JNK0070",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 32,
+      "label": "qev091001_SEL0071",
+      "style": 3,
+      "name": "집에 돌아가서 자라고 제안한다"
+    },
+    {
+      "$id": 33,
+      "label": "qev091001_JNK0080",
+      "style": 4,
+      "name": "반대"
+    },
+    {
+      "$id": 34,
+      "label": "qev091001_SEL0081",
+      "style": 3,
+      "name": "아직 더 마시고 싶다며\n다음 자리를 권유한다"
+    },
+    {
+      "$id": 35,
+      "label": "qev091001_MSG0015",
+      "style": 0,
+      "name": "뻔하잖아?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091001_MSG0016",
+      "style": 0,
+      "name": "인터셉터가 하는 일이\n원시 생물 토벌밖에 더 있겠냐[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091001_MSG0018",
+      "style": 0,
+      "name": "오늘이 휴일이면 그렇게 했겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091001_MSG0019",
+      "style": 0,
+      "name": "유감스럽게도 원시 생물을\n토벌하는 임무가 있단 말이지[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091001_MSG0020",
+      "style": 0,
+      "name": "뭐야, 얼빠진 표정 하고는[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091001_MSG0021",
+      "style": 0,
+      "name": "어이구, 굉장히 잘 마시는군[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091001_MSG0022",
+      "style": 0,
+      "name": "해가 중천일 때는 열심히 일해서\nNLA에 공헌해야 하지 않겠어?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091001_MSG0023",
+      "style": 0,
+      "name": "뭐야, 의외라는 표정이네\n나도 일단은 블레이드라고[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091001_MSG0024",
+      "style": 0,
+      "name": "아, 자기소개를 아직 안 했었군[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091001_MSG0025",
+      "style": 0,
+      "name": "내 이름은 프라이[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091001_MSG0026",
+      "style": 0,
+      "name": "인터셉터 녀석들 사이에서\n거칠고 사나운 타조라고 불리지[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091001_MSG0027",
+      "style": 0,
+      "name": "진짜 촌스럽지 않냐?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091001_MSG0028",
+      "style": 0,
+      "name": "그래도 나름 마음에 들어[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091001_MSG0029",
+      "style": 0,
+      "name": "아무도 받지 않을 법한\n위험한 임무만 하다 보니까[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091001_MSG0030",
+      "style": 0,
+      "name": "어느새 그런 별명이 붙었거든[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091001_MSG0031",
+      "style": 0,
+      "name": "훈장 같은 거지[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091001_MSG0032",
+      "style": 0,
+      "name": "그런 이유로 오늘도\n흉악한 임무를 해내야 하는데[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091001_MSG0033",
+      "style": 0,
+      "name": "자, 이것도 인연이니 너도 같이 갈 거지?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091001_JNK0090",
+      "style": 4,
+      "name": "긍정한다"
+    },
+    {
+      "$id": 54,
+      "label": "qev091001_SEL0091",
+      "style": 3,
+      "name": "같이 가겠다며 긍정한다"
+    },
+    {
+      "$id": 55,
+      "label": "qev091001_JNK0100",
+      "style": 4,
+      "name": "부정한다"
+    },
+    {
+      "$id": 56,
+      "label": "qev091001_SEL0101",
+      "style": 3,
+      "name": "같이 가기 싫다며 부정한다"
+    },
+    {
+      "$id": 57,
+      "label": "qev091001_MSG0034",
+      "style": 0,
+      "name": "의욕도 있고 기세도 좋은 게 마음에 들어[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091001_MSG0035",
+      "style": 0,
+      "name": "서로 협력해서\n깔끔하게 임무를 달성하자고![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091001_MSG0036",
+      "style": 0,
+      "name": "겁먹기라도 한 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091001_MSG0037",
+      "style": 0,
+      "name": "문제없어, 내가 곁에 있을 테니까![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091001_MSG0039",
+      "style": 0,
+      "name": "임무의 상세 내용 말인데\n목적은 백목의 대륙 일대의 적대적 생물 토벌이야[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091001_MSG0042",
+      "style": 0,
+      "name": "그렇지만 숫자가 보통이 아니거든[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091001_MSG0043",
+      "style": 0,
+      "name": "일일이 설명하기도 귀찮으니까\n네 단말기에 정보를 보내 주지[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev091001_MSG0044",
+      "style": 0,
+      "name": "리스트 위부터 순서대로 정리하자[ST:wait ]"
+    }
+  ]
+}

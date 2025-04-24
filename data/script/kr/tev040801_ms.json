@@ -1,0 +1,432 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev040801_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev040801_SEL0011",
+      "style": 3,
+      "name": "지구인에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev040801_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev040801_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev040801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev040801_SEL0031",
+      "style": 3,
+      "name": "습격 당시 그로우스의\n전술에 관해 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev040801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev040801_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev040801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev040801_SEL0041",
+      "style": 3,
+      "name": "센트럴 라이프에서의\n결전에 관해 묻는다"
+    },
+    {
+      "$id": 11,
+      "label": "tev040801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev040801_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev040801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev040801_SEL0051",
+      "style": 3,
+      "name": "센트럴 라이프에 관해 묻는다"
+    },
+    {
+      "$id": 15,
+      "label": "tev040801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev040801_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev040801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev040801_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "tev040801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev040801_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 21,
+      "label": "tev040801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev040801_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev040801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev040801_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev040801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev040801_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev040801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev040801_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev040801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev040801_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev040801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev040801_SEL2021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 33,
+      "label": "tev040801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "tev040801_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "tev040801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "tev040801_SEL2021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev040801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev040801_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev040801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev040801_SEL2021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev040801_MSG0001",
+      "style": 1,
+      "name": "지구인이 쓴 전술서를\n더 많이 읽고 싶은데……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev040801_MSG0002",
+      "style": 1,
+      "name": "너희들의 우주선이 이 행성에 떨어졌을 때\n다른 데이터베이스는 잃어버린 거지?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev040801_MSG0003",
+      "style": 1,
+      "name": "게다가 그 게티아 녀석에게 발견된\n데이터베이스도 망가졌다면서?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev040801_MSG0004",
+      "style": 1,
+      "name": "분하군…… 가능하면 다른 데이터베이스는\n그로우스 녀석들에게 발견되기 전에\n확보할 수 있기를 바란다아[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev040801_MSG0009",
+      "style": 1,
+      "name": "야아, 정말이지, NLA에 온 후로\n너희 지구인의 서적 데이터를 계속 읽으면서……\n난 감격해 버렸다![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev040801_MSG0010",
+      "style": 1,
+      "name": "손자에 조미니…… 클라우제비츠……\n대단하지 않나, 이 병법이라는 것은![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev040801_MSG0011",
+      "style": 1,
+      "name": "만 년이나 싸움을 계속해 온 바이어스조차\n생각하지 못한 지혜가 거기에 있다아![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev040801_MSG0012",
+      "style": 1,
+      "name": "후훗, 나도 나폴레옹처럼\n교묘한 전술로 부대를 승리로 이끌어 보고 싶구운[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev040801_MSG0013",
+      "style": 1,
+      "name": "……어떤가? 또 여기에 와 주지 않겠나?\n병법 연구가 어느 정도 마무리되면……\n지구인과 의논해 보고 싶은 게 있다아![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev040801_MSG0018",
+      "style": 1,
+      "name": "주력을 중앙에 모아 시선을 그쪽으로 돌린 후\n그 격리 격납고를 노리다니……[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev040801_MSG0019",
+      "style": 1,
+      "name": "그야말로 나폴레옹의 기습 전술!\n그리고 그 기습 전술을 신속히 실행한\n라스인의 훌륭한 싸움 솜씨[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev040801_MSG0020",
+      "style": 1,
+      "name": "그로우스 같은 건 오합지졸이라고만\n생각했는데……[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev040801_MSG0021",
+      "style": 1,
+      "name": "아무래도 생각보다 만만치 않은 녀석들 같군\n정신 차리고 대책을 짜야겠어![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev040801_MSG0026",
+      "style": 1,
+      "name": "그로우스와 총력전으로 부딪히면\n너희 블레이드에게 승산은 없다[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev040801_MSG0027",
+      "style": 1,
+      "name": "하지만 우리 쪽 에이스가 적의 주요 전력을\n각개 격파로 쓰러뜨려 가면[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev040801_MSG0028",
+      "style": 1,
+      "name": "어중이떠중이 집단일 뿐인 그로우스는\n머지않아 완전히 붕괴해 버릴 거다[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev040801_MSG0029",
+      "style": 1,
+      "name": "그래, 모든 열쇠는…… [ST:playername ]\n너희 팀이 쥐고 있다고 본다![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev040801_MSG0030",
+      "style": 1,
+      "name": "지략을 짜내라!\n그리고 마지막은 네 힘으로\n이 절대적 전력 차이를 뒤집어 버려!![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev040801_MSG0035",
+      "style": 1,
+      "name": "그곳에는 다른 라이프 포인트처럼\n너희들이 지구에서 가져온\n수많은 지식이 잠들어 있지 않나?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev040801_MSG0036",
+      "style": 1,
+      "name": "만약 정말 그렇다면\n아직 보지 못한 미지의 병법서를 찾아[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev040801_MSG0037",
+      "style": 1,
+      "name": "나도 언젠가 센트럴 라이프를\n조사하러 가 보고 싶다아![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev040801_MSG0038",
+      "style": 1,
+      "name": "……그래! 그러기 위해서라도\n우리에게도 센트럴 라이프 출입을\n빨리 허가해 줬으면 하는군![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev040801_MSG1001",
+      "style": 1,
+      "name": "[ST:playername ][KR:Particle char=ya ]여!\n내 병법이 옳다는 걸\n그 몸으로 직접 보여 줘서 고맙다![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev040801_MSG1002",
+      "style": 1,
+      "name": "네 덕분에 동지도 생겼어\n앞으로는 비오와 함께 병법을 사용하여\n많은 적을 섬멸해 주지![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev040801_MSG1003",
+      "style": 1,
+      "name": "지켜봐 달라고……!\n난 이 토지에서 미라의 손자라고 불릴 정도의\n병법가가 되어 줄 테니까![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev040801_MSG2001",
+      "style": 1,
+      "name": "그 후로 계속 비오 녀석에게\n무시당하고 있어……[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev040801_MSG2002",
+      "style": 1,
+      "name": "큭…… 우쭐해 하기는……[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev040801_MSG2003",
+      "style": 1,
+      "name": "내 병법은 틀리지 않았다아……\n다음에는 적의 정보를 더 모아서\n신뢰할 수 있는 병사들로 녀석들을 섬멸하겠다아[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev040801_MSG2004",
+      "style": 1,
+      "name": "그래…… 지켜봐라!\n난 반드시 그 나폴레옹 같은\n뛰어난 전술가가 될 테다아!![ST:wait ]"
+    }
+  ]
+}

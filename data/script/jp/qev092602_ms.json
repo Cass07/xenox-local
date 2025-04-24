@@ -1,0 +1,582 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092602_MSG0001",
+      "style": 0,
+      "name": "地球人さん　どうしたんじゃも？\nこのイダイなる長老ヌンに何か用事じゃも？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092602_MSG0002",
+      "style": 0,
+      "name": "ノポン商会の証が必要なんです\nどうやったら手に入れられるか教えてください[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092602_MSG0003",
+      "style": 0,
+      "name": "またかも[ST:wide ]―\nさっきもトラに聞かれたんじゃがな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092602_MSG0004",
+      "style": 0,
+      "name": "トラ君から話を聞いたのなら\nもうわかってますよね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092602_MSG0005",
+      "style": 0,
+      "name": "すぐにでも必要なんです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092602_MSG0006",
+      "style": 0,
+      "name": "とはいえ　トラは条件を満たしてないも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092602_MSG0007",
+      "style": 0,
+      "name": "満たしてるも！　やる気だけは１０人前だも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092602_MSG0008",
+      "style": 0,
+      "name": "そういう問題じゃないも\nノポン商会の証は自分で作るもの[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092602_MSG0009",
+      "style": 0,
+      "name": "コインを作るための\n３つのマテリアルを集めるには[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092602_MSG0009_02",
+      "style": 0,
+      "name": "ものすごい困難が待ち受けてるんじゃも[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092602_MSG0010",
+      "style": 0,
+      "name": "それを乗り越えて　ようやっと一人前の\n商人として認められるんだも！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092602_MSG0011",
+      "style": 0,
+      "name": "しかしながら　ひよっこのトラでは\n命を落としてしまうも！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092602_MSG0012",
+      "style": 0,
+      "name": "落とさないも！\nそんな危険なことは全部姉ちゃんに任せるも！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092602_MSG0013",
+      "style": 0,
+      "name": "任せて！　と言いたいところだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092602_MSG0014",
+      "style": 0,
+      "name": "おじいさんの話を聞いたら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092602_MSG0015",
+      "style": 0,
+      "name": "自力で集めないとダメなんじゃないかなって\n思ったんだけど？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092602_MSG0016",
+      "style": 0,
+      "name": "えー　そうなのかも？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092602_MSG0017",
+      "style": 0,
+      "name": "ノポン商会の心得には\nお金のためなら何でも利用すべし！！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092602_MSG0017_2",
+      "style": 0,
+      "name": "って書いてあったも[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092602_MSG0018",
+      "style": 0,
+      "name": "とんでもない心得だね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092602_MSG0019",
+      "style": 0,
+      "name": "長老！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092602_MSG0019_2",
+      "style": 0,
+      "name": "ブレイドの皆さんを活用するのは\nがいどらいん的にアリだと思うも！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092602_MSG0020",
+      "style": 0,
+      "name": "ももも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092602_MSG0021",
+      "style": 0,
+      "name": "ももも[ST:wide ]―[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092602_MSG0079",
+      "style": 4,
+      "name": "援護する"
+    },
+    {
+      "$id": 26,
+      "label": "qev092602_MSG0080",
+      "style": 3,
+      "name": "ブレイドへの依頼は\nトラなりの方法だと援護する"
+    },
+    {
+      "$id": 27,
+      "label": "qev092602_MSG0081",
+      "style": 4,
+      "name": "買収する"
+    },
+    {
+      "$id": 28,
+      "label": "qev092602_MSG0082",
+      "style": 3,
+      "name": "後でかわいいノポンを紹介する\nと言って買収する"
+    },
+    {
+      "$id": 29,
+      "label": "qev092602_MSG0022",
+      "style": 0,
+      "name": "ももも[ST:wide ]―　確かにブレイドに依頼したのは[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092602_MSG0023",
+      "style": 0,
+      "name": "幼いトラなりに \n安全を考えてのことに違いないも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092602_MSG0024",
+      "style": 0,
+      "name": "[ST:wide ]―アリ　[ST:wide ]―じゃも[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092602_MSG0025",
+      "style": 0,
+      "name": "ももも！\nヌンの大好きなものをダシにするとは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092602_MSG0025_m",
+      "style": 0,
+      "name": "ももも！\nヌンの大好きなものをダシにするとは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092602_MSG0025_f",
+      "style": 0,
+      "name": "ももも！\nヌンの大好きなものをダシにするとは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092602_MSG0026",
+      "style": 0,
+      "name": "アンタもなかなかの商売上手だも[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092602_MSG0026_m",
+      "style": 0,
+      "name": "アンタもなかなかの商売上手だも[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092602_MSG0026_f",
+      "style": 0,
+      "name": "アンタもなかなかの商売上手だも[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092602_MSG0027",
+      "style": 0,
+      "name": "渋々じゃが認めてやるも[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092602_MSG0028",
+      "style": 0,
+      "name": "でも　ヌンは決して\n買収されたわけじゃないも！[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092602_MSG0029",
+      "style": 0,
+      "name": "トラの機転を認めたんだも！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092602_MSG0030",
+      "style": 0,
+      "name": "やったもー！！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092602_MSG0031",
+      "style": 0,
+      "name": "長老　すぐに３つのマテリアルのことを\n教えてほしいも！[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092602_MSG0032",
+      "style": 0,
+      "name": "ほいほい　落ち着いて聞くじゃも\nコインを作るにはな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092602_MSG0033",
+      "style": 0,
+      "name": "柔らかい金属　浮遊石の欠片\n幸運の虹色ヒゲ　が必要なんじゃも[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092602_MSG0034",
+      "style": 0,
+      "name": "どれも簡単には手に入らない一品ばかり[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092602_MSG0035",
+      "style": 0,
+      "name": "知恵を振り絞って手に入れてくるんじゃも！[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092602_MSG0036",
+      "style": 0,
+      "name": "トラ　がんばるも！\n姉ちゃん達は死ぬ気でがんばるも！！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092602_MSG0037",
+      "style": 0,
+      "name": "はいはい[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092602_MSG0038",
+      "style": 0,
+      "name": "それで集め終えたら　どうすればいいですか？[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092602_MSG0039",
+      "style": 0,
+      "name": "ヌンのところに持ってくるじゃも！\nそうしたら次のすてっぷに進むも[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092602_MSG0083",
+      "style": 1,
+      "name": "どうしたも？\nコインの材料を忘れたも？[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092602_MSG0084",
+      "style": 1,
+      "name": "一人前の証に必要なのは\n柔らかい金属　浮遊石の欠片\n幸運の虹色ヒゲ　じゃも？[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092602_MSG0085",
+      "style": 1,
+      "name": "ノポン達は　これを手に入れる中で\n商売に必要な知恵を　身につけるんじゃも[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092602_MSG0086",
+      "style": 1,
+      "name": "さわさわのお礼に　材料を持ってきたら\nコインを作ってやるから\n頑張って探してくるも[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092602_MSG0040",
+      "style": 0,
+      "name": "長老ー！ マテリアル　取ってきたんだもー！[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092602_MSG0041",
+      "style": 0,
+      "name": "早くコインを作って　トラをノポン商会に\n入れてほしいんだもー！[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092602_MSG0042",
+      "style": 0,
+      "name": "[ST:wide ]―どれ？　そいつを寄こすんじゃも\nマコトに正しきものか　ヌンが見てやるも[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092602_MSG0043",
+      "style": 0,
+      "name": "ふむ！　確かに全て揃ってるも！[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092602_MSG0044",
+      "style": 0,
+      "name": "よかった\nじゃあ　次はどうすればいいですか？[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092602_MSG0045",
+      "style": 0,
+      "name": "ここからが大変なんじゃも[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092602_MSG0046",
+      "style": 0,
+      "name": "古代より伝わりし秘儀を使い\nコインを作らなければならないも[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev092602_MSG0047",
+      "style": 0,
+      "name": "しかも　秘儀を知るノポンは\n一人しかいないんだも！！[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev092602_MSG0048",
+      "style": 0,
+      "name": "そんな人　探すのも大変そうだも！？[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev092602_MSG0049",
+      "style": 0,
+      "name": "どこにいるかご存知ですか？[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev092602_MSG0050",
+      "style": 0,
+      "name": "もちろん知っておるも　それは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev092602_MSG0051",
+      "style": 0,
+      "name": "ヌンだも！！[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev092602_MSG0052",
+      "style": 0,
+      "name": "あ　やっぱり[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev092602_MSG0053",
+      "style": 0,
+      "name": "長老　もったいぶらないで\nさっさと作ってほしいも[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev092602_MSG0054",
+      "style": 0,
+      "name": "ももっ！？　ヒドい扱いだも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev092602_MSG0055",
+      "style": 0,
+      "name": "トラの父ちゃんと母ちゃんが帰ってくるまでに\nほしいんだも　だから急いでほしいんだも[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092602_MSG0056",
+      "style": 0,
+      "name": "事情はわかってるも[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092602_MSG0057",
+      "style": 0,
+      "name": "じゃが　トラにも知っておいてほしいも[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092602_MSG0058",
+      "style": 0,
+      "name": "ノポン商会の証を作るのは\n一筋縄ではいかないと[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092602_MSG0059",
+      "style": 0,
+      "name": "コインを作るにはまずは集めた\nマテリアルを調合し　三日三晩寝かし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092602_MSG0060",
+      "style": 0,
+      "name": "三日三晩も！？[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092602_MSG0061",
+      "style": 0,
+      "name": "長いも！？[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092602_MSG0062",
+      "style": 0,
+      "name": "その後　更に１８０日間焼き続けるんだも[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092602_MSG0063",
+      "style": 0,
+      "name": "半年近くも！？[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092602_MSG0064",
+      "style": 0,
+      "name": "無理だも！[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092602_MSG0065",
+      "style": 0,
+      "name": "トラ君[ST:wide ]―　間に合わないよね？[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092602_MSG0066",
+      "style": 0,
+      "name": "絶対に間に合わないも[ST:wide ]―\nがっかりだも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092602_MSG0067",
+      "style": 0,
+      "name": "何勝手に落ち込んでるも？\n事情はわかってると言ったはずだも[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092602_MSG0068",
+      "style": 0,
+      "name": "どういうことだも？[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092602_MSG0069",
+      "style": 0,
+      "name": "今回は特別に完成品を用意してるも[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev092602_MSG0070",
+      "style": 0,
+      "name": "えー！？[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev092602_MSG0071",
+      "style": 0,
+      "name": "コインのすとっくはいくつもあるから\n実はすぐに渡せるんだも[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev092602_MSG0072",
+      "style": 0,
+      "name": "すごいも！　長老かっこいいも！！[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev092602_MSG0073",
+      "style": 0,
+      "name": "みなまで言うなも　トラはまだまだ未熟じゃが\n頭脳ぷれーは得意のようじゃも[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev092602_MSG0074",
+      "style": 0,
+      "name": "それをいかして　これからはノポン商会の\n一員として頑張るじゃも[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev092602_MSG0075",
+      "style": 0,
+      "name": "長老　ありがとうも！[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev092602_MSG0076",
+      "style": 0,
+      "name": "早く　お父さん達に会いに行きましょ！\nそのコインを持って　胸を張ってね！[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev092602_MSG0077",
+      "style": 0,
+      "name": "わかったも！[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev092602_MSG0077_2",
+      "style": 0,
+      "name": "それじゃ忘却の渓谷の\nドリアン・キャラバンに行くも[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev092602_MSG0078",
+      "style": 0,
+      "name": "トラ　父ちゃん母ちゃんと\nいっつもそこで　待ち合わせしてるんだも[ST:wait ]"
+    }
+  ]
+}

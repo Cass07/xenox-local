@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086408_MSG0001",
+      "style": 0,
+      "name": "여러분~\n타츠를 잘 부탁해요모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086408_MSG0002",
+      "style": 0,
+      "name": "정말 괜찮아?\n가족과 함께 사는 편이……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086408_JNK0010",
+      "style": 4,
+      "name": "찬성"
+    },
+    {
+      "$id": 4,
+      "label": "qev086408_SEL0011",
+      "style": 3,
+      "name": "가족과 사는 것을 추천한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev086408_JNK0020",
+      "style": 4,
+      "name": "반대"
+    },
+    {
+      "$id": 6,
+      "label": "qev086408_SEL0021",
+      "style": 3,
+      "name": "타츠는 (식재료로서) 필요"
+    },
+    {
+      "$id": 7,
+      "label": "qev086408_MSG0003",
+      "style": 0,
+      "name": "다들 이제 타츠가 필요 없는 건가모?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086408_MSG0004",
+      "style": 0,
+      "name": "이제고 뭐고 처음부터……\n중얼중얼……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086408_MSG0005",
+      "style": 0,
+      "name": "뭐라고모?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086408_MSG0006",
+      "style": 0,
+      "name": "아니, 아무것도 아니야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086408_MSG0007",
+      "style": 0,
+      "name": "역시 그렇지모![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086408_MSG0008",
+      "style": 0,
+      "name": "그렇게까지 간절히 원한다면\n타츠는 당신들에게 돌아갈 수밖에 없다모![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086408_MSG0009",
+      "style": 0,
+      "name": "봐요, 그런 말을 하니까\n진심으로 받아들이잖아요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086408_MSG0010",
+      "style": 0,
+      "name": "식재료라는 부분은 안 들린 모양이고[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086408_MSG0011",
+      "style": 0,
+      "name": "아무튼모\n지금은 블레이드 홈이 타츠의 집이다모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086408_MSG0012",
+      "style": 0,
+      "name": "카라반이 어디에 있는지 알았으니\n언제든 고향으로 돌아올 수 있다모![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086408_MSG0013",
+      "style": 0,
+      "name": "그렇네[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086408_MSG0014",
+      "style": 0,
+      "name": "타츠, 잘 들으렴모\n넌 다음 카라반 리더가 될 거란다모[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086408_MSG0015",
+      "style": 0,
+      "name": "이분들과 함께 일하면서\n리더에 어울리는 노폰이 되어야 해모[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086408_MSG0016",
+      "style": 0,
+      "name": "다음 카라반 리더라니요?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086408_MSG0017",
+      "style": 0,
+      "name": "아, 소개가 늦었네요\n제가 지금 이 도돈가 카라반의 리더예요모[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086408_MSG0018",
+      "style": 0,
+      "name": "네에에~~!?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086408_MSG0019",
+      "style": 0,
+      "name": "그러니까 타츠는 장래에\n엄마의 뒤를 이어……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086408_MSG0020",
+      "style": 0,
+      "name": "이 카라반에서 가장 높은\n노폰이 될 거다모![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086408_MSG0021",
+      "style": 0,
+      "name": "이건 노폰 비전의 향신료예요모\n괜찮다면 사용해 보세요모[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086408_MSG0022",
+      "style": 0,
+      "name": "정말인가요? 야호![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086408_MSG0023",
+      "style": 0,
+      "name": "엄마, 그럼 가겠다모\n보고 싶어지면 곧장 또 오겠다모![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086408_MSG0024",
+      "style": 0,
+      "name": "그래, 기다릴게모[ST:wait ]"
+    }
+  ]
+}

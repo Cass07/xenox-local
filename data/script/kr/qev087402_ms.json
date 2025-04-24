@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087402_MSG0001",
+      "style": 0,
+      "name": "아침에는 여기서\n식사를 하는 경우가 많다고 들었는데[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087402_MSG0002",
+      "style": 0,
+      "name": "아, 저기 있다모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087402_MSG0003",
+      "style": 0,
+      "name": "좋았어, 잠깐 관찰해 봐요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087402_MSG0004",
+      "style": 0,
+      "name": "다 먹었는데도 계속 앉아 있네요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087402_MSG0005",
+      "style": 0,
+      "name": "역시 한가해 보인다모[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087402_MSG0006",
+      "style": 0,
+      "name": "버설트에 의한 피해가 큽니다![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087402_MSG0007",
+      "style": 0,
+      "name": "벤, 미란다, 코넬 팀이 토벌하러 나가 있지만\n성과가 나지 않는 상황입니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087402_MSG0008",
+      "style": 0,
+      "name": "뭐? 버설트 따위는 머리의 뿔을 부숴 버리면\n별것 아니지 않나[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087402_MSG0009",
+      "style": 0,
+      "name": "예쁜 주황색 피하 조직이 노출될 테니\n거기에 빔 병기를 팍 쏘아 줘 버려[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087402_MSG0010",
+      "style": 0,
+      "name": "마음 편히 해, 마음 편히[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087402_MSG0011",
+      "style": 0,
+      "name": "사쿠라바 중공업에서 미라늄 납품량이\n예정보다 적다는 클레임이 들어왔습니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087402_MSG0012",
+      "style": 0,
+      "name": "그거 큰일이군[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087402_MSG0013",
+      "style": 0,
+      "name": "뭐, 일단 데이터 프로브 수를 늘리든……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087402_MSG0014",
+      "style": 0,
+      "name": "연결하는 방법을 연구해 보든 하면\n어떻게든 되지 않겠나?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087402_MSG0015",
+      "style": 0,
+      "name": "왠지 긴장감이 없다모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087402_MSG0016",
+      "style": 0,
+      "name": "이런 걸 보여 주려고\n찾으라고 한 거야?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087402_MSG0017",
+      "style": 0,
+      "name": "오, 나를 찾았군\n어떠냐, 내가 아침에 우아하게 일하는 모습은?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087402_MSG0018",
+      "style": 0,
+      "name": "잘 모르겠던걸[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087402_MSG0019",
+      "style": 0,
+      "name": "그런가? 뭐, 그럴 만도 하지\n그럼 다음은 낮의 모습을 보여 주마[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087402_MSG0020",
+      "style": 0,
+      "name": "네에~? 또 찾으라는 거예요?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087402_MSG0021",
+      "style": 0,
+      "name": "바로 그거다[ST:wait ]"
+    }
+  ]
+}

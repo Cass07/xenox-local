@@ -1,0 +1,318 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091301_MSG0003",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091301_JNK0010",
+      "style": 4,
+      "name": "재촉한다"
+    },
+    {
+      "$id": 3,
+      "label": "qev091301_SEL0011",
+      "style": 3,
+      "name": "말을 하라고 재촉한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev091301_JNK0020",
+      "style": 4,
+      "name": "기다린다"
+    },
+    {
+      "$id": 5,
+      "label": "qev091301_SEL0021",
+      "style": 3,
+      "name": "말을 시작할 때까지 기다린다"
+    },
+    {
+      "$id": 6,
+      "label": "qev091301_MSG0004",
+      "style": 1,
+      "name": "……말을 하라고요?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091301_MSG0005",
+      "style": 1,
+      "name": "어디 보자……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091301_MSG0006",
+      "style": 1,
+      "name": "……요즘 들어\n이 행성에도 겨우 익숙해졌어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091301_MSG0007",
+      "style": 1,
+      "name": "……왠지, 잡담하라는 게 아니야\n라고 말하고 싶은 얼굴 같은데요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091301_MSG0008",
+      "style": 1,
+      "name": "……아, 그건가![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091301_MSG0008_02",
+      "style": 1,
+      "name": "혹시 퀘스트 보드를 보고\n와 주신 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091301_MSG0009",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091301_MSG0010",
+      "style": 1,
+      "name": "……아, 그건가![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091301_MSG0010_02",
+      "style": 1,
+      "name": "혹시 퀘스트 보드를 보고\n와 주신 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091301_MSG0011",
+      "style": 1,
+      "name": "이것 참 죄송합니다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091301_MSG0012",
+      "style": 1,
+      "name": "처음 뵙겠습니다, 포그 크리스토프라고 합니다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091301_MSG0013",
+      "style": 1,
+      "name": "설마 저에게 협력해 주는 사람이\n있을 거라고는 상상도 못 했어요……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091301_MSG0014",
+      "style": 1,
+      "name": "이번 달 들어 가장 기쁜 일이에요……\n감개무량……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091301_JNK0030",
+      "style": 4,
+      "name": "재촉한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev091301_SEL0031",
+      "style": 3,
+      "name": "본론을 말하라고 재촉한다"
+    },
+    {
+      "$id": 21,
+      "label": "qev091301_JNK0040",
+      "style": 4,
+      "name": "기다린다"
+    },
+    {
+      "$id": 22,
+      "label": "qev091301_SEL0041",
+      "style": 3,
+      "name": "본론을 말할 때까지 기다린다"
+    },
+    {
+      "$id": 23,
+      "label": "qev091301_MSG0015",
+      "style": 1,
+      "name": "……그렇네요, 시간은 금이라고 하니까\n바로 본론으로 들어가죠[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091301_MSG0016",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091301_MSG0017",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091301_MSG0018",
+      "style": 1,
+      "name": "제 속도에 맞춰 주다니\n엄청나게 좋은 분이네요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091301_MSG0019",
+      "style": 1,
+      "name": "이제 겨우 생각이 정리되었으니\n임무를 설명해 드리겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091301_MSG0020",
+      "style": 1,
+      "name": "그게, 패스파인더가 설치한\n데이터 프로브의 상태가 이상해요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091301_MSG0021",
+      "style": 1,
+      "name": "하지만 그들은 데이터 프로브 설치에\n전념하고 있어서[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091301_MSG0022",
+      "style": 1,
+      "name": "저희 랜드뱅크가 일을 떠맡게 됐죠[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091301_MSG0023",
+      "style": 1,
+      "name": "평소에는 데이터 프로브를 활용해서\n광석이나 자원을 회수하고 있습니다만[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091301_MSG0024",
+      "style": 1,
+      "name": "덤으로 고장의 원인 조사까지\n부탁받고 말았어요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091301_MSG0025",
+      "style": 1,
+      "name": "랜드뱅크가 주로 하는 일은 회수인데\n이런 위험한 임무를 맡게 되다니……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091301_MSG0026",
+      "style": 1,
+      "name": "조사나 전투 같은 건\n진짜 자신 없는 분야라고요……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091301_JNK0050",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 36,
+      "label": "qev091301_SEL0051",
+      "style": 3,
+      "name": "바로 조사하러 가자고 제안한다"
+    },
+    {
+      "$id": 37,
+      "label": "qev091301_JNK0060",
+      "style": 4,
+      "name": "조언"
+    },
+    {
+      "$id": 38,
+      "label": "qev091301_SEL0061",
+      "style": 3,
+      "name": "도전해 보지도 않고 남에게 기대면\n안 된다고 조언한다"
+    },
+    {
+      "$id": 39,
+      "label": "qev091301_MSG0027",
+      "style": 1,
+      "name": "믿기지 않는 결단력이네요\n본받고 싶어요……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091301_MSG0028",
+      "style": 1,
+      "name": "그렇다면 말씀대로 어서 가 보죠[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091301_MSG0029",
+      "style": 1,
+      "name": "앗, 그러고 보니 목적지가 어디인지\n이야기하지 않았네요[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091301_MSG0031",
+      "style": 1,
+      "name": "에러가 발생한 프로브가 몇 군데 있습니다만\n일단 가까운 곳부터 가 보죠[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091301_MSG0032",
+      "style": 1,
+      "name": "일리 있는 말씀이지만 그래도 미숙한 저를\n이끌어 줄 사람이 있는 편이 좋을 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091301_MSG0033",
+      "style": 1,
+      "name": "……건방진 소리를 해서 죄송합니다[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091301_MSG0034",
+      "style": 1,
+      "name": "……저 혼자서는 불안하니까\n함께 가 주셨으면 해요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091301_MSG0036",
+      "style": 1,
+      "name": "에러가 발생한 프로브가 몇 군데 있습니다만\n일단 가까운 곳부터 가 보죠[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091301_MSG0037",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091301_MSG0038",
+      "style": 1,
+      "name": "원인이 밝혀지면\n랜드뱅크 임무도 순조로워질 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091301_MSG0039",
+      "style": 1,
+      "name": "열심히 해 봐요, NLA를 위해서……[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091301_MSG0042",
+      "style": 1,
+      "name": "장소는 망각의 계곡……[ST:wait ]"
+    }
+  ]
+}

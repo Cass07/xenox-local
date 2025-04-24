@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev057701_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev057701_SEL0011",
+      "style": 3,
+      "name": "원시 생물과 싸우는 방법에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev057701_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev057701_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev057701_SEL0031",
+      "style": 3,
+      "name": "야광의 숲의 원시 생물에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev057701_SEL0041",
+      "style": 3,
+      "name": "야광의 숲의 원시 생물에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev057701_MSG0001",
+      "style": 1,
+      "name": "쿨~쿨……\n가라~! 아빠!\n필살기로 싸워모……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev057701_MSG0002",
+      "style": 1,
+      "name": "눈을 노려모~ 다리를 노려모~\n비겁한 수를 써모……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev057701_MSG0003",
+      "style": 1,
+      "name": "부위를 파괴해서 상대의 필살기를\n봉쇄하는 거야모…… 쿠울[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev057701_MSG0008",
+      "style": 1,
+      "name": "음냐…… 타츠 형\n다른 카라반에는 가 봤어모?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev057701_MSG0009",
+      "style": 1,
+      "name": "NLA에서 북쪽으로 가다 보면\n새하얀 곳에 도달하게 돼모[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev057701_MSG0010",
+      "style": 1,
+      "name": "귀여운 리더 씨가……\n모? 모모못!?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev057701_MSG0011",
+      "style": 1,
+      "name": "안 돼모, 안 돼모!\n사츠를 그렇게 쓰다듬지 말아모~!\n녹아 버릴 것 같아모…… 쿨쿨[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev057701_MSG0040",
+      "style": 1,
+      "name": "쿨~쿨……\n아앗! 아빠, 안 돼모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev057701_MSG0041",
+      "style": 1,
+      "name": "물이 있는 곳은 꼼짝 못 하게 돼모!\n클로고스에게 잡아먹힐 거야모~![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev057701_MSG0042",
+      "style": 1,
+      "name": "앗, 앗! 그쪽엔 루메델이 있어모!\n엄마, 그 녀석 좀 잡아 줘모…… 쿠울[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev057701_MSG0043",
+      "style": 1,
+      "name": "헤헤…… 오늘 밤에는 루메델 통구이를\n먹을 수 있어모…… 엄마, 고마워모……\n음냐음냐……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev057701_MSG0048",
+      "style": 1,
+      "name": "쿨~쿨…… 쿨쿨…………\n아, 안 돼모…… 오염된 샘 동굴 안쪽은 안 돼모……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev057701_MSG0049",
+      "style": 1,
+      "name": "엄청 위험한 녀석이 숲으로 왔어모……\n그런 녀석은 처음 봐모……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev057701_MSG0050",
+      "style": 1,
+      "name": "하지만…… 아빠라면 분명\n쓰러뜨려 줄 거야……모……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev057701_MSG0051",
+      "style": 1,
+      "name": "오염된 샘 동굴…… 독으로 오염된……\n으으…… 독기가 가득해모………… 쿠울[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev057701_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev057701_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev057701_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev057701_SEL1021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev057701_MSG0012",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev057701_MSG0013",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev057701_MSG0014",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev057701_MSG0015",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev057701_MSG0016",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev057701_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev057701_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev057701_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "tev057701_SEL2021",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev057701_MSG0017",
+      "style": 1,
+      "name": "쿨~쿨……\n민폐를 끼쳤습니다모……\n사츠, 정말 반성하고 있어모……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev057701_MSG0018",
+      "style": 1,
+      "name": "사죄의 뜻으로 사츠를\n마음대로 해도 좋아모……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev057701_MSG0021",
+      "style": 1,
+      "name": "모못!?\n남자는, 남자는 안 돼모![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev057701_MSG0022",
+      "style": 1,
+      "name": "모모~~~! 단단해모~~~!\n대흉근은 싫어모~!! ……으으음[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev057701_MSG0025",
+      "style": 1,
+      "name": "이 부드러움…… 따뜻함……\n엄마 같아모……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev057701_MSG0026",
+      "style": 1,
+      "name": "엄마…… 고생시켜서 미안해모……\n이게 다 아빠 탓이야모…… 새근새근……[ST:wait ]"
+    }
+  ]
+}

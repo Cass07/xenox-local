@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev012502_MSG0001",
+      "style": 1,
+      "name": "오, 끈기 있어 보이는 녀석, 발견![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev012502_MSG0002",
+      "style": 1,
+      "name": "그게 말이지, 우리 팀에 들일 만한\n인재를 찾는데 도통 안 보이더라고[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev012502_MSG0003",
+      "style": 1,
+      "name": "어떻게 할지 고민하고 있었는데……\n당신이라면 분명 괜찮을 거야![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev012502_MSG0004",
+      "style": 1,
+      "name": "어때? 그 전설의 탐험가, 콜론더스 대장과\n함께 일할 기회라니까?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev012502_MSG0005",
+      "style": 1,
+      "name": "나쁘지 않지? 흥미가 있다면\n일단 대장과 이야기해 봐[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev300181_MSG0001",
+      "style": 1,
+      "name": "혹시 유가\n미라늄 심부름꾼이양?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev300181_MSG0002",
+      "style": 1,
+      "name": "5700gm이라는 애매한 분량의 미라늄을\n요구했는데 가지고 와 준 거양?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev300181_JNK0010",
+      "style": 4,
+      "name": "건네준다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev300181_SEL0011",
+      "style": 3,
+      "name": "미라늄 5700gm을 건네준다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev300181_JNK0020",
+      "style": 4,
+      "name": "건네주지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev300181_SEL0021",
+      "style": 3,
+      "name": "아직은 건네주지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev300181_MSG0004",
+      "style": 1,
+      "name": "생큐!\n하지만 뭘 만들지는 아직 생각 안 했으니까\n기대하고 있으라공![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev300181_MSG0005",
+      "style": 1,
+      "name": "……오오\n지금 날 놀리는 거구낭![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev300181_MSG0006",
+      "style": 1,
+      "name": "……오오\n미라늄 없는 이자에게 자비가 있기를[ST:wait ]"
+    }
+  ]
+}

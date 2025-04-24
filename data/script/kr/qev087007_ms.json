@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087007_MSG0001",
+      "style": 0,
+      "name": "그런가\n그럼 마 논인의 보고를 기다리도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087007_MSG0002",
+      "style": 0,
+      "name": "엘마 팀 제군들\n자네들에게 기대한 나의 판단은 옳았나 보군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087007_MSG0003",
+      "style": 0,
+      "name": "앞으로도 도와주길 바라네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087007_MSG0004",
+      "style": 0,
+      "name": "물론이야, 같은 목적을 가진 동안에는 말이지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087007_MSG0005",
+      "style": 0,
+      "name": "우리의 목적은 지구 인류의 존속일세\n길을 달리할 일은 없다네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087007_MSG0006",
+      "style": 0,
+      "name": "그렇겠네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087007_MSG0007",
+      "style": 0,
+      "name": "지구 인류의 존속이라니, 말이 거창하네요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087007_MSG0008",
+      "style": 0,
+      "name": "그렇지도 않아\n그가 그 일에 진지한 건 확실하니까[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087007_MSG0009",
+      "style": 0,
+      "name": "그러고 보니 엘마 씨, 알고 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087007_MSG0010",
+      "style": 0,
+      "name": "장관님, 아들이 있었다나 봐요\n게다가 군인이었대요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087007_MSG0011",
+      "style": 0,
+      "name": "그럼, 지금은 블레이드려나?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087007_MSG0012",
+      "style": 0,
+      "name": "그게, 흰고래에 태우지 않았다는 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087007_MSG0013",
+      "style": 0,
+      "name": "출항 직전에 위험한 임무를 맡겨서\n그대로……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087007_JNK0010",
+      "style": 4,
+      "name": "분노"
+    },
+    {
+      "$id": 15,
+      "label": "qev087007_SEL0011",
+      "style": 3,
+      "name": "매정한 아버지라고 분개한다"
+    },
+    {
+      "$id": 16,
+      "label": "qev087007_JNK0020",
+      "style": 4,
+      "name": "침착"
+    },
+    {
+      "$id": 17,
+      "label": "qev087007_SEL0021",
+      "style": 3,
+      "name": "모리스의 판단을 헤아려 본다"
+    },
+    {
+      "$id": 18,
+      "label": "qev087007_MSG0014",
+      "style": 0,
+      "name": "정말이다모\n부모가 할 짓이 아니다모![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087007_MSG0015",
+      "style": 0,
+      "name": "그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087007_MSG0016",
+      "style": 0,
+      "name": "소문으로 비난하는 건 좋지 않아[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087007_MSG0017",
+      "style": 0,
+      "name": "엘마 씨[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087007_MSG0018",
+      "style": 0,
+      "name": "그는 분명 가족조차 편애하지 않는\n엄격한 인물일지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087007_MSG0019",
+      "style": 0,
+      "name": "그래도 본인이 믿는 정의를\n행하고 있다는 건 확실해[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087007_MSG0020",
+      "style": 0,
+      "name": "비정할지도 모르지만\n그건 인정해 주자[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087007_MSG0021",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087007_MSG0022",
+      "style": 0,
+      "name": "그가 이기적인 악인이었다면\n타인에게 위험을 떠넘기고 가족을 구했을 거야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087007_MSG0023",
+      "style": 0,
+      "name": "하지만 그렇게 하지 않았죠[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087007_MSG0024",
+      "style": 0,
+      "name": "그게 옳은 일일지도 모르지만\n왠지 슬퍼요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev087007_MSG0025",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

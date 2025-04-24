@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040404_MSG0001",
+      "style": 1,
+      "name": "사츠~~! 어디 있어모~\n고츠는 쓸쓸하다고모~[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040404_JNK0010",
+      "style": 4,
+      "name": "사실"
+    },
+    {
+      "$id": 3,
+      "label": "qev040404_SEL0011",
+      "style": 3,
+      "name": "사츠를 찾았다고 말한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev040404_JNK0020",
+      "style": 4,
+      "name": "농담"
+    },
+    {
+      "$id": 5,
+      "label": "qev040404_SEL0021",
+      "style": 3,
+      "name": "사츠는 별이 되고 말았다고 한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev040404_MSG0002",
+      "style": 1,
+      "name": "다행이다모~ 이제 돌아갈 수 있겠다모[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev040404_MSG0003",
+      "style": 1,
+      "name": "너무너무 쓸쓸해서\n마음을 주체할 수가 없었다모~[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev040404_MSG0004",
+      "style": 1,
+      "name": "그러면 얼른 돌아갈게모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev040404_MSG0005",
+      "style": 1,
+      "name": "쇼크~다모……\n쓸쓸함이 폭발한다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev040404_MSG0006",
+      "style": 1,
+      "name": "더는 사츠를 만날 수 없다모\n쓸쓸해모…… 너무 쓸쓸해모……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev040404_MSG0007",
+      "style": 1,
+      "name": "……놀린 거라고모?\n사츠는 카라반에 돌아왔어모?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev040404_MSG0008",
+      "style": 1,
+      "name": "성격이 못됐다모~ 속았다모~\n그래도 사츠가 살아 있어서 기쁘다모![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev040404_MSG0009",
+      "style": 1,
+      "name": "얼른 돌아가서 사츠와 가족들을 만날 거다모![ST:wait ]"
+    }
+  ]
+}

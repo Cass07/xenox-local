@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086504_MSG0001",
+      "style": 0,
+      "name": "カーチャン！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086504_MSG0002",
+      "style": 0,
+      "name": "タツ！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086504_MSG0003",
+      "style": 0,
+      "name": "ありがとも！\nみなさんのおかげで助かったも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086504_MSG0004",
+      "style": 0,
+      "name": "それでカーチャン\nデッカイ魚はどうしたですも？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086504_MSG0005",
+      "style": 0,
+      "name": "それがだも[ST:wide ]―\nいまの奴に食われちまったんだも[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086504_MSG0006",
+      "style": 0,
+      "name": "ううう　残念ですも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086504_MSG0007",
+      "style": 0,
+      "name": "大丈夫だも　その代わりお魚を食っちまった\nアイツを持って帰るんだも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086504_JNK0010",
+      "style": 4,
+      "name": "感心"
+    },
+    {
+      "$id": 9,
+      "label": "qev086504_SEL0011",
+      "style": 3,
+      "name": "うなずきつつ母は強しと呟く"
+    },
+    {
+      "$id": 10,
+      "label": "qev086504_JNK0020",
+      "style": 4,
+      "name": "関心"
+    },
+    {
+      "$id": 11,
+      "label": "qev086504_SEL0021",
+      "style": 3,
+      "name": "アイツを見つめて唾を飲み込む"
+    },
+    {
+      "$id": 12,
+      "label": "qev086504_MSG0008",
+      "style": 0,
+      "name": "そうですね\n私達の援軍要らなかったかもしれないですね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086504_MSG0009",
+      "style": 0,
+      "name": "あれは[ST:wide ]―\nまだ調理したことのない食材ですね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086504_MSG0010",
+      "style": 0,
+      "name": "今度　料理するので毒見お願いします！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086504_MSG0011",
+      "style": 0,
+      "name": "タツ　あなたにはヴァンダム司令から\n託された任務があるでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086504_MSG0012",
+      "style": 0,
+      "name": "はっ　そうでしたも！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086504_MSG0012_2",
+      "style": 0,
+      "name": "カーチャン[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086504_MSG0013",
+      "style": 0,
+      "name": "ニューロサンゼルスザンテーセイフと\nドドンガ・キャラバンで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086504_MSG0014",
+      "style": 0,
+      "name": "ユーコージョーヤクを\nテーケツして欲しいですも！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086504_MSG0015",
+      "style": 0,
+      "name": "ユーコージョーヤク　なんだもそれは？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086504_MSG0016",
+      "style": 0,
+      "name": "私達の街とあなた方のキャラバンとで\n仲良くしたいということよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086504_MSG0017",
+      "style": 0,
+      "name": "ほーほー　それはいいお話だも[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086504_MSG0018",
+      "style": 0,
+      "name": "それなら　親書にサインして欲しいですも！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086504_MSG0019",
+      "style": 0,
+      "name": "さあ　サインをしといたも[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086504_MSG0020",
+      "style": 0,
+      "name": "これでＮＬＡとドドンガ・キャラバンは\nオトモダチだも！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086504_MSG0021",
+      "style": 0,
+      "name": "やったぁ！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086504_MSG0022",
+      "style": 0,
+      "name": "条約締結に感謝します[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086504_MSG0023",
+      "style": 0,
+      "name": "さあ　次はドリアン・キャラバンですも！\nさっさとジョーヤクテイケツですも！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086504_MSG0024",
+      "style": 0,
+      "name": "これで任務を果たしたですも！\nヴァンダムのおっちゃんに報告に行くですも！[ST:wait ]"
+    }
+  ]
+}

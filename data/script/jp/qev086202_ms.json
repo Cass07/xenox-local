@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086202_MSG0001",
+      "style": 0,
+      "name": "やったぁー　新製品ができたですも！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086202_MSG0002",
+      "style": 0,
+      "name": "いやぁ　こんなにはやく\nマテリアルが集まるなんて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086202_MSG0003",
+      "style": 0,
+      "name": "みなさんのご協力を得られた\n私の人徳あってのことですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086202_MSG0004",
+      "style": 0,
+      "name": "でもなんだか見た目　普通ですね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086202_MSG0005",
+      "style": 0,
+      "name": "そう思うところが　素人のあかさたな[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086202_MSG0005_m",
+      "style": 0,
+      "name": "そう思うところが　素人のあかさたな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086202_MSG0005_f",
+      "style": 0,
+      "name": "そう思うところが　素人のあかさたな[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086202_MSG0006",
+      "style": 0,
+      "name": "おや　早速お客様が\nいらっしゃいましたよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086202_MSG0007",
+      "style": 0,
+      "name": "ようこそ　お客様\n何かお探しですか？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086202_MSG0008",
+      "style": 0,
+      "name": "いやぁ　うちのチームで\n引き受けた任務なんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086202_MSG0009",
+      "style": 0,
+      "name": "そこのエリアの原生生物が強力でな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086202_MSG0010",
+      "style": 0,
+      "name": "あら　討伐するのなら武器ショップへ\n行った方がいいわよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086202_MSG0011",
+      "style": 0,
+      "name": "いやいやいや　あんな原生生物を\n倒すなんて俺らにはとてもとても[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086202_MSG0012",
+      "style": 0,
+      "name": "追っ払えればいいと思ってさ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086202_MSG0013",
+      "style": 0,
+      "name": "なるほど[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086202_MSG0014",
+      "style": 0,
+      "name": "そういうことでしたら\nぴったりのアイテムを[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086202_MSG0015",
+      "style": 0,
+      "name": "選んでさしあげてください！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086202_MSG0015_m",
+      "style": 0,
+      "name": "選んでさしあげてください！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086202_MSG0015_f",
+      "style": 0,
+      "name": "選んでさしあげてください！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086202_JNK0010",
+      "style": 4,
+      "name": "ハニースモークボール"
+    },
+    {
+      "$id": 21,
+      "label": "qev086202_SEL0011",
+      "style": 3,
+      "name": "あま～い香りのする煙幕"
+    },
+    {
+      "$id": 22,
+      "label": "qev086202_JNK0020",
+      "style": 4,
+      "name": "高温ミルクパン"
+    },
+    {
+      "$id": 23,
+      "label": "qev086202_SEL0021",
+      "style": 3,
+      "name": "特別素材製の常に高温な鍋"
+    },
+    {
+      "$id": 24,
+      "label": "qev086202_JNK0030",
+      "style": 4,
+      "name": "電気ハンモック"
+    },
+    {
+      "$id": 25,
+      "label": "qev086202_SEL0031",
+      "style": 3,
+      "name": "寝る以外にも肉や魚も焼ける"
+    },
+    {
+      "$id": 26,
+      "label": "qev086202_MSG0016",
+      "style": 0,
+      "name": "いやいや　良いものが見つかったよ！\nさっそく今度　出くわしたら試してみるよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086202_MSG0017",
+      "style": 0,
+      "name": "ありがとな！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086202_MSG0018",
+      "style": 0,
+      "name": "いいものですねぇ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086202_MSG0019",
+      "style": 0,
+      "name": "良いものを作って　それが売れて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086202_MSG0020",
+      "style": 0,
+      "name": "お客様に喜んでいただけるというのは\n満足感があります[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086202_MSG0021",
+      "style": 0,
+      "name": "おっと　次のお客様がいらっしゃいましたよ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086202_MSG0022",
+      "style": 0,
+      "name": "ようこそ　お客様\n何かお探しですか？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086202_MSG0023",
+      "style": 0,
+      "name": "あの[ST:wide ]―\n実は最近　お付き合いする人ができて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086202_MSG0024",
+      "style": 0,
+      "name": "ええっ　おめでとうございます！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086202_MSG0025",
+      "style": 0,
+      "name": "あの[ST:wide ]―　ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086202_MSG0026",
+      "style": 0,
+      "name": "それであの[ST:wide ]―\n彼のために　ご飯でも作ってあげたくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086202_MSG0027",
+      "style": 0,
+      "name": "なるほど[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086202_MSG0028",
+      "style": 0,
+      "name": "そういうことでしたら\nぴったりのアイテムを[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086202_MSG0029",
+      "style": 0,
+      "name": "選んでさしあげてください！[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086202_MSG0029_m",
+      "style": 0,
+      "name": "選んでさしあげてください！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086202_MSG0029_f",
+      "style": 0,
+      "name": "選んでさしあげてください！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086202_MSG0030",
+      "style": 0,
+      "name": "あの[ST:wide ]―\nこれで彼にも喜んでもらえると思います[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev086202_MSG0031",
+      "style": 0,
+      "name": "あの[ST:wide ]―　ありがとうございました[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086202_MSG0032",
+      "style": 0,
+      "name": "ほんとに役に立つのかなぁ[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev086202_MSG0033",
+      "style": 0,
+      "name": "立つといいですねぇ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev086202_MSG0034",
+      "style": 0,
+      "name": "ええっ　自信ないんですか！？[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev086202_MSG0035",
+      "style": 0,
+      "name": "何せ　あの品を選んだのは\n私ではありませんから[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev086202_MSG0036",
+      "style": 0,
+      "name": "でも　もし使いものにならなくても\n人生の他の場面できっと役立ちますよ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev086202_MSG0037",
+      "style": 0,
+      "name": "そういうものかしら[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

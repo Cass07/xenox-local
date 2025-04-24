@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085606_MSG0001",
+      "style": 0,
+      "name": "ラオさん！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085606_MSG0002",
+      "style": 0,
+      "name": "すまなかったな　リン[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085606_MSG0003",
+      "style": 0,
+      "name": "俺が手伝うはずだった任務\n片付けてくれたんだって？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085606_MSG0004",
+      "style": 0,
+      "name": "ほんとですよ\n苦労したんですから[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085606_MSG0005",
+      "style": 0,
+      "name": "悪かった\n近いうちにお茶でも奢らせてもらうよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085606_MSG0006",
+      "style": 0,
+      "name": "いい茶葉をそろえてる店があるんだ\nミラ原産のだけどな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085606_MSG0007",
+      "style": 0,
+      "name": "ほんとですか！？\n楽しみにしてます！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085606_MSG0008",
+      "style": 0,
+      "name": "おいおい　そんなんで許しちまうのかよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085606_MSG0009",
+      "style": 0,
+      "name": "そりゃ\nチョコで釣られるよりずっと嬉しいですもん[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085606_MSG0010",
+      "style": 0,
+      "name": "そういうもんかねぇ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085606_JNK0010",
+      "style": 4,
+      "name": "強欲"
+    },
+    {
+      "$id": 12,
+      "label": "qev085606_SEL0011",
+      "style": 3,
+      "name": "自分も何か欲しいとゴネる"
+    },
+    {
+      "$id": 13,
+      "label": "qev085606_JNK0020",
+      "style": 4,
+      "name": "不審"
+    },
+    {
+      "$id": 14,
+      "label": "qev085606_SEL0021",
+      "style": 3,
+      "name": "ラオが何をしていたか追及する"
+    },
+    {
+      "$id": 15,
+      "label": "qev085606_MSG0011",
+      "style": 0,
+      "name": "はいはい　了解だ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085606_MSG0012",
+      "style": 0,
+      "name": "お前の場合は　お茶ですませる\nってわけにゃいかないんだろうな[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085606_MSG0013",
+      "style": 0,
+      "name": "ったく　高くついちまいそうだぜ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085606_MSG0014",
+      "style": 0,
+      "name": "おいおい　詮索なんて野暮はご勘弁だぜ\nお前にも奢るから許してくれよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085606_MSG0015",
+      "style": 0,
+      "name": "ダグ　それでデータ解析の結果は出た？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085606_MSG0016",
+      "style": 0,
+      "name": "いや　まだだ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085606_MSG0017",
+      "style": 0,
+      "name": "大事にならないことを祈っているわ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085606_MSG0018",
+      "style": 0,
+      "name": "ああ　全くだ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085606_MSG0019",
+      "style": 0,
+      "name": "大丈夫ですも　どんなことが起きても\nタツが解決してあげるですも[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085606_MSG0020",
+      "style": 0,
+      "name": "泥船に乗った気でまかせるですも～～！[ST:wait ]"
+    }
+  ]
+}

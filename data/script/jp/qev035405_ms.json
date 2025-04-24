@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev035405_MSG0001",
+      "style": 1,
+      "name": "こいつは敵わねぇ……！\nここはひとまず　退散させてもらうか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev035405_MSG0002",
+      "style": 1,
+      "name": "へっ……てめぇの顔は覚えたからよ\n近いうち必ず　このガス様をコケにした罪\n思い知らせてやるからな！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev035405_MSG0003",
+      "style": 1,
+      "name": "覚えてやがれ！[ST:wait ]"
+    }
+  ]
+}

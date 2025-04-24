@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091502_MSG0001",
+      "style": 0,
+      "name": "왔군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091502_MSG0002",
+      "style": 0,
+      "name": "준비는 되었나?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091502_JNK0010",
+      "style": 4,
+      "name": "네"
+    },
+    {
+      "$id": 4,
+      "label": "qev091502_SEL0011",
+      "style": 3,
+      "name": "준비 완료"
+    },
+    {
+      "$id": 5,
+      "label": "qev091502_JNK0020",
+      "style": 4,
+      "name": "아니요"
+    },
+    {
+      "$id": 6,
+      "label": "qev091502_SEL0021",
+      "style": 3,
+      "name": "아직 준비가 끝나지 않았다"
+    },
+    {
+      "$id": 7,
+      "label": "qev091502_MSG0003",
+      "style": 0,
+      "name": "좋아[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091502_MSG0004",
+      "style": 0,
+      "name": "프라이 팀은 이미 암반 요새를 공격 중이다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091502_MSG0005",
+      "style": 0,
+      "name": "기습 작전에 동요한 건지\n그로우스의 지휘 계통은 혼란에 빠졌고[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091502_MSG0006",
+      "style": 0,
+      "name": "반격도 적어서\n우리 작전은 순조롭게 진행되고 있다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091502_MSG0007",
+      "style": 0,
+      "name": "하지만 예상대로 그로우스의 별동대가\n움직이기 시작했다는 정보가 들어왔다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091502_MSG0008",
+      "style": 0,
+      "name": "녀석들이 곧 오겠지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091502_MSG0009",
+      "style": 0,
+      "name": "철저하게 격퇴해라, 그로우스의 작전이\n얼마나 무의미한 짓인지 깨닫게 해 주는 거다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091502_MSG0010",
+      "style": 0,
+      "name": "포그, 알겠나?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091502_MSG0011",
+      "style": 0,
+      "name": "……알겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091502_MSG0012",
+      "style": 0,
+      "name": "열심히 하죠[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091502_MSG0013",
+      "style": 1,
+      "name": "정보에 없는 적이 나타나다니!?\n[ST:playername ], 상황 확인을 부탁한다![ST:wait ]"
+    }
+  ]
+}

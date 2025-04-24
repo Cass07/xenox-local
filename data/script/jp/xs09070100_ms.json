@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs09070100_MSG0001",
+      "style": 0,
+      "name": "愉快だ　実に愉快だ[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs09070100_MSG0002",
+      "style": 0,
+      "name": "このガ・デルグ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs09070100_MSG0002_2",
+      "style": 0,
+      "name": "貴様とは得物を変えて\nもっとやりあってみたくなった[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs09070100_MSG0003",
+      "style": 0,
+      "name": "貴様も遠慮無く　好きな得物を使うが良い[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs09070100_MSG0003_2",
+      "style": 0,
+      "name": "第二幕といこう[ST:wait ]"
+    }
+  ]
+}

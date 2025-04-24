@@ -1,0 +1,498 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085201_MSG0001",
+      "style": 0,
+      "name": "エルマ大佐[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085201_MSG0002",
+      "style": 0,
+      "name": "今はオフなの　イリーナ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085201_MSG0003",
+      "style": 0,
+      "name": "ええ　いつもチームの連中と\n一緒ですからね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085201_MSG0003_2",
+      "style": 0,
+      "name": "たまには一人で食事でもと\n思ったんですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085201_MSG0004",
+      "style": 0,
+      "name": "やっぱり寂しくなっちゃったんですか？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085201_MSG0005",
+      "style": 0,
+      "name": "大人はそういう言い方　しないんだよ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085201_MSG0006",
+      "style": 0,
+      "name": "寂しくてご飯が喉を通らないですも？\nそういうことならタツにおまかせですも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085201_MSG0007",
+      "style": 0,
+      "name": "イリーナさんの分まで\nタツが食べてあげるですも！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085201_MSG0008",
+      "style": 0,
+      "name": "そういうこと言ってんじゃないの！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085201_MSG0009",
+      "style": 0,
+      "name": "全く　エルマ大佐のチームは面白いなぁ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085201_MSG0010",
+      "style": 0,
+      "name": "よう　イリーナじゃないか[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085201_MSG0011",
+      "style": 0,
+      "name": "おい　中尉殿ってお呼びしろよ\n統合軍時代にゃ士官様だったんだぜ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085201_MSG0012",
+      "style": 0,
+      "name": "今は同じブレイドじゃねえか[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085201_MSG0012_2",
+      "style": 0,
+      "name": "地球時代の[ST:wide ]―\nそれも軍の階級なんざ関係ねえよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085201_MSG0013",
+      "style": 0,
+      "name": "そうだろう　イリーナ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085201_MSG0014",
+      "style": 0,
+      "name": "ああ　あんたの言う通りだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085201_MSG0015",
+      "style": 0,
+      "name": "でもよ　イリーナさんは\n尊敬しなきゃなんねえぜ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085201_MSG0016",
+      "style": 0,
+      "name": "ほら　あのグインとかいう小僧とか[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085201_MSG0017",
+      "style": 0,
+      "name": "とても使いモンになりそうにない奴ら抱えて\n俺らより大活躍なんだからよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085201_MSG0017_2",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "qev085201_MSG0018",
+      "style": 0,
+      "name": "やめておきなさい\n相手にするだけ　時間の無駄よ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085201_MSG0019",
+      "style": 0,
+      "name": "了解です[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085201_MSG0020",
+      "style": 0,
+      "name": "イリーナ姉さんより\nもっとすげぇお方がいらっしゃる[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085201_MSG0021",
+      "style": 0,
+      "name": "おお　そうだ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085201_MSG0022",
+      "style": 0,
+      "name": "若くして大佐　おまけにお嬢ちゃんやノポン人\n引き連れて人気急上昇中のエルマ様[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085201_MSG0023",
+      "style": 0,
+      "name": "だよなぁ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085201_MSG0024",
+      "style": 0,
+      "name": "どうやったらそんなメンツでご活躍できるのか\n裏技教えてもらいてぇ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085201_MSG0025",
+      "style": 0,
+      "name": "ふざけんな！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085201_MSG0026",
+      "style": 0,
+      "name": "あたしのことなら\n聞き流してやるつもりだったが[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085201_MSG0027",
+      "style": 0,
+      "name": "チームのメンバーやエルマ大佐を\n侮辱しようってんなら話は別だ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085201_MSG0028",
+      "style": 0,
+      "name": "相手してやるよ！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085201_MSG0029",
+      "style": 0,
+      "name": "何の相手をしてくれんだ？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085201_MSG0030",
+      "style": 0,
+      "name": "おもしれぇ　やってやるよ！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085201_JNK0010",
+      "style": 4,
+      "name": "積極"
+    },
+    {
+      "$id": 35,
+      "label": "qev085201_SEL0011",
+      "style": 3,
+      "name": "前に出て拳を構える"
+    },
+    {
+      "$id": 36,
+      "label": "qev085201_JNK0020",
+      "style": 4,
+      "name": "静観"
+    },
+    {
+      "$id": 37,
+      "label": "qev085201_SEL0021",
+      "style": 3,
+      "name": "そのまま成り行きを見守る"
+    },
+    {
+      "$id": 38,
+      "label": "qev085201_MSG0031",
+      "style": 0,
+      "name": "てめえもやるってのか\n勝てるつもりかよ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev085201_MSG0032",
+      "style": 0,
+      "name": "あんた　意外とケンカっ早いんだね\n気に入ったよ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev085201_MSG0033",
+      "style": 0,
+      "name": "こんな所で私闘に及ぼうとは　見逃せないわね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev085201_MSG0034",
+      "style": 0,
+      "name": "大佐　見逃してください\nこいつら　許しておけないんです！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev085201_MSG0035",
+      "style": 0,
+      "name": "見逃せないって言ったでしょう\n私も参加させてもらうわ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev085201_MSG0036",
+      "style": 0,
+      "name": "大佐だろうが中尉だろうがそんな昔の肩書き\n通用しねえってこと教えてやるぜ！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev085201_MSG0037",
+      "style": 0,
+      "name": "こらっ　貴様ら！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev085201_MSG0038",
+      "style": 0,
+      "name": "ヴァ　ヴァンダム司令！[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev085201_MSG0039",
+      "style": 0,
+      "name": "こ　これは　あいつらが先に\nケンカふっかけてきやがったもんで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev085201_MSG0040",
+      "style": 0,
+      "name": "馬鹿もん！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev085201_MSG0041",
+      "style": 0,
+      "name": "最初から全部見とったわ\n貴様らがくだらん因縁をつけてたとこからな[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev085201_MSG0042",
+      "style": 0,
+      "name": "罰としてこの場で腕立て一億回！\n貴様らの上腕二頭筋を破壊する！[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev085201_MSG0043",
+      "style": 0,
+      "name": "いやぁ　面目ない\n俺の教育不足だ[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev085201_MSG0044",
+      "style": 0,
+      "name": "しかし[ST:wide ]―　エルマ\nお前さんまで喧嘩に参加するとは意外だったぜ[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev085201_MSG0045",
+      "style": 0,
+      "name": "本来なら止める立場なんでしょうけれど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev085201_MSG0046",
+      "style": 0,
+      "name": "イリーナは教導隊の頃からの\n大切な仲間だものね[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev085201_MSG0047",
+      "style": 0,
+      "name": "大佐　あたしなんかのために[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev085201_MSG0048",
+      "style": 0,
+      "name": "全くこれだから男は\nあーやだやだ[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev085201_MSG0049",
+      "style": 0,
+      "name": "イリーナさん？[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev085201_MSG0050",
+      "style": 0,
+      "name": "何でもないよ[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev085201_JNK0030",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 59,
+      "label": "qev085201_SEL0031",
+      "style": 3,
+      "name": "ヴァンダムの用事を尋ねる"
+    },
+    {
+      "$id": 60,
+      "label": "qev085201_JNK0040",
+      "style": 4,
+      "name": "不審"
+    },
+    {
+      "$id": 61,
+      "label": "qev085201_SEL0041",
+      "style": 3,
+      "name": "イリーナの様子を気にかける"
+    },
+    {
+      "$id": 62,
+      "label": "qev085201_MSG0051",
+      "style": 0,
+      "name": "エルマ　お前さん達を捜してたんだ[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev085201_MSG0052",
+      "style": 0,
+      "name": "んっ　なんか変か？[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev085201_MSG0053",
+      "style": 0,
+      "name": "イリーナさん　変ですも！\nこのタツに言ってみるですも！[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev085201_MSG0053_m",
+      "style": 0,
+      "name": "イリーナさん　変ですも！\nこのタツに言ってみるですも！[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev085201_MSG0053_f",
+      "style": 0,
+      "name": "イリーナさん　変ですも！\nこのタツに言ってみるですも！[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev085201_MSG0054",
+      "style": 0,
+      "name": "ありがと\nでも遠慮しとくよ[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev085201_MSG0055",
+      "style": 0,
+      "name": "ですよねぇ[ST:wide ]―\nタツに話しても　気休めにもならないし[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev085201_MSG0056",
+      "style": 0,
+      "name": "そんな　ひどいですも！[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev085201_MSG0057",
+      "style": 0,
+      "name": "まあ　あたしの話はいいよ\nそれよりおやっさん　何でこんなとこに？[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev085201_MSG0058",
+      "style": 0,
+      "name": "おお　そうだ\nエルマ　お前さん達を捜してたんだ[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev085201_MSG0059",
+      "style": 0,
+      "name": "何か任務？[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev085201_MSG0060",
+      "style": 0,
+      "name": "ああ　嘆き平原に原生生物が\n頻出するようになっていてな[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev085201_MSG0061",
+      "style": 0,
+      "name": "ランドバンクのチームに被害が出てる[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev085201_MSG0062",
+      "style": 0,
+      "name": "分かったわ\n引き受ける[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev085201_MSG0063",
+      "style": 0,
+      "name": "エルマ大佐\nよかったら連れていってください[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev085201_MSG0064",
+      "style": 0,
+      "name": "おいおい[ST:wide ]―\nお前　休暇中だろう[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev085201_MSG0065",
+      "style": 0,
+      "name": "なんか憂さ晴らししたい気分になったし\nたまにはエルマ大佐の指揮下で働きたいんです[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev085201_MSG0066",
+      "style": 0,
+      "name": "分かったわ　あなたがいるとこちらも心強い\nよろしくね[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev085201_MSG0067",
+      "style": 0,
+      "name": "了解です[ST:wait ]"
+    }
+  ]
+}

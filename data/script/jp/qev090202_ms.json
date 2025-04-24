@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090202_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―なるほどな\n忘却の渓谷に白鯨の残骸ねぇ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090202_MSG0002",
+      "style": 0,
+      "name": "俺の知る限り　テスタメントの中で\nそこに行った奴はいない[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090202_MSG0003",
+      "style": 0,
+      "name": "きっと　誰も見つけたことのないような\nすっげぇ物が転がってるはずさ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090202_MSG0004",
+      "style": 0,
+      "name": "面白れぇじゃねぇか！\nいっちょ行ってみようぜ！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090202_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 6,
+      "label": "qev090202_SEL0011",
+      "style": 3,
+      "name": "早速行こうと乗り気で頷く"
+    },
+    {
+      "$id": 7,
+      "label": "qev090202_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 8,
+      "label": "qev090202_SEL0021",
+      "style": 3,
+      "name": "やらなければならない\n任務が他にあるのではと言う"
+    },
+    {
+      "$id": 9,
+      "label": "qev090202_MSG0005",
+      "style": 0,
+      "name": "そうこなくっちゃ！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090202_MSG0006",
+      "style": 0,
+      "name": "俺のやりたいことが\nやらなきゃいけねーことなんだよ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090202_MSG0007",
+      "style": 0,
+      "name": "頼むぜ相棒　そこらへん\nそろそろわかってくれよな？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090202_MSG0008",
+      "style": 0,
+      "name": "[ST:wide ]―よっしゃ！\nそれじゃ早速　忘却の渓谷に向けて出発だ！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090202_MSG0009",
+      "style": 0,
+      "name": "[ST:wide ]―へぇ\n大量発生した原生生物の討伐任務ねぇ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090202_MSG0010",
+      "style": 0,
+      "name": "あのキモチ悪いのが大量にいるのは\n確かに珍しいがイヤな光景でもあるな[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090202_MSG0011",
+      "style": 0,
+      "name": "ぞっとしないがせっかくだ　行ってみるか？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090202_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 17,
+      "label": "qev090202_SEL0031",
+      "style": 3,
+      "name": "ブレイドの活動に必要な\n任務だと促す"
+    },
+    {
+      "$id": 18,
+      "label": "qev090202_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 19,
+      "label": "qev090202_SEL0041",
+      "style": 3,
+      "name": "わざわざ自分達がやるような\n仕事ではないと言う"
+    },
+    {
+      "$id": 20,
+      "label": "qev090202_MSG0012",
+      "style": 0,
+      "name": "わかったわかった！\n相変わらずマジメな奴だな　お前は！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090202_MSG0012_m",
+      "style": 0,
+      "name": "わかったわかった！\n相変わらずマジメな奴だな　お前は！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090202_MSG0012_f",
+      "style": 0,
+      "name": "わかったわかった！\n相変わらずマジメな奴だな　お前は！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090202_MSG0013",
+      "style": 0,
+      "name": "それじゃ早速行くか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090202_MSG0014",
+      "style": 0,
+      "name": "俺も同感だ！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090202_MSG0015",
+      "style": 0,
+      "name": "[ST:wide ]―まぁ　こんな任務でも\nやりゃあ小銭にはなるしな[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090202_MSG0016",
+      "style": 0,
+      "name": "さくっと終わらせようや[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090202_MSG0017",
+      "style": 0,
+      "name": "って[ST:wide ]―　そうだ　覚えとけよ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090202_MSG0018",
+      "style": 0,
+      "name": "虫けらどもを一通りぶっ倒したら\nエレオノーラに報告だからな[ST:wait ]"
+    }
+  ]
+}

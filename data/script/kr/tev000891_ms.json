@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000891_MSG0001",
+      "style": 1,
+      "name": "오, [ST:playername ]\n너도 따분해 죽겠다는 표정이잖아[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000891_MSG0002",
+      "style": 1,
+      "name": "임무가 없을 때는\n아무래도 시간이 남아돈단 말이지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000891_MSG0003",
+      "style": 1,
+      "name": "너는 휴일에 어떻게 지내냐?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000891_JNK0010",
+      "style": 4,
+      "name": "임무"
+    },
+    {
+      "$id": 5,
+      "label": "tev000891_SEL0011",
+      "style": 3,
+      "name": "끊임없이 임무를 수행하므로\n쉬는 날은 없다고 대답한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000891_JNK0020",
+      "style": 4,
+      "name": "골방지기"
+    },
+    {
+      "$id": 7,
+      "label": "tev000891_SEL0021",
+      "style": 3,
+      "name": "블레이드 홈 밖으로는\n한 발짝도 안 나간다고 대답한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000891_JNK0030",
+      "style": 4,
+      "name": "데이트"
+    },
+    {
+      "$id": 9,
+      "label": "tev000891_SEL0031",
+      "style": 3,
+      "name": "데이트한다며 놀려 본다"
+    },
+    {
+      "$id": 10,
+      "label": "tev000891_MSG0004",
+      "style": 1,
+      "name": "하아~ 성실하기는[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000891_MSG0005",
+      "style": 1,
+      "name": "네가 워커홀릭인 건 상관없지만\n아무리 그래도 쉬는 날이 없는 건 심하잖아[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000891_MSG0006",
+      "style": 1,
+      "name": "그렇게 일만 하면 엘레오노라가\n말리거나 하지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000891_MSG0007",
+      "style": 1,
+      "name": "그 녀석, 내가 테스터먼트 임무만 받으니까\n무리하지 말라면서 화내던데 말이야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000891_MSG0008",
+      "style": 1,
+      "name": "하, 끔찍한 휴일이잖아[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000891_MSG0009",
+      "style": 1,
+      "name": "……아니, 잠깐만\n린이랑 엘마도 있다면\n편히 쉴 수 있고 좋을 것 같은데[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000891_MSG0010",
+      "style": 1,
+      "name": "가족이 됐든 동료가 됐든\n친한 녀석들끼리 편히 쉬는 것도 나쁘지는 않아[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000891_MSG0011",
+      "style": 1,
+      "name": "나도 그 녀석과 함께 어영부영 지낸 시간이\n싫지는 않았으니까 말이야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000891_MSG0012",
+      "style": 1,
+      "name": "데이트라고!?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000891_MSG0013",
+      "style": 1,
+      "name": "세상에……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000891_MSG0014",
+      "style": 1,
+      "name": "설마 이렇게 정신머리 없는 녀석이\n내 바로 옆에 있었을 줄이야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000891_MSG0015",
+      "style": 1,
+      "name": "상대는 어디 사는 누구냐?\n가서 한 대 때려 줘야겠어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000891_MSG0016",
+      "style": 1,
+      "name": "……잠깐, 그 표정 보니 농담인 거지?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000891_MSG0017",
+      "style": 1,
+      "name": "하여튼 심심풀이 삼아 날 놀리다니\n참 웃기는 녀석이라니까[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000891_MSG0019",
+      "style": 1,
+      "name": "쳇, 아무튼 난 지금 무진장 한가해[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000891_MSG0020",
+      "style": 1,
+      "name": "이런 변변찮은 녀석들과 노는 것밖에\n할 일이 없을 지경이라고[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000891_JNK0040",
+      "style": 4,
+      "name": "권유한다"
+    },
+    {
+      "$id": 27,
+      "label": "tev000891_SEL0041",
+      "style": 3,
+      "name": "한가하다면 같이 다이너에 가자고 한다"
+    },
+    {
+      "$id": 28,
+      "label": "tev000891_JNK0050",
+      "style": 4,
+      "name": "조언한다"
+    },
+    {
+      "$id": 29,
+      "label": "tev000891_SEL0051",
+      "style": 3,
+      "name": "일찍 자서 내일에 대비하라고 조언한다"
+    },
+    {
+      "$id": 30,
+      "label": "tev000891_MSG0021",
+      "style": 1,
+      "name": "여기에 있는 것보다 100배는 더 나은 제안이군[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000891_MSG0022",
+      "style": 1,
+      "name": "……하지만 안타깝게도 엘레오노라가\n술은 먹지 말라고 했거든[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000891_MSG0023",
+      "style": 1,
+      "name": "과음하면 테스터먼트 임무를\n안 주겠다고 해서 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000891_MSG0024",
+      "style": 1,
+      "name": "그런데 벌써 10병 정도 마셔 버렸으니\n더는 안 마시는 게 좋겠어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000891_MSG0025",
+      "style": 1,
+      "name": "권유해 준 건 고마워\n다음에 또 말 걸어 줘, 파트너[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000891_MSG0026",
+      "style": 1,
+      "name": "그래그래\n참 잔소리가 많은 녀석이라니까[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000891_MSG0027",
+      "style": 1,
+      "name": "그러는 너야말로 아직 안 자고 있잖아[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000891_MSG0028",
+      "style": 1,
+      "name": "난 네가 자기 전에는 절대 안 잘 거다\n나를 재우고 싶으면 너도 잠이나 자[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000891_MSG0029",
+      "style": 1,
+      "name": "농담한 거야…… 몸은 딱히 피곤하지 않지만\n제대로 안 자면 정신적으로 좋지 않으니까[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000891_MSG0030",
+      "style": 1,
+      "name": "네 조언대로 돌아가서\n잠이나 자야겠어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000891_MSG0031",
+      "style": 1,
+      "name": "그럼 또 보자\n다음에는 도시 밖에서 마음껏 날뛰자고[ST:wait ]"
+    }
+  ]
+}

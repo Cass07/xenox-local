@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev016601_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev016601_SEL0011",
+      "style": 1,
+      "name": "리브로의 몸에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev016601_JNK0020",
+      "style": 1,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev016601_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev016601_MSG0001",
+      "style": 1,
+      "name": "젊고 멋진 B.B. 아니냐?\n이걸 얻느라 고생깨나 했지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev016601_MSG0002",
+      "style": 1,
+      "name": "살아 있는 몸과 동일한 형태의 B.B.만\n만들 수 있다는 성가신 규칙이 있었거든[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev016601_MSG0003",
+      "style": 1,
+      "name": "젊은 몸을 준비하라고 기술자한테 말해도\n혼란만 일어날 거라며 고집을 부리기에……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev016601_MSG0004",
+      "style": 1,
+      "name": "결국 사령관한테까지 가서야\n겨우 허가를 받을 수 있었지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev016601_MSG0005",
+      "style": 1,
+      "name": "뭐…… 주변에 여러모로 민폐를 끼쳤지만\n내게 젊음을 준 걸 후회할 일은 없을 거다\n새로운 광석도 마구 발굴할 테니 말이지![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev016601_MSG0006",
+      "style": 1,
+      "name": "콜 가문의 세 번째 가훈\n사나이는 일만 잘하면 만사형통……이니까![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev016601_MSG0009",
+      "style": 1,
+      "name": "망각의 계곡 어딘가에 있는 동굴에\n라스인 집단이 살고 있다고……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev016601_MSG0010",
+      "style": 1,
+      "name": "그 근처에 사는 노폰인이 말해 주더군\n녀석들, 그런 곳에서 뭘 하는 건지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev016601_MSG0011",
+      "style": 1,
+      "name": "속내는 알 수 없지만…… 강한 녀석들이니\n경계는 해 두는 편이 좋을 거다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev016601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev016601_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev016601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev016601_SEL0031",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev016601_MSG0012",
+      "style": 1,
+      "name": "망각의 계곡에서 임무 중에\n이상한 라스인을 봤어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev016601_MSG0013",
+      "style": 1,
+      "name": "모래톱의 고대 유적 근처였던가?\n닥치는 대로 주변에 있는 원시 생물한테\n덤벼들더군, 그것도 맨손으로[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev016601_MSG0014",
+      "style": 1,
+      "name": "몇 초 만에 너덜너덜하게 만들어 놓고 나서\n다음 목표를 찾고…… 한참을 지켜봐도\n계~속 그것만 반복하고 있었어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev016601_MSG0015",
+      "style": 1,
+      "name": "사냥이었는지 뭐였는지……\n뭐, 아무튼 강한 녀석이더구먼[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev016601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev016601_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev016601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev016601_SEL0041",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev016601_MSG0016",
+      "style": 1,
+      "name": "망각의 계곡에서 자주 보이던 라스인……\n요즘은 거의 볼 일이 없더군[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev016601_MSG0017",
+      "style": 1,
+      "name": "들은 바에 따르면 녀석은 미라 전역을 돌며\n수행을 하고 있다던데……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev016601_MSG0018",
+      "style": 1,
+      "name": "언젠가 다른 곳에서 또 만나면 좋겠어\n나는 기운 넘치는 녀석이 마음에 들거든[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev016601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev016601_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev016601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev016601_SEL0051",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev016601_MSG0019",
+      "style": 1,
+      "name": "망각의 계곡에서 자주 보이던 라스인……\n이름이 기 장그라고 하더라고[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev016601_MSG0020",
+      "style": 1,
+      "name": "저번에 우연히 마 논 우주선에 갔다가\n딱 마주쳤는데, 금세 의기투합했다니까[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev016601_MSG0021",
+      "style": 1,
+      "name": "들어 보니 정말로 미라 전역을 돌며\n수행을 하고 있다지 뭐냐?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev016601_MSG0022",
+      "style": 1,
+      "name": "씩씩해서 좋군! 나도 임무만 없으면\n녀석처럼 누구에게도 속박되지 않고\n지질 조사 여행에 나서고 싶구먼![ST:wait ]"
+    }
+  ]
+}

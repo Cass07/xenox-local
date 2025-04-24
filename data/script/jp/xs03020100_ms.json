@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03020100_MSG0001",
+      "style": 0,
+      "name": "早速だが任務を依頼したい[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs03020100_MSG0002",
+      "style": 0,
+      "name": "原初の荒野東部で[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs03020100_MSG0003",
+      "style": 0,
+      "name": "データプローブの打ち込み作業をしていた\nネルソンチームが消息を絶った[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs03020100_MSG0003_02",
+      "style": 0,
+      "name": "その捜索を頼みたい[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs03020100_MSG0004",
+      "style": 0,
+      "name": "ネルソン[ST:wide ]―　パスファインダーだったわね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs03020100_MSG0005",
+      "style": 0,
+      "name": "原生生物に襲われたんですか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs03020100_MSG0006",
+      "style": 0,
+      "name": "詳細は分からんが\nネルソンのチームはドールも持っていた[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs03020100_MSG0007",
+      "style": 0,
+      "name": "そう簡単にやられはしないと思うんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs03020100_MSG0008",
+      "style": 0,
+      "name": "いずれにせよ　現地に行って\n確認するのが間違いなさそうね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs03020100_MSG0009",
+      "style": 0,
+      "name": "引き受けてもらえるか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs03020100_MSG0010",
+      "style": 0,
+      "name": "もちろん[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs03020100_MSG0010_2",
+      "style": 0,
+      "name": "行くわよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs03020100_MSG0011",
+      "style": 0,
+      "name": "はい[ST:wait ]\n"
+    }
+  ]
+}

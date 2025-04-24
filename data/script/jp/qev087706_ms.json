@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087706_MSG0001",
+      "style": 0,
+      "name": "エルマ殿か[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087706_MSG0002",
+      "style": 0,
+      "name": "ええ　こちらはドールを５機破壊した\nそっちはどう？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087706_MSG0003",
+      "style": 0,
+      "name": "さすがだな\n我らも５機だ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087706_MSG0004",
+      "style": 0,
+      "name": "ではこれで引き分け\n作戦完了ね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087706_MSG0005",
+      "style": 0,
+      "name": "いや　待て\n新たな機体の反応が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087706_MSG0006",
+      "style": 0,
+      "name": "奴らめ更に１機複製していたのか[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087706_MSG0007",
+      "style": 0,
+      "name": "まだ１機残っているということね？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087706_MSG0008",
+      "style": 0,
+      "name": "ああ　そうだ\n地球人　最後の１機の位置情報を送る[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087706_MSG0009",
+      "style": 0,
+      "name": "これは　どういうこと？\n私達に情けをかけているのかしら[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087706_MSG0010",
+      "style": 0,
+      "name": "勘違いをするな\n正々堂々と勝負がしたいだけだ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087706_MSG0011",
+      "style": 0,
+      "name": "互いの頭上に武神の加護あらんことを[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087706_MSG0012",
+      "style": 0,
+      "name": "エルマさん[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087706_MSG0013",
+      "style": 0,
+      "name": "あのボウって人\nずいぶん雰囲気が変わりましたね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087706_MSG0014",
+      "style": 0,
+      "name": "私達を友人と認めてくれたのかもね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087706_MSG0017",
+      "style": 0,
+      "name": "そうかもしれませんね[ST:wait ]"
+    }
+  ]
+}

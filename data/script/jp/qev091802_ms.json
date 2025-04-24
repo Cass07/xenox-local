@@ -1,0 +1,624 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091802_MSG0001",
+      "style": 0,
+      "name": "マードレスさん[ST:wide ]―\nあの　もうすぐコンパニオンの方々が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091802_MSG0002",
+      "style": 0,
+      "name": "まさにその件ね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091802_MSG0003",
+      "style": 0,
+      "name": "あるブレイドの献身的な行為によって\n私達が犯人を捜すことになったの[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091802_MSG0004",
+      "style": 0,
+      "name": "そうなんですか！？\nでは　私の所には情報を聞きに来たんですね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091802_MSG0005",
+      "style": 0,
+      "name": "その通りよ\n事件の詳細な情報を教えてちょうだい[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091802_MSG0006",
+      "style": 0,
+      "name": "ごめんなさい　今はないんです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091802_MSG0007",
+      "style": 0,
+      "name": "マードレスさんのこれまでの経緯を中心に\n要求されてて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091802_MSG0008",
+      "style": 0,
+      "name": "信用されてないわね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091802_MSG0009",
+      "style": 0,
+      "name": "そんなことないです！\n私は信じてますから！！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091802_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―今からすぐに事件のことを調べてみます[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091802_MSG0011",
+      "style": 0,
+      "name": "お願い　待ってる間\n私達も街を歩いて情報を集めましょう[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091802_MSG0012",
+      "style": 0,
+      "name": "そうしてください\n私も出来る限り急いで集めますから[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091802_MSG0013",
+      "style": 0,
+      "name": "情報収集の成果はいかがでしたか？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091802_MSG0014",
+      "style": 0,
+      "name": "[ST:wide ]―確認したいことが３つ程あるわ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091802_MSG0015",
+      "style": 0,
+      "name": "殺された男性全員が\n右太ももと眉間を撃たれて死んでたの？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091802_MSG0016",
+      "style": 0,
+      "name": "ええ　そうらしいです[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091802_MSG0018",
+      "style": 0,
+      "name": "そして　女性は全員\n足の甲とこめかみを撃たれて死んでいました[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091802_MSG0019",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091802_MSG0020",
+      "style": 0,
+      "name": "ずいぶんと奇妙ですよね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091802_JNK0010",
+      "style": 4,
+      "name": "断定"
+    },
+    {
+      "$id": 21,
+      "label": "qev091802_SEL0011",
+      "style": 3,
+      "name": "メッセージを込めた見立て\n殺人に違いないと断定する"
+    },
+    {
+      "$id": 22,
+      "label": "qev091802_JNK0020",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 23,
+      "label": "qev091802_SEL0021",
+      "style": 3,
+      "name": "計画的に思えるのでグロウスが\n犯人ではないと推測する"
+    },
+    {
+      "$id": 24,
+      "label": "qev091802_MSG0021",
+      "style": 0,
+      "name": "確かに　犯人は何かを示そうと\nしているように思えますね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091802_MSG0022",
+      "style": 0,
+      "name": "それが何かはちっとも想像できませんが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091802_MSG0023",
+      "style": 0,
+      "name": "そうですよね　グロウスが犯人の場合は\nそんなことをする必要ないですもんね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091802_MSG0024",
+      "style": 0,
+      "name": "ヤツらはただ地球人の数を\n減らせればいいだけのはずですから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091802_MSG0025",
+      "style": 0,
+      "name": "とすると犯人は地球人になりますけれど\nいったい何の目的で[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091802_MSG0026",
+      "style": 0,
+      "name": "わかったわ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091802_MSG0027",
+      "style": 0,
+      "name": "犯人の名前までね[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091802_MSG0028",
+      "style": 0,
+      "name": "本当ですか？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091802_MSG0029",
+      "style": 0,
+      "name": "デイル・ギボン[ST:wide ]―　私の両親を殺した男よ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091802_MSG0030",
+      "style": 0,
+      "name": "どうしてわかったんですか！？[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091802_MSG0031",
+      "style": 0,
+      "name": "殺されたオブス達男性は\n父と同じ殺され方をしていた[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091802_MSG0032",
+      "style": 0,
+      "name": "それにジョランダ達女性は\n母と同じ殺され方をね[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091802_MSG0033",
+      "style": 0,
+      "name": "そして８人っていうのは\nヤツが地球で連続殺人をした数と一致するわ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091802_MSG0034",
+      "style": 0,
+      "name": "そんな凶悪な人が\n白鯨に乗れたとは思えませんけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091802_MSG0035",
+      "style": 0,
+      "name": "逮捕されて　死刑判決まで出ていたけど\nそうとしか考えられないわ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091802_MSG0036",
+      "style": 0,
+      "name": "[ST:wide ]―ふふっ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091802_MSG0037",
+      "style": 0,
+      "name": "あの　マードレスさん？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091802_MSG0038",
+      "style": 0,
+      "name": "どう考えても私へのあてつけでしょ？\nヤツは私を挑発してるのよ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091802_MSG0039",
+      "style": 0,
+      "name": "一生叶えられないと思っていた夢を\n叶えるチャンスが来たわ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091802_JNK0030",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 44,
+      "label": "qev091802_SEL0031",
+      "style": 3,
+      "name": "デイル・ギボンに賞金を懸けて\nもらおうと提案する"
+    },
+    {
+      "$id": 45,
+      "label": "qev091802_JNK0040",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 46,
+      "label": "qev091802_SEL0041",
+      "style": 3,
+      "name": "もしかして復讐するつもりかと心配する"
+    },
+    {
+      "$id": 47,
+      "label": "qev091802_JNK0050",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 48,
+      "label": "qev091802_SEL0051",
+      "style": 3,
+      "name": "お家再興が夢だったはずでは\nと尋ねる"
+    },
+    {
+      "$id": 49,
+      "label": "qev091802_MSG0040",
+      "style": 0,
+      "name": "いつもの私なら\nあなたの提案に賛同するでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091802_MSG0041",
+      "style": 0,
+      "name": "でも今回ばかりは報酬はいらない[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091802_MSG0042",
+      "style": 0,
+      "name": "私の手でアイツを殺せるのなら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091802_MSG0043",
+      "style": 0,
+      "name": "ええ　そうよ[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091802_MSG0044",
+      "style": 0,
+      "name": "両親が殺された時　私は誓ったの\n絶対にあの男をこの手で殺すと[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091802_MSG0045",
+      "style": 0,
+      "name": "夢は一つだけじゃない\nたくさんある方がいいでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091802_MSG0046",
+      "style": 0,
+      "name": "私の夢はエフィンジャー家の再興と\nあの殺人者をこの手で殺すことなの[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091802_MSG0047",
+      "style": 0,
+      "name": "だ　ダメですよ\nブレイドの仕事は人殺しじゃないんですから[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091802_MSG0048",
+      "style": 0,
+      "name": "お父様とお母様の復讐ができるなら\n私はブレイドをやめたっていい[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091802_MSG0049",
+      "style": 0,
+      "name": "ちょ　ちょっと\nあなたもマードレスさんを止めてください！[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091802_JNK0060",
+      "style": 4,
+      "name": "説得する"
+    },
+    {
+      "$id": 60,
+      "label": "qev091802_SEL0061",
+      "style": 3,
+      "name": "イリーナをとっかかりにして説得する"
+    },
+    {
+      "$id": 61,
+      "label": "qev091802_JNK0070",
+      "style": 4,
+      "name": "制止する"
+    },
+    {
+      "$id": 62,
+      "label": "qev091802_SEL0071",
+      "style": 3,
+      "name": "もう一つの夢をとっかかりにして制止する"
+    },
+    {
+      "$id": 63,
+      "label": "qev091802_JNK0080",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 64,
+      "label": "qev091802_SEL0081",
+      "style": 3,
+      "name": "自分も付いていくと申し出る"
+    },
+    {
+      "$id": 65,
+      "label": "qev091802_MSG0050",
+      "style": 0,
+      "name": "イリーナは無関係になるでしょ[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev091802_MSG0051",
+      "style": 0,
+      "name": "殺人犯は別にいるのだし\n追われる身になるのも私だけだし[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev091802_MSG0052",
+      "style": 0,
+      "name": "で　でもイリーナさんは\nマードレスさんを信じたからこそ[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev091802_MSG0053",
+      "style": 0,
+      "name": "身代わりになってくれてるんじゃないですか？[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev091802_MSG0054",
+      "style": 0,
+      "name": "そうね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev091802_MSG0055",
+      "style": 0,
+      "name": "なればこそ　この事件を片付けないとね[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev091802_MSG0056",
+      "style": 0,
+      "name": "イリーナをいつまでも\n拘留させておくわけにはいかない[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev091802_MSG0057",
+      "style": 0,
+      "name": "マードレスさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev091802_MSG0058",
+      "style": 0,
+      "name": "[ST:wide ]―っ[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev091802_MSG0059",
+      "style": 0,
+      "name": "そうですよ　今までマードレスさんが\n貯めてきたお金をドブに捨てるつもりですか？[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev091802_MSG0060",
+      "style": 0,
+      "name": "家を再興すれば\nきっとお父さんもお母さんも喜びます[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev091802_MSG0061",
+      "style": 0,
+      "name": "でも　殺人犯を殺したところで\nお二人は浮かばれるんでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev091802_MSG0062",
+      "style": 0,
+      "name": "[ST:wide ]―わからない[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev091802_MSG0063",
+      "style": 0,
+      "name": "だけど　殺人犯に会ってみればわかること\nその時に考えるわ[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev091802_MSG0064",
+      "style": 0,
+      "name": "ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev091802_MSG0065",
+      "style": 0,
+      "name": "あなたはきっと背中を押してくれると思ってた[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev091802_MSG0066",
+      "style": 0,
+      "name": "エレオノーラ　私の意思は固いわよ[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev091802_MSG0067",
+      "style": 0,
+      "name": "説得は諦めて\n潔くデイルの居場所を教えてちょうだい[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev091802_MSG0068",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev091802_MSG0069",
+      "style": 0,
+      "name": "[ST:wide ]―デイルって人かどうかはわかりませんが\n容疑者の居場所ならいくつか絞ってます[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev091802_MSG0070",
+      "style": 0,
+      "name": "エレオノーラの目の前にいる人ってのはナシね\nぶっ殺すから[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev091802_MSG0071",
+      "style": 0,
+      "name": "[ST:wide ]―え　えっと[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev091802_MSG0074",
+      "style": 0,
+      "name": "その二人のどちらかが\nデイルの可能性があるってことね[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev091802_MSG0075",
+      "style": 0,
+      "name": "[ST:wide ]―はい[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev091802_MSG0076",
+      "style": 0,
+      "name": "感謝するわ　エレオノーラ[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev091802_MSG0077",
+      "style": 0,
+      "name": "さあ　行きましょう\n私の未来を奪った男の未来を奪いにね[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev091802_MSG0079",
+      "style": 0,
+      "name": "インターセプターのマーティンさんが\n白樹の大陸に出かけてから戻ってきてません[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev091802_MSG0084",
+      "style": 0,
+      "name": "それから　ランドバンクのダートさんは未明に\n単独で忘却の渓谷方面に出かけたみたいです[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev091802_MSG0085",
+      "style": 1,
+      "name": "あの　本当にデイルという人が\n犯人なんでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev091802_MSG0086",
+      "style": 1,
+      "name": "もしかして事件を担当した刑事さんが\nやった犯行とは考えられないですか？[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev091802_MSG0087",
+      "style": 1,
+      "name": "どちらにせよ\n私を知る人間の犯行には違いないわ[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev091802_MSG0088",
+      "style": 1,
+      "name": "犯人がデイルにしろ\nそうでないにしろ私が確かめないと\n納得はできない[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev091802_MSG0089",
+      "style": 1,
+      "name": "だから　私は行くわ[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev091802_MSG0090",
+      "style": 1,
+      "name": "マードレスさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev091802_MSG0091",
+      "style": 1,
+      "name": "私の夢がひとつ　叶ったわ[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev091802_MSG0092",
+      "style": 1,
+      "name": "そう[ST:wide ]―ですね[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev091802_MSG0093",
+      "style": 1,
+      "name": "私ができることは少ないですが[ST:wide ]―\nやれるだけ　やってみます！[ST:wait ]"
+    }
+  ]
+}

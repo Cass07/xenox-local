@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085903_MSG0001",
+      "style": 0,
+      "name": "こいつは見事だなぁ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085903_MSG0002",
+      "style": 0,
+      "name": "でしょ　手に入れるの苦労したんですから！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085903_MSG0003",
+      "style": 0,
+      "name": "そ　それであの[ST:wide ]―\nこれをブレスレットにするには[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085903_MSG0004",
+      "style": 0,
+      "name": "悪いが　わしには無理だ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085903_MSG0005",
+      "style": 0,
+      "name": "ええっ！？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085903_MSG0006",
+      "style": 0,
+      "name": "それはなぜ？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085903_MSG0007",
+      "style": 0,
+      "name": "こいつの硬度　測ってみたんだが[ST:wide ]―\nダイヤモンド以上だわ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085903_MSG0008",
+      "style": 0,
+      "name": "そんなに！？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085903_MSG0009",
+      "style": 0,
+      "name": "すまんが　わしの機械じゃ手に負えんのう[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085903_MSG0010",
+      "style": 1,
+      "name": "シンゴと言ったか？\nさっきのボウズには　悪いことをしたのう\n大抵のものなら加工できるんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085903_MSG0011",
+      "style": 1,
+      "name": "ダイヤモンドより硬いとなると\nわしの機械じゃ　どうにもならんよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085903_MSG0012",
+      "style": 1,
+      "name": "誰か他の者を当たってくれ\n軍用の機械か　あるいはそれ以上の技術[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085903_MSG0013",
+      "style": 1,
+      "name": "例えば　異星人の機械なら\nあの綺麗な石を　加工できるかもしれんよ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33590100_MSG0010",
+      "style": 0,
+      "name": "ああ！　よかった[ST:wide ]―\nあなたもご無事だったのですね！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33590100_MSG0020",
+      "style": 0,
+      "name": "その[ST:wide ]―　私どうしたらいいか\nわからなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33590100_MSG0030",
+      "style": 0,
+      "name": "ここであなたに会えて\n本当によかったです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33590100_MSG0040",
+      "style": 0,
+      "name": "あっ[ST:wide ]―こんな話をしてる\n場合じゃないですよね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33590100_MSG0050",
+      "style": 0,
+      "name": "さあ行きましょう\n私達の未来のために[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33590100_MSG0060",
+      "style": 0,
+      "name": "私も精一杯頑張りますから！[ST:wait ]"
+    }
+  ]
+}

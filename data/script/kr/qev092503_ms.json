@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092503_MSG0001",
+      "style": 0,
+      "name": "어떤가, 하늘 여행은?\n의외로 쾌적해 보이던데[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092503_MSG0002",
+      "style": 0,
+      "name": "문제점은 있었나요? 무언가 있다면\n사소한 거라도 좋으니 알려 주세요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092503_JNK0010",
+      "style": 4,
+      "name": "문제없음"
+    },
+    {
+      "$id": 4,
+      "label": "qev092503_SEL0011",
+      "style": 3,
+      "name": "비행에 문제가 없었다고 보고한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev092503_JNK0020",
+      "style": 4,
+      "name": "우는소리"
+    },
+    {
+      "$id": 6,
+      "label": "qev092503_SEL0021",
+      "style": 3,
+      "name": "조작이 어렵다며\n우는소리를 한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev092503_MSG0003",
+      "style": 0,
+      "name": "지켜보고 있는 이쪽까지\n새라도 된 것 같은 기분이었어요![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092503_MSG0004",
+      "style": 0,
+      "name": "그 돌이 있으면 어디든 갈 수 있겠네요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092503_MSG0005",
+      "style": 0,
+      "name": "확실히 지켜보고 있으니 계속 흔들려서\n철야하고 나서 보기엔 좀 힘들……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092503_MSG0006",
+      "style": 0,
+      "name": "아뇨! 정말 조종하기 어려울 것 같네요![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092503_MSG0007",
+      "style": 0,
+      "name": "하지만 괜찮아요, 분명 긴 시간 비행하면\n익숙해질 거라고 생각해요![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092503_MSG0008",
+      "style": 0,
+      "name": "좋아, 이제 NLA까지 무사히\n돌아오기만 하면 테스트는 성공이군[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092503_MSG0009",
+      "style": 0,
+      "name": "마지막까지 정신 바짝 차리고 집중해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092503_MSG0010",
+      "style": 0,
+      "name": "무사히 귀환하기를 기다릴게요![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092503_MSG0011",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "qev092503_MSG0012",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "qev092503_MSG0013",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "qev092503_MSG0014",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "qev092503_MSG0015",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "qev092503_MSG0016",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "qev092503_MSG0017",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

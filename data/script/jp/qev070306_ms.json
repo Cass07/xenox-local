@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev070306_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]よ！\nいつもながらの見事な戦いぶりじゃな！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev070306_MSG0002",
+      "style": 1,
+      "name": "遥か未来の精鋭達の中にも\nあんたのような兵士はおらんよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev070306_MSG0003",
+      "style": 1,
+      "name": "……よしっ！　こっちも修理完了じゃ\nでは　とっととNLAに戻るぞ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev070306_MSG0004",
+      "style": 1,
+      "name": "ワシは早く新商品を開発して\nガッポリ金を儲けねばならん\n過去も未来も現代も　タイムイズマネーじゃ！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev070306_MSG0005",
+      "style": 1,
+      "name": "では……行くぞ！　飛ぶんじゃ！\nミラリアァァァァァァァァァンッ！！[ST:wait ]"
+    }
+  ]
+}

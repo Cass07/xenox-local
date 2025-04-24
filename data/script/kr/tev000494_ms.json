@@ -1,0 +1,342 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000494_MSG0001",
+      "style": 1,
+      "name": "앗, [ST:playername ] 씨!?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000494_MSG0002",
+      "style": 1,
+      "name": "설마 비밀 특훈을 들킬 줄이야……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000494_MSG0003",
+      "style": 1,
+      "name": "당신에게는 보여 주고 싶지 않았거든요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000494_MSG0004",
+      "style": 1,
+      "name": "하지만 들켰으니 어쩔 수 없네요\n다른 유익한 시간으로 활용하죠[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000494_MSG0005",
+      "style": 1,
+      "name": "[ST:playername ] 씨는\n성공을 거두려면\n무엇이 필요하다고 생각하나요?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000494_JNK0010",
+      "style": 4,
+      "name": "운"
+    },
+    {
+      "$id": 7,
+      "label": "tev000494_SEL0011",
+      "style": 3,
+      "name": "운이 필요하다고 대답한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000494_JNK0020",
+      "style": 4,
+      "name": "실력"
+    },
+    {
+      "$id": 9,
+      "label": "tev000494_SEL0021",
+      "style": 3,
+      "name": "실력이 필요하다고 대답한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev000494_JNK0030",
+      "style": 4,
+      "name": "마음"
+    },
+    {
+      "$id": 11,
+      "label": "tev000494_SEL0031",
+      "style": 3,
+      "name": "포기하지 않는 마음이\n필요하다고 대답한다"
+    },
+    {
+      "$id": 12,
+      "label": "tev000494_MSG0006",
+      "style": 1,
+      "name": "운 말인가요~?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000494_MSG0007",
+      "style": 1,
+      "name": "확실히 중요한 요소 중 하나죠[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000494_MSG0008",
+      "style": 1,
+      "name": "무능한 자라도 운이 좋으면\n제법 좋은 자리를 차지할 수 있으니까요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000494_MSG0009",
+      "style": 1,
+      "name": "다……\n당신한테 하는 말은 아니고요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000494_MSG0010",
+      "style": 1,
+      "name": "다만, 항상 운이 좋을 수는 없죠[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000494_MSG0011",
+      "style": 1,
+      "name": "그러니 조금이라도 실력을 키워야 한다는 게\n제 생각입니다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000494_MSG0012",
+      "style": 1,
+      "name": "웬일로 저와 같은 의견이네요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000494_MSG0013",
+      "style": 1,
+      "name": "운으로 성공을 거둔다 해도\n그런 건 일시적일 뿐이에요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000494_MSG0014",
+      "style": 1,
+      "name": "실력이 없으면 확실성을 보장할 수 없죠[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000494_MSG0015",
+      "style": 1,
+      "name": "실력을 높이지 않는 한\n성공은 오지 않으니까요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000494_MSG0016",
+      "style": 1,
+      "name": "훗……\n아직 부족하네요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000494_MSG0017",
+      "style": 1,
+      "name": "물론 포기하지 않는 마음은 중요해요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000494_MSG0018",
+      "style": 1,
+      "name": "하지만 미련을 버리지 못하고\n몇 번이나 대책도 없이 도전하는 게\n성공의 지름길이라고 할 수 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000494_MSG0019",
+      "style": 1,
+      "name": "좀 더 머리를 써 보세요\n실력을 키우면 성공 확률이 올라가잖아요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000494_MSG0020",
+      "style": 1,
+      "name": "그래서 제가 이렇게 특훈하는 거예요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000494_MSG0021",
+      "style": 1,
+      "name": "제 생각에 NLA는 쉬기 위한 곳이 아니라\n자신을 단련하기 위한 곳이에요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000494_MSG0022",
+      "style": 1,
+      "name": "제 라이벌도 노력하고 있는 것 같고요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000494_MSG0023",
+      "style": 1,
+      "name": "그러니 거기에 보답하기 위해서도\n저는 더욱더 노력해야만 해요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000494_MSG0024",
+      "style": 1,
+      "name": "……그건 그렇고 당신은 어떻게\n성공을 거머쥘 수 있었나요?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000494_JNK0040",
+      "style": 4,
+      "name": "모호한 대답"
+    },
+    {
+      "$id": 32,
+      "label": "tev000494_SEL0041",
+      "style": 3,
+      "name": "특별한 일은 하지 않았다고 대답한다"
+    },
+    {
+      "$id": 33,
+      "label": "tev000494_JNK0050",
+      "style": 4,
+      "name": "겸손한 대답"
+    },
+    {
+      "$id": 34,
+      "label": "tev000494_SEL0051",
+      "style": 3,
+      "name": "엘마 덕분이라고 대답한다"
+    },
+    {
+      "$id": 35,
+      "label": "tev000494_JNK0060",
+      "style": 4,
+      "name": "솔직한 대답"
+    },
+    {
+      "$id": 36,
+      "label": "tev000494_SEL0061",
+      "style": 3,
+      "name": "의뢰를 많이 받아서라고 대답한다"
+    },
+    {
+      "$id": 37,
+      "label": "tev000494_MSG0025",
+      "style": 1,
+      "name": "훗……\n대답을 적당히 넘기시는군요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000494_MSG0026",
+      "style": 1,
+      "name": "라이벌에게 도움을 주고 싶지는 않다\n이런 의미인가 보네요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000494_MSG0027",
+      "style": 1,
+      "name": "괜찮아요~\n당신이 도와주지 않더라도\n저 자신의 힘으로 성공할 거니까요[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000494_MSG0028",
+      "style": 1,
+      "name": "당신다운 대답이네요[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000494_MSG0029",
+      "style": 1,
+      "name": "물론 당신에게는 엘마 씨라는\n위대한 아군이 붙어 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000494_MSG0030",
+      "style": 1,
+      "name": "하지만 엘마 씨는 당신을\n인정하고 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000494_MSG0031",
+      "style": 1,
+      "name": "그 정도나 되는 사람이 아무것도 못 하는\n누군가를 지지할 리는 없으니까요[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000494_MSG0032",
+      "style": 1,
+      "name": "제가 이런 말 하는 것도 이상하지만\n당신 자신의 노력이 있었기 때문에\n지금의 당신이 존재하는 거예요[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev000494_MSG0033",
+      "style": 1,
+      "name": "……오늘, 저는 당신에게서 겸허함을 배웠습니다[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev000494_MSG0034",
+      "style": 1,
+      "name": "성공하기 위해 저도 본받아 볼게요\n그럼 또 봐요~[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev000494_MSG0035",
+      "style": 1,
+      "name": "그렇군요……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev000494_MSG0036",
+      "style": 1,
+      "name": "다양한 임무를 해내며 경험을 쌓은 것이\n성공의 비결이라는 거네요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev000494_MSG0037",
+      "style": 1,
+      "name": "그러고 보면 당신과 처음 만났을 때\n제가 요구했던 임무도\n당신은 아무렇지 않게 해냈어요[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev000494_MSG0038",
+      "style": 1,
+      "name": "자신이 가진 힘을 살리려면\n경험 또한 필요하다는 의미죠?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev000494_MSG0039",
+      "style": 1,
+      "name": "유용한 조언이었습니다, 감사해요[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev000494_MSG0040",
+      "style": 1,
+      "name": "비밀 특훈은 여기까지 하고\n저도 당신에게 지지 않도록\n임무를 받아 보겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev000494_MSG0041",
+      "style": 1,
+      "name": "가볍게 10개 정도 동시에 해 볼까요~[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev000494_MSG0042",
+      "style": 1,
+      "name": "그럼 또 봐요~[ST:wait ]"
+    }
+  ]
+}

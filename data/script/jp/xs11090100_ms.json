@@ -1,0 +1,390 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11090100_MSG0001",
+      "style": 0,
+      "name": "異星人同士の戦いに巻きこまれ\n地球は消滅してしまった[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs11090100_MSG0002",
+      "style": 0,
+      "name": "あの時　人類も運命を共にするべきだったのさ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs11090100_MSG0003",
+      "style": 0,
+      "name": "それが本心なんですか！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs11090100_MSG0004",
+      "style": 0,
+      "name": "なら　何でラオさんは\n地球種汎移民計画に参加したんですか！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs11090100_MSG0005",
+      "style": 0,
+      "name": "白鯨のクルーになったんですか！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs11090100_MSG0006",
+      "style": 0,
+      "name": "あの計画が人類全てを救うものと\n信じていたからさ[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs11090100_MSG0007",
+      "style": 0,
+      "name": "いや　百億の人間全てを生き延びさせることが\n不可能だってことは誰の目にも明らかだった[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11090100_MSG0008",
+      "style": 0,
+      "name": "だがそれでも　人種　国家　宗教[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11090100_MSG0009",
+      "style": 0,
+      "name": "そんなものの垣根を越えて人々を救うんだ\nという思いは本物だと信じていた[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs11090100_MSG0010",
+      "style": 0,
+      "name": "だから　世界が地球種汎移民計画に\n力を貸したんだ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs11090100_MSG0011",
+      "style": 0,
+      "name": "それは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11090100_MSG0012",
+      "style": 0,
+      "name": "だが実際は[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs11090100_MSG0013",
+      "style": 0,
+      "name": "全世界の力と財を集めた上で主導権を\n持った国の[System:Ruby rt=エリート ]人間[/System:Ruby]だけを脱出させる計画だった[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs11090100_MSG0014",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "xs11090100_MSG0015",
+      "style": 0,
+      "name": "知っているか？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs11090100_MSG0016",
+      "style": 0,
+      "name": "国籍や人種が異なる一般人で白鯨に乗れたのは[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs11090100_MSG0017",
+      "style": 0,
+      "name": "移民船を維持するクルーとして集められた\n俺達だけだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs11090100_MSG0018",
+      "style": 0,
+      "name": "その他の多くの者達[ST:wide ]―\n今もセントラルライフに眠っている移民団は[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs11090100_MSG0019",
+      "style": 0,
+      "name": "最初から選ばれるべくして\n選ばれた者達なんだよ！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs11090100_MSG0020",
+      "style": 0,
+      "name": "そんな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs11090100_MSG0021",
+      "style": 0,
+      "name": "エルマ　あんたは知っていたんだろう？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs11090100_MSG0022",
+      "style": 0,
+      "name": "恣意的に選ばれた者がいなかったとは言わない[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs11090100_MSG0023",
+      "style": 0,
+      "name": "それでも　何もしないよりは\n有意義な計画だと思ったから　私は協力した[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs11090100_MSG0024",
+      "style": 0,
+      "name": "国籍　人種　富　才能[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs11090100_MSG0025",
+      "style": 0,
+      "name": "人と人を隔てるそれら壁は\nあくまで人が定義したものに過ぎない[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs11090100_MSG0026",
+      "style": 0,
+      "name": "遺伝子レベルで見れば\nごく僅かな差異でしかないわ[ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "xs11090100_MSG0027",
+      "style": 0,
+      "name": "僅かな差異なんかじゃないんだよ\n地球人にとってはな[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "xs11090100_MSG0028",
+      "style": 0,
+      "name": "あんたには理解できねえだろう　エルマ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs11090100_MSG0029",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "xs11090100_MSG0030",
+      "style": 0,
+      "name": "いいや　地球人なんて\n一括りにする必要はないな[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "xs11090100_MSG0031",
+      "style": 0,
+      "name": "この俺の感情さ！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs11090100_MSG0032",
+      "style": 0,
+      "name": "たとえ救われるのが\n一握りの人々であったとしても[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs11090100_MSG0033",
+      "style": 0,
+      "name": "それでも人類が地球と一緒に\n滅ぶべきだっただなんて[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs11090100_MSG0033_2",
+      "style": 0,
+      "name": "全然ラオさんらしくないです！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs11090100_MSG0034",
+      "style": 0,
+      "name": "おかしいですよ！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs11090100_MSG0035",
+      "style": 0,
+      "name": "リン　俺の妻と娘はな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs11090100_MSG0035_2",
+      "style": 0,
+      "name": "地球が消滅した時に死んだんだよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs11090100_MSG0036",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "xs11090100_MSG0037",
+      "style": 0,
+      "name": "地球だの人類だの関係ない[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs11090100_MSG0038",
+      "style": 0,
+      "name": "俺は　俺の家族を救うために\n地球種汎移民計画に参加した[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs11090100_MSG0039",
+      "style": 0,
+      "name": "いや[ST:wide ]―　参加したからってその家族が\n選ばれるって保証はどこにもなかった[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs11090100_MSG0040",
+      "style": 0,
+      "name": "結果選ばれず\n消えゆく運命なら　その時は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs11090100_MSG0040_2",
+      "style": 0,
+      "name": "心穏やかにそれを受け入れようって\n誓い合って[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "xs11090100_MSG0041",
+      "style": 0,
+      "name": "それでも　僅かだが希望はあったんだ！\n選ばれるかもしれないっていう希望がな！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs11090100_MSG0042",
+      "style": 0,
+      "name": "俺はそれに賭けた[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs11090100_MSG0043",
+      "style": 0,
+      "name": "だが　計画の上層部は最初から[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs11090100_MSG0044",
+      "style": 0,
+      "name": "救われる一握りの人間を\n全世界から選ぶつもりなんかなかった！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs11090100_MSG0044_02",
+      "style": 0,
+      "name": "自国の[System:Ruby rt=エリート ]人間[/System:Ruby]を救うために　奴らは！[ST:wait ]\n"
+    },
+    {
+      "$id": 49,
+      "label": "xs11090100_MSG0045",
+      "style": 0,
+      "name": "それは違うわ　ラオ[ST:wait ]\n"
+    },
+    {
+      "$id": 50,
+      "label": "xs11090100_MSG0046",
+      "style": 0,
+      "name": "何が違う！\nどう違う！[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs11090100_MSG0047",
+      "style": 0,
+      "name": "俺だけが生き残っちまった[ST:wide ]―\n希望なんて最初からなかった[ST:wait ]\n"
+    },
+    {
+      "$id": 52,
+      "label": "xs11090100_MSG0048",
+      "style": 0,
+      "name": "シャーメイにもチェンシーにも\n俺は何もしてやれなかったんだ！[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs11090100_MSG0049",
+      "style": 0,
+      "name": "その真実を　後から知った俺の気持ちが！\n俺達の気持ちが　あんたに理解できるのか？[ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "xs11090100_MSG0050",
+      "style": 0,
+      "name": "たとえ一部の地球人のみを\n恣意的に救う計画だったとしても[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs11090100_MSG0051",
+      "style": 0,
+      "name": "誰も救えないよりマシ[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs11090100_MSG0052",
+      "style": 0,
+      "name": "それが私の考えよ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs11090100_MSG0052_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "xs11090100_MSG0053",
+      "style": 0,
+      "name": "だから　ラオ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs11090100_MSG0053_2",
+      "style": 0,
+      "name": "救われた人々を滅ぼそうとする\nグロウスに力を貸すあなたの気持ち[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs11090100_MSG0054",
+      "style": 0,
+      "name": "分かってあげるわけにはいかない[ST:wait ]\n"
+    },
+    {
+      "$id": 61,
+      "label": "xs11090100_MSG0062",
+      "style": 0,
+      "name": "それでいいさ[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs11090100_MSG0062_2",
+      "style": 0,
+      "name": "誰にも分かってもらおうなんざ\n思っちゃいない！[ST:wait ]\n"
+    }
+  ]
+}

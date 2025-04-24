@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087202_MSG0001",
+      "style": 0,
+      "name": "여기가 나기 아저씨의\n연락이 끊긴 장소죠?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087202_MSG0002",
+      "style": 0,
+      "name": "호위 팀으로부터 들어온[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087202_MSG0003",
+      "style": 0,
+      "name": "그로우스와 교전 중이라는\n통신과도 맞아떨어져[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087202_MSG0004",
+      "style": 0,
+      "name": "하지만 아무도 없다모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087202_MSG0005",
+      "style": 0,
+      "name": "엘마 씨, 아직 잔류 열량이 검출돼요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087202_MSG0006",
+      "style": 0,
+      "name": "전투가 끝난 지 얼마 안 됐을지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087202_MSG0007",
+      "style": 0,
+      "name": "고열원 반응, 이건 대체……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087202_MSG0008",
+      "style": 0,
+      "name": "가 보자[ST:wait ]"
+    }
+  ]
+}

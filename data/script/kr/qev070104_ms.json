@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev070104_MSG0001",
+      "style": 1,
+      "name": "갑자기 시간을 뛰어넘으라니……\n흥미는 있지만, 나도 목숨은 아깝다고[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev070104_MSG0002",
+      "style": 1,
+      "name": "이번 일만큼은 절대로 안 할 거야\n그렇게 안전하다면\n닥이 직접 하면 되잖아[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev070104_MSG0003",
+      "style": 1,
+      "name": "여…… 여기가 3000년 후의 NLA구나!!\n왠지 모르게 미래 같은 느낌이 들어![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev070104_MSG0004",
+      "style": 1,
+      "name": "……응!?\n어째서 네가 이 시대에 있는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev070104_MSG0005",
+      "style": 1,
+      "name": "아니…… 그렇구나!\n넌 그 사람들의 자손인 거야![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev070104_MSG0006",
+      "style": 1,
+      "name": "일부러 만나러 와 줬구나\n고마워![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev070104_MSG0007",
+      "style": 1,
+      "name": "지난 3000년 동안\n미라에 무슨 일이 있었을까?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev070104_MSG0008",
+      "style": 1,
+      "name": "주변 풍경이 거의 변하지 않아서\n오히려 이질적이야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev070104_MSG0009",
+      "style": 1,
+      "name": "응…… 내가 이 수수께끼를 풀고 말겠어!\n나도 닥과 마찬가지로 과학의 사도니까![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev070104_MSG0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "qev070104_MSG0011",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

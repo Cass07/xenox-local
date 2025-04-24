@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095404_MSG0001",
+      "style": 1,
+      "name": "우리가 떼로 덤벼도\n이기지 못한 녀석을 쓰러뜨리다니\n대단한 실력이네에……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095404_MSG0002",
+      "style": 1,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095404_MSG0003",
+      "style": 1,
+      "name": "난 아직 싸울 수 있어……![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev095404_MSG0004",
+      "style": 1,
+      "name": "움직일 수 있는 녀석은 도망쳐!\n부상자는 내가 지키겠어!![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev095404_MSG0005",
+      "style": 1,
+      "name": "대장……\n그렇게 다친 몸으로는 못 싸워[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev095404_JNK0010",
+      "style": 4,
+      "name": "제안한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev095404_SEL0011",
+      "style": 3,
+      "name": "포로로서 NLA에\n데리고 간다"
+    },
+    {
+      "$id": 8,
+      "label": "qev095404_JNK0020",
+      "style": 4,
+      "name": "치료한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev095404_SEL0021",
+      "style": 3,
+      "name": "부상을 치료해 준다"
+    },
+    {
+      "$id": 10,
+      "label": "qev095404_MSG0006",
+      "style": 1,
+      "name": "너……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095404_MSG0007",
+      "style": 1,
+      "name": "대장……\n이 녀석 말에 따르자[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095404_MSG0008",
+      "style": 1,
+      "name": "우리 명줄을 쥐고 있는 건 이 녀석이니까[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095404_MSG0009",
+      "style": 1,
+      "name": "……도리고[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095404_MSG0010",
+      "style": 1,
+      "name": "……알았어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095404_MSG0011",
+      "style": 1,
+      "name": "지구인 따위는 믿을 수 없지만……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev095404_MSG0012",
+      "style": 1,
+      "name": "너희가 살아남을 가능성이 있다면\n나는 그 가능성에 걸겠어어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev095404_MSG0013",
+      "style": 1,
+      "name": "……대장[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev095404_MSG0014",
+      "style": 1,
+      "name": "자, 지구인\n어디든 데리고 가 봐아[ST:wait ]"
+    }
+  ]
+}

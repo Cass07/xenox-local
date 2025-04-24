@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087203_MSG0001",
+      "style": 0,
+      "name": "こ　これ全部ナギおじさまが[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087203_MSG0002",
+      "style": 0,
+      "name": "俺の強さなど　まだまだだな\n多くの若者を失ってしまった[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087203_MSG0003",
+      "style": 0,
+      "name": "護衛のアヴァランチ達は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087203_MSG0004",
+      "style": 0,
+      "name": "あなたを生き残らせることこそ\n任務だったのよ　悔いてはいないはず[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087203_MSG0005",
+      "style": 0,
+      "name": "アイツなら\nこんなヘマはしなかっただろうな[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087203_MSG0006",
+      "style": 0,
+      "name": "ここにいない人間と比較しても\n仕方ないわ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087203_MSG0007",
+      "style": 0,
+      "name": "でも　長官が無事で良かったですも！\nはやくみんなに教えてあげるですも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087203_MSG0008",
+      "style": 0,
+      "name": "そうだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087203_MSG0008_2",
+      "style": 0,
+      "name": "すまんが先にＮＬＡに戻って\n報告を入れてもらえるか？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087203_MSG0009",
+      "style": 0,
+      "name": "ナギおじさま　すぐに戻らないんですか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087203_MSG0010",
+      "style": 0,
+      "name": "俺はちょっと寄る所がある[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087203_MSG0011",
+      "style": 0,
+      "name": "ナギ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087203_MSG0012",
+      "style": 0,
+      "name": "私達は　上に立つにふさわしい戦士を\n指揮官に持っていたようね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087203_MSG0013",
+      "style": 0,
+      "name": "必ず再生したお前達に返してやる[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087203_MSG0014",
+      "style": 0,
+      "name": "だから　少しだけ待っていてくれ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087005_MSG0001",
+      "style": 0,
+      "name": "이게 그로우스의 데이터 패드인가……\n잘했다, 고맙네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087005_MSG0002",
+      "style": 0,
+      "name": "마음만으로는 안 된다모\n고마움은 형태로 보여 줬으면 좋겠다모[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087005_MSG0003",
+      "style": 0,
+      "name": "물론이네\n할 수 있는 한 최대로 해 주지[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087005_MSG0004",
+      "style": 0,
+      "name": "하지만 다음 난관은\n기록된 데이터를 분석하는 거로군[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087005_MSG0005",
+      "style": 0,
+      "name": "엘마, 자네라면 혹시……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087005_MSG0006",
+      "style": 0,
+      "name": "안타깝지만, 그건 나도 어려워\n그보다 마 논인에게 의뢰해 보는 건 어때?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087005_MSG0007",
+      "style": 0,
+      "name": "괜찮다면\n아는 마 논인에게 가져가 볼게[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087005_MSG0008",
+      "style": 0,
+      "name": "그런가, 그럼 부탁함세[ST:wait ]"
+    }
+  ]
+}

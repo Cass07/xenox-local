@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087504_MSG0001",
+      "style": 0,
+      "name": "アランさん　どうですか\n見つけてきたキャパシタは？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087504_MSG0002",
+      "style": 0,
+      "name": "これはすごいですね\nグロウスの技術力恐るべしだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087504_MSG0003",
+      "style": 0,
+      "name": "これで解決できそうですか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087504_MSG0004",
+      "style": 0,
+      "name": "任せて下さい[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087504_MSG0005",
+      "style": 0,
+      "name": "彼らの技術と僕らの技術を組み合わせれば\nむしろ　より効率の良いものが作れますよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087504_MSG0006",
+      "style": 0,
+      "name": "それでも困った時は言ってくださいですも\nノポンの技術も組み合わせるといいですも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087504_MSG0007",
+      "style": 0,
+      "name": "そ　そうですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087504_MSG0008",
+      "style": 0,
+      "name": "さあ　はやくもう一つの問題も\nクリアしちゃいましょう！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087504_MSG0009",
+      "style": 0,
+      "name": "これで全て解決ですね！\nヴァンダム司令に報告しないと[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087504_MSG0010",
+      "style": 1,
+      "name": "グロウスの高性能キャパシタは\n忘却の渓谷にいるクムーバが落とす[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087504_MSG0011",
+      "style": 1,
+      "name": "クムーバ・キャパシタから\n手に入れられると思います[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087504_MSG0012",
+      "style": 1,
+      "name": "そうですね[ST:wide ]―\n解析用に　クムーバ・キャパシタを\n3つほど入手してきてもらえませんか？[ST:wait ]"
+    }
+  ]
+}

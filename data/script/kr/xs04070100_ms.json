@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04070100_MSG0001",
+      "style": 0,
+      "name": "루 씨는 노폰을 알고 있냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04070100_MSG0002",
+      "style": 0,
+      "name": "그럼요, 제가 만든 예술품을\n자주 사 주시는걸요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04070100_MSG0003",
+      "style": 0,
+      "name": "옛말에 이르는 봉이라는 거죠[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs04070100_MSG0004",
+      "style": 0,
+      "name": "단골손님이라고 하지 않는구나[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs04070100_MSG0005",
+      "style": 0,
+      "name": "이 행성에 오래전부터 살고 있다는 이야기 말인데[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs04070100_MSG0006",
+      "style": 0,
+      "name": "네, 이곳은 조용하고 좋은 행성이에요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs04070100_MSG0007",
+      "style": 0,
+      "name": "동물들도 벌레들도 모두\n얌전하고 마음씨가 좋지요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs04070100_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 9,
+      "label": "xs04070100_SEL0011",
+      "style": 3,
+      "name": "아무 생각 없이 끄덕인다"
+    },
+    {
+      "$id": 10,
+      "label": "xs04070100_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 11,
+      "label": "xs04070100_SEL0021",
+      "style": 3,
+      "name": "몇 번이고 습격당했다고 한마디 한다"
+    },
+    {
+      "$id": 12,
+      "label": "xs04070100_MSG0008",
+      "style": 0,
+      "name": "네~~? 몇 번이고 습격당했잖아요![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs04070100_MSG0009",
+      "style": 0,
+      "name": "그렇다모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs04070100_MSG0010",
+      "style": 0,
+      "name": "타츠가 없었으면 다들 지금쯤\n먹이가 됐을 거다모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs04070100_MSG0011",
+      "style": 0,
+      "name": "그렇네, 다음에 습격당하면\n던져 줄 먹이도 있고[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs04070100_MSG0011_01",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "xs04070100_MSG0012",
+      "style": 0,
+      "name": "그건 그저 배가 고팠기 때문이에요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs04070100_MSG0013",
+      "style": 0,
+      "name": "어쨌든 얌전하다고 하기엔 좀……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs04070100_MSG0014",
+      "style": 0,
+      "name": "다만 말이죠……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs04070100_MSG0015",
+      "style": 0,
+      "name": "다만?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs04070100_MSG0016",
+      "style": 0,
+      "name": "최근에는 소란스러운 녀석들이\n연달아 이 행성에 나타나서[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs04070100_MSG0017",
+      "style": 0,
+      "name": "아, 여러분을 말하는 게 아니에요\n바이어스인 같은 녀석들을 말하는 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs04070100_MSG0018",
+      "style": 0,
+      "name": "루 씨는 바이어스인을 싫어하나요?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs04070100_MSG0019",
+      "style": 0,
+      "name": "그거야 당연히……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs04070100_MSG0019_2",
+      "style": 0,
+      "name": "제 평온한 삶을 파괴한\n증오스러운 녀석들이에요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs04070100_MSG0020",
+      "style": 0,
+      "name": "옛말에 이르는 불구대천 사이죠[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs04070100_MSG0021",
+      "style": 0,
+      "name": "루, 당신\n제법 지구의 말을 잘 아네[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs04070100_MSG0022",
+      "style": 0,
+      "name": "조금 틀리기도 하는 것 같지만요……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs04070100_MSG0023",
+      "style": 0,
+      "name": "사실은 이 앞에 있는\n우주선의 잔해 같은 것 안에서[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs04070100_MSG0024",
+      "style": 0,
+      "name": "데이터 단말기라는 걸 발견했거든요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs04070100_MSG0025",
+      "style": 0,
+      "name": "저의 지적 호기심의 샘은\n그걸로 채워져 있답니다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs04070100_MSG0026",
+      "style": 0,
+      "name": "이 앞이라는 건\n라이프 포인트를 말하는 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs04070100_MSG0027",
+      "style": 0,
+      "name": "아무래도 그런 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs04070100_MSG0027_2",
+      "style": 0,
+      "name": "루, 괜찮다면 그 단말기를 빌려줄 수 있을까?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs04070100_MSG0028",
+      "style": 0,
+      "name": "네, 물론이죠[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs04070100_MSG0029",
+      "style": 0,
+      "name": "고마워\n린, 이걸 좀 분석해 봐[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs04070100_MSG0030",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs04070100_MSG0031",
+      "style": 0,
+      "name": "결과가 나왔어요, 서적 데이터인 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs04070100_MSG0032",
+      "style": 0,
+      "name": "잠깐 보여 줘[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs04070100_MSG0033",
+      "style": 0,
+      "name": "그렇구나, 이 앞에 있는 건 라이프의 일부인\n데이터베이스 유닛일 가능성이 높겠어[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs04070100_MSG0034",
+      "style": 0,
+      "name": "그럼 라이프 본체가 아니군요[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs04070100_MSG0035",
+      "style": 0,
+      "name": "그렇게나 뿔뿔이 흩어져서\n추락했으니[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs04070100_MSG0036",
+      "style": 0,
+      "name": "같이 발견되면\n기적이라고 할 수 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs04070100_MSG0037",
+      "style": 0,
+      "name": "그런가요……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs04070100_MSG0038",
+      "style": 0,
+      "name": "린, 실망할 거 없어[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs04070100_MSG0039",
+      "style": 0,
+      "name": "비록 데이터베이스뿐이라고 해도\n그것도 인류의 소중한 유산이야[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs04070100_MSG0040",
+      "style": 0,
+      "name": "아무튼 현장에서 확인해 보자[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs04070100_MSG0041",
+      "style": 0,
+      "name": "그렇게 해요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs04070100_MSG0042",
+      "style": 0,
+      "name": "지금은 가지 않는 게 좋아요[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs04070100_MSG0043",
+      "style": 0,
+      "name": "어째서인가모?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs04070100_MSG0044",
+      "style": 0,
+      "name": "좀 전까지 잔해 근처에 있었는데[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs04070100_MSG0045",
+      "style": 0,
+      "name": "그 증오스러운 바이어스인들이 나타나서\n돌아오는 길이었거든요[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs04070100_MSG0046",
+      "style": 0,
+      "name": "바이어스가?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs04070100_MSG0047",
+      "style": 0,
+      "name": "엘마 씨, 안 좋은 예감이 들어요![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs04070100_MSG0048",
+      "style": 0,
+      "name": "그래, 서두르자[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs04070100_MSG0049",
+      "style": 0,
+      "name": "여러분은 이미 저에게 있어서\n친구라고 해도 좋을 분들입니다[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs04070100_MSG0050",
+      "style": 0,
+      "name": "저도 함께 갑시다\n옛말에 이르길 사공이 많으면 일도 쉽다고 하죠![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs04070100_MSG0051",
+      "style": 0,
+      "name": "역시 잘못 알고 있어……[ST:wait ]"
+    }
+  ]
+}

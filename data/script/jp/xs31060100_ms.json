@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31060100_MSG0010",
+      "style": 0,
+      "name": "かっ　囲まれたですも！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31060100_MSG0020",
+      "style": 0,
+      "name": "これじゃ　きりがありません[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31060100_MSG0030",
+      "style": 0,
+      "name": "くっ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31060100_MSG0040",
+      "style": 0,
+      "name": "あのドールは[ST:wide ]─[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs31060100_MSG0050",
+      "style": 0,
+      "name": "アレス！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs31060100_MSG0060",
+      "style": 0,
+      "name": "そんな[ST:wide ]─本当に[ST:wide ]─？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs31060100_MSG0070",
+      "style": 0,
+      "name": "チッ[ST:wait ]"
+    }
+  ]
+}

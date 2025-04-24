@@ -1,0 +1,372 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12020100_MSG0001",
+      "style": 0,
+      "name": "リン・スペシャル　完成です！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12020100_MSG0002",
+      "style": 0,
+      "name": "いっぱいありますから\nどんどん食べてくださいね！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12020100_MSG0003",
+      "style": 0,
+      "name": "タツもお手伝いしたんですも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12020100_MSG0004",
+      "style": 0,
+      "name": "うわぁ　美味しそぉ！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12020100_MSG0005",
+      "style": 0,
+      "name": "いい匂いがするな\nグイン　食いすぎるなよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12020100_MSG0006",
+      "style": 0,
+      "name": "中尉に言われたくないっすよ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12020100_MSG0007",
+      "style": 0,
+      "name": "これぞ故事に言う　同じ釜の飯を食うですね[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs12020100_MSG0008",
+      "style": 0,
+      "name": "何かと思って来てみたら[ST:wide ]―\nこれから戦いなんだぞ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12020100_MSG0009",
+      "style": 0,
+      "name": "だからですよ！\n腹が減っては　っていうじゃないですか[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs12020100_MSG0010",
+      "style": 0,
+      "name": "セントラルライフの稼働時間はあと僅か\n０になったら何もかも終わりだ[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs12020100_MSG0011",
+      "style": 0,
+      "name": "それに　敵はすでにセントラルライフに\n入ってるかもしれないんだぞ[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs12020100_MSG0012",
+      "style": 0,
+      "name": "分かってるのか？[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs12020100_MSG0013",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "xs12020100_MSG0014",
+      "style": 0,
+      "name": "この戦いに人類の存亡がかかってるんだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12020100_MSG0015",
+      "style": 0,
+      "name": "何熱くなっているの　ダグ\nナギも言っていたでしょ[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs12020100_MSG0016",
+      "style": 0,
+      "name": "セントラルライフの座標解析には\n二時間かかる[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs12020100_MSG0017",
+      "style": 0,
+      "name": "分かってる！\nだからってこんな悠長に[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs12020100_MSG0018",
+      "style": 0,
+      "name": "全く分かってないねー[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs12020100_MSG0019",
+      "style": 0,
+      "name": "なんだと！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12020100_MSG0020",
+      "style": 0,
+      "name": "お前だけじゃない\n皆　焦っているんだよ　不安なんだよ[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs12020100_MSG0021",
+      "style": 0,
+      "name": "だから　ここにいるんだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs12020100_MSG0022",
+      "style": 0,
+      "name": "そうだろ？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12020100_MSG0023",
+      "style": 0,
+      "name": "俺は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12020100_MSG0024",
+      "style": 0,
+      "name": "リンはリンなりに\n皆の不安を和らげようとしたのさ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs12020100_MSG0025",
+      "style": 0,
+      "name": "リンさん困らせたら　タツ怒るですも！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs12020100_MSG0026",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "xs12020100_MSG0027",
+      "style": 0,
+      "name": "リン　すまん　あたっちまって[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs12020100_MSG0028",
+      "style": 0,
+      "name": "イリーナの言う通りだ\n俺は確かに焦って不安になっていた[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "xs12020100_MSG0029",
+      "style": 0,
+      "name": "赦してくれるか？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs12020100_MSG0030",
+      "style": 0,
+      "name": "ゆるしません！\n特製ココア１０杯の刑です！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs12020100_MSG0031",
+      "style": 0,
+      "name": "あの店のだな\nオッケイ　了解だ！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs12020100_JNK0010",
+      "style": 4,
+      "name": "平穏"
+    },
+    {
+      "$id": 33,
+      "label": "xs12020100_SEL0011",
+      "style": 3,
+      "name": "仲間と過ごす今を楽しむ"
+    },
+    {
+      "$id": 34,
+      "label": "xs12020100_JNK0020",
+      "style": 4,
+      "name": "豪胆"
+    },
+    {
+      "$id": 35,
+      "label": "xs12020100_SEL0021",
+      "style": 3,
+      "name": "脇目もふらず料理に手を出す"
+    },
+    {
+      "$id": 36,
+      "label": "xs12020100_MSG0032",
+      "style": 0,
+      "name": "さあ　せっかくのリンの手料理\n皆でいただきましょう[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs12020100_MSG0033",
+      "style": 0,
+      "name": "そうですも！\nお腹ペコペコですも！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs12020100_MSG0034",
+      "style": 0,
+      "name": "よぉし　食うぞ食うぞ！[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs12020100_MSG0035",
+      "style": 0,
+      "name": "ちょ　ちょっといきなりぃ！？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs12020100_MSG0036",
+      "style": 0,
+      "name": "お前ずるいぞ！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs12020100_MSG0037",
+      "style": 0,
+      "name": "それはタツのですも！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs12020100_MSG0038",
+      "style": 0,
+      "name": "ダグさんもどうぞ！[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs12020100_MSG0039",
+      "style": 0,
+      "name": "ああ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs12020100_MSG0040",
+      "style": 0,
+      "name": "食った食った！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs12020100_MSG0041",
+      "style": 0,
+      "name": "お腹いっぱいだよ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs12020100_MSG0042",
+      "style": 0,
+      "name": "タツ　動けないですも[ST:wait ]\n"
+    },
+    {
+      "$id": 47,
+      "label": "xs12020100_MSG0043",
+      "style": 0,
+      "name": "リン　美味しかったわ\nありがとう[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs12020100_MSG0044",
+      "style": 0,
+      "name": "初めて食ったが　ヴァンダム司令や\nイリーナがよく食べに来るのも分かるな[ST:wait ]\n"
+    },
+    {
+      "$id": 49,
+      "label": "xs12020100_MSG0045",
+      "style": 0,
+      "name": "うまかったよ　リン[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs12020100_MSG0046",
+      "style": 0,
+      "name": "えへへ[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 51,
+      "label": "xs12020100_MSG0047",
+      "style": 0,
+      "name": "そんな面と向かって褒められたら\n照れちゃうじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs12020100_MSG0048",
+      "style": 0,
+      "name": "さて　俺はそろそろ戻る\n料理ありがとな[ST:wait ]\n"
+    },
+    {
+      "$id": 53,
+      "label": "xs12020100_MSG0049",
+      "style": 0,
+      "name": "中尉　僕らも[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs12020100_MSG0050",
+      "style": 0,
+      "name": "ああ　そうだな\nリン　楽しかったよ[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs12020100_MSG0051",
+      "style": 0,
+      "name": "リンちゃん　ありがとう！[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs12020100_MSG0052",
+      "style": 0,
+      "name": "では　私もこれで\n楽しいお祭でした[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs12020100_MSG0053",
+      "style": 0,
+      "name": "みなさん　がんばりましょう！[ST:wait ]\n"
+    },
+    {
+      "$id": 58,
+      "label": "xs12020100_MSG0054",
+      "style": 0,
+      "name": "エルマ　座標の解析が終わった\nチームメンバーと一緒にすぐ来てくれ[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs12020100_MSG0055",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    }
+  ]
+}

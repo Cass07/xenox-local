@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086901_MSG0001",
+      "style": 0,
+      "name": "お仕事頑張ってるのね　ロック[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086901_MSG0002",
+      "style": 0,
+      "name": "セリカ　みんな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086901_MSG0003",
+      "style": 0,
+      "name": "近くに来たからロックが\n働いているところを見たくなったのよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086901_MSG0004",
+      "style": 0,
+      "name": "ありがとう\nボク　すごく楽しいよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086901_MSG0005",
+      "style": 0,
+      "name": "ここでは怖い思いをしなくてすむし\nみんなが頼りにしてくれるんだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086901_MSG0006",
+      "style": 0,
+      "name": "それは良いことですも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086901_MSG0007",
+      "style": 0,
+      "name": "タツも頼りにされる頭脳労働の現場を\n見つけたいですも[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086901_MSG0008",
+      "style": 0,
+      "name": "ねえ　ちょっとだけ待っててくれる？\nもう少しで休み時間なんだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086901_MSG0009",
+      "style": 0,
+      "name": "もちろんです\nここで見学させてもらっちゃおっと[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086901_MSG0010",
+      "style": 0,
+      "name": "なんだか　テレくさいなぁ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086901_MSG0011",
+      "style": 0,
+      "name": "おい　ロック\nこっち手伝ってくれ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086901_MSG0012",
+      "style": 0,
+      "name": "はーい[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086901_MSG0013",
+      "style": 0,
+      "name": "楽しそうですね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086901_MSG0014",
+      "style": 0,
+      "name": "ここを紹介してくれた\nモーリス行政長官に感謝しなくてはね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086901_MSG0015",
+      "style": 0,
+      "name": "それはまぁ　そうですけど[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086901_MSG0016",
+      "style": 0,
+      "name": "危ないっ！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086901_MSG0017",
+      "style": 0,
+      "name": "ロック　避けろ！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086901_MSG0018",
+      "style": 0,
+      "name": "ああっ！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086901_MSG0019",
+      "style": 0,
+      "name": "おい　大丈夫かっ！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086901_MSG0020",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

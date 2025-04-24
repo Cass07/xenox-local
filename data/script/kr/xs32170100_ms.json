@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32170100_MSG0010",
+      "style": 0,
+      "name": "이봐, 컨디션은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32170100_MSG0020",
+      "style": 0,
+      "name": "최악이야, 그쪽은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32170100_MSG0030",
+      "style": 0,
+      "name": "너보다는 낫지, 다시 말해 최고다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32170100_MSG0040",
+      "style": 0,
+      "name": "……그 녀석 말 들었어?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32170100_MSG0050",
+      "style": 0,
+      "name": "그래, 기대에 부응한 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32170100_MSG0070",
+      "style": 0,
+      "name": "맞아……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32170100_MSG0080",
+      "style": 0,
+      "name": "하지만 어째서 결단을 위임한 거야?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32170100_MSG0090",
+      "style": 0,
+      "name": "만약 내가 쓰러져도\n인류의 미래를 맡길 수 있을 것 같았거든[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32170100_MSG0100",
+      "style": 0,
+      "name": "녀석은 그런 사람이니까[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32170100_MSG0110",
+      "style": 0,
+      "name": "당신답지 않네[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32170100_MSG0120",
+      "style": 0,
+      "name": "지금 우리한테는 이 세계의 모든 것[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32170100_MSG0130",
+      "style": 0,
+      "name": "세계 그 자체를 사랑할 각오……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32170100_MSG0140",
+      "style": 0,
+      "name": "그걸 이어받을 녀석이 필요해[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32170100_MSG0150",
+      "style": 0,
+      "name": "또 하나의 자신을 원하는 거구나[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32170100_MSG0160",
+      "style": 0,
+      "name": "지구에서 탈출할 때……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32170100_MSG0170",
+      "style": 0,
+      "name": "내 제지도 듣지 않고\n아레스를 타고 내달려 간 자신 같은……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32170100_MSG0180",
+      "style": 0,
+      "name": "알……![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32170100_MSG0190",
+      "style": 0,
+      "name": "피난민 유도는 맡길게[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32170100_MSG0200",
+      "style": 0,
+      "name": "난 밖에서 우주선을 지키겠어[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32170100_MSG0210",
+      "style": 0,
+      "name": "적의 숫자는 압도적이야……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32170100_MSG0220",
+      "style": 0,
+      "name": "아레스 한 대로\n바꿀 수 있는 상황이 아니야![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32170100_MSG0230",
+      "style": 0,
+      "name": "해 보지 않으면 모르잖아![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32170100_MSG0240",
+      "style": 0,
+      "name": "알……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32170100_MSG0250",
+      "style": 0,
+      "name": "이쪽에서 쳐들어가서 활로를 연다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32170100_MSG0260",
+      "style": 0,
+      "name": "모든 걸 지켜 내겠어……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32170100_MSG0270",
+      "style": 0,
+      "name": "지구의 인간을……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32170100_MSG0280",
+      "style": 0,
+      "name": "여기서 끝나게 할 수는 없어![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32170100_MSG0290",
+      "style": 0,
+      "name": "그렇네……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32170100_MSG0300",
+      "style": 0,
+      "name": "그 사람은 그때의 당신과 똑같아[ST:wait ]"
+    }
+  ]
+}

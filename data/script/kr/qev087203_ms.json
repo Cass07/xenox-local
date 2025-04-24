@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087203_MSG0001",
+      "style": 0,
+      "name": "이, 이거 전부 나기 아저씨가?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087203_MSG0002",
+      "style": 0,
+      "name": "내 실력도 아직 멀었군\n많은 젊은이를 잃었어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087203_MSG0003",
+      "style": 0,
+      "name": "호위한 애벌란시들은……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087203_MSG0004",
+      "style": 0,
+      "name": "당신을 지키는 것이 임무였어\n후회는 없을 거야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087203_MSG0005",
+      "style": 0,
+      "name": "그 녀석이라면\n이런 실수는 하지 않았겠지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087203_MSG0006",
+      "style": 0,
+      "name": "여기에 없는 사람과 비교해 봤자\n아무 의미 없어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087203_MSG0007",
+      "style": 0,
+      "name": "그래도 장관이 무사해서 다행이다모!\n빨리 사람들에게 알려 주자모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087203_MSG0008",
+      "style": 0,
+      "name": "그렇지……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087203_MSG0008_2",
+      "style": 0,
+      "name": "미안하지만, 먼저 NLA로 돌아가서\n보고해 주지 않겠나?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087203_MSG0009",
+      "style": 0,
+      "name": "나기 아저씨, 바로 안 돌아가시게요?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087203_MSG0010",
+      "style": 0,
+      "name": "난 잠시 들를 곳이 있다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087203_MSG0011",
+      "style": 0,
+      "name": "나기[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087203_MSG0012",
+      "style": 0,
+      "name": "우리의 지휘관은\n그 높은 자리에 걸맞은 전사인 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087203_MSG0013",
+      "style": 0,
+      "name": "재생된 자네들에게 반드시 돌려주겠다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087203_MSG0014",
+      "style": 0,
+      "name": "그러니 조금만 기다려 다오[ST:wait ]"
+    }
+  ]
+}

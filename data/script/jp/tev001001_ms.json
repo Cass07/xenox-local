@@ -1,0 +1,468 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001001_MSG0001",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001001_MSG0002",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001001_MSG0003",
+      "style": 1,
+      "name": "……何か用事ですか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001001_MSG0004",
+      "style": 1,
+      "name": "ボクちょっと考え事してて……\nすいません……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001001_MSG1009",
+      "style": 1,
+      "name": "もしかして……ボクを仲間に加えてくれる……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001001_MSG1010",
+      "style": 1,
+      "name": "……なんてこと　ありませんよね\nやっぱり……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001001_JNK0010",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 8,
+      "label": "tev001001_SEL0011",
+      "style": 3,
+      "name": "フォグをメンバーに加える"
+    },
+    {
+      "$id": 9,
+      "label": "tev001001_JNK0020",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 10,
+      "label": "tev001001_SEL0021",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 11,
+      "label": "tev001001_MSG1011",
+      "style": 1,
+      "name": "嬉しいです\n戦うのは苦手だけど……頑張ります！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001001_MSG1012",
+      "style": 1,
+      "name": "そうですよね……\nわかってました……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001001_MSG1017",
+      "style": 1,
+      "name": "未知の……生命体……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001001_MSG1018",
+      "style": 1,
+      "name": "ボク　昔そういうあだ名で\n呼ばれてたことがあります……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001001_JNK0050",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 16,
+      "label": "tev001001_SEL0051",
+      "style": 3,
+      "name": "フォグをメンバーに加える"
+    },
+    {
+      "$id": 17,
+      "label": "tev001001_JNK0060",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 18,
+      "label": "tev001001_SEL0061",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 19,
+      "label": "tev001001_MSG1019",
+      "style": 1,
+      "name": "嬉しいです\n戦うのは苦手だけど……頑張ります！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001001_MSG1020",
+      "style": 1,
+      "name": "今度　あなたの昔のあだ名も\n教えてくださいね……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001001_MSG1025",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001001_MSG1026",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001001_MSG1027",
+      "style": 1,
+      "name": "……という感じで気配を消して\nプラエドに見つからないようにしてくださいね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001001_MSG1032",
+      "style": 1,
+      "name": "怖いですけど……仲間を助けなきゃ……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001001_MSG1033",
+      "style": 1,
+      "name": "ボクも　忘却の渓谷に連れて行ってください[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001001_JNK0070",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 27,
+      "label": "tev001001_SEL0071",
+      "style": 3,
+      "name": "フォグをメンバーに加える"
+    },
+    {
+      "$id": 28,
+      "label": "tev001001_JNK0080",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 29,
+      "label": "tev001001_SEL0081",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 30,
+      "label": "tev001001_MSG1034",
+      "style": 1,
+      "name": "はい……\n迷惑かけないよう　頑張ります[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001001_MSG1035",
+      "style": 1,
+      "name": "いつでも言ってください\n心の準備はできています……多分[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001001_MSG1040",
+      "style": 1,
+      "name": "白樹の大陸は霧に包まれた謎の大陸……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001001_MSG1041",
+      "style": 1,
+      "name": "迷わないように\n気を付けていかなきゃですね[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001001_JNK0090",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 35,
+      "label": "tev001001_SEL0091",
+      "style": 3,
+      "name": "フォグをメンバーに加える"
+    },
+    {
+      "$id": 36,
+      "label": "tev001001_JNK0100",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 37,
+      "label": "tev001001_SEL0101",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 38,
+      "label": "tev001001_MSG1042",
+      "style": 1,
+      "name": "はい……\n迷惑かけないよう　頑張ります[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001001_MSG1043",
+      "style": 1,
+      "name": "そうですか……\nちゃんと帰って来て下さいね……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001001_MSG1048",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001001_MSG1049",
+      "style": 1,
+      "name": "ぼーっとしてました……\nえっと　また新しい任務ですか？[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001001_JNK0110",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 43,
+      "label": "tev001001_SEL0111",
+      "style": 3,
+      "name": "フォグをメンバーに加える"
+    },
+    {
+      "$id": 44,
+      "label": "tev001001_JNK0120",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 45,
+      "label": "tev001001_SEL0121",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 46,
+      "label": "tev001001_MSG1050",
+      "style": 1,
+      "name": "はい……\n迷惑かけないよう　頑張ります[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001001_MSG1051",
+      "style": 1,
+      "name": "いつでも言ってください\n心の準備はできています……多分[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001001_MSG1056",
+      "style": 1,
+      "name": "えっと……早くラオさんを\n追わなきゃいけないんですよね？[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001001_MSG1057",
+      "style": 1,
+      "name": "ボクも　頑張ります\nどうぞ連れて行ってください[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001001_JNK0130",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 51,
+      "label": "tev001001_SEL0131",
+      "style": 3,
+      "name": "フォグをメンバーに加える"
+    },
+    {
+      "$id": 52,
+      "label": "tev001001_JNK0140",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 53,
+      "label": "tev001001_SEL0141",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 54,
+      "label": "tev001001_MSG1058",
+      "style": 1,
+      "name": "わかりました\nえっと　急がないと……ですね！[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001001_MSG1059",
+      "style": 1,
+      "name": "いつでも言ってください\n心の準備はできています……多分[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev001001_MSG1064",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev001001_MSG1065",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev001001_MSG1066",
+      "style": 1,
+      "name": "決意を……固めてました\nいつでも行けますよ[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev001001_JNK0150",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 60,
+      "label": "tev001001_SEL0151",
+      "style": 3,
+      "name": "フォグをメンバーに加える"
+    },
+    {
+      "$id": 61,
+      "label": "tev001001_JNK0160",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 62,
+      "label": "tev001001_SEL0161",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 63,
+      "label": "tev001001_MSG1067",
+      "style": 1,
+      "name": "ボクだって最後くらい……\n決めてみせます[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev001001_MSG1068",
+      "style": 1,
+      "name": "わかりました\nではここから　任務の成功を祈っていますね[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev001001_MSG1073",
+      "style": 1,
+      "name": "平和って良いですね[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev001001_MSG1074",
+      "style": 1,
+      "name": "住宅エリアの人達も\nなんだか重荷が下りたような顔をしてます……[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev001001_MSG1075",
+      "style": 1,
+      "name": "ボク……この平和を守るためなら\nまだもうちょっと　戦えます[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev001001_JNK0170",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 69,
+      "label": "tev001001_SEL0171",
+      "style": 3,
+      "name": "フォグをメンバーに加える"
+    },
+    {
+      "$id": 70,
+      "label": "tev001001_JNK0180",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 71,
+      "label": "tev001001_SEL0181",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 72,
+      "label": "tev001001_MSG1076",
+      "style": 1,
+      "name": "嬉しいです\n戦うのは苦手だけど……頑張ります！[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev001001_MSG1077",
+      "style": 1,
+      "name": "いつでも声をかけてください\nそれまでボク　ここで考え事してますから……[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev001001_MSG1078",
+      "style": 1,
+      "name": "……ええと　すみません\nちょっとボク……忙しくて……[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev001001_MSG1079",
+      "style": 1,
+      "name": "あの……その　ごめんなさい\nまた次の機会に…………[ST:wait ]"
+    }
+  ]
+}

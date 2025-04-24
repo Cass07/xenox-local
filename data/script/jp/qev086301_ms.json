@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086301_MSG0001",
+      "style": 0,
+      "name": "おや　お客様ですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086301_MSG0002",
+      "style": 0,
+      "name": "こら店主　どこに行ってたも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086301_MSG0003",
+      "style": 0,
+      "name": "トラじゃないですかも\nルーさんのお店になんの用ですも？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086301_MSG0004",
+      "style": 0,
+      "name": "もちろん　買いものに決まってるだも[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086301_MSG0005",
+      "style": 0,
+      "name": "そりゃ理屈ですね\n何かお探しのものでも？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086301_MSG0006",
+      "style": 0,
+      "name": "実は[ST:wide ]―\nノポンカンポー薬の材料を探してるだも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086301_JNK0010",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 8,
+      "label": "qev086301_SEL0011",
+      "style": 3,
+      "name": "誰かが病気なのか事情を聞く"
+    },
+    {
+      "$id": 9,
+      "label": "qev086301_JNK0020",
+      "style": 4,
+      "name": "憶測"
+    },
+    {
+      "$id": 10,
+      "label": "qev086301_SEL0021",
+      "style": 3,
+      "name": "一儲けする魂胆だと指摘する"
+    },
+    {
+      "$id": 11,
+      "label": "qev086301_MSG0007",
+      "style": 0,
+      "name": "そうなんだも[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086301_MSG0008",
+      "style": 0,
+      "name": "それは大変ですも！\nいったい誰が病気なんですも？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086301_MSG0009",
+      "style": 0,
+      "name": "トラがそんなノポンに見えるだも！？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086301_MSG0009_m",
+      "style": 0,
+      "name": "トラがそんなノポンに見えるだも！？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086301_MSG0009_f",
+      "style": 0,
+      "name": "トラがそんなノポンに見えるだも！？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086301_MSG0010",
+      "style": 0,
+      "name": "トラはオツムがザンネンだから\nそんな難しい金儲けできないですも[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086301_MSG0011",
+      "style": 0,
+      "name": "信じてあげてほしいですも！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086301_MSG0012",
+      "style": 0,
+      "name": "オツムがザンネンとはなんだも！\nオツムがガッカリなヤツに言われたくないも！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086301_MSG0013",
+      "style": 0,
+      "name": "ノポンの明日をになう若者が\n重病に苦しんでいるだも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086301_MSG0014",
+      "style": 0,
+      "name": "それは気になる話ね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086301_MSG0015",
+      "style": 0,
+      "name": "私の店の商品で\nお役にたてるなら良いのですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086301_MSG0016",
+      "style": 0,
+      "name": "ダメだも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086301_MSG0017",
+      "style": 0,
+      "name": "商品を見せてもらってただも\nノポン秘伝のカンポー薬はなかっただも[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086301_MSG0018",
+      "style": 0,
+      "name": "そりゃ　秘伝じゃね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086301_MSG0019",
+      "style": 0,
+      "name": "でも　トラは賢いノポンだから\n作り方を知ってるも[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086301_MSG0020",
+      "style": 0,
+      "name": "だから　材料を仕入れてきてほしいだも[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086301_MSG0021",
+      "style": 0,
+      "name": "おお　それならお役に立てそうです[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086301_MSG0022",
+      "style": 0,
+      "name": "エルマさんのチームにも\n協力していただけそうですしね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086301_MSG0023",
+      "style": 0,
+      "name": "そうね\nトラからの依頼ということで引き受けるわ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086301_MSG0024",
+      "style": 0,
+      "name": "よかったですも！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086301_MSG0025",
+      "style": 0,
+      "name": "それじゃ皆　まずはこの二つを\n採ってきてほしいだも[ST:wait ]"
+    }
+  ]
+}

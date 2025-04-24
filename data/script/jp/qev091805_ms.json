@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091805_MSG0001",
+      "style": 0,
+      "name": "マードレス[ST:wide ]―\n逃げ出さずに帰ってきたんだね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091805_MSG0002",
+      "style": 0,
+      "name": "あら？　私が逃げ出すと思ってたの？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091805_MSG0003",
+      "style": 0,
+      "name": "ああ　全然信用してなかったね\nまた裏切られてとんずらされたと思ってたよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091805_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―それで犯人は？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091805_MSG0005",
+      "style": 0,
+      "name": "今は化物の胃袋の中　あるいはクソの中かもね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091805_MSG0006",
+      "style": 0,
+      "name": "下品なお嬢様だね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091805_MSG0007",
+      "style": 0,
+      "name": "誰かさんの背中を\n見続けてきたからに違いないわ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091805_MSG0008",
+      "style": 0,
+      "name": "今度一緒に飲みに行こっか[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091805_MSG0009",
+      "style": 0,
+      "name": "そうね　あなたも来るでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091805_JNK0010",
+      "style": 4,
+      "name": "イリーナを見る"
+    },
+    {
+      "$id": 11,
+      "label": "qev091805_SEL0011",
+      "style": 3,
+      "name": "イリーナが払ってくれるなら\nと言う"
+    },
+    {
+      "$id": 12,
+      "label": "qev091805_JNK0020",
+      "style": 4,
+      "name": "マードレスを見る"
+    },
+    {
+      "$id": 13,
+      "label": "qev091805_SEL0021",
+      "style": 3,
+      "name": "マードレスのおごりなら\nと言う"
+    },
+    {
+      "$id": 14,
+      "label": "qev091805_JNK0030",
+      "style": 4,
+      "name": "見栄を張る"
+    },
+    {
+      "$id": 15,
+      "label": "qev091805_SEL0031",
+      "style": 3,
+      "name": "自分がおごると言う"
+    },
+    {
+      "$id": 16,
+      "label": "qev091805_MSG0010",
+      "style": 0,
+      "name": "払わない！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091805_MSG0011",
+      "style": 0,
+      "name": "今回ばかりはお嬢様のおごりだよな？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091805_MSG0012",
+      "style": 0,
+      "name": "そうね　今回に限っては私怨に\n付き合わせたわけだし　おごってあげるわ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091805_MSG0013",
+      "style": 0,
+      "name": "そうね　今回に限っては私怨に\n付き合わせたわけだし　おごってあげるわ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091805_MSG0014",
+      "style": 0,
+      "name": "本当に！？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091805_MSG0015",
+      "style": 0,
+      "name": "私もイリーナも遠慮しないわよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091805_MSG0016",
+      "style": 0,
+      "name": "そうそう覚悟するんだな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091805_MSG0017",
+      "style": 0,
+      "name": "お父様　お母様　見ていて[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091805_MSG0018",
+      "style": 0,
+      "name": "皆の力をたくさん借りることに\nなるかもしれないけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091805_MSG0019",
+      "style": 0,
+      "name": "必ずエフィンジャー家を再興するわ\nこのミラの大地でね[ST:wait ]"
+    }
+  ]
+}

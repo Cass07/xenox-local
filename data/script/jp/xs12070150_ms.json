@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12070150_MSG0001",
+      "style": 0,
+      "name": "これは[ST:wide ]―\n私の知的好奇心が激しく刺激されています[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12070150_MSG0002",
+      "style": 0,
+      "name": "なんだ　このだだっ広い空間は？\nなんにも無いじゃないか[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12070150_MSG0003",
+      "style": 0,
+      "name": "静かな場所\nまるで礼拝堂の中に居るみたい[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12070150_MSG0004",
+      "style": 0,
+      "name": "エルマ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12070150_MSG0004_2",
+      "style": 0,
+      "name": "ここには地球を脱出した\n移民団のコールドカプセルが[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs12070150_MSG0005",
+      "style": 0,
+      "name": "保管されているはずじゃあなかったのか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12070150_MSG0006",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "xs12070150_MSG0007",
+      "style": 0,
+      "name": "まさか　ここも違うの！？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12070150_MSG0008",
+      "style": 0,
+      "name": "ええっ　そんなバカな！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12070150_MSG0009",
+      "style": 0,
+      "name": "そんなはずないです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12070150_MSG0010",
+      "style": 0,
+      "name": "ここの外観は　ミッションデータで示された\nあのセントラルライフそのものでした[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs12070150_MSG0011",
+      "style": 0,
+      "name": "リンの言う通り\nここが目的地よ[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs12070150_MSG0012",
+      "style": 0,
+      "name": "じゃぁ　どうして\n移民団の人達がいないんですか？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12070150_MSG0013",
+      "style": 0,
+      "name": "ＮＬＡの[ST:wide ]―\nいえ　地球種汎移民計画の上層部は[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12070150_MSG0014",
+      "style": 0,
+      "name": "あなた達の身体がカプセルの中にあって\nそこから[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]に意識が転送されている[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs12070150_MSG0015",
+      "style": 0,
+      "name": "これまでそう説明してきた[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs12070150_MSG0016",
+      "style": 0,
+      "name": "でも　事実は異なるわ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12070150_MSG0017",
+      "style": 0,
+      "name": "えっ　どういうことですか？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs12070150_MSG0018",
+      "style": 0,
+      "name": "地球人どもめ\n障壁の解除に手間取らなければ　今頃は[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12070150_MSG0019",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "xs12070150_MSG0020",
+      "style": 0,
+      "name": "あれは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs12070150_MSG0020_2",
+      "style": 0,
+      "name": "ＮＬＡから強奪された機体じゃないか！！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12070150_MSG0021",
+      "style": 0,
+      "name": "グロウス兵！？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12070150_MSG0022",
+      "style": 0,
+      "name": "何もんだ　あの脳みそ野郎は！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs12070150_MSG0023",
+      "style": 0,
+      "name": "あなたがルクザールね\nラオが言っていた　グロウスの総帥[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs12070150_MSG0024",
+      "style": 0,
+      "name": "あいつが？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs12070150_MSG0025",
+      "style": 0,
+      "name": "貴様らのような宇宙の癌細胞が\n気安く呼んでいい名ではない[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs12070150_MSG0026",
+      "style": 0,
+      "name": "そう呼べるのは　あの方だけだ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs12070150_MSG0027",
+      "style": 0,
+      "name": "あの方？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs12070150_MSG0028",
+      "style": 0,
+      "name": "癌細胞は駆除する\nそれがグロウスのさだめ！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs12070150_MSG0029",
+      "style": 0,
+      "name": "何を恐れているの？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs12070150_MSG0030",
+      "style": 0,
+      "name": "あなた達は地球を消滅させ\nこの星でも執拗にライフを破壊し続けていた[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs12070150_MSG0031",
+      "style": 0,
+      "name": "何を怖がっているの？[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs12070150_MSG0032",
+      "style": 0,
+      "name": "そんな欠けた機体を持ち出してまで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs12070150_MSG0033",
+      "style": 0,
+      "name": "そう[ST:wide ]―　その機体は欠けている\n大切な何かが抜け落ちている[ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "xs12070150_MSG0034",
+      "style": 0,
+      "name": "それに気づくか\n感ずるのか？[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "xs12070150_MSG0035",
+      "style": 0,
+      "name": "地球人の素性がそうさせるのか？\nデクの貴様らであってもか？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs12070150_MSG0036",
+      "style": 0,
+      "name": "素性ですって？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs12070150_MSG0037",
+      "style": 0,
+      "name": "貴様　ただのデクではないな？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs12070150_MSG0038",
+      "style": 0,
+      "name": "そうか　トリオン型障壁も貴様が\n貴様が全ての凶事の源か！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs12070150_MSG0039",
+      "style": 0,
+      "name": "えっ？[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs12070150_MSG0040",
+      "style": 0,
+      "name": "どうやら　私が間違っていたようだ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs12070150_MSG0041",
+      "style": 0,
+      "name": "やはり　貴様らは神話で語られた\n安全装置だったのかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs12070150_MSG0042",
+      "style": 0,
+      "name": "だが我らグロウスが　貴様らデクに\nおとなしく封じられると思うなよ！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs12070150_MSG0043",
+      "style": 0,
+      "name": "あの方が降臨するまでに\nこの惑星の大地を清めてみせる[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs12070150_MSG0044",
+      "style": 0,
+      "name": "滅ぶべし　地球人！[ST:wait ]"
+    }
+  ]
+}

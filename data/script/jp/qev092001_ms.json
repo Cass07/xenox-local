@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092001_MSG0001",
+      "style": 0,
+      "name": "こんなことになるなんて\n何がいけなかったんだろ？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092001_MSG0002",
+      "style": 0,
+      "name": "落ち込むなあ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092001_JNK0010",
+      "style": 4,
+      "name": "理由を聞く"
+    },
+    {
+      "$id": 4,
+      "label": "qev092001_SEL0011",
+      "style": 3,
+      "name": "どうしたのか詳しく事情を聞いてみる"
+    },
+    {
+      "$id": 5,
+      "label": "qev092001_JNK0020",
+      "style": 4,
+      "name": "励ます"
+    },
+    {
+      "$id": 6,
+      "label": "qev092001_SEL0021",
+      "style": 3,
+      "name": "とにかく元気をだすように励ます"
+    },
+    {
+      "$id": 7,
+      "label": "qev092001_JNK0030",
+      "style": 4,
+      "name": "推測する"
+    },
+    {
+      "$id": 8,
+      "label": "qev092001_SEL0031",
+      "style": 3,
+      "name": "ドールを壊してしまったのかと尋ねる"
+    },
+    {
+      "$id": 9,
+      "label": "qev092001_MSG0003",
+      "style": 0,
+      "name": "ありがとう　キミは時折やさしいね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092001_MSG0004",
+      "style": 0,
+      "name": "聞いてくれる[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092001_MSG0005",
+      "style": 0,
+      "name": "そうなんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092001_MSG0006",
+      "style": 0,
+      "name": "こないだのドールウェポンのテスト中のことさ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092001_MSG0007",
+      "style": 0,
+      "name": "テストしてた兵装が　ふいに振動を始めてね\nあげく爆発しちゃったんだよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092001_MSG0008",
+      "style": 0,
+      "name": "かなり大型の兵装だったからね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092001_MSG0009",
+      "style": 0,
+      "name": "参加してた他のブレイドのドールにまで\n被害が出ちゃって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092001_MSG0010",
+      "style": 0,
+      "name": "もちろんテストは大失敗で大目玉\n怪我人がなかったことだけが救いだよ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092001_MSG0011",
+      "style": 0,
+      "name": "ティカ以外のチームが作ったのを試したのは\n今回が初めてだったから　自分でも驚いててね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092001_MSG0012",
+      "style": 0,
+      "name": "今までティカに\nかなりサポートされてたんだなぁって思ったり[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092001_MSG0013",
+      "style": 0,
+      "name": "ヘコんだりしてるの[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092001_JNK0040",
+      "style": 4,
+      "name": "慰める"
+    },
+    {
+      "$id": 21,
+      "label": "qev092001_SEL0041",
+      "style": 3,
+      "name": "兵器の爆発はアクセナのせいではない\nとフォローする"
+    },
+    {
+      "$id": 22,
+      "label": "qev092001_JNK0050",
+      "style": 4,
+      "name": "励ます"
+    },
+    {
+      "$id": 23,
+      "label": "qev092001_SEL0051",
+      "style": 3,
+      "name": "次に成功させればいいと励ます"
+    },
+    {
+      "$id": 24,
+      "label": "qev092001_JNK0060",
+      "style": 4,
+      "name": "発破を掛ける"
+    },
+    {
+      "$id": 25,
+      "label": "qev092001_SEL0061",
+      "style": 3,
+      "name": "アクセナの気持ちは1度のミスで折れるのか\nと発破を掛ける"
+    },
+    {
+      "$id": 26,
+      "label": "qev092001_MSG0014",
+      "style": 0,
+      "name": "うん　そうだね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092001_MSG0015",
+      "style": 0,
+      "name": "新兵器を作ったのはあたしじゃないし\nましてやテストには失敗はつきものだし[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092001_MSG0016",
+      "style": 0,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092001_MSG0017",
+      "style": 0,
+      "name": "そうだね　もちろんそう思ってる\n二度と失敗は繰り返さないって[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092001_MSG0018",
+      "style": 0,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092001_MSG0019",
+      "style": 0,
+      "name": "折れないよ！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092001_MSG0019_2",
+      "style": 0,
+      "name": "でも　曲がることはあるみたい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092001_MSG0020",
+      "style": 0,
+      "name": "周りに迷惑を掛けちゃったのは事実だから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092001_MSG0021",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092001_MSG0022",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092001_MSG0023",
+      "style": 0,
+      "name": "あーモヤモヤする！！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092001_MSG0024",
+      "style": 0,
+      "name": "悩んでても問題は解決しないから\n一つずつモヤモヤを解消することに決めた！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092001_MSG0025",
+      "style": 0,
+      "name": "キミも付き合ってくれるよね？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092001_MSG0026",
+      "style": 0,
+      "name": "もとよりそのつもりで声を掛けてくれたんだし\nいいよね[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092001_MSG0027",
+      "style": 0,
+      "name": "まずはカンバーのところに謝りに行こう！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092001_MSG0028",
+      "style": 0,
+      "name": "って　カンバーのこと知らないか[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092001_MSG0029",
+      "style": 0,
+      "name": "カンバーのチームは４人皆がドール乗りなの\nすごいでしょ　憧れるよね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092001_MSG0030",
+      "style": 0,
+      "name": "だから　あたしよくカンバー達の\nところに行ってドール見せてもらってるんだよ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092001_MSG0031",
+      "style": 0,
+      "name": "４機が並んでて\n超がつくほどにカッコイイんだよね[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092001_MSG0032",
+      "style": 0,
+      "name": "いつまで眺めてても飽きないっていうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092001_MSG0033",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092001_MSG0034",
+      "style": 0,
+      "name": "えっと話を戻すと[ST:wide ]― [ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092001_MSG0035",
+      "style": 0,
+      "name": "あたしの失敗でカンバーのドールが\n壊れちゃったから　今は整備中のはず[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092001_MSG0036",
+      "style": 0,
+      "name": "ブレイドエリアに運ばれたはずだから\nそこに行って　カンバーと話そう[ST:wait ]"
+    }
+  ]
+}

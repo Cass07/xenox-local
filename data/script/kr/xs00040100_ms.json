@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00040100_MSG0001",
+      "style": 0,
+      "name": "……외부 입력을 확인하였습니다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00040100_MSG0002",
+      "style": 0,
+      "name": "10초 후에 슬립을 해제[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs00040100_MSG0003",
+      "style": 0,
+      "name": "7 6 5 4 3 2 1……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00040100_MSG0004",
+      "style": 0,
+      "name": "……해치를 개방합니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs00040100_MSG0005",
+      "style": 0,
+      "name": "……다행이다\n아직 생존자가 있었구나[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs00040100_MSG0006",
+      "style": 0,
+      "name": "괜찮아?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs00040100_MSG0007",
+      "style": 0,
+      "name": "너무 무리하지 않는 게 좋아\n지금 막 깨어났으니까[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs00040100_MSG0008",
+      "style": 0,
+      "name": "이 근처에 떨어져 있던 건\n당신 포드뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs00040100_MSG0009",
+      "style": 0,
+      "name": "발견돼서 다행이야\n난 엘마, 당신 이름은?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs00040100_MSG0011",
+      "style": 0,
+      "name": "자신의 이름을 모른다고?\n기억 상실인가……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs00040100_MSG0012",
+      "style": 0,
+      "name": "큰일이네……\n정말 아무것도 생각이 안 나?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs00040100_MSG0013",
+      "style": 0,
+      "name": "좋은 이름이네\n다른 건 기억나?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs00040100_MSG0014",
+      "style": 0,
+      "name": "그래……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs00040100_MSG0014_2",
+      "style": 0,
+      "name": "당신 상황에 대해서는\n조금씩 알려 줄게[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs00040100_MSG0015",
+      "style": 0,
+      "name": "어때? 움직일 수 있겠어?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs00040100_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 17,
+      "label": "xs00040100_SEL0011",
+      "style": 3,
+      "name": "끄덕이며 미소 짓는다"
+    },
+    {
+      "$id": 18,
+      "label": "xs00040100_JNK0020",
+      "style": 4,
+      "name": "숙고"
+    },
+    {
+      "$id": 19,
+      "label": "xs00040100_SEL0021",
+      "style": 3,
+      "name": "눈을 내리깔고 몸 상태를 생각한다"
+    },
+    {
+      "$id": 20,
+      "label": "xs00040100_MSG0016",
+      "style": 0,
+      "name": "눈뜬 지 얼마 안 됐으니까 무리는 하지 마\n천천히 해도 되니까 가자[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs00040100_MSG0017",
+      "style": 0,
+      "name": "일단 장비를 몇 개 줄게[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs00040100_MSG0019",
+      "style": 0,
+      "name": "우선은 이 계곡을 빠져나가자[ST:wait ]"
+    }
+  ]
+}

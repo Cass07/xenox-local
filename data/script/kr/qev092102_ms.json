@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092102_MSG0001",
+      "style": 0,
+      "name": "이건…… 미카의 돌……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092102_MSG0002",
+      "style": 0,
+      "name": "불쌍해, 너무 비참한 모습이야……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092102_MSG0003",
+      "style": 0,
+      "name": "미카……!![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092102_MSG0004",
+      "style": 0,
+      "name": "세상에……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092102_MSG0005",
+      "style": 0,
+      "name": "설마 죽고 말다니……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092102_MSG0006",
+      "style": 0,
+      "name": "캠버만 두고 이렇게 떠날 거야……?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092102_MSG0007",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092102_JNK0010",
+      "style": 4,
+      "name": "위로"
+    },
+    {
+      "$id": 9,
+      "label": "qev092102_SEL0011",
+      "style": 3,
+      "name": "미카는 좋은 친구였다며 위로한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev092102_JNK0020",
+      "style": 4,
+      "name": "무언"
+    },
+    {
+      "$id": 11,
+      "label": "qev092102_SEL0021",
+      "style": 3,
+      "name": "가만히 묵념한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev092102_MSG0008",
+      "style": 0,
+      "name": "……그래, 미카는 정말 좋은 사람이었어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092102_MSG0009",
+      "style": 0,
+      "name": "음침하고 겁쟁이에 질투심은 강하고\n집착심 덩어리 같은 사람이었지만[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092102_MSG0010",
+      "style": 0,
+      "name": "나를 인정해 줬다고[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092102_MSG0011",
+      "style": 0,
+      "name": "요즘 겨우 사이좋아졌는데……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092102_MSG0012",
+      "style": 0,
+      "name": "미카……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092102_MSG0013",
+      "style": 0,
+      "name": "편히 잠들기를……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092102_MSG0014",
+      "style": 0,
+      "name": "……계속 슬픔에만 빠져 있으면\n미카에게 혼날 거야……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092102_MSG0015",
+      "style": 0,
+      "name": "현장을 잘 살펴보자[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092102_MSG0016",
+      "style": 0,
+      "name": "여기 있는 잔해는\n대강 돌 2대 정도……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092102_JNK0030",
+      "style": 4,
+      "name": "칭찬한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev092102_SEL0031",
+      "style": 3,
+      "name": "관찰력을 칭찬한다"
+    },
+    {
+      "$id": 23,
+      "label": "qev092102_JNK0040",
+      "style": 4,
+      "name": "걱정한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev092102_SEL0041",
+      "style": 3,
+      "name": "사랑하는 돌이 망가진 모습이어서\n괴롭지는 않은지 걱정한다"
+    },
+    {
+      "$id": 25,
+      "label": "qev092102_MSG0017",
+      "style": 0,
+      "name": "난 돌을 사랑하거든\n캠버네 팀의 돌이라면 반드시 알아볼 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092102_MSG0018",
+      "style": 0,
+      "name": "괜찮아……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092102_MSG0019",
+      "style": 0,
+      "name": "지금이 바로 내 지식을 살릴 상황이니까[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092102_MSG0020",
+      "style": 0,
+      "name": "이 2대는 미카와 페르난의 돌이야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092102_MSG0021",
+      "style": 0,
+      "name": "캠버네 팀은 4명이니까\n남은 2명은 분명 살아 있겠지……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092102_MSG0022",
+      "style": 0,
+      "name": "근처에 있을 테니까 찾아 보자\n이렇게 끝나는 건 너무 괴롭잖아……[ST:wait ]"
+    }
+  ]
+}

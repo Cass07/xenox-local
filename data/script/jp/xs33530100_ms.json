@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33530100_MSG0010",
+      "style": 0,
+      "name": "よう　待ってたぜ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33530100_MSG0020",
+      "style": 0,
+      "name": "本当はこっちから\n探そうとも思ったんだがな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33530100_MSG0030",
+      "style": 0,
+      "name": "生憎　俺のドールがいかれちまってな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33530100_MSG0035",
+      "style": 0,
+      "name": "ひとまずここに避難してたってわけさ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33530100_MSG0040",
+      "style": 0,
+      "name": "お前さんなら\nきっと俺を見つけるって信じてな[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33530100_MSG0050",
+      "style": 0,
+      "name": "ははっ　相変わらず期待を裏切らねえな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33530100_MSG0060",
+      "style": 0,
+      "name": "よーし　待つのは終わりだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33530100_MSG0065",
+      "style": 0,
+      "name": "一転攻勢[ST:wide ]―　ここからは俺達のターンだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33530100_MSG0070",
+      "style": 0,
+      "name": "ヴォイドの奴に　目に物見せてやろうぜ！[ST:wait ]"
+    }
+  ]
+}

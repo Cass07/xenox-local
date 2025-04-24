@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085205_MSG0001",
+      "style": 0,
+      "name": "이, 있잖아, 덕분에 살았어\n아니, 살았습니다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085205_MSG0002",
+      "style": 0,
+      "name": "됐어, 우리 전투 요원은\n이런 때를 위해 훈련하는 거니까[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085205_MSG0003",
+      "style": 0,
+      "name": "하지만 조금 더 단련하지 않으면\n이 미라에서 살아가기 어려울 거예요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085205_MSG0004",
+      "style": 0,
+      "name": "그래, 그렇지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085205_MSG0005",
+      "style": 0,
+      "name": "지난번 일은 미안했어\n당신에게도 엘마 대령님에게도 사과할게[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085205_MSG0006",
+      "style": 0,
+      "name": "이제 됐다니까, 조심해서 귀환해[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085205_MSG0007",
+      "style": 0,
+      "name": "아, 알겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085205_MSG0008",
+      "style": 0,
+      "name": "나 참, 솔직한 건지 제멋대로인 건지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085205_MSG0009",
+      "style": 0,
+      "name": "이리나 씨\n아까는 죄송했어요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085205_MSG0010",
+      "style": 0,
+      "name": "응? 무슨 말이야?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085205_MSG0011",
+      "style": 0,
+      "name": "저런 사람들은 구하지 않아도 된다고 해서……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085205_MSG0012",
+      "style": 0,
+      "name": "아, 그거 말이구나\n솔직히 말하면 나도 조금은 그렇게 생각했어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085205_MSG0013",
+      "style": 0,
+      "name": "네? 그런가요?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085205_MSG0014",
+      "style": 0,
+      "name": "사적인 감정은 버리고 구하는 게 맞긴 하지만\n역시 열받을 때도 있는 거니까 말이지[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085205_MSG0015",
+      "style": 0,
+      "name": "솔직하네, 이리나[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085205_MSG0016",
+      "style": 0,
+      "name": "그래도 구하러 가다니, 대단하세요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085205_MSG0017",
+      "style": 0,
+      "name": "이 행성에는 우리밖에 없잖아?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085205_MSG0018",
+      "style": 0,
+      "name": "저 녀석들의 어깨에도\n지구인의 희망이 걸려 있어……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085205_MSG0019",
+      "style": 0,
+      "name": "그렇게 생각했더니\n몸이 저절로 움직이더라[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085205_MSG0020",
+      "style": 0,
+      "name": "죄송합니다, 엘마 대령님\n그래도 속이 시원해졌습니다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085205_MSG0021",
+      "style": 0,
+      "name": "데려와 주셔서 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085205_MSG0022",
+      "style": 0,
+      "name": "그래? 다행이네[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085205_MSG0023",
+      "style": 0,
+      "name": "NLA로 돌아가죠[ST:wait ]"
+    }
+  ]
+}

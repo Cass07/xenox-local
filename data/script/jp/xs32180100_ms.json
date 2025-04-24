@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32180100_MSG0010",
+      "style": 0,
+      "name": "転移システムはまだ試験段階だが[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32180100_MSG0020",
+      "style": 0,
+      "name": "新白鯨の改修作業は終わった[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32180100_MSG0030",
+      "style": 0,
+      "name": "今から　お披露目するから外に出てみろ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32180100_MSG0040",
+      "style": 0,
+      "name": "それは楽しみね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32180100_MSG0050",
+      "style": 0,
+      "name": "どう？\n観に行ってみない？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32180100_MSG0060",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "xs32180100_MSG0070",
+      "style": 0,
+      "name": "はい、行きたいです！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32180100_MSG0080",
+      "style": 0,
+      "name": "タツももちろん行くですも！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev025502_MSG0001",
+      "style": 1,
+      "name": "ちょっとちょっと　順番待ちしてるんだから\n抜かさないでよね！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev025502_MSG0002",
+      "style": 1,
+      "name": "ヒメリに相談したいことがあるなら\nちゃんと並びなさい[ST:wait ]"
+    }
+  ]
+}

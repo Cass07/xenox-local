@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev066701_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev066701_SEL0011",
+      "style": 3,
+      "name": "料理について聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev066701_JNK0020",
+      "style": 4,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev066701_SEL0021",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev066701_NSG0001",
+      "style": 1,
+      "name": "カレーを作るのに慣れたら\n別の料理にも挑戦してみようと思います\n珍しい食材を使ったものなんか　いいですね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev066701_NSG0002",
+      "style": 1,
+      "name": "例えば　ノポン達の秘薬\n赤い花粉玉を使って\nレッドカレーを作りたい…………[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev066701_NSG0003",
+      "style": 1,
+      "name": "と　先日つまみ食いしに来た\nタツ殿に話してみたら\n大反対されてしまいました[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev066701_NSG0004",
+      "style": 1,
+      "name": "元気になる　レッドカレーが\n作れそうだと思ったのですが……\nちょっと残念です[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev066701_NSG0008",
+      "style": 1,
+      "name": "おおっ　[ST:playername ]殿！\n見てください　この盛況っぷり！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev066701_NSG0009",
+      "style": 1,
+      "name": "私の作ったカレーを食べに\n皆が来てくださるのです！！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev066701_NSG0010",
+      "style": 1,
+      "name": "いくら刀を振るっても\nここまで人を惹きつけることは\nできませんでした……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev066701_NSG0011",
+      "style": 1,
+      "name": "料理を教えてくれたメグや貴殿には\n感謝感激　矢の雨　弾のあられです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev066701_NSG0012",
+      "style": 1,
+      "name": "このカレー……忘却の渓谷にいるデルグ様にも\nぜひ食べていただきたいですね[ST:wait ]"
+    }
+  ]
+}

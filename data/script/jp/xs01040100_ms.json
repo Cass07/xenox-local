@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs01040100_MSG0001",
+      "style": 0,
+      "name": "ここが私達の暮らしている場所よ[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs01040100_MSG0002",
+      "style": 0,
+      "name": "登録手続きが終わるまで　あなたにはしばらく\nゲストとして滞在してもらうわ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs01040100_JNK0010",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 4,
+      "label": "xs01040100_SEL0011",
+      "style": 3,
+      "name": "登録手続きについて詳しく聞く"
+    },
+    {
+      "$id": 5,
+      "label": "xs01040100_JNK0020",
+      "style": 4,
+      "name": "不満"
+    },
+    {
+      "$id": 6,
+      "label": "xs01040100_SEL0021",
+      "style": 3,
+      "name": "登録はしたくないと首を振る"
+    },
+    {
+      "$id": 7,
+      "label": "xs01040100_MSG0003",
+      "style": 0,
+      "name": "それについては　俺から話そう[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs01040100_MSG0004",
+      "style": 0,
+      "name": "不満そうだな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs01040100_MSG0005",
+      "style": 0,
+      "name": "新たに保護されたクルーとは君か[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs01040100_MSG0005_m",
+      "style": 0,
+      "name": "新たに保護されたクルーとは君か[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs01040100_MSG0005_f",
+      "style": 0,
+      "name": "新たに保護されたクルーとは君か[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs01040100_MSG0006",
+      "style": 0,
+      "name": "ナギおじさま！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs01040100_MSG0007",
+      "style": 0,
+      "name": "リン君　相変わらず元気そうだな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs01040100_MSG0008",
+      "style": 0,
+      "name": "はい　元気がウリですから！[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs01040100_MSG0009",
+      "style": 0,
+      "name": "そういえば　ここへ来る途中\nやたらと不機嫌なダグに会ったんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs01040100_MSG0010",
+      "style": 0,
+      "name": "試験飛行で何かあったのかね？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs01040100_MSG0011",
+      "style": 0,
+      "name": "[ST:wide ]―何もありませんでしたけど[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs01040100_MSG0012",
+      "style": 0,
+      "name": "そうか　それならいいんだ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs01040100_MSG0013",
+      "style": 0,
+      "name": "それよりエルマご苦労だったな\nよく連れてきてくれた[ST:wait ]\n"
+    },
+    {
+      "$id": 20,
+      "label": "xs01040100_MSG0014",
+      "style": 0,
+      "name": "私は　任務を遂行しただけよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs01040100_MSG0015",
+      "style": 0,
+      "name": "さて　君の登録手続きについてだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs01040100_MSG0016",
+      "style": 0,
+      "name": "続きは中で話しましょう[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs01040100_MSG0017",
+      "style": 0,
+      "name": "知っておいてもらわなければ\nならないことはたくさんある[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs01040100_MSG0018",
+      "style": 0,
+      "name": "すまん　すまん[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs01040100_MSG0019",
+      "style": 0,
+      "name": "君も目覚めたばかりだし\nエルマも任務で疲れているだろうからな[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs01040100_MSG0020",
+      "style": 0,
+      "name": "ああ　そうしよう[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs01040100_MSG0021",
+      "style": 0,
+      "name": "私　お茶いれますね[ST:wait ]\n"
+    }
+  ]
+}

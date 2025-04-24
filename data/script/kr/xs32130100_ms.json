@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32130100_MSG0010",
+      "style": 0,
+      "name": "다음은 네 차례다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32130100_MSG0020",
+      "style": 0,
+      "name": "보이드![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32130100_MSG0030",
+      "style": 0,
+      "name": "……이제 됐다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32130100_MSG0040",
+      "style": 0,
+      "name": "이 이상은 얻을 것이 없다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32130100_MSG0050",
+      "style": 0,
+      "name": "너희는 삶에 대한 집착이 지나쳐[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32130100_MSG0060",
+      "style": 0,
+      "name": "내가 알고 싶은 것을 가르쳐 주지 않을 것 같군[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32130100_MSG0070",
+      "style": 0,
+      "name": "뭐라고?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32130100_MSG0080",
+      "style": 0,
+      "name": "어찌 되었든 너희는 올 것이다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32130100_MSG0090",
+      "style": 0,
+      "name": "나에게로[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32130100_MSG0100",
+      "style": 0,
+      "name": "그럴 수밖에 없을 테니……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32130100_MSG0110",
+      "style": 0,
+      "name": "투쟁은 계속된다……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32130100_MSG0120",
+      "style": 0,
+      "name": "이 세계가 무너질 때가 머지않았다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32130100_MSG0130",
+      "style": 0,
+      "name": "철저하게 기분 더러운 녀석이었어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32130100_MSG0140",
+      "style": 0,
+      "name": "마무리가 영 찜찜한데[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32130100_MSG0150",
+      "style": 0,
+      "name": "다들 무사한지 확인해 보자[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32130100_MSG0160",
+      "style": 0,
+      "name": "……네[ST:wait ]"
+    }
+  ]
+}

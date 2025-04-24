@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001611_MSG0010",
+      "style": 1,
+      "name": "임시자치정부의 발표 때문에\n암즈 컴퍼니 쪽도\n위에서 아래까지 난리야……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001611_MSG0020",
+      "style": 1,
+      "name": "뭐, 블레이드 사람들은\n더 힘든 것 같지만……\n내가 할 수 있는 게 있을까?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001611_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 4,
+      "label": "tev001611_SEL0040",
+      "style": 3,
+      "name": "아크세나를 멤버에 넣는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001611_MSG0050",
+      "style": 1,
+      "name": "응, 가자!\n아, 돌 정비는 확실히 해\n무슨 일이 생겨도 괜찮도록……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001611_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001611_SEL0070",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001611_MSG0080",
+      "style": 1,
+      "name": "서로 힘든 상황이지만……\n힘내서 극복하자![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001611_MSG0090",
+      "style": 1,
+      "name": "아! 조명탄을 알아채 줬구나!\n다행이다……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001611_MSG0100",
+      "style": 1,
+      "name": "갑자기 돌에서 내팽개쳐져서\n정말 어쩌나 싶었어……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001611_MSG0110",
+      "style": 1,
+      "name": "어쨌든 폐를 끼쳤으니\n늦어진 걸 만회해야지[ST:wait ]"
+    }
+  ]
+}

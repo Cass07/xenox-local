@@ -1,0 +1,534 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31110100_MSG0005",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "xs31110100_MSG0010",
+      "style": 0,
+      "name": "おそろいだな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31110100_MSG0020",
+      "style": 0,
+      "name": "見慣れない顔もいるが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31110100_MSG0030",
+      "style": 0,
+      "name": "ＳＦ大会は嫌いじゃないぜ？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs31110100_MSG0040",
+      "style": 0,
+      "name": "ン？　どういう意味ですも？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs31110100_MSG0050",
+      "style": 0,
+      "name": "タツたちに会えてうれしいってさ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs31110100_MSG0060",
+      "style": 0,
+      "name": "素晴らしい！社交的な方です！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs31110100_MSG0080",
+      "style": 0,
+      "name": "心配をかけたな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs31110100_MSG0090",
+      "style": 0,
+      "name": "お姫様[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs31110100_MSG0100",
+      "style": 0,
+      "name": "遠慮しなくていい[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs31110100_MSG0110",
+      "style": 0,
+      "name": "感動の再会といこうじゃないか[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs31110100_MSG0120",
+      "style": 0,
+      "name": "なぜウィータは\nアレスのコアを奪っていったの？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs31110100_MSG0130",
+      "style": 0,
+      "name": "なんだよ　つれないな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs31110100_MSG0140",
+      "style": 0,
+      "name": "ごまかさないで[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs31110100_MSG0150",
+      "style": 0,
+      "name": "詳しく聞かせて[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs31110100_MSG0160",
+      "style": 0,
+      "name": "[ST:wide ]―分かった[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs31110100_MSG0170",
+      "style": 0,
+      "name": "順に話す[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs31110100_MSG0180",
+      "style": 0,
+      "name": "が　その前にそっちのことも教えてくれ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs31110100_MSG0190",
+      "style": 0,
+      "name": "色々あったのはお互い様だろ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs31110100_MSG0200",
+      "style": 0,
+      "name": "それとアレスだが分析に回してくれないか？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs31110100_MSG0210",
+      "style": 0,
+      "name": "分かったわ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs31110100_MSG0220",
+      "style": 0,
+      "name": "話をするのは　後にしましょう[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs31110100_MSG0230",
+      "style": 0,
+      "name": "ここにいたらまた襲われるかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs31110100_MSG0240",
+      "style": 0,
+      "name": "あなたとアレスの輸送の手配をする[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs31110100_MSG0250",
+      "style": 0,
+      "name": "照れなくてもいいのによ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs31110100_MSG0260",
+      "style": 0,
+      "name": "あの人が英雄[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs31110100_MSG0270",
+      "style": 0,
+      "name": "アロイス・ブルノルト[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs31110100_MSG0280",
+      "style": 0,
+      "name": "なんですか？[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs31110100_MSG0290",
+      "style": 0,
+      "name": "直接会うのは初めてか？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs31110100_MSG0300",
+      "style": 0,
+      "name": "あたし達が大佐のチームに配属された時は[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs31110100_MSG0310",
+      "style": 0,
+      "name": "すでに昇進していて\n実際に会うことはなかったな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs31110100_MSG0320",
+      "style": 0,
+      "name": "政府広報で見たイメージと随分違って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs31110100_MSG0330",
+      "style": 0,
+      "name": "何て言うか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs31110100_MSG0340",
+      "style": 0,
+      "name": "軽いっスね[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs31110100_MSG0350",
+      "style": 0,
+      "name": "アレがあいつの本当の姿なんだよ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs31110100_MSG0360",
+      "style": 0,
+      "name": "おいっ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs31110100_MSG0370",
+      "style": 0,
+      "name": "英雄ってまさかオレのことか？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs31110100_MSG0380",
+      "style": 0,
+      "name": "ああ　そうだ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs31110100_MSG0390",
+      "style": 0,
+      "name": "自らの命を消して[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs31110100_MSG0395",
+      "style": 0,
+      "name": "人類の未来を灯した偉大な英雄[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs31110100_MSG0400",
+      "style": 0,
+      "name": "アロイス・ブルノルト[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs31110100_MSG0410",
+      "style": 0,
+      "name": "それがお前だ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs31110100_MSG0420",
+      "style": 0,
+      "name": "ほんとかよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs31110100_MSG0430",
+      "style": 0,
+      "name": "そんなつもりじゃなかったんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs31110100_MSG0440",
+      "style": 0,
+      "name": "その英雄が生きていたとなれば[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs31110100_MSG0450",
+      "style": 0,
+      "name": "ＮＬＡは\nバケツをひっくり返したような騒ぎになるな[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs31110100_MSG0460",
+      "style": 0,
+      "name": "ＮＬＡ？[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs31110100_MSG0470",
+      "style": 0,
+      "name": "白鯨の居住区のことだ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs31110100_MSG0480",
+      "style": 0,
+      "name": "今はそう呼ばれている[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs31110100_MSG0490",
+      "style": 0,
+      "name": "そうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs31110100_MSG0500",
+      "style": 0,
+      "name": "ちゃんと　生き残ったんだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs31110100_MSG0510",
+      "style": 0,
+      "name": "英雄さんのおかげだ[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs31110100_MSG0520",
+      "style": 0,
+      "name": "だな[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs31110100_MSG0530",
+      "style": 0,
+      "name": "そうっすね[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs31110100_MSG0540",
+      "style": 0,
+      "name": "お前ら　やめろよ[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs31110100_MSG0550",
+      "style": 0,
+      "name": "あははははっ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs31110100_MSG0551",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "xs31110100_MSG0552",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "xs31110100_MSG0553",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "xs31110100_MSG0560",
+      "style": 0,
+      "name": "リン[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs31110100_MSG0570",
+      "style": 0,
+      "name": "お前も無事で何よりだ[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs31110100_MSG0580",
+      "style": 0,
+      "name": "[ST:wide ]―はい[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs31110100_MSG0585",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "xs31110100_MSG0590",
+      "style": 0,
+      "name": "まったく賑やかになったもんだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs31110100_MSG0600",
+      "style": 0,
+      "name": "よう[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs31110100_MSG0610",
+      "style": 0,
+      "name": "調子はどうだ？[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs31110100_JNK0010",
+      "style": 4,
+      "name": "普通"
+    },
+    {
+      "$id": 68,
+      "label": "xs31110100_SEL0010",
+      "style": 3,
+      "name": "まぁまぁと答える"
+    },
+    {
+      "$id": 69,
+      "label": "xs31110100_MSG0620",
+      "style": 0,
+      "name": "まだまだだな[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs31110100_MSG0630",
+      "style": 0,
+      "name": "初めて会ったやつに何を求めているんだよ[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs31110100_MSG0640",
+      "style": 0,
+      "name": "挨拶の仕方　後で教えてやるよ[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs31110100_MSG0650",
+      "style": 0,
+      "name": "オレは　アロイス・ブルノルトだ[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs31110100_MSG0660",
+      "style": 0,
+      "name": "アルでいい[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs31110100_MSG0670",
+      "style": 0,
+      "name": "よろしくな[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs31110100_JNK0020",
+      "style": 4,
+      "name": "緊張"
+    },
+    {
+      "$id": 76,
+      "label": "xs31110100_SEL0020",
+      "style": 3,
+      "name": "羨望の眼差しで見つめる"
+    },
+    {
+      "$id": 77,
+      "label": "xs31110100_MSG0680",
+      "style": 0,
+      "name": "なんだよ　緊張してるのか？[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs31110100_MSG0690",
+      "style": 0,
+      "name": "[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]が不調で記憶に障害が残っているのよ[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs31110100_MSG0700",
+      "style": 0,
+      "name": "この星に来てからのことしか覚えていないわ[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "xs31110100_MSG0710",
+      "style": 0,
+      "name": "そいつはすまん[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs31110100_MSG0720",
+      "style": 0,
+      "name": "初めまして[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs31110100_MSG0730",
+      "style": 0,
+      "name": "アロイス・ブルノルトだ[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs31110100_MSG0740",
+      "style": 0,
+      "name": "アルでいい[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs31110100_MSG0750",
+      "style": 0,
+      "name": "よろしくな[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs31110100_MSG0760",
+      "style": 0,
+      "name": "来たようね[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs31110100_MSG0770",
+      "style": 0,
+      "name": "じゃあ　ＮＬＡとやらに\n連れて行ってもらおうか[ST:wait ]"
+    }
+  ]
+}

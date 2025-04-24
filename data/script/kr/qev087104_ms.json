@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087104_MSG0001",
+      "style": 0,
+      "name": "보고는 들었네, 회수하느라 고생했군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087104_MSG0002",
+      "style": 0,
+      "name": "많이 모으지 못해 아쉽지만 말이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087104_MSG0003",
+      "style": 0,
+      "name": "그래도 귀중한 샘플임에는 변함없다\n잘해 주었네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087104_MSG0004",
+      "style": 0,
+      "name": "그들은 긍지 높은 종족이니[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087104_MSG0005",
+      "style": 0,
+      "name": "만약 친구가 될 수 있다면\n분명 신용할 수 있는 존재가 될 거야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087104_MSG0006",
+      "style": 0,
+      "name": "기억해 두지\n그런 상황이 되면 자네에게 대사를 맡기고 싶네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087104_MSG0007",
+      "style": 0,
+      "name": "좋아, 선전 포고하라는 게 아니라면 얼마든지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087104_MSG0008",
+      "style": 0,
+      "name": "말할 것도 없지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087104_MSG0009",
+      "style": 0,
+      "name": "나 역시 쓸데없이\n적을 늘리고 싶지는 않으니 말이야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087104_MSG0010",
+      "style": 0,
+      "name": "보고는 들었네[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087104_MSG0011",
+      "style": 0,
+      "name": "상당한 양을 회수한 모양이군\n아주 잘했어![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087104_MSG0012",
+      "style": 0,
+      "name": "그들은 긍지 높은 종족이니[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087104_MSG0013",
+      "style": 0,
+      "name": "만약 친구가 될 수 있다면\n분명 신용할 수 있는 존재가 될 거야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087104_MSG0014",
+      "style": 0,
+      "name": "자네의 의견이라면 믿을 수 있지\n기억해 두겠네[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087104_MSG0015",
+      "style": 0,
+      "name": "그런 상황이 되면\n대사를 부탁해도 되겠나?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087104_MSG0016",
+      "style": 0,
+      "name": "좋아, 선전 포고하라는 게 아니라면 얼마든지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087104_MSG0017",
+      "style": 0,
+      "name": "물론일세[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087104_MSG0018",
+      "style": 0,
+      "name": "나 역시 쓸데없이\n적을 늘리고 싶지는 않아[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087104_MSG0019",
+      "style": 0,
+      "name": "고생했네, 다음 임무까지 대기해 주게[ST:wait ]"
+    }
+  ]
+}

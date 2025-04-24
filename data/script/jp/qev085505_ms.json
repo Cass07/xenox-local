@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085505_MSG0001",
+      "style": 0,
+      "name": "手応えはどう？\nグイン[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085505_MSG0002",
+      "style": 0,
+      "name": "なんだか　すっごくいい顔してますね！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085505_MSG0003",
+      "style": 0,
+      "name": "うん！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085505_MSG0004",
+      "style": 0,
+      "name": "エルマ大佐　ありがとうございました\n初心に帰って基本からやり直します[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085505_MSG0005",
+      "style": 0,
+      "name": "思い出したんです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085505_MSG0005_2",
+      "style": 0,
+      "name": "あいつは　いつも遅くまで飽きもせず\n基本訓練をやっていたなって[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085505_MSG0006",
+      "style": 0,
+      "name": "気になってたんですけど\nあいつって誰ですか？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085505_MSG0007",
+      "style": 0,
+      "name": "レオン　僕の親友だったんだ\nそして[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085505_MSG0008",
+      "style": 0,
+      "name": "イリーナの弟よ\n白鯨に乗ることができなかった[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085505_MSG0009",
+      "style": 0,
+      "name": "グインさん　ごめんなさい[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085505_MSG0010",
+      "style": 0,
+      "name": "いや　いいんだよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085505_MSG0010_2",
+      "style": 0,
+      "name": "あいつは力も強くて\nいつも僕は守ってもらってた[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085505_MSG0011",
+      "style": 0,
+      "name": "イリーナ中尉もあいつといる時は\n安心って顔してたし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085505_MSG0012",
+      "style": 0,
+      "name": "あいつが羨ましかったんです\nだから　僕もレオンのようにって[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085505_JNK0010",
+      "style": 4,
+      "name": "鬼教官"
+    },
+    {
+      "$id": 16,
+      "label": "qev085505_SEL0011",
+      "style": 3,
+      "name": "レオンを越えろ！　と腕を組む"
+    },
+    {
+      "$id": 17,
+      "label": "qev085505_JNK0020",
+      "style": 4,
+      "name": "愛のムチ"
+    },
+    {
+      "$id": 18,
+      "label": "qev085505_SEL0021",
+      "style": 3,
+      "name": "グインには無理だと突き放す"
+    },
+    {
+      "$id": 19,
+      "label": "qev085505_MSG0013",
+      "style": 0,
+      "name": "そうね　同じで満足されても困るわね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085505_MSG0013_m",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "qev085505_MSG0013_f",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "qev085505_MSG0014",
+      "style": 0,
+      "name": "鬼教官が二人！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085505_MSG0015",
+      "style": 0,
+      "name": "そうですね　あいつを目指すんじゃなくて\nあいつを越えられるように頑張ります！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085505_MSG0016",
+      "style": 0,
+      "name": "ふふっ　厳しいわね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085505_MSG0017",
+      "style": 0,
+      "name": "エルマさんより鬼ですも！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085505_MSG0017_m",
+      "style": 0,
+      "name": "エルマさんより鬼ですも！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085505_MSG0017_f",
+      "style": 0,
+      "name": "エルマさんより鬼ですも！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085505_MSG0018",
+      "style": 0,
+      "name": "今の僕では無理ですけど　気が付きました[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085505_MSG0019",
+      "style": 0,
+      "name": "あいつの時間は止まっているけど[ST:wide ]―\n僕の時間は進んでます[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085505_MSG0020",
+      "style": 0,
+      "name": "だから　今からでもちゃんとやれば\nいつかきっと越えられると思います[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085505_MSG0021",
+      "style": 0,
+      "name": "その時にまた相手をしてもらえますか？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085505_MSG0022",
+      "style": 0,
+      "name": "ええ　もちろんよ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085505_MSG0023",
+      "style": 0,
+      "name": "でも　道は遠いですよねぇ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085505_MSG0024",
+      "style": 0,
+      "name": "ただ強くなるんじゃなくて\nイリーナさんを守れるくらい強く　でしょ？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085505_MSG0025",
+      "style": 0,
+      "name": "な　何でそんなこと！？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085505_MSG0026",
+      "style": 0,
+      "name": "全部お見通しですよ～～[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev085505_MSG0027",
+      "style": 0,
+      "name": "イリーナさんの話する時のグインさん\nすっごく真剣なんだもん[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev085505_MSG0028",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "qev085505_MSG0029",
+      "style": 0,
+      "name": "リンに見透かされてるようじゃ　まだまだね[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev085505_MSG0030",
+      "style": 0,
+      "name": "こっちもまだまだ修行の必要ありか[ST:wide ]―\n道は遠いや[ST:wait ]"
+    }
+  ]
+}

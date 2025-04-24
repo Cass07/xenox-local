@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087603_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―我が命をとれ　勝利者の権利だ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087603_MSG0002",
+      "style": 0,
+      "name": "ガ・デルグ殿下に書状を読んでもらう\n私はその権利を得るために戦った[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087603_MSG0003",
+      "style": 0,
+      "name": "あなたの命をもらうためではない[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087603_MSG0004",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087603_MSG0005",
+      "style": 0,
+      "name": "その者達を連れてこい　ボウ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087603_MSG0006",
+      "style": 0,
+      "name": "殿下　しかし[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087603_MSG0007",
+      "style": 0,
+      "name": "地球人達は我らの流儀に従い\n堂々と望みをかなえる権利を得た[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087603_MSG0008",
+      "style": 0,
+      "name": "この上　それを反故にするのは我らが恥辱[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087603_MSG0009",
+      "style": 0,
+      "name": "はっ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087603_MSG0010",
+      "style": 0,
+      "name": "地球人よ\n書状とやら拝読させてもらおう[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087603_MSG0011",
+      "style": 0,
+      "name": "なるほど　グロウスと敵対する者同士\n手を組もうというわけか[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087603_MSG0012",
+      "style": 0,
+      "name": "私達が争う理由なんて\n何もないと思うんです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087603_MSG0013",
+      "style": 0,
+      "name": "ノポンも地球人と仲良くやってるですも\nラースのみなさんもそうした方が楽しいですも[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087603_MSG0014",
+      "style": 0,
+      "name": "いかなる種族でも\n子供というのは無邪気なものだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087603_MSG0015",
+      "style": 0,
+      "name": "幼き者が無邪気でいられる世の中こそ\n年長者が目指すもの[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087603_MSG0016",
+      "style": 0,
+      "name": "私はそう考える[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087603_MSG0017",
+      "style": 0,
+      "name": "真理だな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087603_MSG0018",
+      "style": 0,
+      "name": "ここではないが\n我らラースの子供達が暮らす場所がある[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087603_MSG0019",
+      "style": 0,
+      "name": "あの子らの笑顔こそ　俺が求めるものだ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087603_MSG0020",
+      "style": 0,
+      "name": "殿下[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087603_MSG0021",
+      "style": 0,
+      "name": "確か　エルマと言ったな[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087603_MSG0022",
+      "style": 0,
+      "name": "交換条件と思って　軽蔑してくれてかまわん[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087603_MSG0023",
+      "style": 0,
+      "name": "今　我らは医薬品に不自由している\n支援をいただけると助かる[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087603_MSG0024",
+      "style": 0,
+      "name": "兵士や子供達の窮乏より\n誇りを優先させる指導者の方が軽蔑に値するわ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087603_MSG0025",
+      "style": 0,
+      "name": "そうですよ　立派だと思います[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087603_MSG0026",
+      "style": 0,
+      "name": "その言葉に甘えさせてもらう\n委細は　このボウから聞いてもらいたい[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087603_MSG0027",
+      "style": 0,
+      "name": "この窮状から脱した後は　我らラースの民は\n貴君らの同志として共に戦おう[ST:wait ]"
+    }
+  ]
+}

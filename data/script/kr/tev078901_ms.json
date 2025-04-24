@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev078901_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev078901_SEL0011",
+      "style": 3,
+      "name": "자르보가인에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev078901_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev078901_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev078901_MSG0001",
+      "style": 1,
+      "name": "고르보가에게 받은 사명……\n리볼턴트를 행하여 그 행성을 정화한다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev078901_MSG0002",
+      "style": 1,
+      "name": "오직 그것만을 몇천 년이나 반복해 온\n어리석은 종족이에요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev078901_MSG0003",
+      "style": 1,
+      "name": "흠…… 그런 어리석은 자들의 말을 믿고\n내 말을 귀담아듣지 않았던\n당신도 역시 똑같이 어리석지만요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev078901_MSG0008",
+      "style": 1,
+      "name": "고르보가 광신자에게 속아 넘어간\n당신들 지구인과 살 수도 없고[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev078901_MSG0009",
+      "style": 1,
+      "name": "결국 어쩔 도리가 없어지면……\n그로우스에 투항할 생각이에요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev078901_MSG0010",
+      "style": 1,
+      "name": "고분고분 따르면\n갑자기 살해당하는 일도 없겠죠[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev078901_MSG0011",
+      "style": 1,
+      "name": "만약 그들이 당신들과 있는 자르보가들을\n모두 죽여 버린다면……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev078901_MSG0012",
+      "style": 1,
+      "name": "그건 그거대로 내 학설을 부정한\n어리석은 자에 대한 복수를\n이뤄 낸 것이 될 테고 말이죠[ST:wait ]"
+    }
+  ]
+}

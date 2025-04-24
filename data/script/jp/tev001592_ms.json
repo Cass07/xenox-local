@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001592_MSG0001",
+      "style": 1,
+      "name": "こんばんは　あなたも見物？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001592_JNK0010",
+      "style": 4,
+      "name": "責める[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001592_SEL0011",
+      "style": 3,
+      "name": "またケンカをけしかけたか尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001592_JNK0020",
+      "style": 4,
+      "name": "提案[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001592_SEL0021",
+      "style": 3,
+      "name": "ケンカを止めようと提案する[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001592_MSG0002",
+      "style": 1,
+      "name": "随分な言いぐさね\n私だって毎度ケンカを仕向けるわけじゃないわ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001592_MSG0003",
+      "style": 1,
+      "name": "今日はあくまでお客さんよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001592_JNK0110",
+      "style": 4,
+      "name": "納得する[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001592_SEL0111",
+      "style": 3,
+      "name": "マードレスの主張には\n一理あると納得する[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001592_JNK0120",
+      "style": 4,
+      "name": "反論する[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001592_SEL0121",
+      "style": 3,
+      "name": "それでも話し合いで決着を\nつけるべきだと主張する[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001592_JNK0130",
+      "style": 4,
+      "name": "疑う[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001592_SEL0131",
+      "style": 3,
+      "name": "やけに正当化するので\nまだ疑ってみる[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001592_MSG0004",
+      "style": 1,
+      "name": "えらいわ\n私の言いたいこと　すぐに理解してくれるのね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001592_MSG0005",
+      "style": 1,
+      "name": "……って　話している間に\n決着はついたみたいね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001592_MSG0006",
+      "style": 1,
+      "name": "まったくエゴールは使えないわ……\n小銭稼ぎも満足にできないのね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001592_MSG0007",
+      "style": 1,
+      "name": "……単なる独り言よ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001592_MSG0008",
+      "style": 1,
+      "name": "じゃあ　またブレイドエリアでね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001592_MSG0009",
+      "style": 1,
+      "name": "話し合いだけで　あふれ出る不満が\n解消できればいいけど[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001592_MSG0010",
+      "style": 1,
+      "name": "この街には娯楽が多いわけじゃないし\n限度があるでしょ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001592_MSG0011",
+      "style": 1,
+      "name": "誰だってストレスを\n発散させる場を求めてるのよ\n特に民衆はね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001592_MSG0012",
+      "style": 1,
+      "name": "[ST:wide ]―って　話している間に\n決着はついたみたいね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001592_MSG0013",
+      "style": 1,
+      "name": "まったくエゴールは使えないわ……\n小銭稼ぎも満足にできないのね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001592_MSG0014",
+      "style": 1,
+      "name": "……単なる独り言よ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001592_MSG0015",
+      "style": 1,
+      "name": "じゃあ　またブレイドエリアでね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001592_MSG0016",
+      "style": 1,
+      "name": "本当に疑い深いわね\nそんなに私　信用ないかしら？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001592_MSG0017",
+      "style": 1,
+      "name": "[ST:wide ]―ないわよね[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001592_MSG0018",
+      "style": 1,
+      "name": "鋭くて賢明なあなたは気づいたでしょうけど\n今だって賭けしてるのよね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001592_MSG0019",
+      "style": 1,
+      "name": "エゴールが勝つか　ダニエルが勝つかね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001592_MSG0020",
+      "style": 1,
+      "name": "古代ローマのコロッセウムではないけれど\n娯楽の少ないNLAじゃこういう遊びも\n必要なのよ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001592_MSG0021",
+      "style": 1,
+      "name": "[ST:wide ]―って　話している間に\n決着はついたみたいね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001592_MSG0022",
+      "style": 1,
+      "name": "ふふっ　エゴールの勝ちよ\n4000Gくらいは稼げたかしらね[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001592_MSG0023",
+      "style": 1,
+      "name": "じゃ　私は機嫌よく家に帰らせてもらうわ\nまたブレイドエリアで会いましょう[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001592_MSG0024",
+      "style": 1,
+      "name": "それは感心できないわね[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001592_MSG0025",
+      "style": 1,
+      "name": "ケンカを途中で止めたところで\n誰も納得しないわ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001592_MSG0026",
+      "style": 1,
+      "name": "あなた以外はね[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001592_MSG0027",
+      "style": 1,
+      "name": "素手での殴り合いなんて\nまだまだキレイなもんじゃない[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001592_MSG0028",
+      "style": 1,
+      "name": "銃や刀は使ってないんだし\nスタートの合図でなぐり合ってるんだし……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001592_MSG0029",
+      "style": 1,
+      "name": "弱肉強食のこの世界において\n平和的でフェアな問題解決方法よね[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001592_JNK0030",
+      "style": 4,
+      "name": "納得する[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001592_SEL0031",
+      "style": 3,
+      "name": "マードレスの主張には\n一理あると納得する[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001592_JNK0040",
+      "style": 4,
+      "name": "反論する[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001592_SEL0041",
+      "style": 3,
+      "name": "それでも話し合いで決着を\nつけるべきだと主張する[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001592_MSG0030",
+      "style": 1,
+      "name": "えらいわ\n私の言いたいこと　すぐに理解してくれるのね[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001592_MSG0031",
+      "style": 1,
+      "name": "……って　話している間に\n決着はついたみたいね[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001592_MSG0032",
+      "style": 1,
+      "name": "まったくエゴールは使えないわ……\n小銭稼ぎも満足にできないのね[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001592_MSG0033",
+      "style": 1,
+      "name": "……単なる独り言よ[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001592_MSG0034",
+      "style": 1,
+      "name": "じゃあ　またブレイドエリアでね[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001592_MSG0035",
+      "style": 1,
+      "name": "話し合いだけで　あふれ出る不満が\n解消できればいいけど[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001592_MSG0036",
+      "style": 1,
+      "name": "この街には娯楽が多いわけじゃないし\n限度があるでしょ[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev001592_MSG0037",
+      "style": 1,
+      "name": "誰だってストレスを\n発散させる場を求めてるのよ\n特に民衆はね[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev001592_MSG0038",
+      "style": 1,
+      "name": "[ST:wide ]―って　話している間に\n決着はついたみたいね[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev001592_MSG0039",
+      "style": 1,
+      "name": "まったくエゴールは使えないわ……\n小銭稼ぎも満足にできないのね[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev001592_MSG0040",
+      "style": 1,
+      "name": "……単なる独り言よ[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001592_MSG0041",
+      "style": 1,
+      "name": "じゃあ　またブレイドエリアでね[ST:wait ]"
+    }
+  ]
+}

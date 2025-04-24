@@ -1,0 +1,468 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090903_MSG0001",
+      "style": 0,
+      "name": "으윽……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090903_MSG0002",
+      "style": 0,
+      "name": "이런 곳에 사람이……?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090903_MSG0003",
+      "style": 0,
+      "name": "……당신도 블레이드야?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090903_MSG0004",
+      "style": 0,
+      "name": "네, 토벌 임무를 위해 이 지역에 왔습니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090903_MSG0005",
+      "style": 0,
+      "name": "나도 그럴 생각이었는데\n실수해 버렸거든……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090903_MSG0006",
+      "style": 0,
+      "name": "다리를 다쳐서 움직일 수가 없어……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090903_MSG0007",
+      "style": 0,
+      "name": "……하지만 난 괜찮으니까\n어서 적을 쓰러뜨리러 가 줘![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090903_MSG0008",
+      "style": 0,
+      "name": "이대로 두면 그 녀석, 새끼를 잔뜩 낳아서\n손쓸 수가 없게 될 거야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090903_MSG0009",
+      "style": 0,
+      "name": "가……! 난 아무래도 좋으니까\n사명을 다해[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090903_MSG0010",
+      "style": 0,
+      "name": "……확실히 녀석의 번식력은 비정상적이에요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090903_MSG0011",
+      "style": 0,
+      "name": "이 사람을 NLA로 데려가면\n그 시간만큼 피해가 늘어나겠죠……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090903_MSG0012",
+      "style": 0,
+      "name": "제가 해야 할 판단은……\n역시, 임무를……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090903_JNK0010",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 14,
+      "label": "qev090903_SEL0011",
+      "style": 3,
+      "name": "동료의 목숨을 내버려서는 안 된다고 설득한다"
+    },
+    {
+      "$id": 15,
+      "label": "qev090903_JNK0020",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 16,
+      "label": "qev090903_SEL0021",
+      "style": 3,
+      "name": "어째서 그렇게까지 임무 달성을 서두르는지 묻는다"
+    },
+    {
+      "$id": 17,
+      "label": "qev090903_MSG0013",
+      "style": 0,
+      "name": "반담 사령관 같은 말을 하는군요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090903_MSG0014",
+      "style": 0,
+      "name": "유감입니다, 당신은 조금 더\n유연하게 생각할 줄 아는 사람 같았는데……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090903_JNK0030",
+      "style": 4,
+      "name": "설득"
+    },
+    {
+      "$id": 20,
+      "label": "qev090903_SEL0031",
+      "style": 3,
+      "name": "반담이 하는 말은 틀리지 않다며 설득한다"
+    },
+    {
+      "$id": 21,
+      "label": "qev090903_JNK0040",
+      "style": 4,
+      "name": "호통"
+    },
+    {
+      "$id": 22,
+      "label": "qev090903_SEL0041",
+      "style": 3,
+      "name": "동료의 목숨을 경시하는 HB에게 호통친다"
+    },
+    {
+      "$id": 23,
+      "label": "qev090903_MSG0015",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090903_MSG0016",
+      "style": 0,
+      "name": "젠장…… 그 정도는 저도 알아요\n하지만, 그걸 인정하면 제 입장이……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090903_MSG0019",
+      "style": 0,
+      "name": "반담 사령관이 이렇게 말했어요……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090903_MSG0020",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090903_MSG0022",
+      "style": 0,
+      "name": "반담 사령관도 그런 식으로\n제게 호통치며 이렇게 말하더군요……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090903_MSG0023",
+      "style": 0,
+      "name": "한 명이라도 많은 사람이 살아 있으면\n그 숫자만큼 많은 일을 해낼 수 있다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090903_MSG0024",
+      "style": 0,
+      "name": "희생해도 되는 동료는 단 한 명도 없다……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090903_MSG0027",
+      "style": 0,
+      "name": "왜 그런 질문을……\n저는 그저 NLA의 사람들을 지키고 싶어서……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090903_MSG0028",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090903_JNK0050",
+      "style": 4,
+      "name": "추궁한다"
+    },
+    {
+      "$id": 33,
+      "label": "qev090903_SEL0051",
+      "style": 3,
+      "name": "진심으로 그저 사람들만을 위해서인지 묻는다"
+    },
+    {
+      "$id": 34,
+      "label": "qev090903_JNK0060",
+      "style": 4,
+      "name": "의심한다"
+    },
+    {
+      "$id": 35,
+      "label": "qev090903_SEL0061",
+      "style": 3,
+      "name": "개인적인 사정이 있는 건 아닌지 의심한다"
+    },
+    {
+      "$id": 36,
+      "label": "qev090903_MSG0029",
+      "style": 0,
+      "name": "사람들을 위해…… 지켜야 할 생명을 위해 저는……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev090903_MSG0030",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev090903_MSG0031",
+      "style": 0,
+      "name": "……아뇨[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev090903_MSG0033",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev090903_MSG0034",
+      "style": 0,
+      "name": "……사령부 소속인 옛 친구가\n요즘 제 방식은 너무 안일하다고 했어요……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev090903_MSG0035",
+      "style": 0,
+      "name": "이대로는 지금의 자리를 유지하는 것조차\n불가능해질 거라고…… 절 도발하더군요[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev090903_MSG0036",
+      "style": 0,
+      "name": "더 효율적으로 사람을 활용해서\n엘리트답게 임무를 수행해라……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev090903_MSG0037",
+      "style": 0,
+      "name": "언젠가 되살아날 생명이니\n희생 따위는 신경 쓰지 말라고 했어요[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev090903_MSG0039",
+      "style": 0,
+      "name": "……당신은 전부 눈치챘군요[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev090903_MSG0040",
+      "style": 0,
+      "name": "제가 이 모양이니 반담 사령관에게\n잔소리를 듣는 거겠죠[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev090903_MSG0040_02",
+      "style": 0,
+      "name": "그때, 사령관이 이렇게 말했어요……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev090903_MSG0041_02",
+      "style": 0,
+      "name": "알겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev090903_MSG0042",
+      "style": 0,
+      "name": "일단 이 사람을 데리고 NLA로 돌아가죠[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev090903_MSG0043",
+      "style": 0,
+      "name": "그사이에 녀석들의 졸개가 잔뜩 번식하더라도\n다시 쓰러뜨리면 그만이니까요![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev090903_MSG0045_02",
+      "style": 0,
+      "name": "뭐~야, 재미없게[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev090903_MSG0045_03",
+      "style": 0,
+      "name": "……멋진 동료가 있어서 다행이네\nHB 오빠[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev090903_MSG0045_04",
+      "style": 0,
+      "name": "소중한 것을 깨닫게 해 준 동료에게\n감사하도록 해[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev090903_MSG0047",
+      "style": 0,
+      "name": "어……?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev090903_MSG0048",
+      "style": 0,
+      "name": "나 있지, 반성도 없이 여기에 온 오빠가\n또 동료의 목숨을 함부로 대하기라도 하면[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev090903_MSG0049",
+      "style": 0,
+      "name": "있는 힘껏 때려 준 다음 데리고 돌아오라는\n반담 사령관의 특별 임무를 받았거든[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev090903_MSG0050",
+      "style": 0,
+      "name": "무슨…… 그러면 부상은……![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev090903_MSG0051",
+      "style": 0,
+      "name": "이런 연극까지 시켜서 시험하다니\n오빠는 어지간히도[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev090903_MSG0052",
+      "style": 0,
+      "name": "사령관의 마음에 들었나 봐[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev090903_MSG0052_02",
+      "style": 0,
+      "name": "당신 같은 미남을 때려눕히는 걸\n기대하고 있었는데 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev090903_MSG0053",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev090903_MSG0054",
+      "style": 0,
+      "name": "자, 너희는 이대로 임무를 계속해[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev090903_MSG0055",
+      "style": 0,
+      "name": "나는 한발 먼저 NLA로 돌아간 다음\n블레이드 에어리어에서 기다릴게[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev090903_MSG0057",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev090903_MSG0058",
+      "style": 0,
+      "name": "저기, 저는 이런 괴롭힘을 당할 정도로\n사령관에게 미움받고 있는 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev090903_JNK0070",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 66,
+      "label": "qev090903_SEL0071",
+      "style": 3,
+      "name": "분명 미워하는 거라고 말한다"
+    },
+    {
+      "$id": 67,
+      "label": "qev090903_JNK0080",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 68,
+      "label": "qev090903_SEL0081",
+      "style": 3,
+      "name": "굉장히 총애하는 거라고 말한다"
+    },
+    {
+      "$id": 69,
+      "label": "qev090903_MSG0059",
+      "style": 0,
+      "name": "언젠가 블레이드 사령관 자리를\n빼앗을 작정이니까요……[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev090903_MSG0060",
+      "style": 0,
+      "name": "기꺼이 그 증오를 받아들이죠[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev090903_MSG0061",
+      "style": 0,
+      "name": "그건 아니라고 생각하는데요……[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev090903_MSG0062",
+      "style": 0,
+      "name": "설령 제게 친밀감을 느끼는 거라고 해도\n상당히 왜곡된 표현이라는 느낌이고요[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev090903_MSG0063",
+      "style": 0,
+      "name": "……뭐, 됐습니다\n아무튼 앞으로 나아가죠……[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev090903_MSG0080",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 75,
+      "label": "qev090903_MSG0081",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

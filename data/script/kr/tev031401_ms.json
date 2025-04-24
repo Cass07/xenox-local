@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev031401_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev031401_SEL0011",
+      "style": 3,
+      "name": "이 가게에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev031401_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev031401_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev031401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev031401_SEL0031",
+      "style": 3,
+      "name": "그로우스의 습격에 관해 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev031401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev031401_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev031401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev031401_SEL0051",
+      "style": 3,
+      "name": "즈 하그에 관해 묻는다"
+    },
+    {
+      "$id": 11,
+      "label": "tev031401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev031401_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev031401_MSG0001",
+      "style": 1,
+      "name": "자극이 부족해, 부족해……\n너무 부족해요![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev031401_MSG0002",
+      "style": 1,
+      "name": "만들기에 대한 호기심을 채우기 위해\n수리점을 열었어요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev031401_MSG0003",
+      "style": 1,
+      "name": "사실은 상점가에서 하고 싶었지만\n자릿세가 폭리! 폭리예요![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev031401_MSG0004",
+      "style": 1,
+      "name": "어쩔 수 없이 무료로 쓸 수 있는 장소에서 시작했더니\n손님이 아무도 오지 않는 지경이라……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev031401_MSG0005",
+      "style": 1,
+      "name": "아아~ 자극적인 외계인 같은 게\n와 주지 않으려나……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev031401_MSG0010",
+      "style": 1,
+      "name": "망각의 계곡에서 머무는 동안\n이곳저곳의 생태 반응을 조사하고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev031401_MSG0011",
+      "style": 1,
+      "name": "이 NLA가 있는 에어리어……\n원초의 황야라고 이름이 붙은 장소에는\n특수한 생태 반응이 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev031401_MSG0012",
+      "style": 1,
+      "name": "한 가지는 지구인\n또 다른 하나는…… 뭘까요?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev031401_MSG0013",
+      "style": 1,
+      "name": "데이터 프로브를 더 설치하면\n발견할 수 있을지도 몰라요\n자, 힘내세요![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev031401_MSG0020",
+      "style": 1,
+      "name": "봤어요, 봤어요!\n크무바와 베르데, 게다가 베르델로!\n그로우스의 수많은 흥미로운 병기들……![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev031401_MSG0021",
+      "style": 1,
+      "name": "마 논 우주선에서 피난 같은 거 하지 말고\n블레이드분들 속에 섞여서\n견학해 둘 걸 그랬어요……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev031401_MSG0022",
+      "style": 1,
+      "name": "따, 딱히 저의 지적 호기심을\n채우기 위해서가 아니라[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev031401_MSG0023",
+      "style": 1,
+      "name": "그래, 적을 모르면 이길 수 없으니까……\n엄연한 연구예요![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev031401_MSG0030",
+      "style": 1,
+      "name": "좋은 질문입니다!\n하고 싶은 말이 많아요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev031401_MSG0031",
+      "style": 1,
+      "name": "녀석들에게 그만큼 큰 물체를\n띄우는 기술이 있다는 건 놀랍네요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev031401_MSG0032",
+      "style": 1,
+      "name": "위력이 높은 병기도 탑재되어 있었고\n전력을 다하면 그로우스도 꽤나 하는군요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev031401_MSG0033",
+      "style": 1,
+      "name": "하지만 그 크기가\n기동력을 죽였다는 게 낙제점이에요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev031401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev031401_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev031401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev031401_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 34,
+      "label": "tev031401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "tev031401_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "tev031401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev031401_SEL0041",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 38,
+      "label": "tev031401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev031401_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev031401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev031401_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev031401_MSG0201",
+      "style": 1,
+      "name": "아앗……! 트로이란이 계속해서\n볼턴트를 보내고 있어요![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev031401_MSG0202",
+      "style": 1,
+      "name": "아무래도 제가 볼턴트를 좋아한다고\n착각한 것 같은데![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev031401_MSG0203",
+      "style": 1,
+      "name": "이런 볼턴트 지옥을……\n저보고 어쩌라는 걸까요!?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev031401_MSG0204",
+      "style": 1,
+      "name": "그야 이번 일에서 폐를 끼쳤고\n치로밀에게 은혜를 갚고는 싶지만……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev031401_MSG0205",
+      "style": 1,
+      "name": "이대로라면 볼턴트에 파묻혀서\n마 논인지 볼턴트인지\n구별할 수 없게 될 거예요![ST:wait ]"
+    }
+  ]
+}

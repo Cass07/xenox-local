@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev022101_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev022101_SEL0011",
+      "style": 3,
+      "name": "일에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev022101_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev022101_SEL0021",
+      "style": 1,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev022101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev022101_SEL0031",
+      "style": 3,
+      "name": "습격 당시의 행동을 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev022101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev022101_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev022101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev022101_SEL0051",
+      "style": 3,
+      "name": "센트럴 라이프에서의\n결전에 관해 묻는다"
+    },
+    {
+      "$id": 11,
+      "label": "tev022101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev022101_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev022101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev022101_SEL0061",
+      "style": 3,
+      "name": "앞으로의 일에 관해 묻는다"
+    },
+    {
+      "$id": 15,
+      "label": "tev022101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev022101_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev022101_MSG0001",
+      "style": 1,
+      "name": "어머~ 베르사유 씨\n신상품 스커트가 들어왔어요~\n보고 가지 않으실래요?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev022101_MSG0002",
+      "style": 1,
+      "name": "마 논인의 체형이라도\n이 스커트라면 원피스로 입을 수 있으니까\n강력 추천이에요~[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev022101_MSG0003",
+      "style": 1,
+      "name": "……어때? 제대로 접객하는 것 같아?\n내 나름대로 마 논인을 배려해 본\n영업 토크야![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev022101_MSG0004",
+      "style": 1,
+      "name": "그동안 키워 온 나의 접객 솜씨가 시험당한다……\n불타오르기 시작했어! 팍팍 팔아 보자고![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev022101_MSG0008",
+      "style": 1,
+      "name": "맞다, 맞다, 내 남편……\n매슈가 당신에게 신세 진 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev022101_MSG0009",
+      "style": 1,
+      "name": "남편은 마 논인과 금방 친해졌어\n……나도 본받아야지[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev022101_MSG0010",
+      "style": 1,
+      "name": "옛날부터 버려진 고양이나 박쥐를\n주워 오곤 했던 걸 생각하면\n인간 외의 생물에게도 다정한 사람일지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev022101_MSG0011",
+      "style": 1,
+      "name": "아, 아니, 마 논인이 동물이라는 게 아니라……\n예를 든 거야, 예를![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev022101_MSG0020",
+      "style": 1,
+      "name": "피난 장소가 마 논 우주선이라는 연락을 받고\n바로 베르사유가 데려가 줬어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev022101_MSG0021",
+      "style": 1,
+      "name": "NLA에서 떨어진 장소로 이동해서……\n한 명의 부상자도 없이 돌아올 수 있었어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev022101_MSG0022",
+      "style": 1,
+      "name": "마 논인을 받아들이지 못한 이전의 나였다면\n분명 피난을 거부하다 죽었겠지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev022101_MSG0023",
+      "style": 1,
+      "name": "내가 살 수 있었던 건\n[ST:playername ][KR:Particle char=to ] 베르사유 덕분이야, 고마워[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev022101_MSG0039",
+      "style": 1,
+      "name": "남편은 너무 바쁘다면서\n집에 돌아와도 금방 나가 버려[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev022101_MSG0040",
+      "style": 1,
+      "name": "우리 상업 에어리어의 일반 서포트 크루는\n전투를 도울 수는 없지만……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev022101_MSG0041",
+      "style": 1,
+      "name": "메카닉인 남편을 서포트하는 걸로\n간접적으로 당신이나 다른 블레이드를\n돕고 있다고 생각해[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev022101_MSG0042",
+      "style": 1,
+      "name": "우리를 공격하는 녀석들을\n빨리 해치워 버리고\n우리 가게에서 멋진 옷을 사 가라고![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev022101_MSG0050",
+      "style": 1,
+      "name": "드디어 남편과 집에서\n느긋하게 이야기할 수 있게 됐어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev022101_MSG0051",
+      "style": 1,
+      "name": "우리 남편은 지금까지 너무 바빠서\n집에서는 잠만 자고 나갔거든[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev022101_MSG0052",
+      "style": 1,
+      "name": "너도 소중한 사람과\n시간을 보내도록 해[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev022101_MSG0053",
+      "style": 1,
+      "name": "물론 전투복이 아닌\n우리 가게의 멋있는 옷으로 갈아입고 말이지[ST:wait ]"
+    }
+  ]
+}

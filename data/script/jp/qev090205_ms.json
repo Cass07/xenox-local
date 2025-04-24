@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090205_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "qev090205_MSG0002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "qev090205_MSG0003",
+      "style": 0,
+      "name": "お帰りなさい\n今回の討伐任務はいかがでしたか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090205_MSG0004",
+      "style": 0,
+      "name": "二人揃ってたんだ　楽勝だったぜ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090205_MSG0005",
+      "style": 0,
+      "name": "なんだか最近\nイエルヴったら楽しそうに仕事してますね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090205_MSG0006",
+      "style": 0,
+      "name": "今回だって　わざわざ自分で\n任務を見つけて来たんでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090205_MSG0007",
+      "style": 0,
+      "name": "よっぽど新しい相棒が気に入ったのかしらね？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090205_MSG0007_m",
+      "style": 0,
+      "name": "よっぽど新しい相棒が気に入ったのかしらね？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090205_MSG0007_f",
+      "style": 0,
+      "name": "よっぽど新しい相棒が気に入ったのかしらね？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090205_MSG0008",
+      "style": 0,
+      "name": "[ST:wide ]―いちいち　うっせぇよ\nそれより他に何か仕事はねぇのか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090205_MSG0009",
+      "style": 0,
+      "name": "いいですね　そのやる気\nえっと[ST:wide ]―　イエルヴ好みの仕事は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090205_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―これはどうですか？\n忘却の渓谷での調査となります[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090205_MSG0011",
+      "style": 0,
+      "name": "白鯨の一部が落下していたとの\n報告があるのですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090205_MSG0012",
+      "style": 0,
+      "name": "まだ誰も調査に行けてないんですよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090205_MSG0013",
+      "style": 0,
+      "name": "ほぉ　そいつは面白そうじゃねぇか[ST:wide ]―\nてめぇにしちゃ悪くねぇチョイスだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090205_MSG0014",
+      "style": 0,
+      "name": "[ST:wide ]―どうだ？\n誰かに先を越される前に行っちまわねぇか？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090205_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 18,
+      "label": "qev090205_SEL0011",
+      "style": 3,
+      "name": "早速行こうと乗り気でうなずく"
+    },
+    {
+      "$id": 19,
+      "label": "qev090205_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 20,
+      "label": "qev090205_SEL0021",
+      "style": 3,
+      "name": "一度　体制を整えてから\n行かないかと提案する"
+    },
+    {
+      "$id": 21,
+      "label": "qev090205_MSG0015",
+      "style": 0,
+      "name": "そうこなくっちゃ！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090205_MSG0016",
+      "style": 0,
+      "name": "おいおい　そんなトロトロしてたら\n他のブレイドにかっさらわれちまうぜ！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090205_MSG0017",
+      "style": 0,
+      "name": "それじゃ行こうぜ！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090205_MSG0018",
+      "style": 0,
+      "name": "エレオノーラ\n座標データを[System:Ruby rt=デバイス ]端末[/System:Ruby]にぶちこんどいてくれ！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090205_MSG0019",
+      "style": 0,
+      "name": "はい　それでは頑張ってきてくださいね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090205_MSG0020",
+      "style": 0,
+      "name": "今回こそ　イエルヴが探している何かが\n見つかるといいですね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090205_MSG0021",
+      "style": 0,
+      "name": "もしかして[ST:wide ]―\nそれでてめぇ　わざわざこの仕事を俺に？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090205_MSG0022",
+      "style": 0,
+      "name": "[ST:wide ]―クソッ！　おせっかいな奴だ[ST:wide ]―\n礼は言わねぇからな[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085501_MSG0000",
+      "style": 0,
+      "name": "あっ　エルマ大佐　それに皆さん！\nちょうどいいところに！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085501_MSG0001",
+      "style": 0,
+      "name": "グインさん\nなんか頼み事があるって顔してる～～[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085501_MSG0002",
+      "style": 0,
+      "name": "ええっ　何で分かっちゃうかな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085501_MSG0003",
+      "style": 0,
+      "name": "なんだか　物欲しそうな顔してたですも[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085501_MSG0004",
+      "style": 0,
+      "name": "お腹空いてるなら　タツのおやつ\n少しわけてあげてもいいですも[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085501_MSG0005",
+      "style": 0,
+      "name": "そうじゃないって！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085501_MSG0006",
+      "style": 0,
+      "name": "こんな所で悩みがあるとしたら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085501_JNK0010",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 9,
+      "label": "qev085501_SEL0011",
+      "style": 3,
+      "name": "戦闘に関することだと指摘する"
+    },
+    {
+      "$id": 10,
+      "label": "qev085501_JNK0020",
+      "style": 4,
+      "name": "憶測"
+    },
+    {
+      "$id": 11,
+      "label": "qev085501_SEL0021",
+      "style": 3,
+      "name": "きっと恋の悩みだと言い放つ"
+    },
+    {
+      "$id": 12,
+      "label": "qev085501_MSG0007",
+      "style": 0,
+      "name": "そうなんです\n実は僕　もっと強くなりたいんです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085501_MSG0008",
+      "style": 0,
+      "name": "そうなんです[ST:wide ]―　って\nそんなわけないでしょう[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085501_MSG0009",
+      "style": 0,
+      "name": "僕　もっと強くなりたいんです[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085501_MSG0010",
+      "style": 0,
+      "name": "グインさん　充分強いじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085501_MSG0011",
+      "style": 0,
+      "name": "もっとだよ　もっと強く\nあいつを越えないとだめなんだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085501_MSG0012",
+      "style": 0,
+      "name": "あいつ？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085501_MSG0013",
+      "style": 0,
+      "name": "そういうこと　それでどうすればいいか\nアドバイスがほしいということかしら？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085501_MSG0014",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085501_MSG0015",
+      "style": 0,
+      "name": "まず　あなたの今の実力が分からないと\nアドバイスのしようもないわね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085501_MSG0016",
+      "style": 0,
+      "name": "模擬戦をやりましょう[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085501_MSG0017",
+      "style": 0,
+      "name": "ええっ　僕が勝てるわけないですよ！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085501_MSG0018",
+      "style": 0,
+      "name": "グインさん\n大事なのは勝ち負けじゃないですよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085501_MSG0019",
+      "style": 0,
+      "name": "リンの言う通りよ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085501_MSG0020",
+      "style": 0,
+      "name": "はい　分かりました\nお願いします[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001093_MSG0001",
+      "style": 1,
+      "name": "……아, [ST:playername ] 씨\n안녕하세요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001093_MSG0002",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001093_MSG0003",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001093_MSG0004",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001093_MSG0005",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001093_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 7,
+      "label": "tev001093_SEL0011",
+      "style": 3,
+      "name": "뭘 하고 있었는지 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001093_JNK0020",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 9,
+      "label": "tev001093_SEL0021",
+      "style": 3,
+      "name": "개미의 수를 세고 있었냐고\n물어본다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001093_MSG0006",
+      "style": 1,
+      "name": "……개미의 수를 세고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001093_MSG0007",
+      "style": 1,
+      "name": "보제 씨는 명상을 할 때, 머릿속으로\n무언가 한 가지 일에 집중한다고 말했거든요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001093_MSG0008",
+      "style": 1,
+      "name": "저는 개미의 수를 세는 것에\n집중해 봤어요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001093_MSG0009",
+      "style": 1,
+      "name": "그 결과……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001093_MSG0010",
+      "style": 1,
+      "name": "크게 감동했어요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001093_MSG0011",
+      "style": 1,
+      "name": "이 개미들은 지구의 개미만큼이나 강인해요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001093_MSG0012",
+      "style": 1,
+      "name": "흰고래 안에는 개미가 없었는데\n어느새인가 미라의 개미가 들어와서\n개미집을 만들었어요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001093_MSG0013",
+      "style": 1,
+      "name": "이렇게 작은 곤충이\n거대한 도시에서 살고 있는 거죠[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001093_MSG0014",
+      "style": 1,
+      "name": "잘 알아채셨네요!\n바로 맞추셨어요![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001093_MSG0015",
+      "style": 1,
+      "name": "이 개미들은 지구의 개미만큼이나 강인해요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001093_MSG0016",
+      "style": 1,
+      "name": "흰고래 안에는 개미가 없었는데\n어느새인가 미라의 개미가 들어와서\n개미집을 만들었어요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001093_MSG0017",
+      "style": 1,
+      "name": "이렇게 작은 곤충이\n거대한 도시에서 살고 있는 거죠[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001093_MSG0018",
+      "style": 1,
+      "name": "그런 생각을 하다가 넋을 잃어서……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001093_JNK0030",
+      "style": 4,
+      "name": "자랑스러워한다"
+    },
+    {
+      "$id": 24,
+      "label": "tev001093_SEL0031",
+      "style": 3,
+      "name": "우리 또한 개미처럼 강인하다며\n지금의 모습을 자랑스러워한다"
+    },
+    {
+      "$id": 25,
+      "label": "tev001093_JNK0040",
+      "style": 4,
+      "name": "동조한다"
+    },
+    {
+      "$id": 26,
+      "label": "tev001093_SEL0041",
+      "style": 3,
+      "name": "포그와 같이 감상에 빠진다"
+    },
+    {
+      "$id": 27,
+      "label": "tev001093_MSG0019",
+      "style": 1,
+      "name": "그렇네요\n저희도 미라라는 미지의 행성에 와서\n거대한 원시 생물뿐인 세상에서 살고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001093_MSG0020",
+      "style": 1,
+      "name": "앞으로도 이 개미들과 함께\n살아남기 위해 힘써야 해요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001093_MSG0021",
+      "style": 1,
+      "name": "네……\n지켜보고 싶어지죠[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001093_MSG0022",
+      "style": 1,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001093_MSG0023",
+      "style": 1,
+      "name": "그게……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001093_MSG0024",
+      "style": 1,
+      "name": "당신이 저에게 말을 걸 때\n5마리 정도 밟아 버렸는데요……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001093_MSG0025",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    }
+  ]
+}

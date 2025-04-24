@@ -1,0 +1,456 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev200602_MSG0001",
+      "style": 1,
+      "name": "お待ちしておりましたよ\nお会いするのは初めてですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev200602_JNK0010",
+      "style": 4,
+      "name": "初めて"
+    },
+    {
+      "$id": 3,
+      "label": "qev200602_SEL0011",
+      "style": 3,
+      "name": "初めて会うと答える"
+    },
+    {
+      "$id": 4,
+      "label": "qev200602_JNK0020",
+      "style": 4,
+      "name": "2回目"
+    },
+    {
+      "$id": 5,
+      "label": "qev200602_SEL0021",
+      "style": 3,
+      "name": "確か2回目だと答える"
+    },
+    {
+      "$id": 6,
+      "label": "qev200602_JNK0030",
+      "style": 4,
+      "name": "3回目"
+    },
+    {
+      "$id": 7,
+      "label": "qev200602_SEL0031",
+      "style": 3,
+      "name": "おそらく3回目だと答える"
+    },
+    {
+      "$id": 8,
+      "label": "qev200602_MSG0002",
+      "style": 1,
+      "name": "フフフ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev200602_MSG0003",
+      "style": 1,
+      "name": "アナタは優しいお方ですな\n流されやすいとも言えそうですが[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev200602_MSG0004",
+      "style": 1,
+      "name": "[ST:wide ]―実は私はヤードリーです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev200602_MSG0005",
+      "style": 1,
+      "name": "っ！？\n予想外の回答ですな\nいやはや恐ろしい人だ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev200602_MSG0006",
+      "style": 1,
+      "name": "普通は初めてか3回目ですよ\n記憶でもなくされたのでしたら別ですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev200602_MSG0007",
+      "style": 1,
+      "name": "[ST:wide ]―私はヤードリーです\nだからお会いするのは3度目なのですよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev200602_MSG0008",
+      "style": 1,
+      "name": "さすがに鋭いですな[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev200602_MSG0009",
+      "style": 1,
+      "name": "[ST:wide ]―ご指摘通りヤードリーです[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev200602_MSG0010",
+      "style": 1,
+      "name": "これまでのがニセモノというわけでは\nありません[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev200602_MSG0011",
+      "style": 1,
+      "name": "外見を変えてみたのですよ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev200602_MSG0012",
+      "style": 1,
+      "name": "[ST:wide ]―アナタが探してくださったカードキー[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev200602_MSG0013",
+      "style": 1,
+      "name": "あれは私が死に物狂いで修理したマシーン\nライフポッドの起動キーだったのです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev200602_MSG0014",
+      "style": 1,
+      "name": "我々地球人はB.B.という仮初めの肉体に宿って\nいる魂のようなもの[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev200602_MSG0015",
+      "style": 1,
+      "name": "つまり仮初めの肉体ゆえに自由に\n入れ替えることも不可能ではないのです[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev200602_MSG0016",
+      "style": 1,
+      "name": "B.B.メンテナンスセンターにも\nライフポッドは多数ありますが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev200602_MSG0017",
+      "style": 1,
+      "name": "主に治療用のものであって\n自由に使うのは許可されていません[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev200602_MSG0018",
+      "style": 1,
+      "name": "だから　ここだけなのですよ\n肉体まで自由に再構成できるライフポッドはね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev200602_MSG0019",
+      "style": 1,
+      "name": "少々不安に思われるかもしれませんが\n結果はご覧のとおり[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev200602_MSG0020",
+      "style": 1,
+      "name": "完全にこれまでとは異なる身体に移すことが\nできました[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev200602_JNK0040",
+      "style": 4,
+      "name": "お願い"
+    },
+    {
+      "$id": 28,
+      "label": "qev200602_SEL0041",
+      "style": 3,
+      "name": "自分も使わせてほしいと\nお願いする"
+    },
+    {
+      "$id": 29,
+      "label": "qev200602_JNK0050",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 30,
+      "label": "qev200602_SEL0051",
+      "style": 3,
+      "name": "犯罪者に悪用されるかも\nしれないと心配する"
+    },
+    {
+      "$id": 31,
+      "label": "qev200602_JNK0060",
+      "style": 4,
+      "name": "賞賛"
+    },
+    {
+      "$id": 32,
+      "label": "qev200602_SEL0061",
+      "style": 3,
+      "name": "ヤードリーの悪だくみを\n褒める"
+    },
+    {
+      "$id": 33,
+      "label": "qev200602_MSG0021",
+      "style": 1,
+      "name": "もちろんですとも[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev200602_MSG0022",
+      "style": 1,
+      "name": "お金さえ支払っていただければね[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev200602_MSG0023",
+      "style": 1,
+      "name": "1回の使用量はなんと1000000Gですよ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev200602_MSG0024",
+      "style": 1,
+      "name": "ご安心ください[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev200602_MSG0025",
+      "style": 1,
+      "name": "ちょっとやそっとの金額では使わせませんよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev200602_MSG0026",
+      "style": 1,
+      "name": "1回の使用量はなんと1000000Gです\nこれは軽々しく使えないでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev200602_MSG0027",
+      "style": 1,
+      "name": "NLAの南方で偶然\n故障の少ないライフポッドを\n見つけられたのが　ツいておりました[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev200602_MSG0028",
+      "style": 1,
+      "name": "それとアナタと会えたのも幸運でしたな\n2度も助けていただきましたから[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev200602_MSG0029",
+      "style": 1,
+      "name": "すべての偶然が重なりあい\n一攫千金の夢が今実現しようとしているのです[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev200602_MSG0030",
+      "style": 1,
+      "name": "金持ち連中は惜しまずにお金を払うに\n違いありません[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev200602_MSG0031",
+      "style": 1,
+      "name": "ですが　アナタは無料で何度でも\n使用してくださって結構です[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev200602_MSG0032",
+      "style": 1,
+      "name": "たくさんの借りがありますからな[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev200602_JNK0070",
+      "style": 4,
+      "name": "了承"
+    },
+    {
+      "$id": 46,
+      "label": "qev200602_SEL0071",
+      "style": 3,
+      "name": "存分に使わせてもらうと\n答える"
+    },
+    {
+      "$id": 47,
+      "label": "qev200602_JNK0080",
+      "style": 4,
+      "name": "現金"
+    },
+    {
+      "$id": 48,
+      "label": "qev200602_SEL0081",
+      "style": 3,
+      "name": "そんなのよりも現金が\n欲しいと答える"
+    },
+    {
+      "$id": 49,
+      "label": "qev200602_MSG0033",
+      "style": 1,
+      "name": "ありがたい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev200602_MSG0034",
+      "style": 1,
+      "name": "前回と今回の報酬については\nこれで帳消しですな[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev200602_MSG0035",
+      "style": 1,
+      "name": "私の話を聞いていましたか！？[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev200602_MSG0036",
+      "style": 1,
+      "name": "これからお金を儲けるのであって\n今の私は一文無しなんですよ！[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev200602_MSG0037",
+      "style": 1,
+      "name": "アナタはお金のことなんか忘れて\nライフポッドを存分に利用してください！[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev200602_MSG0038",
+      "style": 1,
+      "name": "1回1000000Gなんですよ！？\nそれを何度も使えるんですから\nこっちの方がお得でしょう！？[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev200602_MSG0039",
+      "style": 1,
+      "name": "素直にライフポッドを自由に使える権利で\n手を打ってください！[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev200602_MSG0040",
+      "style": 1,
+      "name": "[ST:wide ]―ふぅ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev200602_MSG0041",
+      "style": 1,
+      "name": "[ST:wide ]―最後に二つ約束をお願いします[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev200602_MSG0042",
+      "style": 1,
+      "name": "一つはむやみにこの場所のことを広めないこと[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev200602_MSG0043",
+      "style": 1,
+      "name": "モーリス長官に目をつけられたりすると\n厄介ですからな[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev200602_MSG0044",
+      "style": 1,
+      "name": "もう一つは使用するのは深夜のみ\n私がいるときだけにしてください[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev200602_MSG0045",
+      "style": 1,
+      "name": "カードキーがなければ起動もしないはずですが\n念のため[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev200602_MSG0046",
+      "style": 1,
+      "name": "よろしいですね？[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev200602_JNK0090",
+      "style": 4,
+      "name": "承諾"
+    },
+    {
+      "$id": 64,
+      "label": "qev200602_SEL0091",
+      "style": 3,
+      "name": "約束を守ると誓う"
+    },
+    {
+      "$id": 65,
+      "label": "qev200602_JNK0100",
+      "style": 4,
+      "name": "拒否"
+    },
+    {
+      "$id": 66,
+      "label": "qev200602_SEL0101",
+      "style": 3,
+      "name": "約束は守れないと断る"
+    },
+    {
+      "$id": 67,
+      "label": "qev200602_MSG0047",
+      "style": 1,
+      "name": "ありがたい\nこれにて契約成立ですな[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev200602_MSG0048",
+      "style": 1,
+      "name": "これからもいい関係でいたいものです[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev200602_MSG0049",
+      "style": 1,
+      "name": "長話はこれくらいにしまして\nさあさあ　ライフポッドを使ってください[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev200602_MSG0050",
+      "style": 1,
+      "name": "約束は守るためにあるのです[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev200602_MSG0051",
+      "style": 1,
+      "name": "私にも約束を踏み倒そうと考えていた時期も\nありましたが　今はアナタに対しては\n従順そのものですよ[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev200602_MSG0052",
+      "style": 1,
+      "name": "そうだ[ST:wide ]―\n一度ライフポッドを使えば\n魅力も分かっていただけるでしょう[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev200602_MSG0053",
+      "style": 1,
+      "name": "物は試し[ST:wide ]―\nさあさあ　遠慮なく使ってください[ST:wait ]"
+    }
+  ]
+}

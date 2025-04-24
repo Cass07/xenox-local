@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092103_MSG0001",
+      "style": 0,
+      "name": "캠버! 괜찮아!?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092103_MSG0002",
+      "style": 0,
+      "name": "아아…… 천사가 보여……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092103_MSG0003",
+      "style": 0,
+      "name": "농담하는 거 보니까 괜찮겠네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092103_MSG0004",
+      "style": 0,
+      "name": "그래, 적어도 몸은 멀쩡한 것 같아\n아직 조금 몽롱하지만……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092103_MSG0005",
+      "style": 0,
+      "name": "아크세나, 고마워\n너도 그렇고……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092103_MSG0006",
+      "style": 0,
+      "name": "다른 사람들은 어떻게 됐는지 알아?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092103_MSG0007",
+      "style": 0,
+      "name": "아니……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092103_MSG0008",
+      "style": 0,
+      "name": "프로토타입 병기가 폭발한 거 맞지?\n그때 상황은 어땠어?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092103_MSG0009",
+      "style": 0,
+      "name": "……페르난이 프로토타입 병기를\n최대치까지 충전한 다음 발사하려고 했었어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092103_MSG0010",
+      "style": 0,
+      "name": "하지만 발사되지 않았지\n그 상태로 에너지만 계속 충전됐고……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092103_MSG0011",
+      "style": 0,
+      "name": "……임계점에 도달해 폭발한 거야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092103_MSG0012",
+      "style": 0,
+      "name": "페르난의 돌이 폭발에\n휩쓸리기 직전이었던 그 순간[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092103_MSG0013",
+      "style": 0,
+      "name": "옆에 있던 나는……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092103_MSG0014",
+      "style": 0,
+      "name": "미카! 미카는 어떻게 됐어!?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092103_MSG0015",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092103_MSG0016",
+      "style": 0,
+      "name": "아크세나, 그 표정\n무언가 알고 있는 거 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092103_MSG0017",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092103_MSG0018",
+      "style": 0,
+      "name": "이봐, 너도 아는 게 있지?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092103_JNK0010",
+      "style": 4,
+      "name": "진실을 고한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev092103_SEL0011",
+      "style": 3,
+      "name": "미카는 캠버를 감싸다 죽었다고 말한다"
+    },
+    {
+      "$id": 21,
+      "label": "qev092103_JNK0020",
+      "style": 4,
+      "name": "거짓말을 한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev092103_SEL0021",
+      "style": 3,
+      "name": "미카는 어딘가 다른 곳에서\n열심히 살고 있다고 말한다"
+    },
+    {
+      "$id": 23,
+      "label": "qev092103_JNK0030",
+      "style": 4,
+      "name": "침묵한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev092103_SEL0031",
+      "style": 3,
+      "name": "대답 없이 입을 다문다"
+    },
+    {
+      "$id": 25,
+      "label": "qev092103_MSG0019",
+      "style": 0,
+      "name": "그럴 수가……!?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092103_MSG0020",
+      "style": 0,
+      "name": "그 녀석이 날 감싼 게 아니야!\n내가 그 녀석을 감싼 거라고![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092103_MSG0021",
+      "style": 0,
+      "name": "그런데 내가 살고, 그 녀석이 죽다니……\n어째서 이런 웃기지도 않는 일이……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092103_MSG0022",
+      "style": 0,
+      "name": "그랬군![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092103_MSG0023",
+      "style": 0,
+      "name": "뉴욕에 있는 제약 회사에서\n열심히 일하고 있구나…… 그거 다행이야……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092103_MSG0024",
+      "style": 0,
+      "name": "아니, 그럴 리가 없잖아!\n지구는 멸망했다고![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092103_MSG0025",
+      "style": 0,
+      "name": "젠장! 분명 그 녀석을 감쌌는데\n나만 살아남다니……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092103_MSG0026",
+      "style": 0,
+      "name": "그 표정……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092103_MSG0027",
+      "style": 0,
+      "name": "그렇군……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092103_MSG0028",
+      "style": 0,
+      "name": "인생이라는 건 도무지 알 수가 없어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092103_MSG0029",
+      "style": 0,
+      "name": "분명 그 녀석을 감쌌는데\n나만 살아남다니……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092103_MSG0030",
+      "style": 0,
+      "name": "캠버, 미카를 감쌌다는 게 사실이야?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092103_MSG0031",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092103_MSG0032",
+      "style": 0,
+      "name": "폭발이 일어났을 때, 난 피해를 줄이기 위해\n미카 쪽과 페르난 사이에 뛰어들었어[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092103_MSG0033",
+      "style": 0,
+      "name": "그 폭발의 충격 때문에\n이곳까지 날아와 버렸지……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092103_MSG0034",
+      "style": 0,
+      "name": "하지만 여기 있는 캠버의 돌은 의외로 깨끗해[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092103_MSG0035",
+      "style": 0,
+      "name": "그래…… 풍압은 엄청났지만\n위력은 그렇게 크지 않았던 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092103_MSG0036",
+      "style": 0,
+      "name": "그건 빔 계통 병기였으니까……\n덕분에 내가 살아남은 걸지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092103_MSG0037",
+      "style": 0,
+      "name": "……너 말이야, 뭔가 눈치챘어?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092103_MSG0038",
+      "style": 0,
+      "name": "캠버의 돌과 사고 현장에 있었던\n돌의 잔해…… 위화감이 느껴지지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092103_JNK0040",
+      "style": 4,
+      "name": "숫자"
+    },
+    {
+      "$id": 46,
+      "label": "qev092103_SEL0041",
+      "style": 3,
+      "name": "숫자가 맞지 않는다고 지적한다"
+    },
+    {
+      "$id": 47,
+      "label": "qev092103_JNK0050",
+      "style": 4,
+      "name": "겉모습"
+    },
+    {
+      "$id": 48,
+      "label": "qev092103_SEL0051",
+      "style": 3,
+      "name": "망가진 모습이 다르다고 지적한다"
+    },
+    {
+      "$id": 49,
+      "label": "qev092103_MSG0039",
+      "style": 0,
+      "name": "물론 숫자도 신경 쓰이지[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092103_MSG0040",
+      "style": 0,
+      "name": "여기에 캠버의 돌 1대, 사고 현장에 2대\n결과적으로 1대가 부족해[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092103_MSG0041",
+      "style": 0,
+      "name": "한나의 돌은 그곳에 있었어?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092103_MSG0042",
+      "style": 0,
+      "name": "아니[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092103_MSG0043",
+      "style": 0,
+      "name": "그렇다면 나처럼 폭발의 충격으로\n날아가 버린 걸지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092103_MSG0044",
+      "style": 0,
+      "name": "하지만 캠버, 네가\n미카랑 한나의 돌을 감쌌다면서?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092103_MSG0045",
+      "style": 0,
+      "name": "그래……[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092103_MSG0046",
+      "style": 0,
+      "name": "그런 뜻이군…… 내가 감쌌으니\n그곳에 한나의 돌도 있었어야 했어[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092103_MSG0047",
+      "style": 0,
+      "name": "응…… 나는 조금 다른 점에\n주목했는데……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092103_MSG0048",
+      "style": 0,
+      "name": "그거야…… 중요한 점에 주목했네[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092103_MSG0049",
+      "style": 0,
+      "name": "캠버의 돌은 폭발에 휘말렸는데도\n의외로 깨끗해[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092103_MSG0050",
+      "style": 0,
+      "name": "그에 비해 사고 현장의 돌은\n검게 그을려서 너덜너덜한 느낌이었고……[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092103_MSG0051",
+      "style": 0,
+      "name": "다시 말해서…… 어떻다는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev092103_MSG0052",
+      "style": 0,
+      "name": "아직 잘 모르겠어……[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev092103_MSG0053",
+      "style": 0,
+      "name": "다시 한번 사고 현장으로 돌아가 보자\n단서를 발견할 수 있을지도 몰라[ST:wait ]"
+    }
+  ]
+}

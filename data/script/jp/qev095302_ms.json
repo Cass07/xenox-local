@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095302_MSG0001",
+      "style": 1,
+      "name": "君が先に行くべきだと思います[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095302_MSG0002",
+      "style": 1,
+      "name": "いやいや　君が先に行ってくれよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095302_MSG0003",
+      "style": 1,
+      "name": "待ってください　一人で行っても\nあっけなく食われるだけですよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev095302_MSG0004",
+      "style": 1,
+      "name": "ここはみんなで\n任務を遂行しようじゃありませんか[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev095302_MSG0005",
+      "style": 1,
+      "name": "全員が食われるだけだぞ！！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev095302_MSG0006",
+      "style": 1,
+      "name": "とはいえ　任務を放棄するわけにもいくまい[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev095302_MSG0007",
+      "style": 1,
+      "name": "調査もせず何の成果もないとなれば\nグロウスの連中は　我々を許さないだろう[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095302_MSG0008",
+      "style": 1,
+      "name": "進んでも死\n引き返しても死……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095302_MSG0009",
+      "style": 1,
+      "name": "そうだ！\nここでずっと留まりつづけるというのは\nどうだろう！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095302_MSG0010",
+      "style": 1,
+      "name": "なるほど　妙案ですね！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095302_MSG0011",
+      "style": 1,
+      "name": "いかなる環境にも強い我々だからこそできる\n芸当ですね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095302_MSG0012",
+      "style": 1,
+      "name": "100年でも200年でも\nここに居座ってやろう[ST:wide ]―ぁっ！？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095302_MSG0013",
+      "style": 1,
+      "name": "あ　あ　あそこに地球人が……！？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095302_MSG0014",
+      "style": 1,
+      "name": "万事休すか……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095302_JNK0010",
+      "style": 4,
+      "name": "友好的にする"
+    },
+    {
+      "$id": 16,
+      "label": "qev095302_SEL0011",
+      "style": 3,
+      "name": "危害を加えないと言い\n目的を尋ねる"
+    },
+    {
+      "$id": 17,
+      "label": "qev095302_JNK0020",
+      "style": 4,
+      "name": "任務を全うする"
+    },
+    {
+      "$id": 18,
+      "label": "qev095302_SEL0021",
+      "style": 3,
+      "name": "謎の異星人を尋問し\n調査の目的を聞き出す"
+    },
+    {
+      "$id": 19,
+      "label": "qev095302_MSG0015",
+      "style": 1,
+      "name": "ど　どうやら友好的な地球人のようです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev095302_MSG0016",
+      "style": 1,
+      "name": "あの方に従えば\n我々を助けてくれるのではないでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev095302_MSG0017",
+      "style": 1,
+      "name": "しかし　また従属させられるかもしれん\n信用には値しないのではないか？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095302_MSG0018",
+      "style": 1,
+      "name": "我々はどうすべきだろうか[ST:wide ]―ぁっ！？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095302_MSG0019",
+      "style": 1,
+      "name": "おい　貴様ら\n調査もせずに何をやっている！！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095302_MSG0020",
+      "style": 1,
+      "name": "貴様らもグロウスの一員ならば\nぼけっとしていないで　銃を取って戦え！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095302_MSG0021",
+      "style": 1,
+      "name": "我々は非戦闘員です\nここぞとばかりに撤退させていただきます[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095302_MSG0022",
+      "style": 1,
+      "name": "ちっ　だからいつまで経っても下級なんだ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev095302_MSG0023",
+      "style": 1,
+      "name": "や　ヤバいですよ　あの目つき[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095302_MSG0024",
+      "style": 1,
+      "name": "さすが　幾千ものグロウスの兵を\n屠ってきただけのことはありそうです……！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev095302_MSG0025",
+      "style": 1,
+      "name": "おい　貴様ら　震え上がってる場合か！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev095302_MSG0026",
+      "style": 1,
+      "name": "た　助かりました……！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev095302_MSG0027",
+      "style": 1,
+      "name": "グロウスの一員ならば\n銃を取って戦え！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev095302_MSG0028",
+      "style": 1,
+      "name": "我々は非戦闘員です\nここぞとばかりに撤退させていただきます[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev095302_MSG0029",
+      "style": 1,
+      "name": "ちっ　だからいつまで経っても下級なんだ[ST:wait ]"
+    }
+  ]
+}

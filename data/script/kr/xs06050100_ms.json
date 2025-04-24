@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06050100_MSG0001",
+      "style": 0,
+      "name": "외계인의 기동 병기를 찾았다고?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06050100_MSG0002",
+      "style": 0,
+      "name": "그래, 미지의 종족의 물건 같아\n지금까지 본 적 없는 타입이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs06050100_MSG0003",
+      "style": 0,
+      "name": "아무래도 유기되어 있는 것 같은데\n그걸 회수하고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06050100_MSG0004",
+      "style": 0,
+      "name": "그거 메카닉의 피를 끓게 하는 이야기네요![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06050100_MSG0005",
+      "style": 0,
+      "name": "그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs06050100_MSG0006",
+      "style": 0,
+      "name": "장소는 여기야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs06050100_MSG0007",
+      "style": 0,
+      "name": "야광의 숲 안쪽……\n그래서 루를 부른 거구나[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs06050100_MSG0008",
+      "style": 0,
+      "name": "맞아[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06050100_MSG0008_2",
+      "style": 0,
+      "name": "신경 쓰이는 점이 있는데\n그로우스도 이걸 노리는 모양이다만[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs06050100_MSG0009",
+      "style": 0,
+      "name": "프런티어넷의 반응을 관측한 바로는\n녀석들은 이미 몇 번이나 회수에 실패한 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs06050100_MSG0010",
+      "style": 0,
+      "name": "그야 그렇겠죠\n저 땅에는 저도 가까이 갈 수 없습니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs06050100_MSG0011",
+      "style": 0,
+      "name": "뭔가 특별한 사정이라도 있나 보네[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs06050100_MSG0012",
+      "style": 0,
+      "name": "네, 저 땅에는 플라에드가 서식하고 있답니다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs06050100_MSG0013",
+      "style": 0,
+      "name": "원인은 이 녀석으로 추측돼[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs06050100_MSG0014",
+      "style": 0,
+      "name": "전에 야광의 숲에 갔을 때는 못 봤던 원시 생물이네요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs06050100_MSG0015",
+      "style": 0,
+      "name": "네, 이 생물은 숲 안쪽 깊은 곳에……\n극히 일부 지역에서만 서식하고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs06050100_MSG0016",
+      "style": 0,
+      "name": "그리고 그곳은 이미\n숲이라고 불릴 만한 땅이 아닙니다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs06050100_MSG0017",
+      "style": 0,
+      "name": "어째서인가요?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs06050100_MSG0018",
+      "style": 0,
+      "name": "이 생물은 자신들 이외의 모든 생명체를\n먹어 치우거든요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs06050100_MSG0019",
+      "style": 0,
+      "name": "그, 그럼\n타츠도 잡아먹히냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs06050100_MSG0020",
+      "style": 0,
+      "name": "네, 몇 분 만에 뼈조차 남기지 않고요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs06050100_MSG0021",
+      "style": 0,
+      "name": "옛말에 이르길 마파람에 게 눈 감추듯이라 하죠[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs06050100_MSG0022",
+      "style": 0,
+      "name": "그렇구나, 그래서 그로우스도\n계속 실패하고 있다는 거네[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs06050100_MSG0023",
+      "style": 0,
+      "name": "하지만 그 정보가 확실하다면 우리에겐 유리해[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs06050100_MSG0024",
+      "style": 0,
+      "name": "그렇네요, 우리 몸은 B.B.니까[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs06050100_MSG0025",
+      "style": 0,
+      "name": "생명체에 반응하는 플라에드에게\n들키지 않을 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs06050100_MSG0026",
+      "style": 0,
+      "name": "사정은 알겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs06050100_MSG0027",
+      "style": 0,
+      "name": "반담에게 보고는 한 거야?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs06050100_MSG0028",
+      "style": 0,
+      "name": "우리의 최우선 임무는\n라이프 포인트 탐색이잖아[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs06050100_MSG0029",
+      "style": 0,
+      "name": "그걸 뒤로 미뤄서라도\n이 기동 병기 회수를 서둘러야 하는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs06050100_MSG0030",
+      "style": 0,
+      "name": "물론이지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs06050100_MSG0031",
+      "style": 0,
+      "name": "반담 사령관님이 엘마 팀에게\n도움을 받으라고 해서 온 거야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs06050100_MSG0032",
+      "style": 0,
+      "name": "엘마 말대로 우리에게는 시간이 없어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs06050100_MSG0033",
+      "style": 0,
+      "name": "라이프 포인트 발견이\n최우선인 건 틀림없지만……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs06050100_MSG0034",
+      "style": 0,
+      "name": "지금에 이르러서 적대 세력의 존재가 명확해졌어[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs06050100_MSG0035",
+      "style": 0,
+      "name": "게다가 그 녀석들은\n지구를 습격한 녀석들의 일부라고 해[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs06050100_MSG0036",
+      "style": 0,
+      "name": "그리고 그 녀석들이 지금\n이걸 확보하려고 혈안이 되어 있어[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs06050100_MSG0037",
+      "style": 0,
+      "name": "그들에게 굉장히 중요하다는 뜻이야?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs06050100_MSG0038",
+      "style": 0,
+      "name": "만약 이게 우리를 말살할\n비밀 병기라도 된다면?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs06050100_MSG0039",
+      "style": 0,
+      "name": "아무리 그래도 그건 좀 비약 같지만[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs06050100_MSG0040",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs06050100_MSG0041",
+      "style": 0,
+      "name": "이것의 정체는 뭔지 몰라도\n위협이 되는 건 적을수록 좋지[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs06050100_MSG0042",
+      "style": 0,
+      "name": "도와줄게[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs06050100_MSG0042_2",
+      "style": 0,
+      "name": "다들 괜찮지?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs06050100_MSG0043",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs06050100_MSG0044",
+      "style": 0,
+      "name": "좋아, 결정이군[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs06050100_MSG0045",
+      "style": 0,
+      "name": "맡은 이상 서둘러 끝내는 게 좋겠어[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs06050100_MSG0046",
+      "style": 0,
+      "name": "알겠어요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs06050100_MSG0047",
+      "style": 0,
+      "name": "루 씨와 타츠는 여기 있는 게 좋겠어요[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs06050100_MSG0048",
+      "style": 0,
+      "name": "저희와 달리 플라에드의 타깃이 될 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs06050100_MSG0049",
+      "style": 0,
+      "name": "오오, 배려해 주셔서 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs06050100_MSG0050",
+      "style": 0,
+      "name": "린 씨, 역시 타츠를\n걱정해 주고 있었다모![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs06050100_MSG0051",
+      "style": 0,
+      "name": "당연하잖아\n애써 착실하게 살찌워 놨는데[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs06050100_MSG0052",
+      "style": 0,
+      "name": "플라에드 같은 게\n먼저 잡아먹게 둘 순 없지[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs06050100_MSG0053",
+      "style": 0,
+      "name": "모모모모못~~!![ST:wait ]"
+    }
+  ]
+}

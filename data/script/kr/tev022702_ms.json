@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev022702_MSG0001",
+      "style": 1,
+      "name": "당신이 라이프 포드에 계속 잠들어 있던\n생존자인가요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev022702_MSG0002",
+      "style": 1,
+      "name": "깨어나자마자 거듭되는 전투를\n경험했다고 들었어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev022702_MSG0003",
+      "style": 1,
+      "name": "저는 전문가는 아니지만……\n몸에 부담이 가해졌을 가능성이 높아요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev022702_MSG0004",
+      "style": 1,
+      "name": "빨리 블레이드 에어리어로 가서\n휴식과 함께 메디컬 체크를\n받아 보는 걸 권할게요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev022702_MSG0005",
+      "style": 1,
+      "name": "당신이 앞으로\n무엇을 할 생각인지는 모르지만……\n어쨌든 관리가 먼저예요[ST:wait ]"
+    }
+  ]
+}

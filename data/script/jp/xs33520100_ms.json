@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33520100_MSG0010",
+      "style": 0,
+      "name": "はぁ～～～　よかったぁ\nやっと仲間に会えた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33520100_MSG0020",
+      "style": 0,
+      "name": "気づいたら　敵の本拠地に僕一人だけって\nほんっと焦りましたよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33520100_MSG0030",
+      "style": 0,
+      "name": "まあでも　そっちも無事でよかったです\nまだまだここからっすよね　僕達！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33520100_MSG0040",
+      "style": 0,
+      "name": "早くヴォイドのところに戻って\nアルさんを助けましょう！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33520100_MSG0050",
+      "style": 0,
+      "name": "それでヴォイドを倒して[ST:wide ]―\n皆で無事に帰還するんです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33520100_MSG0060",
+      "style": 0,
+      "name": "僕達ならきっとできますよ\nもうひと踏ん張り　頑張りましょう！[ST:wait ]"
+    }
+  ]
+}

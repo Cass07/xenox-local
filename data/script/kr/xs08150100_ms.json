@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08150100_MSG0001",
+      "style": 0,
+      "name": "젠장, 그 녀석들 용서 못 해![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08150100_MSG0002",
+      "style": 0,
+      "name": "용서 못 해, 용서 못 해![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08150100_MSG0003",
+      "style": 0,
+      "name": "내 손으로 죽여 버릴 거야!![ST:wait ]"
+    }
+  ]
+}

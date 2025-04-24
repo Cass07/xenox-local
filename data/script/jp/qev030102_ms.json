@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev030102_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]！\nラダを助けてくれてありがとうな！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev030102_MSG0002",
+      "style": 1,
+      "name": "俺達みたいに助からなかった仲間のためにも\n二人で精進して　もっともっと強くなって\n巌窟の一族に復讐するゾ！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev030102_MSG0005",
+      "style": 1,
+      "name": "弱虫なアイツのことだから\n不安で泣きじゃくってるに違いないゾ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev030102_MSG0006",
+      "style": 1,
+      "name": "頼む　この情けない兄ちゃんに変わって\nあいつを助けてやってくれ[ST:wait ]"
+    }
+  ]
+}

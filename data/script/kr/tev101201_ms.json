@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev101201_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev101201_SEL0011",
+      "style": 3,
+      "name": "데피니아인의 악행을\n막을 방법을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev101201_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev101201_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev101201_MSG0001",
+      "style": 1,
+      "name": "그렇네요…… 지금부터 하는 말을 잘 들으면\n알려 줄 수도 있어요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev101201_MSG0002",
+      "style": 1,
+      "name": "우선 여기에 있는\n배신자 에리오를 죽여 주세요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev101201_MSG0003",
+      "style": 1,
+      "name": "온갖 고통을 줘서 어머니이자 왕인\n저에게 맞선 죗값을 치르게 해 주는 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev101201_MSG0004",
+      "style": 1,
+      "name": "그리고 그 후에 정중하게\n딸들이 있는 곳으로 데려가세요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev101201_MSG0005",
+      "style": 1,
+      "name": "후훗, 그럼 당신이 알고 싶어 하는 걸\n뭐든지 알려 드리지요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev101201_MSG0008",
+      "style": 1,
+      "name": "이미 딸들이 절 납치한 자들을 죽이기 위해\n바쁘게 움직이고 있겠죠[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev101201_MSG0009",
+      "style": 1,
+      "name": "후훗, 조심하는 게 좋을 거예요\n저의 우수한 딸들은 어떤 모습이든 될 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev101201_MSG0010",
+      "style": 1,
+      "name": "당신과 함께 있는 동료 중 누군가로\n벌써 바꿔치기했을 가능성도 있으니까요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev101201_MSG0011",
+      "style": 1,
+      "name": "……후회해도 이미 늦었어요\n배신자 에리오와 함께 열심히\n얼마 남지 않은 인생을 즐기도록 하세요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev101201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev101201_SEL1011",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev101201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev101201_SEL1021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev101201_MSG0012",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "tev101201_MSG0013",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev101201_MSG0014",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev101201_MSG0017",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev101201_MSG0018",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev101201_MSG0019",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev101201_MSG0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev101201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev101201_SEL2011",
+      "style": 3,
+      "name": "도움이 되는 정보를 알아낸다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev101201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev101201_SEL2021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev101201_MSG0021",
+      "style": 1,
+      "name": "라쿨린이라는 동물이 백목의 대륙 서쪽\n잿더미 사구에서 많이 잡힌다고 해요![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev101201_MSG0022",
+      "style": 1,
+      "name": "어떤가요!?\n유용한 정보라고 생각하지 않나요!?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev101201_MSG0023",
+      "style": 1,
+      "name": "이제 전 마음을 고쳐먹었어요!\n그러니까…… 제발 아래로 내려 주세요!![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev101201_MSG0026",
+      "style": 1,
+      "name": "……히익! 바람이!\n[ST:playername ]! 살려 주세요![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev101201_MSG0027",
+      "style": 1,
+      "name": "에리오가 여왕님에게 어울리는 장소에\n데려가 준다고 해 놓고……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev101201_MSG0028",
+      "style": 1,
+      "name": "이런 곳에 두고 가는 바람에\n계속 움직일 수가 없어요![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev101201_MSG0029",
+      "style": 1,
+      "name": "아무리 저라도 여기서 떨어지면\n멀쩡하진 않겠죠……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev101201_MSG0030",
+      "style": 1,
+      "name": "부탁이에요! 더 이상 당신들에게\n위해를 가할 생각은 없으니\n제발 아래로 내려 주세요!![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev101201_MSG0031",
+      "style": 1,
+      "name": "훠이, 훠이!\n이쪽으로 오지 마세요![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev101201_MSG0032",
+      "style": 1,
+      "name": "얌전히 제 딸의 손에\n죽도록 하세요![ST:wait ]"
+    }
+  ]
+}

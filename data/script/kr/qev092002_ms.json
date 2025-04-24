@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092002_MSG0001",
+      "style": 0,
+      "name": "아크세나잖아\n상태를 보러 와 준 거야?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092002_MSG0002",
+      "style": 0,
+      "name": "응![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092002_MSG0003",
+      "style": 0,
+      "name": "고마워, 기쁘네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092002_MSG0004",
+      "style": 0,
+      "name": "……캠버의 돌\n많이 너덜너덜해졌어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092002_MSG0005",
+      "style": 0,
+      "name": "아크세나, 너 때문이잖아[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092002_MSG0006",
+      "style": 0,
+      "name": "미카……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092002_MSG0007",
+      "style": 0,
+      "name": "맞아, 내 책임이야\n그래서 사과하러 왔어[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092002_MSG0008",
+      "style": 0,
+      "name": "캠버 그리고 미카, 미안해[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092002_MSG0009",
+      "style": 0,
+      "name": "신경 쓰지 마, 프로토타입 병기 테스트에서\n사고는 흔한 일이야, 우리도 이해해[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092002_MSG0010",
+      "style": 0,
+      "name": "캠버는 아크세나한테 상냥하네[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092002_MSG0011",
+      "style": 0,
+      "name": "그 사고 때문에 우리는 당분간\n블레이드 활동도 못 하게 됐는데 말이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092002_MSG0012",
+      "style": 0,
+      "name": "……무슨 뜻이야?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092002_MSG0013",
+      "style": 0,
+      "name": "그게…… 수리용 부품이 부족하거든[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092002_MSG0014",
+      "style": 0,
+      "name": "물건이 없다더라, 유통이 원활하지 않아서\n부품을 도저히 구할 수가 없어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092002_MSG0015",
+      "style": 0,
+      "name": "그래서 아직도 너덜너덜한 거구나……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092002_MSG0016",
+      "style": 0,
+      "name": "그래, 돌을 수리하기 전까지는\n임무도 할 수 없어서[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092002_MSG0017",
+      "style": 0,
+      "name": "우리는 지금 한가하기 짝이 없어[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092002_JNK0010",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 19,
+      "label": "qev092002_SEL0011",
+      "style": 3,
+      "name": "돌 없이 할 수 있는 임무를\n받으면 된다고 제안한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev092002_JNK0020",
+      "style": 4,
+      "name": "반론"
+    },
+    {
+      "$id": 21,
+      "label": "qev092002_SEL0021",
+      "style": 3,
+      "name": "수리 부품이 부족한 건\n아크세나 탓이 아니라고 반론한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev092002_MSG0018",
+      "style": 0,
+      "name": "그건 그렇지만\n그 사고만 아니었다면 돌이 망가질 일도 없었고[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092002_MSG0019",
+      "style": 0,
+      "name": "우리의 다음 임무에\n돌이 필요할 일도 없었겠지[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092002_MSG0020",
+      "style": 0,
+      "name": "무슨 소리야?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092002_MSG0021",
+      "style": 0,
+      "name": "다음 임무는 이미 정해졌어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092002_MSG0022",
+      "style": 0,
+      "name": "아크세나 탓에 실패한 프로토타입 병기를\n다시 테스트하는 거지[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092002_MSG0023",
+      "style": 0,
+      "name": "미카네 팀이 하는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092002_MSG0024",
+      "style": 0,
+      "name": "너한테 연락이 가지 않았다는 건\n당분간 반성하라는 의미가 아닐까?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092002_MSG0025",
+      "style": 0,
+      "name": "우리는 개발 주임에게 직접 설명을 들었거든[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092002_MSG0026",
+      "style": 0,
+      "name": "그랬구나……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092002_MSG0027",
+      "style": 0,
+      "name": "테스트는 누구 씨가 망가뜨린 돌의\n수리가 끝나야 시작하겠지만 말이야[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092002_MSG0028",
+      "style": 0,
+      "name": "그러면! 내가 수리 부품을 찾아 올게![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092002_MSG0029",
+      "style": 0,
+      "name": "적어도 서포트 정도는 하고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092002_MSG0030",
+      "style": 0,
+      "name": "너……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092002_MSG0031",
+      "style": 0,
+      "name": "아크세나…… 그렇게 말해 줘서 기쁘지만[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092002_MSG0032",
+      "style": 0,
+      "name": "그런 일은 암즈의 임무도 아니고\n시간이 지나면 파츠도 유통될 거야[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092002_MSG0033",
+      "style": 0,
+      "name": "네가 무리할 필요는 없어[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092002_MSG0034",
+      "style": 0,
+      "name": "하지만 그 사고는 나에게도 책임이 있으니까……\n조금이라도 도움이 되고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092002_MSG0035",
+      "style": 0,
+      "name": "……알았어, 부탁할게[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092002_MSG0036",
+      "style": 0,
+      "name": "좋아! 얼른 모아 올 테니까 기다려 줘!![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092002_MSG0037",
+      "style": 0,
+      "name": "캠버! 이 정도면 어때?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092002_MSG0038",
+      "style": 0,
+      "name": "오, 이제 수리할 수 있겠어\n고마워, 아크세나[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092002_MSG0039",
+      "style": 0,
+      "name": "아니야[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092002_MSG0039_2",
+      "style": 0,
+      "name": "아직 사과의 의미로는 부족하다고 생각하지만……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092002_MSG0040",
+      "style": 0,
+      "name": "아크세나, 티카 씨가 찾더라\n새로운 테스트를 하려는 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092002_MSG0041",
+      "style": 0,
+      "name": "그랬어? 바로 가 볼게\n물론 너도 같이 가자[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092002_MSG0042",
+      "style": 0,
+      "name": "그러면 캠버도 미카도 테스트 힘내![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092002_MSG0043",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092002_MSG0044",
+      "style": 0,
+      "name": "그래 열심히 할게, 아크세나……\n다음에도 언제든지 찾아와[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092002_MSG0045",
+      "style": 0,
+      "name": "응![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092002_MSG0046",
+      "style": 1,
+      "name": "가지고 와 줬으면 하는 물건은\n범용 블레이드 부품과 토털 애널라이저야[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092002_MSG0047",
+      "style": 1,
+      "name": "범용 블레이드 부품은\n흑강의 대륙의 백린 호수 길가에 있는\n패스트 즈타가 가지고 있는 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092002_MSG0048",
+      "style": 1,
+      "name": "토털 애널라이저는 컬렉션 아이템인데\n이것도 백린 호수 근처에 있다고 들었어[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092002_MSG0049",
+      "style": 1,
+      "name": "흑강의 대륙에는 강적이 잔뜩 있지만……\n아크세나라면 분명 괜찮겠지[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092002_MSG0050",
+      "style": 1,
+      "name": "수리는 순조로워……\n아니, 오히려 아크세나 덕분에\n예정보다 빨리 끝날 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092002_MSG0051",
+      "style": 1,
+      "name": "고맙다[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092002_MSG0052",
+      "style": 1,
+      "name": "이제 곧 수리가 끝나니까\n팀끼리 회의를 하고 싶은데\n미카가 통 오지를 않아……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092002_MSG0053",
+      "style": 1,
+      "name": "지각은 안 하는 성격인데\n무슨 일이지?[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00100100_MSG0001",
+      "style": 0,
+      "name": "멀리서 보는 것보다 훨씬 크지?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00100100_MSG0002",
+      "style": 0,
+      "name": "거주 유닛이라고 해도\n항성 간 도시 이민선의 일부분이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs00100100_MSG0003",
+      "style": 0,
+      "name": "지상으로 옮기면 이만큼 거대한 시설이 돼[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00100100_MSG0004",
+      "style": 0,
+      "name": "저게 웨스트 게이트야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs00100100_MSG0005",
+      "style": 0,
+      "name": "지금은 안전을 위해 봉쇄돼 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs00100100_MSG0006",
+      "style": 0,
+      "name": "왼쪽에 가설치된 엘리베이터를 타고\n거주 유닛 안으로……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs00100100_MSG0007",
+      "style": 0,
+      "name": "루프스가 이렇게 가까운 곳까지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs00100100_MSG0008",
+      "style": 0,
+      "name": "거주 유닛에는 비전투원도 있어\n안으로 들어가기 전에 여기서 쓰러뜨리고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs00100100_MSG0009",
+      "style": 0,
+      "name": "당신도 도와줘![ST:wait ]"
+    }
+  ]
+}

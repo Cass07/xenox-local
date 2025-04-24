@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090105_MSG0001",
+      "style": 0,
+      "name": "お帰りなさいイエルヴ\n今回の回収任務はいかがでした？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090105_MSG0002",
+      "style": 0,
+      "name": "何か良さそうなものは見つかりましたか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090105_MSG0003",
+      "style": 0,
+      "name": "[ST:wide ]―ハズレさ\n相棒　拾ったもんを渡してやってくれ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090105_MSG0004",
+      "style": 0,
+      "name": "あら？　地球の動物達の遺伝子情報[ST:wide ]―？\n研究班の人達　きっと喜びますよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090105_MSG0005",
+      "style": 0,
+      "name": "[ST:wide ]―でもその様子だと\n探しものは見つからなかったようですね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090105_MSG0006",
+      "style": 0,
+      "name": "うるせぇ[ST:wide ]―　なんも探してねぇよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090105_MSG0007",
+      "style": 0,
+      "name": "余計なこと言いました？\n怒らせちゃったかしら？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090105_MSG0008",
+      "style": 0,
+      "name": "ふふっ　相変わらずイエルヴは\n難しい人ですね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090105_MSG0009",
+      "style": 0,
+      "name": "だから　同じユニオンの人ですら\n近寄りがたくなっちゃうんですよ？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090105_MSG0010",
+      "style": 0,
+      "name": "本当は良い人なのにもったいないです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090105_MSG0011",
+      "style": 0,
+      "name": "いいからとっとと報酬をよこせ\n余計なこと言ってないで仕事しろよ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090105_MSG0012",
+      "style": 0,
+      "name": "ごめんなさーい！\nそれじゃあ　はい　これを受け取ってください[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090105_MSG0013",
+      "style": 0,
+      "name": "ったく[ST:wide ]―　このねーちゃん\nいっつも俺をからかってくるんだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090105_MSG0014",
+      "style": 0,
+      "name": "[ST:wide ]―まぁいい　懐も暖かくなったし\n一杯　引っかけに行くか？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090105_MSG0015",
+      "style": 0,
+      "name": "お互いこれから長くなるんだ\n腹を割って語り合おうぜ！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090105_JNK0010",
+      "style": 4,
+      "name": "詮索"
+    },
+    {
+      "$id": 17,
+      "label": "qev090105_SEL0011",
+      "style": 3,
+      "name": "イエルヴの探し物について\n尋ねる"
+    },
+    {
+      "$id": 18,
+      "label": "qev090105_JNK0020",
+      "style": 4,
+      "name": "沈黙"
+    },
+    {
+      "$id": 19,
+      "label": "qev090105_SEL0021",
+      "style": 3,
+      "name": "余計な詮索はせずに頷く"
+    },
+    {
+      "$id": 20,
+      "label": "qev090105_MSG0016",
+      "style": 0,
+      "name": "そいつは[ST:wide ]―　またの機会にな\nそれだけは簡単に話せることじゃねぇんだ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090105_MSG0017",
+      "style": 0,
+      "name": "まっ　今日はそこらへんのことは忘れてよ\nパーッといこうぜ！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090105_MSG0018",
+      "style": 0,
+      "name": "へへっ！　それじゃパーッといこうぜ！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090105_MSG0019",
+      "style": 0,
+      "name": "テスタメントに革命を起こす\n俺達のコンビ結成を祝してな！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090105_MSG0020",
+      "style": 0,
+      "name": "よろしく頼むぜ　相棒！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090105_MSG0021",
+      "style": 0,
+      "name": "ミラ中に散らばった白鯨の残骸[ST:wide ]―\n全部　見つけだしてやろうや！[ST:wait ]"
+    }
+  ]
+}

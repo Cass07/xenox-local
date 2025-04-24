@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060402_MSG0001",
+      "style": 1,
+      "name": "아아아아…… 볼턴트가 몸속을 내달린다\n모든 것이 깨끗해지고 있어……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060402_MSG0002",
+      "style": 1,
+      "name": "하얗게…… 그 도달점에 다시…… 다가가……\n아아! 아아아아……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060402_JNK0010",
+      "style": 4,
+      "name": "말을 건다"
+    },
+    {
+      "$id": 4,
+      "label": "qev060402_SEL0011",
+      "style": 3,
+      "name": "아라세니칸에게 말을 건다"
+    },
+    {
+      "$id": 5,
+      "label": "qev060402_JNK0020",
+      "style": 4,
+      "name": "방관한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev060402_SEL0021",
+      "style": 3,
+      "name": "아라세니칸을 잠시 지켜본다"
+    },
+    {
+      "$id": 7,
+      "label": "qev060402_MSG0009",
+      "style": 1,
+      "name": "당신은……\n아앗! 방해하지…… 마세요![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev060402_MSG0012",
+      "style": 1,
+      "name": "으으으으으흐읍……\n흠! 하아아아아아아아아아앗!![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev060402_MSG0015",
+      "style": 1,
+      "name": "아아…… 조금만 더……\n조금만…… 더……[ST:wait ]"
+    }
+  ]
+}

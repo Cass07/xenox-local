@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091302_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―なんだかおかしいですね\nこの故障の仕方[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091302_MSG0002",
+      "style": 0,
+      "name": "地中に埋めたはずのデータプローブが\n地面に押し出されるなんて[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091302_MSG0003",
+      "style": 0,
+      "name": "だけど　ここだけじゃ原因はわかりませんね\n次の場所に向かいましょう[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086511_MSG0001",
+      "style": 1,
+      "name": "엄마가 돌아오질 않아……\n이건 어쩌면 사건일지도 모른다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086511_MSG0002",
+      "style": 1,
+      "name": "분명 미라를 지배하려는 음모를 가진\n나쁜 마왕이 노폰을 부하로 만들기 위해서……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086511_MSG0003",
+      "style": 1,
+      "name": "먼저 카라반 리더인 엄마를\n무서운 마법으로 유괴한 거다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086511_MSG0004",
+      "style": 1,
+      "name": "……모못, 그런 장대한 이야기라면 큰일이다모!\n빨리 구해 줘모![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev068601_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev068601_SEL0011",
+      "style": 3,
+      "name": "가 보우에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev068601_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev068601_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev068601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev068601_SEL0031",
+      "style": 3,
+      "name": "가 보우에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev068601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev068601_SEL0041",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev068601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev068601_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev068601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev068601_SEL0051",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev068601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev068601_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev068601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev068601_SEL0061",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev068601_MSG0001",
+      "style": 1,
+      "name": "보우 님에 관해 여쭐 수 있는 건\n델그 전하께서 인정하신 자뿐……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev068601_MSG0002",
+      "style": 1,
+      "name": "아직 당신은\n그 자격을 갖추지 않으신 듯하군요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev068601_MSG0007",
+      "style": 1,
+      "name": "진정한 충의란 의심을 품지 않는 것……\n저희는 델그 전하의 결단에 모두 따를 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev068601_MSG0008",
+      "style": 1,
+      "name": "이는 병상에 누워 있는 자도 같을 터……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev068601_MSG0009",
+      "style": 1,
+      "name": "그러니 아무리 고통스러워도……\n저희는 괜찮습니다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev068601_MSG0014",
+      "style": 1,
+      "name": "보우 님은 전하를 오랫동안 섬겨 오신\n제일가는 측근……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev068601_MSG0015",
+      "style": 1,
+      "name": "자신의 전부를 희생해서라도\n전하를 끝까지 지키는 그 모습은\n용맹한 라스인 중에서도 한결 용맹하십니다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev068601_MSG0016",
+      "style": 1,
+      "name": "저도 지금은 사존에게 시집가\n검을 내려놓은 몸입니다만[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev068601_MSG0017",
+      "style": 1,
+      "name": "위급할 시에는 보우 님처럼\n이 몸을 내던져서 싸울 겁니다![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev068601_MSG0023",
+      "style": 1,
+      "name": "당신이 가지고 온 약은 대단하네요……\n병으로 고통받는 많은 자를 구제했습니다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev068601_MSG0024",
+      "style": 1,
+      "name": "정말 다행이에요……\n아무리 충의를 위해서라고 해도\n죄 없는 아이들이 희생되는 것은 괴로웠어요……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev068601_MSG0025",
+      "style": 1,
+      "name": "그러나…… 괴로움을 호소하면 델그 전하께\n부담이 된다고 생각해 입을 닫고 있었던 거예요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev068601_MSG0026",
+      "style": 1,
+      "name": "정말 감사드립니다\n이 은혜는 절대 잊지 않겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev068601_MSG0031",
+      "style": 1,
+      "name": "아아……\n아들은 가 버리고 말았습니다……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev068601_MSG0032",
+      "style": 1,
+      "name": "당신이 어떠한 의도로\n그 애를 도왔는지 모르겠으나……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev068601_MSG0033",
+      "style": 1,
+      "name": "이 원한은…… 영원히 잊지 않겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev068601_MSG0038",
+      "style": 1,
+      "name": "아들을 인도해 주셔서\n정말 감사드립니다[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev068601_MSG0039",
+      "style": 1,
+      "name": "당신의 마음을 헛되게 하지 않기 위해\n필히 훌륭한 무인으로 갱생시키겠어요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev068601_MSG0040",
+      "style": 1,
+      "name": "아들을 위해 수단을 가리지 않겠습니다\n푸념도 듣지 않겠습니다\n저는 마음을…… 모질게 먹었습니다[ST:wait ]"
+    }
+  ]
+}

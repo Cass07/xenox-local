@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11110100_MSG0001",
+      "style": 0,
+      "name": "取り戻したか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11110100_MSG0002",
+      "style": 0,
+      "name": "ええ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs11110100_MSG0003",
+      "style": 0,
+      "name": "そうか　早速解析にまわす[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs11110100_MSG0004",
+      "style": 0,
+      "name": "待ってください　ヴァンダム司令！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs11110100_MSG0005",
+      "style": 0,
+      "name": "ラオさんの救出を\n黒鋼の大陸のグロウスの本拠地にいます[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs11110100_MSG0006",
+      "style": 0,
+      "name": "本気で言っているのか？\nあいつは　裏切り者だぞ！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11110100_MSG0007",
+      "style": 0,
+      "name": "お前らだって白樹の大陸で嵌められたんだぞ！\nそんな奴を助けるのか？[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs11110100_MSG0008",
+      "style": 0,
+      "name": "そうですけど[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11110100_MSG0009",
+      "style": 0,
+      "name": "ヴァンダム　彼も被害者なの\nあなたも知っているんでしょ　ラオのこと[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs11110100_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs11110100_MSG0011",
+      "style": 0,
+      "name": "地球種汎移民計画[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11110100_MSG0012",
+      "style": 0,
+      "name": "この計画が成立した時\nラオのようなケースは想定されていた[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs11110100_MSG0013",
+      "style": 0,
+      "name": "現にラオだけじゃなく\nイリーナも弟を失った[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs11110100_MSG0014",
+      "style": 0,
+      "name": "しかし　それでも人類を\n存続させることを選択した[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs11110100_MSG0015",
+      "style": 0,
+      "name": "だが　イリーナは奴とは違う[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs11110100_MSG0016",
+      "style": 0,
+      "name": "人類存続のため今でも\nブレイドとして任務を行なっている[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs11110100_MSG0017",
+      "style": 0,
+      "name": "そうかしら[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs11110100_MSG0018",
+      "style": 0,
+      "name": "なんだと？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs11110100_MSG0019",
+      "style": 0,
+      "name": "グインさん言ってました[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs11110100_MSG0020",
+      "style": 0,
+      "name": "中尉はいつも一人で無茶して\n死地に飛び込んでいくって[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs11110100_MSG0021",
+      "style": 0,
+      "name": "まるで死にたがっているようだって[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs11110100_MSG0022",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "xs11110100_MSG0023",
+      "style": 0,
+      "name": "表現方法が違うだけで\n気持ちは皆同じなのよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs11110100_MSG0024",
+      "style": 0,
+      "name": "もちろん　ラオのしたことは\n赦されることではないけれど[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs11110100_MSG0025",
+      "style": 0,
+      "name": "分かった\nすぐに手配する[ST:wait ]\n"
+    },
+    {
+      "$id": 26,
+      "label": "xs11110100_MSG0026",
+      "style": 0,
+      "name": "ヴァンダム司令　ありがとうございます！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs11110100_MSG0027",
+      "style": 0,
+      "name": "礼を言われるようなことじゃない\nこの手でぶん殴りたくなっただけだ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs11110100_MSG0028",
+      "style": 0,
+      "name": "解析にはしばらく時間がかかる\n一旦ブレイドホームに戻りましょう[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087007_MSG0001",
+      "style": 0,
+      "name": "そうか\nそれではマ・ノン人からの報告を待つとしよう[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087007_MSG0002",
+      "style": 0,
+      "name": "エルマチームの諸君\n君達を見込んだ私の判断は　正しかったようだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087007_MSG0003",
+      "style": 0,
+      "name": "これからも　力を貸して欲しい[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087007_MSG0004",
+      "style": 0,
+      "name": "もちろんよ　目的が同じうちはね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087007_MSG0005",
+      "style": 0,
+      "name": "我々の目的は互いに地球人類存続だ\n道を違えることはない[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087007_MSG0006",
+      "style": 0,
+      "name": "そうね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087007_MSG0007",
+      "style": 0,
+      "name": "地球人類存続って　言うことが大げさだなぁ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087007_MSG0008",
+      "style": 0,
+      "name": "そうでもないわよ\n彼がそのために真摯なのは確かだもの[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087007_MSG0009",
+      "style": 0,
+      "name": "そういえばエルマさん　知ってますか？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087007_MSG0010",
+      "style": 0,
+      "name": "あの人　息子さんがいたそうですよ\nそれも軍人の[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087007_MSG0011",
+      "style": 0,
+      "name": "じゃあ　今はブレイドなのかしら[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087007_MSG0012",
+      "style": 0,
+      "name": "それが　白鯨に乗せてあげなかった\nらしいんですよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087007_MSG0013",
+      "style": 0,
+      "name": "出航間際に危険な任務に就かせて\nそのまま[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087007_JNK0010",
+      "style": 4,
+      "name": "感情"
+    },
+    {
+      "$id": 15,
+      "label": "qev087007_SEL0011",
+      "style": 3,
+      "name": "ひどい父親だと憤慨する"
+    },
+    {
+      "$id": 16,
+      "label": "qev087007_JNK0020",
+      "style": 4,
+      "name": "冷静"
+    },
+    {
+      "$id": 17,
+      "label": "qev087007_SEL0021",
+      "style": 3,
+      "name": "モーリスの判断を考えてみる"
+    },
+    {
+      "$id": 18,
+      "label": "qev087007_MSG0014",
+      "style": 0,
+      "name": "ほんとですも　人の親とは思えないですも！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087007_MSG0015",
+      "style": 0,
+      "name": "ねえ！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087007_MSG0016",
+      "style": 0,
+      "name": "噂話で非難するのはよくないわ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087007_MSG0017",
+      "style": 0,
+      "name": "エルマさん[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087007_MSG0018",
+      "style": 0,
+      "name": "彼は確かに　身内も贔屓しない\n厳しい人物かもしれない[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087007_MSG0019",
+      "style": 0,
+      "name": "でも　彼自身が信じる正義を\n行っているのは確かよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087007_MSG0020",
+      "style": 0,
+      "name": "非情かも知れないけれど\nそれは認めてあげましょう[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087007_MSG0021",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087007_MSG0022",
+      "style": 0,
+      "name": "彼が利己的な悪人だったなら　他人に危険を\n押しつけて　自分の家族は救ったでしょう[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087007_MSG0023",
+      "style": 0,
+      "name": "でも　そうはしなかったんですね[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087007_MSG0024",
+      "style": 0,
+      "name": "それって　正しいのかもしれないけど\nなんだか悲しい[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev087007_MSG0025",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

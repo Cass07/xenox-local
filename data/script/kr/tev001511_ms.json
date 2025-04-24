@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001511_MSG0010",
+      "style": 1,
+      "name": "세상이 멸망하든 말든\n내가 해야 할 일은 변하지 않아[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001511_MSG0020",
+      "style": 1,
+      "name": "왜, 그런 말 있잖아?\n\"돈만 있으면 귀신도 부릴 수 있다\"라고\n……그래서 어떻게 할 거야?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001511_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 4,
+      "label": "tev001511_SEL0040",
+      "style": 3,
+      "name": "머더레스를 멤버에 넣는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001511_MSG0050",
+      "style": 1,
+      "name": "너도 볼수록 별난 취미가 있다니까\n뭐, 좋아, 빨리 가자[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001511_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001511_SEL0070",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001511_MSG0080",
+      "style": 1,
+      "name": "큰 사건일수록 뒤에선 큰돈이 움직이는 법이야\n그때는 나도 꼭 끼워 줘[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001511_MSG0090",
+      "style": 1,
+      "name": "……꽤 늦었네[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001511_MSG0100",
+      "style": 1,
+      "name": "슬슬 올 때가 됐다고 생각은 했지만\n이제 기다리다 지쳐 버렸어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001511_MSG0110",
+      "style": 1,
+      "name": "기다리게 한 만큼\n나중에 제대로 청구해 줄 테니까\n각오하고 있어[ST:wait ]"
+    }
+  ]
+}

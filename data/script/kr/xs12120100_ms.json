@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12120100_MSG0001",
+      "style": 0,
+      "name": "루크자르![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12120100_MSG0002",
+      "style": 0,
+      "name": "아직도 살아 있었나![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12120100_MSG0003",
+      "style": 0,
+      "name": "지구인 녀석들……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12120100_MSG0004",
+      "style": 0,
+      "name": "설령 네 녀석들이 안전장치라고 해도\n인형일 때 근절해 버리면 그만이다![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12120100_MSG0005",
+      "style": 0,
+      "name": "센트럴 라이프 제어 시스템에서 알립니다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12120100_MSG0006",
+      "style": 0,
+      "name": "이곳이 적대적 행동으로 인해 공격받고 있습니다\n지금부터 내부 방위 시스템을 기동합니다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12120100_MSG0007",
+      "style": 0,
+      "name": "저 뇌 덩어리 녀석\n제어 시스템을 파괴할 셈인가![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12120100_MSG0008",
+      "style": 0,
+      "name": "멈춰, 루크자르![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12120100_MSG0009",
+      "style": 0,
+      "name": "날 함부로 부르지 마라![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12120100_MSG0010",
+      "style": 0,
+      "name": "우리야말로 암세포라고 말할 셈인가!\n잠자코 멸망할 성싶으냐![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12120100_MSG0011",
+      "style": 0,
+      "name": "모두 저 녀석을 막아!\n이대로 두면 제어 시스템이 망가져[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs12120100_MSG0012",
+      "style": 0,
+      "name": "알겠습니다![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs12120100_MSG0013",
+      "style": 0,
+      "name": "잠깐만요!\n저기 보세요……![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12120100_MSG0014",
+      "style": 0,
+      "name": "방위 시스템, 기동합니다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12120100_MSG0015",
+      "style": 0,
+      "name": "저거 설마……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12120100_MSG0016",
+      "style": 0,
+      "name": "오오오……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs12120100_MSG0017",
+      "style": 0,
+      "name": "지구에서 온 이민자들을 배양하는 시스템이\n생체 병기를 만드는 방위 기구도 겸하고 있다니[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12120100_MSG0018",
+      "style": 0,
+      "name": "하지만 저건……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs12120100_MSG0019",
+      "style": 0,
+      "name": "저런…… 저런 괴물이\n방위 기구라고……?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12120100_MSG0020",
+      "style": 0,
+      "name": "시스템이 폭주하고 있는 거야\n서둘러 막아야 해![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs12120100_MSG0021",
+      "style": 0,
+      "name": "추하구나, 참으로 추해[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs12120100_MSG0022",
+      "style": 0,
+      "name": "네 녀석들 지구인만큼이나 추한 모습이도다![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12120100_MSG0023",
+      "style": 0,
+      "name": "네가 할 말은 아니지![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12120100_MSG0024",
+      "style": 0,
+      "name": "라오![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs12120100_MSG0025",
+      "style": 0,
+      "name": "라오 씨![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs12120100_MSG0026",
+      "style": 0,
+      "name": "감히……![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs12120100_MSG0027",
+      "style": 0,
+      "name": "이 녀석은 나한테 맡겨!\n너희는 방위 시스템을 막아![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs12120100_MSG0028",
+      "style": 0,
+      "name": "알았어[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev021301_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev021301_SEL0011",
+      "style": 1,
+      "name": "ブレイドの任務について聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev021301_SEL0021",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev021301_SEL0031",
+      "style": 3,
+      "name": "襲撃のことについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev021301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev021301_SEL0041",
+      "style": 3,
+      "name": "これからのことについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev021301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev021301_MSG0001",
+      "style": 1,
+      "name": "外壁警備中に　エントランスの方から\nルプスの雄叫びが聞こえてきてね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev021301_MSG0002",
+      "style": 1,
+      "name": "なんだと思って駆けつけたら\nエルマ大佐のとこの新人が\nもう退治した後だったんだよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev021301_MSG0003",
+      "style": 1,
+      "name": "まったく……インターセプターの防衛任務を\n新人がやってのけちまうなんて\n一体どんな面構えなんだろうね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev021301_MSG0004",
+      "style": 1,
+      "name": "あんたの前にいる[ST:playername ]が\nその新人だよ　ダナ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev021301_MSG0005",
+      "style": 1,
+      "name": "イリーナの姉貴！　失礼しました！\n姉貴のチームメンバーだったんですね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev021301_MSG0006",
+      "style": 1,
+      "name": "いいや　あたしがメンバーで\nリーダーはあんたの言う新人さ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev021301_MSG0007",
+      "style": 1,
+      "name": "うわ……\nイリーナの姉貴をメンバーにするなんて\nとんでもない大型新人ですね……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev021301_MSG0008",
+      "style": 1,
+      "name": "アタシはね　バチっと気合い入れて\nインターセプターやってるんだ！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev021301_MSG0009",
+      "style": 1,
+      "name": "まぁ……まだまだ　ドールの扱いも不慣れで\n上手くバケモノをぶっ倒すことができないけど[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev021301_MSG0010",
+      "style": 1,
+      "name": "アタシは　いつか一番気合いの入った\nブレイドってのになってやるよ！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev021301_MSG0011",
+      "style": 1,
+      "name": "そう……そうすれば　クリストファーだって\nアタシのこと見てくれるかもしれないし……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev021301_MSG0012",
+      "style": 1,
+      "name": "……って　ヤバッ！　なんでもない！　\nこんなナンパなこと　アタシらしくないよな！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev021301_MSG0013",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev021301_MSG0014",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev021301_MSG0015",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev021301_MSG0023",
+      "style": 1,
+      "name": "とんでもない猛攻撃だったな……\nアタシらの仲間も　沢山やられちまったよ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev021301_MSG0024",
+      "style": 1,
+      "name": "中には昔馴染みもいてさ　ソイツ\nNLAを守るみたいにミサイルの前へ\n飛び出して　散っていったんだ……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev021301_MSG0025",
+      "style": 1,
+      "name": "勇敢な……大馬鹿野郎だよ\nセントラルライフを見つけだしてさ……\n早く生き返らせてやらないと！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev021301_MSG0026",
+      "style": 1,
+      "name": "それで　朝までみんなで飲み明かすんだ\n一度　死んじまった気分はどうだ？\nなんて軽口叩きながらな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev021301_MSG0027",
+      "style": 1,
+      "name": "セントラルライフは見つかったんだろ？\nいつ生身の身体は　戻ってくるのかね[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev021301_MSG0028",
+      "style": 1,
+      "name": "……死んじまった連中も　みんな甦らせてさ\n早くイリーナの姉貴を囲んで　一杯やりたいね[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev021301_MSG0029",
+      "style": 1,
+      "name": "きっと[ST:wide ]―血肉の通った生身の肉体に\n染み渡るビールってのは　格別だろうさ！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev021301_MSG0030",
+      "style": 1,
+      "name": "マーカス……あたし達のために……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev021301_MSG0031",
+      "style": 1,
+      "name": "イリーナの姉貴！\nダメですよ　そんなしおらしい言葉\n姉貴らしくないですよ！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev021301_MSG0032",
+      "style": 1,
+      "name": "早くセントラルライフを見つけて\nとっとと生き返らせて\n悲しませやがってって　一発殴りましょう！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev021301_MSG0033",
+      "style": 1,
+      "name": "フッ　ダナは相変わらず気合い十分だな\nありがとう[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev021301_MSG0034",
+      "style": 1,
+      "name": "きっともうすぐだよ　ダナ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev021301_MSG0035",
+      "style": 1,
+      "name": "イリーナの姉貴……そうですよね！\n皆が戻ってきたら\n姉貴を囲んで一杯やりましょう！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev021301_MSG0036",
+      "style": 1,
+      "name": "フッ　ダナは任務も飲み会も\n気合十分だな[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev021301_MSG0037",
+      "style": 1,
+      "name": "もちろん！\nそれがアタシの取り柄ですから！[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev021301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev021301_SEL0051",
+      "style": 1,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "tev021301_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "tev021301_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 51,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "tev021301_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "tev021301_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 55,
+      "label": "tev021301_MSG0039",
+      "style": 1,
+      "name": "クリストファーって　とっても優しいんだ……\nアタシ　とっても幸せだよ[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev021301_MSG0042",
+      "style": 1,
+      "name": "あんた達は　アタシらの恋のキューピッドさ\nあんたや　あのチオピッタスとかいう\n妙なマ・ノン人には　本当に感謝してるよ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev021301_MSG0043",
+      "style": 1,
+      "name": "本当にありがとうね\nアタシもいつまでも彼に甘えてないでさ[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev021301_MSG0044",
+      "style": 1,
+      "name": "彼との暮らしを守るためにも　もっともっと\nインターセプターとして頑張らせてもらうよ！[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "tev021301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "tev021301_SEL0061",
+      "style": 1,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "tev021301_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 66,
+      "label": "tev021301_SEL0061",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 67,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 68,
+      "label": "tev021301_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 69,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 70,
+      "label": "tev021301_SEL0061",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 71,
+      "label": "tev021301_MSG0080",
+      "style": 1,
+      "name": "あんた達とはクリストファーの話は\nもうしたくないね……[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev021301_MSG0081",
+      "style": 1,
+      "name": "あんたも　あのチオピッタスとかいう\nマ・ノン人も恋の疫病神さ……[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev021301_MSG0082",
+      "style": 1,
+      "name": "他の話ならいいけど　もうこういう話は\nあんた達とは絶対にしないよ[ST:wait ]"
+    }
+  ]
+}

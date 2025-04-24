@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051305_MSG0001",
+      "style": 1,
+      "name": "どうだ？\nカギを手に入れることはできたのか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051305_MSG0002",
+      "style": 1,
+      "name": "セレストスリーの金庫はここだ\nあとはカギで扉を開けるだけ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051305_MSG0003",
+      "style": 1,
+      "name": "マスターも待っている　早く任務を完了しろ[ST:wait ]"
+    }
+  ]
+}

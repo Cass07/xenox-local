@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06090100_MSG0001",
+      "style": 0,
+      "name": "그럼 이제 돌아가기만 하면 되겠군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06090100_MSG0002",
+      "style": 0,
+      "name": "또 그 생물들을 뚫고 가야 한다고 생각하니\n오싹하지만요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs06090100_MSG0003",
+      "style": 0,
+      "name": "그 전에 도시락을 먹자모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06090100_MSG0004",
+      "style": 0,
+      "name": "타츠가 모두를 위해 만들어 왔다모![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06090100_MSG0005",
+      "style": 0,
+      "name": "타츠![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs06090100_MSG0006",
+      "style": 0,
+      "name": "왜 여기에 있는 거야!?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs06090100_MSG0007",
+      "style": 0,
+      "name": "다들 배고플 것 같아서\n방금 그 빙글빙글 돌아가는 기계를 타고 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs06090100_MSG0008",
+      "style": 0,
+      "name": "타츠, 센스 있지모?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06090100_MSG0009",
+      "style": 0,
+      "name": "무, 무슨 소리를 하는 거야!\n여기는 살아 있는 몸으로 오면 안 된다고![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs06090100_MSG0010",
+      "style": 0,
+      "name": "괜찮다모, 잠깐 도시락 좀 먹는다고\n공격당하진 않을 거다모[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs06090100_MSG0011",
+      "style": 0,
+      "name": "그 근거 없는 자신감은 뭐야!\n그리고 어떻게 돌아갈 건데![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs06090100_MSG0012",
+      "style": 0,
+      "name": "헬기는 이미 가 버렸다고!\n걸어서 돌아가는 수밖에 없어![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs06090100_MSG0013",
+      "style": 0,
+      "name": "숲속을 계속!\n걸어서![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs06090100_MSG0014",
+      "style": 0,
+      "name": "응?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs06090100_MSG0015",
+      "style": 0,
+      "name": "빠, 빨리 헬기를 다시 불러야……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs06090100_MSG0016",
+      "style": 0,
+      "name": "이미 늦은 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs06090100_MSG0017",
+      "style": 0,
+      "name": "이 녀석을 먹으러 모여든 건가[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs06090100_MSG0018",
+      "style": 0,
+      "name": "타츠, 거기서 움직이지 마![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs06090100_MSG0019",
+      "style": 0,
+      "name": "아, 알았다모![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092504_MSG0001",
+      "style": 1,
+      "name": "お嬢ちゃんの設計は\n一見デタラメのように見えるがな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092504_MSG0002",
+      "style": 1,
+      "name": "ただのデタラメじゃない　不可能を可能にする\n筋が通ったデタラメなんだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092504_MSG0003",
+      "style": 1,
+      "name": "ふっ　血は争えんな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092504_MSG0004",
+      "style": 1,
+      "name": "過去に一度　こんな無茶な設計書ってのを\n突き付けられたことがあってな\nあの時はソイツを実現してやれなかったが[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092504_MSG0005",
+      "style": 1,
+      "name": "今度こそは[ST:wide ]―　形にしてみせるよ\nマテリアルの方は頼んだぞ？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092504_MSG0006",
+      "style": 1,
+      "name": "[ST:wide ]―大丈夫　ソイツは必ず飛ぶさ\nサクラバ重工技術主任であるワシが保証する[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092504_MSG0007",
+      "style": 1,
+      "name": "だから　恐れずにいけ\nお嬢ちゃんの夢を　お前の手であの大空に\n描いて見せるんだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092504_MSG0008",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "qev092504_MSG0009",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

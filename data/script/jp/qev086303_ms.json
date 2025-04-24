@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086303_MSG0001",
+      "style": 0,
+      "name": "いよいよ　命を統べる者のテリトリーですよ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086303_MSG0002",
+      "style": 0,
+      "name": "命を統べる者[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086303_MSG0003",
+      "style": 0,
+      "name": "ももっ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086303_MSG0004",
+      "style": 0,
+      "name": "なんですかリンさん\n急に立ち止まらないでくださ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086303_MSG0005",
+      "style": 0,
+      "name": "ももも[ST:wide ]―　で　出ましたですも～～！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086303_MSG0006",
+      "style": 0,
+      "name": "どうやら向こうも気づいたようね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086303_MSG0007",
+      "style": 0,
+      "name": "あなたが不浄な生命を刈り取る役目を\n負っているのなら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086303_MSG0008",
+      "style": 0,
+      "name": "私達が刈り取れるかどうか　\nやってみなさい[ST:wide ]―！[ST:wait ]"
+    }
+  ]
+}

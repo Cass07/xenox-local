@@ -1,0 +1,690 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040401_MSG0001",
+      "style": 1,
+      "name": "자, 그만 놀고 슬슬 모이자모!\n점호한다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040401_MSG0002",
+      "style": 1,
+      "name": "사츠! 요요츠! 고츠! 무츠츠![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev040401_MSG0003",
+      "style": 1,
+      "name": "있어모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev040401_MSG0004",
+      "style": 1,
+      "name": "있어모![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev040401_MSG0005",
+      "style": 1,
+      "name": "있어모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev040401_MSG0006",
+      "style": 1,
+      "name": "좋아! 다들 있……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev040401_MSG0007",
+      "style": 1,
+      "name": "으으응?\n이상하다모! 다시![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev040401_MSG0008",
+      "style": 1,
+      "name": "사츠! 요요츠! 고츠! 무츠츠![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev040401_MSG0009",
+      "style": 1,
+      "name": "있어모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev040401_MSG0010",
+      "style": 1,
+      "name": "있어모![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev040401_MSG0011",
+      "style": 1,
+      "name": "있어모![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev040401_MSG0012",
+      "style": 1,
+      "name": "여, 역시 사츠가 없어모![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev040401_MSG0013",
+      "style": 1,
+      "name": "어디로 간 거야모!\n어떡해모! 어떡해모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev040401_JNK0010",
+      "style": 4,
+      "name": "질문한다"
+    },
+    {
+      "$id": 15,
+      "label": "qev040401_SEL0011",
+      "style": 3,
+      "name": "무슨 일인지 묻는다"
+    },
+    {
+      "$id": 16,
+      "label": "qev040401_JNK0020",
+      "style": 4,
+      "name": "진정시킨다"
+    },
+    {
+      "$id": 17,
+      "label": "qev040401_SEL0021",
+      "style": 3,
+      "name": "심호흡하라고 한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev040401_MSG0014",
+      "style": 1,
+      "name": "아빠의 친구인 블레이드 씨다모![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev040401_MSG0015",
+      "style": 1,
+      "name": "아빠가 아니다모!\n타츠는 네 형이다모![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev040401_MSG0016",
+      "style": 1,
+      "name": "대체 무슨 일인데모!?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev040401_MSG0017",
+      "style": 1,
+      "name": "남매끼리 다 함께 술래잡기하고 있었다모!\n그런데 한 명이 사라져 버렸다모![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev040401_MSG0018",
+      "style": 1,
+      "name": "세세세세세! 세상에, 큰일이다모!\n찾으러 가겠다모![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev040401_MSG0019",
+      "style": 1,
+      "name": "큰일이다모! 숨을 깊이 마시고 뱉어모?\n이, 이렇게인가모…… 흡~하~흡~하~[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev040401_MSG0020",
+      "style": 1,
+      "name": "조금 진정됐다모……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev040401_MSG0021",
+      "style": 1,
+      "name": "대체 무슨 일이 생긴 거냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev040401_MSG0022",
+      "style": 1,
+      "name": "앗, 아빠![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev040401_MSG0023",
+      "style": 1,
+      "name": "남매끼리 다 함께 술래잡기하고 있었다모!\n그런데 한 명이 사라져 버렸다모![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev040401_MSG0024",
+      "style": 1,
+      "name": "세세세세세! 세상에, 큰일이다모!\n찾으러 가겠다모![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev040401_MSG0025",
+      "style": 1,
+      "name": "……잠깐, 타츠는 아빠가 아니다모!\n형이다모![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev040401_MSG0026",
+      "style": 1,
+      "name": "그래서, 사라진 애는 누구냐모?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev040401_MSG0027",
+      "style": 1,
+      "name": "3남인 사츠다모![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev040401_MSG0028",
+      "style": 1,
+      "name": "찾으러 가겠다모![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev040401_MSG0029",
+      "style": 1,
+      "name": "이 주변에는 위험한 생물이\n우글거리고 있다모![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev040401_MSG0030",
+      "style": 1,
+      "name": "찾으러 가겠다모![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev040401_MSG0031",
+      "style": 1,
+      "name": "사츠는 잠꾸러기니까\n어딘가에서 쿨쿨 자고 있을지도 몰라모[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev040401_MSG0032",
+      "style": 1,
+      "name": "자는 사이에 위험한 녀석한테\n잡아먹히면 큰일이다모[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev040401_JNK0030",
+      "style": 4,
+      "name": "충고"
+    },
+    {
+      "$id": 38,
+      "label": "qev040401_SEL0031",
+      "style": 3,
+      "name": "이 주변은 노폰이 돌아다니기에는\n위험하다고 충고한다"
+    },
+    {
+      "$id": 39,
+      "label": "qev040401_JNK0040",
+      "style": 4,
+      "name": "주의"
+    },
+    {
+      "$id": 40,
+      "label": "qev040401_SEL0041",
+      "style": 3,
+      "name": "위험한 생물이 많을 테니\n경계하며 움직이라고 주의를 준다"
+    },
+    {
+      "$id": 41,
+      "label": "qev040401_MSG0033",
+      "style": 1,
+      "name": "하지만 동생이 죽을지도 모르는데\n가만히 있을 수는 없다모![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev040401_MSG0034",
+      "style": 1,
+      "name": "하지만 우물쭈물하고 있으면\n동생이 어떻게 될지 모른다모![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev040401_JNK0050",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 44,
+      "label": "qev040401_SEL0051",
+      "style": 3,
+      "name": "모두 흩어져서 수색하자고 한다"
+    },
+    {
+      "$id": 45,
+      "label": "qev040401_JNK0060",
+      "style": 4,
+      "name": "의견"
+    },
+    {
+      "$id": 46,
+      "label": "qev040401_SEL0061",
+      "style": 3,
+      "name": "누군가는 여기에 남는 게 좋겠다고 말한다"
+    },
+    {
+      "$id": 47,
+      "label": "qev040401_MSG0035",
+      "style": 1,
+      "name": "하지만 누군가는 남는 편이\n좋을지도 모른다모[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev040401_MSG0036",
+      "style": 1,
+      "name": "사츠가 돌아왔을 때\n여기에 아무도 없으면 곤란할 거다모![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev040401_MSG0037",
+      "style": 1,
+      "name": "그 말이 맞다모\n사츠가 돌아왔을 때\n여기에 아무도 없으면 곤란할 거다모![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev040401_MSG0038",
+      "style": 1,
+      "name": "알았다모, 아빠!\n아무도 없으면 사츠가 울고 말 거다모![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev040401_MSG0039",
+      "style": 1,
+      "name": "형이라고 했잖아모~![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev040401_MSG0040",
+      "style": 1,
+      "name": "그러면 지츠가 여기 남을게모![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev040401_MSG0041",
+      "style": 1,
+      "name": "요요츠는 사츠를 찾으러\n바다에 이르는 큰 권목으로 갈게모![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev040401_MSG0042",
+      "style": 1,
+      "name": "고츠는 사츠를 찾으러\n양지의 샘으로 갈게모![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev040401_MSG0043",
+      "style": 1,
+      "name": "무츠츠는 사츠 오빠를 찾으러\n열천선경으로 갈게모![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev040401_MSG0044",
+      "style": 1,
+      "name": "그러면 우리는 일단 카라반 근처를\n수색해 보겠다모![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev040401_MSG0046",
+      "style": 1,
+      "name": "사츠를 꼭 찾아내 줘모![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev040401_MSG0047",
+      "style": 1,
+      "name": "앗~! 돌아왔다모[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev040401_MSG0048",
+      "style": 1,
+      "name": "음냐음냐, 앗! 형![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev040401_MSG0049",
+      "style": 1,
+      "name": "사츠, 무사해서 다행이다모\n다들 널 찾으러 갔다모[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev040401_MSG0050",
+      "style": 1,
+      "name": "걱정 끼쳐서 미안해모\n그래도 다들 사츠를 신경 써 줘서 기뻐모[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev040401_MSG0051",
+      "style": 1,
+      "name": "그러면 동생들한테 돌아오라고 할게모[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev040401_MSG0052",
+      "style": 1,
+      "name": "얼른 돌아오면 좋겠어모!\n그런데 어떻게 연락할 거야모?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev040401_MSG0053",
+      "style": 1,
+      "name": "이럴 수가모! 생각 안 했다모!\n어떡하면 좋지모!?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev040401_JNK0070",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 66,
+      "label": "qev040401_SEL0071",
+      "style": 3,
+      "name": "통신기로 연락하라고 말한다"
+    },
+    {
+      "$id": 67,
+      "label": "qev040401_JNK0080",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 68,
+      "label": "qev040401_SEL0081",
+      "style": 3,
+      "name": "텔레파시로 연락할 순 없냐고 묻는다"
+    },
+    {
+      "$id": 69,
+      "label": "qev040401_MSG0054",
+      "style": 1,
+      "name": "통신기는 비싸게 팔 수 있으니까\n노폰은 그런 게 있으면 바로 팔아 버린다모[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev040401_MSG0055",
+      "style": 1,
+      "name": "노폰은 똑똑해모![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev040401_MSG0056",
+      "style": 1,
+      "name": "덕분에 연락도 못 한다모……[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev040401_MSG0057",
+      "style": 1,
+      "name": "그런 편리한 힘을 쓸 수 있었으면\n이런 고생은 하지도 않았다모![ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev040401_MSG0058",
+      "style": 1,
+      "name": "노폰을 뭘로 보는 거야모![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev040401_MSG0059",
+      "style": 1,
+      "name": "우쭐거릴 일이 아니다모……[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev040401_JNK0090",
+      "style": 4,
+      "name": "행동"
+    },
+    {
+      "$id": 76,
+      "label": "qev040401_SEL0091",
+      "style": 3,
+      "name": "찾으러 가자고 한다"
+    },
+    {
+      "$id": 77,
+      "label": "qev040401_JNK0100",
+      "style": 4,
+      "name": "대기"
+    },
+    {
+      "$id": 78,
+      "label": "qev040401_SEL0101",
+      "style": 3,
+      "name": "또 뿔뿔이 흩어질 수 있으니\n얌전히 기다리자고 한다"
+    },
+    {
+      "$id": 79,
+      "label": "qev040401_MSG0060",
+      "style": 1,
+      "name": "지츠, 사츠, 어서 찾으러 가자모![ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev040401_MSG0061",
+      "style": 1,
+      "name": "그렇지만 동생들이 걱정된다모!\n지츠, 사츠, 어서 찾으러 가자모![ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev040401_MSG0062",
+      "style": 1,
+      "name": "기다려모!\n전부 가 버리면 또 흩어지게 될 거다모![ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev040401_MSG0063",
+      "style": 1,
+      "name": "맞아모, 맞아모!\n사츠, 또 어딘가에서 잠들 것 같아모![ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev040401_MSG0064",
+      "style": 1,
+      "name": "[ST:playername ] 씨가 다시 한번\n동생들을 찾아 주면 좋겠다모![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev040401_MSG0065",
+      "style": 1,
+      "name": "지츠와 사츠는 여기서 기다릴게모!\n부탁할게모! 믿을 사람은\n[ST:playername ] 씨뿐이다모![ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev040401_MSG0066",
+      "style": 1,
+      "name": "잘 부탁한다모![ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev040401_MSG0067",
+      "style": 1,
+      "name": "잘 부탁한다모![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev040401_MSG0068",
+      "style": 1,
+      "name": "지금 믿을 수 있는 건 아마도\n[ST:playername ] 씨뿐이다모\n꼭 남매를 모두 데려와 주길 바란다모![ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev040401_MSG0069",
+      "style": 1,
+      "name": "앗! 아빠, 이걸로 전원 집합이다모![ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev040401_MSG0070",
+      "style": 1,
+      "name": "그러니까 아빠 아니라고모![ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev040401_JNK0110",
+      "style": 4,
+      "name": "사과"
+    },
+    {
+      "$id": 91,
+      "label": "qev040401_SEL0111",
+      "style": 3,
+      "name": "수색이 늦어서 미안하다고 사과한다"
+    },
+    {
+      "$id": 92,
+      "label": "qev040401_JNK0120",
+      "style": 4,
+      "name": "불평"
+    },
+    {
+      "$id": 93,
+      "label": "qev040401_SEL0121",
+      "style": 3,
+      "name": "모두를 찾느라 고생했다고 말한다"
+    },
+    {
+      "$id": 94,
+      "label": "qev040401_MSG0071",
+      "style": 1,
+      "name": "그렇지 않다모! 고생이 많다모![ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev040401_MSG0072",
+      "style": 1,
+      "name": "모두를 데리고 돌아와 줘서\n정말 고맙다모![ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev040401_MSG0073",
+      "style": 1,
+      "name": "미안하다모…… 고생했다모……\n하지만 덕분에 남매가 모두 모였다모[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev040401_MSG0074",
+      "style": 1,
+      "name": "정말 고맙다모![ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev040401_MSG0075",
+      "style": 1,
+      "name": "아빠, 멋진 동료를 두었네모[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev040401_MSG0076",
+      "style": 1,
+      "name": "응…… 근데 벌써 몇 번 틀린 거냐모……\n……아무튼 점호하겠다모![ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev040401_MSG0077",
+      "style": 1,
+      "name": "지츠! 사츠! 요요츠! 고츠! 무츠츠![ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev040401_MSG0078",
+      "style": 1,
+      "name": "있어모![ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev040401_MSG0079",
+      "style": 1,
+      "name": "있어모![ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev040401_MSG0080",
+      "style": 1,
+      "name": "있어모![ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev040401_MSG0081",
+      "style": 1,
+      "name": "있어모![ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev040401_MSG0082",
+      "style": 1,
+      "name": "있어모![ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev040401_MSG0083",
+      "style": 1,
+      "name": "아빠와 5남매가 모두 모였다모![ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev040401_MSG0084",
+      "style": 1,
+      "name": "6남매다모!\n6명 다 모였다모![ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev040401_MSG0085",
+      "style": 1,
+      "name": "모였다모![ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev040401_MSG0086",
+      "style": 1,
+      "name": "모였다모![ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev040401_MSG0087",
+      "style": 1,
+      "name": "모였다모![ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev040401_MSG0088",
+      "style": 1,
+      "name": "모였다모![ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "qev040401_MSG0089",
+      "style": 1,
+      "name": "모였다모![ST:wait ]"
+    }
+  ]
+}

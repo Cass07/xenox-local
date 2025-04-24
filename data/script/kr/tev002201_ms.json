@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev002201_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "qev002201_MSG0002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "qev002201_MSG0003",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "qev002201_MSG0004",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "qev002201_MSG0005",
+      "style": 1,
+      "name": "평화가 찾아오는 그 순간부터 본격적으로\n행정장관이라는 내 역할이 중요해진다……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev002201_MSG0006",
+      "style": 1,
+      "name": "반드시 이 NLA를 그리운 로스앤젤레스 같은\n화려한 도시로 만들고 말겠다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev002201_MSG0007",
+      "style": 1,
+      "name": "당분간은 자네들 블레이드의 힘을 빌려야겠군\n부탁하지[ST:wait ]"
+    }
+  ]
+}

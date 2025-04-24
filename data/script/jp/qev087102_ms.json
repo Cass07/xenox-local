@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087102_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―なるほど　これは興味深い[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087102_MSG0002",
+      "style": 0,
+      "name": "何か　役に立ちそうな情報でも？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087102_MSG0003",
+      "style": 0,
+      "name": "役に立つではなく　立てるのだよ\nそうすれば　全ての情報は有益なものとなる[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087102_MSG0004",
+      "style": 0,
+      "name": "お説ごもっとも[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087102_MSG0005",
+      "style": 0,
+      "name": "君達は確か　ラース人の部隊と\n交戦したことがあったはずだな[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087102_MSG0006",
+      "style": 0,
+      "name": "ラース人[ST:wide ]―\nどこかで聞いたことがあるですも？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087102_JNK0010",
+      "style": 4,
+      "name": "印象"
+    },
+    {
+      "$id": 8,
+      "label": "qev087102_SEL0011",
+      "style": 3,
+      "name": "狼のような奴らだと答える"
+    },
+    {
+      "$id": 9,
+      "label": "qev087102_JNK0020",
+      "style": 4,
+      "name": "感想"
+    },
+    {
+      "$id": 10,
+      "label": "qev087102_SEL0021",
+      "style": 3,
+      "name": "強敵と書いてトモだと微笑む"
+    },
+    {
+      "$id": 11,
+      "label": "qev087102_JNK0030",
+      "style": 4,
+      "name": "誤解"
+    },
+    {
+      "$id": 12,
+      "label": "qev087102_SEL0031",
+      "style": 3,
+      "name": "もふもふで狡猾な連中と語る"
+    },
+    {
+      "$id": 13,
+      "label": "qev087102_MSG0007",
+      "style": 0,
+      "name": "そうね[ST:wide ]―　敵にまわしたら\nあれほど恐ろしい相手はいないわ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087102_MSG0008",
+      "style": 0,
+      "name": "うーん　そんなのいましたですも？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087102_MSG0009",
+      "style": 0,
+      "name": "なんだか　どこかで聞いたような\n気がするですも　わかりやすい説明ですも！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087102_MSG0009_m",
+      "style": 0,
+      "name": "なんだか　どこかで聞いたような\n気がするですも　わかりやすい説明ですも！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087102_MSG0009_f",
+      "style": 0,
+      "name": "なんだか　どこかで聞いたような\n気がするですも　わかりやすい説明ですも！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087102_MSG0010",
+      "style": 0,
+      "name": "でもそんなの　どこで会ったですも？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087102_MSG0011",
+      "style": 0,
+      "name": "うわー　なんだか聞いてるだけで\nムカついてくる連中ですも！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087102_MSG0012",
+      "style": 0,
+      "name": "それはノポン人のことでしょ！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087102_MSG0013",
+      "style": 0,
+      "name": "あれ～？\nじゃあ　ラース人ってどんな奴らですも？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087102_MSG0014",
+      "style": 0,
+      "name": "もう！\nほら　白樹の大陸で襲ってきた異星人よ！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087102_MSG0015",
+      "style": 0,
+      "name": "ああ　このワンコさんなら知ってるですも[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087102_MSG0016",
+      "style": 0,
+      "name": "フロンティアネットが拾った交戦記録から\n最近頻発していたグロウス同士の戦闘の全てが[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087102_MSG0017",
+      "style": 0,
+      "name": "ラース人とそれ以外の異星人との\n戦闘だと分かった[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087102_MSG0018",
+      "style": 0,
+      "name": "これはただの内部抗争ではない[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087102_MSG0019",
+      "style": 0,
+      "name": "おそらくはラース人が\nグロウスからの離反を企てた[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087102_MSG0019_2",
+      "style": 0,
+      "name": "そう私は考えている[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev087102_JNK0040",
+      "style": 4,
+      "name": "和平"
+    },
+    {
+      "$id": 30,
+      "label": "qev087102_SEL0041",
+      "style": 3,
+      "name": "味方に引き込む提案をする"
+    },
+    {
+      "$id": 31,
+      "label": "qev087102_JNK0050",
+      "style": 4,
+      "name": "交戦"
+    },
+    {
+      "$id": 32,
+      "label": "qev087102_SEL0051",
+      "style": 3,
+      "name": "これを機にラース人を滅ぼす"
+    },
+    {
+      "$id": 33,
+      "label": "qev087102_MSG0020",
+      "style": 0,
+      "name": "離反が本当なら　それも可能かもしれないわね[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087102_MSG0021",
+      "style": 0,
+      "name": "ラース人の行動原理は\nグロウスの他の種族とは異なるように見えた[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087102_MSG0022",
+      "style": 0,
+      "name": "彼らの正義が私達と同じところにあるなら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev087102_MSG0023",
+      "style": 0,
+      "name": "ふむ　確かにそういう考え方もあるな[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev087102_MSG0024",
+      "style": 0,
+      "name": "そんな[ST:wide ]―　グロウスと戦ってるなら\nもう私達の敵ではないじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev087102_MSG0025",
+      "style": 0,
+      "name": "そうね[ST:wide ]―　いたずらに敵を増やすのは\n賢いやり方じゃないわね[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev087102_MSG0026",
+      "style": 0,
+      "name": "ラース人の行動原理は\nグロウスの他の種族とは異なるように見えた[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev087102_MSG0027",
+      "style": 0,
+      "name": "彼らの正義が私達と同じところにあるなら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev087102_MSG0028",
+      "style": 0,
+      "name": "地球には　敵の敵は味方\nという言葉もある[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev087102_MSG0029",
+      "style": 0,
+      "name": "彼らと友好的な関係を築くことができれば\n有意義なことではないかね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev087102_MSG0030",
+      "style": 0,
+      "name": "もちろん[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev087102_MSG0031",
+      "style": 0,
+      "name": "敵だの味方だのという功利的な観点だけでなく\n私達は友人を増やしていくべきだと思う[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev087102_MSG0032",
+      "style": 0,
+      "name": "それでは　私から新たな任務を与える[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev087102_MSG0033",
+      "style": 0,
+      "name": "確認されたラース人とグロウスの\n交戦エリアに赴き　データを集めてくるのだ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev087102_MSG0034",
+      "style": 0,
+      "name": "了解です！[ST:wait ]"
+    }
+  ]
+}

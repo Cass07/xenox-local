@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04500100_MSG0001",
+      "style": 0,
+      "name": "라이프 포인트는 이 앞에 있는 것 같은데요……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04500100_MSG0002",
+      "style": 0,
+      "name": "이 바위산을 넘어가는 건가모!?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04500100_MSG0003",
+      "style": 0,
+      "name": "무, 무, 무, 무리다모!\n이 연약한 타츠는 절~대로 못 넘는다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs04500100_MSG0004",
+      "style": 0,
+      "name": "연약하다니……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs04500100_MSG0005",
+      "style": 0,
+      "name": "하지만 타츠가 아니더라도\n이 바위산을 넘어가기는 힘들 것 같긴 해요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs04500100_MSG0006",
+      "style": 0,
+      "name": "그렇네, 조금 오래 걸리겠지만[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs04500100_MSG0007",
+      "style": 0,
+      "name": "저쪽으로 돌아서 가자[ST:wait ]"
+    }
+  ]
+}

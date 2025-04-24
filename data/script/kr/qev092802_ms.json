@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092802_MSG0010",
+      "style": 0,
+      "name": "아, 와 주었군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092802_JNK0020",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 3,
+      "label": "qev092802_SEL0030",
+      "style": 3,
+      "name": "무슨 일이냐며 미심쩍게 묻는다"
+    },
+    {
+      "$id": 4,
+      "label": "qev092802_MSG0040",
+      "style": 0,
+      "name": "그렇게 긴장하지 않아도 돼\n의견을 조금 듣고 싶을 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092802_JNK0050",
+      "style": 4,
+      "name": "농담"
+    },
+    {
+      "$id": 6,
+      "label": "qev092802_SEL0060",
+      "style": 3,
+      "name": "심심한 참이었다고 말한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev092802_MSG0070",
+      "style": 0,
+      "name": "블레이드가 심심하다는 건 좋은 일이야\n평화롭다는 증거니까[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092802_MSG0080",
+      "style": 0,
+      "name": "아무튼 흐레스벨그 말인데……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092802_MSG0090",
+      "style": 0,
+      "name": "그 기체에는 특수한 기구가 있다고……\n전에 말한 건 기억하고 있나?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092802_MSG0100",
+      "style": 0,
+      "name": "현재 돌 플라이트 커스텀의 도입으로\n돌의 비행 기능이 표준화되었지만……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092802_MSG0110",
+      "style": 0,
+      "name": "우리 흐레스벨그는 보다 뛰어난\n공중 기동을 가능하게 하는[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092802_MSG0120",
+      "style": 0,
+      "name": "\"순항 형태\"로 변형할 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092802_MSG0130",
+      "style": 0,
+      "name": "다시 말해 비행 중에는\n돌이 전투기로 변신한다는 뜻이다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092802_MSG0140",
+      "style": 0,
+      "name": "어때, 굉장하지?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092802_MSG0150",
+      "style": 0,
+      "name": "순항 형태 가변 시스템은\n완성이 눈앞에 다가왔지만[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092802_MSG0160",
+      "style": 0,
+      "name": "마지막 조정이 잘 안되고 있어……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092802_MSG0170",
+      "style": 0,
+      "name": "그래서 무언가 새로운 견해를 얻기 위해\n블레이드인 당신에게 상담을……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092802_MSG0180",
+      "style": 0,
+      "name": "참으로 구제 불능이군[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092802_MSG0190",
+      "style": 0,
+      "name": "돌 플라이트라는 유일무이한 기술은\n머리에 피도 안 마른 꼬마보다 뒤처지고……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092802_MSG0200",
+      "style": 0,
+      "name": "타개책이 있다고 해서 와 봤더니\n비전문가인 외부인에게 도움을 청하고 있군……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092802_MSG0210",
+      "style": 0,
+      "name": "정말…… 정말 구제 불능이야\n개발자의 긍지도 없는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092802_MSG0220",
+      "style": 0,
+      "name": "돌을 실전 운용 중인 사람의 의견이다\n들어 볼 가치는 있어[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092802_MSG0230",
+      "style": 0,
+      "name": "그리고 뒤처졌다고 말하던데\n애초에 우리는 경쟁하는 게……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092802_MSG0240",
+      "style": 0,
+      "name": "그러한 인식부터가 구제 불능이라는 거다![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092802_MSG0250",
+      "style": 0,
+      "name": "[ST:undisp ]……![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092802_MSG0260",
+      "style": 0,
+      "name": "이건 말할 것도 없이 기업 간의 경쟁이다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092802_MSG0270",
+      "style": 0,
+      "name": "기술 혁신이란\n언제나 경쟁 속에서 태어나는 법![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092802_MSG0280",
+      "style": 0,
+      "name": "정말이지…… 자네라면 해낼 거라 믿고\n주임 자리를 맡겼는데 말일세, 아리샤 양[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092802_MSG0290",
+      "style": 0,
+      "name": "[ST:undisp ]……![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092802_MSG0300",
+      "style": 0,
+      "name": "타 회사에 추월당하기 전에 완성시키지 못하면\n지금까지 쌓아 온 모든 것이 헛수고가 된다[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092802_MSG0310",
+      "style": 0,
+      "name": "지금 당장 현장으로 복귀하여\n순항 형태를 완성해라, 알겠나?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092802_MSG0320",
+      "style": 0,
+      "name": "아, 네……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092802_MSG0330",
+      "style": 0,
+      "name": "부장, 아리샤는 미라에 도착한 이후로\n줄곧 개발실에 틀어박혀 있었어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092802_MSG0340",
+      "style": 0,
+      "name": "이제는 휴식이……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092802_MSG0350",
+      "style": 0,
+      "name": "고작 테스트 파일럿 주제에\n상사인 내 결정에 토를 달겠다는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092802_MSG0360",
+      "style": 0,
+      "name": "아리샤는……![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092802_MSG0370",
+      "style": 0,
+      "name": "당장……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092802_MSG0380",
+      "style": 0,
+      "name": "당장 완성하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092802_MSG0390",
+      "style": 0,
+      "name": "뭐, 아리샤……?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092802_MSG0400",
+      "style": 0,
+      "name": "……실례하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092802_MSG0410",
+      "style": 0,
+      "name": "아리샤!![ST:wait ]"
+    }
+  ]
+}

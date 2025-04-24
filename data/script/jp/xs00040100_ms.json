@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00040100_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―外部入力を受けつけました[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00040100_MSG0002",
+      "style": 0,
+      "name": "１０秒後にスリープを解除[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs00040100_MSG0003",
+      "style": 0,
+      "name": "７　６　５　４　３　２　１[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00040100_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―ハッチ開放します[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs00040100_MSG0005",
+      "style": 0,
+      "name": "[ST:wide ]―よかった\nまだ生き残りがいたのね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs00040100_MSG0006",
+      "style": 0,
+      "name": "大丈夫？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs00040100_MSG0007",
+      "style": 0,
+      "name": "あまり無理しない方がいいわ\nたった今　目覚めたばかりなんだから[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs00040100_MSG0008",
+      "style": 0,
+      "name": "この辺りに落ちていたのは\nあなたのポッドだけ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs00040100_MSG0009",
+      "style": 0,
+      "name": "見つけられてよかったわ\n私はエルマ　あなた名前は？[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs00040100_MSG0011",
+      "style": 0,
+      "name": "自分の名前が分からないの？\n記憶障害ということかしら[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs00040100_MSG0012",
+      "style": 0,
+      "name": "困ったわね[ST:wide ]―\n本当に何も思い出せない？[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs00040100_MSG0013",
+      "style": 0,
+      "name": "いい名前ね\n他のことはどう？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs00040100_MSG0014",
+      "style": 0,
+      "name": "そう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs00040100_MSG0014_2",
+      "style": 0,
+      "name": "あなたの状況については\n少しずつ教えてあげるわ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs00040100_MSG0015",
+      "style": 0,
+      "name": "どう　動けそう？[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs00040100_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 17,
+      "label": "xs00040100_SEL0011",
+      "style": 3,
+      "name": "うなずいて微笑む"
+    },
+    {
+      "$id": 18,
+      "label": "xs00040100_JNK0020",
+      "style": 4,
+      "name": "黙考"
+    },
+    {
+      "$id": 19,
+      "label": "xs00040100_SEL0021",
+      "style": 3,
+      "name": "目を伏せ体調について考える"
+    },
+    {
+      "$id": 20,
+      "label": "xs00040100_MSG0016",
+      "style": 0,
+      "name": "目覚めたばかりなんだから無理はしないでね\nゆっくりでいいから行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs00040100_MSG0017",
+      "style": 0,
+      "name": "とりあえず装備品をいくつか渡しておくわ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs00040100_MSG0019",
+      "style": 0,
+      "name": "まずは　この渓谷を抜けましょう[ST:wait ]"
+    }
+  ]
+}

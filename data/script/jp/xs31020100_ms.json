@@ -1,0 +1,330 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31020100_MSG0010",
+      "style": 0,
+      "name": "消えたとは？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31020100_MSG0020",
+      "style": 0,
+      "name": "どういうことだ？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31020100_MSG0030",
+      "style": 0,
+      "name": "正体不明の消失現象が\nこのミラのあちこちで発生しているらしい[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31020100_MSG0040",
+      "style": 0,
+      "name": "消失現象？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs31020100_MSG0050",
+      "style": 0,
+      "name": "各地で同時多発的に発生したこの現象は[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs31020100_MSG0060",
+      "style": 0,
+      "name": "あらゆる物を飲み込みながら\n領域を拡大している[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs31020100_MSG0070",
+      "style": 0,
+      "name": "飲み込まれた後には物質はおろか\n電磁波一つ残されず[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs31020100_MSG0080",
+      "style": 0,
+      "name": "まさに消えたと表現するしかない[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs31020100_MSG0090",
+      "style": 0,
+      "name": "ただの自然災害ではなさそうね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs31020100_MSG0100",
+      "style": 0,
+      "name": "現象はまだ局地的で\n拡大も極めて緩やかだが[ST:wide ]─[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs31020100_MSG0110",
+      "style": 0,
+      "name": "その領域はいずれ\nこのＮＬＡにも及ぶことになるかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs31020100_MSG0120",
+      "style": 0,
+      "name": "ＮＬＡも消えちゃうってことですか！？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs31020100_MSG0130",
+      "style": 0,
+      "name": "大変ですも！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs31020100_MSG0140",
+      "style": 0,
+      "name": "すぐに逃げ出す準備を始めるですも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs31020100_MSG0150",
+      "style": 0,
+      "name": "逃げるってどこへ？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs31020100_MSG0160",
+      "style": 0,
+      "name": "あちこちで起きているんだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs31020100_MSG0170",
+      "style": 0,
+      "name": "どこへ行ったっておんなじだろ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs31020100_MSG0180",
+      "style": 0,
+      "name": "どんなものでも飲みこむんじゃ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs31020100_MSG0185",
+      "style": 0,
+      "name": "防波堤作っても無駄っすね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs31020100_MSG0190",
+      "style": 0,
+      "name": "故事に言う　暖簾に腕押し[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs31020100_MSG0200",
+      "style": 0,
+      "name": "まずは詳細な調査が必要ね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs31020100_MSG0210",
+      "style": 0,
+      "name": "現象が顕著に見られる所を調べましょう[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs31020100_MSG0220",
+      "style": 0,
+      "name": "だな[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs31020100_MSG0230",
+      "style": 0,
+      "name": "くれぐれも注意してくれ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs31020100_MSG0240",
+      "style": 0,
+      "name": "何が起こってるか本当にわからない[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs31020100_MSG0250",
+      "style": 0,
+      "name": "ああ　だがこの星に来て[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs31020100_MSG0260",
+      "style": 0,
+      "name": "そういう事態ではなかったことの方が\n珍しいがな[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs31020100_MSG0270",
+      "style": 0,
+      "name": "まったくね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs31020100_MSG0280",
+      "style": 0,
+      "name": "だからこそ人生は素晴らしいと言えます！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs31020100_MSG0290",
+      "style": 0,
+      "name": "故事に言う　終わり良ければすべて良し[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs31020100_MSG0300",
+      "style": 0,
+      "name": "まだ始まったばかりだけどな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs31020100_MSG0310",
+      "style": 0,
+      "name": "あははは[ST:wide ]─[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs31020100_MSG0311",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "xs31020100_MSG0312",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "xs31020100_MSG0313",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "xs31020100_MSG0314",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "xs31020100_MSG0315",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "xs31020100_MSG0316",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "xs31020100_MSG0317",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "xs31020100_MSG0318",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "xs31020100_MSG0320",
+      "style": 0,
+      "name": "セントラルライフの調査どころでは\nなくなったわね[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs31020100_MSG0330",
+      "style": 0,
+      "name": "どちらも命に関わることだが[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs31020100_MSG0340",
+      "style": 0,
+      "name": "セントラルライフの調査結果で\n我々が生き延びることができたとしても[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs31020100_MSG0350",
+      "style": 0,
+      "name": "この消失現象でミラがなくなってしまってはな[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs31020100_MSG0360",
+      "style": 0,
+      "name": "隊員にはひとまず\n調査の続行だけを告知しておく[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs31020100_MSG0370",
+      "style": 0,
+      "name": "ああ　頼む[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs31020100_MSG0380",
+      "style": 0,
+      "name": "パニックになるよりはましだな[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs31020100_MSG0390",
+      "style": 0,
+      "name": "エルマさん？[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs31020100_MSG0400",
+      "style": 0,
+      "name": "私にはね　リン[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs31020100_MSG0410",
+      "style": 0,
+      "name": "今起きていることは別々の事象ではなくて[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs31020100_MSG0415",
+      "style": 0,
+      "name": "実は全部つながっている[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs31020100_MSG0420",
+      "style": 0,
+      "name": "[ST:wide ]─そんな気がするのよ[ST:wait ]"
+    }
+  ]
+}

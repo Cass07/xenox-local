@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091803_MSG0001",
+      "style": 0,
+      "name": "데일 기번……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091803_MSG0002",
+      "style": 0,
+      "name": "모습이 달라져도 알 수 있어, 구역질이 날 만큼\n역겨운 분위기가 감돌고 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091803_MSG0003",
+      "style": 0,
+      "name": "그 이름으로 불리는 건 오랜만인데\n이제야 날 찾았군, 아가씨[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091803_MSG0004",
+      "style": 0,
+      "name": "내 열렬한 애정 공세를\n전혀 눈치채지 못할 줄이야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091803_MSG0005",
+      "style": 0,
+      "name": "헛소리하지 마, 내가 당신의 살기를\n눈치채지 못할 정도로 둔감한 줄 알아?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091803_MSG0006",
+      "style": 0,
+      "name": "날 알게 된 건 최근이겠지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091803_MSG0007",
+      "style": 0,
+      "name": "총명한 아가씨네……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091803_MSG0008",
+      "style": 0,
+      "name": "맞아, 설마 에핀저 가문의 딸이\n살아 있을 거라고는 생각도 못 했거든[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091803_MSG0009",
+      "style": 0,
+      "name": "그건 내가 할 말이야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091803_MSG0010",
+      "style": 0,
+      "name": "사형당했어야 할 당신이\n어째서 여기 있는 거지?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091803_MSG0011",
+      "style": 0,
+      "name": "교도소에도 썩은 인간은 있어\n흰고래도 마찬가지고[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091803_MSG0012",
+      "style": 0,
+      "name": "죽는 게 무서워서 도망친 거구나[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091803_MSG0013",
+      "style": 0,
+      "name": "당연하잖아, 내 전문은 죽이는 거지\n죽는 게 아니란 말이야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091803_MSG0014",
+      "style": 0,
+      "name": "인간쓰레기들과 거래하고 뇌물을 바쳐서\n흰고래의 크루가 되어 살아남았어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091803_MSG0015",
+      "style": 0,
+      "name": "하지만 B.B.인 채로 산다는 건\n죽은 것과 다를 게 없더라[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091803_MSG0016",
+      "style": 0,
+      "name": "주변 인간들은 모르는 녀석들뿐이고\n진짜로 사람인 건지도 의심스럽거든[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091803_MSG0017",
+      "style": 0,
+      "name": "수준 높은 AI일지도 모르잖아\n아니면 잘 만들어진 인형이든가[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091803_MSG0018",
+      "style": 0,
+      "name": "혹시 여기서 살아 있는 인간은\n나 하나뿐인 게 아닐까 생각했었어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091803_MSG0019",
+      "style": 0,
+      "name": "의외로 감성이 풍부하네[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091803_MSG0020",
+      "style": 0,
+      "name": "그러니까 사람을 죽이는 거지\n감성부터 평범하지 않으니까[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091803_MSG0021",
+      "style": 0,
+      "name": "그래서, 당신 같은 시대착오적인 인간이\n어째서 다시 살인을 한 거지?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091803_MSG0022",
+      "style": 0,
+      "name": "말했잖아? 주변 녀석들은 다 인형이라고……\n죽일 가치도 없다고 생각했었는데[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091803_MSG0023",
+      "style": 0,
+      "name": "알 것 같네…… 그러다가 날 발견했구나[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091803_MSG0024",
+      "style": 0,
+      "name": "그래…… 건방지게도\n살인자를 자칭하는 대담한 여자[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091803_MSG0025",
+      "style": 0,
+      "name": "B.B.가 됐지만 얼굴을 보고 알았지\n그때랑 똑같았거든[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091803_MSG0026",
+      "style": 0,
+      "name": "소변을 지리며 부들부들 떨던\n그때의 아가씨랑 말이야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091803_MSG0027",
+      "style": 0,
+      "name": "그 후로 내겐 희망이 샘솟았어[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091803_MSG0028",
+      "style": 0,
+      "name": "에핀저 가문의 아가씨를 죽인다는\n꿈을 꿀 수 있게 됐다고[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091803_MSG0029",
+      "style": 0,
+      "name": "내가 당신의 꿈이라니 영광인걸[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091803_MSG0030",
+      "style": 0,
+      "name": "하지만 이제 몇 분 후면\n난 당신의 악몽이 될 거야[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091803_MSG0031",
+      "style": 0,
+      "name": "하하…… 옆에 있는 인형과 함께\n고통 속에서 죽게 해 주마![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091803_MSG0032",
+      "style": 0,
+      "name": "이럴 리가……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091803_MSG0033",
+      "style": 0,
+      "name": "난 네가 공포에 떨며 절망하는 모습을\n보고 싶었을 뿐인데……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091803_MSG0034",
+      "style": 0,
+      "name": "어때? 무서우려나?\n죽음이 다가오는 게 느껴져?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091803_MSG0035",
+      "style": 0,
+      "name": "주, 죽일 셈이냐?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091803_MSG0036",
+      "style": 0,
+      "name": "당신이 지금까지 한 짓을 생각해 봐[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091803_MSG0037",
+      "style": 0,
+      "name": "……지, 지금까지 살인을\n저지른 적은 없었잖아?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091803_MSG0038",
+      "style": 0,
+      "name": "여기서 살인자……\n머더레스라는 이름처럼 되겠다는 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091803_MSG0039",
+      "style": 0,
+      "name": "난 당신을 죽이고 싶을 만큼 증오했어……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091803_MSG0040",
+      "style": 0,
+      "name": "하지만 아이러니하게도 무력한 아가씨였던 나를\n강하게 만든 건 당신이라는 살인자였지[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091803_MSG0041",
+      "style": 0,
+      "name": "난 그 증오스러운 이름을 짊어지고\n고통을 힘으로 바꿔 지금까지 살아남을 수 있었어[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091803_MSG0042",
+      "style": 0,
+      "name": "그러면…… 날 살려 주겠지?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091803_MSG0043",
+      "style": 0,
+      "name": "네가 지금 여기에 있는 건\n다 내 덕분이니까[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091803_MSG0044",
+      "style": 0,
+      "name": "웃기지도 않는 농담 집어치워[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091803_MSG0045",
+      "style": 0,
+      "name": "내가 여기 있는 건 엘레오노라와\n이리나 그리고 너……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091803_MSG0045_m",
+      "style": 0,
+      "name": "내가 여기 있는 건 엘레오노라와\n이리나 그리고 너……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091803_MSG0045_f",
+      "style": 0,
+      "name": "내가 여기 있는 건 엘레오노라와\n이리나 그리고 너……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091803_MSG0046",
+      "style": 0,
+      "name": "날 믿어 준 그런 사람들 덕분이야[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091803_JNK0010",
+      "style": 4,
+      "name": "감탄"
+    },
+    {
+      "$id": 50,
+      "label": "qev091803_SEL0011",
+      "style": 3,
+      "name": "개과천선한 것에 감탄한다"
+    },
+    {
+      "$id": 51,
+      "label": "qev091803_JNK0020",
+      "style": 4,
+      "name": "확인"
+    },
+    {
+      "$id": 52,
+      "label": "qev091803_SEL0021",
+      "style": 3,
+      "name": "죽이지 않아도 괜찮은지 확인한다"
+    },
+    {
+      "$id": 53,
+      "label": "qev091803_MSG0047",
+      "style": 0,
+      "name": "처음부터 난 살인자가 아니라고 했잖아?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091803_MSG0048",
+      "style": 0,
+      "name": "이번에도 그 선을 넘지 않는\n아슬아슬한 방법을 고를 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091803_MSG0049",
+      "style": 0,
+      "name": "죽여 봤자 아무것도\n변하지 않는다는 건 알고 있어[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091803_MSG0050",
+      "style": 0,
+      "name": "그러니 지금은, 후회하지 않을 방법을 선택하겠어[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091803_MSG0051",
+      "style": 0,
+      "name": "나는 당신한테 손대지 않아[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091803_MSG0052",
+      "style": 0,
+      "name": "하지만 데일 기번은 죽을 거야\n이 미라의 대지에서[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091803_MSG0053",
+      "style": 0,
+      "name": "설마…… 이런 곳에 두고 가겠다는 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091803_MSG0054",
+      "style": 0,
+      "name": "무슨 짓이든 할 테니 목숨만은 살려 줘……!!\nNLA로 데리고 가 달라고!![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091803_MSG0055",
+      "style": 0,
+      "name": "죄인인 당신이 돌아갈 곳 따윈 애초부터 없었어[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091803_MSG0056",
+      "style": 0,
+      "name": "자, 이리나한테 돌아가자[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091803_MSG0057",
+      "style": 0,
+      "name": "돌아와 줘! 샤론!![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev091803_MSG0058",
+      "style": 0,
+      "name": "그래, 난 샤론 B 에핀저[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev091803_MSG0059",
+      "style": 0,
+      "name": "하지만 또 하나의 꿈을 이룰 때까지\n진짜 이름은 봉인하기로 했어[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev091803_MSG0060",
+      "style": 0,
+      "name": "그아아아아아아악……!![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev091803_MSG0061",
+      "style": 0,
+      "name": "멈춰어어어어……!![ST:wait ]"
+    }
+  ]
+}

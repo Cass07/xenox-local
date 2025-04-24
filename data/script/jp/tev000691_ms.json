@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000691_MSG0001",
+      "style": 1,
+      "name": "よう　[ST:playername ]か\n……こんなところまでご苦労なこったな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000691_MSG0002",
+      "style": 1,
+      "name": "今日は飲んでも飲んでも酔いやしねぇ……\nまったくイラつく日だ……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000691_MSG0003",
+      "style": 1,
+      "name": "まさかスコッチを飲み飽きるってことが\nあるとはな……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000691_MSG0004",
+      "style": 1,
+      "name": "お前さんのオススメはなんだ？\n今度はそいつで酔えるか試してみる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000691_JNK0010",
+      "style": 4,
+      "name": "ビール"
+    },
+    {
+      "$id": 6,
+      "label": "tev000691_SEL0011",
+      "style": 3,
+      "name": "一般的なビールを勧める"
+    },
+    {
+      "$id": 7,
+      "label": "tev000691_JNK0020",
+      "style": 4,
+      "name": "カクテル"
+    },
+    {
+      "$id": 8,
+      "label": "tev000691_SEL0021",
+      "style": 3,
+      "name": "オシャレなカクテルを勧める"
+    },
+    {
+      "$id": 9,
+      "label": "tev000691_JNK0030",
+      "style": 4,
+      "name": "ワイン"
+    },
+    {
+      "$id": 10,
+      "label": "tev000691_SEL0031",
+      "style": 3,
+      "name": "上品なワインを勧める"
+    },
+    {
+      "$id": 11,
+      "label": "tev000691_JNK0040",
+      "style": 4,
+      "name": "ウォッカ"
+    },
+    {
+      "$id": 12,
+      "label": "tev000691_SEL0041",
+      "style": 3,
+      "name": "激辛のウォッカを勧める"
+    },
+    {
+      "$id": 13,
+      "label": "tev000691_JNK0050",
+      "style": 4,
+      "name": "サケ"
+    },
+    {
+      "$id": 14,
+      "label": "tev000691_SEL0051",
+      "style": 3,
+      "name": "純度の高い日本酒を勧める"
+    },
+    {
+      "$id": 15,
+      "label": "tev000691_JNK0060",
+      "style": 4,
+      "name": "不明"
+    },
+    {
+      "$id": 16,
+      "label": "tev000691_SEL0061",
+      "style": 3,
+      "name": "未成年のため飲めないから\n分からないと答える"
+    },
+    {
+      "$id": 17,
+      "label": "tev000691_MSG0005",
+      "style": 1,
+      "name": "ビールか[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000691_MSG0006",
+      "style": 1,
+      "name": "ビール飲むのはアメフトを観戦するときだけ\nって決めてるんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000691_MSG0007",
+      "style": 1,
+      "name": "まっ　試してみるか[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000691_MSG0008",
+      "style": 1,
+      "name": "甘い　甘っちょろいなぁ\nけど　ま　お前さんには合ってそうだ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000691_MSG0009",
+      "style": 1,
+      "name": "十数年飲んじゃいないが\n試してみるのもいいかもしれないな[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000691_MSG0010",
+      "style": 1,
+      "name": "ワインか\n俺の暮らしと一番縁遠い代物だな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000691_MSG0011",
+      "style": 1,
+      "name": "いや　だからこそ　飲んでみりゃ\n酔えるかもしれねぇな[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000691_MSG0012",
+      "style": 1,
+      "name": "ありゃいいもんだ\nそうか　お前さんも好きか[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000691_MSG0013",
+      "style": 1,
+      "name": "ウォッカならNLAでも入手しやすいし\n手軽なのがいいんだよな[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000691_MSG0014",
+      "style": 1,
+      "name": "えらく渋い趣味だな\nナギ軍務長官と気が合うだろうな[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000691_MSG0015",
+      "style": 1,
+      "name": "俺は苦手なんだが[ST:wide ]―\nでも　お前さんが勧めるなら飲んでみるか[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000691_MSG0016",
+      "style": 1,
+      "name": "そうか酒は飲めないんだったな\nすまねぇ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000691_MSG0017",
+      "style": 1,
+      "name": "[ST:wide ]―そうだ\nお前と話してたら閃いたぜ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000691_MSG0018",
+      "style": 1,
+      "name": "酔える酒がないなら\n酔える酒を作ればいいんだよな？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000691_MSG0019",
+      "style": 1,
+      "name": "ミラには地球にはないヘンな果実やら穀物が\n生えてるだろ？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000691_MSG0020",
+      "style": 1,
+      "name": "インターセプターの任務のついでにでも\nあれを集めて　まったく新しい酒を\n作ればいいんだよな[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000691_MSG0021",
+      "style": 1,
+      "name": "まさか飲む立場から作る立場になろうとは\n思ってもいなかったが　イライラしてたのが\nちょっと収まった気分だぜ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000691_MSG0022",
+      "style": 1,
+      "name": "お前さんが声を掛けてくれてよかった\nありがとな[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000691_MSG0023",
+      "style": 1,
+      "name": "じゃ　俺はもう一回飲みなおしながら\n今後の計画を練ることにする[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000691_MSG0024",
+      "style": 1,
+      "name": "また任務でな[ST:wait ]"
+    }
+  ]
+}

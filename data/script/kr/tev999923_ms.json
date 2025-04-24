@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999923_JNK0020",
+      "style": 4,
+      "name": "유니언 서포트[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev999923_SEL0021",
+      "style": 3,
+      "name": "유니언의 지원을 받는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev999923_JNK0030",
+      "style": 4,
+      "name": "배틀 멤버에 넣는다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999923_SEL0031",
+      "style": 3,
+      "name": "활동 중인 블레이드 대원[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999923_MSG0001",
+      "style": 1,
+      "name": "어머? 안녕하세요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999923_MSG0101",
+      "style": 1,
+      "name": "어머나, 안녕하세요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999923_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999923_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999923_MSG2001",
+      "style": 1,
+      "name": "유니언의 지원이 필요하신 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999923_MSG2101",
+      "style": 1,
+      "name": "설령 멀리 떨어져 있다 해도\n제 유니언이 전력을 다해 지원할 거예요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999923_MSG3001",
+      "style": 1,
+      "name": "자, 가죠[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999923_MSG3101",
+      "style": 1,
+      "name": "당신과 함께할 수 있다니\n영광이에요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999923_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999923_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999923_MSG5001",
+      "style": 1,
+      "name": "죄송하지만\n나중에 말씀해 주시겠어요?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999923_MSG5101",
+      "style": 1,
+      "name": "지금 당장이라도 대응해 드리고 싶지만\n여유가 없어서……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev999923_MSG5102",
+      "style": 1,
+      "name": "죄송하지만\n나중에 말씀해 주시겠어요?[ST:wait ]"
+    }
+  ]
+}

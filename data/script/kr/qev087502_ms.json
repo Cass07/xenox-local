@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087502_MSG0001",
+      "style": 0,
+      "name": "대단하다![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087502_MSG0001_2",
+      "style": 0,
+      "name": "이거, 백팩과 일체화된 빔 포인가요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087502_MSG0002",
+      "style": 0,
+      "name": "그래, 아직 테스트 단계지만[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087502_MSG0003",
+      "style": 0,
+      "name": "우와, 이런 고출력 하전 입자 커패시터를\n싣고 있다니……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087502_MSG0004",
+      "style": 0,
+      "name": "대단하지?\n이게 있으면 보급 없이 한 달은 싸울 수 있네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087502_MSG0005",
+      "style": 0,
+      "name": "네에~~?\n그렇게 쓰기엔 아깝지 않나요!?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087502_MSG0006",
+      "style": 0,
+      "name": "린……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087502_MSG0007",
+      "style": 0,
+      "name": "아, 괜찮네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087502_MSG0008",
+      "style": 0,
+      "name": "흠, 너라면 어떻게 사용할 테냐?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087502_MSG0009",
+      "style": 0,
+      "name": "사격 횟수를 늘리기보다\n공격력을 높이는 게 좋다고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087502_MSG0010",
+      "style": 0,
+      "name": "이봐, 이 이상 출력을 높여서 뭘 어쩌게?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087502_MSG0011",
+      "style": 0,
+      "name": "800기가 더 높이면 그로우스가 사용하는\n빔 코팅층도 뚫을 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087502_MSG0012",
+      "style": 0,
+      "name": "그러면 열방사가 너무 심해지지 않나[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087502_MSG0013",
+      "style": 0,
+      "name": "배럴 재킷의 전도체 재질을\n변형하는 걸로 어떻게 안 될까요?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087502_MSG0014",
+      "style": 0,
+      "name": "배럴 재킷의 전도체 말인가\n그렇군[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087502_MSG0015",
+      "style": 0,
+      "name": "기술적으로 해결할 수 있을 것 같아?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087502_MSG0016",
+      "style": 0,
+      "name": "뭐, 몇 가지 과제는 있지만\n그걸 해결하면 의외로 가능할지도 모르네[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087502_MSG0017",
+      "style": 0,
+      "name": "무슨 일이든 도전해 보지 않으면\n바뀌는 건 없는 법이니까[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087502_MSG0018",
+      "style": 0,
+      "name": "맞아요![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087502_MSG0019",
+      "style": 0,
+      "name": "좋다, 해 봐라\n내가 봤을 때 문제점은 두 개가 있다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087502_MSG0020",
+      "style": 0,
+      "name": "여기 기술자들…… 그래\n알란과 브레나, 두 사람과 상의해 봐[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087502_MSG0021",
+      "style": 0,
+      "name": "좋은 해결책이 나올지도 모르지[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087502_MSG0022",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    }
+  ]
+}

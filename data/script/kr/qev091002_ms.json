@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091002_MSG0001",
+      "style": 0,
+      "name": "……이걸로 끝이군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091002_MSG0002",
+      "style": 0,
+      "name": "네 실력이 뛰어난 덕분인지\n오늘은 아주 편하게 싸웠어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091002_MSG0002_m",
+      "style": 0,
+      "name": "네 실력이 뛰어난 덕분인지\n오늘은 아주 편하게 싸웠어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091002_MSG0002_f",
+      "style": 0,
+      "name": "네 실력이 뛰어난 덕분인지\n오늘은 아주 편하게 싸웠어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091002_JNK0010",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 6,
+      "label": "qev091002_SEL0011",
+      "style": 3,
+      "name": "자신이 얼마나 도움이 됐는지 물어본다"
+    },
+    {
+      "$id": 7,
+      "label": "qev091002_JNK0020",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 8,
+      "label": "qev091002_SEL0021",
+      "style": 3,
+      "name": "이 많은 임무를 항상\n혼자서 수행하는 건지 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "qev091002_MSG0003",
+      "style": 0,
+      "name": "얼마나 도움이 됐냐고?\n그야……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091002_MSG0004",
+      "style": 0,
+      "name": "……스카치 1병 정도지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091002_MSG0005",
+      "style": 0,
+      "name": "이런, 불만스럽다는 표정이군[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091002_MSG0006",
+      "style": 0,
+      "name": "미라에서 술을 생산하는 게 얼마나 힘들지\n상상할 수 있잖아?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091002_MSG0007",
+      "style": 0,
+      "name": "내 기준으로는 라이프 다음으로\n가치 있는 물건이라고[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091002_MSG0007_02",
+      "style": 0,
+      "name": "그러니, 자랑스럽게 생각해도 돼[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091002_MSG0007_02_m",
+      "style": 0,
+      "name": "그러니, 자랑스럽게 생각해도 돼[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091002_MSG0007_02_f",
+      "style": 0,
+      "name": "그러니, 자랑스럽게 생각해도 돼[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091002_MSG0008",
+      "style": 0,
+      "name": "너와 함께라면 다음에도\n같이 임무를 하고 싶군[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091002_MSG0009",
+      "style": 0,
+      "name": "가능한 한 다른 녀석들과 같이 일하지[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091002_MSG0010",
+      "style": 0,
+      "name": "물론, 만만찮은 임무일 때는\n배짱 있는 녀석이 별로 없어서[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091002_MSG0011",
+      "style": 0,
+      "name": "혼자 싸워야 할 때도 가끔 있어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091002_MSG0012",
+      "style": 0,
+      "name": "하지만 너와 함께라면 다음에도\n같이 임무를 하고 싶군[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091002_SEL0030",
+      "style": 4,
+      "name": "동의"
+    },
+    {
+      "$id": 23,
+      "label": "qev091002_JNK0031",
+      "style": 3,
+      "name": "앞으로도 협력하자며 동의한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev091002_SEL0040",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 25,
+      "label": "qev091002_JNK0041",
+      "style": 3,
+      "name": "그보다 마시러 가자고 제안한다"
+    },
+    {
+      "$id": 26,
+      "label": "qev091002_MSG0013",
+      "style": 0,
+      "name": "우리, 마음이 잘 맞는데![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091002_MSG0014",
+      "style": 0,
+      "name": "앞으로는 너의 임무에도\n기꺼이 따라가 주지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091002_MSG0015",
+      "style": 0,
+      "name": "내가 다이너 앞에서 한가하게 있으면\n말을 걸어 줘[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091002_MSG0016",
+      "style": 0,
+      "name": "너도 참 마시는 걸 좋아하는군[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091002_MSG0017",
+      "style": 0,
+      "name": "그야 당연히 마시러 갈 거지만\n생각 있으면 네 임무에도 불러 줘[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091002_MSG0018",
+      "style": 0,
+      "name": "한가할 때는 보통 다이너에 있을 테니까[ST:wait ]"
+    }
+  ]
+}

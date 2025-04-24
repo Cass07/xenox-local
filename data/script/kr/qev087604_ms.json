@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087604_MSG0001",
+      "style": 0,
+      "name": "다행이다, 다들 기뻐하네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087604_MSG0002",
+      "style": 0,
+      "name": "라스인은 우애가 두텁지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087604_MSG0003",
+      "style": 0,
+      "name": "아파하는 전우를 구하지 못하는 상황이\n매우 고통스러웠을 거다……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087604_MSG0004",
+      "style": 0,
+      "name": "지구인들이여\n따뜻한 호의, 감사히 받겠다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087604_MSG0005",
+      "style": 0,
+      "name": "앞으로 우리 라스 백성을 친구로 여겨 다오[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087604_MSG0006",
+      "style": 0,
+      "name": "고마워, 가 델그 전하[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087604_MSG0007",
+      "style": 0,
+      "name": "단……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087604_MSG0008",
+      "style": 0,
+      "name": "그로우스를 타도할 때까지만이다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087604_MSG0009",
+      "style": 0,
+      "name": "원수를 갚은 후에는……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087604_MSG0010",
+      "style": 0,
+      "name": "약육강식의 미라에서 살아가는 자들로서\n다시 서로 싸우게 될지도 모르지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087604_MSG0024",
+      "style": 0,
+      "name": "유연"
+    },
+    {
+      "$id": 12,
+      "label": "qev087604_MSG0023",
+      "style": 0,
+      "name": "그때는 그때라며 웃어넘긴다"
+    },
+    {
+      "$id": 13,
+      "label": "qev087604_MSG0022",
+      "style": 4,
+      "name": "호전적"
+    },
+    {
+      "$id": 14,
+      "label": "qev087604_MSG0021",
+      "style": 3,
+      "name": "질 수 없다며 씩 웃는다"
+    },
+    {
+      "$id": 15,
+      "label": "qev087604_MSG0020",
+      "style": 4,
+      "name": "원만"
+    },
+    {
+      "$id": 16,
+      "label": "qev087604_MSG0019",
+      "style": 3,
+      "name": "오랫동안 협력하고 싶다며 미소 짓는다"
+    },
+    {
+      "$id": 17,
+      "label": "qev087604_MSG0011",
+      "style": 0,
+      "name": "그렇네, 그때가 오면 생각해 보자[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087604_MSG0012",
+      "style": 0,
+      "name": "그럴 수가, 괜찮은 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087604_MSG0013",
+      "style": 0,
+      "name": "타츠의 친구들은 당신들보다 강하다모![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087604_MSG0014",
+      "style": 0,
+      "name": "훗…… 알고 있기에\n더욱 그날이 기대되는 것이다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087604_MSG0015",
+      "style": 0,
+      "name": "그럴 수가, 괜찮은 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087604_MSG0016",
+      "style": 0,
+      "name": "그대들과 협력 관계에 있다는 건\n그만큼 강한 적이 존재한다는 것[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087604_MSG0017",
+      "style": 0,
+      "name": "그건 그거대로 바람직할지도 모르겠군[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087604_MSG0018",
+      "style": 0,
+      "name": "바람직하지 않아요!\n존재하지 않아도 사이좋게 지내요![ST:wait ]"
+    }
+  ]
+}

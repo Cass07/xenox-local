@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev035401_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev035401_SEL0011",
+      "style": 3,
+      "name": "다른 에어리어에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev035401_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev035401_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev035401_SEL0031",
+      "style": 3,
+      "name": "미라의 기후에 관해 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev035401_SEL0041",
+      "style": 3,
+      "name": "에너미 도감에 관해 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev035401_MSG0001",
+      "style": 1,
+      "name": "망각의 계곡에 불시착할 때\n캐프시카는 확실히 이 눈으로 봤엉[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev035401_MSG0002",
+      "style": 1,
+      "name": "새빨간 물이 흐르는 강……\n새하얀 대지…… 정말 엄청났엉![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev035401_MSG0003",
+      "style": 1,
+      "name": "본 적 없는 원시 생물이나\n본 적 없는 마테리얼 같은 게 있을 것 같아서\n두근두근하넹![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev035401_MSG0004",
+      "style": 1,
+      "name": "NLA에서 한~~~참 북쪽으로 가면\n도착하지 않을깡?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev035401_MSG0008",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev035401_MSG0009",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev035401_MSG0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev035401_MSG0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev035401_MSG0012",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev035401_MSG0020",
+      "style": 1,
+      "name": "미라의 기후 중에는\n몸에 나쁜 영향을 주는 것도 있다는뎅[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev035401_MSG0021",
+      "style": 1,
+      "name": "그 영향을 막는 디바이스가\n개발됐잖앙?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev035401_MSG0022",
+      "style": 1,
+      "name": "돈은 들지만 목숨과는 바꿀 수 없징[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev035401_MSG0025",
+      "style": 1,
+      "name": "너희들이 갖고 있는 단말기에\n에너미 도감이라는 게 있잖앙?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev035401_MSG0026",
+      "style": 1,
+      "name": "누굴 언제 어디에서 만날 수 있는지\n어떤 마테리얼을 겟할 수 있는지\n정보가 실려 있징?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev035401_MSG0027",
+      "style": 1,
+      "name": "좋넹~ 멋지넹~\n언제든지 볼 수 있는 게 부러웡~![ST:wait ]"
+    }
+  ]
+}

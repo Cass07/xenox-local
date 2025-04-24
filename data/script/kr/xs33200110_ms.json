@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33200110_MSG0010",
+      "style": 0,
+      "name": "이건……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33200110_MSG0020",
+      "style": 0,
+      "name": "흠……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33200110_MSG0025",
+      "style": 0,
+      "name": "엘마 씨, 무언가 알아내셨나요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33200110_MSG0026",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "xs33200110_MSG0030",
+      "style": 0,
+      "name": "아무래도 고대 서멀과 관련된 정보를 기록한\n데이터베이스 같네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33200110_MSG0035",
+      "style": 0,
+      "name": "고대 서멀……![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33200110_MSG0036",
+      "style": 0,
+      "name": "모못! 잘은 몰라도\n엄청난 발견이라는 느낌이 팍팍 든다모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33200110_MSG0040",
+      "style": 0,
+      "name": "잠깐 기다려 봐[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33200110_MSG0050",
+      "style": 0,
+      "name": "뭔가 유익한 정보를 알 수 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33200110_MSG0060",
+      "style": 0,
+      "name": "단편적이기는 하지만……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33200110_MSG0070",
+      "style": 0,
+      "name": "우선 알아낸 것만 말할게[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33200110_MSG0080",
+      "style": 0,
+      "name": "이 일대는 원래 틈새의 세계에 있었고[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33200110_MSG0085",
+      "style": 0,
+      "name": "보이드를 봉인하는 역할을 했던 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33200110_MSG0090",
+      "style": 0,
+      "name": "그리고 지금 우리가 있는 구조물은[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33200110_MSG0100",
+      "style": 0,
+      "name": "고대 서멀에 의해 만들어진 봉인 기구……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33200110_MSG0110",
+      "style": 0,
+      "name": "말하자면 보이드의 힘을 억제하기 위한\n거대한 장치인 듯해[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33200110_MSG0115",
+      "style": 0,
+      "name": "이 탑, 역시\n보이드와 연관이 있었군요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33200110_MSG0120",
+      "style": 0,
+      "name": "지금은 정지 상태지만[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33200110_MSG0130",
+      "style": 0,
+      "name": "다행히 아직 동력은 살아 있어……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33200110_MSG0135",
+      "style": 0,
+      "name": "그렇다는 건……![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33200110_MSG0140",
+      "style": 0,
+      "name": "그래, 재기동하면\n보이드의 약화를 노릴 수 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33200110_MSG0150",
+      "style": 0,
+      "name": "실제로 무슨 일이 일어날지는 미지수지만[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33200110_MSG0155",
+      "style": 0,
+      "name": "시도해 볼 가치는 있어[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs33200110_MSG0160",
+      "style": 0,
+      "name": "기동할게\n만일의 사태에 대비하도록 해[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs33200110_MSG0170",
+      "style": 0,
+      "name": "모모모……!\n무, 무언가 흔들린다모![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs33200110_MSG0180",
+      "style": 0,
+      "name": "에, 엘마 씨![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs33200110_MSG0190",
+      "style": 0,
+      "name": "후퇴하자, 서둘러![ST:wait ]"
+    }
+  ]
+}

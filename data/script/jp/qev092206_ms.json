@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092206_MSG0001",
+      "style": 1,
+      "name": "フロンティアネットのシステム構築が\nどれだけ大切か[ST:wide ]―そんなの分かってますよ！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092206_MSG0002",
+      "style": 1,
+      "name": "だけど連日の残業　終わらないノルマ[ST:wide ]―！\n僕は　もう限界なんです！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092206_MSG0003",
+      "style": 1,
+      "name": "この苦しみから救い出してくれるのは\nNLAの聖母[ST:wide ]―！　ヒメリさんだけ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092206_MSG0004",
+      "style": 1,
+      "name": "頼むッ！　早く帰ってきてくださいーーーー！[ST:wait ]"
+    }
+  ]
+}

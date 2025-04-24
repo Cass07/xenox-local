@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090604_MSG0001",
+      "style": 0,
+      "name": "외계인이라는 족속은\n이 녀석이고 저 녀석이고 더러운 것들이야[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090604_MSG0002",
+      "style": 0,
+      "name": "이런 녀석들과 엮일 일은\n이제 두 번 다시 없겠지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090604_MSG0003",
+      "style": 0,
+      "name": "……자, 본래의 임무로 돌아가세[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090604_MSG0004",
+      "style": 0,
+      "name": "나무아미타불!\n제법 강력한 괴물이었네![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090604_MSG0005",
+      "style": 0,
+      "name": "조금 귀찮은 일도 있었지만\n이로써 임무 완료일세[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090604_MSG0006",
+      "style": 0,
+      "name": "자, 엘레오노라 아가씨에게\n보고하러 가세나[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090604_MSG0007",
+      "style": 0,
+      "name": "이건 대체……?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090604_MSG0008",
+      "style": 0,
+      "name": "그 제제바라는 마 논인이\n날 구해 준 것인가……?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090604_MSG0009",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090604_MSG0010",
+      "style": 0,
+      "name": "……아니, 일단 지금은 임무에 집중해야겠지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090604_MSG0011",
+      "style": 0,
+      "name": "외계인 따위에 정신을 팔다가\n크게 다치기라도 하면 안 되지 않겠나[ST:wait ]"
+    }
+  ]
+}

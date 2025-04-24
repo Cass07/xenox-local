@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001395_MSG0001",
+      "style": 1,
+      "name": "こんばんは\n[ST:playername ]さん[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001395_MSG0002",
+      "style": 1,
+      "name": "今　ロックと星を眺めているんです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001395_MSG0003",
+      "style": 1,
+      "name": "ミラの星空[ST:wide ]―とても綺麗ですよね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001395_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 5,
+      "label": "tev001395_SEL0011",
+      "style": 3,
+      "name": "セリカの星は\nどこにあるか尋ねる"
+    },
+    {
+      "$id": 6,
+      "label": "tev001395_JNK0020",
+      "style": 4,
+      "name": "悲嘆"
+    },
+    {
+      "$id": 7,
+      "label": "tev001395_SEL0021",
+      "style": 3,
+      "name": "この星空のどこにも\n地球はないと嘆く"
+    },
+    {
+      "$id": 8,
+      "label": "tev001395_MSG0004",
+      "style": 1,
+      "name": "私の星ですか[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001395_MSG0005",
+      "style": 1,
+      "name": "私の故郷は写真で見せてもらった\n地球に少し似てましたけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001395_MSG0006",
+      "style": 1,
+      "name": "ここからじゃ分かりません[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001395_MSG0007",
+      "style": 1,
+      "name": "この幾千　幾万の星々の中の一つなのか\nそれとも見えないくらいに遠くにあるのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001395_MSG0008",
+      "style": 1,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001395_MSG0009",
+      "style": 1,
+      "name": "そうでしたね[ST:wide ]―\n地球はサマールに……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001395_MSG0010",
+      "style": 1,
+      "name": "写真で見せてもらった地球の夜空は\nとても綺麗でした[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001395_MSG0011",
+      "style": 1,
+      "name": "ミラの空ほど大きな星はありませんでしたが\n数えきれないほどの小さな星が輝いていて\n[ST:wide ]―私の故郷の空に少し似ていました[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001395_MSG0012",
+      "style": 1,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001395_MSG0013",
+      "style": 1,
+      "name": "[ST:wide ]―[ST:playername ]さんは\nもしも戻れることができるのなら\n地球に戻りたいと思いますか？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001395_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 19,
+      "label": "tev001395_SEL0031",
+      "style": 3,
+      "name": "戻りたいと頷く"
+    },
+    {
+      "$id": 20,
+      "label": "tev001395_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 21,
+      "label": "tev001395_SEL0041",
+      "style": 3,
+      "name": "特に戻りたいとは思わないと\n答える"
+    },
+    {
+      "$id": 22,
+      "label": "tev001395_MSG0014",
+      "style": 1,
+      "name": "そうですよね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001395_MSG0015",
+      "style": 1,
+      "name": "例え　苛酷な状況にあっても\n自分の生まれ育った星のこと\n気にならないわけがないですよね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001395_MSG0016",
+      "style": 1,
+      "name": "私もロックもこの街　この星のことを\n気に入っていて　第二の故郷だと思っています[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001395_MSG0017",
+      "style": 1,
+      "name": "でも　いつかはこの星から旅立って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001395_MSG0018",
+      "style": 1,
+      "name": "記憶がないからでしょうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001395_MSG0019",
+      "style": 1,
+      "name": "それとも　戻ると辛いことが\nありそうだからですか[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001395_MSG0020",
+      "style": 1,
+      "name": "ロックには故郷がないんです\nそれに私の星も[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001395_MSG0021",
+      "style": 1,
+      "name": "だから　きっとあなたと同じ気持ちです[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001395_MSG0022",
+      "style": 1,
+      "name": "この街が気に入っていて　ずっとみなさんと\n一緒にいられたらいいなと思っているんです[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001395_MSG0023",
+      "style": 1,
+      "name": "この第二の故郷を守りたいっていう\n気持ちが強いんです[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001395_MSG0024",
+      "style": 1,
+      "name": "それって悪いことじゃないですよね？[ST:wait ]"
+    }
+  ]
+}

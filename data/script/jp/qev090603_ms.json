@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090603_MSG0001",
+      "style": 0,
+      "name": "確か　あの異星人が言っていた場所は\nここだよな？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090603_MSG0002",
+      "style": 0,
+      "name": "ふむ[ST:wide ]―　囚われているバイアス人など\nどこにも見受けられんが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090603_MSG0003",
+      "style": 0,
+      "name": "これは[ST:wide ]―　待ち伏せか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090603_MSG0004",
+      "style": 0,
+      "name": "あんた達のようなお人好しのマヌケが相手だと\n私らの仕事も楽でいいわ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090603_MSG0005",
+      "style": 0,
+      "name": "私の名はスタリオ\nあんたらと似たような仕事をしてるんだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090603_MSG0006",
+      "style": 0,
+      "name": "[ST:wide ]―まっ　こっちが狩ってるのは獣じゃなくて\n地球人って下等生物だけどね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090603_JNK0010",
+      "style": 4,
+      "name": "挑発"
+    },
+    {
+      "$id": 8,
+      "label": "qev090603_SEL0011",
+      "style": 3,
+      "name": "お前のような獣を狩るのも仕事の内だと挑発する"
+    },
+    {
+      "$id": 9,
+      "label": "qev090603_JNK0020",
+      "style": 4,
+      "name": "怒る"
+    },
+    {
+      "$id": 10,
+      "label": "qev090603_SEL0021",
+      "style": 3,
+      "name": "卑怯な手を使ったスタリオに怒りを示す"
+    },
+    {
+      "$id": 11,
+      "label": "qev090603_MSG0007",
+      "style": 0,
+      "name": "地球人ってのは愚かな生き物だね\n自分の立場ってもんがまるでわかってない[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090603_MSG0008",
+      "style": 0,
+      "name": "あんた達はねぇ　私達に使われ\n殺されるためだけにいる　ただの人形なんだよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090603_MSG0009",
+      "style": 0,
+      "name": "下等生物らしい反応じゃない！\nもっと憎めばいい！　殺したいと思えばいい！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090603_MSG0010",
+      "style": 0,
+      "name": "どう思ったって　あんた達みたいな人形は\n私達には勝てないんだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090603_MSG0011",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090603_MSG0012",
+      "style": 0,
+      "name": "カァーーーーーーーーッツ！！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090603_MSG0013",
+      "style": 0,
+      "name": "このような卑怯な手を使わねば\n勝負もできぬ外道がよく言う！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090603_MSG0014",
+      "style": 0,
+      "name": "ならばその人形の力　存分に見せてやろう\nどのみち異星人どもに手加減などせぬがな[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090603_MSG0015",
+      "style": 0,
+      "name": "最期くらいはホザいてればいいわ\nそれじゃ[ST:wide ]―　狩りの時間を始めましょうか！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085106_MSG0001",
+      "style": 0,
+      "name": "그 두 사람이 아니야……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085106_MSG0002",
+      "style": 0,
+      "name": "정말이네……\n그로우스의 두 사람과는 달라……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085106_MSG0003",
+      "style": 0,
+      "name": "놀라게 해서 미안해[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085106_MSG0003_2",
+      "style": 0,
+      "name": "난 엘마, 당신들은?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085106_MSG0004",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "qev085106_MSG0005",
+      "style": 0,
+      "name": "엘마 씨, 그로우스가 찾고 있던 게……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085106_MSG0006",
+      "style": 0,
+      "name": "그렇겠지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085106_MSG0007",
+      "style": 0,
+      "name": "혹시 당신들은\n그로우스에게 쫓기고 있는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085106_MSG0008",
+      "style": 0,
+      "name": "그렇다면 도움을 줄 수 있을지도 몰라\n우리는……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085106_MSG0009",
+      "style": 0,
+      "name": "지구라는 행성에서 왔어\n그로우스와는 적대적인 관계야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085106_MSG0010",
+      "style": 0,
+      "name": "정말로!?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085106_MSG0011",
+      "style": 0,
+      "name": "믿으면 안 돼, 록![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085106_MSG0012",
+      "style": 0,
+      "name": "하지만 세리카……\n이 사람들, 왠지 그 녀석들과는 분위기가 달라[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085106_MSG0013",
+      "style": 0,
+      "name": "그렇다고 해도…… 더 이상 속는 건 싫어![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085106_MSG0014",
+      "style": 0,
+      "name": "이 안에 동체 반응이 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085106_MSG0015",
+      "style": 0,
+      "name": "클루 여자와 가우르일지도 모르겠군[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085106_MSG0016",
+      "style": 0,
+      "name": "대장, 수색 목표입니다![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085106_MSG0017",
+      "style": 0,
+      "name": "어째서 지구인이!?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085106_MSG0018",
+      "style": 0,
+      "name": "지금은 후퇴한다\n본대에 지원을 요청하겠다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085106_MSG0019",
+      "style": 0,
+      "name": "저 녀석들 도망간다모![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085106_MSG0020",
+      "style": 0,
+      "name": "쫓아가자\n지원군을 부르면 귀찮아져[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085106_MSG0021",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040405_MSG0001",
+      "style": 1,
+      "name": "サツ……どこなんですかも……\nもしかして死んじゃったですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040405_JNK0010",
+      "style": 4,
+      "name": "事実"
+    },
+    {
+      "$id": 3,
+      "label": "qev040405_SEL0011",
+      "style": 3,
+      "name": "サツは見つかったと伝える"
+    },
+    {
+      "$id": 4,
+      "label": "qev040405_JNK0020",
+      "style": 4,
+      "name": "冗談"
+    },
+    {
+      "$id": 5,
+      "label": "qev040405_SEL0021",
+      "style": 3,
+      "name": "サツは旅に出てしまったと言う"
+    },
+    {
+      "$id": 6,
+      "label": "qev040405_MSG0002",
+      "style": 1,
+      "name": "信じられないですも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev040405_MSG0003",
+      "style": 1,
+      "name": "世の中　そんな素晴らしいことが\nあっていいんですかも！？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev040405_MSG0004",
+      "style": 1,
+      "name": "嘘は言わなくていいですも\nムツツにはわかっていますも[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev040405_MSG0005",
+      "style": 1,
+      "name": "サツは遠い遠い世界に\n行ってしまったんですも……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev040405_MSG0006",
+      "style": 1,
+      "name": "悲しいですも……つらいですも……\n生きているって悲しいですも……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev040405_MSG0007",
+      "style": 1,
+      "name": "こんなことならキャラバンに\nいればよかったですも[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev040405_MSG0008",
+      "style": 1,
+      "name": "……結局ムツツのしたことは徒労だったですも\n……世の中厳しいですも[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev040405_MSG0009",
+      "style": 1,
+      "name": "ん？……ほんとはサツは生きてますも？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev040405_MSG0010",
+      "style": 1,
+      "name": "だましたんですも！！\n……でもサツが生きていたんなら許しますも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev040405_MSG0011",
+      "style": 1,
+      "name": "ああ！　世界が輝いて見えますも！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev040405_MSG0012",
+      "style": 1,
+      "name": "ばんざい！　ばんざい！　ばんざい！\nノポンばんざい！\n[ST:playername ]ばんざい！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev040405_MSG0013",
+      "style": 1,
+      "name": "生きてるって素晴らしい！！\n早く帰ってサツに会うですも！[ST:wait ]"
+    }
+  ]
+}

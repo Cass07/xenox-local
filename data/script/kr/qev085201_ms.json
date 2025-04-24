@@ -1,0 +1,498 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085201_MSG0001",
+      "style": 0,
+      "name": "엘마 대령님[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085201_MSG0002",
+      "style": 0,
+      "name": "이리나, 오늘은 쉬는 날이야?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085201_MSG0003",
+      "style": 0,
+      "name": "네, 항상 팀 녀석들과 함께니까[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085201_MSG0003_2",
+      "style": 0,
+      "name": "가끔은 혼자서 식사라도 할까 했는데요……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085201_MSG0004",
+      "style": 0,
+      "name": "역시 외로워졌나요?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085201_MSG0005",
+      "style": 0,
+      "name": "어른은 그런 식으로 말 안 해[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085201_MSG0006",
+      "style": 0,
+      "name": "외로워서 밥이 목으로 안 넘어가냐모?\n그런 거라면 타츠에게 맡겨 줘모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085201_MSG0007",
+      "style": 0,
+      "name": "이리나 씨 몫까지\n타츠가 먹어 주겠다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085201_MSG0008",
+      "style": 0,
+      "name": "그런 이야기가 아니잖아![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085201_MSG0009",
+      "style": 0,
+      "name": "정말, 엘마 대령님 팀은 재미있어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085201_MSG0010",
+      "style": 0,
+      "name": "오, 이리나잖아[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085201_MSG0011",
+      "style": 0,
+      "name": "야, 중위님이라고 불러\n통합군 시절에는 사관님이셨다고[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085201_MSG0012",
+      "style": 0,
+      "name": "지금은 같은 블레이드인데 뭐[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085201_MSG0012_2",
+      "style": 0,
+      "name": "지구 시대의……\n특히 군 계급 같은 건 이제 상관없어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085201_MSG0013",
+      "style": 0,
+      "name": "그렇지? 이리나[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085201_MSG0014",
+      "style": 0,
+      "name": "그래, 네 말이 맞아[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085201_MSG0015",
+      "style": 0,
+      "name": "하지만 이리나 씨는 존경해야 해[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085201_MSG0016",
+      "style": 0,
+      "name": "그 있잖아, 그윈인가 하는 애송이나[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085201_MSG0017",
+      "style": 0,
+      "name": "쓸모없어 보이는 녀석들을 데리고\n우리보다 활약을 많이 하니까[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085201_MSG0017_2",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "qev085201_MSG0018",
+      "style": 0,
+      "name": "그만둬\n상대해 봤자 시간 낭비야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085201_MSG0019",
+      "style": 0,
+      "name": "……알겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085201_MSG0020",
+      "style": 0,
+      "name": "이리나 누님보다\n더 대단한 분이 계시네[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085201_MSG0021",
+      "style": 0,
+      "name": "오, 그러게[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085201_MSG0022",
+      "style": 0,
+      "name": "젊은 나이에 대령, 게다가 꼬마 숙녀와 노폰인을 데리고\n인기 급상승 중인 엘마 님![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085201_MSG0023",
+      "style": 0,
+      "name": "그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085201_MSG0024",
+      "style": 0,
+      "name": "어떻게 하면 그런 녀석들을 데리고 활약할 수 있는지\n비법 좀 배우고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085201_MSG0025",
+      "style": 0,
+      "name": "까불지 마![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085201_MSG0026",
+      "style": 0,
+      "name": "나에 관한 거라면\n그냥 흘려들을 생각이었지만[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085201_MSG0027",
+      "style": 0,
+      "name": "팀 멤버나 엘마 대령님을\n모욕한다면 이야기는 다르다![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085201_MSG0028",
+      "style": 0,
+      "name": "상대해 주지![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085201_MSG0029",
+      "style": 0,
+      "name": "무슨 상대를 해 준다는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085201_MSG0030",
+      "style": 0,
+      "name": "재미있네, 해보자고![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085201_JNK0010",
+      "style": 4,
+      "name": "적극"
+    },
+    {
+      "$id": 35,
+      "label": "qev085201_SEL0011",
+      "style": 3,
+      "name": "앞으로 나서서 싸울 자세를 취한다"
+    },
+    {
+      "$id": 36,
+      "label": "qev085201_JNK0020",
+      "style": 4,
+      "name": "관망"
+    },
+    {
+      "$id": 37,
+      "label": "qev085201_SEL0021",
+      "style": 3,
+      "name": "그대로 상황을 지켜본다"
+    },
+    {
+      "$id": 38,
+      "label": "qev085201_MSG0031",
+      "style": 0,
+      "name": "네 녀석도 낄 작정이냐?\n이길 수 있을 것 같아?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev085201_MSG0032",
+      "style": 0,
+      "name": "너 의외로 다혈질이구나?\n마음에 들었어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev085201_MSG0033",
+      "style": 0,
+      "name": "이런 곳에서 싸움박질이라니, 두고 볼 순 없겠는데[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev085201_MSG0034",
+      "style": 0,
+      "name": "대령님, 못 본 척해 주십쇼\n이 녀석들, 용서할 수 없습니다![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev085201_MSG0035",
+      "style": 0,
+      "name": "두고 볼 수 없다고 했잖아?\n나도 끼겠어[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev085201_MSG0036",
+      "style": 0,
+      "name": "대령이든 중위든, 그런 옛날 직위는\n통하지 않는다는 걸 알려 주지![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev085201_MSG0037",
+      "style": 0,
+      "name": "거기! 네 녀석들![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev085201_MSG0038",
+      "style": 0,
+      "name": "바, 반담 사령관님![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev085201_MSG0039",
+      "style": 0,
+      "name": "이, 이건, 저 녀석들이\n먼저 시비를 걸어서……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev085201_MSG0040",
+      "style": 0,
+      "name": "멍청한 녀석![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev085201_MSG0041",
+      "style": 0,
+      "name": "처음부터 다 보고 있었다\n네 녀석들이 이상한 트집을 잡는 것부터 말이지[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev085201_MSG0042",
+      "style": 0,
+      "name": "벌로 이 자리에서 팔 굽혀 펴기 1억 회 실시!\n네 녀석들의 상완 이두근을 파괴해 주마![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev085201_MSG0043",
+      "style": 0,
+      "name": "이거, 면목이 없군\n내가 잘못 가르친 탓이네[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev085201_MSG0044",
+      "style": 0,
+      "name": "그건 그렇고…… 엘마\n자네까지 싸움에 참여하다니 의외인데[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev085201_MSG0045",
+      "style": 0,
+      "name": "웬만해선 말리는 입장이었겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev085201_MSG0046",
+      "style": 0,
+      "name": "이리나는 교도대 시절부터 함께한\n소중한 동료인걸[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev085201_MSG0047",
+      "style": 0,
+      "name": "대령님, 저 같은 걸 위해서……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev085201_MSG0048",
+      "style": 0,
+      "name": "정말이지, 이래서 남자들이란\n아~ 싫다, 싫어[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev085201_MSG0049",
+      "style": 0,
+      "name": "이리나 씨?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev085201_MSG0050",
+      "style": 0,
+      "name": "아무것도 아니야[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev085201_JNK0030",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 59,
+      "label": "qev085201_SEL0031",
+      "style": 3,
+      "name": "반담의 용건을 묻는다"
+    },
+    {
+      "$id": 60,
+      "label": "qev085201_JNK0040",
+      "style": 4,
+      "name": "수상"
+    },
+    {
+      "$id": 61,
+      "label": "qev085201_SEL0041",
+      "style": 3,
+      "name": "이리나의 상태를 신경 쓴다"
+    },
+    {
+      "$id": 62,
+      "label": "qev085201_MSG0051",
+      "style": 0,
+      "name": "엘마, 자네 일행을 찾고 있었네[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev085201_MSG0052",
+      "style": 0,
+      "name": "응? 뭐가 이상해?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev085201_MSG0053",
+      "style": 0,
+      "name": "이리나 씨, 이상하다모!\n이 타츠에게 말해 봐라모![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev085201_MSG0053_m",
+      "style": 0,
+      "name": "이리나 씨, 이상하다모!\n이 타츠에게 말해 봐라모![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev085201_MSG0053_f",
+      "style": 0,
+      "name": "이리나 씨, 이상하다모!\n이 타츠에게 말해 봐라모![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev085201_MSG0054",
+      "style": 0,
+      "name": "고마워\n하지만 사양할게[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev085201_MSG0055",
+      "style": 0,
+      "name": "그렇죠~ 타츠한테 말해 봤자\n아무 도움도 안 되고[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev085201_MSG0056",
+      "style": 0,
+      "name": "그럴 수가, 너무하다모![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev085201_MSG0057",
+      "style": 0,
+      "name": "뭐, 내 이야기는 됐어\n그것보다 사령관님은 여긴 무슨 일로?[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev085201_MSG0058",
+      "style": 0,
+      "name": "아, 그래\n엘마, 자네 일행을 찾고 있었네[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev085201_MSG0059",
+      "style": 0,
+      "name": "무슨 임무라도 있어?[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev085201_MSG0060",
+      "style": 0,
+      "name": "그래, 통곡의 평원에 원시 생물 출몰이\n빈번해진 바람에[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev085201_MSG0061",
+      "style": 0,
+      "name": "랜드뱅크 팀이 피해를 입었네[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev085201_MSG0062",
+      "style": 0,
+      "name": "알겠어\n우리가 맡을게[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev085201_MSG0063",
+      "style": 0,
+      "name": "엘마 대령님\n괜찮으시다면 저도 데려가 주십쇼[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev085201_MSG0064",
+      "style": 0,
+      "name": "이봐, 이봐……\n자네는 휴일 아닌가[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev085201_MSG0065",
+      "style": 0,
+      "name": "뭐랄까, 기분 전환하고 싶기도 하고\n가끔은 엘마 대령님 지휘로 움직이고 싶습니다[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev085201_MSG0066",
+      "style": 0,
+      "name": "알겠어, 네가 있으면 나도 마음이 든든해\n잘 부탁할게[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev085201_MSG0067",
+      "style": 0,
+      "name": "알겠습니다[ST:wait ]"
+    }
+  ]
+}

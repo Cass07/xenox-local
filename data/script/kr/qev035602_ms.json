@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev035602_MSG0001",
+      "style": 1,
+      "name": "큭, 윽……!\n너는…… [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev035602_MSG0002",
+      "style": 1,
+      "name": "안 돼…… 어디든 좋으니 떠나!\n이대로 있으면 내가 널……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev035602_JNK0010",
+      "style": 4,
+      "name": "추궁한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev035602_SEL0011",
+      "style": 3,
+      "name": "NLA에서 공존하려던 게\n아니었냐고 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "qev035602_JNK0020",
+      "style": 4,
+      "name": "토로한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev035602_SEL0021",
+      "style": 3,
+      "name": "슬랩티의 배신에 실망하며\n슬픔을 토로한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev035602_MSG0003",
+      "style": 1,
+      "name": "아아…… 나는……\n너희와 함께 사는 걸, 최근에야\n받아들일 수 있게 됐는데…[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev035602_MSG0004",
+      "style": 1,
+      "name": "아니야! 나는……\nNLA라는 도시가, 최근에야 좋아졌는데……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev035602_MSG0005",
+      "style": 1,
+      "name": "으윽…… 아아……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev035602_MSG0006",
+      "style": 1,
+      "name": "우오아아아아아아아아아아아아악!!\n메기시아 님을 위하여어어어어……![ST:wait ]"
+    }
+  ]
+}

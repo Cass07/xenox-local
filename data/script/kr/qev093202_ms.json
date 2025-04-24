@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093202_MSG0010",
+      "style": 0,
+      "name": "이봐, 피자 주문할게[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093202_MSG0020",
+      "style": 0,
+      "name": "아메리칸 스타일의 두꺼운 피자 도우에\n토핑도 전부 두 배로 넣어 줘, 2인분이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093202_MSG0030",
+      "style": 0,
+      "name": "아…… 죄송합니다\n오늘은 재료가 다 떨어졌어요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093202_MSG0040",
+      "style": 0,
+      "name": "……뭐? 다 떨어졌다고?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093202_MSG0050",
+      "style": 0,
+      "name": "네, 오늘 마 논분들이\n무슨 축하할 일이 있다면서……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093202_MSG0060",
+      "style": 0,
+      "name": "어마어마한 양을 주문했거든요\n덕분에 토핑을 다 써 버렸어요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093202_MSG0070",
+      "style": 0,
+      "name": "너무하잖아……\n왜 하필 오늘이람[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093202_MSG0080",
+      "style": 0,
+      "name": "젠장, 못 먹게 됐다는 걸 알고 나니\n오히려 더 먹고 싶어지는 건 왜지……?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093202_MSG0090",
+      "style": 0,
+      "name": "아~ 공감 가네요\n그럴 때 있죠[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093202_MSG0100",
+      "style": 0,
+      "name": "마치 남 일이라는 듯이 구는군\n점원이면 책임지고 어떻게든 해[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093202_MSG0110",
+      "style": 0,
+      "name": "그렇게 말씀하셔도 방법이 없는데……\n토핑 없는 치즈 피자라도 드실래요?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093202_MSG0120",
+      "style": 0,
+      "name": "토핑이 없다고……? 농담하지 마[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093202_MSG0130",
+      "style": 0,
+      "name": "예를 들어 네가 초밥집에 갔다고 쳐[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093202_MSG0140",
+      "style": 0,
+      "name": "거기서 식초 뿌린 밥만 나오면\n어떨 것 같아?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093202_MSG0150",
+      "style": 0,
+      "name": "뭐, 아마도 항의하겠죠[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093202_MSG0160",
+      "style": 0,
+      "name": "아주 잘 알고 있네\n그러면 어떻게든 해 줘, 지금 당장[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093202_MSG0170",
+      "style": 0,
+      "name": "글쎄, 그렇게 말씀하셔도……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093202_MSG0180",
+      "style": 0,
+      "name": "지금부터 컴패니언에 의뢰하더라도\n식재료를 받으려면 시간이……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093202_MSG0190",
+      "style": 0,
+      "name": "……음? 잠깐만\n컴패니언이라고?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093202_MSG0200",
+      "style": 0,
+      "name": "블레이드 녀석들은\n그런 심부름 같은 의뢰도 받는 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093202_MSG0210",
+      "style": 0,
+      "name": "네? 뭐, 그렇죠……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093202_MSG0220",
+      "style": 0,
+      "name": "……이야기로는 들었지만\n군대도 참 많이 바뀌었군[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093202_MSG0230",
+      "style": 0,
+      "name": "아니 잠깐만, 그래……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093202_MSG0240",
+      "style": 0,
+      "name": "훗, 난 참 운이 좋아[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev093202_MSG0245",
+      "style": 0,
+      "name": "마침 눈앞에 실력파 블레이드가 있잖아[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093202_MSG0250",
+      "style": 0,
+      "name": "좋아, 긴급 의뢰다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093202_MSG0260",
+      "style": 0,
+      "name": "나를……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093202_MSG0265",
+      "style": 0,
+      "name": "아니, 우리를 위해서\n피자 재료를 조달해 줘, 최대한 빨리[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev093202_JNK0270",
+      "style": 4,
+      "name": "의뢰를 받는다"
+    },
+    {
+      "$id": 30,
+      "label": "qev093202_SEL0280",
+      "style": 3,
+      "name": "얼마든지 맡겨 달라고\n자신 있게 대답한다"
+    },
+    {
+      "$id": 31,
+      "label": "qev093202_MSG0290",
+      "style": 0,
+      "name": "……내가 할 말은 아니긴 한데\n너, 장난을 제법 잘 받아 주는군[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev093202_MSG0300",
+      "style": 0,
+      "name": "내 억지에도 전혀 동요하지 않을 줄이야\n훗…… 그렇게 나와야지[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev093202_JNK0310",
+      "style": 4,
+      "name": "쓴소리를 한다"
+    },
+    {
+      "$id": 34,
+      "label": "qev093202_SEL0320",
+      "style": 3,
+      "name": "알도 도우라고 주장한다"
+    },
+    {
+      "$id": 35,
+      "label": "qev093202_MSG0330",
+      "style": 0,
+      "name": "쳇……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev093202_MSG0335",
+      "style": 0,
+      "name": "그러고 보니 나도 일단은\n블레이드 소속으로 되어 있었던가[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev093202_MSG0340",
+      "style": 0,
+      "name": "그래도 블레이드 일이라면\n네가 더 익숙하잖아?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev093202_MSG0350",
+      "style": 0,
+      "name": "돕기는 하겠지만, 지시는 너한테 맡긴다\n잘 부탁할게, 리더[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev093202_MSG0360",
+      "style": 0,
+      "name": "자, 이야기 들었겠지?\n필요한 식재료 리스트 얼른 줘[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev093202_MSG0370",
+      "style": 0,
+      "name": "앗, 네…… 어쩐지 죄송하네요[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev093202_MSG0375",
+      "style": 0,
+      "name": "그보다 왜 그렇게까지 해서\n저희 피자를 드시려는 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev093202_MSG0380",
+      "style": 0,
+      "name": "초지일관이 내 모토거든[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev093202_MSG0385",
+      "style": 0,
+      "name": "일단 먹겠다고 정한 이상\n죽는 한이 있어도 먹을 거다[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev093202_MSG0390",
+      "style": 0,
+      "name": "우리를 고생시킨 만큼\n최고의 피자를 만들어 주겠지?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev093202_MSG0400",
+      "style": 0,
+      "name": "아, 네……[ST:wait ]"
+    }
+  ]
+}

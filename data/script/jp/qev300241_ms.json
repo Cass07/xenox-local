@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev300241_MSG0001",
+      "style": 1,
+      "name": "オーヴァの声が聞こえるんだ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev300241_MSG0002",
+      "style": 1,
+      "name": "ミラニウムを集め\nNLAのために新しい企業を作り\nみなの役に立てと[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev300241_JNK0010",
+      "style": 4,
+      "name": "渡す[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev300241_SEL0011",
+      "style": 3,
+      "name": "7000gmのミラニウムを\n渡す[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev300241_JNK0020",
+      "style": 4,
+      "name": "渡さない[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev300241_SEL0021",
+      "style": 3,
+      "name": "今はまだ渡さないでおく[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev300241_MSG0004",
+      "style": 1,
+      "name": "ご苦労だった\n必ずやこの街の発展に貢献しよう[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev300241_MSG0005",
+      "style": 1,
+      "name": "フム[ST:wide ]―\nそのミラニウムを別のことに役立てるのも\nまたオーヴァの意思か[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev300241_MSG0006",
+      "style": 1,
+      "name": "ブレイドの方よ[ST:wide ]―\n7000gmのミラニウムを持ってきてくれ[ST:wait ]"
+    }
+  ]
+}

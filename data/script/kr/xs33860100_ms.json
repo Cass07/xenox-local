@@ -1,0 +1,528 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33860100_MSG0010",
+      "style": 0,
+      "name": "……보이드에게 잡혀 있는 동안[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33860100_MSG0020",
+      "style": 0,
+      "name": "나에게 녀석의 과거가 보였다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33860100_MSG0030",
+      "style": 0,
+      "name": "먼 옛날……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33860100_MSG0040",
+      "style": 0,
+      "name": "녀석도 한 명의 서멀로 태어났다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33860100_MSG0050",
+      "style": 0,
+      "name": "뛰어난 천재였던 보이드는\n게이트라 불리는 궁극의 물체를 연구해서[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33860100_MSG0060",
+      "style": 0,
+      "name": "그 힘을 6개의 코어로 환원해\n아레스를 만들어 냈지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33860100_MSG0070",
+      "style": 0,
+      "name": "……하지만[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33860100_MSG0080",
+      "style": 0,
+      "name": "그것이 고스트를 깨우는 결과를 불러왔어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33860100_MSG0090",
+      "style": 0,
+      "name": "서멀의 백성은 보이드를 원흉으로 보고[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33860100_MSG0100",
+      "style": 0,
+      "name": "아레스를 파괴한 후\n보이드의 의식을 틈새의 세계 감옥에 봉했어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33860100_MSG0110",
+      "style": 0,
+      "name": "영원히……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33860100_MSG0120",
+      "style": 0,
+      "name": "미라에 나타난 부유 대륙은……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33860100_MSG0130",
+      "style": 0,
+      "name": "틈새의 세계에서 보이드와 함께 나타난\n감옥이었던 거다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33860100_MSG0140",
+      "style": 0,
+      "name": "틈새의 세계에 갇힌\n보이드에게 있어서[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33860100_MSG0150",
+      "style": 0,
+      "name": "고독은 고통이 아니었어[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33860100_MSG0160",
+      "style": 0,
+      "name": "녀석에게 고통은 \"모르는\" 것[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33860100_MSG0170",
+      "style": 0,
+      "name": "보이드는 영원의 세계 안에서[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33860100_MSG0180",
+      "style": 0,
+      "name": "\"죽음\"을 알려고 했어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33860100_MSG0190",
+      "style": 0,
+      "name": "거기에 감정은 없고[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33860100_MSG0200",
+      "style": 0,
+      "name": "\"그저 순수하게\" 알려고 한 거야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33860100_MSG0210",
+      "style": 0,
+      "name": "어느 순간[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33860100_MSG0220",
+      "style": 0,
+      "name": "보이드를 가둔 의식의 감옥의 우리에\n균열이 생겼다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33860100_MSG0230",
+      "style": 0,
+      "name": "원인은 알 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs33860100_MSG0240",
+      "style": 0,
+      "name": "감옥이 한계를 맞이한 건지\n다른 세계에서 간섭이 있었는지……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs33860100_MSG0250",
+      "style": 0,
+      "name": "어쨌든 보이드의 의식은\n감옥에서 해방됐어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs33860100_MSG0260",
+      "style": 0,
+      "name": "그리고[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs33860100_MSG0270",
+      "style": 0,
+      "name": "엘마의 모성이 있던 우주에\n보이드가 나타났다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs33860100_MSG0280",
+      "style": 0,
+      "name": "육체는 없어진 상태였지만\n녀석을 신앙하는 자들에 의해 만들어진 그릇……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs33860100_MSG0290",
+      "style": 0,
+      "name": "위터를 강림기 삼아 나타난 거다[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs33860100_MSG0300",
+      "style": 0,
+      "name": "더욱이 녀석은 그로우스를 만들어 내[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs33860100_MSG0310",
+      "style": 0,
+      "name": "그 힘으로 \"죽음을 알려고 했다\"[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs33860100_MSG0320",
+      "style": 0,
+      "name": "우선은 아레스를 되찾기 위해\n엘마의 모성으로 진군을 시작했지[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs33860100_MSG0330",
+      "style": 0,
+      "name": "보이드의 행동, 재생된 아레스……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs33860100_MSG0340",
+      "style": 0,
+      "name": "그런 상황에 힘입어 고스트가 나타났다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs33860100_MSG0350",
+      "style": 0,
+      "name": "엘마의 모성은\n그로우스와 고스트의 충돌에 의해 소실되고[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs33860100_MSG0360",
+      "style": 0,
+      "name": "세계도 사라졌어[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs33860100_MSG0370",
+      "style": 0,
+      "name": "눈앞에 있는 많은 죽음을 보면서도\n녀석은 그걸 이해하려 하지 않았어[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs33860100_MSG0380",
+      "style": 0,
+      "name": "본능적으로 눈치채고 있었던 거지[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs33860100_MSG0390",
+      "style": 0,
+      "name": "자신의 존재가 사라지는 공포를……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs33860100_MSG0400",
+      "style": 0,
+      "name": "그래서 도망친 거야[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs33860100_MSG0410",
+      "style": 0,
+      "name": "서멀의 백성, 고스트……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs33860100_MSG0420",
+      "style": 0,
+      "name": "자신의 존재를 제거하려는 힘에서\n계속 도망친 보이드는[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs33860100_MSG0430",
+      "style": 0,
+      "name": "여로의 끝에 패배하여 처음으로 죽음을 알았어……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs33860100_MSG0440",
+      "style": 0,
+      "name": "그 순간……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs33860100_MSG0450",
+      "style": 0,
+      "name": "녀석은 무슨 생각을 했을까……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs33860100_MSG9010",
+      "style": 0,
+      "name": "나는……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs33860100_MSG9020",
+      "style": 0,
+      "name": "어디로 가지?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs33860100_MSG9030",
+      "style": 0,
+      "name": "오오오오오오오……!![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs33860100_MSG0490",
+      "style": 0,
+      "name": "어이……[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs33860100_MSG0500",
+      "style": 0,
+      "name": "다들 있냐?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs33860100_MSG0510",
+      "style": 0,
+      "name": "나 말이야……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs33860100_MSG0520",
+      "style": 0,
+      "name": "왠지……[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs33860100_MSG0530",
+      "style": 0,
+      "name": "알아챈 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs33860100_MSG0540",
+      "style": 0,
+      "name": "그 장소는 감옥 같은 게 아니라……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs33860100_MSG0550",
+      "style": 0,
+      "name": "천국으로 이어지는 길이 아니었을까 하고[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs33860100_MSG0560",
+      "style": 0,
+      "name": "존재하는구나……[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs33860100_MSG0570",
+      "style": 0,
+      "name": "그렇게나 멋진 장소가……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs33860100_MSG0580",
+      "style": 0,
+      "name": "다행이다……[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs33860100_MSG0590",
+      "style": 0,
+      "name": "너 무사했냐![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs33860100_MSG0600",
+      "style": 0,
+      "name": "고생 많았다[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs33860100_MSG0610",
+      "style": 0,
+      "name": "바보 녀석, 걱정시키지 말라고![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs33860100_MSG0620",
+      "style": 0,
+      "name": "반드시[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs33860100_MSG0630",
+      "style": 0,
+      "name": "반드시 돌아올 거라고 믿었어요![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs33860100_MSG0640",
+      "style": 0,
+      "name": "아무튼 일단 안심이다모~[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs33860100_MSG0650",
+      "style": 0,
+      "name": "잘 돌아왔어[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs33860100_MSG0660",
+      "style": 0,
+      "name": "하아, 다행이에요[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs33860100_MSG0670",
+      "style": 0,
+      "name": "저는 이미 틀린 줄로만……[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs33860100_MSG0680",
+      "style": 0,
+      "name": "너무해![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs33860100_MSG0690",
+      "style": 0,
+      "name": "믿은 거 아니었어요!?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs33860100_MSG0700",
+      "style": 0,
+      "name": "아, 아니, 그게 아니라[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs33860100_MSG0710",
+      "style": 0,
+      "name": "그게 아니면 뭔데요!?[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs33860100_MSG0720",
+      "style": 0,
+      "name": "그, 그건……[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs33860100_MSG0740",
+      "style": 0,
+      "name": "어쨌든 무사해서 다행이군\n안 그런가?[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs33860100_MSG0750",
+      "style": 0,
+      "name": "옛말에 이르기를\n비 온 뒤 땅 굳는다고 하죠[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs33860100_MSG0760",
+      "style": 0,
+      "name": "뭐야 그게?[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs33860100_MSG0770",
+      "style": 0,
+      "name": "아하하하하![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs33860100_MSG0771",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 78,
+      "label": "xs33860100_MSG0772",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 79,
+      "label": "xs33860100_MSG0773",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 80,
+      "label": "xs33860100_MSG0774",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 81,
+      "label": "xs33860100_MSG0775",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 82,
+      "label": "xs33860100_MSG0776",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 83,
+      "label": "xs33860100_MSG0780",
+      "style": 0,
+      "name": "자, 그럼……[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs33860100_MSG0790",
+      "style": 0,
+      "name": "다음 세계가……[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs33860100_MSG0800",
+      "style": 0,
+      "name": "보이기 시작했다[ST:wait ]"
+    }
+  ]
+}

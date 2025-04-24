@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092706_MSG0010",
+      "style": 0,
+      "name": "리젤![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092706_MSG0020",
+      "style": 0,
+      "name": "갑자기 응답이 끊어져서 걱정했었어!\n대체 무슨 일이 있었던 거야?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092706_MSG0030",
+      "style": 0,
+      "name": "음, 원시 생물에게 공격받았다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092706_MSG0040",
+      "style": 0,
+      "name": "공격받…… 뭐!?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092706_MSG0045",
+      "style": 0,
+      "name": "그게 무슨……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092706_MSG0050",
+      "style": 0,
+      "name": "데이터는 기록되어 있고\n덤으로 전투 로그도 남겨 두었어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092706_MSG0060",
+      "style": 0,
+      "name": "원래 예정보다는 늦어졌지만……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092706_MSG0070",
+      "style": 0,
+      "name": "여기 있는 블레이드 덕분에\n어떻게든 복귀할 수 있었다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092706_MSG0080",
+      "style": 0,
+      "name": "하여튼…… 넌 진짜……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092706_MSG0090",
+      "style": 0,
+      "name": "미안해……\n의뢰를 받아 준 블레이드 맞지?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092706_MSG0100",
+      "style": 0,
+      "name": "고마워, 덕분에 큰 도움이 됐어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092706_MSG0110",
+      "style": 0,
+      "name": "나는 아리샤\n그라나다의 엔지니어야[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092706_MSG0120",
+      "style": 0,
+      "name": "그리고 이 돌……\n\"흐레스벨그\"의 주임 기술자이기도 하지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092706_MSG0130",
+      "style": 0,
+      "name": "리젤과는 오래 알고 지낸……\n친구라고 하면 되려나[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092706_MSG0140",
+      "style": 0,
+      "name": "지구에 살던 시절부터 알고 지냈는데\n우리가 아직 친구 사이밖에 안 돼?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092706_MSG0150",
+      "style": 0,
+      "name": "어머, 후후, 미안해[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092706_MSG0155",
+      "style": 0,
+      "name": "\"친한 친구\" 사이지[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092706_MSG0160",
+      "style": 0,
+      "name": "그건 그렇고……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092706_MSG0170",
+      "style": 0,
+      "name": "흐레스벨그 양산을 승인받고\n최종 조정 중인 시기에[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092706_MSG0180",
+      "style": 0,
+      "name": "설마 이런 문제를 맞닥뜨리다니……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092706_MSG0190",
+      "style": 0,
+      "name": "아리샤, 그 문제 말인데……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092706_MSG0200",
+      "style": 0,
+      "name": "흐레스벨그는 기존 돌에 비해\n상당히 높은 수준의 조종 기술이 요구돼[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092706_MSG0210",
+      "style": 0,
+      "name": "특히 구동계 피드백은 최악이야\n연습할 때도 이 정도는 아니었다고[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092706_MSG0220",
+      "style": 0,
+      "name": "뭐? 그럴 리가……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092706_MSG0230",
+      "style": 0,
+      "name": "컴퓨터가 정보를 처리하고 있었을 테니\n프로그램상의 에러인 건가?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092706_MSG0240",
+      "style": 0,
+      "name": "이상한걸……\n잠깐만, 바로 확인해 볼게[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092706_MSG0250",
+      "style": 0,
+      "name": "정말이네, 수치가……\n아니, 하지만 이 정도라면 아직……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092706_JNK0260",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 29,
+      "label": "qev092706_SEL0270",
+      "style": 3,
+      "name": "무슨 문제라도 있는지 묻는다"
+    },
+    {
+      "$id": 30,
+      "label": "qev092706_MSG0280",
+      "style": 0,
+      "name": "돌…… 흐레스벨그는[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092706_MSG0290",
+      "style": 0,
+      "name": "인간의 조종과 구동계로 가는 신호 사이에\n컴퓨터의 정보 처리가 개입되거든[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092706_MSG0300",
+      "style": 0,
+      "name": "조종자가 의도하지 않은 움직임을\n억제하기 위함이었지만……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092706_MSG0310",
+      "style": 0,
+      "name": "이 부분에 문제가 일어나면\n돌의 움직임에 지장이 생기지[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092706_JNK0320",
+      "style": 4,
+      "name": "협력"
+    },
+    {
+      "$id": 35,
+      "label": "qev092706_SEL0330",
+      "style": 3,
+      "name": "힘을 빌려 주겠다고 말한다"
+    },
+    {
+      "$id": 36,
+      "label": "qev092706_MSG0340",
+      "style": 0,
+      "name": "아니, 그렇게 말해 줘서 고맙지만\n아마도 필요 없을 거다[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092706_MSG0350",
+      "style": 0,
+      "name": "아리샤는 우수한 기술자거든[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092706_MSG0360",
+      "style": 0,
+      "name": "원인을 파악했어[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092706_MSG0365",
+      "style": 0,
+      "name": "그 \"특수 기구\"의 제어 계통에 문제가 있었나 봐[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092706_MSG0370",
+      "style": 0,
+      "name": "간섭하지 않게\n떨어뜨려 놨으니까 이제 문제없어[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092706_MSG0380",
+      "style": 0,
+      "name": "그런가…… 드디어 완성되는군[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092706_MSG0390",
+      "style": 0,
+      "name": "그래, 이제 남은 건\n공개 발표를 기다리는 것뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092706_MSG0400",
+      "style": 0,
+      "name": "일단 이번 일은 일단락됐지만\n다음엔 그 특수 기구의 개발이……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092706_MSG0410",
+      "style": 0,
+      "name": "앗, 네…… 아……\n알겠습니다, 네 그러면……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092706_MSG0420",
+      "style": 0,
+      "name": "……부장이야?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092706_MSG0430",
+      "style": 0,
+      "name": "잘 알고 있네…… 지금 당장 오래[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092706_MSG0440",
+      "style": 0,
+      "name": "웃기는군……\n불만이 있으면 그쪽에서 오란 말이다[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092706_MSG0450",
+      "style": 0,
+      "name": "그리고 당신도 같이……[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092706_MSG0460",
+      "style": 0,
+      "name": "이거야 원……\n끌고 오라는 건가[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092706_MSG0470",
+      "style": 0,
+      "name": "분명 내가 독단으로\n블레이드에 의뢰한 탓에……[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092706_MSG0480",
+      "style": 0,
+      "name": "아니, 애초에 연락도 없이\n머물러 있던 내 실수다[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092706_MSG0490",
+      "style": 0,
+      "name": "미안하지만 함께 와 줘[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092706_MSG0495",
+      "style": 0,
+      "name": "부장을 상대하는 건 나와 아리샤가 할게[ST:wait ]"
+    }
+  ]
+}

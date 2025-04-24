@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092701_MSG0010",
+      "style": 0,
+      "name": "오오, 여기에 있었군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092701_MSG0020",
+      "style": 0,
+      "name": "실은 그라나다 GG의 주임 기술자가\n블레이드에 긴급 의뢰를 보냈다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092701_MSG0030",
+      "style": 0,
+      "name": "시범 운용 중인 돌과 연락이 두절돼서\n수색해 달라는 내용이었는데……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092701_MSG0040",
+      "style": 0,
+      "name": "그 양반, 상당히 다급해하더라고……\n확실히 임무를 수행할 수 있는 자를 원한다더군[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092701_MSG0050",
+      "style": 0,
+      "name": "그래서 고른 인선이 바로 자네다\n맡아 주겠지?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092701_MSG0060",
+      "style": 0,
+      "name": "좋아[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092701_MSG0070",
+      "style": 0,
+      "name": "마지막에 추적 비컨 반응이 있었던\n좌표를 보낼 테니 확인하도록[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092701_MSG0080",
+      "style": 0,
+      "name": "그러고 보니 머지않아 그라나다에서[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092701_MSG0090",
+      "style": 0,
+      "name": "신형 돌을 발표할 거라는\n유출 정보를 들었는데……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092701_MSG0100",
+      "style": 0,
+      "name": "행방불명된 돌이라는 게\n설마 그 신형인 건가[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092701_MSG0110",
+      "style": 0,
+      "name": "혹시 유용한 기체라면\n우리도 꼭 좀 써 보고 싶군[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092701_MSG0120",
+      "style": 0,
+      "name": "뭐, 아무튼 부탁한다[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000195_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]인가……\n잠깐 들렀다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000195_MSG0002",
+      "style": 1,
+      "name": "별일은 아니고 배가 고팠거든\n여기 오면 무언가 식사가 있겠지\n싶어서 와 봤는데……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000195_MSG0003",
+      "style": 1,
+      "name": "유감이지만 아무것도 없는 것 같군[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000195_MSG0004",
+      "style": 1,
+      "name": "상업 에어리어는 제법 거리가 있으니\n[ST:playername ][KR:Particle char=to ] 대화나 하면서\n공복을 참아 볼 생각이다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000195_MSG0005",
+      "style": 1,
+      "name": "그래, [ST:playername ]\n자네는 어떤 계통의 임무를 선호하지?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000195_JNK0010",
+      "style": 4,
+      "name": "토벌"
+    },
+    {
+      "$id": 7,
+      "label": "tev000195_SEL0011",
+      "style": 3,
+      "name": "원시 생물을 쓰러뜨리는 임무"
+    },
+    {
+      "$id": 8,
+      "label": "tev000195_JNK0020",
+      "style": 4,
+      "name": "개척"
+    },
+    {
+      "$id": 9,
+      "label": "tev000195_SEL0021",
+      "style": 3,
+      "name": "프런티어넷 스폿에\n데이터 프로브를 설치하는 임무"
+    },
+    {
+      "$id": 10,
+      "label": "tev000195_JNK0030",
+      "style": 4,
+      "name": "회수"
+    },
+    {
+      "$id": 11,
+      "label": "tev000195_SEL0031",
+      "style": 3,
+      "name": "흰고래의 잔해를 회수하는 임무"
+    },
+    {
+      "$id": 12,
+      "label": "tev000195_JNK0040",
+      "style": 4,
+      "name": "개발"
+    },
+    {
+      "$id": 13,
+      "label": "tev000195_SEL0041",
+      "style": 3,
+      "name": "신형 병기를 시험하며\n암즈 컴퍼니와 협력하는 임무"
+    },
+    {
+      "$id": 14,
+      "label": "tev000195_JNK0050",
+      "style": 4,
+      "name": "조사"
+    },
+    {
+      "$id": 15,
+      "label": "tev000195_SEL0051",
+      "style": 3,
+      "name": "행성 미라를 조사하는 임무"
+    },
+    {
+      "$id": 16,
+      "label": "tev000195_JNK0060",
+      "style": 4,
+      "name": "치안 유지"
+    },
+    {
+      "$id": 17,
+      "label": "tev000195_SEL0061",
+      "style": 3,
+      "name": "NLA를 순찰하며\n문제를 해결하는 임무"
+    },
+    {
+      "$id": 18,
+      "label": "tev000195_MSG0006",
+      "style": 1,
+      "name": "그래, 그런가……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000195_MSG0007",
+      "style": 1,
+      "name": "나도 자네처럼 자유롭게\n임무를 받고 싶군[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000195_MSG0008",
+      "style": 1,
+      "name": "행정장관이나 반담에게 혼나겠지만\n군무장관이라는 입장은 영 답답하게 느껴져[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000195_MSG0009",
+      "style": 1,
+      "name": "원초의 황야 북쪽에서 라이프 포인트가\n발견되었을 때의 일을 기억하고 있나?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000195_MSG0010",
+      "style": 1,
+      "name": "파견할 부대의 편성을 기다리는 데만\n적어도 한나절은 족히 걸려[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000195_MSG0011",
+      "style": 1,
+      "name": "각 팀이 각자의 임무를\n수행 중이니 말이다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000195_MSG0012",
+      "style": 1,
+      "name": "그러니 바로 모을 수 있는 건\n임무가 끝난 직후인 팀이 많아[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000195_MSG0013",
+      "style": 1,
+      "name": "그러면 정비에 시간이 걸리겠지?\n정말 쉬운 게 하나도 없다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000195_MSG0014",
+      "style": 1,
+      "name": "지금까지 우리가 라이프 포인트를 발견해도\n결국 파괴되는 경우가 많았어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000195_MSG0015",
+      "style": 1,
+      "name": "난 그 라이프 포인트를\n어떻게 해서든 확보하고 싶었다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000195_MSG0016",
+      "style": 1,
+      "name": "그런 생각이 들자 가만히 있을 수가 없었지[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000195_MSG0017",
+      "style": 1,
+      "name": "근처에 있던 블레이드 대원을 데리고 출발했지만\n최선의 결과라고는 할 수 없었다[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000195_MSG0018",
+      "style": 1,
+      "name": "내 초조함이 그들을 죽음으로 내몰았으니[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000195_MSG0019",
+      "style": 1,
+      "name": "하지만 [ST:playername ]의 팀이 구하러 왔을 때\n이런 생각이 떠올랐다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000195_MSG0020",
+      "style": 1,
+      "name": "소수 정예 팀이라면\n긴급 임무에도 대응할 수 있다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000195_MSG0021",
+      "style": 1,
+      "name": "그러니 내가 블레이드로서 활약하고 싶다면\n자네들 팀이 가장 적합할 거라고 말이다[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000195_MSG0022",
+      "style": 1,
+      "name": "……핫핫하\n어때, 의외로 어쭙잖은 생각 아닌가?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000195_MSG0023",
+      "style": 1,
+      "name": "하지만 앞으로도 잘 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000195_MSG0024",
+      "style": 1,
+      "name": "[ST:playername ][KR:Particle char=ga ] 있는\n엘마 팀이 블레이드의 요체이니 말이다[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000195_MSG0025",
+      "style": 1,
+      "name": "그럼 나는 블레이드 타워로 돌아가도록 하지\n행정장관의 방에 만주가 있다는 게 떠올랐거든[ST:wait ]"
+    }
+  ]
+}

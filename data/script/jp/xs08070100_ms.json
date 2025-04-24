@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08070100_MSG0001",
+      "style": 0,
+      "name": "つ　次は[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08070100_MSG0002",
+      "style": 0,
+      "name": "落ち着いて\nこの辺りの敵は片付いたわ[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs08070100_MSG0003",
+      "style": 0,
+      "name": "周辺に敵影を認めず\n戦域内の敵機　掃討完了しました[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08070100_MSG0004",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08070100_MSG0005",
+      "style": 0,
+      "name": "やりましたね　エルマさん[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08070100_JNK0010",
+      "style": 4,
+      "name": "慎重"
+    },
+    {
+      "$id": 7,
+      "label": "xs08070100_SEL0011",
+      "style": 3,
+      "name": "まだ前哨戦だと気を引締める"
+    },
+    {
+      "$id": 8,
+      "label": "xs08070100_JNK0020",
+      "style": 4,
+      "name": "楽観"
+    },
+    {
+      "$id": 9,
+      "label": "xs08070100_SEL0021",
+      "style": 3,
+      "name": "祝杯を期待してリンを見る"
+    },
+    {
+      "$id": 10,
+      "label": "xs08070100_MSG0006",
+      "style": 0,
+      "name": "そうでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs08070100_MSG0007",
+      "style": 0,
+      "name": "ＮＬＡを落とそうと来ているのなら\n数が少なすぎる[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs08070100_MSG0008",
+      "style": 0,
+      "name": "タツの恐ろしさに尻尾をまいて逃げたんですも[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs08070100_MSG0009",
+      "style": 0,
+      "name": "タツ　がんばってたもんね[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs08070100_MSG0010",
+      "style": 0,
+      "name": "今日は　ごちそう作っちゃいます[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08070100_MSG0011",
+      "style": 0,
+      "name": "やったですも\nパーティーですも[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs08070100_MSG0012",
+      "style": 0,
+      "name": "まだよ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs08070100_MSG0013",
+      "style": 0,
+      "name": "ＮＬＡを落とそうと来ているのなら\n数が少なすぎる[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs08070100_MSG0014",
+      "style": 0,
+      "name": "新たに敵航空戦力を確認\n直上です[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs08070100_MSG0015",
+      "style": 0,
+      "name": "ＮＬＡ直上から　高速で接近してきています[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs08070100_MSG0016",
+      "style": 0,
+      "name": "やはり地上の敵は陽動だったみたいね\n中で迎え撃つわよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs08070100_MSG0017",
+      "style": 0,
+      "name": "市街地で戦うんですか[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs08070100_MSG0018",
+      "style": 0,
+      "name": "リン　気持ちは分かるわ[ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "xs08070100_MSG0019",
+      "style": 0,
+      "name": "でも　こうなった以上　市街戦は避けられない\n街の被害を怖れて　全てを失ったら意味がない[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs08070100_MSG0020",
+      "style": 0,
+      "name": "敵航空戦力　防衛ライン突破\nＮＬＡに侵入します[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs08070100_MSG0021",
+      "style": 0,
+      "name": "大変ですも　大変ですも[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs08070100_MSG0022",
+      "style": 0,
+      "name": "急ぐわよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs08070100_MSG0023",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    }
+  ]
+}

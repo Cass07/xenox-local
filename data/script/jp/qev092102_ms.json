@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092102_MSG0001",
+      "style": 0,
+      "name": "これは[ST:wide ]―　ミカのドール[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092102_MSG0002",
+      "style": 0,
+      "name": "可哀そう　なんて悲惨な姿に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092102_MSG0003",
+      "style": 0,
+      "name": "ミカ[ST:wide ]―！！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092102_MSG0004",
+      "style": 0,
+      "name": "そんな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092102_MSG0005",
+      "style": 0,
+      "name": "まさか死んじゃうなんて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092102_MSG0006",
+      "style": 0,
+      "name": "カンバーのことはどうすんの[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092102_MSG0007",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092102_JNK0010",
+      "style": 4,
+      "name": "慰める"
+    },
+    {
+      "$id": 9,
+      "label": "qev092102_SEL0011",
+      "style": 3,
+      "name": "ミカはいい友人だったと慰める"
+    },
+    {
+      "$id": 10,
+      "label": "qev092102_JNK0020",
+      "style": 4,
+      "name": "無言"
+    },
+    {
+      "$id": 11,
+      "label": "qev092102_SEL0021",
+      "style": 3,
+      "name": "そっと黙とうする"
+    },
+    {
+      "$id": 12,
+      "label": "qev092102_MSG0008",
+      "style": 0,
+      "name": "[ST:wide ]―そうだね　ミカはとってもいい人だった[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092102_MSG0009",
+      "style": 0,
+      "name": "根暗で奥手で嫉妬深くて\n執着心の塊のような人だったけど[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092102_MSG0010",
+      "style": 0,
+      "name": "あたしを認めてくれていた[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092102_MSG0011",
+      "style": 0,
+      "name": "最近ようやく仲良くなれたのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092102_MSG0012",
+      "style": 0,
+      "name": "ミカ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092102_MSG0013",
+      "style": 0,
+      "name": "安らかに眠って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092102_MSG0014",
+      "style": 0,
+      "name": "[ST:wide ]―いつまでも哀しみに暮れてちゃ\nミカに怒られるよね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092102_MSG0015",
+      "style": 0,
+      "name": "現場をよく見てみよう[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092102_MSG0016",
+      "style": 0,
+      "name": "ここにある残骸は見たところ\nざっとドール２機分[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092102_JNK0030",
+      "style": 4,
+      "name": "褒める"
+    },
+    {
+      "$id": 22,
+      "label": "qev092102_SEL0031",
+      "style": 3,
+      "name": "観察眼を褒める"
+    },
+    {
+      "$id": 23,
+      "label": "qev092102_JNK0040",
+      "style": 4,
+      "name": "気遣う"
+    },
+    {
+      "$id": 24,
+      "label": "qev092102_SEL0041",
+      "style": 3,
+      "name": "大好きなドールの壊れた姿は心苦しくないかと気遣う"
+    },
+    {
+      "$id": 25,
+      "label": "qev092102_MSG0017",
+      "style": 0,
+      "name": "大好きなドールだもん\nカンバー達のドールなら絶対に見分けがつくよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092102_MSG0018",
+      "style": 0,
+      "name": "大丈夫[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092102_MSG0019",
+      "style": 0,
+      "name": "今こそ　あたしの知識が活かせる状況だから[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092102_MSG0020",
+      "style": 0,
+      "name": "この２機はミカのとフェルナンのドールね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092102_MSG0021",
+      "style": 0,
+      "name": "カンバーのチームは４人だから\nきっと他の２人は生きてるはず[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092102_MSG0022",
+      "style": 0,
+      "name": "近くにいるはずだから　捜そう\nこのままじゃ辛すぎるよ[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

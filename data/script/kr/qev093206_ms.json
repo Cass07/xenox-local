@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093206_MSG0010",
+      "style": 0,
+      "name": "이……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093206_MSG0020",
+      "style": 0,
+      "name": "이게 다 뭐예요~!?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093206_MSG0030",
+      "style": 0,
+      "name": "모모~! 피자가 잔뜩 있다모!\n타츠도 같이 먹어도 되냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093206_MSG0040",
+      "style": 0,
+      "name": "그래, 내가 준비한 거다\n마음껏 먹어도 돼[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093206_JNK0050",
+      "style": 0,
+      "name": "주장"
+    },
+    {
+      "$id": 6,
+      "label": "qev093206_SEL0060",
+      "style": 0,
+      "name": "자신의 공적도 있다고 주장한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev093206_MSG0070",
+      "style": 0,
+      "name": "어이쿠, 미안해\n\"우리\"가 준비한 거였지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093206_MSG0080",
+      "style": 0,
+      "name": "무슨 일이 있었던 거야?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093206_MSG0090",
+      "style": 0,
+      "name": "별로 대단한 건 아니고[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093206_MSG0100",
+      "style": 0,
+      "name": "나랑 이 녀석이 간단한\n블레이드 임무를 수행했을 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093206_MSG0110",
+      "style": 0,
+      "name": "……그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093206_MSG0120",
+      "style": 0,
+      "name": "당신들…… 내가 모르는 사이에\n제법 친해진 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093206_MSG0130",
+      "style": 0,
+      "name": "미안하게 됐군, 네 부하를 데리고 다녀서[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093206_MSG0140",
+      "style": 0,
+      "name": "상관없어, 오히려 기뻐할 일이지[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093206_MSG0150",
+      "style": 0,
+      "name": "안 그래도 까다로운 성격인 당신에게\n친구가 생겼으니 말이야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093206_MSG0160",
+      "style": 0,
+      "name": "알 씨, 친구 없냐모?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093206_MSG0170",
+      "style": 0,
+      "name": "자, 잠깐 타츠![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093206_MSG0180",
+      "style": 0,
+      "name": "하여튼…… 다들 너무하잖아[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093206_MSG0190",
+      "style": 0,
+      "name": "나는 딱히 고독한 히어로가\n되고 싶은 게 아니란 말이야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093206_MSG0200",
+      "style": 0,
+      "name": "보다시피 나는 너희를\n엄청나게 사랑하고 있다고[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093206_MSG0210",
+      "style": 0,
+      "name": "후후…… 그래, 맞아[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093206_MSG0215",
+      "style": 0,
+      "name": "당신은 그런 사람이었지[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093206_MSG0220",
+      "style": 0,
+      "name": "사, 사랑이요……?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093206_MSG0230",
+      "style": 0,
+      "name": "그래, 린[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev093206_MSG0240",
+      "style": 0,
+      "name": "지구 탈출 후 지금까지\n정말 많은 일이 있었지만……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093206_MSG0250",
+      "style": 0,
+      "name": "지금은 여기가…… 내 \"집\"이야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093206_MSG0260",
+      "style": 0,
+      "name": "집에선 가족이 기다리고 있는 법이지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093206_MSG0265",
+      "style": 0,
+      "name": "그러니, 너희는 나에게 있어 가족……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev093206_MSG0270",
+      "style": 0,
+      "name": "가족을 사랑하는 건 당연하고 자연스러운 거야[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev093206_MSG0275",
+      "style": 0,
+      "name": "……그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev093206_MSG0280",
+      "style": 0,
+      "name": "알 씨……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev093206_MSG0290",
+      "style": 0,
+      "name": "……오, 시작했군[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev093206_MSG0300",
+      "style": 0,
+      "name": "실례합니다, 엘마 대령님[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev093206_MSG0310",
+      "style": 0,
+      "name": "어머, 너희도 왔구나[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev093206_MSG0320",
+      "style": 0,
+      "name": "네, 영웅께서 직접 초대하셨는데\n거절할 수는 없으니까요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev093206_MSG0330",
+      "style": 0,
+      "name": "방금 연락받았지만 말이죠……\n너무 갑작스러워서 놀랐다고요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev093206_MSG0340",
+      "style": 0,
+      "name": "이 녀석이 주변 사람\n피곤하게 만드는 건 일상다반사지[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev093206_MSG0345",
+      "style": 0,
+      "name": "뭐, 덕분에 따분하지는 않아[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev093206_MSG0350",
+      "style": 0,
+      "name": "그렇게 칭찬해 주니 영광인걸[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev093206_MSG0360",
+      "style": 0,
+      "name": "오오, 과연……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev093206_MSG0365",
+      "style": 0,
+      "name": "이것이 옛말 중 하나, 오월동주로군요![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev093206_MSG0370",
+      "style": 0,
+      "name": "우리는 군인이다, 임무를 수행해야 하지\n실제로 상황은 시시각각 긴박해지고 있어……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev093206_MSG0380",
+      "style": 0,
+      "name": "하지만 지금 이 순간만큼은……\n단란한 가족 모임을 즐기자[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev093206_MSG0385",
+      "style": 0,
+      "name": "마음껏 누리자고[ST:wait ]"
+    }
+  ]
+}

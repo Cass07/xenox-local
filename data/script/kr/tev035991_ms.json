@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev035991_MSG0001",
+      "style": 1,
+      "name": "큰일이다~ 큰일이야~!\n이거 곤란하넹~!![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev035991_MSG0002",
+      "style": 1,
+      "name": "……어머, 혼잣말을 중얼거렸더니\n친절해 보이는 사람이 말을 걸어 줬엉![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev035991_MSG0003",
+      "style": 1,
+      "name": "후훗, 온 힘을 다해\n곤란함을 어필해 보길 잘했넹![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev035991_MSG0004",
+      "style": 1,
+      "name": "사실은 말이양, 통신 단말기를\n어딘가에 떨어뜨려 버려서 말이양[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev035991_MSG0005",
+      "style": 1,
+      "name": "친구와 놀려고 해도 연락이 안 되고\n심심할 때 프런티어넷에 접속해서\n무료함을 달랠 수도 없고……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev035991_MSG0006",
+      "style": 1,
+      "name": "매우 곤란한 상태양![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev035991_MSG0007",
+      "style": 1,
+      "name": "찾아 와 달라고는 안 할 테니까\n실력 좋은 정보상이라도 소개해 줭![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev035991_JNK0010",
+      "style": 4,
+      "name": "소개[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev035991_SEL0011",
+      "style": 3,
+      "name": "정보상 차차를 소개한다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev035991_JNK0020",
+      "style": 4,
+      "name": "요구[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev035991_SEL0021",
+      "style": 3,
+      "name": "소개비를 요구한다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev035991_MSG0008",
+      "style": 1,
+      "name": "오~! 솜씨 좋은 노폰인 정보상!\n확실히 그분이라면\n바로 찾아 줄 것 같넹![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev035991_MSG0009",
+      "style": 1,
+      "name": "바로 차차 씨에게 통신 단말기를 찾아 달라고!\n부탁해 볼깡![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev035991_MSG0010",
+      "style": 1,
+      "name": "……응? 하지만 정보상에게 부탁하려면\n돈이 많이 필요하다공?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev035991_MSG0011",
+      "style": 1,
+      "name": "뭐어~? 그것도 곤란하넹!\n그럼 일을 해야 하잖앙……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev035991_MSG0012",
+      "style": 1,
+      "name": "나는 아직 그런 대단한 걸 할 기력이\n낫싱이란 말이양~![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev035991_MSG0013",
+      "style": 1,
+      "name": "와우! 친절해 보이지만\n당신은 베리 베리 잔인하구낭~![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev035991_MSG0014",
+      "style": 1,
+      "name": "그럼 됐엉! 이걸 기회 삼아\n통신 단말기를 포기할랭[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev035991_MSG0015",
+      "style": 1,
+      "name": "일도 없고 통신 단말기도 없고 친구도 없고\n가진 건 이 하트 안의 자유뿐![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev035991_MSG0016",
+      "style": 1,
+      "name": "얽매임 제로의 진정한 자유인으로서\n살아갈 결의를 확실히 굳혔엉~![ST:wait ]"
+    }
+  ]
+}

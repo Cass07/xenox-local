@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086703_MSG0001",
+      "style": 0,
+      "name": "エルマさん[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086703_MSG0002",
+      "style": 0,
+      "name": "ごめんなさい　無理に戦う必要なんて\nなかったのに皆を危険に晒してしまった[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086703_MSG0003",
+      "style": 0,
+      "name": "これじゃあ　チームリーダー失格ね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086703_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 5,
+      "label": "qev086703_SEL0011",
+      "style": 3,
+      "name": "リーダー交代だと詰め寄る"
+    },
+    {
+      "$id": 6,
+      "label": "qev086703_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 7,
+      "label": "qev086703_SEL0021",
+      "style": 3,
+      "name": "刺激的だったと笑い飛ばす"
+    },
+    {
+      "$id": 8,
+      "label": "qev086703_MSG0004",
+      "style": 0,
+      "name": "なんてこと言うんですか[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086703_MSG0005",
+      "style": 0,
+      "name": "むしろ　いつもと違ったエルマさんの一面が\n見れて嬉しかったです[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086703_MSG0006",
+      "style": 0,
+      "name": "私はますますエルマさんのことが\n好きになりました[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086703_MSG0007",
+      "style": 0,
+      "name": "そうですよ　今のでリーダー失格だったら\n私だってブレイド失格です[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086703_MSG0008",
+      "style": 0,
+      "name": "こんなことでエルマさんとの信頼は\nゆるがないです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086703_MSG0009",
+      "style": 0,
+      "name": "ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086703_MSG0010",
+      "style": 0,
+      "name": "でも　もしよかったら[ST:wide ]―\n聞かせてもらえませんか　あの原生生物のこと[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086703_MSG0011",
+      "style": 0,
+      "name": "敵だったのよ　ダニーとボリスの[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086703_MSG0012",
+      "style": 0,
+      "name": "ダニーさんとボリスさんって　確か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086703_MSG0013",
+      "style": 0,
+      "name": "エルマチームのブレイドだった人達ですよね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086703_MSG0014",
+      "style": 0,
+      "name": "そう　私の判断ミスで[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]を\n失ってしまったの　奴と戦って[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086703_MSG0015",
+      "style": 0,
+      "name": "その後に　私達がチームに\n入れてもらってタツを見つけた[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086703_MSG0016",
+      "style": 0,
+      "name": "感謝するわ　皆\n私のチームに入ってくれてありがとう[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086703_MSG0017",
+      "style": 0,
+      "name": "お礼を言うのはこっちですよ\nでも　これで先輩達の仇が討てたんですよね？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086703_MSG0018",
+      "style": 0,
+      "name": "ええ　それもあるけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086703_MSG0019",
+      "style": 0,
+      "name": "でも　それ以上にあいつを倒せるほど\n強くなったあなた達のことが誇らしいわ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086703_MSG0020",
+      "style": 0,
+      "name": "エルマさん　みんなを信じるですも\nみんな　強いんですも[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086703_MSG0020_2",
+      "style": 0,
+      "name": "あんな原生生物　勝てて当然[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086703_MSG0020_2_m",
+      "style": 0,
+      "name": "あんな原生生物　勝てて当然[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086703_MSG0020_2_f",
+      "style": 0,
+      "name": "あんな原生生物　勝てて当然[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086703_MSG0021",
+      "style": 0,
+      "name": "エルマさんはリーダー失格\nなんかじゃないですも[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086703_MSG0021_m",
+      "style": 0,
+      "name": "エルマさんはリーダー失格\nなんかじゃないですも[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086703_MSG0021_f",
+      "style": 0,
+      "name": "エルマさんはリーダー失格\nなんかじゃないですも[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086703_MSG0022",
+      "style": 0,
+      "name": "タツ　ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086703_MSG0023",
+      "style": 0,
+      "name": "エルマチーム　応答してください[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086703_MSG0024",
+      "style": 0,
+      "name": "こちら　ブレイドヘッドクオーター[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086703_MSG0025",
+      "style": 0,
+      "name": "エルマよ　緊急事態？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086703_MSG0026",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086703_MSG0027",
+      "style": 0,
+      "name": "忘却の渓谷で交戦中のテスタメントから\nエマージェンシーコールです[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086703_MSG0028",
+      "style": 0,
+      "name": "まさか　相手はグロウス？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086703_MSG0029",
+      "style": 0,
+      "name": "いえ　原生生物のようです[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086703_MSG0030",
+      "style": 0,
+      "name": "了解　急ぎ救援に向かう[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086703_MSG0031",
+      "style": 0,
+      "name": "聞こえたわね　急行するわよ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086703_MSG0032",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093004_MSG0010",
+      "style": 0,
+      "name": "아직은 무녀의 돌이\n나타날 기색이 없네요……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093004_MSG0020",
+      "style": 0,
+      "name": "이 대륙의 유적은\n클루와 연관이 없는 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093004_MSG0030",
+      "style": 0,
+      "name": "아니, 그건 아닌 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093004_MSG0040",
+      "style": 0,
+      "name": "수도 구역이라는 장소를 살펴봤는데\n희미하지만 클루 형식의 잔재가 있었어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093004_MSG0050",
+      "style": 0,
+      "name": "아마도 고대 서멀 신앙이 원형이지만\n전혀 다른 종교로 변화한 거겠지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093004_MSG0060",
+      "style": 0,
+      "name": "여기에 \"그녀들\"이 있을 가능성이 높아\n정확히 어디에 있는지가 문제인데……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093004_MSG0070",
+      "style": 0,
+      "name": "흐음……\n조금 더 중심부로 들어가야 하나[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093004_MSG0080",
+      "style": 0,
+      "name": "중심부…… 말인가요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093004_MSG0090",
+      "style": 0,
+      "name": "단편적인 기록이지만, 이 유적을 남긴\n외계 문명은 한 명의 왕이 통치하고 있었다고 해[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093004_MSG0100",
+      "style": 0,
+      "name": "이 유적은 말하자면 왕도야……\n그렇다면 왕은 어디에 있을까?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093004_JNK0110",
+      "style": 4,
+      "name": "대답한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev093004_SEL0120",
+      "style": 3,
+      "name": "성이라고 대답한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev093004_MSG0130",
+      "style": 0,
+      "name": "응, 바로 그거야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093004_JNK0140",
+      "style": 4,
+      "name": "떠넘긴다"
+    },
+    {
+      "$id": 15,
+      "label": "qev093004_SEL0150",
+      "style": 3,
+      "name": "세리카에게 묻는다"
+    },
+    {
+      "$id": 16,
+      "label": "qev093004_MSG0160",
+      "style": 0,
+      "name": "저, 저요?\n으~음, 왕이 있는 곳……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093004_MSG0170",
+      "style": 0,
+      "name": "……성 아닐까요?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093004_MSG0180",
+      "style": 0,
+      "name": "바로 그거야, 세리카[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093004_MSG0190",
+      "style": 0,
+      "name": "성이라는 개념은 무슨 이유에서인지\n왕정 문화권에서 흔히 있는 유형이야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093004_MSG0200",
+      "style": 0,
+      "name": "성은 왕과 백성을 나누는 경계선이자\n왕을 외적으로부터 지키는 갑옷이기도 해……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093004_MSG0210",
+      "style": 0,
+      "name": "외적으로부터 지킨다……\n그 돌들처럼 말인가요……?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093004_MSG0220",
+      "style": 0,
+      "name": "연관성은 있지\n남은 건 직접 확인하는 것뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093004_MSG0230",
+      "style": 0,
+      "name": "오 라 심 성으로 가자\n분명 그곳에 답이 있어[ST:wait ]"
+    }
+  ]
+}

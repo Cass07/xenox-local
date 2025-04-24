@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090501_MSG0001",
+      "style": 0,
+      "name": "보살 선생님!\n크…… 큰일입니다……![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090501_MSG0002",
+      "style": 0,
+      "name": "클라리사의 팀이……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090501_MSG0002_2",
+      "style": 0,
+      "name": "이, 이대로는…… 죽을 거예요……![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090501_MSG0003",
+      "style": 0,
+      "name": "저기…… 어떻게 해야 하죠?\n대체 어디에…… 누가 그녀를……!?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090501_MSG0004",
+      "style": 0,
+      "name": "선생님! 제가 어떻게 해야 하는 겁니까!?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090501_MSG0005",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090501_MSG0006",
+      "style": 0,
+      "name": "예끼 이 녀석~~~~~~~~!![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090501_MSG0007",
+      "style": 0,
+      "name": "군인이라면 마땅히 큰 문제가 닥칠수록\n냉정해야만 한다고 가르쳤을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090501_MSG0008",
+      "style": 0,
+      "name": "그대는 내 가르침을 잊었는가!?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090501_MSG0009",
+      "style": 0,
+      "name": "죄, 죄송합니다![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090501_MSG0010",
+      "style": 0,
+      "name": "……저기, 그러면 순서대로 설명하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090501_MSG0011",
+      "style": 0,
+      "name": "선생님, 클라리사를 기억하십니까?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090501_MSG0012",
+      "style": 0,
+      "name": "내가 제자를 잊을 리가 있겠느냐\n그대의 동기였지?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090501_MSG0013",
+      "style": 0,
+      "name": "사관 학교 출신을 모아\n팀을 꾸렸다고 들었는데…… 무슨 일 있었느냐?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090501_MSG0014",
+      "style": 0,
+      "name": "그녀의 팀에게서 소식이 뚝 끊겼습니다\n행방불명된 거죠……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090501_MSG0015",
+      "style": 0,
+      "name": "무어라…… 그러면 행적은 파악했나?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090501_MSG0016",
+      "style": 0,
+      "name": "그게, 수색대를 편성해 달라고 본부에 요청해도\n다들 바쁜 탓에 일이 진전되지 않아서……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090501_MSG0017",
+      "style": 0,
+      "name": "……설명은 충분히 들었다! 이보게……\n함께 그녀를 구하러 가 주지 않겠는가?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090501_MSG0018",
+      "style": 0,
+      "name": "내 간곡히 부탁하네![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090501_MSG0018_2",
+      "style": 0,
+      "name": "난 더 이상 녀석들과의 약속을\n어기고 싶지 않아……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090501_MSG0019",
+      "style": 0,
+      "name": "약속이라니…… 선생님, 그때 일을\n지금도 기억하고 계셨군요……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090501_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 23,
+      "label": "qev090501_SEL0011",
+      "style": 3,
+      "name": "흔쾌히 승낙한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev090501_JNK0020",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 25,
+      "label": "qev090501_SEL0021",
+      "style": 3,
+      "name": "제자와의 약속에 관해 묻는다"
+    },
+    {
+      "$id": 26,
+      "label": "qev090501_MSG0020",
+      "style": 0,
+      "name": "그대라면 그렇게 말해 줄 것 같았지\n고맙군, 이 은혜는 잊지 않겠네[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090501_MSG0021",
+      "style": 0,
+      "name": "이 땅에 온 군인이라면 누구나 할 법한 약속일세\n굳이 이야기해 줄 만큼 대단한 것도 아니지……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090501_MSG0022",
+      "style": 0,
+      "name": "하나, 반드시 해내야만 하네\n내가 보제 로우즈인 이상, 반드시[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090501_MSG0023",
+      "style": 0,
+      "name": "……당장 구출 임무에 나서도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090501_MSG0023_m",
+      "style": 0,
+      "name": "……당장 구출 임무에 나서도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090501_MSG0023_f",
+      "style": 0,
+      "name": "……당장 구출 임무에 나서도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090501_MSG0024",
+      "style": 0,
+      "name": "보살 선생님……\n그리고 당신도……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090501_MSG0025",
+      "style": 0,
+      "name": "부탁드립니다, 클라리사 일행을\n부디 구해 주세요![ST:wait ]"
+    }
+  ]
+}

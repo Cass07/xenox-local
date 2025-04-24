@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051508_MSG0001",
+      "style": 1,
+      "name": "어떤가? 준비는 완벽한가?\n근육은 뜨겁게, 혼은 갈고닦아 맑게 했는가?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051508_MSG0002",
+      "style": 1,
+      "name": "……아니, 우문이었군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051508_MSG0003",
+      "style": 1,
+      "name": "그대 같은 무인은 항상 싸움에 몸을 바쳐\n어떠한 때라도 준비가 되어 있지[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051508_MSG0004",
+      "style": 1,
+      "name": "알고 있다, 나와 그 남자……\n기 장그를 키운 스승, 그 전설의 백인귀사도\n그런 식으로 살아왔으니 말이지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051508_MSG0005",
+      "style": 1,
+      "name": "자기소개가 늦었군\n내 이름은 조 오즈치……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev051508_MSG0006",
+      "style": 1,
+      "name": "라스 무도 대회에서 세 번 우승하고\n기 장그 녀석의 스승과 싸워\n유일하게 살아남은 남자……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev051508_MSG0007",
+      "style": 1,
+      "name": "그리고 자네의 결승 상대라네![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev051508_MSG0008",
+      "style": 1,
+      "name": "[ST:playername ]! 설마\n이런 먼 땅에서 자네 같은 강자와\n다시 만날 수 있으리라곤 생각 못 했네![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev051508_MSG0009",
+      "style": 1,
+      "name": "몸과 마음을 다해! 목숨을 걸고 싸우세!\n우리의 삶은 오직 이 순간에 존재하는 것이라네!![ST:wait ]"
+    }
+  ]
+}

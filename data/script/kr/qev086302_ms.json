@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086302_MSG0001",
+      "style": 0,
+      "name": "자, 재료가 모였습니다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086302_MSG0002",
+      "style": 0,
+      "name": "이걸로 노폰 비전의 한방약을\n만들 수 있겠네요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086302_MSG0003",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086302_MSG0004",
+      "style": 0,
+      "name": "토라, 왜 그러냐모?\n평소보다 더 칙칙한 얼굴이다모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086302_MSG0005",
+      "style": 0,
+      "name": "그럴 때는 어두운 얼굴이라고 하는 거야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086302_MSG0006",
+      "style": 0,
+      "name": "아직 부족하다모[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086302_MSG0007",
+      "style": 0,
+      "name": "모모?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086302_MSG0008",
+      "style": 0,
+      "name": "사실은 여기에다 하나 더……\n수호자의 영린이 필요하다모[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086302_MSG0009",
+      "style": 0,
+      "name": "수호자의 영린……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086302_MSG0010",
+      "style": 0,
+      "name": "뭔지 아세요?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086302_MSG0011",
+      "style": 0,
+      "name": "네……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086302_MSG0012",
+      "style": 0,
+      "name": "수호자의 영린은 어떤 생물만이 떨어뜨리는\n굉장히 희소한 마테리얼입니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086302_MSG0013",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086302_MSG0014",
+      "style": 0,
+      "name": "어떤 생물?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086302_MSG0015",
+      "style": 0,
+      "name": "생명을 다스리는 자\n그렇게 불리고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086302_MSG0016",
+      "style": 0,
+      "name": "그건……![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086302_MSG0017",
+      "style": 0,
+      "name": "틀림없어\n이전에 야광의 숲 안쪽에서 마주친 원시 생물이야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086302_MSG0018",
+      "style": 0,
+      "name": "생명을 다스리는 자는 이 행성 미라의 수호자이며\n부정한 생명을 제거한다고 전해지고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086302_MSG0019",
+      "style": 0,
+      "name": "일찍이 이걸 쓰러뜨린 자는 없습니다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086302_MSG0020",
+      "style": 0,
+      "name": "그런 녀석과 싸워야 하는 건가모!?\n그러면 무리다모![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086302_MSG0021",
+      "style": 0,
+      "name": "토라, 너는 그 병에 걸린 노폰을\n구하고 싶은 거지?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086302_MSG0022",
+      "style": 0,
+      "name": "이 목숨과 바꿔서라도…… 그렇다모[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086302_MSG0023",
+      "style": 0,
+      "name": "알았어\n너의 그 바람, 우리가 이뤄 줄게[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086302_MSG0024",
+      "style": 0,
+      "name": "엘마 씨……![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086302_MSG0025",
+      "style": 0,
+      "name": "노폰의 미래, 엘마 팀이 지켜 내겠어[ST:wait ]"
+    }
+  ]
+}

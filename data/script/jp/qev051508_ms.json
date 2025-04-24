@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051508_MSG0001",
+      "style": 1,
+      "name": "どうだ調子は万全か？\n肉は熱く　魂は研ぎ澄まされているか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051508_MSG0002",
+      "style": 1,
+      "name": "[ST:wide ]―いや　愚問であったな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051508_MSG0003",
+      "style": 1,
+      "name": "オヌシのような武人は　常に戦へ身を捧げ\nいかなる時も抜き身で生きておる[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051508_MSG0004",
+      "style": 1,
+      "name": "分かるよ　俺やあの男[ST:wide ]―\nギ・ザングの育ての親　あの伝説の百人鬼士も\nそんな風に生きて来たのだからな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051508_MSG0005",
+      "style": 1,
+      "name": "自己紹介が遅れたな\n俺の名前はゾ・オズチ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev051508_MSG0006",
+      "style": 1,
+      "name": "ラース武道大会を三大会優勝し\nギ・ザングめの親と戦い唯一生き延びた男[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev051508_MSG0007",
+      "style": 1,
+      "name": "そして　オヌシの決勝の相手だ！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev051508_MSG0008",
+      "style": 1,
+      "name": "[ST:playername ]！　まさか\nこのような異郷の地で　オヌシのような強者と\nまた会えると思わなかったぞ！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev051508_MSG0009",
+      "style": 1,
+      "name": "全身全霊！　命を賭して戦おう！\nこの瞬間のみに　我らが生はあるのだ！！[ST:wait ]"
+    }
+  ]
+}

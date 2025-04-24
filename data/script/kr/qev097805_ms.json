@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev097805_MSG0001",
+      "style": 1,
+      "name": "안녕, 어서 와[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev097805_MSG0002",
+      "style": 1,
+      "name": "너, 멋지게 헤나헤나의 남자 친구를\n찾아내는 데 성공한 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev097805_MSG0003",
+      "style": 1,
+      "name": "남자 친구가 돌아왔다고 전했더니\n헤나헤나도 참, 얼마나 좋았는지\n갑자기 기운을 차리고는[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev097805_MSG0004",
+      "style": 1,
+      "name": "누운 채로 만나는 건 부끄럽다면서\n몸단장을 하기 시작했어……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev097805_MSG0005",
+      "style": 1,
+      "name": "그리고 이제 곧 감동의 재회 시간이지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev097805_MSG0006",
+      "style": 1,
+      "name": "너, 정말 타이밍을 잘 잡았네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev097805_MSG0007",
+      "style": 1,
+      "name": "……오\n슬슬 헤나헤나가 나오려나 봐[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev097805_MSG0008",
+      "style": 1,
+      "name": "헤나헤나~![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev097805_MSG0009",
+      "style": 1,
+      "name": "나다모! 보라보라다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev097805_MSG0010",
+      "style": 1,
+      "name": "돌아왔다모~![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev097805_MSG0011",
+      "style": 1,
+      "name": "……보라보라?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev097805_MSG0012",
+      "style": 1,
+      "name": "정말로 보라보라야모?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev097805_MSG0013",
+      "style": 1,
+      "name": "맞아모!\n네가 건강해질 거라는 말에\n쏜살같이 돌아왔다모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev097805_MSG0014",
+      "style": 1,
+      "name": "아아, 보라보라……!\n줄곧…… 줄곧 보고 싶었어모~![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev097805_MSG0015",
+      "style": 1,
+      "name": "나도다모! 헤나헤나![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev097805_MSG0016",
+      "style": 1,
+      "name": "보라보라![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev097805_MSG0017",
+      "style": 1,
+      "name": "보라보라~~~~!![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev097805_MSG0018",
+      "style": 1,
+      "name": "꾸엑!\n헤나헤나~~~~~~~~~~~~~~[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev097805_MSG0019",
+      "style": 1,
+      "name": "아아……\n겨우 돌아왔으면서……\n역시 당신은 떠나 버리는구나모……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev097805_MSG0020",
+      "style": 1,
+      "name": "헤나헤나가 건강해졌는데도……\n당신은 죄 많은 남자다모……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev097805_MSG0021",
+      "style": 1,
+      "name": "아아…… 그래도 헤나헤나는 언제까지라도\n당신이 돌아오기를 기다릴게모……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev097805_MSG0022",
+      "style": 1,
+      "name": "당신을 믿으며…… 언제까지라도……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev097805_MSG0023",
+      "style": 1,
+      "name": "어…… 그러니까……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev097805_MSG0024",
+      "style": 1,
+      "name": "아무튼 한순간만이라도\n감동적이기는 했으니까…… 괜찮으려나?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev097805_MSG0025",
+      "style": 1,
+      "name": "으음…………[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev097805_MSG0026",
+      "style": 1,
+      "name": "……………………[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev097805_MSG0027",
+      "style": 1,
+      "name": "……있잖아\n혹시 괜찮다면 다시 한번\n날아가 버린 방랑자를 찾아 줄래?[ST:wait ]"
+    }
+  ]
+}

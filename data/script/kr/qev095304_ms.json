@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095304_MSG0030",
+      "style": 1,
+      "name": "힉……! 지구인분\n부디 저희를 살려 주십시오![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095304_MSG0001",
+      "style": 1,
+      "name": "감사합니다, 지구인분[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095304_MSG0002",
+      "style": 1,
+      "name": "그로우스에서 거들먹대는 녀석들보다\n훨씬 강하군요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev095304_MSG0003",
+      "style": 1,
+      "name": "이 사람이라면\n우리를 보호해 줄 수 있지 않을까?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev095304_MSG0004",
+      "style": 1,
+      "name": "믿어 볼 가치는 있을 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev095304_MSG0005",
+      "style": 1,
+      "name": "지구인분, 부탁 하나만 들어주십시오[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev095304_MSG0006",
+      "style": 1,
+      "name": "저희 자르보가인은 전투와는 거리가 멀어서\n그로우스 내에서도 바닥 중의 바닥\n밑바닥 취급을 받고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095304_MSG0007",
+      "style": 1,
+      "name": "하지만 저희는 이 슈트 덕분에\n그 어떤 환경에서도 적응할 수 있죠[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095304_MSG0008",
+      "style": 1,
+      "name": "그래서 이 별에 도착한 후로\n온갖 위험한 장소를 조사하도록\n강요받고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095304_MSG0009",
+      "style": 1,
+      "name": "광폭한 원시 생물들이 활보하는 동굴이나\n발이 미끄러지면 바로 사망할 법한 낭떠러지……\n많은 동료가 조사 중에 죽어 갔습니다……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095304_MSG0010",
+      "style": 1,
+      "name": "이제 그로우스에 종속되어\n사는 건 지긋지긋합니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095304_MSG0011",
+      "style": 1,
+      "name": "부디 여러분의 도시에서\n보호해 주실 수 없을까요?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095304_JNK0010",
+      "style": 4,
+      "name": "보호한다"
+    },
+    {
+      "$id": 14,
+      "label": "qev095304_SEL0011",
+      "style": 3,
+      "name": "자르보가인을 NLA에 맞이한다"
+    },
+    {
+      "$id": 15,
+      "label": "qev095304_JNK0020",
+      "style": 4,
+      "name": "보호하지 않는다"
+    },
+    {
+      "$id": 16,
+      "label": "qev095304_SEL0021",
+      "style": 3,
+      "name": "자르보가인을 이대로 방치한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev095304_MSG0012",
+      "style": 1,
+      "name": "오오……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev095304_MSG0013",
+      "style": 1,
+      "name": "고르보가 신들이여, 감사드립니다……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev095304_MSG0014",
+      "style": 1,
+      "name": "저희는 10여 명으로 구성된 집단입니다만\n당장에라도 여러분의 도시로 가겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev095304_MSG0015",
+      "style": 1,
+      "name": "잘 부탁드립니다![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev095304_MSG0016",
+      "style": 1,
+      "name": "그렇습니까……\n유감이군요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095304_MSG0017",
+      "style": 1,
+      "name": "하지만 저희는 끈기 있는 성격입니다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095304_MSG0018",
+      "style": 1,
+      "name": "몇백 년이라도 이곳에서 기다릴 수 있죠[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095304_MSG0019",
+      "style": 1,
+      "name": "어차피 돌아갈 곳도 없고 말이야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095304_MSG0020",
+      "style": 1,
+      "name": "이제 그로우스에 종속되어\n사는 건 지긋지긋합니다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095304_MSG0021",
+      "style": 1,
+      "name": "부디 여러분의 도시에서\n보호해 주실 수 없을까요?[ST:wait ]"
+    }
+  ]
+}

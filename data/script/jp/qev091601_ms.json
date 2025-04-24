@@ -1,0 +1,330 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091601_MSG0001",
+      "style": 0,
+      "name": "あら　いい子ちゃんのお出ましじゃない\n水を差しに来たの？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091601_MSG0002",
+      "style": 0,
+      "name": "相変わらずだね　マードレス[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091601_MSG0003",
+      "style": 0,
+      "name": "別に男共のケンカを止めるつもりはないけど\n煽るのはどうかと思うよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091601_MSG0004",
+      "style": 0,
+      "name": "煽ってるなんて[ST:wide ]―　冗談でしょ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091601_MSG0005",
+      "style": 0,
+      "name": "腕っ節の強い方を\n次の仕事で使ってあげようかと思ってさ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091601_MSG0006",
+      "style": 0,
+      "name": "悪趣味[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091601_MSG0007",
+      "style": 0,
+      "name": "アンタよりは趣味はいいでしょ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091601_MSG0008",
+      "style": 0,
+      "name": "でも　今日は珍しくいい趣味してるわ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091601_MSG0009",
+      "style": 0,
+      "name": "おもしろい子を連れてるじゃない\nこのクズ共よりは魅力的ね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091601_MSG0009_m",
+      "style": 0,
+      "name": "おもしろい子を連れてるじゃない\nこのクズ共よりは魅力的ね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091601_MSG0009_f",
+      "style": 0,
+      "name": "おもしろい子を連れてるじゃない\nこのクズ共よりは魅力的ね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091601_JNK0010",
+      "style": 4,
+      "name": "挨拶をする"
+    },
+    {
+      "$id": 13,
+      "label": "qev091601_SEL0011",
+      "style": 3,
+      "name": "初めましてと礼儀正しく挨拶をする"
+    },
+    {
+      "$id": 14,
+      "label": "qev091601_JNK0020",
+      "style": 4,
+      "name": "対抗する"
+    },
+    {
+      "$id": 15,
+      "label": "qev091601_SEL0021",
+      "style": 3,
+      "name": "自分に目を付けたマードレスを褒める"
+    },
+    {
+      "$id": 16,
+      "label": "qev091601_JNK0030",
+      "style": 4,
+      "name": "謙遜する"
+    },
+    {
+      "$id": 17,
+      "label": "qev091601_SEL0031",
+      "style": 3,
+      "name": "自分もクズのようなものだと言う"
+    },
+    {
+      "$id": 18,
+      "label": "qev091601_MSG0010",
+      "style": 0,
+      "name": "きちんと挨拶もできるいい子ね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091601_MSG0011",
+      "style": 0,
+      "name": "負けず嫌いかしら　おもしろいわね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091601_MSG0012",
+      "style": 0,
+      "name": "すごくおもしろいわね\nいいわ　ゴミクズちゃん[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091601_MSG0013",
+      "style": 0,
+      "name": "気に入った　イリーナから私に乗り換えない？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091601_MSG0014",
+      "style": 0,
+      "name": "ちょっと待てよ　今はあたしと組んでるんだ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091601_MSG0015",
+      "style": 0,
+      "name": "なら仕方ないか\n私があなた達のチームに入るわね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091601_MSG0016",
+      "style": 0,
+      "name": "ええっ[ST:wide ]―！？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091601_MSG0017",
+      "style": 0,
+      "name": "イリーナ[ST:wide ]―　私はあなたのこと\n嫌いじゃないのよ　そんな嫌そうな顔しないで[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091601_MSG0018",
+      "style": 0,
+      "name": "確かに　私達は生まれは正反対だけど\n育ちは似たようなものなんだし[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091601_MSG0019",
+      "style": 0,
+      "name": "仲良くしても罰はあたらないんじゃない？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091601_MSG0020",
+      "style": 0,
+      "name": "よく言うよ　この前の任務であたしの背中を\n撃ったことは忘れてないんだからね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091601_MSG0021",
+      "style": 0,
+      "name": "私って一石二鳥を狙う効率のいい女だから[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091601_MSG0022",
+      "style": 0,
+      "name": "あのなぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091601_MSG0023",
+      "style": 0,
+      "name": "それはともかくあなたは私と組むべき\nどう？　正しいと思うでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091601_JNK0040",
+      "style": 4,
+      "name": "賛成する"
+    },
+    {
+      "$id": 33,
+      "label": "qev091601_SEL0041",
+      "style": 3,
+      "name": "ぜひ一緒に"
+    },
+    {
+      "$id": 34,
+      "label": "qev091601_JNK0050",
+      "style": 4,
+      "name": "反対する"
+    },
+    {
+      "$id": 35,
+      "label": "qev091601_SEL0051",
+      "style": 3,
+      "name": "縁がなかったということで遠慮する"
+    },
+    {
+      "$id": 36,
+      "label": "qev091601_MSG0024",
+      "style": 0,
+      "name": "そう言うと思ったよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091601_MSG0025",
+      "style": 0,
+      "name": "アンタの決定は尊重するけどさ\nでも　忘れないで[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091601_MSG0026",
+      "style": 0,
+      "name": "アイツは危険な女なんだ　なんせ\n殺人者ってあだ名からして危ないだろ？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091601_MSG0027",
+      "style": 0,
+      "name": "平然と人を蹴落とすし　悪逆非道な行いも\n全く気にも留めない冷酷なヤツなんだ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091601_MSG0028",
+      "style": 0,
+      "name": "子猫ちゃん　人の悪口はいけないって\nママに教えられなかった？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091601_MSG0029",
+      "style": 0,
+      "name": "教えてもらえなかったよ\n母親がいないの知ってるだろ？[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091601_MSG0030",
+      "style": 0,
+      "name": "イリーナは生真面目ね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091601_MSG0031",
+      "style": 0,
+      "name": "それがアダにならないことを祈りつつ[ST:wide ]―\n任務に行きましょうか[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091601_MSG0032",
+      "style": 0,
+      "name": "目標は　偉大なる人類の発展に\n大いに貢献できそうな資源の回収よ[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091601_MSG0033",
+      "style": 0,
+      "name": "いかにもコレペディアンって感じの\nクソくだらない任務だけど　よろしくね[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091601_MSG0034",
+      "style": 0,
+      "name": "わかったよ[ST:wide ]―　今回だけは\nお嬢様のお相手をしてあげようじゃない[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091601_MSG0035",
+      "style": 0,
+      "name": "よくわかってるじゃないか\nその判断は間違ってないよ　大正解だ[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091601_MSG0036",
+      "style": 0,
+      "name": "目標は偉大なる人類の発展に大いに\n貢献できそうな資源の回収よ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091601_MSG0037",
+      "style": 0,
+      "name": "おい　さっき断っただろ\nコイツも一緒に行かないと言ったじゃないか[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091601_MSG0038",
+      "style": 0,
+      "name": "だって　でももう受理されちゃったもの\n今回だけは一緒によろしくね[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091601_MSG0039",
+      "style": 0,
+      "name": "全く[ST:wide ]―　相変わらずズルいな[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091601_MSG0040",
+      "style": 0,
+      "name": "しかたない　今回だけは　お嬢様の\nお相手をしてあげよっか[ST:wait ]"
+    }
+  ]
+}

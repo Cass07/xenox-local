@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085610_MSG0001",
+      "style": 0,
+      "name": "どうやら　この植物から\nＵ．Ｍ反応が検出されていたようね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085610_MSG0002",
+      "style": 0,
+      "name": "データ収集　完了です\nフロンティアネットへアップしました[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085610_MSG0003",
+      "style": 0,
+      "name": "じゃぁ　次へ行きましょうか[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085610_MSG0004",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085610_MSG0005",
+      "style": 0,
+      "name": "二箇所目のデータ収集　完了です\nフロンティアネットへアップしました[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085610_MSG0006",
+      "style": 0,
+      "name": "次で最後ね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085610_MSG0007",
+      "style": 0,
+      "name": "ちゃちゃっと終わらせちゃいましょう！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085610_MSG0008",
+      "style": 0,
+      "name": "フロンティアネットへのアップ確認しました\n完了です[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085610_MSG0009",
+      "style": 0,
+      "name": "これで全部ですね！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085610_MSG0010",
+      "style": 0,
+      "name": "お疲れ様\nダグに連絡するわ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085610_MSG0011",
+      "style": 0,
+      "name": "おう　エルマか[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085610_MSG0012",
+      "style": 0,
+      "name": "こっちは取り込み中なんで\n画面なしで失礼するわ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085610_MSG0013",
+      "style": 0,
+      "name": "戦闘中なの！？\nすぐ救援に向かうわ！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085610_MSG0014",
+      "style": 0,
+      "name": "いやいや　手伝ってもらう程のことじゃない\nうちのチームだけで充分さ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085610_MSG0015",
+      "style": 0,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085610_MSG0016",
+      "style": 0,
+      "name": "ああ　そうだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085610_MSG0016_2",
+      "style": 0,
+      "name": "じゃあ　四つ目のデータ収集\nそっちに頼んでもいいか？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085610_MSG0017",
+      "style": 0,
+      "name": "わかりました\n気をつけてくださいね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085610_MSG0018",
+      "style": 0,
+      "name": "ああ　ボーナスでチョコレート付けるから\n許してくれ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085610_MSG0019",
+      "style": 0,
+      "name": "もう　私にも一杯おごってくださいよ！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085610_MSG0020",
+      "style": 0,
+      "name": "えっ！？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085610_MSG0021",
+      "style": 0,
+      "name": "高くて美味しいって噂の\nココアの店があるんです！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085610_MSG0022",
+      "style": 0,
+      "name": "ああ　そういうことか\nオッケイ　了解だ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085610_MSG0023",
+      "style": 0,
+      "name": "んじゃ　任務終了後に[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085610_MSG0024",
+      "style": 0,
+      "name": "エルマさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085610_MSG0025",
+      "style": 0,
+      "name": "約束を増やしたのはいいことよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085610_MSG0026",
+      "style": 0,
+      "name": "彼のような人は　守らなきゃならない約束が\n増えるほど　生き残る確率が高くなる[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085610_MSG0027",
+      "style": 0,
+      "name": "そんな気がするから[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085610_MSG0028",
+      "style": 0,
+      "name": "それじゃまるで　ラオさんと正反対ですね\n全然　約束守らない人と[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085610_MSG0029",
+      "style": 0,
+      "name": "本当ね\nさあ　はやくデータ収集に行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085610_MSG0030",
+      "style": 0,
+      "name": "私達の一杯のために[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085610_MSG0031",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    }
+  ]
+}

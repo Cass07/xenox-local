@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999930_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999930_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999930_JNK0030",
+      "style": 4,
+      "name": "バトルメンバーに加える[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999930_SEL0031",
+      "style": 3,
+      "name": "活動中のブレイド隊員[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999930_MSG0001",
+      "style": 1,
+      "name": "ハァイ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999930_MSG0101",
+      "style": 1,
+      "name": "ハァイ\n会いたかったわ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999930_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999930_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999930_MSG2001",
+      "style": 1,
+      "name": "私のユニオンからの支援[ST:wide ]―\n期待していいわよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999930_MSG2101",
+      "style": 1,
+      "name": "戦闘中の支援は頼りにしてくれていいわよ[ST:wide ]―\n鞭打ってでも私のユニオンにやらせるから[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999930_MSG3001",
+      "style": 1,
+      "name": "仲間にしたいのね？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999930_MSG3101",
+      "style": 1,
+      "name": "さあ　行きましょう\nどんな場所にでもついていくわ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999930_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999930_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999930_MSG5001",
+      "style": 1,
+      "name": "ふふっ　今は話しかけないで\n取り込み中なのよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999930_MSG5101",
+      "style": 1,
+      "name": "また後で声を掛けてくれるかしら？\nもう少しで終わりそうなの[ST:wait ]"
+    }
+  ]
+}

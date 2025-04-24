@@ -1,0 +1,324 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001295_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]さん[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001295_MSG0002",
+      "style": 1,
+      "name": "ここからマ・ノン船を見てたんです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001295_MSG0003",
+      "style": 1,
+      "name": "ものすごく興味が湧きませんか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001295_MSG0004",
+      "style": 1,
+      "name": "あの技術[ST:wide ]―\nどうやって見つけたんでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001295_MSG0005",
+      "style": 1,
+      "name": "あんな大きなものが飛んでいるというより\n浮いているんですよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001295_MSG0006",
+      "style": 1,
+      "name": "音もほとんどしませんし\nとてもクリーンなエネルギーで\n浮いているんです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001295_MSG0007",
+      "style": 1,
+      "name": "おかげさまでフライトパックを\n完成させることができましたけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001295_MSG0008",
+      "style": 1,
+      "name": "マ・ノンさんたちの技術にはまだまだ\n敵いそうにもありません[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001295_MSG0009",
+      "style": 1,
+      "name": "それにグロウスの技術にも\n目を見張るものがあります[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001295_MSG0010",
+      "style": 1,
+      "name": "ズ・ハッグでしたっけ\nあんな大質量の機体を飛行させるなんて\n私たちにはまだできませんし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001295_MSG0011",
+      "style": 1,
+      "name": "メレデス＆コーや\n偽りなき真心堂を見学させてもらって\n少しでも勉強したいと思っているんです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001295_JNK0010",
+      "style": 4,
+      "name": "応援"
+    },
+    {
+      "$id": 13,
+      "label": "tev001295_SEL0011",
+      "style": 3,
+      "name": "リンなら彼らを越えるものを\n作りだせると励ます"
+    },
+    {
+      "$id": 14,
+      "label": "tev001295_JNK0020",
+      "style": 4,
+      "name": "同行"
+    },
+    {
+      "$id": 15,
+      "label": "tev001295_SEL0021",
+      "style": 3,
+      "name": "自分も見学に行きたいと\n申し出る"
+    },
+    {
+      "$id": 16,
+      "label": "tev001295_MSG0012",
+      "style": 1,
+      "name": "いいえ[ST:wide ]―\nこのままじゃきっとダメなんです[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001295_MSG0013",
+      "style": 1,
+      "name": "私たちがあの技術を築き上げようとしたら\n何十年　何百年と掛かるかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001295_MSG0014",
+      "style": 1,
+      "name": "そうしたらその間にまたマ・ノンさんや\nグロウスが新しい技術を生み出しているに\n違いありません[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001295_MSG0015",
+      "style": 1,
+      "name": "だから　少しでも早く追いつくために[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001295_MSG0016",
+      "style": 1,
+      "name": "お手本となる先生がいるんだから\nしっかりと教えてもらうべきなんです[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001295_MSG0017",
+      "style": 1,
+      "name": "そして　追いついてからは私たちらしさを\n出したいと思うんです[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001295_MSG0018",
+      "style": 1,
+      "name": "一緒に行けたら　楽しいですけど[ST:wide ]―\nでも　大丈夫かなぁ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001295_MSG0019",
+      "style": 1,
+      "name": "私もよくお願いするんですけど\nゼッタイに断られるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001295_MSG0020",
+      "style": 1,
+      "name": "ブレイドのために装備を作っているとはいえ\n一企業ですからね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001295_MSG0021",
+      "style": 1,
+      "name": "技術や情報を漏えいさせちゃいけないんですよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001295_MSG0022",
+      "style": 1,
+      "name": "マ・ノンさんたちも協力はしてくれますけど\n技術そのものを提供してくれているわけ\nじゃないんです[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001295_MSG0023",
+      "style": 1,
+      "name": "あっ[ST:wide ]―と[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001295_MSG0024",
+      "style": 1,
+      "name": "私　勉強ばかりじゃなくて\nちゃんと休んでますから[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001295_MSG0025",
+      "style": 1,
+      "name": "エルマさんによく叱られるんです\n根を詰め過ぎないように\nちゃんと休むことって[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001295_JNK0030",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 31,
+      "label": "tev001295_SEL0031",
+      "style": 3,
+      "name": "今度の休暇は1日中遊ぼうと\n提案する"
+    },
+    {
+      "$id": 32,
+      "label": "tev001295_JNK0040",
+      "style": 4,
+      "name": "かばう"
+    },
+    {
+      "$id": 33,
+      "label": "tev001295_SEL0041",
+      "style": 3,
+      "name": "好きなことで楽しければ\n問題ないとかばう"
+    },
+    {
+      "$id": 34,
+      "label": "tev001295_MSG0026",
+      "style": 1,
+      "name": "1日中ですか[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001295_MSG0027",
+      "style": 1,
+      "name": "楽しそうですね\nリラックスできるかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001295_MSG0028",
+      "style": 1,
+      "name": "けど[ST:wide ]―\n機械から離れるのは難しいかもしれないです[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001295_MSG0029",
+      "style": 1,
+      "name": "例えば　公園に出かけても\n車が走ってますし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001295_MSG0030",
+      "style": 1,
+      "name": "例えば　映画を見ていてもなにかしらの機械が\n出てくるじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001295_MSG0031",
+      "style": 1,
+      "name": "すると　どうやって動いているんだろうとか\nどうすればもっと性能があがるのかなって[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001295_MSG0032",
+      "style": 1,
+      "name": "ふと考えちゃうんですよね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001295_MSG0033",
+      "style": 1,
+      "name": "フライトパックを完成させたら\n一段落するかと思ったんですけど[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001295_MSG0034",
+      "style": 1,
+      "name": "あのときの楽しさが忘れられなくて\nまたどんどん改良させたいって気持ちに\nなるんです[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001295_MSG0035",
+      "style": 1,
+      "name": "[ST:wide ]―[ST:playername ]さんと話してたら\nメカニックの血が騒いできました[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001295_MSG0036",
+      "style": 1,
+      "name": "私　ドール見てきます\nじゃあ　また　ブレイドホームで！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001295_MSG0037",
+      "style": 1,
+      "name": "ありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001295_MSG0038",
+      "style": 1,
+      "name": "メカニックとしての仕事は\n楽しくてすごく大好きで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001295_MSG0039",
+      "style": 1,
+      "name": "失敗することもたくさんありますけど\nいくらでもやれるんですよね[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001295_MSG0040",
+      "style": 1,
+      "name": "夢中になって体調管理がおろそかになるって\nことをエルマさんは心配してくれるんだと\n思いますけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001295_MSG0041",
+      "style": 1,
+      "name": "今日は一時間だけにしておこうって\n我慢するのも心に毒な気もして[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001295_MSG0042",
+      "style": 1,
+      "name": "[ST:wide ]―って[ST:playername ]さんと話してたら\nメカニックの血が騒いできました[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev001295_MSG0043",
+      "style": 1,
+      "name": "私　ドール見てきます\nじゃあ　また　ブレイドホームで！[ST:wait ]"
+    }
+  ]
+}

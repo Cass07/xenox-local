@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32070100_MSG0010",
+      "style": 0,
+      "name": "ここで戦闘があったみたいだな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32070100_MSG0020",
+      "style": 0,
+      "name": "グロウス兵以外の遺体がない[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32070100_MSG0030",
+      "style": 0,
+      "name": "まだ生きてる可能性がありそうですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32070100_MSG0040",
+      "style": 0,
+      "name": "ええ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32070100_MSG0050",
+      "style": 0,
+      "name": "探しましょう[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32070100_MSG0060",
+      "style": 0,
+      "name": "何者だ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32070100_MSG0070",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "xs32070100_MSG0080",
+      "style": 0,
+      "name": "あなたは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32070100_MSG0090",
+      "style": 0,
+      "name": "お前らは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32070100_MSG0100",
+      "style": 0,
+      "name": "そうか　仲間を探しに来たのか[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32070100_MSG0110",
+      "style": 0,
+      "name": "何か知っているの？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32070100_MSG0120",
+      "style": 0,
+      "name": "ここで何があったの？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32070100_MSG0130",
+      "style": 0,
+      "name": "我々は　お前たちの脱出計画に賛同して[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32070100_MSG0140",
+      "style": 0,
+      "name": "先んじてＮＬＡに子供らを護送していたのだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32070100_MSG0150",
+      "style": 0,
+      "name": "その際　この近くを通ったのだが[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32070100_MSG0160",
+      "style": 0,
+      "name": "偶然にもここでグロウスどもと戦闘をする\n地球人を見つけ加勢したのだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32070100_MSG0170",
+      "style": 0,
+      "name": "戦闘には勝利したのだが負傷した者も出てな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32070100_MSG0180",
+      "style": 0,
+      "name": "今は負傷兵の移送を行っている[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32070100_MSG0190",
+      "style": 0,
+      "name": "そうだったのね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32070100_MSG0200",
+      "style": 0,
+      "name": "感謝するわ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32070100_MSG0210",
+      "style": 0,
+      "name": "礼には及ばん[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32070100_MSG0220",
+      "style": 0,
+      "name": "そなた達の仲間は\n我らの根城で治療を行っている[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32070100_MSG0230",
+      "style": 0,
+      "name": "ガ・ボウさん[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32070100_MSG0240",
+      "style": 0,
+      "name": "一緒に　マ・ノン人を見かけませんでしたか？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32070100_MSG0250",
+      "style": 0,
+      "name": "我らは見かけてはいないが[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32070100_MSG0260",
+      "style": 0,
+      "name": "別部隊もいたゆえそちらで保護したかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32070100_MSG0270",
+      "style": 0,
+      "name": "もし迷惑でなければ今から城に\n行ってもいいかしら？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32070100_MSG0280",
+      "style": 0,
+      "name": "ああ　構わん[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32070100_MSG0290",
+      "style": 0,
+      "name": "何をしている！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32070100_MSG0300",
+      "style": 0,
+      "name": "まだ残りがいやがったか[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32070100_MSG0310",
+      "style": 0,
+      "name": "貴様ら皆殺しだ！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32070100_MSG0320",
+      "style": 0,
+      "name": "ここは私達に任せて[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32070100_MSG0330",
+      "style": 0,
+      "name": "あなた達は急いで負傷兵の移送を[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32070100_MSG0340",
+      "style": 0,
+      "name": "[ST:wide ]―承知した[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32070100_MSG0350",
+      "style": 0,
+      "name": "あとを任せる[ST:wait ]"
+    }
+  ]
+}

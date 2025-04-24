@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085607_MSG0001",
+      "style": 1,
+      "name": "드디어 라오를 잡았어\n약속을 내팽개친 걸 반성하고 있는 모양이니[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085607_MSG0002",
+      "style": 1,
+      "name": "초콜릿이든 코코아든\n원하는 걸 사 달라고 해[ST:wait ]"
+    }
+  ]
+}

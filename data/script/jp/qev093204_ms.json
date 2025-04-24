@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093204_MSG0010",
+      "style": 0,
+      "name": "ほらよ　ご注文のズースの肉だ\nこれで今度こそピザを作れるな？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093204_MSG0020",
+      "style": 0,
+      "name": "あ　はい[ST:wide ]―！　もちろんです！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093204_MSG0030",
+      "style": 0,
+      "name": "なんというか[ST:wide ]―　すごいですね\nピザにここまでやる人　初めて見ましたよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093204_MSG0040",
+      "style": 0,
+      "name": "言ったろ\n初志貫徹がオレのモットーなんだよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093204_MSG0050",
+      "style": 0,
+      "name": "人生ってのは何が起きるかわからない\n明日には死んじまうことだってある[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093204_MSG0060",
+      "style": 0,
+      "name": "後悔したくないんだよ　何であれな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093204_MSG0070",
+      "style": 0,
+      "name": "か　かっけぇ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093204_MSG0080",
+      "style": 0,
+      "name": "お前も　ここまでよく付き合ってくれたな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093204_MSG0090",
+      "style": 0,
+      "name": "普通に飯を食うだけのつもりだったが[ST:wide ]―\n予定変更だ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093204_MSG0100",
+      "style": 0,
+      "name": "今日は盛大にピザパーティといこうぜ\nオレからお前への報酬ってことでな[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093204_MSG0110",
+      "style": 0,
+      "name": "あ　では　ピザはデリバリーで？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093204_MSG0120",
+      "style": 0,
+      "name": "ああ　ブレイドホーム宛に頼む[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093204_MSG0130",
+      "style": 0,
+      "name": "支払いは[ST:wide ]―　ブレイド本部の\nヴァンダムにでもツケといてくれ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093204_MSG0140",
+      "style": 0,
+      "name": "わかりました！\n焼き立てを超特急でお届けしますんで！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093204_MSG0150",
+      "style": 0,
+      "name": "よーし　あとは待つだけだ\nさあ　戻ろうぜ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev101201_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev101201_SEL0011",
+      "style": 3,
+      "name": "デフィニア人の凶行を\n止める方法を聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev101201_JNK0020",
+      "style": 4,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev101201_SEL0021",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev101201_MSG0001",
+      "style": 1,
+      "name": "そうですね……いまから言うことを聞いたら\n教えてあげてもいいですよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev101201_MSG0002",
+      "style": 1,
+      "name": "まず　そこにいる裏切り者のエリオを\n殺してください[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev101201_MSG0003",
+      "style": 1,
+      "name": "ありとあらゆる苦痛を与え　母であり王である\n私に歯向かった罪を償わせてやるのです[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev101201_MSG0004",
+      "style": 1,
+      "name": "そしてその後　丁重に娘達のもとへと\n連れて行きなさい[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev101201_MSG0005",
+      "style": 1,
+      "name": "ふふっ　そうしたら　あなたの知りたいことを\nなんでも教えて差し上げましょう？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev101201_MSG0008",
+      "style": 1,
+      "name": "今や娘達が　私をさらった者達を殺すため\n奔走していることでしょう[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev101201_MSG0009",
+      "style": 1,
+      "name": "ふふっ　気を付けた方が良いですよ\n我が優秀な娘は　どんな姿にでもなれる[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev101201_MSG0010",
+      "style": 1,
+      "name": "あなたと共にいる仲間達の誰かに\n既に入れ替わっている可能性もあるのですから[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev101201_MSG0011",
+      "style": 1,
+      "name": "[ST:wide ]―後悔してももう遅いですよ？\nせいぜい　裏切り者のエリオと共に\n残り短い余生を　楽しんでいなさい[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev101201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev101201_SEL1011",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev101201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev101201_SEL1021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev101201_MSG0012",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "tev101201_MSG0013",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev101201_MSG0014",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev101201_MSG0017",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev101201_MSG0018",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev101201_MSG0019",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev101201_MSG0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev101201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev101201_SEL2011",
+      "style": 3,
+      "name": "何か役に立つ情報を聞き出す[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev101201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev101201_SEL2021",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev101201_MSG0021",
+      "style": 1,
+      "name": "ベアポージという動物が白樹の大陸の\n西の灰燼砂丘で多く捕らえられるそうです！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev101201_MSG0022",
+      "style": 1,
+      "name": "どうですか！？\n有用な情報だと思いませんか！？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev101201_MSG0023",
+      "style": 1,
+      "name": "もう私は心を入れ替えたのです！\nだから[ST:wide ]―どうか下へ戻してください！！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev101201_MSG0026",
+      "style": 1,
+      "name": "[ST:wide ]―ひっ！　風が！\n[ST:playername ]！　助けてください！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev101201_MSG0027",
+      "style": 1,
+      "name": "エリオに　女王様に相応しい場所に\n連れて行ってやるだなんて言われて……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev101201_MSG0028",
+      "style": 1,
+      "name": "こんな所に置き去りにされ\nずっと身動きが取れぬのです！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev101201_MSG0029",
+      "style": 1,
+      "name": "さしもの私も　ここから落下すれば\nただではすまないでしょう……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev101201_MSG0030",
+      "style": 1,
+      "name": "お願いです！　もうあなた方に危害など\n加えようなどとは考えませんから\nどうか　下へ戻してください！！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev101201_MSG0031",
+      "style": 1,
+      "name": "しっしっ！\nこっちに来るんじゃありません！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev101201_MSG0032",
+      "style": 1,
+      "name": "大人しく　私の娘に\n倒されておしまいなさい！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000392_MSG0001",
+      "style": 1,
+      "name": "오, [ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000392_MSG0002",
+      "style": 1,
+      "name": "지금 신고한테 전투 노하우를\n철저히 가르치는 중이다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000392_MSG0003",
+      "style": 1,
+      "name": "패스파인더라고는 해도\n그로우스나 원시 생물과 맞닥뜨릴 때도 많아[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000392_MSG0004",
+      "style": 1,
+      "name": "그럴 때 최소한 자이덴이나 몬도를\n방해하지 않도록 자신의 목숨 정도는\n지킬 수 있어야 해[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000392_MSG0005",
+      "style": 1,
+      "name": "신고는 이해가 빨라\n그저 경험이 조금 부족할 뿐이지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000392_MSG0006",
+      "style": 1,
+      "name": "너라면 어떻게 단련시킬 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000392_JNK0010",
+      "style": 4,
+      "name": "엄격하게"
+    },
+    {
+      "$id": 8,
+      "label": "tev000392_SEL0011",
+      "style": 3,
+      "name": "엄격하게 지도하여 빈틈없는\n한 명의 전사로 만든다"
+    },
+    {
+      "$id": 9,
+      "label": "tev000392_JNK0020",
+      "style": 4,
+      "name": "칭찬한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev000392_SEL0021",
+      "style": 3,
+      "name": "칭찬하여 장점을 키운다"
+    },
+    {
+      "$id": 11,
+      "label": "tev000392_MSG0007",
+      "style": 1,
+      "name": "훗…… 나랑 똑같군[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000392_MSG0008",
+      "style": 1,
+      "name": "도시 밖으로 나가서 적과 조우하면\n속 편하게 가르칠 시간 같은 건 없어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000392_MSG0009",
+      "style": 1,
+      "name": "그러니 이럴 때 철저하게 가르쳐야지\n내가 가진 경험을 최대한 많이[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000392_MSG0010",
+      "style": 1,
+      "name": "이 별에서의 경험뿐만 아니라\n지구에서 쌓은 기술도 말이야[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000392_MSG0011",
+      "style": 1,
+      "name": "그 어떤 예상 밖의 사태가 일어나도\n살아남기만 하면 다음 기회로 이어 나갈 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000392_MSG0012",
+      "style": 1,
+      "name": "최종적으로는 설령 나랑 자이덴이 당해서\n혼자가 되더라도 살아남을 수 있게끔\n단련시키는 게 내 목표야[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000392_MSG0013",
+      "style": 1,
+      "name": "훗…… 그러냐\n너는 그런 식으로 성장한 모양이군[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000392_MSG0014",
+      "style": 1,
+      "name": "나도 신고의 장점을 잔뜩\n키워 주는 게 맞을지도 모르지[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000392_MSG0015",
+      "style": 1,
+      "name": "팀으로 활동하는 동안은\n그런 방식이 도움이 될 테니까[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000392_MSG0016",
+      "style": 1,
+      "name": "하지만 만약 신고 혼자 고립된 상태라면?\n혹은 살아남은 게 신고뿐이라면?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000392_MSG0017",
+      "style": 1,
+      "name": "그런 순간에 약점을 찔리면\n순식간에 목숨이 달아날 거야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000392_MSG0018",
+      "style": 1,
+      "name": "라이플 탄환을 다 쏴 버렸다고 해서\n싸울 수 없게 되면 곤란하잖아?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000392_MSG0019",
+      "style": 1,
+      "name": "이 별의 원시 생물은 무자비해\n어떤 상황에서든 살아남을 수 있게\n단련시키고 싶다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000392_MSG0020",
+      "style": 1,
+      "name": "말이 너무 많았군[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000392_MSG0021",
+      "style": 1,
+      "name": "우리는 이제부터 돌 조종 훈련을 할 거다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000392_MSG0022",
+      "style": 1,
+      "name": "임무 있을 때 또 보자[ST:wait ]"
+    }
+  ]
+}

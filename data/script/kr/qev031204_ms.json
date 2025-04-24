@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev031204_MSG0001",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev031204_MSG0002",
+      "style": 1,
+      "name": "……라비나![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev031204_MSG0003",
+      "style": 1,
+      "name": "후후……\n내가 여기 있다는 걸 용케 알았네에?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev031204_MSG0004",
+      "style": 1,
+      "name": "당연히 알지! 그날……\nNLA를 빠져나와 여기까지 와서……\n너와 함께 미래를 약속했잖아[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev031204_MSG0005",
+      "style": 1,
+      "name": "여기 말고 네가 갈 곳이\n또 어디 있겠어……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev031204_MSG0006",
+      "style": 1,
+      "name": "……지금 들고 있는 건\n사파이어 뿔과 링 스톤 맞지?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev031204_MSG0007",
+      "style": 1,
+      "name": "후후, 그러면 그날의 약속을\n지켜 달라고 해 볼까아[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev031204_MSG0008",
+      "style": 1,
+      "name": "바이어스는 있지이……\n짐승의 뿔로 만든 반지를\n사랑하는 사람에게 끼우고 하나가 돼애[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev031204_MSG0009",
+      "style": 1,
+      "name": "그렇게 맺어진 부부는 설령 부모라 해도\n절대 갈라놓을 수 없어……\n그게 바이어스 결혼의 철칙이야아[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev031204_MSG0010",
+      "style": 1,
+      "name": "그러니 레로이, 지금 이 자리에서\n나와 결혼해 줘…… 괜찮겠지이?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev031204_MSG0011",
+      "style": 1,
+      "name": "물론이야……\n반드시 행복하게 해 줄게……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev031204_MSG0012",
+      "style": 1,
+      "name": "그렇게 말해 줄 거라 믿었어어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev031204_MSG0013",
+      "style": 1,
+      "name": "그러면…… 저기, 당신\n우리 결혼의 증인이 되어 주겠어어?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev031204_JNK0010",
+      "style": 4,
+      "name": "수락"
+    },
+    {
+      "$id": 15,
+      "label": "qev031204_SEL0011",
+      "style": 3,
+      "name": "결혼의 증인이 되겠다고 말한다"
+    },
+    {
+      "$id": 16,
+      "label": "qev031204_JNK0020",
+      "style": 4,
+      "name": "거절"
+    },
+    {
+      "$id": 17,
+      "label": "qev031204_SEL0021",
+      "style": 3,
+      "name": "자신은 두 사람을 축복해 줄\n입장이 아니라고 말한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev031204_MSG0014",
+      "style": 1,
+      "name": "부모나 동료들에게 버림받을지도 모르지만\n이해해 주는 사람이 한 명이라도 있다면……\n우리는 앞으로 나아갈 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev031204_MSG0015",
+      "style": 1,
+      "name": "……고마워어[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev031204_MSG0016",
+      "style": 1,
+      "name": "그렇구나……\n누구에게도 축복받지 못한다니 쓸쓸하네에[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev031204_MSG0017",
+      "style": 1,
+      "name": "하지만 이게 우리가 선택한 길이야\n누가 무슨 말을 하든 함께 나아가겠어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev031204_MSG0018",
+      "style": 1,
+      "name": "그렇게는 안 된다![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev031204_MSG0019",
+      "style": 1,
+      "name": "드디어 찾았구나아, 라비나!\n자, 어서 동료들 곁으로 돌아오거라아![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev031204_MSG0020",
+      "style": 1,
+      "name": "……힉! 장인어른!?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev031204_MSG0021",
+      "style": 1,
+      "name": "이 나약한 녀석! 네가 뭐라고\n날 장인어른이라 부르느냐![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev031204_MSG0022",
+      "style": 1,
+      "name": "자, [ST:playername ]……\n어서 녀석들을 붙잡아 다오![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev031204_MSG0023",
+      "style": 1,
+      "name": "……뭘 망설이는 거지이?\n넌 저런 한심한 남자가 라비나를\n지킬 수 있을 거라 생각하는 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev031204_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 29,
+      "label": "qev031204_SEL0031",
+      "style": 3,
+      "name": "평생을 바쳐 라비나를 지키는 게\n레로이가 할 일이라고 말한다"
+    },
+    {
+      "$id": 30,
+      "label": "qev031204_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 31,
+      "label": "qev031204_SEL0041",
+      "style": 3,
+      "name": "레로이는 라비나를 지켜 내지\n못할 거라고 솔직하게 말한다"
+    },
+    {
+      "$id": 32,
+      "label": "qev031204_MSG0024",
+      "style": 1,
+      "name": "……고마워\n너의 신뢰…… 절대 배신하지 않겠어[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev031204_MSG0025",
+      "style": 1,
+      "name": "크으윽……! 날 배신했겠다!\n괜찮은 녀석 같았지만\n결국 지구인이라는 건가![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev031204_MSG0026",
+      "style": 1,
+      "name": "그렇다면 일단 너부터 피투성이로 만들어 주마!\n내 딸을 너희 외계인들에게 넘겨줄 순 없다아![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev031204_MSG0027",
+      "style": 1,
+      "name": "……다들, 우리를 인정하지 않는구나[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev031204_MSG0028",
+      "style": 1,
+      "name": "후후, 너에게 아군 따윈 없다아!\n얌전히 라비나를 바이어스에게 돌려보내라![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev031204_MSG0029",
+      "style": 1,
+      "name": "지구인이든 바이어스든 상관없어……\n이 세상 전부가 적이 되더라도\n우리의 사랑을 지키고 말 거야[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev031204_MSG0030",
+      "style": 1,
+      "name": "……라비나, 이쪽으로![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "NewText_51",
+      "style": 1,
+      "name": "뭐…… 앗! 응![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev031204_MSG0031",
+      "style": 1,
+      "name": "큭…… 도망쳤나!\n전원, 녀석을 쫓아라아![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev031204_MSG0032",
+      "style": 1,
+      "name": "[ST:playername ], 너도 가세해 다오\n겁쟁이 지구인에게서 라비나를 되찾는 거다아![ST:wait ]"
+    }
+  ]
+}

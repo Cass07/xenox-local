@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086605_MSG0001",
+      "style": 0,
+      "name": "더그 씨![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086605_MSG0002",
+      "style": 0,
+      "name": "왔어? 위에 있던 원시 생물은\n처리했나 보네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086605_MSG0003",
+      "style": 0,
+      "name": "응, 이리나는?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086605_MSG0004",
+      "style": 0,
+      "name": "괜찮습니다\n더그에게 응급 처치를 받았으니까요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086605_MSG0005",
+      "style": 0,
+      "name": "역시 더그 씨![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086605_MSG0006",
+      "style": 0,
+      "name": "뭘, 너희들이 싸우는 게 보여서 말이지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086605_MSG0007",
+      "style": 0,
+      "name": "가장 먼저 도착할 순 없어도\n도움이 되는 게 있어서 다행이야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086605_MSG0008",
+      "style": 0,
+      "name": "떨어뜨린 물건이야\n무사히 돌려줄 수 있어서 다행이네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086605_MSG0009",
+      "style": 0,
+      "name": "엘마 대령님……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086605_MSG0010",
+      "style": 0,
+      "name": "이리나 중위님~~![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086605_MSG0011",
+      "style": 0,
+      "name": "어, 어라?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086605_MSG0012",
+      "style": 0,
+      "name": "넌 이제 와서 뭐야?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086605_MSG0013",
+      "style": 0,
+      "name": "아, 그게, 이리나 중위님과 나눠서\n표류물을 찾고 있었는데, 구조 신호가……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086605_MSG0014",
+      "style": 0,
+      "name": "정말이지, 그윈 씨\n늦었잖아요![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086605_MSG0015",
+      "style": 0,
+      "name": "역시나[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086605_MSG0016",
+      "style": 0,
+      "name": "괜찮아, 그윈\n빠르고 늦고를 떠나서[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086605_MSG0017",
+      "style": 0,
+      "name": "필사적으로 와 준 너의 마음\n꽤 기뻐[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086605_MSG0018",
+      "style": 0,
+      "name": "주, 중위님[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086605_MSG0019",
+      "style": 0,
+      "name": "좋아, 뒷일은 맡길게\n네가 NLA까지 데려가 줘[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086605_MSG0020",
+      "style": 0,
+      "name": "아, 네![ST:wait ]"
+    }
+  ]
+}

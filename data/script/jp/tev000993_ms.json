@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000993_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000993_MSG0002",
+      "style": 1,
+      "name": "今　不届き者を伸したところだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000993_MSG0003",
+      "style": 1,
+      "name": "こやつはNLA市民としての役割を全うせず\n不平不満ばかりもらしておったから\n喝を入れたのだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000993_MSG0004",
+      "style": 1,
+      "name": "されど　威勢よく俺につっかかってきた[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000993_MSG0005",
+      "style": 1,
+      "name": "その意気やよし！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000993_MSG0006",
+      "style": 1,
+      "name": "と言いたいところだが\n実力が伴っていなかったな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000993_MSG0007",
+      "style": 1,
+      "name": "自分が与えられた役割の重さを\n理解できないのならば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000993_MSG0008",
+      "style": 1,
+      "name": "一度ブレイドとなって\n外に出て生死を掛けさせてみるのは名案だと\n思わんか？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000993_MSG0009",
+      "style": 1,
+      "name": "このNLAで住むことのありがたさが\n分かるというものだ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000993_JNK0010",
+      "style": 4,
+      "name": "同意"
+    },
+    {
+      "$id": 11,
+      "label": "tev000993_SEL0011",
+      "style": 3,
+      "name": "それは名案だと\nボゼに同意する"
+    },
+    {
+      "$id": 12,
+      "label": "tev000993_JNK0020",
+      "style": 4,
+      "name": "反対"
+    },
+    {
+      "$id": 13,
+      "label": "tev000993_SEL0021",
+      "style": 3,
+      "name": "死なせてしまうのではと\n心配する"
+    },
+    {
+      "$id": 14,
+      "label": "tev000993_MSG0010",
+      "style": 1,
+      "name": "やはりオヌシもそう思うか[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000993_MSG0011",
+      "style": 1,
+      "name": "己を知ることで\n生きる意義も見つけられよう[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000993_MSG0012",
+      "style": 1,
+      "name": "例え　戦場に出なくとも\nやるべきこととやれることはいくらでもある[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000993_MSG0013",
+      "style": 1,
+      "name": "すべては心意気次第\n受け止め方ひとつで変えられるのだ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000993_MSG0014",
+      "style": 1,
+      "name": "それには心配無用だ\n俺が面倒を見る[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000993_MSG0015",
+      "style": 1,
+      "name": "他人の立場に立ち\n向かい合うことで本当の自分が分かる[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000993_MSG0016",
+      "style": 1,
+      "name": "ここでたむろって不平を言っているのも\nただ自分に何かを変える力がなく\n誰かにわがままをきいてほしいだけだとな[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000993_MSG0017",
+      "style": 1,
+      "name": "例え　戦場に出なくとも\nやるべきこととやれることはいくらでもある[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000993_MSG0018",
+      "style": 1,
+      "name": "すべては心意気次第\n受け止め方ひとつで変えられるのだ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000993_MSG0019",
+      "style": 1,
+      "name": "俺に喝を入れられた瞬間から\nこやつは俺の生徒も同然じゃ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000993_MSG0020",
+      "style": 1,
+      "name": "ふむ[ST:wide ]―\nオヌシはこやつの初任務は\n何が相応しいと思う？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000993_JNK0030",
+      "style": 4,
+      "name": "アヴァランチ"
+    },
+    {
+      "$id": 26,
+      "label": "tev000993_SEL0031",
+      "style": 3,
+      "name": "オーバードを倒す任務"
+    },
+    {
+      "$id": 27,
+      "label": "tev000993_JNK0040",
+      "style": 4,
+      "name": "コレペディアン"
+    },
+    {
+      "$id": 28,
+      "label": "tev000993_SEL0041",
+      "style": 3,
+      "name": "コレクションアイテムを\n収集する任務"
+    },
+    {
+      "$id": 29,
+      "label": "tev000993_JNK0050",
+      "style": 4,
+      "name": "コンパニオン"
+    },
+    {
+      "$id": 30,
+      "label": "tev000993_SEL0051",
+      "style": 3,
+      "name": "NLAの秩序を守る任務"
+    },
+    {
+      "$id": 31,
+      "label": "tev000993_MSG0021",
+      "style": 1,
+      "name": "さすがだな[ST:wide ]―\n素人にも容赦がない[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000993_MSG0022",
+      "style": 1,
+      "name": "ちと危険な任務だが\n俺が全力でサポートすることにしよう[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000993_MSG0023",
+      "style": 1,
+      "name": "恐怖を体験することで\n見えてくるものも多いだろうからな[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000993_MSG0024",
+      "style": 1,
+      "name": "ふむ[ST:wide ]―\n的確な判断だな[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000993_MSG0025",
+      "style": 1,
+      "name": "比較的危険も少なく\nNLAの周辺でも達成できるな[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000993_MSG0026",
+      "style": 1,
+      "name": "どうしても敵いそうにない原生生物と\n出会ったら逃げればいいだけのこと[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000993_MSG0027",
+      "style": 1,
+      "name": "甘いのぉ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000993_MSG0028",
+      "style": 1,
+      "name": "秩序を知らぬ人間が秩序を守る任務なんぞ\n百年早いだろう[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000993_MSG0029",
+      "style": 1,
+      "name": "ここはインターセプターの任務を受けてくると\nしよう[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000993_MSG0030",
+      "style": 1,
+      "name": "命を賭けることで\n見えてくるものも多いだろうからな[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000993_MSG0031",
+      "style": 1,
+      "name": "では　メンテナンスセンターに連れて行き\n回復次第　ブレイドの仕事に\n就かせてやるとしよう[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000993_MSG0032",
+      "style": 1,
+      "name": "フフフッ\nこやつがどう成長するか楽しみだ[ST:wait ]"
+    }
+  ]
+}

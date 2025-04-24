@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001592_MSG0001",
+      "style": 1,
+      "name": "안녕, 너도 구경 왔니?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001592_JNK0010",
+      "style": 4,
+      "name": "비난한다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001592_SEL0011",
+      "style": 3,
+      "name": "또 싸움을 부추겼냐고 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001592_JNK0020",
+      "style": 4,
+      "name": "제안한다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001592_SEL0021",
+      "style": 3,
+      "name": "싸움을 말리자고 제안한다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001592_MSG0002",
+      "style": 1,
+      "name": "말이 심하네\n나라고 매번 싸움판을 만드는 건 아니야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001592_MSG0003",
+      "style": 1,
+      "name": "오늘은 어디까지나 구경꾼이라고[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001592_JNK0110",
+      "style": 4,
+      "name": "납득한다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001592_SEL0111",
+      "style": 3,
+      "name": "머더레스의 주장에는\n일리가 있다고 납득한다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001592_JNK0120",
+      "style": 4,
+      "name": "반론한다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001592_SEL0121",
+      "style": 3,
+      "name": "그래도 대화를 통해\n결판을 내야 한다고 주장한다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001592_JNK0130",
+      "style": 4,
+      "name": "의심한다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001592_SEL0131",
+      "style": 3,
+      "name": "굳이 변명하는 게\n오히려 의심스럽다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001592_MSG0004",
+      "style": 1,
+      "name": "훌륭해\n내가 하고 싶은 말을 바로 이해해 주는구나[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001592_MSG0005",
+      "style": 1,
+      "name": "……이야기하는 중에\n결판이 난 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001592_MSG0006",
+      "style": 1,
+      "name": "하여간, 에골은 도움이 안 돼……\n푼돈도 만족스럽게 못 벌겠네[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001592_MSG0007",
+      "style": 1,
+      "name": "……그냥 혼잣말이야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001592_MSG0008",
+      "style": 1,
+      "name": "그럼 또 블레이드 에어리어에서 봐[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001592_MSG0009",
+      "style": 1,
+      "name": "넘쳐 나는 불만이\n대화만으로 해소될 수 있다면 좋겠지만[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001592_MSG0010",
+      "style": 1,
+      "name": "이 도시에 즐길 게 많은 것도 아니고\n한계라는 게 있잖아[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001592_MSG0011",
+      "style": 1,
+      "name": "누구나 스트레스를 발산할 곳을 찾고 있어\n특히 민중은 말이지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001592_MSG0012",
+      "style": 1,
+      "name": "……이야기하는 중에\n결판이 난 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001592_MSG0013",
+      "style": 1,
+      "name": "하여간, 에골은 도움이 안 돼……\n푼돈도 만족스럽게 못 벌겠네[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001592_MSG0014",
+      "style": 1,
+      "name": "……그냥 혼잣말이야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001592_MSG0015",
+      "style": 1,
+      "name": "그럼 또 블레이드 에어리어에서 봐[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001592_MSG0016",
+      "style": 1,
+      "name": "정말 의심도 많지\n내가 그렇게나 신용이 없나?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001592_MSG0017",
+      "style": 1,
+      "name": "……없구나[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001592_MSG0018",
+      "style": 1,
+      "name": "날카롭고 현명한 너라면 눈치챘겠지만\n지금도 내기를 하는 중이야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001592_MSG0019",
+      "style": 1,
+      "name": "에골이 이길지 다니엘이 이길지로 말이지[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001592_MSG0020",
+      "style": 1,
+      "name": "고대 로마의 콜로세움은 아니지만\n즐길 게 거의 없는 NLA에서는\n이런 놀이라도 필요하다고[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001592_MSG0021",
+      "style": 1,
+      "name": "……이야기하는 중에\n결판이 난 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001592_MSG0022",
+      "style": 1,
+      "name": "후후, 에골의 승리야\n4000G 정도 벌었으려나[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001592_MSG0023",
+      "style": 1,
+      "name": "그러면 난 기분 좋게 돌아가 볼까\n또 블레이드 에어리어에서 만나자[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001592_MSG0024",
+      "style": 1,
+      "name": "그건 바람직하지 못해[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001592_MSG0025",
+      "style": 1,
+      "name": "중간에 싸움을 말려 봤자\n아무도 받아들이지 않을걸?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001592_MSG0026",
+      "style": 1,
+      "name": "너 말고는[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001592_MSG0027",
+      "style": 1,
+      "name": "맨손으로 주먹다짐이라니\n아직 순수한 편이잖아[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001592_MSG0028",
+      "style": 1,
+      "name": "총이나 칼은 사용하지 않는 데다가\n시작 신호에 맞춰서 때리고 있고……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001592_MSG0029",
+      "style": 1,
+      "name": "약육강식인 이 세계에서는\n평화롭고 공정한 문제 해결법 아니니?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001592_JNK0030",
+      "style": 4,
+      "name": "납득한다[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001592_SEL0031",
+      "style": 3,
+      "name": "머더레스의 주장에는\n일리가 있다고 납득한다[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001592_JNK0040",
+      "style": 4,
+      "name": "반론한다[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001592_SEL0041",
+      "style": 3,
+      "name": "그래도 대화를 통해\n결판을 내야 한다고 주장한다[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001592_MSG0030",
+      "style": 1,
+      "name": "훌륭해\n내가 하고 싶은 말을 바로 이해해 주는구나[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001592_MSG0031",
+      "style": 1,
+      "name": "……이야기하는 중에\n결판이 난 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001592_MSG0032",
+      "style": 1,
+      "name": "하여간, 에골은 도움이 안 돼……\n푼돈도 만족스럽게 못 벌겠네[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001592_MSG0033",
+      "style": 1,
+      "name": "……그냥 혼잣말이야[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001592_MSG0034",
+      "style": 1,
+      "name": "그럼 또 블레이드 에어리어에서 봐[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001592_MSG0035",
+      "style": 1,
+      "name": "넘쳐 나는 불만이\n대화만으로 해소될 수 있다면 좋겠지만[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001592_MSG0036",
+      "style": 1,
+      "name": "이 도시에 즐길 게 많은 것도 아니고\n한계라는 게 있잖아[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev001592_MSG0037",
+      "style": 1,
+      "name": "누구나 스트레스를 발산할 곳을 찾고 있어\n특히 민중은 말이지[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev001592_MSG0038",
+      "style": 1,
+      "name": "……이야기하는 중에\n결판이 난 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev001592_MSG0039",
+      "style": 1,
+      "name": "하여간, 에골은 도움이 안 돼……\n푼돈도 만족스럽게 못 벌겠네[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev001592_MSG0040",
+      "style": 1,
+      "name": "……그냥 혼잣말이야[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001592_MSG0041",
+      "style": 1,
+      "name": "그럼 또 블레이드 에어리어에서 봐[ST:wait ]"
+    }
+  ]
+}

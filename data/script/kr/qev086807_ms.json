@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086807_MSG0001",
+      "style": 0,
+      "name": "여러분, 다친 곳은 없으신가요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086807_JNK0010",
+      "style": 4,
+      "name": "양호"
+    },
+    {
+      "$id": 3,
+      "label": "qev086807_SEL0011",
+      "style": 3,
+      "name": "멀쩡하다고 미소 짓는다"
+    },
+    {
+      "$id": 4,
+      "label": "qev086807_JNK0020",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 5,
+      "label": "qev086807_SEL0021",
+      "style": 3,
+      "name": "세리카야말로 무사하냐고 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "qev086807_MSG0002",
+      "style": 0,
+      "name": "그 정도 위험이라면\n다들 몇 번이고 넘어왔다모[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086807_MSG0003",
+      "style": 0,
+      "name": "맞아요, 그러니까 세리카 씨는\n전혀 신경 쓰지 않아도 돼요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086807_MSG0004",
+      "style": 0,
+      "name": "네, 괜찮아요\n록을 위해서라고 생각하면 힘낼 수 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086807_MSG0005",
+      "style": 0,
+      "name": "그보다 여러분이 어떻게 이곳에?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086807_MSG0006",
+      "style": 0,
+      "name": "마찬가지예요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086807_MSG0007",
+      "style": 0,
+      "name": "저희도 세리카 씨를 위해서라고 생각하고\n힘을 냈어요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086807_MSG0008",
+      "style": 0,
+      "name": "록 씨도 말이죠![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086807_MSG0009",
+      "style": 0,
+      "name": "그런데 셀레네 허브는 채취했나요?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086807_MSG0010",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086807_MSG0011",
+      "style": 0,
+      "name": "블레이드의 적성 시험, 무사히 해낸 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086807_MSG0012",
+      "style": 0,
+      "name": "하지만 여러분에게 도움을 받아 버렸어요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086807_MSG0013",
+      "style": 0,
+      "name": "그런 건 괜찮아요\n블레이드는 동료와 함께 활동하는 거니까요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086807_MSG0014",
+      "style": 0,
+      "name": "서로 도우면서\n그렇게 임무를 성공하면 되는 거예요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086807_MSG0015",
+      "style": 0,
+      "name": "넌 어엿한 블레이드의 일원이야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086807_MSG0016",
+      "style": 0,
+      "name": "불만 있는 녀석은\n엘마 씨가 상대해 줄 거다모[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086807_MSG0017",
+      "style": 0,
+      "name": "자, 돌아가요\n우리의 도시로[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086807_MSG0018",
+      "style": 0,
+      "name": "응![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086807_MSG0019",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    }
+  ]
+}

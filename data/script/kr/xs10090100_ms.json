@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs10090100_MSG0001",
+      "style": 0,
+      "name": "이럴 수가, 어째서 지구인 따위한테……![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs10090100_MSG0002",
+      "style": 0,
+      "name": "리즈……!![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs10090100_MSG0003",
+      "style": 0,
+      "name": "무시무시한 적이었다모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs10090100_MSG0004",
+      "style": 0,
+      "name": "하지만 그로우스도 타츠 일행과 적대하는 것이\n얼마나 무서운 일인지 틀림없이 깨달았을 거다모![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs10090100_MSG0005",
+      "style": 0,
+      "name": "모두가 노력한 덕분에 파괴할 수는 있었지만[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs10090100_MSG0006",
+      "style": 0,
+      "name": "이 정도 수준의 기동 병기가\n또 존재하지는 않았으면 좋겠네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs10090100_MSG0007",
+      "style": 0,
+      "name": "이런 게 여러 대 몰려온다면\n우리 도시는 순식간에 끝이에요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs10090100_MSG0008",
+      "style": 0,
+      "name": "그렇겠지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs10090100_MSG0009",
+      "style": 0,
+      "name": "그러니 한시라도 빨리\n센트럴 라이프를 발견해야 해[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs10090100_MSG0010",
+      "style": 0,
+      "name": "엘마 씨?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs10090100_MSG0011",
+      "style": 0,
+      "name": "백목의 대륙에서 만났던\n가 델그라는 라스인이 한 말[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs10090100_MSG0012",
+      "style": 0,
+      "name": "그로우스는 지구인의 진짜 몸을 두려워한다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs10090100_MSG0013",
+      "style": 0,
+      "name": "그 두려움의 이유는 알 수 없지만\n분명 우리에게는 기회가 될 거야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs10090100_MSG0014",
+      "style": 0,
+      "name": "우리의, 몸……[ST:wait ]"
+    }
+  ]
+}

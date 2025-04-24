@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32240100_MSG0010",
+      "style": 0,
+      "name": "다시는 오지 마라모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32240100_MSG0020",
+      "style": 0,
+      "name": "타츠는 아무것도 안 했잖아![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32240100_MSG0030",
+      "style": 0,
+      "name": "아까 그 집 주인인지는 모르겠지만, 돌아갈까[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32240100_MSG0040",
+      "style": 0,
+      "name": "그렇게 하자[ST:wait ]"
+    }
+  ]
+}

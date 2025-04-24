@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087502_MSG0001",
+      "style": 0,
+      "name": "すごい！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087502_MSG0001_2",
+      "style": 0,
+      "name": "これ　バックパックと\n一体化したビーム砲ですか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087502_MSG0002",
+      "style": 0,
+      "name": "あぁ　まだ試作段階だがな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087502_MSG0003",
+      "style": 0,
+      "name": "うわ　こんな大出力の\n荷電粒子キャパシタ積んでるし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087502_MSG0004",
+      "style": 0,
+      "name": "すげえだろ\nこいつがありゃ　無補給で一ヶ月は戦えるぜ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087502_MSG0005",
+      "style": 0,
+      "name": "ええ～～！\nそんな使い方　もったいなくないですか！？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087502_MSG0006",
+      "style": 0,
+      "name": "リン[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087502_MSG0007",
+      "style": 0,
+      "name": "あぁ　いいんだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087502_MSG0008",
+      "style": 0,
+      "name": "ふむ　お前さんだったらどう使う？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087502_MSG0009",
+      "style": 0,
+      "name": "射撃回数を増やすより\n攻撃力を上げた方がいいと思います[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087502_MSG0010",
+      "style": 0,
+      "name": "おいおい　これ以上出力を上げてどうすんだ？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087502_MSG0011",
+      "style": 0,
+      "name": "あと８００ギガ上げれば　グロウスが使ってる\nビームコーティング層も撃ち抜けます[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087502_MSG0012",
+      "style": 0,
+      "name": "そんなもん　熱放射が\nとんでもない事になるだろうが[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087502_MSG0013",
+      "style": 0,
+      "name": "バレルジャケットの伝導体の材質を\n変更することでなんとかなりませんか？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087502_MSG0014",
+      "style": 0,
+      "name": "バレルジャケットの伝導体か\nなるほどな[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087502_MSG0015",
+      "style": 0,
+      "name": "技術的にクリアできそうなの？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087502_MSG0016",
+      "style": 0,
+      "name": "まぁ　いくつか課題はあるが\nそれをクリアすりゃあ案外いけるかもしれんぜ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087502_MSG0017",
+      "style": 0,
+      "name": "何事も挑戦してみなくちゃ始まらんしな[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087502_MSG0018",
+      "style": 0,
+      "name": "ですよ！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087502_MSG0019",
+      "style": 0,
+      "name": "よし　やってみろ\n問題点は俺の見たところ　二つある[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087502_MSG0020",
+      "style": 0,
+      "name": "ここの技術者達　そうだな\nアランとブレナの二人に相談してみろ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087502_MSG0021",
+      "style": 0,
+      "name": "いい解決策が出てくるかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087502_MSG0022",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091002_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―これで終わりだな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091002_MSG0002",
+      "style": 0,
+      "name": "お前さんが凄腕だったおかげか\n今日は随分と楽させてもらったぜ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091002_MSG0002_m",
+      "style": 0,
+      "name": "お前さんが凄腕だったおかげか\n今日は随分と楽させてもらったぜ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091002_MSG0002_f",
+      "style": 0,
+      "name": "お前さんが凄腕だったおかげか\n今日は随分と楽させてもらったぜ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091002_JNK0010",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 6,
+      "label": "qev091002_SEL0011",
+      "style": 3,
+      "name": "自分がどれほど役立ったか尋ねてみる"
+    },
+    {
+      "$id": 7,
+      "label": "qev091002_JNK0020",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 8,
+      "label": "qev091002_SEL0021",
+      "style": 3,
+      "name": "いつもこれだけの任務を\n一人でこなしているのか尋ねる"
+    },
+    {
+      "$id": 9,
+      "label": "qev091002_MSG0003",
+      "style": 0,
+      "name": "どれだけ役立ったかって　そりゃあ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091002_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―スコッチ１本分くらいだな[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091002_MSG0005",
+      "style": 0,
+      "name": "おっと不満そうな顔すんなよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091002_MSG0006",
+      "style": 0,
+      "name": "ミラの大地で酒を生産するにはどれだけ大変か\n想像できるだろ？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091002_MSG0007",
+      "style": 0,
+      "name": "俺の中じゃ　ライフの次くらいに\n価値があるもんだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091002_MSG0007_02",
+      "style": 0,
+      "name": "だから　誇っていいんだぞ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091002_MSG0007_02_m",
+      "style": 0,
+      "name": "だから　誇っていいんだぞ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091002_MSG0007_02_f",
+      "style": 0,
+      "name": "だから　誇っていいんだぞ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091002_MSG0008",
+      "style": 0,
+      "name": "お前さんとなら\nまた一緒に任務に行きたいもんだ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091002_MSG0009",
+      "style": 0,
+      "name": "できる限り他のヤツらと組んでるさ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091002_MSG0010",
+      "style": 0,
+      "name": "もっとも　手ごわい任務となると\nなかなか肝が据わったヤツが少なくてな[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091002_MSG0011",
+      "style": 0,
+      "name": "一人でこなすこともたまにはある[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091002_MSG0012",
+      "style": 0,
+      "name": "だが　お前さんとなら\nまた一緒に任務に行きたいもんだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091002_SEL0030",
+      "style": 4,
+      "name": "同意"
+    },
+    {
+      "$id": 23,
+      "label": "qev091002_JNK0031",
+      "style": 3,
+      "name": "これからも協力しようと同意する"
+    },
+    {
+      "$id": 24,
+      "label": "qev091002_SEL0040",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 25,
+      "label": "qev091002_JNK0041",
+      "style": 3,
+      "name": "それより飲みに行こうと提案する"
+    },
+    {
+      "$id": 26,
+      "label": "qev091002_MSG0013",
+      "style": 0,
+      "name": "俺達気が合うな！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091002_MSG0014",
+      "style": 0,
+      "name": "これからはお前さんの任務にも\n喜んで付いていくぜ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091002_MSG0015",
+      "style": 0,
+      "name": "俺がダイナーの前で暇そうにしてたら\n声掛けてくれよな[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091002_MSG0016",
+      "style": 0,
+      "name": "お前さんも好きだなぁ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091002_MSG0017",
+      "style": 0,
+      "name": "もちろん飲みに行くのは決定だが\n気が向いたらお前さんの任務に誘ってくれよ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091002_MSG0018",
+      "style": 0,
+      "name": "暇な時は大抵ダイナーにいるからよ[ST:wait ]"
+    }
+  ]
+}

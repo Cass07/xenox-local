@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001593_MSG0001",
+      "style": 1,
+      "name": "어머, [ST:playername ]\n혹시 방금 이야기 들렸어?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001593_JNK0010",
+      "style": 4,
+      "name": "부정[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001593_SEL0011",
+      "style": 3,
+      "name": "들리지 않았다고 부정한다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001593_JNK0020",
+      "style": 4,
+      "name": "추측[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001593_SEL0021",
+      "style": 3,
+      "name": "돈벌이에 관한 이야기가\n아니었냐고 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001593_MSG0008",
+      "style": 1,
+      "name": "뭐야, 안 들렸어?\n설명하기 귀찮은데[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001593_MSG0009",
+      "style": 1,
+      "name": "너도 알아 두면 좋을 거야\n정당하게 돈을 버는 일이거든[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001593_MSG0011",
+      "style": 1,
+      "name": "맞아\n너라면 상관없지만\n다른 사람이 듣지는 않았지?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001593_MSG0013",
+      "style": 1,
+      "name": "인류는 라이프를 확보하고\nNLA는 완성될 거야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001593_MSG0014",
+      "style": 1,
+      "name": "그렇게 되면 경제 규모는\n지금의 몇 배로 커지겠지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001593_MSG0015",
+      "style": 1,
+      "name": "현재 기업은 대부분 정부의 원조를 받고 있지만\n그때가 되면 독립할 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001593_MSG0016",
+      "style": 1,
+      "name": "드디어 지구 시절처럼 자유로운 경쟁이 시작되고\n돈을 벌 기회가 도래하는 거지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001593_MSG0017",
+      "style": 1,
+      "name": "이런 기회를 눈 뜨고 놓칠 수는 없잖아?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001593_JNK0030",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001593_SEL0031",
+      "style": 3,
+      "name": "구체적으로 어떻게\n돈을 버는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001593_JNK0040",
+      "style": 4,
+      "name": "조언[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001593_SEL0041",
+      "style": 3,
+      "name": "실패해서 피해를 보지 않도록\n주의를 준다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001593_MSG0023",
+      "style": 1,
+      "name": "미라늄은 다 캐내지 못할 정도로\n이 별에 넘쳐 나니까 돈 벌기에는 별로야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001593_MSG0024",
+      "style": 1,
+      "name": "인구가 늘어나면\n살 장소가 문제가 되겠지[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001593_MSG0025",
+      "style": 1,
+      "name": "그리고 NLA의 에너지도 문제가 되겠어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001593_MSG0026",
+      "style": 1,
+      "name": "식량도 걱정이네\n지금은 B.B.지만 살아 있는 몸으로 돌아가면\n과연 여기 식재료가 몸에 받을지……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001593_MSG0027",
+      "style": 1,
+      "name": "이런 식으로 생각해 가면 어디에 투자해야\n어떻게 돈을 벌 수 있을지 알 수 있잖아?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001593_MSG0028",
+      "style": 1,
+      "name": "나는 그 기회를 이용해서\n단숨에 꿈에 다가설 생각이야[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001593_MSG0029",
+      "style": 1,
+      "name": "때로는 네 힘을\n빌리게 될지도 모르지만[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001593_MSG0032",
+      "style": 1,
+      "name": "그렇게 말해 줘서 고마워\n충분히 잘 알고 있어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001593_MSG0033",
+      "style": 1,
+      "name": "내 꿈을 알고 있잖아?\n그걸 이룰 때까지는 신중하게 나아갈 거야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001593_MSG0034",
+      "style": 1,
+      "name": "너도 지나치게 달콤한 이야기에는\n걸려들지 않도록 조심해[ST:wait ]"
+    }
+  ]
+}

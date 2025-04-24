@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085105_MSG0001",
+      "style": 0,
+      "name": "ごめんなさい\n驚かせてしまって[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085105_MSG0001_2",
+      "style": 0,
+      "name": "私はエルマ　あなた達は？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085105_MSG0002",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "qev085105_MSG0003",
+      "style": 0,
+      "name": "もしかしてあなた達は\nグロウスに追われているの？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085105_MSG0004",
+      "style": 0,
+      "name": "だとしたら 力になれるかもしれない\n私達は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085105_MSG0005",
+      "style": 0,
+      "name": "地球という星から来たの\nグロウスとは敵対している者よ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085105_MSG0006",
+      "style": 0,
+      "name": "ほんとに！？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085105_MSG0007",
+      "style": 0,
+      "name": "信じちゃダメ　ロック！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085105_MSG0008",
+      "style": 0,
+      "name": "でもセリカ[ST:wide ]―\nこの人達　あいつらやっつけてくれたよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085105_MSG0009",
+      "style": 0,
+      "name": "だとしても[ST:wide ]―　もう騙されるのはイヤ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085105_MSG0010",
+      "style": 0,
+      "name": "でも　ずっとここにいたら危険ですよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085105_MSG0011",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "qev085105_JNK0010",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 14,
+      "label": "qev085105_SEL0011",
+      "style": 3,
+      "name": "セリカ達を気遣う"
+    },
+    {
+      "$id": 15,
+      "label": "qev085105_JNK0020",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 16,
+      "label": "qev085105_SEL0021",
+      "style": 3,
+      "name": "セリカ達の事情を尋ねる"
+    },
+    {
+      "$id": 17,
+      "label": "qev085105_MSG0012",
+      "style": 0,
+      "name": "気遣うフリなんかに[ST:wide ]―　騙されません[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085105_MSG0013",
+      "style": 0,
+      "name": "どうやら　私達を信用できないようね\n無理強いはしない[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085105_MSG0014",
+      "style": 0,
+      "name": "でも　あなた達の力になりたいと考えている\nそのことは忘れないで[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085105_MSG0015",
+      "style": 0,
+      "name": "私達の事情[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085105_MSG0016",
+      "style": 0,
+      "name": "よかったら　どうしてグロウスに\n追われてたのか教えてもらえませんか？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085105_MSG0017",
+      "style": 0,
+      "name": "あまり人の事情に立ち入るものではないわ\n本人が話したい　と思うまではね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085105_MSG0018",
+      "style": 0,
+      "name": "ねえ　セリカ\nこの人達　信用できるんじゃない？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085105_MSG0019",
+      "style": 0,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085105_MSG0020",
+      "style": 0,
+      "name": "おねぇさん　セリカさんっていうんですも？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085105_MSG0021",
+      "style": 0,
+      "name": "あなたは　ノポン人？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085105_MSG0022",
+      "style": 0,
+      "name": "タツですも[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085105_MSG0022_2",
+      "style": 0,
+      "name": "あの地球人のみなさんに\nグロウスから助けてもらったんですも[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085105_MSG0022_2_m",
+      "style": 0,
+      "name": "あの地球人のみなさんに\nグロウスから助けてもらったんですも[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085105_MSG0022_2_f",
+      "style": 0,
+      "name": "あの地球人のみなさんに\nグロウスから助けてもらったんですも[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085105_MSG0023",
+      "style": 0,
+      "name": "じゃあ　ボク達とおんなじだ！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085105_MSG0024",
+      "style": 0,
+      "name": "そうですも　このタツにかけて\nあの人達を信じてほしいですも[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085105_MSG0025",
+      "style": 0,
+      "name": "みんな　いい人ですも[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085105_MSG0026",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "qev085105_MSG0027",
+      "style": 0,
+      "name": "あの[ST:wide ]―　私達　グロウスに追われてて[ST:wide ]―\nでも　行く所が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085105_MSG0028",
+      "style": 0,
+      "name": "私達の街ＮＬＡには\n地球人以外にも多くの種族が暮らしている[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev085105_MSG0029",
+      "style": 0,
+      "name": "しばらく滞在してみてはどう？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev085105_MSG0030",
+      "style": 0,
+      "name": "気に入ったらずっといてくれてかまわないし\n好きになれなかったら出て行くのも自由よ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev085105_MSG0031",
+      "style": 0,
+      "name": "[ST:wide ]―あの　お世話になります\n私はセリカ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev085105_MSG0032",
+      "style": 0,
+      "name": "ボクはロック！\nよろしくね！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev085105_MSG0033",
+      "style": 0,
+      "name": "リンです！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev085105_MSG0034",
+      "style": 0,
+      "name": "ほら　これが私達の街ＮＬＡの座標\nわかります？[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev085105_MSG0035",
+      "style": 0,
+      "name": "はい　二人で辿り着けると思います[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev085105_MSG0036",
+      "style": 0,
+      "name": "じゃあ　また街で会いましょうね\nセリカさん　ロックさん！[ST:wait ]"
+    }
+  ]
+}

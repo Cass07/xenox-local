@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091706_MSG0001",
+      "style": 1,
+      "name": "残念[ST:wide ]―\nどうやらここにはランクロドの研究データは\nないみたいね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091706_MSG0002",
+      "style": 1,
+      "name": "あら？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091706_MSG0003",
+      "style": 1,
+      "name": "でも[ST:wide ]―ツイてるわ\n賞金首の居場所が分かるなんて[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091706_MSG0004",
+      "style": 1,
+      "name": "さあ首を刈りに行くわよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091706_MSG0005",
+      "style": 1,
+      "name": "ランクロドの研究データはここにはないみたい\nね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091706_MSG0006",
+      "style": 1,
+      "name": "さっき吐かせればよかったわ\n手当たり次第にグロウスの拠点を\n探さなきゃならないじゃない[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091706_MSG0007",
+      "style": 1,
+      "name": "まったく面倒ね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091706_MSG0008",
+      "style": 1,
+      "name": "ランクロドはどこに隠れてるのかしら[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091706_MSG0009",
+      "style": 1,
+      "name": "このコンソールに何か情報があると\nいいけれど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091706_MSG0010",
+      "style": 1,
+      "name": "……ビンゴね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091706_MSG0011",
+      "style": 1,
+      "name": "かくれんぼの時間はおしまい[ST:wide ]―\nさあ刈りに行くわよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091706_MSG0012",
+      "style": 1,
+      "name": "ランクロドの研究データは手に入れたし\nヤツの居場所も突き止めた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091706_MSG0013",
+      "style": 1,
+      "name": "あとは感動のご対面だけね\n楽しみだわ[ST:wait ]"
+    }
+  ]
+}

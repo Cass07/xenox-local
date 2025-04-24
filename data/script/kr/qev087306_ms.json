@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087306_MSG0001",
+      "style": 0,
+      "name": "감사합니다\n설마 장관님이 와 주시다니[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087306_MSG0002",
+      "style": 0,
+      "name": "음? 무슨 말인가?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087306_MSG0003",
+      "style": 0,
+      "name": "네? 아니, 그때 분명히……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087306_MSG0004",
+      "style": 0,
+      "name": "아, 자네가 구출됐을 때 일 말이군[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087306_MSG0005",
+      "style": 0,
+      "name": "보고서는 읽었다\n엘마 팀이 대활약했다지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087306_MSG0006",
+      "style": 0,
+      "name": "유능한 조력자가 있었다고 하던데[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087306_MSG0007",
+      "style": 0,
+      "name": "그건 그 남자를 발탁한\n리더의 공인 걸로 치자고[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087306_MSG0008",
+      "style": 0,
+      "name": "아, 네……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087306_MSG0009",
+      "style": 0,
+      "name": "저기, 이걸로 괜찮은 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087306_MSG0010",
+      "style": 0,
+      "name": "본인이 만족하는 것 같으니\n그냥 두자[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087306_MSG0011",
+      "style": 0,
+      "name": "그렇다모, 생각보다 도움이 됐으니\n다음은 타츠가 고용해 주겠다모![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087306_MSG0012",
+      "style": 0,
+      "name": "그래, 기대하고 있겠다[ST:wait ]"
+    }
+  ]
+}

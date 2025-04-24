@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000491_MSG0001",
+      "style": 1,
+      "name": "おや？　[ST:playername ]さん[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000491_MSG0002",
+      "style": 1,
+      "name": "こんなところでどうしたんです？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000491_MSG0003",
+      "style": 1,
+      "name": "僕はご覧のとおり\n浄水場の視察をしていたのです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000491_MSG0004",
+      "style": 1,
+      "name": "水は地球のころと変わらず　誰にとっても\n重要な資源ですからね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000491_MSG0005",
+      "style": 1,
+      "name": "厳格に管理することが大切なんです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000491_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 7,
+      "label": "tev000491_SEL0011",
+      "style": 3,
+      "name": "HBはコンパニオンだったか\n尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "tev000491_JNK0020",
+      "style": 4,
+      "name": "指摘"
+    },
+    {
+      "$id": 9,
+      "label": "tev000491_SEL0021",
+      "style": 3,
+      "name": "それはブレイド本部の\n仕事だと指摘する"
+    },
+    {
+      "$id": 10,
+      "label": "tev000491_MSG0006",
+      "style": 1,
+      "name": "何を言ってるんです？\nおバカさんですか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000491_MSG0007",
+      "style": 1,
+      "name": "僕はパスファインダーですよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000491_MSG0008",
+      "style": 1,
+      "name": "そうブレイド本部の仕事です[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000491_MSG0009",
+      "style": 1,
+      "name": "しかし　パスファインダーの僕が\nブレイド本部の仕事をしてるってことは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000491_MSG0010",
+      "style": 1,
+      "name": "彼らが使えないか\n僕が有能かのどちらかですよね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000491_MSG0011",
+      "style": 1,
+      "name": "そして　もちろん後者です[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000491_MSG0012",
+      "style": 1,
+      "name": "ブレイド本部の人手も十分に足りているとは\n言えない状況なのです[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000491_MSG0013",
+      "style": 1,
+      "name": "仕事のできる人間が彼らの助けとなるのは\nNLAにとってプラスになるでしょう[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000491_MSG0014",
+      "style": 1,
+      "name": "パスファインダーだからといって　\nデータプローブを打つ以外の作業をしないのは\n怠慢ですよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000491_MSG0015",
+      "style": 1,
+      "name": "NLAの一員として力を求められている場所なら\nどこであれ貢献すべきなんです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000491_MSG0016",
+      "style": 1,
+      "name": "困っている人がいれば　助ける\n君にとっても当然のことでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000491_JNK0030",
+      "style": 4,
+      "name": "同意"
+    },
+    {
+      "$id": 22,
+      "label": "tev000491_SEL0031",
+      "style": 3,
+      "name": "HBの主張はもっともだと\n同意する"
+    },
+    {
+      "$id": 23,
+      "label": "tev000491_JNK0040",
+      "style": 4,
+      "name": "不満"
+    },
+    {
+      "$id": 24,
+      "label": "tev000491_SEL0041",
+      "style": 3,
+      "name": "HBの主張は正しいが\n少し気に入らない"
+    },
+    {
+      "$id": 25,
+      "label": "tev000491_JNK0050",
+      "style": 4,
+      "name": "反論"
+    },
+    {
+      "$id": 26,
+      "label": "tev000491_SEL0051",
+      "style": 3,
+      "name": "HBの言い方に対し\n反論する"
+    },
+    {
+      "$id": 27,
+      "label": "tev000491_MSG0017",
+      "style": 1,
+      "name": "さすがです[ST:wide ]―\n君は客観的に長期的に総合的に物事を\n判断できる力がありますね[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000491_MSG0018",
+      "style": 1,
+      "name": "僕の主張を理解していただけて光栄です[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000491_MSG0019",
+      "style": 1,
+      "name": "ふっ[ST:wide ]―よく言われます[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000491_MSG0020",
+      "style": 1,
+      "name": "しかし君は賢い\n少々腹が立っても理性的に判断ができる[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000491_MSG0021",
+      "style": 1,
+      "name": "このNLAで勝ち抜く最低限の力は\nお持ちのようだ [ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000491_MSG0022",
+      "style": 1,
+      "name": "どうどう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000491_MSG0023",
+      "style": 1,
+      "name": "落ち着いてください[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000491_MSG0024",
+      "style": 1,
+      "name": "君はケンカをするために\n僕に声を掛けたわけじゃないでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000491_MSG0025",
+      "style": 1,
+      "name": "初心忘るべからず　ですよ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000491_MSG0026",
+      "style": 1,
+      "name": "さて　ここの視察はこれくらいで切り上げます[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000491_MSG0027",
+      "style": 1,
+      "name": "次は工業エリアへ向かわなければ\nなりませんので[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000491_MSG0028",
+      "style": 1,
+      "name": "では　また任務でご一緒しましょう[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33620100_MSG0010",
+      "style": 0,
+      "name": "오! 파트너!\n건강해 보이는군![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33620100_MSG0020",
+      "style": 0,
+      "name": "……이런 곳에서 할 말은 아닌가[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33620100_MSG0030",
+      "style": 0,
+      "name": "나 말이야? 난 괜찮아\n아주 팔팔하다고![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33620100_MSG0040",
+      "style": 0,
+      "name": "파트너, 그곳으로 돌아갈 거지?\n눈을 보면 다 알아[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33620100_MSG0050",
+      "style": 0,
+      "name": "우리라면 할 수 있어\n그런 것에 지지 않아[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33620100_MSG0060",
+      "style": 0,
+      "name": "자, 가자고\n이번에야말로 확실히 때려눕혀 주겠어![ST:wait ]"
+    }
+  ]
+}

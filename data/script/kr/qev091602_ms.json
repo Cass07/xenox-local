@@ -1,0 +1,306 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091602_MSG0001",
+      "style": 0,
+      "name": "움직이지 마![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091602_MSG0002",
+      "style": 0,
+      "name": "무슨 짓이야……?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091602_JNK0010",
+      "style": 4,
+      "name": "추궁"
+    },
+    {
+      "$id": 4,
+      "label": "qev091602_SEL0011",
+      "style": 3,
+      "name": "배신할 생각이냐고 추궁한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev091602_JNK0020",
+      "style": 4,
+      "name": "신뢰"
+    },
+    {
+      "$id": 6,
+      "label": "qev091602_SEL0021",
+      "style": 3,
+      "name": "자신 뒤에 원시 생물이 있어서\n도와주려 하는 거라고 믿어 본다"
+    },
+    {
+      "$id": 7,
+      "label": "qev091602_MSG0003",
+      "style": 0,
+      "name": "그래…… 눈치가 빠르네\n내가 눈여겨본 사람다워[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091602_MSG0004",
+      "style": 0,
+      "name": "이 임무의 보수를 독점하고 싶어\n균등 분배 같은 건 딱 질색이야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091602_MSG0005",
+      "style": 0,
+      "name": "정말 착해 빠졌구나[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091602_MSG0006",
+      "style": 0,
+      "name": "인류 모두가 너 같은 성격이었다면\n세상이 평화롭고 따분했겠지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091602_MSG0007",
+      "style": 0,
+      "name": "난 그저 보수를 독점하고 싶을 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091602_MSG0008",
+      "style": 0,
+      "name": "머더레스! 우리를 죽이고 빼앗을 셈이야?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091602_MSG0009",
+      "style": 0,
+      "name": "널 뒤에서 쏘지는 않았잖니?\n아직 죽일 생각은 없어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091602_MSG0010",
+      "style": 0,
+      "name": "이 녀석들은……?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091602_MSG0011",
+      "style": 0,
+      "name": "처음에 얘기했잖아\n힘 좀 쓰는 녀석들을 다음 일에 써먹겠다고[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091602_MSG0012",
+      "style": 0,
+      "name": "그런 뜻이었군……\n얼마나 썩어 빠진 거냐, 너는……![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091602_MSG0013",
+      "style": 0,
+      "name": "모든 것은 나의 꿈을 위해\n이리나, 너도 잘 알고 있을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091602_MSG0014",
+      "style": 0,
+      "name": "아직 포기하지 않았던 거야?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091602_MSG0015",
+      "style": 0,
+      "name": "그래……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091602_MSG0016",
+      "style": 0,
+      "name": "자, 이제 무대가 준비되었으니\n너에게 선택의 기회를 줄게[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091602_MSG0017",
+      "style": 0,
+      "name": "포기하고 내게 양보하든가……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091602_MSG0018",
+      "style": 0,
+      "name": "우리와 싸우든가[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091602_JNK0030",
+      "style": 4,
+      "name": "양보한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev091602_SEL0031",
+      "style": 3,
+      "name": "머더레스에게 공적도 보수도 다 양보한다"
+    },
+    {
+      "$id": 25,
+      "label": "qev091602_JNK0040",
+      "style": 4,
+      "name": "싸운다"
+    },
+    {
+      "$id": 26,
+      "label": "qev091602_SEL0041",
+      "style": 3,
+      "name": "머더레스와 싸워서 공적도 보수도 받는다"
+    },
+    {
+      "$id": 27,
+      "label": "qev091602_MSG0019",
+      "style": 0,
+      "name": "정말 현명한 판단이네\n넌 분명 오래 살 수 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091602_MSG0019_m",
+      "style": 0,
+      "name": "정말 현명한 판단이네\n넌 분명 오래 살 수 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091602_MSG0019_f",
+      "style": 0,
+      "name": "정말 현명한 판단이네\n넌 분명 오래 살 수 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091602_MSG0020",
+      "style": 0,
+      "name": "옆에서 짜증 내는 아기 고양이랑은 다르게 말이야[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091602_MSG0021",
+      "style": 0,
+      "name": "머더레스……\n이번 일, 상부에 보고하겠어[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091602_MSG0022",
+      "style": 0,
+      "name": "얼마든지 해, 그걸로 네 분이 풀린다면야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091602_MSG0023",
+      "style": 0,
+      "name": "그러면 다음에 봐\n그때는 이리나 빼고 같이 일해 보자[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091602_MSG0023_m",
+      "style": 0,
+      "name": "그러면 다음에 봐\n그때는 이리나 빼고 같이 일해 보자[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091602_MSG0023_f",
+      "style": 0,
+      "name": "그러면 다음에 봐\n그때는 이리나 빼고 같이 일해 보자[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091602_MSG0024",
+      "style": 0,
+      "name": "……이번 일을 보고해야 해[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091602_MSG0025",
+      "style": 0,
+      "name": "블레이드가 군대가 아니라는 건 알지만[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091602_MSG0026",
+      "style": 0,
+      "name": "저렇게 제멋대로 구는 녀석이\n활개 치는 조직이어서는 안 되니까 말이야[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091602_MSG0027",
+      "style": 0,
+      "name": "유감이네……\n이럴 줄 알았으면 뒤에서 쏴 버리는 건데[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091602_MSG0028",
+      "style": 0,
+      "name": "잘 생각했어, 저 녀석한테 굴복하는 건\n나도 마음에 안 들었거든[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091602_MSG0029",
+      "style": 0,
+      "name": "활기찬 아기 고양이들을 상대해 줘\n난 먼저 NLA로 돌아갈게[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091602_MSG0030",
+      "style": 0,
+      "name": "자원은 제대로 회수해서 가지고 와[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091602_MSG0031",
+      "style": 0,
+      "name": "알겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091602_MSG0032",
+      "style": 0,
+      "name": "우리를 얕보지 마, 쉽게 당할 것 같아?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091602_MSG0033",
+      "style": 0,
+      "name": "어떻게든 돌파했어……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091602_MSG0034",
+      "style": 0,
+      "name": "머더레스를 패 주고 싶지만\n일단 블레이드 타워로 가자[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091602_MSG0035",
+      "style": 0,
+      "name": "이번 일을 보고해야 해[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091602_MSG0036",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

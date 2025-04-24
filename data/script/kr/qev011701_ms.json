@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev011701_MSG0001",
+      "style": 1,
+      "name": "어~이……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev011701_MSG0002",
+      "style": 1,
+      "name": "저기요…………[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev011701_MSG0003",
+      "style": 1,
+      "name": "여보세~요…………[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev011701_MSG0004",
+      "style": 1,
+      "name": "실례합니다~ 저기요~\n누구든 상관없으니까~[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev011701_MSG0005",
+      "style": 1,
+      "name": "아니, 굳이 따지자면\n착한 사람이면 좋겠는데요~[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev011701_MSG0006",
+      "style": 1,
+      "name": "누구 없나요~?\n도와주세요……![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev011701_JNK0010",
+      "style": 4,
+      "name": "응답"
+    },
+    {
+      "$id": 8,
+      "label": "qev011701_SEL0011",
+      "style": 3,
+      "name": "목소리에 대답한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev011701_JNK0020",
+      "style": 4,
+      "name": "무시"
+    },
+    {
+      "$id": 10,
+      "label": "qev011701_SEL0021",
+      "style": 3,
+      "name": "조용히 떠난다"
+    },
+    {
+      "$id": 11,
+      "label": "qev011701_MSG0007",
+      "style": 1,
+      "name": "응……?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev011701_MSG0008",
+      "style": 1,
+      "name": "아…… 아앗![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev011701_MSG0009",
+      "style": 1,
+      "name": "대답이 돌아왔어!\n드디어 왔다~~~~~~![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev011701_MSG0010",
+      "style": 1,
+      "name": "죄송해요, 죄송해요\n분명 굉~장히 바쁘실 테고\n굉~장히 수상한 상황이란 건 아는데요~[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev011701_MSG0011",
+      "style": 1,
+      "name": "사람 하나 돕는다고 생각하고\n잠깐 이야기를 들어 주실 수 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev011701_MSG0012",
+      "style": 1,
+      "name": "까놓고 말하자면 지금 상당히 난감하거든요~![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev011701_MSG0013",
+      "style": 1,
+      "name": "부탁드려요![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev011701_MSG0014",
+      "style": 1,
+      "name": "어라……?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev011701_MSG0015",
+      "style": 1,
+      "name": "어라라라라~!?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev011701_MSG0016",
+      "style": 1,
+      "name": "왠지 발소리가 작아지고 있어……\n인기척이 멀어지고 있어~![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev011701_MSG0017",
+      "style": 1,
+      "name": "잠시만요~!\n정말 거기에 사람이 있다면 기다려 주세요~[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev011701_MSG0018",
+      "style": 1,
+      "name": "사람 하나 돕는다고 생각하고\n잠깐 이야기를 들어 주실 수 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev011701_MSG0019",
+      "style": 1,
+      "name": "까놓고 말하자면 지금 상당히 난감하거든요~![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev011701_MSG0020",
+      "style": 1,
+      "name": "부탁드려요![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev011701_MSG0021",
+      "style": 1,
+      "name": "아~ 다행이다……\n마침 사람이 지나가고 있어서[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev011701_MSG0022",
+      "style": 1,
+      "name": "제 인생은 이대로 여기서\n끝나는 줄 알았어요……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev011701_MSG0023",
+      "style": 1,
+      "name": "……그런데, 어라……?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev011701_MSG0024",
+      "style": 1,
+      "name": "설마 그 목소리는, 선배인가요!?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev011701_MSG0025",
+      "style": 1,
+      "name": "우와, 말도 안 돼\n진짜 선배다……![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev011701_MSG0026",
+      "style": 1,
+      "name": "이건 운명일 거예요!\n이런 위기의 상황에 처한 제 앞에\n나타난 게 선배라니![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev011701_MSG0027",
+      "style": 1,
+      "name": "그렇다니까요~!\n보시는 대로 상당히 위기 상황이에요![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev011701_MSG0028",
+      "style": 1,
+      "name": "이 대륙으로 건너와서\n처음에는 힘차게 조사도 진행했는데……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev011701_MSG0029",
+      "style": 1,
+      "name": "왠지 저도 모르는 사이에\n위험한 에어리어에 들어온 모양이라[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev011701_MSG0030",
+      "style": 1,
+      "name": "순식간에 돌도 파괴되고\n잡히고 말았다고나 할까요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev011701_MSG0031",
+      "style": 1,
+      "name": "그 후에는\n뭔지 모르겠는 외계인에게\n이런저런 일을……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev011701_MSG0032",
+      "style": 1,
+      "name": "그건 정말이지, 입에 담기조차 무섭기도 하고\n부끄럽기도 한 실험을 계속 당했거든요……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev011701_MSG0033",
+      "style": 1,
+      "name": "……아, 혹시 실험의 자세한 내용이 알고 싶다거나\n선배에게 그런 취향이 있다면\n이야기 못 할 것도 없지만……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev011701_MSG0034",
+      "style": 1,
+      "name": "아무튼 그런 경위를 거쳐\n지금 이런 곳에 갇혀 버린 거예요![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev011701_MSG0035",
+      "style": 1,
+      "name": "그러니까 도와주세요~![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev011701_MSG0036",
+      "style": 1,
+      "name": "파란 슈트를 입은 외계인이\n절 계속 감시하는 역할을\n담당하는 것 같으니……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev011701_MSG0037",
+      "style": 1,
+      "name": "분명 그 녀석이\n여기 열쇠 같은 걸 갖고 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev011701_MSG0038",
+      "style": 1,
+      "name": "부탁이에요, 선배![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev011701_MSG0039",
+      "style": 1,
+      "name": "파란 슈트를 입은 외계인에게서 열쇠를 빼앗아\n절 여기서 구해 주세요~![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev011701_MSG0040",
+      "style": 1,
+      "name": "부탁드려요~![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev011701_MSG0041",
+      "style": 1,
+      "name": "죄송해요……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev011701_MSG0042",
+      "style": 1,
+      "name": "재촉하는 것 같아서 죄송스럽지만……\n빨리 꺼내 주실 수 없을까요~?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev011701_MSG0043",
+      "style": 1,
+      "name": "파란 슈트 외계인에게서\n열쇠를 빼앗아 주세요~[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev011701_MSG0044",
+      "style": 1,
+      "name": "부탁드려요……[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev011701_MSG0045",
+      "style": 1,
+      "name": "사…… 사………… 살았다~~~~![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev011701_MSG0046",
+      "style": 1,
+      "name": "정말, 밖에 나온 게\n얼마 만인지도 모르겠어요~![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev011701_MSG0047",
+      "style": 1,
+      "name": "선배!\n진심으로 감사합니다![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev011701_MSG0048",
+      "style": 1,
+      "name": "실험으로 이런저런 일을\n당한 후였는데[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev011701_MSG0049",
+      "style": 1,
+      "name": "선배가 오지 않았다면\n저는 또 어떤 일을 당했을지……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev011701_MSG0050",
+      "style": 1,
+      "name": "자, 그럼……\n아무튼 전 NLA에 돌아가서\n월터 교관에게 보고해야 해요[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev011701_MSG0051",
+      "style": 1,
+      "name": "이런저런 일을 당해서\n실험에 관해서는 별로 보고하고 싶지 않지만[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev011701_MSG0052",
+      "style": 1,
+      "name": "돌을 1대 망가뜨려 버렸으니\n그런 걸 따질 때가 아니겠죠[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev011701_MSG0053",
+      "style": 1,
+      "name": "그거……\n멋대로 빌려 온 녀석이기도 하고[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev011701_MSG0054",
+      "style": 1,
+      "name": "그리고……\n역시 저도 나름\n블레이드 수습생이니까요![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev011701_MSG0055",
+      "style": 1,
+      "name": "NLA의 위협이 되는 건 그냥 둘 수 없어요\n그야 저 혼자 쳐들어가서[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev011701_MSG0056",
+      "style": 1,
+      "name": "조직 한두 개 정도쯤은\n가볍게 섬멸시킬 수 있다면 좋겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev011701_MSG0057",
+      "style": 1,
+      "name": "그건 앞으로의 과제인 걸로![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev011701_MSG0058",
+      "style": 1,
+      "name": "지금 제가 할 수 있는 가장 좋은 행동은\n교관에게 보고하기!\n이게 틀림없어요![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev011701_MSG0059",
+      "style": 1,
+      "name": "그런고로, 선배\n이미 도움을 받았지만, 또 부탁이 있는데요[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev011701_MSG0060",
+      "style": 1,
+      "name": "절 NLA까지\n데려가 주시면 안 될까요?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev011701_MSG0061",
+      "style": 1,
+      "name": "제가 장비고 뭐고 다 뺏겨서\n맨몸이나 마찬가지인 데다\n이 대륙을 안전하게 이동할 자신도 없어져서[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev011701_MSG0062",
+      "style": 1,
+      "name": "민폐 끼친 김에 부탁해도 돼요?[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev011701_MSG0063",
+      "style": 1,
+      "name": "제발요!\n귀여운 후배를 위해서라고 생각하고……![ST:wait ]"
+    }
+  ]
+}

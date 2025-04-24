@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087605_MSG0001",
+      "style": 1,
+      "name": "[ST:wide ]―えっ？　医療品を探してる？\nしかもB.B.用じゃなくて　生物で使えるもの？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087605_MSG0002",
+      "style": 1,
+      "name": "それなら僕が作った医療キットを\n売ってあげるよ\n5個欲しいなら100000Gでいいよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087605_JNK0010",
+      "style": 4,
+      "name": "買う"
+    },
+    {
+      "$id": 4,
+      "label": "qev087605_SEL0011",
+      "style": 3,
+      "name": "100000Gで\n医療キットを5個買う"
+    },
+    {
+      "$id": 5,
+      "label": "qev087605_JNK0020",
+      "style": 4,
+      "name": "買わない"
+    },
+    {
+      "$id": 6,
+      "label": "qev087605_SEL0021",
+      "style": 3,
+      "name": "いらないと断る"
+    },
+    {
+      "$id": 7,
+      "label": "qev087605_MSG0003",
+      "style": 1,
+      "name": "[ST:wide ]―それじゃどうぞ\nこれで困ってる人が助かるなら\nこっちも作ったかいがあるってものだよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087605_MSG0004",
+      "style": 1,
+      "name": "[ST:wide ]―だよね　高いもんね\nごめんね　ミラの病原菌の抗生物質は\nどうしても高額になってしまうんだよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087605_MSG0005",
+      "style": 1,
+      "name": "[ST:wide ]―えっと　お金が足りないみたいだね\nごめんね　ミラの病原菌の抗生物質は\nどうしても高額になってしまうんだよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087605_MSG0006",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

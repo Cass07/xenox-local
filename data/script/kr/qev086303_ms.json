@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086303_MSG0001",
+      "style": 0,
+      "name": "드디어 생명을 다스리는 자의 영역이에요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086303_MSG0002",
+      "style": 0,
+      "name": "생명을 다스리는 자……![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086303_MSG0003",
+      "style": 0,
+      "name": "모못![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086303_MSG0004",
+      "style": 0,
+      "name": "린 씨, 왜 그러냐모?\n갑자기 멈추지 말아 줘……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086303_MSG0005",
+      "style": 0,
+      "name": "모모모…… 나, 나왔다모~~![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086303_MSG0006",
+      "style": 0,
+      "name": "아무래도 저쪽도 눈치챈 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086303_MSG0007",
+      "style": 0,
+      "name": "당신이 부정한 생명을 제거하는 역할을\n짊어지고 있다면……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086303_MSG0008",
+      "style": 0,
+      "name": "과연 우리가 그 손에 제거될지\n한번 해 보자고……![ST:wait ]"
+    }
+  ]
+}

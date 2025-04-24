@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001092_MSG0001",
+      "style": 1,
+      "name": "……あ　[ST:playername ]さん\nこんにちは[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001092_MSG0002",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001092_MSG0003",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001092_MSG0004",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001092_MSG0005",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001092_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 7,
+      "label": "tev001092_SEL0011",
+      "style": 3,
+      "name": "何をしていたのか尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "tev001092_JNK0020",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 9,
+      "label": "tev001092_SEL0021",
+      "style": 3,
+      "name": "ネコは好きなのか尋ねる"
+    },
+    {
+      "$id": 10,
+      "label": "tev001092_MSG0006",
+      "style": 1,
+      "name": "……見ての通り　牽制のしあいです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001092_MSG0007",
+      "style": 1,
+      "name": "……ネコから目を離したが最後\nきっとボクにとびかかり　爪で顔を何度も\nひっかくことでしょう[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001092_MSG0008",
+      "style": 1,
+      "name": "とんでもない！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001092_MSG0009",
+      "style": 1,
+      "name": "ネコは全然好きじゃないんです[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001092_MSG0010",
+      "style": 1,
+      "name": "だって　ボクをいじめますから……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001092_MSG0011",
+      "style": 1,
+      "name": "……目を離したが最後　きっとボクに\nとびかかり　爪で顔を何度も\nひっかくことでしょう[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001092_MSG0012",
+      "style": 1,
+      "name": "ネコという存在は地球にいた頃\nボクのライバルだったんですよ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001092_MSG0013",
+      "style": 1,
+      "name": "ですが　この星に来て　マ・ノン人や\nノポンとは言語がバラバラでも　なぜか言葉が\n通じ合うようになりました[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001092_MSG0014",
+      "style": 1,
+      "name": "ならば　ネコとも意思疎通が可能なのか\n試してみたくなったんです[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001092_MSG0015",
+      "style": 1,
+      "name": "でも　結果は失敗で……\nネコとはどうして理解し合えないんでしょうか[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001092_JNK0030",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 21,
+      "label": "tev001092_SEL0031",
+      "style": 3,
+      "name": "鳴き声であって\n言葉を持たないから"
+    },
+    {
+      "$id": 22,
+      "label": "tev001092_JNK0040",
+      "style": 4,
+      "name": "励ます"
+    },
+    {
+      "$id": 23,
+      "label": "tev001092_SEL0041",
+      "style": 3,
+      "name": "いつか理解し合えるネコに\n出会える"
+    },
+    {
+      "$id": 24,
+      "label": "tev001092_MSG0016",
+      "style": 1,
+      "name": "……納得です[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001092_MSG0017",
+      "style": 1,
+      "name": "これで裏を返せば　ネコの鳴き声は\n言語ではないと分かりましたね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001092_MSG0018",
+      "style": 1,
+      "name": "残念ですけど　ボクとネコは永遠に\n犬猿の仲なのかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001092_MSG0019",
+      "style": 1,
+      "name": "そうですね……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001092_MSG0020",
+      "style": 1,
+      "name": "ボクだってすべてのネコと\n触れ合ったわけじゃない[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001092_MSG0021",
+      "style": 1,
+      "name": "いつかきっとボクのことをひっかかないネコに\n出会う時がくるかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001092_MSG0022",
+      "style": 1,
+      "name": "そんな希望を持って\nボクは強く生きて行こうと思います[ST:wait ]"
+    }
+  ]
+}

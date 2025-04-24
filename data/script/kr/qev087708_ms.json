@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087708_MSG0001",
+      "style": 1,
+      "name": "델그 전하께서는 저희의 돌이 보관된\n격납고로 향하셨습니다![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087708_MSG0002",
+      "style": 1,
+      "name": "부디 저 같은 건 내버려두고\n빨리 전하께![ST:wait ]"
+    }
+  ]
+}

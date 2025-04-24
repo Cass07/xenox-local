@@ -1,0 +1,432 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000601_MSG0001",
+      "style": 1,
+      "name": "크~! 시원하다!\n모든 게 이 한 잔을 위해\n존재한다고 해도 과언이 아니라고![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000601_MSG0002",
+      "style": 1,
+      "name": "……오, 너도 한잔하러 왔냐?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000601_MSG0003",
+      "style": 1,
+      "name": "이 다이너에는 제법 괜찮은 스카치가\n구비되어 있거든, 내가 추천한다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000601_MSG1001",
+      "style": 1,
+      "name": "오, 또 나랑 술 마시러 왔냐?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000601_MSG1002",
+      "style": 1,
+      "name": "……응, 아니야? 이제 곧 임무라고?\n으하하! 성실하니 보기 좋군!\n그렇다면 나도 따라가 주마![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000601_JNK0010",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000601_SEL0011",
+      "style": 3,
+      "name": "프라이를 멤버에 넣는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000601_JNK0020",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev000601_SEL0021",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 10,
+      "label": "tev000601_MSG1003",
+      "style": 1,
+      "name": "병에다 스카치를 담아~서!\n좋아~ 준비 끝났다, 가자고![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000601_MSG1004",
+      "style": 1,
+      "name": "뭐야, 재미없구먼\n뭐, 다음에 불러 달라고![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000601_MSG1009",
+      "style": 1,
+      "name": "그 미지의 외계인은\n어떤 술을 마시려나?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000601_MSG1010",
+      "style": 1,
+      "name": "얼른 구출해서 물어보자고\n자, 날 데려가 줘![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000601_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 15,
+      "label": "tev000601_SEL0031",
+      "style": 3,
+      "name": "프라이를 멤버에 넣는다"
+    },
+    {
+      "$id": 16,
+      "label": "tev000601_JNK0040",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 17,
+      "label": "tev000601_SEL0041",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 18,
+      "label": "tev000601_MSG1013",
+      "style": 1,
+      "name": "뭐야, 재미없구먼\n뭐, 다음에 불러 달라고![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000601_MSG1018",
+      "style": 1,
+      "name": "미안…… 요즘 들어 매일\n진탕 마신 탓에 숙취가……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000601_MSG1019",
+      "style": 1,
+      "name": "아니, B.B. 상태가 나빠졌어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000601_MSG1020",
+      "style": 1,
+      "name": "술 냄새 때문에 플라에드라는 녀석한테도\n들킬 것 같으니 이번 일에서는 빠지도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000601_MSG1025",
+      "style": 1,
+      "name": "이리나 팀이 망각의 계곡에서\n문제에 휘말렸다던데[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000601_MSG1026",
+      "style": 1,
+      "name": "같은 인터셉터로서 가만히 있을 순 없지\n데려가 줘![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000601_JNK0050",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 25,
+      "label": "tev000601_SEL0051",
+      "style": 3,
+      "name": "프라이를 멤버에 넣는다"
+    },
+    {
+      "$id": 26,
+      "label": "tev000601_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 27,
+      "label": "tev000601_SEL0061",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 28,
+      "label": "tev000601_MSG1028",
+      "style": 1,
+      "name": "뭐야, 재미없구먼\n뭐, 다음에 불러 달라고![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000601_MSG1033",
+      "style": 1,
+      "name": "이번 임무는 백목의 대륙에서인가\n그쪽이라면 가 본 적도 있어[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000601_MSG1034",
+      "style": 1,
+      "name": "나한테 맡기면 라이프 포인트\n한두 개쯤이야 가볍게 찾아 주마![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000601_JNK0070",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 32,
+      "label": "tev000601_SEL0071",
+      "style": 3,
+      "name": "프라이를 멤버에 넣는다"
+    },
+    {
+      "$id": 33,
+      "label": "tev000601_JNK0080",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 34,
+      "label": "tev000601_SEL0081",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 35,
+      "label": "tev000601_MSG1036",
+      "style": 1,
+      "name": "뭐야, 재미없구먼\n뭐, 다음에 불러 달라고![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000601_MSG1041",
+      "style": 1,
+      "name": "이봐, 또 반담 사령관한테서\n임무를 받았다고 하던데[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000601_MSG1042",
+      "style": 1,
+      "name": "백목의 대륙 경치나 구경하면서\n한잔 걸치러 가자고![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000601_JNK0090",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 39,
+      "label": "tev000601_SEL0091",
+      "style": 3,
+      "name": "프라이를 멤버에 넣는다"
+    },
+    {
+      "$id": 40,
+      "label": "tev000601_JNK0100",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 41,
+      "label": "tev000601_SEL0101",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 42,
+      "label": "tev000601_MSG1044",
+      "style": 1,
+      "name": "뭐야, 재미없구먼\n뭐, 다음에 불러 달라고![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000601_MSG1049",
+      "style": 1,
+      "name": "설마 비밀 병기인 돌과 함께\n센트럴 라이프의 좌표 데이터를 훔칠 줄이야![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000601_MSG1050",
+      "style": 1,
+      "name": "으하하!\n역시 패스파인더의 에이스는\n배신도 끝내주게 하는군![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev000601_MSG1051",
+      "style": 1,
+      "name": "……뭐, 얼른 되찾으러 가자고!\n당하기만 하는 건 재미없으니까 말이야[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev000601_JNK0110",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 47,
+      "label": "tev000601_SEL0111",
+      "style": 3,
+      "name": "프라이를 멤버에 넣는다"
+    },
+    {
+      "$id": 48,
+      "label": "tev000601_JNK0120",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 49,
+      "label": "tev000601_SEL0121",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 50,
+      "label": "tev000601_MSG1053",
+      "style": 1,
+      "name": "뭐야, 재미없구먼\n뭐, 다음에 불러 달라고![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev000601_MSG1058",
+      "style": 1,
+      "name": "진짜 몸으로 마시는 스카치는\n분명 최고의 맛이겠지……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev000601_MSG1059",
+      "style": 1,
+      "name": "상상만으로도 취할 것 같다고!\n자, 나를 데려가 줘![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev000601_JNK0130",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 54,
+      "label": "tev000601_SEL0131",
+      "style": 3,
+      "name": "프라이를 멤버에 넣는다"
+    },
+    {
+      "$id": 55,
+      "label": "tev000601_JNK0140",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 56,
+      "label": "tev000601_SEL0141",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 57,
+      "label": "tev000601_MSG1060",
+      "style": 1,
+      "name": "……중요한 임무에 날 선택해 줘서\n고맙다, [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev000601_MSG1061",
+      "style": 1,
+      "name": "그러면 여기서 한잔 걸치며\n네 승리를 빌어 주마![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev000601_MSG1066",
+      "style": 1,
+      "name": "요즘 매일 밤 다이너는\n승리의 연회라며 아주 축제 분위기야![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev000601_MSG1067",
+      "style": 1,
+      "name": "나도 계~속 마셔댔더니……\n아무래도 슬슬 어지럽거든[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev000601_MSG1068",
+      "style": 1,
+      "name": "어디 바람 쐴 만한 곳에라도\n데려가 줘![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev000601_JNK0150",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 63,
+      "label": "tev000601_SEL0151",
+      "style": 3,
+      "name": "프라이를 멤버에 넣는다"
+    },
+    {
+      "$id": 64,
+      "label": "tev000601_JNK0160",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 65,
+      "label": "tev000601_SEL0161",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 66,
+      "label": "tev000601_MSG1069",
+      "style": 1,
+      "name": "좋아~!\n술도 깰 겸 임무 한두 개 정도\n해결해 주도록 할까![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev000601_MSG1070",
+      "style": 1,
+      "name": "뭐야, 재미없구먼\n뭐, 다음에 불러 달라고![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev000601_MSG1071",
+      "style": 1,
+      "name": "[ST:playername ]! \n날 동료로…… 아니, 관두자[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev000601_MSG1072",
+      "style": 1,
+      "name": "지금은 싸우고 싶은 기분이 아니야\n천천히 한잔하고 싶다…… 미안[ST:wait ]"
+    }
+  ]
+}

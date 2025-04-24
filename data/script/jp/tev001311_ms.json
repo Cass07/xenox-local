@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001311_MSG0010",
+      "style": 1,
+      "name": "皆さんの故郷を滅ぼした元凶が\nミラに現れるなんて……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001311_MSG0020",
+      "style": 1,
+      "name": "私にできることがあれば言ってくださいね\n私もNLAの一員ですから！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001311_JNK0030",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 4,
+      "label": "tev001311_SEL0040",
+      "style": 3,
+      "name": "セリカをメンバーに加える"
+    },
+    {
+      "$id": 5,
+      "label": "tev001311_MSG0050",
+      "style": 1,
+      "name": "はい　行きましょう！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001311_JNK0060",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 7,
+      "label": "tev001311_SEL0070",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 8,
+      "label": "tev001311_MSG0080",
+      "style": 1,
+      "name": "いつでも声かけてくださいね\n私　待ってますから[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001311_MSG0090",
+      "style": 1,
+      "name": "皆さん……\nご　ごめんなさい[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001311_MSG0100",
+      "style": 1,
+      "name": "私も　ロックと一緒に\n何かお手伝いできないかと思って――[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001311_MSG0110",
+      "style": 1,
+      "name": "守護部隊の皆さんの\n補佐をしていたのですが\n気づいたらこんなところに……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001311_MSG0120",
+      "style": 1,
+      "name": "次は足手まといにならないように\n新白鯨で自分のすべきことをします\n皆さんもどうかお気をつけて……[ST:wait ]"
+    }
+  ]
+}

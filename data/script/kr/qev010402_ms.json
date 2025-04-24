@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev010402_MSG0001",
+      "style": 1,
+      "name": "라테는 또 떨고 있네……\n하아…… 또 뭔가 망가뜨린 건가……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev010402_MSG0002",
+      "style": 1,
+      "name": "……앗, 손님? 어서 오세요!\n선샤인 카페에 오신 걸 환영합니다![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev010402_MSG0003",
+      "style": 1,
+      "name": "라테가 갈 만한 장소라……\n그래 봬도 신앙심이 깊으니까[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev010402_MSG0004",
+      "style": 1,
+      "name": "무슨 일을 저질렀다면\n어쩌면 교회에 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev010402_MSG0005",
+      "style": 1,
+      "name": "……아니, 신에게 가기 전에\n우선 나한테 사과했으면 하는데[ST:wait ]"
+    }
+  ]
+}

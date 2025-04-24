@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11020100_MSG0001",
+      "style": 0,
+      "name": "ラオ　何考えてる！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11020100_MSG0002",
+      "style": 0,
+      "name": "その情報が俺達にとって\nどういうものなのか分かっているだろう！[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs11020100_MSG0003",
+      "style": 0,
+      "name": "分かっているさ\nだから俺は行動したんだ[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs11020100_MSG0003_2",
+      "style": 0,
+      "name": "ずっと待ってたんだ　この日を[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs11020100_MSG0004",
+      "style": 0,
+      "name": "くっ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs11020100_MSG0005",
+      "style": 0,
+      "name": "ヴァンダム　何があったの！？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11020100_MSG0006",
+      "style": 0,
+      "name": "ラオだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11020100_MSG0007",
+      "style": 0,
+      "name": "奴がデータ[System:Ruby rt=デバイス ]端末[/System:Ruby]を持って\nグロウスに寝返ろうと[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs11020100_MSG0008",
+      "style": 0,
+      "name": "ラオさんが！？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs11020100_MSG0009",
+      "style": 0,
+      "name": "説明して　ラオ[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs11020100_MSG0010",
+      "style": 0,
+      "name": "エルマ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11020100_MSG0010_2",
+      "style": 0,
+      "name": "俺を死なせなかったのが　お前達の失敗だ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs11020100_MSG0011",
+      "style": 0,
+      "name": "気づいてたんだろう\n俺がグロウスのスパイだって[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs11020100_MSG0012",
+      "style": 0,
+      "name": "そんな！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs11020100_MSG0013",
+      "style": 0,
+      "name": "疑ってはいたわ\nでも　信じたくなかった[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs11020100_MSG0014",
+      "style": 0,
+      "name": "正直だな[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs11020100_MSG0015",
+      "style": 0,
+      "name": "まあいい　ついでにこの新型のドール\nプログアレスもいただいていく[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs11020100_MSG0016",
+      "style": 0,
+      "name": "グロウスへの手土産としてな[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs11020100_MSG0017",
+      "style": 0,
+      "name": "ふざけるなっ！\n行くなら俺をタイマンで斃して行け　ラオ！[ST:wait ]\n"
+    },
+    {
+      "$id": 20,
+      "label": "xs11020100_MSG0018",
+      "style": 0,
+      "name": "あんたに素手でかなうかよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs11020100_MSG0019",
+      "style": 0,
+      "name": "ラオ　てめぇ　どういうつもりだ！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs11020100_MSG0020",
+      "style": 0,
+      "name": "次から次へと　暇を持て余しているようだな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs11020100_MSG0021",
+      "style": 0,
+      "name": "茶化すな　ラオ！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs11020100_MSG0022",
+      "style": 0,
+      "name": "やめろ！\n奴からは取り戻さなきゃならんものがある！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs11020100_MSG0023",
+      "style": 0,
+      "name": "くっ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs11020100_MSG0024",
+      "style": 0,
+      "name": "そういうことだ\n悪いな　ダグ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs11020100_MSG0025",
+      "style": 0,
+      "name": "本気で裏切ったのか　ラオ\n相手はグロウスだぞ！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs11020100_MSG0026",
+      "style": 0,
+      "name": "歩く脳みそや犬みたいな連中と\nお手々取り合うのは　確かにぞっとしねえな[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "xs11020100_MSG0027",
+      "style": 0,
+      "name": "だが　目的が同じなら組むことはできる[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs11020100_MSG0028",
+      "style": 0,
+      "name": "目的だと？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs11020100_MSG0029",
+      "style": 0,
+      "name": "ダグ　お前には分かるだろう？[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "xs11020100_MSG0030",
+      "style": 0,
+      "name": "分からねえ　分かりたくもねえ！[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs11020100_MSG0031",
+      "style": 0,
+      "name": "俺はもう行くぜ　じゃぁな[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs11020100_MSG0032",
+      "style": 0,
+      "name": "ラオ[ST:wait ]"
+    }
+  ]
+}

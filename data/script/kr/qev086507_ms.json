@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086507_MSG0001",
+      "style": 0,
+      "name": "잘했다, 역시 엘마 팀이야[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086507_MSG0002",
+      "style": 0,
+      "name": "여기선 타츠를 칭찬해야지모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086507_MSG0003",
+      "style": 0,
+      "name": "아, 그렇지\n열심히 했군, 타츠![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086507_MSG0004",
+      "style": 0,
+      "name": "와~ 칭찬받았다모![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086507_MSG0005",
+      "style": 0,
+      "name": "이걸로 노폰 카라반과의 교류도\n활발해지겠네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086507_MSG0006",
+      "style": 0,
+      "name": "타츠의 동료가 NLA에 늘어나는 건가모?\n기쁘다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086507_MSG0007",
+      "style": 0,
+      "name": "난 노폰 카라반에\n방문해 볼까[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086507_MSG0008",
+      "style": 0,
+      "name": "타츠의 동생들도 귀여웠고 말이야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086507_MSG0009",
+      "style": 0,
+      "name": "이럴 수가, 린 씨\n타츠보다 그 녀석들이 더 좋은 건가모~~!?[ST:wait ]"
+    }
+  ]
+}

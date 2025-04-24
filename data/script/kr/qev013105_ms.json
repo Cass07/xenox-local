@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013105_MSG0001",
+      "style": 1,
+      "name": "금고를 해제하려면\n열쇠를 제시해 주십시오[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev013105_MSG0002",
+      "style": 1,
+      "name": "열쇠 인증을 실행합니다……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev013105_MSG0003",
+      "style": 1,
+      "name": "인증 중………………[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev013105_MSG0004",
+      "style": 1,
+      "name": "……………………………………………………\n………………………………………………인증 OK[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev013105_MSG0005",
+      "style": 1,
+      "name": "이제 남은 3개의 열쇠를 제시해 주십시오[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev013105_MSG0006",
+      "style": 1,
+      "name": "하하하하하\n이번 녀석도 걸려들었어!!\n이 방법은 몇 번을 해도 확실하군![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev013105_MSG0007",
+      "style": 1,
+      "name": "[ST:playername ]!\n그 금고는 말이지, 그 당시 팀의 생존자……\n그들 모두의…… 열쇠 4개가 없으면 열리지 않는다고![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev013105_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 9,
+      "label": "qev013105_SEL0011",
+      "style": 3,
+      "name": "모두 한패였냐고 묻는다"
+    },
+    {
+      "$id": 10,
+      "label": "qev013105_JNK0020",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 11,
+      "label": "qev013105_SEL0021",
+      "style": 3,
+      "name": "네 번째 열쇠의\n존재에 관해 묻는다"
+    },
+    {
+      "$id": 12,
+      "label": "qev013105_MSG0008",
+      "style": 1,
+      "name": "눈치 못 챘지? 너무 순진하다니까\n그렇지? 포스다이크![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev013105_MSG0009",
+      "style": 1,
+      "name": "어차피 넌 여기서 죽게 될 거야\n그런 건 알아서 뭐 하게?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev013105_MSG0010",
+      "style": 1,
+      "name": "핫! 이번에도 잘 풀렸군\n포스다이크![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev013105_MSG0011",
+      "style": 1,
+      "name": "내부 분열을 보여 주면\n바로 믿어 버리니까 말이지요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev013105_MSG0012",
+      "style": 1,
+      "name": "개인은 의심해도\n전원은 의심하지 않는다……\n인간이란 단순한 존재라니까요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev013105_MSG0013",
+      "style": 1,
+      "name": "여기라면 아무에게도 들키지 않고\n우리가 의심받을 일도 없어\n가장 안전하고 확실하고 완벽한 작전이야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev013105_MSG0014",
+      "style": 1,
+      "name": "브릭즈의 박진감 넘치는 연기가 있는 한\n모두 속아 넘어가겠지[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev013105_MSG0015",
+      "style": 1,
+      "name": "애송이가, 놀리지 마[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev013105_MSG0016",
+      "style": 1,
+      "name": "그런데 죽느냐 사느냐 하는 상황인데도\n금에 눈이 멀어 이런 곳까지 온단 말이지\n지구인이란 정말 탐욕스러운 녀석들이군[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev013105_MSG0017",
+      "style": 1,
+      "name": "당신이 할 소린 아니야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev013105_MSG0018",
+      "style": 1,
+      "name": "당신도 똑같아요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev013105_MSG0019",
+      "style": 1,
+      "name": "너도야……\n자, 해치우자![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev013105_MSG0020",
+      "style": 1,
+      "name": "금고를 해제하려면\n열쇠를 제시해 주십시오[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev013105_MSG0021",
+      "style": 1,
+      "name": "열쇠 인증을 실행합니다……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev013105_MSG0022",
+      "style": 1,
+      "name": "인증 중………………[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev013105_MSG0023",
+      "style": 1,
+      "name": "……………………………………………………\n………………………………………………인증 OK[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev013105_MSG0024",
+      "style": 1,
+      "name": "이제 남은 3개의 열쇠를 제시해 주십시오[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev013105_MSG0025",
+      "style": 1,
+      "name": "브릭즈는 죽어 버렸나요……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev013105_MSG0026",
+      "style": 1,
+      "name": "연기력이 부족했나 보네[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev013105_MSG0027",
+      "style": 1,
+      "name": "응?\n귀신이라도 본 듯한 얼굴이네요\n상황 설명이 필요한가요?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev013105_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 33,
+      "label": "qev013105_SEL0031",
+      "style": 3,
+      "name": "왜 포스다이크가 여기에 있는지\n설명을 요구한다"
+    },
+    {
+      "$id": 34,
+      "label": "qev013105_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 35,
+      "label": "qev013105_SEL0041",
+      "style": 3,
+      "name": "설명 따위 필요 없다며 임전 태세를 갖춘다"
+    },
+    {
+      "$id": 36,
+      "label": "qev013105_MSG0028",
+      "style": 1,
+      "name": "거절하겠습니다\n이건 우리 셀레스트 스리……\n아니, 셀레스트 포만의 비밀이에요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev013105_MSG0029",
+      "style": 1,
+      "name": "……포스다이크, 방심하지 마\n이 녀석은 이전까지의\n약한 녀석들과는 다른 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev013105_MSG0030",
+      "style": 1,
+      "name": "그렇군…… 이 녀석은 이전까지의\n약한 녀석들과는 다른 것 같아\n포스다이크, 제대로 경계해……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev013105_MSG0031",
+      "style": 1,
+      "name": "그런 것 같긴 하지만……\n우리의 적수는 못 돼요[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev013105_MSG0032",
+      "style": 1,
+      "name": "모든 진상은\n저세상에서 브릭즈에게 들어 주세요!\n그럼…… 갑니다![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev013105_MSG0033",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "qev013105_MSG0034",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "qev013105_MSG0035",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "qev013105_MSG0036",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "qev013105_MSG0037",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

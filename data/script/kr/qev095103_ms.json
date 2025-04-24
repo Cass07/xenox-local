@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095103_MSG0001",
+      "style": 1,
+      "name": "고맙다!\n너의 도움, 결코 잊지 않으마[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095103_MSG0002",
+      "style": 1,
+      "name": "……어째서 놀라는 거지이?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095103_JNK0010",
+      "style": 4,
+      "name": "공격한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev095103_SEL0011",
+      "style": 3,
+      "name": "넌 바이어스잖아\n라고 말하며 공격한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev095103_JNK0020",
+      "style": 4,
+      "name": "이야기한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev095103_SEL0021",
+      "style": 3,
+      "name": "바이어스가 왜 여기 잡혀 있던 거지?\n라고 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "qev095103_MSG0003",
+      "style": 1,
+      "name": "기다려라! 우리는 암굴의 일족과는 달라\n우리는 거목의 일족이다아![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095103_MSG0004",
+      "style": 1,
+      "name": "암굴의 일족과는 오랜 원수지간이다아[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095103_MSG0005",
+      "style": 1,
+      "name": "나는 거목의 일족을 이끄는\n족장 세비 벨가자스[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095103_MSG0006",
+      "style": 1,
+      "name": "일족의 명예를 걸고 맹세하마!\n우리는 너를 다치게 할 생각 따위 없다아![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095103_MSG0007",
+      "style": 1,
+      "name": "우리는 거목의 일족이다아![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095103_MSG0008",
+      "style": 1,
+      "name": "암굴의 일족과는 오랜 원수지간이다아[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095103_MSG0009",
+      "style": 1,
+      "name": "나는 거목의 일족을 이끄는\n족장 세비 벨가자스[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095103_MSG0010",
+      "style": 1,
+      "name": "일족의 명예를 걸고 맹세하마!\n우리는 너를 다치게 할 생각 따위 없다아![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095103_MSG0011",
+      "style": 1,
+      "name": "이해해 준 건가\n거목의 혼이 너와 우리를 연결해 주었구나아[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev095103_MSG0012",
+      "style": 1,
+      "name": "이것은 운명이다아![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev095103_JNK0030",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 18,
+      "label": "qev095103_SEL0031",
+      "style": 3,
+      "name": "앞으로 어떻게 할 생각인지 묻는다"
+    },
+    {
+      "$id": 19,
+      "label": "qev095103_JNK0040",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 20,
+      "label": "qev095103_SEL0041",
+      "style": 3,
+      "name": "지금에 이르게 된 전말을 묻는다"
+    },
+    {
+      "$id": 21,
+      "label": "qev095103_MSG0013",
+      "style": 1,
+      "name": "우리 거목의 일족은 보다시피 수가 적다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095103_MSG0014",
+      "style": 1,
+      "name": "우리 외에도 붙잡힌 일족이 있지만……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095103_MSG0015",
+      "style": 1,
+      "name": "일단 암굴의 일족으로부터 몸을 숨기고 싶다\n은신처를 제공해 줄 수 없겠나?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095103_MSG0016",
+      "style": 1,
+      "name": "암굴의 일족과 거목의 일족은 본래\n다른 행성에서 계속 싸우던 민족이었다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095103_MSG0017",
+      "style": 1,
+      "name": "참으로 길고 긴 싸움이었지![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095103_MSG0018",
+      "style": 1,
+      "name": "하지만 어느 날, 그로우스가\n우리 별에 찾아와서는\n암굴의 일족과 손을 잡은 거다![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev095103_MSG0019",
+      "style": 1,
+      "name": "기술력이 낮은 우리들은\n암굴의 일족에게 지배당하고 말았다![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095103_MSG0020",
+      "style": 1,
+      "name": "그 후로는 강제 노동뿐인 매일이었지……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev095103_MSG0021",
+      "style": 1,
+      "name": "하지만 네 덕분에 자유를 되찾을 수 있겠군[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev095103_MSG0022",
+      "style": 1,
+      "name": "우리 외에도 붙잡힌 일족이 있지만……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev095103_MSG0023",
+      "style": 1,
+      "name": "일단 암굴의 일족으로부터 몸을 숨기고 싶다\n은신처를 제공해 줄 수 없겠나?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev095103_JNK0050",
+      "style": 4,
+      "name": "승낙"
+    },
+    {
+      "$id": 33,
+      "label": "qev095103_SEL0051",
+      "style": 3,
+      "name": "바로 NLA에 가자고 말한다"
+    },
+    {
+      "$id": 34,
+      "label": "qev095103_JNK0060",
+      "style": 4,
+      "name": "보류"
+    },
+    {
+      "$id": 35,
+      "label": "qev095103_SEL0061",
+      "style": 3,
+      "name": "NLA에서 다른 사람들과\n의논해 보겠다고 말한다"
+    },
+    {
+      "$id": 36,
+      "label": "qev095103_MSG0024",
+      "style": 1,
+      "name": "고맙다\nNLA라는 곳에도 흥미가 생기는군![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev095103_MSG0025",
+      "style": 1,
+      "name": "그렇게 해라\n일시적인 거처만 확보할 수 있으면 된다[ST:wait ]"
+    }
+  ]
+}

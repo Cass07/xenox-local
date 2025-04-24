@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086903_MSG0001",
+      "style": 0,
+      "name": "おうおう兄弟\nドリアン・キャラバンにようこそだも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086903_MSG0002",
+      "style": 0,
+      "name": "なんか困ったことでもあっただも？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086903_MSG0003",
+      "style": 0,
+      "name": "あの[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086903_MSG0004",
+      "style": 0,
+      "name": "私達　エアロジウムを探してるんです\nここに来れば手に入るって聞いて[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086903_MSG0005",
+      "style": 0,
+      "name": "エアロジウム？\nおう　俺らが取り扱ってる商品だも[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086903_MSG0006",
+      "style": 0,
+      "name": "よかったですね　セリカさん[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086903_MSG0007",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086903_MSG0008",
+      "style": 0,
+      "name": "おうおう　話は最後まで聞くも[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086903_MSG0009",
+      "style": 0,
+      "name": "確かに俺らの商品なんだが\nちょうど今　品切れなんだも[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086903_MSG0010",
+      "style": 0,
+      "name": "ええっ！？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086903_MSG0011",
+      "style": 0,
+      "name": "それは困ったわね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086903_MSG0012",
+      "style": 0,
+      "name": "そんな　それじゃロックが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086903_MSG0013",
+      "style": 0,
+      "name": "おうおう美しいお嬢さん　泣いちゃダメも[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086903_MSG0014",
+      "style": 0,
+      "name": "ええい　こんちくしょう俺も男だも\n乙女の涙にゃ逆らえないも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086903_MSG0015",
+      "style": 0,
+      "name": "特別に仕入れ先を教えちゃうも[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086903_MSG0016",
+      "style": 0,
+      "name": "ほんとですも！？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086903_MSG0017",
+      "style": 0,
+      "name": "男に二言はねえも[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086903_MSG0018",
+      "style": 0,
+      "name": "あ　ありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086903_MSG0019",
+      "style": 0,
+      "name": "いいか　よく聞けも[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086903_MSG0020",
+      "style": 0,
+      "name": "このあたりに　でっけぇ岩が\nプカプカ浮いてる不思議な場所があるんだも[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086903_MSG0021",
+      "style": 0,
+      "name": "エアロジウムはその岩っころで採れるんだも[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086903_MSG0022",
+      "style": 0,
+      "name": "分かりました　行ってみます[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086903_MSG0023",
+      "style": 0,
+      "name": "危険な原生生物も現れるからな\n気をつけるんだも[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086903_MSG0024",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065404_MSG0001",
+      "style": 1,
+      "name": "당신……? 어째서 여기에……?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065404_MSG0002",
+      "style": 1,
+      "name": "……아니 됐어, 이것 좀 봐[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065404_MSG0003",
+      "style": 1,
+      "name": "진짜…… 클레몬스의 시체야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065404_MSG0004",
+      "style": 1,
+      "name": "사후 일주일은 지났어\n아마 책략으로 우리를 속이려 한\n데피니아인에게 살해당한 거겠지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev065404_JNK0010",
+      "style": 4,
+      "name": "생각한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev065404_SEL0011",
+      "style": 3,
+      "name": "클레몬스의 사망 시기에 관해 생각한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev065404_JNK0020",
+      "style": 4,
+      "name": "묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "qev065404_SEL0021",
+      "style": 3,
+      "name": "데피니아인 탐색이\n어떻게 되었는지 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "qev065404_MSG0005",
+      "style": 1,
+      "name": "응? 클레몬스의 사망 시기에 관해\n신경이 쓰이는 점이 있어?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065404_MSG0006",
+      "style": 1,
+      "name": "일단 사망한 후로 일주일 이상\n지났다는 건 틀림없어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065404_MSG0007",
+      "style": 1,
+      "name": "적어도 하루 이틀 전에 죽은 건\n아닌 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065404_MSG0008",
+      "style": 1,
+      "name": "도주한 데피니아인은\n유감스럽게도 아직 확보하지 못했어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065404_MSG0009",
+      "style": 1,
+      "name": "일반 시민, 정부 관계자 불문하고\n출입구를 완전히 봉쇄했으니까\n아직 NLA 안에 있다는 건 확실해[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065404_MSG0010",
+      "style": 1,
+      "name": "왜 그래?\n갑자기 생각에 잠겼네……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065404_MSG0011",
+      "style": 1,
+      "name": "뭔가 짐작 가는 거라도 있어?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev065404_JNK0030",
+      "style": 4,
+      "name": "증언"
+    },
+    {
+      "$id": 17,
+      "label": "qev065404_SEL0031",
+      "style": 3,
+      "name": "도주 중인 적을 봤다고 말한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev065404_JNK0040",
+      "style": 4,
+      "name": "숙고"
+    },
+    {
+      "$id": 19,
+      "label": "qev065404_SEL0041",
+      "style": 3,
+      "name": "생각을 정리한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev065404_MSG0012",
+      "style": 1,
+      "name": "적을 봤다고!?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev065404_MSG0013",
+      "style": 1,
+      "name": "그러면 왜 붙잡지 않은 건데![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev065404_MSG0014",
+      "style": 1,
+      "name": "생각을 꽤 오래 하네[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev065404_MSG0015",
+      "style": 1,
+      "name": "혼자서 고민하지 마\n네가 본 일을 그대로 보고해 주면\n모두의 지혜를 모을 수 있지 않겠어?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev065404_MSG0016",
+      "style": 1,
+      "name": "……뭐? 방금 클레몬스를 만났다고?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev065404_MSG0017",
+      "style": 1,
+      "name": "그렇다는 건……\n데피니아인을 만났다는 뜻…………[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev065404_MSG0018",
+      "style": 1,
+      "name": "그래…… 적이 또 클레몬스로 변신해서\n이 시체에 관해 몰랐던 당신을 속이며\n도발했다는 뜻이야!![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev065404_MSG0019",
+      "style": 1,
+      "name": "큭…………!\n계속, 계속…… 우리가\n당하기만 하잖아![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev065404_MSG0020",
+      "style": 1,
+      "name": "당장 찾아내서…………[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev065404_MSG0021",
+      "style": 1,
+      "name": "……어머, 긴급 연락 문자……\n이, 이게 뭐야……![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev065404_MSG0022",
+      "style": 1,
+      "name": "도시 바깥에서 스리엘라와 클레몬스가\n싸우고 있다니……!?\n그 클레몬스는 설마……![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev065404_MSG0027",
+      "style": 1,
+      "name": "저기, 난 잠깐 장비를 갖춰야겠어!\n당신은 한발 먼저 NLA 서쪽에 있는\n작은 섬으로 가 줘![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev065404_MSG0023",
+      "style": 1,
+      "name": "스리엘라와 클레몬스가 싸우고 있는 곳은\nNLA 서쪽에 있는 작은 섬이야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev065404_MSG0024",
+      "style": 1,
+      "name": "데피니아인의 전투 능력은 미지수니까\n난 본격적으로 준비를 한 다음에 갈게[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev065404_MSG0025",
+      "style": 1,
+      "name": "당신은 한발 먼저 출발해 줘![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev065404_MSG0026",
+      "style": 1,
+      "name": "절대 놓치지 마!\n거기서 이번 사건을…… 끝내는 거야![ST:wait ]"
+    }
+  ]
+}

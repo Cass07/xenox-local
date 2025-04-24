@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33400110_MSG0010",
+      "style": 0,
+      "name": "모모! 굉장하다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33400110_MSG0020",
+      "style": 0,
+      "name": "슈~웅 하고 날아갔다모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33400110_MSG0030",
+      "style": 0,
+      "name": "탑처럼 보였는데\n실제로는 비행형 병기의 일종이었네요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33400110_MSG0040",
+      "style": 0,
+      "name": "어쩌면 \"창\"이라고 부르는 게 맞을지도[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33400110_MSG0050",
+      "style": 0,
+      "name": "저게 보이드에게 얼마만큼 효과가 있을지\n확실히는 알 수 없지만……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33400110_MSG0060",
+      "style": 0,
+      "name": "만약을 위해 다른 \"창\"도 조사하러 가자[ST:wait ]"
+    }
+  ]
+}

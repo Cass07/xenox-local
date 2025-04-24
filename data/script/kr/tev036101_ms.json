@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev036101_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev036101_SEL0011",
+      "style": 3,
+      "name": "이 짐에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev036101_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev036101_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev036101_MSG0001",
+      "style": 1,
+      "name": "유유의 일은 이 짐을\n어떤 마 논에게 전달할지 정하는 거양[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev036101_MSG0002",
+      "style": 1,
+      "name": "짐의 내용물이 궁금해?\n모~두 NLA에서 보낸 기계양[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev036101_MSG0003",
+      "style": 1,
+      "name": "개량 혹은 개조하거나\n새롭게 발명해 줬으면 한다고\n여러 가지가 운반되어 왔엉[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev036101_MSG0004",
+      "style": 1,
+      "name": "적재적소로 옮기지 않으면\n대참사가 일어나니까……\n중요한 일이양![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev036101_MSG0010",
+      "style": 1,
+      "name": "유유는 연인인 아크알과 함께\n그레네이드 피자를 먹을 때가\n가장 해피행![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev036101_MSG0013",
+      "style": 1,
+      "name": "하지만 최근에는\n블레이드 일이 바빠서\n별로 만나지 못하고 있엉……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev036101_MSG0014",
+      "style": 1,
+      "name": "……조금 외롭지만\n열심히 하고 있으니까\n응원해 줘야겠징?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev036101_MSG0015",
+      "style": 1,
+      "name": "이런 게 현모양처?\n유유도 지구인의 말을 공부하고 있엉![ST:wait ]"
+    }
+  ]
+}

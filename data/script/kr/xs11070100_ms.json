@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11070100_MSG0001",
+      "style": 0,
+      "name": "뭘까요, 이건?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11070100_MSG0002",
+      "style": 0,
+      "name": "열쇠 같은데[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs11070100_MSG0003",
+      "style": 0,
+      "name": "아까 열리지 않았던 입구의\n열쇠 아닐까모?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs11070100_MSG0003_m",
+      "style": 0,
+      "name": "아까 열리지 않았던 입구의\n열쇠 아닐까모?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs11070100_MSG0003_f",
+      "style": 0,
+      "name": "아까 열리지 않았던 입구의\n열쇠 아닐까모?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs11070100_MSG0004",
+      "style": 0,
+      "name": "그럴지도 모르겠네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11070100_MSG0005",
+      "style": 0,
+      "name": "타츠, 똑똑해![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11070100_MSG0006",
+      "style": 0,
+      "name": "이제 돌도 지나갈 수 있겠어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11070100_MSG0007",
+      "style": 0,
+      "name": "그렇네[ST:wait ]"
+    }
+  ]
+}

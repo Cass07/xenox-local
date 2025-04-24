@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085907_MSG0001",
+      "style": 0,
+      "name": "아무래도 잘된 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085907_MSG0002",
+      "style": 0,
+      "name": "타츠의 작전 대성공이다모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085907_MSG0003",
+      "style": 0,
+      "name": "정말, 이런 일도 다 있네~[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085907_MSG0004",
+      "style": 0,
+      "name": "B.B.로 연인을 만들어 봤자\n의미가 없다고 생각했지만……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085907_MSG0004_2",
+      "style": 0,
+      "name": "뭐, 이런 것도 좋을지도 모르겠군[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085907_MSG0005",
+      "style": 0,
+      "name": "무슨 말씀이세요?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085907_MSG0006",
+      "style": 0,
+      "name": "실언했군, 잊어 줘[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999928_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999928_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999928_JNK0030",
+      "style": 4,
+      "name": "バトルメンバーに加える[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999928_SEL0031",
+      "style": 3,
+      "name": "活動中のブレイド隊員[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999928_MSG0001",
+      "style": 1,
+      "name": "おはようさん[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999928_MSG0101",
+      "style": 1,
+      "name": "まいど　どーもー[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999928_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999928_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999928_MSG2001",
+      "style": 1,
+      "name": "了解したで\n戦闘中のサポートなら任せときや[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999928_MSG2101",
+      "style": 1,
+      "name": "これでユニオンの支援はバッチリや！\nあとはあんた次第やで[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999928_MSG3001",
+      "style": 1,
+      "name": "うちでよければ　力になるで[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999928_MSG3101",
+      "style": 1,
+      "name": "よっしゃ　うち　全力でがんばるわ\n期待してな！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999928_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999928_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999928_MSG5001",
+      "style": 1,
+      "name": "悪いなぁ\n今　取り込み中やねん[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999928_MSG5101",
+      "style": 1,
+      "name": "ちょっとタイミング悪いわぁ\nまた後で声掛けたってや[ST:wait ]"
+    }
+  ]
+}

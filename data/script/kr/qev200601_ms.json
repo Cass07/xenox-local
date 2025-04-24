@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev200601_MSG0001",
+      "style": 1,
+      "name": "이런 곳까지 와 주셔서\n감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev200601_MSG0002",
+      "style": 1,
+      "name": "당신이 제 카드 키를\n주워 주신 분이군요……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev200601_MSG0003",
+      "style": 1,
+      "name": "잠시 살펴봐도 되겠습니까?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev200601_MSG0004",
+      "style": 1,
+      "name": "이건 틀림없는 제 카드 키네요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev200601_MSG0005",
+      "style": 1,
+      "name": "이건 정말이지 매우 소중한 물건입니다\n이게 없어지면 제 수입이 사라질 테고\n그러면 살아갈 수도 없었겠죠[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev200601_MSG0006",
+      "style": 1,
+      "name": "사례를 드려야겠지만 아무래도 거금이니만큼\n나중에 보내 드리도록 하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev200601_JNK0010",
+      "style": 4,
+      "name": "반론"
+    },
+    {
+      "$id": 8,
+      "label": "qev200601_SEL0011",
+      "style": 3,
+      "name": "지금 바로 지불할 것을 주장한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev200601_JNK0020",
+      "style": 4,
+      "name": "기억"
+    },
+    {
+      "$id": 10,
+      "label": "qev200601_SEL0021",
+      "style": 3,
+      "name": "이전에도 비슷한 일이\n있었다는 것을 떠올린다"
+    },
+    {
+      "$id": 11,
+      "label": "qev200601_MSG0007",
+      "style": 1,
+      "name": "……윽!\n설마 당신이었을 줄이야……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev200601_MSG0008",
+      "style": 1,
+      "name": "어째서 지금까지 눈치채지 못한 거지?\n얼굴을 제대로 확인하지 않은 탓인가……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev200601_JNK0030",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 14,
+      "label": "qev200601_SEL0031",
+      "style": 3,
+      "name": "어디서 만난 적 있는지 묻는다"
+    },
+    {
+      "$id": 15,
+      "label": "qev200601_JNK0040",
+      "style": 4,
+      "name": "요구"
+    },
+    {
+      "$id": 16,
+      "label": "qev200601_SEL0041",
+      "style": 3,
+      "name": "저번에 떼어먹은 보수도 요구한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev200601_MSG0009",
+      "style": 1,
+      "name": "아니, 공업 에어리어\n암즈 병기 시험장에서 만난 적 있잖아요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev200601_MSG0010",
+      "style": 1,
+      "name": "거기서 보수를 떼어먹은 야들리라고요\n기억이 났습니까?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev200601_MSG0011",
+      "style": 1,
+      "name": "……으으음[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev200601_MSG0012",
+      "style": 1,
+      "name": "이제 저도 각오할 때가 온 것 같군요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev200601_MSG0013",
+      "style": 1,
+      "name": "자세한 이야기는 다른 곳에서 하죠[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev200601_MSG0014",
+      "style": 1,
+      "name": "심야에 블레이드 에어리어에 있는\n격납고 아래층으로 찾아와 주세요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev200601_MSG0015",
+      "style": 1,
+      "name": "그곳에서 이번 일의 사례도 하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev200601_MSG0016",
+      "style": 1,
+      "name": "그러면 나중에 뵙죠……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev200601_MSG0017",
+      "style": 1,
+      "name": "여, 역시 기억하고 계셨군요……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev200601_MSG0018",
+      "style": 1,
+      "name": "이렇게 되면 어쩔 수 없죠[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev200601_MSG0019",
+      "style": 1,
+      "name": "심야에 블레이드 에어리어에 있는\n격납고 아래층으로 찾아와 주세요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev200601_MSG0020",
+      "style": 1,
+      "name": "거기서 반드시 사례를 해 드리죠[ST:wait ]"
+    }
+  ]
+}

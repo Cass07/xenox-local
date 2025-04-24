@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev066001_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev066001_SEL0011",
+      "style": 3,
+      "name": "라스에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev066001_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev066001_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev066001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev066001_SEL0031",
+      "style": 3,
+      "name": "그로우스에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev066001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev066001_SEL0041",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev066001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev066001_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev066001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev066001_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev066001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev066001_SEL1031",
+      "style": 3,
+      "name": "그로우스에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev066001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev066001_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev066001_MSG0001",
+      "style": 1,
+      "name": "당신은…… 지구인!?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev066001_MSG0002",
+      "style": 1,
+      "name": "우리의 아지트에 무얼 하러 온 거죠?\n보복입니까?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev066001_MSG0003",
+      "style": 1,
+      "name": "우리는 이제 그로우스와 한패가 아니오니\n당신과 싸울 이유는 없습니다만……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev066001_MSG0004",
+      "style": 1,
+      "name": "위험이 닥치면 막을 수밖에 없습니다!\n왜 그러시죠? 무기를 뽑지 않는 겁니까!?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev066001_MSG0009",
+      "style": 1,
+      "name": "우리는 긍지 높은 라스의 후예……\n설령 곤궁하다 할지라도[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev066001_MSG0010",
+      "style": 1,
+      "name": "당신 같은 외계인한테\n힘을 빌릴 마음은 없습니다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev066001_MSG0015",
+      "style": 1,
+      "name": "그저 서멀의 영토를 넓히기 위해 암약하는\n피도 눈물도 없는 흉악한 조직……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev066001_MSG0016",
+      "style": 1,
+      "name": "피치 못할 사정이 있었다고는 해도\n그런 자들에게 가담해 악행을 거듭해 온 죄\n결코 가볍게 여기지 않습니다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev066001_MSG0017",
+      "style": 1,
+      "name": "언젠가 이 목숨과 바꿔서라도\n녀석들을 때려눕혀 속죄하겠어요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev066001_MSG0021",
+      "style": 1,
+      "name": "가 델그 님께서 동맹을 맺으셨다면\n우리는 그에 따를 뿐[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev066001_MSG0022",
+      "style": 1,
+      "name": "우리 라스 삼걸은\n일단 그로우스와 싸우게 되면\n사자분신하여 녀석들을 궤멸할 거예요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev066001_MSG0023",
+      "style": 1,
+      "name": "부디 기대해 주십시오\n당신과의 차이를 전장에서 보여 주겠어요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev066001_MSG1001",
+      "style": 1,
+      "name": "[ST:playername ] 씨\n증오스러운 퀸 하스탈라와의 싸움\n정말 훌륭했어요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev066001_MSG1002",
+      "style": 1,
+      "name": "라스 가운데에서도 당신과 같이\n굉장한 전사는 본 적이 없어요……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev066001_MSG1003",
+      "style": 1,
+      "name": "당신과 함께 싸울 수 있었던 것, 영광이에요\n언젠가 또 어딘가의 전장에서 만나죠[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev066001_MSG1004",
+      "style": 1,
+      "name": "그때는 라스 삼걸, 질풍의 다 나그테……\n이 칼로 반드시 당신을 돕고야 말겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev066001_MSG1009",
+      "style": 1,
+      "name": "그 녀석들에게 가담하여\n수많은 외계인을 괴롭혀 온 우리야말로\n그로우스를 멸하고[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev066001_MSG1010",
+      "style": 1,
+      "name": "그 죄를 갚아야만 했는데……\n참으로 송구스러워요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev066001_MSG1011",
+      "style": 1,
+      "name": "아직 흑강의 대륙 등에는\n잔당이 많이 남아 있다고 들었으니[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev066001_MSG1012",
+      "style": 1,
+      "name": "적어도 남은 녀석들을 구축하는 임무 정도는\n우리 라스가 맡고 싶은 마음이에요[ST:wait ]"
+    }
+  ]
+}

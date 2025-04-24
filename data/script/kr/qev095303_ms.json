@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095303_MSG0001",
+      "style": 1,
+      "name": "지구인…… 소문 이상으로 강한 것 같군요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095303_MSG0002",
+      "style": 1,
+      "name": "안심하고 있을 때가 아닙니다![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095303_MSG0003",
+      "style": 1,
+      "name": "더 이상 살아남을 방법은 없어요\n포기했다는 말입니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev095303_MSG0004",
+      "style": 1,
+      "name": "고르보가 신들이여……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev095303_MSG0005",
+      "style": 1,
+      "name": "모두, 우리의 임무를 포기해도 되는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev095303_MSG0006",
+      "style": 1,
+      "name": "그로우스의 임무가 아닌\n우리의 살아갈 목적을……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev095303_MSG0007",
+      "style": 1,
+      "name": "저도 완수하고 싶지만……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095303_MSG0008",
+      "style": 1,
+      "name": "그렇다면 조금이라도 살아남을 확률이 높은 쪽에\n걸어야만 하는 것이 아닐까?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095303_MSG0009",
+      "style": 1,
+      "name": "그것도 그렇겠군요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095303_MSG0010",
+      "style": 1,
+      "name": "난 살아남을 거라고……![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095303_MSG0013",
+      "style": 1,
+      "name": "자, 우리도 서두릅시다![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095303_MSG0014",
+      "style": 1,
+      "name": "흐음, 하지만……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095303_MSG0015",
+      "style": 1,
+      "name": "으아아아악!![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095303_MSG0011",
+      "style": 1,
+      "name": "아앗……!![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095303_MSG0012",
+      "style": 1,
+      "name": "지구인분!\n저희를 살려 주세요!![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092804_MSG0010",
+      "style": 0,
+      "name": "리젤……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092804_MSG0020",
+      "style": 0,
+      "name": "혼자 돌아다니지 마\n멀리 가고 싶다면 나한테 말해[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092804_MSG0030",
+      "style": 0,
+      "name": "높은 곳으로 가길 원한다면\n흐레스벨그에 태워 줄게[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092804_MSG0040",
+      "style": 0,
+      "name": "복좌식이 아니니까\n그…… 조금 좁겠지만[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092804_MSG0050",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092804_MSG0060",
+      "style": 0,
+      "name": "후후…… 그렇겠네, 그러면\n2인승 돌이라도 개발해 볼까?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092804_MSG0070",
+      "style": 0,
+      "name": "음, 괜찮을지도 모르지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092804_MSG0080",
+      "style": 0,
+      "name": "더는…… 못 만들지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092804_MSG0090",
+      "style": 0,
+      "name": "……그렇군[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092804_MSG0100",
+      "style": 0,
+      "name": "알았어, 네가 바라는 대로 해[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092804_MSG0110",
+      "style": 0,
+      "name": "……화내지 않는구나[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092804_MSG0120",
+      "style": 0,
+      "name": "그럴 필요가 없으니까[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092804_MSG0130",
+      "style": 0,
+      "name": "……리젤은 강하네[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092804_MSG0140",
+      "style": 0,
+      "name": "정말로……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092804_JNK0150",
+      "style": 4,
+      "name": "격려"
+    },
+    {
+      "$id": 16,
+      "label": "qev092804_SEL0160",
+      "style": 3,
+      "name": "무리할 필요는 없다고 조언한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev092804_MSG0170",
+      "style": 0,
+      "name": "그 말이 맞아\n힘들면 멈춰도 돼[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092804_JNK0180",
+      "style": 4,
+      "name": "질타"
+    },
+    {
+      "$id": 19,
+      "label": "qev092804_SEL0190",
+      "style": 3,
+      "name": "여기까지 와서 포기할 거냐고 묻는다"
+    },
+    {
+      "$id": 20,
+      "label": "qev092804_MSG0200",
+      "style": 0,
+      "name": "물론 포기하고 싶지 않은 마음도 있지[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092804_MSG0210",
+      "style": 0,
+      "name": "하지만, 그 마음으로 괴로움을 덮을 필요는 없어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092804_MSG0220",
+      "style": 0,
+      "name": "……그런 게 아니야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092804_MSG0230",
+      "style": 0,
+      "name": "그러면, 개발을 계속할 건가?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092804_MSG0240",
+      "style": 0,
+      "name": "가변익 기구도 완성되었고\n출력 변동에 의한 오차도 거의 해소됐어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092804_MSG0250",
+      "style": 0,
+      "name": "네가 날아 달라고 한다면\n난 언제라도……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092804_MSG0260",
+      "style": 0,
+      "name": "그런 게 아니야! 리젤![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092804_MSG0270",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "qev092804_MSG0280",
+      "style": 0,
+      "name": "……부장이 무슨 말이라도 한 건가?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092804_MSG0290",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "qev092804_MSG0300",
+      "style": 0,
+      "name": "역시 무언가 있었던 거지?\n솔직하게 말해 줘, 아리샤[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092804_MSG0310",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092804_MSG0320",
+      "style": 0,
+      "name": "난……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092804_MSG0330",
+      "style": 0,
+      "name": "부장님의 비리에…… 가담했었어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092804_MSG0340",
+      "style": 0,
+      "name": "비리……?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092804_MSG0350",
+      "style": 0,
+      "name": "……그게 무슨 뜻이야?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092804_MSG0360",
+      "style": 0,
+      "name": "……흐레스벨그가 순항 형태로 변할 때[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092804_MSG0370",
+      "style": 0,
+      "name": "엔진 내부 구조도 변형한다는 건\n너도 알고 있지?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092804_MSG0380",
+      "style": 0,
+      "name": "어, 그래…… 물론이지\n안 그러면 높은 추진력을 확보할 수 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092804_MSG0390",
+      "style": 0,
+      "name": "맞아…… 일반 엔진 구조를 유지한 채로는\n순항 형태의 폭발적인 추진력을 감당하지 못해[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092804_MSG0400",
+      "style": 0,
+      "name": "그런데 그 변형이 작동하지 않게……\n시스템을 바꿔 버린 거야[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092804_MSG0410",
+      "style": 0,
+      "name": "뭐라고……! 그런 짓을 했다가는\n기체가 산산조각이 날지도 모르……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092804_MSG0420",
+      "style": 0,
+      "name": "……!\n설마 부장이……!?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092804_MSG0430",
+      "style": 0,
+      "name": "그는 비용을 더욱 절감하기 위한\n조치라고 말했어[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092804_MSG0440",
+      "style": 0,
+      "name": "당연히 용인할 수 없는 일이고\n그대로 두면 큰 사고로 이어질 거야[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092804_MSG0450",
+      "style": 0,
+      "name": "그래서 난 부장님에게 개선을 촉구했어[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092804_MSG0455",
+      "style": 0,
+      "name": "하지만 부장님은……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092804_MSG0460",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092804_MSG0470",
+      "style": 0,
+      "name": "나한테…… 「\"전임자\"처럼\n되고 싶지는 않을 테지」라고[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092804_MSG0480",
+      "style": 0,
+      "name": "전임자처럼……?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092804_MSG0490",
+      "style": 0,
+      "name": "……!\n설마, 그 사람은 자살했던 게 아니라……[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092804_MSG0500",
+      "style": 0,
+      "name": "테스트용 흐레스벨그 가동 실험……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092804_MSG0510",
+      "style": 0,
+      "name": "당시 사고는……[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092804_MSG0520",
+      "style": 0,
+      "name": "기체 데이터 부족이 원인이었어\n일어날 수밖에 없는 사고였던 거야[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092804_MSG0530",
+      "style": 0,
+      "name": "내가…… 데이터를 뒤바꿨으니까[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092804_MSG0540",
+      "style": 0,
+      "name": "전임자는 그걸 눈치채고\n날 고발하려고 했었어[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092804_MSG0550",
+      "style": 0,
+      "name": "하지만, 그렇게 되기 전에 부장님이\n전임자를 자살로 위장해서……[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092804_MSG0560",
+      "style": 0,
+      "name": "말도 안 돼…… 아리샤……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092804_MSG0570",
+      "style": 0,
+      "name": "실험을 늦출 수는 없었어\n까딱하면 계획이 중지될 거라고 했으니까……[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092804_MSG0580",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092804_MSG0590",
+      "style": 0,
+      "name": "……그래서, 이번에도 눈을 감으라고?[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092804_MSG0600",
+      "style": 0,
+      "name": "미안해, 결코 용서받지 못할 일이지만……[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev092804_MSG0610",
+      "style": 0,
+      "name": "악행에 가담한다는 건 알고 있었는데\n……멈출 수는 없었어[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev092804_MSG0620",
+      "style": 0,
+      "name": "널 위해서 흐레스벨그만은\n완성하고 싶었거든[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev092804_MSG0630",
+      "style": 0,
+      "name": "우수한 전투기 조종사였던 네가[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev092804_MSG0635",
+      "style": 0,
+      "name": "다시 한번 넓은 하늘을 날게 해 주고 싶었어……[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev092804_MSG0640",
+      "style": 0,
+      "name": "나는…… 널 믿었어[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev092804_MSG0650",
+      "style": 0,
+      "name": "우리 둘이라면 뭐든 할 수 있다고\n그렇게 생각했지[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev092804_MSG0655",
+      "style": 0,
+      "name": "그런데……[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev092804_MSG0660",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev092804_MSG0670",
+      "style": 0,
+      "name": "알아 버린 이상\n못 본 척할 수는 없어[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092804_MSG0680",
+      "style": 0,
+      "name": "부장도…… 그리고 너도[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092804_MSG0690",
+      "style": 0,
+      "name": "……그렇겠지[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092804_MSG0700",
+      "style": 0,
+      "name": "너라면 분명\n그렇게 말할 줄 알았어[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092804_MSG0710",
+      "style": 0,
+      "name": "넌 언제나 자신이 믿는 길을\n똑바로 나아갔으니까[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092804_MSG0720",
+      "style": 0,
+      "name": "내가 무엇을 했는지\n부장님이 무엇에 관여했는지……[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092804_MSG0730",
+      "style": 0,
+      "name": "전부 내 단말기에 기록되어 있어[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092804_MSG0735",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092804_MSG0740",
+      "style": 0,
+      "name": "이걸 남긴 채 사라져 버리면\n편해지지 않을까 생각하기도 했지[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092804_MSG0750",
+      "style": 0,
+      "name": "너를…… 지금 당장 용서할 수는 없어[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092804_MSG0760",
+      "style": 0,
+      "name": "응……[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092804_MSG0770",
+      "style": 0,
+      "name": "하지만…… 그래도……[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092804_MSG0780",
+      "style": 0,
+      "name": "네가 아직 여기에 남아 있어서[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092804_MSG0785",
+      "style": 0,
+      "name": "난…… 안심했어[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092804_MSG0790",
+      "style": 0,
+      "name": "리젤……[ST:wait ]"
+    }
+  ]
+}

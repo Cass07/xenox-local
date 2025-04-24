@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085906_MSG0001",
+      "style": 0,
+      "name": "피자! 배달시켜 줬구낭![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085906_MSG0002",
+      "style": 0,
+      "name": "베리 베리 해피\n미도 패밀리도 엄청 기쁘잖앙![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085906_MSG0003",
+      "style": 0,
+      "name": "패밀리인가……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085906_MSG0004",
+      "style": 0,
+      "name": "그럼 가공해 주는 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085906_MSG0005",
+      "style": 0,
+      "name": "응, 당연하잖앙![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085906_MSG0006",
+      "style": 0,
+      "name": "미의 실력을 쏟아부어서 베리 베리 큐트한\n브레이슬릿을 만들어 주겠엉![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085906_MSG0007",
+      "style": 0,
+      "name": "기다렸징?\n자, 완성됐엉[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085906_MSG0008",
+      "style": 0,
+      "name": "좋아, 이거라면 도로시 씨도 분명……![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085906_MSG0009",
+      "style": 0,
+      "name": "멋지네[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085906_MSG0010",
+      "style": 0,
+      "name": "저기, 여러분, 감사합니다\n저, 바로 도로시 씨에게 다녀오겠어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085906_MSG0011",
+      "style": 0,
+      "name": "다행이다\n신고 씨, 잘되면 좋겠네요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085906_MSG0012",
+      "style": 0,
+      "name": "구경하러 가 볼래?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085906_MSG0013",
+      "style": 0,
+      "name": "물론이죠![ST:wait ]"
+    }
+  ]
+}

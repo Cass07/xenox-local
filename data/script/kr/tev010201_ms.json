@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev010201_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev010201_SEL0011",
+      "style": 3,
+      "name": "NLA에 사는 외계인에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev010201_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev010201_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev010201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev010201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev010201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev010201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev010201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev010201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev010201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev010201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev010201_MSG0001",
+      "style": 1,
+      "name": "장기 임무를 끝내고 돌아왔는데\n……도시 꼴이 이게 뭐야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev010201_MSG0002",
+      "style": 1,
+      "name": "기괴하게 생긴 녀석들이\n마치 제 세상인 양 활보하고 있잖아……\n대체 임시자치정부는 뭐 하는 거지?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev010201_MSG0003",
+      "style": 1,
+      "name": "뭐? 모리스 행정장관이\n승인한 정식 이민이라고?\n……흥, 웃기는 세상이군[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev010201_MSG0008",
+      "style": 1,
+      "name": "다들…… 외계인 때문에 지구에서\n쫓겨난 걸 잊어버리기라도 한 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev010201_MSG0009",
+      "style": 1,
+      "name": "길고 고통스러운 여정을 떠나야만 한 것도\n그에 더해 이 기묘한 행성에 불시착하게 된 것도\n전부 외계인 때문이잖아[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev010201_MSG0010",
+      "style": 1,
+      "name": "여기는 지구인을 위해 만들어진 도시야……\n하지만 이 상황에서 내가 무슨 말을 하든\n달라지는 건 없겠지……[ST:wait ]"
+    }
+  ]
+}

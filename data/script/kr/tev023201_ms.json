@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev023201_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev023201_SEL0011",
+      "style": 3,
+      "name": "일에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev023201_JNK0020",
+      "style": 1,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev023201_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev023201_MSG0001",
+      "style": 1,
+      "name": "우리 팀은 NLA의 라이프 라인……\n주로 물에 관련된 것을 연구하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev023201_MSG0002",
+      "style": 1,
+      "name": "하수나 빗물을 이 정수장에서 처리해서\n다시 한번 사용할 수 있게 하는 게 다야\n간단하지?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev023201_MSG0003",
+      "style": 1,
+      "name": "그런데 아조아는 나중에 물이\n부족해질 거라면서, 급기야 도시 밖에서\n물을 끌어오겠다나 뭐라나……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev023201_MSG0004",
+      "style": 1,
+      "name": "굳이 밖에 나가서 작업하고 싶다고?\n멋진 이안이랑 둘이 같이 호수에\n파견되고 싶을 뿐이잖아…… 공사 혼동이야![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev023201_MSG0008",
+      "style": 1,
+      "name": "뭔가…… 교회에 이상한 여자가 있어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev023201_MSG0009",
+      "style": 1,
+      "name": "NLA가 행성 미라에 불시착할 수 있었던 건\n기적의 신 덕분이라느니 하면서 떠드는데[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev023201_MSG0010",
+      "style": 1,
+      "name": "그럼 외계인이 공격한 건\n왜 못 막았냐 이 말이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev023201_MSG0011",
+      "style": 1,
+      "name": "아아…… 기도하러 가는 게 일과였는데\n자꾸 전도하려 드니까 가기 꺼려져[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev023201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev023201_SEL1011",
+      "style": 3,
+      "name": "일에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev023201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev023201_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev023201_MSG0012",
+      "style": 1,
+      "name": "인구가 늘고 생산도 느니까\n아니나 다를까 물이 부족해졌네[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev023201_MSG0013",
+      "style": 1,
+      "name": "하지만 괜찮아\n우리 팀이 만든 비아노 정수장에서\n안정적으로 공급하고 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev023201_MSG0014",
+      "style": 1,
+      "name": "……흠, 반대했던 계획이\n세상에 도움이 되는 것만큼\n분한 일은 없어[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev023201_MSG0019",
+      "style": 1,
+      "name": "아조아와 이안 팀은\n비아노 정수장으로 이동하게 됐어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev023201_MSG0020",
+      "style": 1,
+      "name": "나? 갈 리가 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev023201_MSG0021",
+      "style": 1,
+      "name": "비아노 정수장 주변에는\n원시 생물이 우글거린단 말이야\n그런 데를 가고 싶어 하다니, 정신 나갔지[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev023201_MSG0022",
+      "style": 1,
+      "name": "그러니까 이안이 나에게\nNLA에서의 관리 임무를 준 것도\n의문스럽게 생각하지 않아[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev023201_MSG0023",
+      "style": 1,
+      "name": "……밤에 호숫가에서\n단둘이 놀고 싶은 걸지도 모르지만![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev023201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev023201_SEL2011",
+      "style": 3,
+      "name": "외계인 이주의 영향을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev023201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev023201_SEL2021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev023201_MSG0024",
+      "style": 1,
+      "name": "역시 외계인의 증가는\n큰 영향을 끼쳤어[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev023201_MSG0025",
+      "style": 1,
+      "name": "베풀기만 할 게 아니라\n그들에게 일을 줘서 자립하게 해야 해[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev023201_MSG0026",
+      "style": 1,
+      "name": "그러기 위해서는 물뿐만이 아니라\n식량 생산도 늘려야 하고[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev023201_MSG0027",
+      "style": 1,
+      "name": "살 곳도…… 마 논 우주선이 있다고는 해도\n앞으로 계속 이주민 같은 상태로\n살 수도 없을 테고……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev023201_MSG0028",
+      "style": 1,
+      "name": "슬퍼할 시간은 없어……\n내가 할 수 있는 걸 찾아야지[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev023201_MSG0031",
+      "style": 1,
+      "name": "아조아와 이안 팀 동료들이 남긴\n비아노 정수장……\n지금은 관리할 사람이 없어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev023201_MSG0032",
+      "style": 1,
+      "name": "그런 사고가 있었으니까……\n관리 시스템에 전부 맡기고\n사람은 안 가는 게 낫다고들 하는데[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev023201_MSG0033",
+      "style": 1,
+      "name": "그렇긴 해도…… 메인터넌스에는\n어쨌든 사람 손이 필요하니까……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev023201_MSG0034",
+      "style": 1,
+      "name": "……내가 가야 한다는 건 알고 있어……\n하지만 무서워……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev023201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev023201_SEL2011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev023201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev023201_SEL3021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev023201_MSG0035",
+      "style": 1,
+      "name": "오르페인이 비아노 정수장을 위해\n가드 머신을 만들어 줬어![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev023201_MSG0036",
+      "style": 1,
+      "name": "응? 당신이 도와준 거야!?\n……완전히 NLA의 영웅이네[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev023201_MSG0037",
+      "style": 1,
+      "name": "덕분에 원시 생물의 습격을\n무서워하지 않아도 되겠어![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev023201_MSG0038",
+      "style": 1,
+      "name": "동료의 희생을 헛되게 하지 않기 위해서……\nNLA의 발전을 위해서…… 난 갈 거야![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev023201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "tev023201_SEL4011",
+      "style": 3,
+      "name": "동료에 관해 묻는다"
+    },
+    {
+      "$id": 48,
+      "label": "tev023201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "tev023201_SEL4021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 50,
+      "label": "tev023201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 51,
+      "label": "tev023201_SEL4031",
+      "style": 3,
+      "name": "동료에 관해 묻는다"
+    },
+    {
+      "$id": 52,
+      "label": "tev023201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "tev023201_SEL4021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "tev023201_MSG0039",
+      "style": 1,
+      "name": "아조아에게서 연락이 왔어!\n이제 겨우 움직일 수 있게 됐대[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev023201_MSG0040",
+      "style": 1,
+      "name": "사고 때 이야기를 조금 들었어[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev023201_MSG0041",
+      "style": 1,
+      "name": "B.B.의 몸을 구성하는 유기물의 일부를 노려서\n임플레카가 알을 낳았대……[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev023201_MSG0042",
+      "style": 1,
+      "name": "그야말로 에일리언……이네[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev023201_MSG0043",
+      "style": 1,
+      "name": "자, 그럼 아조아가 여기 왔을 때\n실망하지 않도록 제대로 운영해야지![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev023201_MSG0046",
+      "style": 1,
+      "name": "탄오살라그가 와 줘서\n기술적인 부분을 바로 상담할 수 있으니까\n굉장히 도움이 돼[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev023201_MSG0047",
+      "style": 1,
+      "name": "다만…… 사소한 불평에도\n이론적인 해결 방법으로 대답하는 건……[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev023201_MSG0048",
+      "style": 1,
+      "name": "뭔가 융통성 없고\n맞장구칠 줄 모르는 남자와\n이야기하는 느낌이야[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev023201_MSG0049",
+      "style": 1,
+      "name": "이런, 지금 이건 비밀로 해 줘\n업무 파트너로서는 최고니까[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev023201_MSG0058",
+      "style": 1,
+      "name": "아조아……였던 걸\n분석반이 조사한 결과를 들었어[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev023201_MSG0059",
+      "style": 1,
+      "name": "B.B.의 몸을 구성하는 유기물의 일부를 노려서\n임플레카가 알을 낳았대……[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev023201_MSG0060",
+      "style": 1,
+      "name": "그야말로 에일리언……이네[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev023201_MSG0061",
+      "style": 1,
+      "name": "그런 거에 일생이 망가지다니\n아조아도 억울했겠지……[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev023201_MSG0062",
+      "style": 1,
+      "name": "좋았어! 내가 아조아와 이안 몫까지\n여기를 훌륭하게 운영하고 말겠어![ST:wait ]"
+    }
+  ]
+}

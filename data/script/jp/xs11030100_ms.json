@@ -1,0 +1,306 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11030100_MSG0001",
+      "style": 0,
+      "name": "さて　詳しい話聞かせてもらえるわね[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs11030100_MSG0002",
+      "style": 0,
+      "name": "ああ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs11030100_MSG0003",
+      "style": 0,
+      "name": "ライフの座標はデータプローブからの情報と\n白鯨落下時の軌道要素などをもとに[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs11030100_MSG0004",
+      "style": 0,
+      "name": "フロンティアネットが解析して\nおおよその位置を割り出している[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs11030100_MSG0005",
+      "style": 0,
+      "name": "皆　知っているな？[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs11030100_MSG0006",
+      "style": 0,
+      "name": "データプローブの数も増え\n解析精度もかなり上がった[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11030100_MSG0007",
+      "style": 0,
+      "name": "で　ついに本命[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11030100_MSG0008",
+      "style": 0,
+      "name": "つまりはライフの本体\nセントラルライフの座標が分かった[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs11030100_MSG0009",
+      "style": 0,
+      "name": "ええっ！？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs11030100_MSG0010",
+      "style": 0,
+      "name": "もも！？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs11030100_MSG0011",
+      "style": 0,
+      "name": "それは本当なの？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11030100_MSG0012",
+      "style": 0,
+      "name": "ああ　まず間違いないだろう[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs11030100_MSG0013",
+      "style": 0,
+      "name": "リンさん　やったですも！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs11030100_MSG0014",
+      "style": 0,
+      "name": "うん　じゃ　急がないと[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs11030100_MSG0015",
+      "style": 0,
+      "name": "それが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs11030100_JNK0010",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 17,
+      "label": "xs11030100_SEL0011",
+      "style": 3,
+      "name": "ラオの名前を出す"
+    },
+    {
+      "$id": 18,
+      "label": "xs11030100_JNK0020",
+      "style": 4,
+      "name": "静観"
+    },
+    {
+      "$id": 19,
+      "label": "xs11030100_SEL0021",
+      "style": 3,
+      "name": "黙って話の続きを待つ"
+    },
+    {
+      "$id": 20,
+      "label": "xs11030100_MSG0016",
+      "style": 0,
+      "name": "何でラオさんなんですか？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs11030100_MSG0017",
+      "style": 0,
+      "name": "そういうこと[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs11030100_MSG0018",
+      "style": 0,
+      "name": "もしかして　もう壊れちゃってたとか？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs11030100_MSG0019",
+      "style": 0,
+      "name": "だとしたら私達は活動を停止しているはずよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs11030100_MSG0020",
+      "style": 0,
+      "name": "ああ　そうか[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs11030100_MSG0021",
+      "style": 0,
+      "name": "ラオ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs11030100_MSG0021_2",
+      "style": 0,
+      "name": "そういうことね　ヴァンダム[ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "xs11030100_MSG0022",
+      "style": 0,
+      "name": "ああ　奴は解析途中の[System:Ruby rt=デバイス ]端末[/System:Ruby]を奪っていったんだ\nご丁寧にバックアップも削除してな[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "xs11030100_JNK0030",
+      "style": 4,
+      "name": "後悔"
+    },
+    {
+      "$id": 29,
+      "label": "xs11030100_SEL0031",
+      "style": 3,
+      "name": "ラオを撃っていればと悔やむ"
+    },
+    {
+      "$id": 30,
+      "label": "xs11030100_JNK0040",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 31,
+      "label": "xs11030100_SEL0041",
+      "style": 3,
+      "name": "解析をやり直せないのか尋ねる"
+    },
+    {
+      "$id": 32,
+      "label": "xs11030100_MSG0024",
+      "style": 0,
+      "name": "あの判断は間違っていないわ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs11030100_MSG0025",
+      "style": 0,
+      "name": "ラオが身体のどこに[System:Ruby rt=デバイス ]端末[/System:Ruby]を\n隠し持っていたか分からない[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs11030100_MSG0026",
+      "style": 0,
+      "name": "万が一誤射してしまったら\n解析は一からやり直しよ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs11030100_MSG0027",
+      "style": 0,
+      "name": "でも　それでは活動限界時間には間に合わない[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs11030100_MSG0028",
+      "style": 0,
+      "name": "その通りだ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs11030100_MSG0029",
+      "style": 0,
+      "name": "もちろん　すでに始めている[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs11030100_MSG0030",
+      "style": 0,
+      "name": "だが座標データは\n膨大な蓄積データから導き出されたものだ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs11030100_MSG0031",
+      "style": 0,
+      "name": "時間をかければ同じ結果が得られるだろう\nしかし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs11030100_MSG0032",
+      "style": 0,
+      "name": "解析結果が出る前に\n活動限界時間がきてしまうんですね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs11030100_MSG0033",
+      "style": 0,
+      "name": "ああ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs11030100_MSG0034",
+      "style": 0,
+      "name": "道はひとつね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs11030100_MSG0035",
+      "style": 0,
+      "name": "ラオさんに会ってデータ[System:Ruby rt=デバイス ]端末[/System:Ruby]を返してもらう[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "xs11030100_MSG0036",
+      "style": 0,
+      "name": "彼はおそらく白樹の大陸の北方にあるという\nグロウスの本拠地に向かったはず[ST:wait ]\n"
+    },
+    {
+      "$id": 45,
+      "label": "xs11030100_MSG0037",
+      "style": 0,
+      "name": "急いで追うわよ[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "xs11030100_MSG0038",
+      "style": 0,
+      "name": "あの異星人　ガ・デルグが言ってた場所ですね[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs11030100_MSG0039",
+      "style": 0,
+      "name": "いつも頼りっぱなしだが　今回も頼む[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs11030100_MSG0040",
+      "style": 0,
+      "name": "ラオの野郎　いったい何をしようってんだ[ST:wait ]\n"
+    }
+  ]
+}

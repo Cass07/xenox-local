@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev055102_MSG0001",
+      "style": 1,
+      "name": "쿠타, 어쩌면 좋냐모!\n짐이 전부 없어졌다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev055102_MSG0002",
+      "style": 1,
+      "name": "빨리 되찾지 않으면\n와나나의 장사는 끝이다모![ST:wait ]"
+    }
+  ]
+}

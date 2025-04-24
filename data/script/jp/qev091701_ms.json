@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091701_MSG0001",
+      "style": 0,
+      "name": "お久しぶり　ジョランダ\n何かおもしろい話はない？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091701_MSG0002",
+      "style": 0,
+      "name": "アンタが好きそうな一攫千金の話題はないな\n任務も堅実なものばっかりさ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091701_MSG0003",
+      "style": 0,
+      "name": "そう　退屈ね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091701_MSG0004",
+      "style": 0,
+      "name": "それよりマードレス\n最近　アレやってないよな？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091701_MSG0005",
+      "style": 0,
+      "name": "アレ？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091701_MSG0006",
+      "style": 0,
+      "name": "元締めがいないから\nポーカーするくらいしか暇潰しがないんだよね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091701_MSG0007",
+      "style": 0,
+      "name": "ああアレね　ちょうどいい人材がいるから\n久々にやってみましょうか[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091701_MSG0007_m",
+      "style": 0,
+      "name": "ああアレね　ちょうどいい人材がいるから\n久々にやってみましょうか[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091701_MSG0007_f",
+      "style": 0,
+      "name": "ああアレね　ちょうどいい人材がいるから\n久々にやってみましょうか[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091701_MSG0008",
+      "style": 0,
+      "name": "いいねぇ　そこにいるヤツだろ？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091701_MSG0008_m",
+      "style": 0,
+      "name": "いいねぇ　そこにいるヤツだろ？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091701_MSG0008_f",
+      "style": 0,
+      "name": "いいねぇ　そこにいるヤツだろ？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091701_MSG0009",
+      "style": 0,
+      "name": "ええ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091701_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 15,
+      "label": "qev091701_SEL0011",
+      "style": 3,
+      "name": "何をさせられるのか尋ねる"
+    },
+    {
+      "$id": 16,
+      "label": "qev091701_JNK0020",
+      "style": 4,
+      "name": "抵抗"
+    },
+    {
+      "$id": 17,
+      "label": "qev091701_SEL0021",
+      "style": 3,
+      "name": "悪事には加担しないと言い切る"
+    },
+    {
+      "$id": 18,
+      "label": "qev091701_JNK0030",
+      "style": 4,
+      "name": "余裕"
+    },
+    {
+      "$id": 19,
+      "label": "qev091701_SEL0031",
+      "style": 3,
+      "name": "マードレスにいいところを見せようと意気込む"
+    },
+    {
+      "$id": 20,
+      "label": "qev091701_MSG0010",
+      "style": 0,
+      "name": "不安がらないで\n腕に覚えのあるあなたにはちょうどいい仕事よ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091701_MSG0011",
+      "style": 0,
+      "name": "大丈夫よ　ちょっとした退屈しのぎだから\n誰にも迷惑は掛けないわ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091701_MSG0012",
+      "style": 0,
+      "name": "嬉しい　私の期待に応えてくれることを願うわ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091701_MSG0013",
+      "style": 0,
+      "name": "ジョランダ　説明してあげて[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091701_MSG0014",
+      "style": 0,
+      "name": "そこにあるクソ弱ぇ武器を使って\n外にいるクソ強い化物を倒せるのか試すのさ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091701_MSG0015",
+      "style": 0,
+      "name": "ここにいるロクデナシどもが\nそれを達成できるかどうかお金を賭けるの[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091701_MSG0016",
+      "style": 0,
+      "name": "死と隣り合わせの最高の賭けだろ？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091701_MSG0017",
+      "style": 0,
+      "name": "まっ　あたし達は命も賭けずに\n高見の見物だけどね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091701_MSG0018",
+      "style": 0,
+      "name": "やりたいかどうかは訊かないわ\nやってちょうだい[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091701_MSG0019",
+      "style": 0,
+      "name": "ＯＫ　やると決まれば\n早速そこのトランプを引きな[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091701_MSG0020",
+      "style": 0,
+      "name": "それで獲物を決めるのさ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091701_MSG0021",
+      "style": 0,
+      "name": "皆目勝てる見込みがない化物が\n当たるかもしれないから　慎重に選ぶんだね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091701_JNK0040",
+      "style": 4,
+      "name": "左"
+    },
+    {
+      "$id": 33,
+      "label": "qev091701_SEL0041",
+      "style": 3,
+      "name": "左にあるトランプを選ぶ"
+    },
+    {
+      "$id": 34,
+      "label": "qev091701_JNK0050",
+      "style": 4,
+      "name": "中央"
+    },
+    {
+      "$id": 35,
+      "label": "qev091701_SEL0051",
+      "style": 3,
+      "name": "中央にあるトランプを選ぶ"
+    },
+    {
+      "$id": 36,
+      "label": "qev091701_JNK0060",
+      "style": 4,
+      "name": "右"
+    },
+    {
+      "$id": 37,
+      "label": "qev091701_SEL0061",
+      "style": 3,
+      "name": "右にあるトランプを選ぶ"
+    },
+    {
+      "$id": 38,
+      "label": "qev091701_MSG0022",
+      "style": 0,
+      "name": "おっ　ジョーカーだ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091701_MSG0023",
+      "style": 0,
+      "name": "大当たりを引いちまったようだねぇ\nアンタの獲物は最強最悪の化物だ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091701_MSG0024",
+      "style": 0,
+      "name": "今までコイツに挑んだブレイドは８人！\nそして死んだ数も８人！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091701_MSG0025",
+      "style": 0,
+      "name": "アンタ　相当ツキがいいね[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091701_MSG0026",
+      "style": 0,
+      "name": "どうせ３枚共同じカードなんでしょ[ST:wide ]―\nゲスいことをするわね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091701_MSG0027",
+      "style": 0,
+      "name": "アンタに言われたくないよ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091701_MSG0028",
+      "style": 0,
+      "name": "絶対に失敗するようじゃ\n賭けにならないでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091701_MSG0029",
+      "style": 0,
+      "name": "無理じゃないってあたしは思うよ？[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091701_MSG0030",
+      "style": 0,
+      "name": "そうは言うけど　誰が成功する方に賭けるの？[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091701_MSG0031",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091701_MSG0032",
+      "style": 0,
+      "name": "なら　成功する方に１０万Ｇ賭けるわ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091701_MSG0032_m",
+      "style": 0,
+      "name": "なら　成功する方に１０万Ｇ賭けるわ[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091701_MSG0032_f",
+      "style": 0,
+      "name": "なら　成功する方に１０万Ｇ賭けるわ[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091701_MSG0033",
+      "style": 0,
+      "name": "それに私も付いていく\n９度目の正直にするためにね[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091701_MSG0034",
+      "style": 0,
+      "name": "ちょっと　アンタらしくないねぇ\nそれでいいのかよ？[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091701_MSG0035",
+      "style": 0,
+      "name": "私はよりお金を儲けられる方法を選んだだけよ[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091701_MSG0036",
+      "style": 0,
+      "name": "あとはクズどもから\n巻き上げるのが愉しみだからね[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091701_MSG0037",
+      "style": 0,
+      "name": "はっ　言ってな[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091701_MSG0038",
+      "style": 0,
+      "name": "マードレス　ルールを捻じ曲げるんじゃないよ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091701_MSG0039",
+      "style": 0,
+      "name": "ギブアップしたけりゃ　あたしに言えばいい\nそれじゃ　グッドラック[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091701_MSG0040",
+      "style": 0,
+      "name": "心にもない言葉をありがと　さあ行くわよ[ST:wait ]"
+    }
+  ]
+}

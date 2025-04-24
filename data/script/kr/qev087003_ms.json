@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087003_MSG0001",
+      "style": 0,
+      "name": "엘마 씨\n이게 이 거점의 메인 프레임인 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087003_MSG0002",
+      "style": 0,
+      "name": "정보를 꺼낼 수 있겠어?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087003_MSG0003",
+      "style": 0,
+      "name": "해 봐야 알겠지만\n솔직히 자신 없어요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087003_MSG0004",
+      "style": 0,
+      "name": "시간도 걸릴 것 같으니\n스토리지를 가져가서 분석하는 게 좋겠어요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087003_MSG0005",
+      "style": 0,
+      "name": "알겠어, 그렇게 하자……\n라고 말하고 싶지만 방해꾼이 온 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087003_MSG0006",
+      "style": 0,
+      "name": "적을 제거한 후에 회수하자[ST:wait ]"
+    }
+  ]
+}

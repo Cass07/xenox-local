@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092002_MSG0001",
+      "style": 0,
+      "name": "アクセナじゃないか\nお見舞いに来てくれたのか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092002_MSG0002",
+      "style": 0,
+      "name": "うん！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092002_MSG0003",
+      "style": 0,
+      "name": "ありがとう　嬉しいよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092002_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―カンバーのドール\nかなりボロボロになっちゃったね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092002_MSG0005",
+      "style": 0,
+      "name": "アクセナ　あなたのせいでしょ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092002_MSG0006",
+      "style": 0,
+      "name": "ミカ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092002_MSG0007",
+      "style": 0,
+      "name": "そうだね　あたしの責任\nだから　謝りに来たんだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092002_MSG0008",
+      "style": 0,
+      "name": "カンバー　それにミカ　ごめんなさい[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092002_MSG0009",
+      "style": 0,
+      "name": "気にするな　試作兵器のテストに\n事故はつきもんだ　俺達も織り込みずみさ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092002_MSG0010",
+      "style": 0,
+      "name": "カンバーはアクセナに甘いわね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092002_MSG0011",
+      "style": 0,
+      "name": "あの事故のせいで私達　しばらくブレイドの\n活動ができなくなったっていうのに[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092002_MSG0012",
+      "style": 0,
+      "name": "[ST:wide ]―どういう意味？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092002_MSG0013",
+      "style": 0,
+      "name": "ああ[ST:wide ]―　修理用の部品が足りてないんだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092002_MSG0014",
+      "style": 0,
+      "name": "品薄らしい　あまり流通してないし\nちっとも手に入らないんだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092002_MSG0015",
+      "style": 0,
+      "name": "だから　ボロボロのままなんだね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092002_MSG0016",
+      "style": 0,
+      "name": "そうよ　ドールを修理しなきゃ\n任務も果たせないし[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092002_MSG0017",
+      "style": 0,
+      "name": "私達は今　ヒマを持て余してるってわけ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092002_JNK0010",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 19,
+      "label": "qev092002_SEL0011",
+      "style": 3,
+      "name": "ドールなしでやれる任務を\n受ければいいと提案する"
+    },
+    {
+      "$id": 20,
+      "label": "qev092002_JNK0020",
+      "style": 4,
+      "name": "反論"
+    },
+    {
+      "$id": 21,
+      "label": "qev092002_SEL0021",
+      "style": 3,
+      "name": "修理部品が足りないことを\n責めるのはお門違いだと反論"
+    },
+    {
+      "$id": 22,
+      "label": "qev092002_MSG0018",
+      "style": 0,
+      "name": "それはそうだけど\n事故がなければドールは壊れなかったし[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092002_MSG0019",
+      "style": 0,
+      "name": "私達の次の任務に\nドールが必要にならなかったわ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092002_MSG0020",
+      "style": 0,
+      "name": "どういうこと？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092002_MSG0021",
+      "style": 0,
+      "name": "次の仕事はもう決まってるのよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092002_MSG0022",
+      "style": 0,
+      "name": "アクセナが失敗した試作兵器の再テストよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092002_MSG0023",
+      "style": 0,
+      "name": "ミカ達がするの？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092002_MSG0024",
+      "style": 0,
+      "name": "あなたに連絡がいってないのなら\nしばらく反省しなさいってことじゃないの？[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092002_MSG0025",
+      "style": 0,
+      "name": "私達は開発主任から直接説明を受けたからね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092002_MSG0026",
+      "style": 0,
+      "name": "そうなんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092002_MSG0027",
+      "style": 0,
+      "name": "テストのスタートは　誰かさんが壊しちゃった\nドールの修理が終わってからなんだけどね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092002_MSG0028",
+      "style": 0,
+      "name": "じゃあ！　あたし修理の部品を探してくる！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092002_MSG0029",
+      "style": 0,
+      "name": "せめてサポートくらいさせて[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092002_MSG0030",
+      "style": 0,
+      "name": "あんた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092002_MSG0031",
+      "style": 0,
+      "name": "アクセナ[ST:wide ]―　嬉しい申し出だけど[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092002_MSG0032",
+      "style": 0,
+      "name": "そういうのはアームズの仕事じゃないし\nしばらくすればパーツも流通するだろ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092002_MSG0033",
+      "style": 0,
+      "name": "キミが無理をすることはないさ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092002_MSG0034",
+      "style": 0,
+      "name": "だけど　あの事故はあたしにも\n責任があるから[ST:wide ]―　少しでも役に立ちたい[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092002_MSG0035",
+      "style": 0,
+      "name": "[ST:wide ]―わかったよ　お願いしよう[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092002_MSG0036",
+      "style": 0,
+      "name": "了解！　すぐに集めてくるから待ってて！！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092002_MSG0037",
+      "style": 0,
+      "name": "カンバー！　これでどうかな？[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092002_MSG0038",
+      "style": 0,
+      "name": "ああ　これで修理ができそうだ\nありがとう　アクセナ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092002_MSG0039",
+      "style": 0,
+      "name": "ううん[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092002_MSG0039_2",
+      "style": 0,
+      "name": "まだまだお詫びは足りてないと思うけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092002_MSG0040",
+      "style": 0,
+      "name": "アクセナ　ティカさんが捜してたわ\n次のテストがあるみたいよ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092002_MSG0041",
+      "style": 0,
+      "name": "そうなの？　すぐに行ってみるね\nもちろんキミも一緒に[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092002_MSG0042",
+      "style": 0,
+      "name": "じゃあ　カンバーもミカもテストがんばって[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092002_MSG0043",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092002_MSG0044",
+      "style": 0,
+      "name": "ああ　がんばるさ　アクセナ[ST:wide ]―\nまたいつでも来いよ[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092002_MSG0045",
+      "style": 0,
+      "name": "うん！[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092002_MSG0046",
+      "style": 1,
+      "name": "手に入れてほしいのは\n汎用ブレード部品と\nトータルアナライザーだ[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092002_MSG0047",
+      "style": 1,
+      "name": "汎用ブレード部品は\n黒鋼の大陸の　白燐湖の道なりにいる\nファスト・ヅッターが持っているらしい[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092002_MSG0048",
+      "style": 1,
+      "name": "トータルアナライザーの方は\nコレクションアイテムで\nこっちも白燐湖の辺りに　あると聞いた[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092002_MSG0049",
+      "style": 1,
+      "name": "黒鋼の大陸は　強敵がごろごろしているが[ST:wide ]―\nアクセナなら　きっと大丈夫だよな[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092002_MSG0050",
+      "style": 1,
+      "name": "修理は順調……\nいや　むしろアクセナのおかげで\n予定より早く終わりそうだ[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092002_MSG0051",
+      "style": 1,
+      "name": "ありがとうな[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092002_MSG0052",
+      "style": 1,
+      "name": "もうすぐ修理が終わるから\n打ち合わせをしたいんだが\nミカがなかなか来ないんだ……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092002_MSG0053",
+      "style": 1,
+      "name": "遅刻はしないタイプなんだが\nどうしたんだろう？[ST:wait ]"
+    }
+  ]
+}

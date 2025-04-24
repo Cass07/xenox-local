@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12010150_MSG0001",
+      "style": 0,
+      "name": "모리스 행정장관이 말한 대로다\n촌각을 다투는 사태야[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12010150_MSG0002",
+      "style": 0,
+      "name": "자잘한 설명은 생략하지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12010150_MSG0003",
+      "style": 0,
+      "name": "임무는 센트럴 라이프의 확보와\n예비 시스템으로의 전환[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12010150_MSG0004",
+      "style": 0,
+      "name": "분석은 2시간 이내로 끝난다\n위치가 판명되는 즉시 출격해라![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12010150_MSG0005",
+      "style": 0,
+      "name": "블레이드 전원이 참가해 주기를 바란다\n혹독한 임무지만 모두 잘 부탁한다![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12010150_MSG0006",
+      "style": 0,
+      "name": "이상이다![ST:wait ]"
+    }
+  ]
+}

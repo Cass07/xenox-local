@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs07080100_MSG0001",
+      "style": 0,
+      "name": "반담 사령관님, 지금 귀환했습니다![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs07080100_MSG0002",
+      "style": 0,
+      "name": "이리나도 조금 전에 보고하러 왔었네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs07080100_MSG0003",
+      "style": 0,
+      "name": "전원 무사히 귀환하다니, 역시 엘마 팀이군[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs07080100_MSG0004",
+      "style": 0,
+      "name": "하지만 데이터베이스 유닛이 파괴됐어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs07080100_MSG0005",
+      "style": 0,
+      "name": "이걸로 지구의 유산을\n또 하나 잃어버렸네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs07080100_MSG0006",
+      "style": 0,
+      "name": "안타깝지만 크루를 잃는 것보단 나아[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs07080100_MSG0007",
+      "style": 0,
+      "name": "좋아, 밥 먹으러 갈까\n내가 사지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs07080100_MSG0008",
+      "style": 0,
+      "name": "이번에는 자네들에게 신세를 졌으니[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs07080100_MSG0009",
+      "style": 0,
+      "name": "웬일이야?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs07080100_MSG0010",
+      "style": 0,
+      "name": "웬일이세요?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs07080100_MSG0011",
+      "style": 0,
+      "name": "웬일인가모?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs07080100_MSG0012",
+      "style": 0,
+      "name": "큭…… 다들 하나같이[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs07080100_MSG0017",
+      "style": 0,
+      "name": "하지만 신세를 졌다니\n당신답지 않은 말 하지 마[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs07080100_MSG0018",
+      "style": 0,
+      "name": "여기는 미지의 행성[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs07080100_MSG0019",
+      "style": 0,
+      "name": "우리도 언젠가 이리나 팀과 같은 일을\n겪게 될지도 모르잖아[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs07080100_MSG0020",
+      "style": 0,
+      "name": "그건 그렇지만[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs07080100_MSG0021",
+      "style": 0,
+      "name": "린 씨의 밥이 최고다모![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs07080100_MSG0022",
+      "style": 0,
+      "name": "타츠, 말 한번 잘했어![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs07080100_MSG0023",
+      "style": 0,
+      "name": "오늘은 특별히 디저트도 준비해 줄게![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs07080100_MSG0024",
+      "style": 0,
+      "name": "모모모모~!![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs07080100_MSG0025",
+      "style": 0,
+      "name": "그렇다네[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs07080100_MSG0026",
+      "style": 0,
+      "name": "린의 요리에는 당할 수 없지[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs07080100_MSG0027",
+      "style": 0,
+      "name": "반담 사령관님도 드시러 오세요![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs07080100_MSG0028",
+      "style": 0,
+      "name": "그래, 알겠네[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012203_MSG0001",
+      "style": 1,
+      "name": "선배! 해냈군요![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012203_MSG0002",
+      "style": 1,
+      "name": "전투 종료와 같은 타이밍에\n저도 수리가 끝났어요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012203_MSG0003",
+      "style": 1,
+      "name": "이거 완벽한 연계 아니었나요?\n저, 이렇게 작전 수행하는 느낌이 나는 건 처음이었는데[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev012203_MSG0004",
+      "style": 1,
+      "name": "어쩌면\n꽤 재능이 있을지도……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev012203_MSG0005",
+      "style": 1,
+      "name": "자, 그럼 요새도 해치우고 돌도 고쳤으니\n이번에야말로 모험을 재개할 수 있어요![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev012203_MSG0006",
+      "style": 1,
+      "name": "다음은…… 어디 보자\n북쪽으로 가서 흑강의 대륙이라는 곳에\n상륙해 볼 생각이에요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev012203_MSG0007",
+      "style": 1,
+      "name": "선배에게는\n또 신세를 져 버렸네요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev012203_MSG0008",
+      "style": 1,
+      "name": "후배를 잘 돌봐 주는 선배를\n정말 존경하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev012203_MSG0009",
+      "style": 1,
+      "name": "그럼! 저는 바빠서 이만![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev012203_MSG0010",
+      "style": 1,
+      "name": "실례하겠습니다![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev012203_JNK0010",
+      "style": 4,
+      "name": "배웅한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev012203_SEL0011",
+      "style": 3,
+      "name": "아무 말 없이 보낸다"
+    },
+    {
+      "$id": 13,
+      "label": "qev012203_JNK0020",
+      "style": 4,
+      "name": "불러 세운다"
+    },
+    {
+      "$id": 14,
+      "label": "qev012203_SEL0021",
+      "style": 3,
+      "name": "보수를 요구한다"
+    },
+    {
+      "$id": 15,
+      "label": "qev012203_MSG0011",
+      "style": 1,
+      "name": "선배~! 안녕히 계세요~![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev012203_MSG0012",
+      "style": 1,
+      "name": "어디선가 만나게 되면 또 연계해서\n작전을 수행해 봐요~![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev012203_MSG0013",
+      "style": 1,
+      "name": "다음에는 용감하게 싸우는\n제 모습을 봐 주셔야 해요~![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev012203_MSG0014",
+      "style": 1,
+      "name": "안녕히 계세요~~~~!"
+    }
+  ]
+}

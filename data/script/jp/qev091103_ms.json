@@ -1,0 +1,360 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091103_MSG0001",
+      "style": 0,
+      "name": "フォグ　大丈夫か！？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091103_MSG0002",
+      "style": 0,
+      "name": "兄さん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091103_MSG0003",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091103_MSG0004",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091103_MSG0005",
+      "style": 0,
+      "name": "ボクはかろうじて大丈夫[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091103_MSG0006",
+      "style": 0,
+      "name": "第十二波までは　敵を退けたんだけど[ST:wide ]―\n限界がきちゃって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091103_MSG0007",
+      "style": 0,
+      "name": "よくそんなに戦えたな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091103_MSG0008",
+      "style": 0,
+      "name": "ＮＬＡを守るためだよ　兄さん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091103_MSG0009",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091103_MSG0010",
+      "style": 0,
+      "name": "後は俺達がどうにかする\nお前はしばらく休んでろ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091103_MSG0011",
+      "style": 0,
+      "name": "[ST:wide ]―うん[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091103_MSG0012",
+      "style": 0,
+      "name": "準備はいいな？　何が何でもＮＬＡを守るぞ！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091103_JNK0010",
+      "style": 4,
+      "name": "はい"
+    },
+    {
+      "$id": 14,
+      "label": "qev091103_SEL0011",
+      "style": 3,
+      "name": "準備完了"
+    },
+    {
+      "$id": 15,
+      "label": "qev091103_JNK0020",
+      "style": 4,
+      "name": "いいえ"
+    },
+    {
+      "$id": 16,
+      "label": "qev091103_SEL0021",
+      "style": 3,
+      "name": "まだ準備が整っていない"
+    },
+    {
+      "$id": 17,
+      "label": "qev091103_MSG0013",
+      "style": 0,
+      "name": "敵の攻撃は落ち着いたみたいだな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091103_MSG0014",
+      "style": 0,
+      "name": "フォグ　安心しろ　すぐに救援がくる[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091103_MSG0015",
+      "style": 0,
+      "name": "二人共ありがとう[ST:wide ]―\n助けに来てくれて　嬉しかったよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091103_MSG0016",
+      "style": 0,
+      "name": "フォグ[ST:wide ]―　悪かったな\nこの数年間　お前のこと勘違いしていた[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091103_MSG0017",
+      "style": 0,
+      "name": "[ST:wide ]―どうして急に助けに来てくれたの？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091103_MSG0018",
+      "style": 0,
+      "name": "お前は今となっては唯一の家族だからな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091103_MSG0019",
+      "style": 0,
+      "name": "家族は絶対に守らなきゃならないんだよ\nお前がＮＬＡを守ったみたいにな[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091103_MSG0020",
+      "style": 0,
+      "name": "[ST:wide ]―兄さん　話を聞いてくれるかな？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091103_MSG0021",
+      "style": 0,
+      "name": "後で聞く　だから今はゆっくり休め[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091103_MSG0022",
+      "style": 0,
+      "name": "いや　今言いたいんだ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091103_MSG0023",
+      "style": 0,
+      "name": "父さんは[ST:wide ]―　年老いた自分よりも\n若い人を白鯨に乗せたいんだって言ってたよ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091103_MSG0024",
+      "style": 0,
+      "name": "父さんは犠牲になることを厭わなかったんだ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091103_MSG0025",
+      "style": 0,
+      "name": "[ST:wide ]―そうだろうな　ああ　そうなんだろう[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091103_MSG0026",
+      "style": 0,
+      "name": "俺はそんな風に考えもしなかった[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091103_MSG0027",
+      "style": 0,
+      "name": "自分の命を使って\n別の人を守る方法があるなんてな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091103_MSG0028",
+      "style": 0,
+      "name": "いつも通り戦いの中で活躍して\n人を守ることしか考えちゃいなかった[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091103_MSG0029",
+      "style": 0,
+      "name": "[ST:wide ]―兄さん[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091103_MSG0030",
+      "style": 0,
+      "name": "お前の今日の姿を見て思ったんだ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091103_MSG0031",
+      "style": 0,
+      "name": "親父もきっとお前と同じくらい\nボロボロになっても街を守るだろうってな[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091103_MSG0032",
+      "style": 0,
+      "name": "お前は薄情者なんかじゃない\n親父のように熱い心をもってたんだよな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091103_MSG0033",
+      "style": 0,
+      "name": "今まですまなかったな　フォグ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091103_MSG0034",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091103_MSG0036",
+      "style": 0,
+      "name": "いや　いいんだ\n地球にいた頃のような関係に戻れるなら[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091103_MSG0037",
+      "style": 0,
+      "name": "そうだな　昔みたいにパーッといくか\n任務もなんとか完了したんだしな[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091103_MSG0038",
+      "style": 0,
+      "name": "いいね　冷えたミルクを一気に飲み干したいよ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091103_MSG0039",
+      "style": 0,
+      "name": "相変わらずだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091103_MSG0040",
+      "style": 0,
+      "name": "お前さんも　もちろん来るよな？[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091103_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 45,
+      "label": "qev091103_SEL0031",
+      "style": 3,
+      "name": "もちろん行くと答える"
+    },
+    {
+      "$id": 46,
+      "label": "qev091103_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 47,
+      "label": "qev091103_SEL0041",
+      "style": 3,
+      "name": "兄弟水入らずで楽しんでほしいと遠慮する"
+    },
+    {
+      "$id": 48,
+      "label": "qev091103_MSG0041",
+      "style": 0,
+      "name": "よし　今夜は朝まで飲み明かそうぜ\nここ数年のこと全部話さなきゃな[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091103_MSG0042",
+      "style": 0,
+      "name": "そんなこと言うなって　お前さんはもう\n俺達の家族みたいなもんなんだからよ[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091103_MSG0043",
+      "style": 0,
+      "name": "[ST:wide ]―そうだよ　兄さんの話[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091103_MSG0044",
+      "style": 0,
+      "name": "勢いだけでよくわからないから\nボクの代わりに聞いてあげてよ[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091103_MSG0045",
+      "style": 0,
+      "name": "フォグ　お前なぁ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091103_MSG0046",
+      "style": 1,
+      "name": "もう少し……もう少し耐えて！\n兄さん……！[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091103_MSG0047",
+      "style": 1,
+      "name": "キラキラ……光って…………\n敵影が…………うっ……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091103_MSG0048",
+      "style": 1,
+      "name": "[ST:playername ]の幻影……？\nお願いします……ちょっとだけ……\n余計な敵を……倒してください…………[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091103_MSG0049",
+      "style": 1,
+      "name": "星が…………いや　違う\n……あれは……想定外の敵影です……！[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091103_MSG0050",
+      "style": 1,
+      "name": "兄さん　[ST:playername ]！\nこのままじゃ第十三波は耐えられない……\n今のうちに排除を……！[ST:wait ]"
+    }
+  ]
+}

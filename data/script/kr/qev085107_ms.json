@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085107_MSG0001",
+      "style": 0,
+      "name": "안심해\n이제 그로우스 부대는 없어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085107_MSG0002",
+      "style": 0,
+      "name": "혹시 괜찮다면 같이 도망가지 않을래요?\n계속 여기 있으면 위험해요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085107_MSG0003",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "qev085107_JNK0010",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 5,
+      "label": "qev085107_SEL0011",
+      "style": 3,
+      "name": "세리카와 록을 걱정한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev085107_JNK0020",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 7,
+      "label": "qev085107_SEL0021",
+      "style": 3,
+      "name": "세리카와 록의 사정을 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "qev085107_MSG0004",
+      "style": 0,
+      "name": "걱정하는 척해도…… 속지 않아요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085107_MSG0005",
+      "style": 0,
+      "name": "아무래도 우리를 믿지 못하는 모양이네\n강요는 하지 않아[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085107_MSG0006",
+      "style": 0,
+      "name": "하지만 우린 당신들을 돕고 싶어\n그건 잊지 말아 줘[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085107_MSG0007",
+      "style": 0,
+      "name": "저희의 사정……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085107_MSG0008",
+      "style": 0,
+      "name": "괜찮다면 왜 그로우스에게 쫓기고 있었는지\n알려 주실래요?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085107_MSG0009",
+      "style": 0,
+      "name": "타인의 사정을 너무 파고들면 안 돼\n본인이 이야기하고 싶어지기 전에는 말이지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085107_MSG0010",
+      "style": 0,
+      "name": "저기, 세리카……\n이 사람들은 믿을 수 있지 않을까?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085107_MSG0011",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085107_MSG0012",
+      "style": 0,
+      "name": "누님, 이름이 세리카인가모?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085107_MSG0013",
+      "style": 0,
+      "name": "당신은…… 노폰인?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085107_MSG0014",
+      "style": 0,
+      "name": "타츠다모[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085107_MSG0014_2",
+      "style": 0,
+      "name": "저 지구인들이\n그로우스에게서 구해 줬다모[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085107_MSG0014_2_m",
+      "style": 0,
+      "name": "저 지구인들이\n그로우스에게서 구해 줬다모[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085107_MSG0014_2_f",
+      "style": 0,
+      "name": "저 지구인들이\n그로우스에게서 구해 줬다모[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085107_MSG0015",
+      "style": 0,
+      "name": "그럼 우리랑 똑같네![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085107_MSG0016",
+      "style": 0,
+      "name": "그렇다모, 이 타츠를 걸 테니\n저 지구인들을 믿어 줬으면 한다모[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085107_MSG0017",
+      "style": 0,
+      "name": "모두 좋은 사람들이다모[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085107_MSG0018",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "qev085107_MSG0019",
+      "style": 0,
+      "name": "저기…… 저희는 그로우스에게 쫓기고 있는데……\n하지만 갈 곳이……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085107_MSG0020",
+      "style": 0,
+      "name": "우리의 도시 NLA에는\n지구인 외에도 많은 종족이 살고 있어[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085107_MSG0021",
+      "style": 0,
+      "name": "한동안 머물러 보는 건 어때?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085107_MSG0022",
+      "style": 0,
+      "name": "마음에 들면 계속 있어도 괜찮고\n그렇지 않으면 나가는 것도 자유야[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085107_MSG0023",
+      "style": 0,
+      "name": "……저기, 그럼 신세 지겠습니다\n저는 세리카예요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085107_MSG0024",
+      "style": 0,
+      "name": "난 록!\n잘 부탁해![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085107_MSG0025",
+      "style": 0,
+      "name": "린이라고 해요![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085107_MSG0026",
+      "style": 0,
+      "name": "자, 이게 우리의 도시 NLA의 좌표예요\n알아보겠나요?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085107_MSG0027",
+      "style": 0,
+      "name": "네, 둘이 갈 수 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085107_MSG0028",
+      "style": 0,
+      "name": "그럼 도시에서 다시 만나요\n세리카 씨, 록 씨![ST:wait ]"
+    }
+  ]
+}

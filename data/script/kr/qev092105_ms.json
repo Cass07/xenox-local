@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092105_MSG0001",
+      "style": 0,
+      "name": "캠버랑 아크세나!\n그리고 매번 있는 너까지![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092105_MSG0002",
+      "style": 0,
+      "name": "다행이다…… 무사했구나……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092105_MSG0003",
+      "style": 0,
+      "name": "캠버도 살아 있어서\n정말 다행이야……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092105_MSG0004",
+      "style": 0,
+      "name": "너희 둘은 숨어 있어\n그로우스 녀석들이 더 오는 것 같아……[ST:wait ]"
+    }
+  ]
+}

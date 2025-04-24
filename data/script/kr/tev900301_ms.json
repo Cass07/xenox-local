@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev900301_MSG0010",
+      "style": 1,
+      "name": "반담이 널 도우라고 하네\n……정말이지, 이제 겨우 귀환했는데\n사람을 막 부려 먹는다니까……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev900301_JNK0020",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 3,
+      "label": "tev900301_SEL0030",
+      "style": 3,
+      "name": "알을 멤버에 넣는다"
+    },
+    {
+      "$id": 4,
+      "label": "tev900301_MSG0040",
+      "style": 1,
+      "name": "오케이, 일할 시간이군\n또 한바탕 열심히 해 볼까[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev900301_JNK0050",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev900301_SEL0060",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev900301_MSG0070",
+      "style": 1,
+      "name": "그거 잘됐네\n그럼 난 느긋하게 낮잠이라도 자고 있을게[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev900301_MSG0080",
+      "style": 1,
+      "name": "……왜 그래? 아무리 너라도\n긴장돼서 쉴 상황이 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev900301_MSG0090",
+      "style": 1,
+      "name": "뭐, 나도 비슷한 상태이기도 하고\n이야기 상대가 필요하면 함께해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev900301_JNK0100",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 11,
+      "label": "tev900301_SEL0110",
+      "style": 3,
+      "name": "알을 멤버에 넣는다"
+    },
+    {
+      "$id": 12,
+      "label": "tev900301_MSG0120",
+      "style": 1,
+      "name": "좋아! 그럼 가 볼까[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev900301_JNK0130",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 14,
+      "label": "tev900301_SEL0140",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 15,
+      "label": "tev900301_MSG0150",
+      "style": 1,
+      "name": "이게 마지막 싸움이 될지도 모르니까\n쉴 수 있을 때 쉬어 두라고[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev900301_MSG0160",
+      "style": 1,
+      "name": "지구, 그리고 NLA……\n보이드는 우리의 고향을\n두 번이나 빼앗았어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev900301_MSG0170",
+      "style": 1,
+      "name": "하지만 그것도 끝이야\n이 싸움으로 녀석과의 질긴 인연을 끊을 거다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev900301_MSG0180",
+      "style": 1,
+      "name": "쟁취해 주겠어\n우리의 미래라는 것을 말이지[ST:wait ]"
+    }
+  ]
+}

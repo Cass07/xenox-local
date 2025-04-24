@@ -1,0 +1,318 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31120100_MSG0010",
+      "style": 0,
+      "name": "고생했군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31120100_MSG0020",
+      "style": 0,
+      "name": "아레스는 분석을 위해 격리 격납고로 옮겨 뒀네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31120100_MSG0030",
+      "style": 0,
+      "name": "그런데[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31120100_MSG0040",
+      "style": 0,
+      "name": "고스트가 위터를 쫓아갔다는 건[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs31120100_MSG0050",
+      "style": 0,
+      "name": "우리보다 그로우스가 위험하다는 걸\n알았다는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs31120100_MSG0060",
+      "style": 0,
+      "name": "고스트에게 그런 의지는 없어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs31120100_MSG0070",
+      "style": 0,
+      "name": "상극에 있는 물질끼리 서로 끌리듯\n그저 눈앞에 있는 대상에 몰려갈 뿐[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs31120100_MSG0080",
+      "style": 0,
+      "name": "그들의 행동은 자연 현상에 가까워[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs31120100_MSG0090",
+      "style": 0,
+      "name": "내 행성의 연구원이 낸 최종적인 답은[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs31120100_MSG0100",
+      "style": 0,
+      "name": "고스트는 세계를 바로잡는\n시스템 같은 것[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs31120100_MSG0110",
+      "style": 0,
+      "name": "그게 결론이었어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs31120100_MSG0120",
+      "style": 0,
+      "name": "시스템?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs31120100_MSG0130",
+      "style": 0,
+      "name": "지구에도 있었던[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs31120100_MSG0140",
+      "style": 0,
+      "name": "동물적인 본능이 사실은 환경 보전에\n도움이 되기도 하는 거랑 같은 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs31120100_MSG0150",
+      "style": 0,
+      "name": "여섯째 천사 나팔을 불매[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs31120100_MSG0160",
+      "style": 0,
+      "name": "하나님 앞 금 제단 네 뿔에서 한 음성이 나서[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs31120100_MSG0170",
+      "style": 0,
+      "name": "나팔 가진 여섯째 천사에게[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs31120100_MSG0180",
+      "style": 0,
+      "name": "『큰 강 유브라데에 결박한\n네 천사를 놓아주라』[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs31120100_MSG0190",
+      "style": 0,
+      "name": "하매[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs31120100_MSG0200",
+      "style": 0,
+      "name": "이리하여 그 년, 월, 일, 시에 이르러[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs31120100_MSG0210",
+      "style": 0,
+      "name": "사람의 3분의 1을 죽이기로 준비된\n네 천사가 놓였더라[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs31120100_MSG0220",
+      "style": 0,
+      "name": "그건……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs31120100_MSG0230",
+      "style": 0,
+      "name": "네 입에서 들으니\n정말이지 엄숙한 기분이 드는군[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs31120100_MSG0240",
+      "style": 0,
+      "name": "당신들 세계에 예로부터 전해지는 책의 한 구절[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs31120100_MSG0250",
+      "style": 0,
+      "name": "도덕과 훈계……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs31120100_MSG0260",
+      "style": 0,
+      "name": "처음 읽었을 때는\n그런 게 적힌 책이라고 느꼈지만……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs31120100_MSG0270",
+      "style": 0,
+      "name": "의외로 예언이 기록된 책이었다고?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs31120100_MSG0280",
+      "style": 0,
+      "name": "사실이라고 해도 좋아[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs31120100_MSG0290",
+      "style": 0,
+      "name": "[ST:undisp ]……?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs31120100_MSG0291",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "xs31120100_MSG0292",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "xs31120100_MSG0300",
+      "style": 0,
+      "name": "만약[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs31120100_MSG0310",
+      "style": 0,
+      "name": "옛날 사람들이 그런 \"시스템\"을\n알고 있었다고 한다면[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs31120100_MSG0320",
+      "style": 0,
+      "name": "그 녀석들이 종말의 천사라는 말인가?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs31120100_MSG0330",
+      "style": 0,
+      "name": "그럴 수가……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs31120100_MSG0340",
+      "style": 0,
+      "name": "신도 있는 건가모?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs31120100_MSG0350",
+      "style": 0,
+      "name": "일어난 현상은 맞아떨어져[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs31120100_MSG0360",
+      "style": 0,
+      "name": "신이라느니 천사라느니[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs31120100_MSG0370",
+      "style": 0,
+      "name": "예전이었으면 한 번 웃고 넘겼겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs31120100_MSG0380",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "xs31120100_MSG0390",
+      "style": 0,
+      "name": "뭐, 어쨌든[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs31120100_MSG0400",
+      "style": 0,
+      "name": "고스트가 그로우스를 쫓고 있다는 건\n좋은 소식이군[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs31120100_MSG0410",
+      "style": 0,
+      "name": "뭔가 알게 되면 다시 연락하지[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs31120100_MSG0420",
+      "style": 0,
+      "name": "일단은 쉬도록 하게[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs31120100_MSG0430",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs31120100_MSG0440",
+      "style": 0,
+      "name": "알, 자네는 의료실에서 검진이다[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs31120100_MSG0450",
+      "style": 0,
+      "name": "난 언제나 건강해[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs31120100_MSG0460",
+      "style": 0,
+      "name": "그러니까 가라는 거다[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs31120100_MSG0470",
+      "style": 0,
+      "name": "뭐라고 말 좀 해 줘[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs31120100_MSG0480",
+      "style": 0,
+      "name": "잘 다녀와[ST:wait ]"
+    }
+  ]
+}

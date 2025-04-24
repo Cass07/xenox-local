@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091203_MSG0001",
+      "style": 0,
+      "name": "また消えた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091203_MSG0002",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091203_MSG0003",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091203_MSG0004",
+      "style": 0,
+      "name": "兄さん　ボクが８歳のころ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091203_MSG0005",
+      "style": 0,
+      "name": "グランドキャニオンに\nハイキングに行ったよね？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091203_MSG0006",
+      "style": 0,
+      "name": "行ったような[ST:wide ]―　覚えがあるな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091203_MSG0007",
+      "style": 0,
+      "name": "その時に　母さん手作りのアップルパイを\n食べたんだけど　すごくおいしかったんだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091203_MSG0008",
+      "style": 0,
+      "name": "母さんのアップルパイは絶品だったからな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091203_MSG0009",
+      "style": 0,
+      "name": "だが　その話に何の意味があるんだ？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091203_MSG0010",
+      "style": 0,
+      "name": "お腹すいたなぁ[ST:wide ]―　と[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091203_MSG0011",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091203_MSG0012",
+      "style": 0,
+      "name": "よし　次に行くぞ[ST:wait ]"
+    }
+  ]
+}

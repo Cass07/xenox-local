@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12070150_MSG0001",
+      "style": 0,
+      "name": "이건…… 제 지적 호기심을\n강렬하게 자극하는군요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12070150_MSG0002",
+      "style": 0,
+      "name": "뭐야, 이 넓기만 한 공간은?\n아무것도 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12070150_MSG0003",
+      "style": 0,
+      "name": "조용한 곳이네\n마치 예배당 안에 있는 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12070150_MSG0004",
+      "style": 0,
+      "name": "엘마[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12070150_MSG0004_2",
+      "style": 0,
+      "name": "여기에는 지구에서 탈출한\n이민단의 콜드 캡슐이……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12070150_MSG0005",
+      "style": 0,
+      "name": "보관되어 있는 거 아니었어?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12070150_MSG0006",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "xs12070150_MSG0007",
+      "style": 0,
+      "name": "설마, 여기도 아니었던 건가!?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12070150_MSG0008",
+      "style": 0,
+      "name": "무슨, 말도 안 돼요![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12070150_MSG0009",
+      "style": 0,
+      "name": "그럴 리 없어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12070150_MSG0010",
+      "style": 0,
+      "name": "이곳의 겉모습은 미션 데이터에서 확인한\n센트럴 라이프 그 자체였는걸요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs12070150_MSG0011",
+      "style": 0,
+      "name": "린의 말이 맞아\n여기가 목적지야[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs12070150_MSG0012",
+      "style": 0,
+      "name": "그러면 어째서\n이민단 사람들이 없는 겁니까?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12070150_MSG0013",
+      "style": 0,
+      "name": "NLA의……\n아니, 지구종 범이민 계획의 상층부는[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12070150_MSG0014",
+      "style": 0,
+      "name": "너희 몸이 캡슐 안에 있으며\n그곳에서 B.B.로 의식이 전송되고 있다고[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12070150_MSG0015",
+      "style": 0,
+      "name": "지금까지 그렇게 설명해 왔어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs12070150_MSG0016",
+      "style": 0,
+      "name": "하지만 사실은 그게 아니야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12070150_MSG0017",
+      "style": 0,
+      "name": "네……? 무슨 뜻입니까?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs12070150_MSG0018",
+      "style": 0,
+      "name": "지구인 녀석들\n장벽 해제가 지체되지 않았다면 진작 끝장냈을 것을[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12070150_MSG0019",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "xs12070150_MSG0020",
+      "style": 0,
+      "name": "저건……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs12070150_MSG0020_2",
+      "style": 0,
+      "name": "NLA에서 강탈당한 기체잖아!![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12070150_MSG0021",
+      "style": 0,
+      "name": "그로우스 병사!?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12070150_MSG0022",
+      "style": 0,
+      "name": "뭐야, 저 뇌 덩어리 녀석은![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs12070150_MSG0023",
+      "style": 0,
+      "name": "당신이 루크자르구나\n라오가 말한 그로우스의 총수[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs12070150_MSG0024",
+      "style": 0,
+      "name": "저 녀석이?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs12070150_MSG0025",
+      "style": 0,
+      "name": "네 녀석들 같은 우주의 암세포가\n함부로 불러도 될 이름이 아니다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs12070150_MSG0026",
+      "style": 0,
+      "name": "그렇게 불러도 되는 것은 오직 그분뿐[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs12070150_MSG0027",
+      "style": 0,
+      "name": "그분?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs12070150_MSG0028",
+      "style": 0,
+      "name": "암세포를 제거하는 것\n그것이 그로우스의 숙명![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs12070150_MSG0029",
+      "style": 0,
+      "name": "뭘 두려워하는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs12070150_MSG0030",
+      "style": 0,
+      "name": "당신들은 지구를 없애고\n이 별에서도 집요하게 라이프를 파괴해 왔어[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs12070150_MSG0031",
+      "style": 0,
+      "name": "뭐가 무서워서 그런 짓을 했지?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs12070150_MSG0032",
+      "style": 0,
+      "name": "그런 미완성 기체를 가지고 오면서까지……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs12070150_MSG0033",
+      "style": 0,
+      "name": "그래…… 그 기체는 미완성이야\n중요한 무언가가 빠졌어[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs12070150_MSG0034",
+      "style": 0,
+      "name": "그 점을 눈치채다니\n느낄 수 있다는 말인가?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs12070150_MSG0035",
+      "style": 0,
+      "name": "지구인의 본성이 작동한 건가?\n네 녀석들은 지금 인형에 불과할 텐데?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs12070150_MSG0036",
+      "style": 0,
+      "name": "본성이라니?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs12070150_MSG0037",
+      "style": 0,
+      "name": "네 녀석, 평범한 인형이 아니로군?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs12070150_MSG0038",
+      "style": 0,
+      "name": "오호라, 트리온형 장벽도 네 녀석이 준비했나\n네 녀석이 이 모든 재난의 원흉인가![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs12070150_MSG0039",
+      "style": 0,
+      "name": "뭐?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs12070150_MSG0040",
+      "style": 0,
+      "name": "아무래도 내가 틀린 것 같군[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs12070150_MSG0041",
+      "style": 0,
+      "name": "역시 네 녀석들은 신화에서 구전되던\n안전장치일지도 모르겠어[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs12070150_MSG0042",
+      "style": 0,
+      "name": "하지만 우리 그로우스가 네 녀석들 인형한테\n얌전히 봉인될 거라고 생각하지 마라![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs12070150_MSG0043",
+      "style": 0,
+      "name": "그분께서 강림하시기 전까지\n이 행성의 대지를 정화하리라[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs12070150_MSG0044",
+      "style": 0,
+      "name": "멸망하거라, 지구인![ST:wait ]"
+    }
+  ]
+}

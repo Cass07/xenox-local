@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev015001_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev015001_SEL0011",
+      "style": 3,
+      "name": "유용한 정보를 알아낸다"
+    },
+    {
+      "$id": 3,
+      "label": "tev015001_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev015001_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev015001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev015001_SEL0031",
+      "style": 3,
+      "name": "습격 당시의 상황을 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev015001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev015001_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev015001_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 10,
+      "label": "tev015001_MSG0001",
+      "style": 1,
+      "name": "비아노 호수, 폭포 안쪽……\n수원 동굴에서……\n사네라크 진주를 얻을 수 있다……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev015001_MSG0002",
+      "style": 1,
+      "name": "내가 아는 건…… 그것뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev015001_MSG0008",
+      "style": 1,
+      "name": "신고…… 라오 씨와 자이덴에게\n걱정 끼치고 있다……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev015001_MSG0009",
+      "style": 1,
+      "name": "하지만……\n나쁜 짓 하는 눈빛은 아니야……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev015001_MSG0010",
+      "style": 1,
+      "name": "나는…… 조용히 지켜볼 거지만……\n신경 쓰인다면 상업 에어리어에\n가 보는 게 어떨까……?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev015001_MSG0015",
+      "style": 1,
+      "name": "라오 씨가 앞장서서 발견한 그 돌은\n우리가 지켰어야 했어……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev015001_MSG0016",
+      "style": 1,
+      "name": "다른 팀을 믿고, 가장 중요한 일을\n우선했다고 볼 수도 있지만……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev015001_MSG0017",
+      "style": 1,
+      "name": "담당 구역에서 벗어나다니\n라오 씨답지 않은 행동이었어……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev015001_MSG0018",
+      "style": 1,
+      "name": "아니…… 지나친 생각인가\n도시를 지키는 게 가장 중요하니까\n라오 씨는…… 옳은 행동을 한 거야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev015001_MSG1011",
+      "style": 1,
+      "name": "내 말이 맞았지……?\n신고…… 걱정할 필요 없었어\n오히려, 전보다 더 듬직해졌다……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev015001_MSG1012",
+      "style": 1,
+      "name": "가족, 이라……\n라오 씨는, 어떻게 생각할까……?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev015001_MSG1013",
+      "style": 1,
+      "name": "신고의 일을 계기로\n앞을 바라본다면, 좋겠는데……[ST:wait ]"
+    }
+  ]
+}

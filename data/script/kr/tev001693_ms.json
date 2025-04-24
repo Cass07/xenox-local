@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001693_MSG0001",
+      "style": 1,
+      "name": "안녕, [ST:playername ]\n지금 멍멍이를 보고 있었어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001693_MSG0002",
+      "style": 1,
+      "name": "마치 진짜 같지?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001693_MSG0003",
+      "style": 1,
+      "name": "복슬복슬하고 따뜻하고\n쓰다듬으면 기분 좋아 보이고\n꼬리를 밟으면 짖고 달려들어 물고[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001693_MSG0004",
+      "style": 1,
+      "name": "특히 AI가 뛰어나지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001693_MSG0005",
+      "style": 1,
+      "name": "이것도 지구인이 자랑하는\n최신 기술로 만들어진 거지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001693_MSG0006",
+      "style": 1,
+      "name": "이걸 돌에 응용하면 어떻게 될까……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001693_JNK0010",
+      "style": 4,
+      "name": "제지한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001693_SEL0011",
+      "style": 3,
+      "name": "망상을 스톱시킨다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001693_JNK0020",
+      "style": 4,
+      "name": "제안한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001693_SEL0021",
+      "style": 3,
+      "name": "암즈 컴퍼니에\n협력을 요청하자고 제안한다"
+    },
+    {
+      "$id": 11,
+      "label": "tev001693_MSG0007",
+      "style": 1,
+      "name": "앗, 미안, 미안[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001693_MSG0008",
+      "style": 1,
+      "name": "티카에게도 그런 말을 들어\n돌에 관한 이야기는 하루에 5번까지라고[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001693_MSG0009",
+      "style": 1,
+      "name": "스스로도 놀랍단 말이야\n이 정도까지 돌에 푹 빠지다니[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001693_MSG0010",
+      "style": 1,
+      "name": "지구에 있었을 때는 행동 과학을 전공하던\n지극히 평범한 사관후보생이었는데[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001693_MSG0011",
+      "style": 1,
+      "name": "오옷, 내 아이디어를 지지해 주는 거야!?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001693_MSG0012",
+      "style": 1,
+      "name": "그렇지만……\n티카에게 말해 봤자 기각되겠지~[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001693_MSG0013",
+      "style": 1,
+      "name": "이전에도 도시에 다니는 차는 그만 생산하고\n전부 돌로 돌리자고 제안했다가\n따귀를 맞았으니까……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001693_MSG0014",
+      "style": 1,
+      "name": "또 바보 같은 제안을 했다간\n왕복 따귀를 맞을 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001693_MSG0015",
+      "style": 1,
+      "name": "지구에 있었을 때는 행동 과학을 전공하던\n지극히 평범한 사관후보생이었는데\n설마 이런 돌 바보가 될 줄이야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001693_JNK0030",
+      "style": 4,
+      "name": "놀란다"
+    },
+    {
+      "$id": 21,
+      "label": "tev001693_SEL0031",
+      "style": 3,
+      "name": "아크세나의 과거에\n충격을 받는다"
+    },
+    {
+      "$id": 22,
+      "label": "tev001693_JNK0040",
+      "style": 4,
+      "name": "칭찬한다"
+    },
+    {
+      "$id": 23,
+      "label": "tev001693_SEL0041",
+      "style": 3,
+      "name": "아크세나의 발전을 칭찬한다"
+    },
+    {
+      "$id": 24,
+      "label": "tev001693_MSG0016",
+      "style": 1,
+      "name": "어라? 몰랐어?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001693_MSG0017",
+      "style": 1,
+      "name": "어머니가 시키는 대로 진학했다가\n사관 학교에 들어가게 돼서……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001693_MSG0018",
+      "style": 1,
+      "name": "딱히 열의는 없었지만\n순종적인 성격이었으니까\n그런대로 인정받다 보니……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001693_MSG0019",
+      "style": 1,
+      "name": "갈팡질팡하는 사이에\n흰고래 구석에 얻어 타게 됐고……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001693_MSG0020",
+      "style": 1,
+      "name": "미라에 올 때까지는\n돌을 타 본 적도 없었고……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001693_MSG0021",
+      "style": 1,
+      "name": "……잠깐 스톱!\n과거 이야기는 나중에 차분히 하자[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001693_MSG0022",
+      "style": 1,
+      "name": "내 이야기도 자세히 해 주고 싶고\n네 이야기도 듣고 싶으니까[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001693_MSG0023",
+      "style": 1,
+      "name": "그러니까 지금은 여기까지!\n그럼 나중에 또 봐![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001693_MSG0024",
+      "style": 1,
+      "name": "그렇다니깐\n지구에 있었을 때도 돌은 있었지만\n물론 타 본 적은 없었고……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001693_MSG0025",
+      "style": 1,
+      "name": "전투 훈련을\n열심히 받았던 것도 아니었어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001693_MSG0026",
+      "style": 1,
+      "name": "그렇지만, 미라에 온 후로\n꽤 열심히 하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001693_MSG0027",
+      "style": 1,
+      "name": "돌을 타고 싶다는 일념으로 말이야[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001693_MSG0028",
+      "style": 1,
+      "name": "……또 이야기하기 시작하면 길어지니까\n다음에 하자[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001693_MSG0029",
+      "style": 1,
+      "name": "내 이야기도 들어 줬으면 하고\n너의 지구 시절 이야기도 듣고 싶으니까[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001693_MSG0030",
+      "style": 1,
+      "name": "그러니까 지금은 여기까지!\n그럼 나중에 또 봐![ST:wait ]"
+    }
+  ]
+}

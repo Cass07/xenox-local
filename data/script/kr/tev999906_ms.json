@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999906_JNK0020",
+      "style": 4,
+      "name": "유니언 서포트[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev999906_SEL0021",
+      "style": 3,
+      "name": "유니언의 지원을 받는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev999906_JNK0030",
+      "style": 4,
+      "name": "배틀 멤버에 넣는다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999906_SEL0031",
+      "style": 3,
+      "name": "활동 중인 블레이드 대원[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999906_MSG0001",
+      "style": 1,
+      "name": "오, 고생이 많아[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999906_MSG0101",
+      "style": 1,
+      "name": "어이, 열심히 하고 있어?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999906_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999906_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999906_MSG2001",
+      "style": 1,
+      "name": "알겠어\n전투 지원이라면 내 유니언에 맡겨[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999906_MSG2101",
+      "style": 1,
+      "name": "알고 있어\n유니언의 지원 말이지?\n이미 요청해 뒀어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999906_MSG3001",
+      "style": 1,
+      "name": "나라도 괜찮으면 도와줄게[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999906_MSG3101",
+      "style": 1,
+      "name": "자, 갈까……\n어디든지 함께할게![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999906_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999906_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999906_MSG5001",
+      "style": 1,
+      "name": "미안해, 지금은 다른 임무가 있거든……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999906_MSG5101",
+      "style": 1,
+      "name": "미안해, 지금은 여유가 없어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev999906_MSG5102",
+      "style": 1,
+      "name": "나중에 다시 말 걸어 줘[ST:wait ]"
+    }
+  ]
+}

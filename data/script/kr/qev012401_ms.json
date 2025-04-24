@@ -1,0 +1,438 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012401_MSG0001",
+      "style": 1,
+      "name": "드디어 와 준 건가!\n[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012401_MSG0002",
+      "style": 1,
+      "name": "날카로운 얼굴에\n몸놀림도 매우 뛰어난 블레이드군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012401_MSG0003",
+      "style": 1,
+      "name": "난 운이 좋아\n궁지에 몰렸지만 자네 같은 인재와\n만나게 됐으니까 말일세[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev012401_JNK0010",
+      "style": 4,
+      "name": "곤혹"
+    },
+    {
+      "$id": 5,
+      "label": "qev012401_SEL0011",
+      "style": 3,
+      "name": "발언을 이해할 수 없으니\n자세한 사정을 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "qev012401_JNK0020",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 7,
+      "label": "qev012401_SEL0021",
+      "style": 3,
+      "name": "퀘스트 보드에\n의뢰를 올렸는지 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "qev012401_MSG0004",
+      "style": 1,
+      "name": "이런!\n퀘스트 보드를 보고\n와 준 게 아닌가……?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev012401_MSG0005",
+      "style": 1,
+      "name": "아니, 아니\n이런 좋은 기회를 놓칠 수는 없지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev012401_MSG0006",
+      "style": 1,
+      "name": "아무튼 사정을 들어 줬으면 하네[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev012401_MSG0007",
+      "style": 1,
+      "name": "맞네 ……게재될 때까지 시간이 좀 걸리는 데다가\n적임자를 쉽게 찾을 수 없다고 했는데\n매우 빠르게 도착했군[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev012401_MSG0008",
+      "style": 1,
+      "name": "……사소한 건 아무래도 좋으려나\n아무튼 지금은 사정을 들어 줬으면 하네[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev012401_MSG0009",
+      "style": 1,
+      "name": "나는 로스콜\n컬렉피디언의 일원일세[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev012401_MSG0010",
+      "style": 1,
+      "name": "평소에는 그라나다에서 의뢰를 받아\n미라늄 등의 자원을\nNLA로 운송하고 있지[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev012401_MSG0011",
+      "style": 1,
+      "name": "하지만 얼마 전, 야광의 숲 양지의 샘 부근에서\n수송 헬기의 신호가 사라져 버렸네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev012401_MSG0012",
+      "style": 1,
+      "name": "승무원 두 명 모두 연락이 되지 않아서 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev012401_MSG0013",
+      "style": 1,
+      "name": "그래서 한시라도 빨리\n구조하러 가야 하는데……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev012401_JNK0030",
+      "style": 4,
+      "name": "비관"
+    },
+    {
+      "$id": 19,
+      "label": "qev012401_SEL0031",
+      "style": 3,
+      "name": "두 사람 다 원시 생물에게\n당했을 게 분명하다고 한탄한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev012401_JNK0040",
+      "style": 4,
+      "name": "주장"
+    },
+    {
+      "$id": 21,
+      "label": "qev012401_SEL0041",
+      "style": 3,
+      "name": "로스콜이 구하러 가야 한다고 주장한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev012401_JNK0050",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 23,
+      "label": "qev012401_SEL0051",
+      "style": 3,
+      "name": "짐작 가는 원인이 없는지 질문한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev012401_MSG0014",
+      "style": 1,
+      "name": "이봐, 그런 재수 없는 말을……\n십중팔구 그렇겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev012401_MSG0015",
+      "style": 1,
+      "name": "아니, 내가 포기해선 안 되지[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev012401_MSG0016",
+      "style": 1,
+      "name": "난 그 정도로 강하지 않다네[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev012401_MSG0017",
+      "style": 1,
+      "name": "야광의 숲으로 수색하러 가도\n원시 생물에게 잡아먹힐 게 뻔하지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev012401_MSG0018",
+      "style": 1,
+      "name": "게다가 헬기는 고장 났을지도 모르네[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev012401_MSG0019",
+      "style": 1,
+      "name": "즉, 수리할 수 있는 능력을 갖추고 있고\n힘도 강하며 싼 보수로 맡아 줄\n블레이드가 적임자인 걸세[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev012401_MSG0020",
+      "style": 1,
+      "name": "원인인가……\n이 행성은 기상천외한 일들만 일어나서\n원인 같은 건 예상할 수가 없네[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev012401_MSG0021",
+      "style": 1,
+      "name": "다만 하워드와 시스카의 사이는\n상당히 나빠서 말이야……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev012401_MSG0022",
+      "style": 1,
+      "name": "총기를 사용한 큰 싸움으로\n발전했을지도 모르지, 하하[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev012401_MSG0023",
+      "style": 1,
+      "name": "……웃지 못할 농담은 제쳐 두고[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev012401_MSG0024",
+      "style": 1,
+      "name": "부탁하네……\n야광의 숲에서 행방불명된\n하워드와 시스카를 구조해 주게[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev012401_MSG0025",
+      "style": 1,
+      "name": "고맙네……\n기대하고 있겠네[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev012401_MSG0026",
+      "style": 1,
+      "name": "두 사람을 무사히 NLA로 데려와 주게[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev012401_MSG0027",
+      "style": 1,
+      "name": "수송 헬기의 통신이 두절된 포인트는\n야광의 숲에 있는 양지의 샘 부근이네\n조심해서 가게[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev012401_MSG0028",
+      "style": 1,
+      "name": "만약 헬기가 고장 나 있으면\n수리도 도와줬으면 하네[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev012401_MSG0029",
+      "style": 1,
+      "name": "만약 두 사람이 사랑의 도피를 한 거라면\n두들겨 패서 데려와 주게[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev012401_MSG0030",
+      "style": 1,
+      "name": "만약 흉포한 원시 생물이 원인이었다면\n도망쳐 돌아와도 상관없네[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev012401_MSG0031",
+      "style": 1,
+      "name": "다행이군……\n두 사람은 무사했던 건가[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev012401_MSG0032",
+      "style": 1,
+      "name": "하지만 자네의 임무는 두 사람을 데려오는 거라네[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev012401_MSG0033",
+      "style": 1,
+      "name": "헬기 수리도 좀 도와주게나\n부탁하네[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev012401_MSG0034",
+      "style": 1,
+      "name": "기다리고 있었네![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev012401_MSG0035",
+      "style": 1,
+      "name": "하워드도 시스카도\n이렇게 무사히 돌아와 줬다네[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev012401_MSG0036",
+      "style": 1,
+      "name": "게다가 짐도 무사해서\n그라나다의 의뢰도 훌륭히 달성할 수 있었네[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev012401_MSG0037",
+      "style": 1,
+      "name": "자네에게는 뭐라 감사의 말을 해야 할지……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev012401_MSG0038",
+      "style": 1,
+      "name": "아니지, 자네에겐 감사의 말보다도\n보수를 줘야겠지[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev012401_MSG0039",
+      "style": 1,
+      "name": "하워드와 시스카는\n여전히 견원지간인 모양이니\n또 트러블이 생길지도 모른다네[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev012401_MSG0040",
+      "style": 1,
+      "name": "그때는 또 잘 부탁하겠네[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev012401_MSG0041",
+      "style": 1,
+      "name": "자네인가…… 고맙네\n시스카는 무사히 돌아왔다네[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev012402_JNK0060",
+      "style": 4,
+      "name": "재촉"
+    },
+    {
+      "$id": 53,
+      "label": "qev012402_SEL0061",
+      "style": 3,
+      "name": "빨리 보수를 달라고 재촉한다"
+    },
+    {
+      "$id": 54,
+      "label": "qev012402_JNK0070",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 55,
+      "label": "qev012402_SEL0071",
+      "style": 3,
+      "name": "하워드는 어떻게 됐는지 묻는다"
+    },
+    {
+      "$id": 56,
+      "label": "qev012401_MSG0042",
+      "style": 1,
+      "name": "자네는 프로페셔널하군\n그저 충실히 임무를 수행하는 블레이드인가……[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev012401_MSG0043",
+      "style": 1,
+      "name": "자네 책임이라고 할 수는 없지만……\n하워드가 죽었네……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev012401_MSG0044",
+      "style": 1,
+      "name": "하워드는 죽었네……[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev012401_MSG0045",
+      "style": 1,
+      "name": "시스카가 조종하는 헬기는\nNLA 웨스트 게이트 부근까지는\n순조롭게 비행을 계속했지만……[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev012401_MSG0046",
+      "style": 1,
+      "name": "수리가 임시방편이었던 탓인지\n갑자기 조종 불능 상태가 돼서 추락했네[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev012401_MSG0047",
+      "style": 1,
+      "name": "시스카는 어떻게든 탈출했지만\n하워드는 늦어 버린 게지……[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev012401_MSG0048",
+      "style": 1,
+      "name": "모든 게 끝일세\n헬기도 짐도 소중한 멤버도 잃었어[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev012401_MSG0049",
+      "style": 1,
+      "name": "시스카는 우울함에 빠져 있고\n더는 팀으로서 활동할 수 없겠지[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev012401_MSG0050",
+      "style": 1,
+      "name": "……앞으로 어떻게 될지는 모른다네[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev012401_MSG0051",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev012401_MSG0052",
+      "style": 1,
+      "name": "이런, 어쨌든 보수는 줘야지[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev012401_MSG0053",
+      "style": 1,
+      "name": "보수는 처음 약속했던 것보다 더 준비했네[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev012401_MSG0054",
+      "style": 1,
+      "name": "그리고 기분이 내킬 때라도 좋으니\n시스카에게 말을 걸어 줬으면 하네[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev012401_MSG0055",
+      "style": 1,
+      "name": "시스카는 나 혼자서는\n어떻게 할 수 없을지도 모르니 말일세[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev012401_MSG0056",
+      "style": 1,
+      "name": "잘 부탁하네[ST:wait ]"
+    }
+  ]
+}

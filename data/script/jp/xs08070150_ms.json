@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08070150_MSG0001",
+      "style": 0,
+      "name": "ミサイルだ　落とせ[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs08070150_MSG0002",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "xs08070150_MSG0003",
+      "style": 0,
+      "name": "マーカス[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs08070150_MSG0004",
+      "style": 0,
+      "name": "ダメです\n直撃を受け　ロストしました[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08070150_MSG0005",
+      "style": 0,
+      "name": "ライフポイントを見つけたら[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08070150_MSG0006",
+      "style": 0,
+      "name": "真っ先に蘇らせてやるからな[ST:wait ]"
+    }
+  ]
+}

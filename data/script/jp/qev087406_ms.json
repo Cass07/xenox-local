@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087406_MSG0001",
+      "style": 0,
+      "name": "ああ～～　ヴァンダム司令居眠りしてる[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087406_MSG0002",
+      "style": 0,
+      "name": "お仕事中ですも！\nマジメなタツとしては許せないですも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087406_MSG0003",
+      "style": 0,
+      "name": "寝かせといてあげなさい\nこの人が寝ていられるというのは　良いことよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087406_MSG0004",
+      "style": 0,
+      "name": "そうですね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087406_MSG0005",
+      "style": 0,
+      "name": "それだけＮＬＡが\n平和だということですもんね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087406_MSG0006",
+      "style": 0,
+      "name": "なんでですも\nタツにはよくわからないですも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087406_MSG0007",
+      "style": 0,
+      "name": "寝る前に手配してくれていたみたいね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087406_MSG0008",
+      "style": 0,
+      "name": "ほんとだ[ST:wide ]―　やっぱり細やかな気配りも\nしてくれる人なんですね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087406_MSG0009",
+      "style": 0,
+      "name": "なんでですも～～\nタツにはわからないですも～～！[ST:wait ]"
+    }
+  ]
+}

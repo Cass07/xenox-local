@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087702_MSG0001",
+      "style": 0,
+      "name": "엘마 씨, 저기![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087702_MSG0002",
+      "style": 0,
+      "name": "가 델그와 가 보우야\n돌과 싸우고 있어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087702_MSG0003",
+      "style": 0,
+      "name": "저 녀석들 위험하다모!\n도와줘야 한다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087702_MSG0004",
+      "style": 0,
+      "name": "그래, 가자[ST:wait ]"
+    }
+  ]
+}

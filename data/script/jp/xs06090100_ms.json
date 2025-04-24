@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06090100_MSG0001",
+      "style": 0,
+      "name": "さて　後は帰るだけだな[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs06090100_MSG0002",
+      "style": 0,
+      "name": "またあの生物達の間を抜けていくのかと思うと\nぞっとしますけどね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs06090100_MSG0003",
+      "style": 0,
+      "name": "その前にお弁当にしますですも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06090100_MSG0004",
+      "style": 0,
+      "name": "タツ　みなさんのために作ってきましたも！[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs06090100_MSG0005",
+      "style": 0,
+      "name": "タツ[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs06090100_MSG0006",
+      "style": 0,
+      "name": "何でここに！？[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs06090100_MSG0007",
+      "style": 0,
+      "name": "みなさん　おなか空いてると思って\nいまのグルグル機械に乗ってきちゃいましたも[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs06090100_MSG0008",
+      "style": 0,
+      "name": "タツ　気が利くですも？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06090100_MSG0009",
+      "style": 0,
+      "name": "な　何言ってるの！\nここは生身で来ちゃいけないって！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs06090100_MSG0010",
+      "style": 0,
+      "name": "大丈夫ですも　ちょこっとお弁当食べて\n帰るだけならきっと襲われませんも[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs06090100_MSG0011",
+      "style": 0,
+      "name": "何よ　その根拠のない自信は！\nそれにどうやって帰るのよ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs06090100_MSG0012",
+      "style": 0,
+      "name": "ヘリは戻ってっちゃったのよ！\n歩いて帰るしかないのよ！[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs06090100_MSG0013",
+      "style": 0,
+      "name": "森の中をずっと！\n歩いて！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs06090100_MSG0014",
+      "style": 0,
+      "name": "へ？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs06090100_MSG0015",
+      "style": 0,
+      "name": "は　早くヘリに引き返してきて\nもらわなくっちゃ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs06090100_MSG0016",
+      "style": 0,
+      "name": "もう遅かったようね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs06090100_MSG0017",
+      "style": 0,
+      "name": "こいつを食うために集まってきやがったか[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs06090100_MSG0018",
+      "style": 0,
+      "name": "タツ　そこから動いちゃダメよ！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs06090100_MSG0019",
+      "style": 0,
+      "name": "は　はいですも！[ST:wait ]"
+    }
+  ]
+}

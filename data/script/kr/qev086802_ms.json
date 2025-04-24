@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086802_MSG0001",
+      "style": 0,
+      "name": "오, 엘마, 그 세리카라는 여자애\n자네가 구한 외계인이었지?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086802_MSG0002",
+      "style": 0,
+      "name": "그래, 맞아[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086802_MSG0003",
+      "style": 0,
+      "name": "무슨 일 있나요!?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086802_MSG0004",
+      "style": 0,
+      "name": "아, 그게 말이지……\n뭔가 결심한 얼굴로[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086802_MSG0005",
+      "style": 0,
+      "name": "블레이드에 들어가려면 어떻게 해야 하냐고\n물어보는 게 아닌가[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086802_MSG0006",
+      "style": 0,
+      "name": "뭐라고 대답했어?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086802_MSG0007",
+      "style": 0,
+      "name": "적당한 임무를 혼자서 해내면\n적성 시험 합격이다……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086802_MSG0008",
+      "style": 0,
+      "name": "라고 말했더니 진지한 얼굴로\n어디론가 가 버려서 말일세[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086802_MSG0009",
+      "style": 0,
+      "name": "그거 큰일이잖아요!\n당장 찾아야 해요![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086802_MSG0010",
+      "style": 0,
+      "name": "그렇게 해 주게[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086802_MSG0011",
+      "style": 0,
+      "name": "자칫하면 무모한 일을 할 수도 있어\n그런 얼굴이었네, 그건[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086802_MSG0012",
+      "style": 0,
+      "name": "당연하죠!\n진지한 사람을 놀리면 안 돼요![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086802_MSG0013",
+      "style": 0,
+      "name": "안 된다모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086802_MSG0014",
+      "style": 0,
+      "name": "으음, 면목 없네[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086802_MSG0015",
+      "style": 0,
+      "name": "아무튼 찾아 보자\n분명 아직 NLA 안에 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086802_MSG0016",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "qev086802_MSG0017",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "qev086802_MSG0018",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "qev086802_MSG0019",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "qev086802_MSG0020",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

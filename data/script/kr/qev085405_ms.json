@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085405_MSG0001",
+      "style": 0,
+      "name": "있잖아, 저런 걸로 괜찮은 거야?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085405_MSG0002",
+      "style": 0,
+      "name": "네, 안으로 들어가면\n단말기로 케이지 뚜껑을 닫을 수 있으니까요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085405_MSG0003",
+      "style": 0,
+      "name": "하지만 아이샤가 들어갈 때까지\n기다릴 수밖에 없는 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085405_MSG0004",
+      "style": 0,
+      "name": "맞아요\n죄송합니다……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085405_MSG0005",
+      "style": 0,
+      "name": "신경 쓰지 않아도 돼\n기다리는 것도 임무야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085405_MSG0006",
+      "style": 0,
+      "name": "그나저나 안 오네\n아이샤 녀석, 배도 안 고픈가?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085405_MSG0007",
+      "style": 0,
+      "name": "그윈 선배[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085405_MSG0008",
+      "style": 0,
+      "name": "응?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085405_MSG0009",
+      "style": 0,
+      "name": "선배, 혹시 동물 키웠었나요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085405_MSG0010",
+      "style": 0,
+      "name": "응, 강아지를 키웠었지\n지구에 있었을 때……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085405_MSG0011",
+      "style": 0,
+      "name": "역시, 좋아하는 음식이라고 말하던 얼굴을 보고\n그렇게 생각했어요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085405_MSG0012",
+      "style": 0,
+      "name": "우리 집 바보 강아지가\n먹는 걸 엄청나게 좋아해서 말이야[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085405_MSG0013",
+      "style": 0,
+      "name": "쉿……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085405_MSG0014",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "qev085405_MSG0015",
+      "style": 0,
+      "name": "쳇, 아이샤가 아니라 다른 게 낚여 버렸잖아![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085405_MSG0018",
+      "style": 0,
+      "name": "아앗![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085405_MSG0019",
+      "style": 0,
+      "name": "아이샤![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085405_MSG0020",
+      "style": 0,
+      "name": "자기 먹이를 도둑맞았다고 생각한 건가!?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085405_MSG0021",
+      "style": 0,
+      "name": "이봐, 미토스![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085405_MSG0022",
+      "style": 0,
+      "name": "아이샤, 너무 무모해![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085405_MSG0023",
+      "style": 0,
+      "name": "무모한 건 너겠지![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085405_MSG0024",
+      "style": 0,
+      "name": "그윈 선배![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085405_MSG0025",
+      "style": 0,
+      "name": "이 녀석은 우리가 맡을게\n아이샤를 데리고 NLA로 돌아가![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085405_MSG0026",
+      "style": 0,
+      "name": "아, 네![ST:wait ]"
+    }
+  ]
+}

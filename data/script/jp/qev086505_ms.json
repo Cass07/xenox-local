@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086505_MSG0001",
+      "style": 0,
+      "name": "おうおうおう　見ないツラのノポンだが\nどこの小僧だも？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086505_MSG0002",
+      "style": 0,
+      "name": "タツですも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086505_MSG0003",
+      "style": 0,
+      "name": "タツは地球人のオトモダチで\nシンゼンタイシとしてやってきたですも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086505_MSG0004",
+      "style": 0,
+      "name": "シンゼンタイシだぁ？\nそいつは美味いのかも？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086505_MSG0005",
+      "style": 0,
+      "name": "キョーヨーのねえこと言ってんじゃねえだも！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086505_MSG0006",
+      "style": 0,
+      "name": "あなたがこのキャラバンのリーダー？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086505_MSG0007",
+      "style": 0,
+      "name": "おうよ　ドリアン・キャラバンのイカした兄貴\nツムジ様とは俺のことだも[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086505_MSG0008",
+      "style": 0,
+      "name": "ツムジの兄貴[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086505_MSG0009",
+      "style": 0,
+      "name": "ニューロサンゼルスザンテーセイフと\nドリアン・キャラバンで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086505_MSG0010",
+      "style": 0,
+      "name": "ユーコージョーヤクを\nテーケツしてほしいですも！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086505_MSG0011",
+      "style": 0,
+      "name": "ユ　ユーコージョーヤクテーケツだも？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086505_MSG0012",
+      "style": 0,
+      "name": "要するに　地球人の街ＮＬＡと\n仲良くしてほしいということですも[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086505_MSG0013",
+      "style": 0,
+      "name": "そ　そのくらいわかってるも\n俺はキョーヨーあるノポンなんだも[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086505_MSG0014",
+      "style": 0,
+      "name": "あのー　それじゃあ\n友好条約　結んでもらえますか？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086505_MSG0015",
+      "style": 0,
+      "name": "そいつぁ　お前達の心がけ次第だも[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086505_MSG0016",
+      "style": 0,
+      "name": "心がけですも？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086505_MSG0017",
+      "style": 0,
+      "name": "おうよ！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086505_MSG0018",
+      "style": 0,
+      "name": "要するに　俺達ドリアン・キャラバンと\n義兄弟になりてえっつーんだも？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086505_MSG0019",
+      "style": 0,
+      "name": "だったら　まず契約金を持ってくるんだも[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086505_MSG0020",
+      "style": 0,
+      "name": "契約金！？\nおいくら必要なんですも？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086505_MSG0021",
+      "style": 0,
+      "name": "そうだなぁ[ST:wide ]―　ざっとこんなもんだも[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086505_MSG0022",
+      "style": 0,
+      "name": "えええ　こんなに！？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086505_JNK0010",
+      "style": 4,
+      "name": "拒否"
+    },
+    {
+      "$id": 24,
+      "label": "qev086505_SEL0011",
+      "style": 3,
+      "name": "30000Gは高いと拒否する"
+    },
+    {
+      "$id": 25,
+      "label": "qev086505_JNK0020",
+      "style": 4,
+      "name": "感心"
+    },
+    {
+      "$id": 26,
+      "label": "qev086505_SEL0021",
+      "style": 3,
+      "name": "さすが交易種族だと納得する"
+    },
+    {
+      "$id": 27,
+      "label": "qev086505_MSG0023",
+      "style": 0,
+      "name": "そうね　もう少し受け入れやすい条件を\n提示してもらえると助かるわ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086505_MSG0024",
+      "style": 0,
+      "name": "そいつぁ　聞けない話だも\n俺達　商人の誇りにかけて譲れないんだも[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086505_MSG0025",
+      "style": 0,
+      "name": "全ての行為は[ST:wide ]―\n商業的価値に換算されるというわけね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086505_MSG0026",
+      "style": 0,
+      "name": "ある意味　公平かつ公正な姿勢だわ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086505_MSG0027",
+      "style": 0,
+      "name": "そいつがわかってるなら　話は早いだも[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086505_MSG0028",
+      "style": 0,
+      "name": "俺達と仲良くしようと思ったら\nそれでも安いくらいだも[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086505_MSG0029",
+      "style": 0,
+      "name": "むむむ～　任務達成のためには仕方ないですも[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086505_MSG0030",
+      "style": 0,
+      "name": "ツムジの兄貴　タツ達が契約金\n用意してくるまで待つですも！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086505_MSG0031",
+      "style": 0,
+      "name": "おう　なるべく早く頼むも[ST:wait ]"
+    }
+  ]
+}

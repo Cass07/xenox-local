@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092905_MSG0010",
+      "style": 0,
+      "name": "이건…… 역시나\n어쩐지 이럴 것 같았는데[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092905_MSG0020",
+      "style": 0,
+      "name": "하지만 어째서 이런\n외우주 변두리 같은 곳에……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092905_MSG0030",
+      "style": 0,
+      "name": "아, 미안해\n너한테도 제대로 설명해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092905_MSG0040",
+      "style": 0,
+      "name": "일단, 이 거대 링 구조체의 정체는[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092905_MSG0045",
+      "style": 0,
+      "name": "행성 환경 개변 시스템……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092905_MSG0050",
+      "style": 0,
+      "name": "이른바 테라포밍 장치야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092905_MSG0060",
+      "style": 0,
+      "name": "하지만 그것보다 중요한 건……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092905_MSG0070",
+      "style": 0,
+      "name": "이 거대 링에 클루 행성계의\n기술이 사용됐다는 점이지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092905_MSG0080",
+      "style": 0,
+      "name": "클루의 기술은 우주에서 가장 오래된 문명인……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092905_MSG0085",
+      "style": 0,
+      "name": "\"고대 서멀\"의 영향을 강하게 받았거든[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092905_MSG0090",
+      "style": 0,
+      "name": "그런 이유로 고대 서멀을 기리는 신앙이 생겼고\n클루는 수천 년에 걸쳐 놀라운 번영을 이뤘지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092905_MSG0100",
+      "style": 0,
+      "name": "우리 선조는 이 훌륭한 신앙을 퍼뜨리고자\n다른 문명에도 클루의 기술과 종교를 전파했어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092905_MSG0110",
+      "style": 0,
+      "name": "이 거대한 링을 만든 외계 문명은\n그 영향을 받은 곳 중 하나였던 거야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092905_MSG0120",
+      "style": 0,
+      "name": "물론, 이 메마른 대지의 참상을 보건대[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092905_MSG0125",
+      "style": 0,
+      "name": "기술이 올바르게 쓰이지는 않은 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092905_MSG0130",
+      "style": 0,
+      "name": "생명을 존속하기 위해 전파한 기술을\n설마 병기로 바꾸어 버렸을 줄이야……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092905_JNK0140",
+      "style": 4,
+      "name": "호의"
+    },
+    {
+      "$id": 18,
+      "label": "qev092905_SEL0150",
+      "style": 3,
+      "name": "위로의 말을 건넨다"
+    },
+    {
+      "$id": 19,
+      "label": "qev092905_MSG0160",
+      "style": 0,
+      "name": "후후, 넌 상냥하네[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092905_MSG0170",
+      "style": 0,
+      "name": "클루의 기술도 너 같은\n사람에게 전파되었다면[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092905_MSG0180",
+      "style": 0,
+      "name": "이렇게 끝나지는 않았을 텐데 말이야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092905_JNK0190",
+      "style": 4,
+      "name": "냉정"
+    },
+    {
+      "$id": 23,
+      "label": "qev092905_SEL0200",
+      "style": 3,
+      "name": "현실은 비정한 법이라고 말한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev092905_MSG0210",
+      "style": 0,
+      "name": "그래, 당시의 클루는\n우주가 선의로 가득하다고 믿었어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092905_MSG0220",
+      "style": 0,
+      "name": "그게 실수였다는 걸 깨닫게 되자\n클루는 완전히 폐쇄적으로 변해 버렸지[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092905_MSG0230",
+      "style": 0,
+      "name": "그렇게 기술도 신앙도 전파하지 않는\n엄격한 관리 사회가 탄생했답니다……라는 거야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092905_MSG0240",
+      "style": 0,
+      "name": "내가 유적을 조사하는 이유는[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092905_MSG0250",
+      "style": 0,
+      "name": "선조가 전파한 기술의 흔적을 찾고\n적절한 조치를 취하기 위해서야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092905_MSG0260",
+      "style": 0,
+      "name": "아직 작동하는 유적이라면 기능을 보전하고[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092905_MSG0265",
+      "style": 0,
+      "name": "악용되고 있다면…… 곧장 파괴해야 해[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092905_MSG0270",
+      "style": 0,
+      "name": "그래도, 이 링은 완전히\n기능이 정지된 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092905_MSG0280",
+      "style": 0,
+      "name": "그 사실을 파악한 것만으로도 다행이야[ST:wait ]"
+    }
+  ]
+}

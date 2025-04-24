@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev014304_MSG0001",
+      "style": 1,
+      "name": "알렉스가 이 도시의 외계인을\n모두 죽이려 하고 있다는 이야기도\n정보상 차차에게 들었어![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev014304_MSG0002",
+      "style": 1,
+      "name": "분명 그 노폰이라면\n알렉스가 있는 장소를 알고 있을 거야![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev014304_MSG0003",
+      "style": 1,
+      "name": "부디 모비 스트리트 서쪽으로 가서\n이야기를 들어 줘![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev014304_MSG0004",
+      "style": 1,
+      "name": "한시라도 빨리 알렉스를 퇴치해 줘![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev014304_MSG0005",
+      "style": 1,
+      "name": "나도 일라이자 씨도 폭력은 좋아하지 않아\n하지만 이 이상 외계인이 죽는 건\n견딜 수 없어![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev014304_MSG0006",
+      "style": 1,
+      "name": "알렉스의 계획을 막으면\n다시 평등과 자유를 향해\n나아갈 수 있어![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev014304_MSG0007",
+      "style": 1,
+      "name": "다녀왔어?\n알렉스의 계획을 막아 낸 모양이네![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev014304_MSG0008",
+      "style": 1,
+      "name": "일라이자 씨가\n당신의 보고를 애타게 기다리고 있어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev014304_MSG0009",
+      "style": 1,
+      "name": "빨리 일의 경위를 이야기해 줘![ST:wait ]"
+    }
+  ]
+}

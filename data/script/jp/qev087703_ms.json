@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087703_MSG0001",
+      "style": 0,
+      "name": "助勢感謝する　地球人\nだが何故ここへ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087703_MSG0002",
+      "style": 0,
+      "name": "私達　ニ・ザインという人に頼まれたんです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087703_MSG0003",
+      "style": 0,
+      "name": "ケガしてたのに　自分のことより\nデルグ殿下の方をって[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087703_MSG0004",
+      "style": 0,
+      "name": "ニ・ザイン　あの男が[ST:wide ]―\nそうか　俺はよい腹心に恵まれたものだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087703_MSG0005",
+      "style": 0,
+      "name": "殿下[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087703_MSG0006",
+      "style": 0,
+      "name": "エルマ　だったな\n貴君らの厚志に甘えよう[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087703_MSG0007",
+      "style": 0,
+      "name": "グロウスが運用している我らのドールの破壊\n力を貸してもらいたい[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087703_JNK0010",
+      "style": 4,
+      "name": "承諾"
+    },
+    {
+      "$id": 9,
+      "label": "qev087703_SEL0011",
+      "style": 3,
+      "name": "破壊する手伝いを引き受ける"
+    },
+    {
+      "$id": 10,
+      "label": "qev087703_JNK0020",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 11,
+      "label": "qev087703_SEL0021",
+      "style": 3,
+      "name": "奪い返すのはどうか提案する"
+    },
+    {
+      "$id": 12,
+      "label": "qev087703_MSG0008",
+      "style": 0,
+      "name": "感謝する[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087703_MSG0009",
+      "style": 0,
+      "name": "我らの機体が奴らにいいように\n扱われているのにはもう耐えられぬのだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087703_MSG0010",
+      "style": 0,
+      "name": "グロウスの者共\nただ複製するだけではなく[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087703_MSG0011",
+      "style": 0,
+      "name": "生体認証で我らには操縦することが\nできないようロックをかけたのだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087703_MSG0012",
+      "style": 0,
+      "name": "どうせ扱えないのであれば\n奪い返しても無意味[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087703_MSG0013",
+      "style": 0,
+      "name": "であれば　これ以上悪事に利用されないよう\n破壊しておきたいのだ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087703_MSG0014",
+      "style": 0,
+      "name": "そういうことなら了解です\nとっとと壊しちゃいましょう！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087703_MSG0015",
+      "style": 0,
+      "name": "いま３機を始末した故　残るは恐らく１０機\nこの大陸のいずこかで運用されているはずだ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087703_JNK0030",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 21,
+      "label": "qev087703_SEL0031",
+      "style": 3,
+      "name": "半分ずつ分担する提案をする"
+    },
+    {
+      "$id": 22,
+      "label": "qev087703_JNK0040",
+      "style": 4,
+      "name": "好戦"
+    },
+    {
+      "$id": 23,
+      "label": "qev087703_SEL0041",
+      "style": 3,
+      "name": "先に6機壊したら勝ちと勇む"
+    },
+    {
+      "$id": 24,
+      "label": "qev087703_MSG0016",
+      "style": 0,
+      "name": "我らも独自に探し　破壊する[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087703_MSG0017",
+      "style": 0,
+      "name": "貴君らも発見しだい\n遠慮なく討ち果たしてくれ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087703_MSG0018",
+      "style": 0,
+      "name": "了解したわ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087703_MSG0019",
+      "style": 0,
+      "name": "面白いな[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087703_MSG0020",
+      "style": 0,
+      "name": "これは負けられませぬな[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev087703_MSG0021",
+      "style": 0,
+      "name": "では我らも動き出す[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev087703_MSG0022",
+      "style": 0,
+      "name": "貴君らの手を煩わせないよう\n励むとしよう[ST:wait ]"
+    }
+  ]
+}

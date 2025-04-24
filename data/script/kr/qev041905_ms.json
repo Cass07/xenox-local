@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev041905_MSG0001",
+      "style": 1,
+      "name": "니오가 장사를 한다는 건 진짜다모\n우리 가게 상품 몇 가지도\n니오에게서 구매한 물건이지모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev041905_MSG0002",
+      "style": 1,
+      "name": "하지만 나나라면 이런 땅꼬마에게\n돈을 빌려주지는 않을 거다모[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev041905_MSG0003",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "qev041905_MSG0004",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "qev041905_MSG0005",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

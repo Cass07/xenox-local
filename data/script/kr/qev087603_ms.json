@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087603_MSG0001",
+      "style": 0,
+      "name": "……내 목숨을 가져가라, 승자의 권리다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087603_MSG0002",
+      "style": 0,
+      "name": "가 델그 전하께 서신을 전하게 해 줘\n난 그 권리를 얻기 위해 싸웠어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087603_MSG0003",
+      "style": 0,
+      "name": "당신의 목숨을 빼앗기 위해서가 아니야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087603_MSG0004",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087603_MSG0005",
+      "style": 0,
+      "name": "그자들을 들여라, 보우[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087603_MSG0006",
+      "style": 0,
+      "name": "전하, 하지만……![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087603_MSG0007",
+      "style": 0,
+      "name": "지구인들은 우리의 법도에 따라\n당당히 원하는 것을 이룰 권리를 얻었다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087603_MSG0008",
+      "style": 0,
+      "name": "이 이상 그것을 거부하는 것은\n우리의 치욕이다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087603_MSG0009",
+      "style": 0,
+      "name": "네"
+    },
+    {
+      "$id": 10,
+      "label": "qev087603_MSG0010",
+      "style": 0,
+      "name": "지구인이여\n서신이라는 것을 보여 다오[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087603_MSG0011",
+      "style": 0,
+      "name": "그렇군, 그로우스와 적대하는 동지끼리\n손을 잡자는 것인가[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087603_MSG0012",
+      "style": 0,
+      "name": "저희가 싸울 이유는\n전혀 없다고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087603_MSG0013",
+      "style": 0,
+      "name": "노폰도 지구인과 사이좋게 지내고 있다모\n라스 여러분도 그러는 편이 즐거울 거다모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087603_MSG0014",
+      "style": 0,
+      "name": "어떤 종족이든\n아이라는 건 천진난만한 존재군[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087603_MSG0015",
+      "style": 0,
+      "name": "아이들이 천진난만하게 굴 수 있는 세상이야말로\n어른들이 지향해야 할 목표야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087603_MSG0016",
+      "style": 0,
+      "name": "난 그렇게 생각해[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087603_MSG0017",
+      "style": 0,
+      "name": "지당하다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087603_MSG0018",
+      "style": 0,
+      "name": "여기는 아니지만\n우리 라스의 아이들이 사는 장소가 있다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087603_MSG0019",
+      "style": 0,
+      "name": "그 아이들의 웃음이야말로 내가 원하는 것이지[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087603_MSG0020",
+      "style": 0,
+      "name": "전하[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087603_MSG0021",
+      "style": 0,
+      "name": "엘마라 하였나[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087603_MSG0022",
+      "style": 0,
+      "name": "교환 조건이라고 생각하고\n나를 경멸해도 상관없다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087603_MSG0023",
+      "style": 0,
+      "name": "지금 우리는 의약품이 없어 어려운 상황이다\n지원을 받을 수 있다면 고맙겠군[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087603_MSG0024",
+      "style": 0,
+      "name": "경멸해야 할 건 병사와 아이들의 궁핍함보다\n긍지를 우선시하는 지도자겠지[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087603_MSG0025",
+      "style": 0,
+      "name": "맞아요, 훌륭하다고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087603_MSG0026",
+      "style": 0,
+      "name": "호의를 감사히 받겠다\n자세한 사정은 이 보우에게 듣길 바란다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087603_MSG0027",
+      "style": 0,
+      "name": "이 궁핍함에서 벗어나면 우리 라스의 백성은\n그대들의 동지로서 함께 싸울 것이다[ST:wait ]"
+    }
+  ]
+}

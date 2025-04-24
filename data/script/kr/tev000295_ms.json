@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000295_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ] 씨\n역시 제게 말을 걸어 주셨군요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000295_MSG0002",
+      "style": 1,
+      "name": "이 체조는 아무래도 이목을 끄는 편이니까요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000295_JNK0010",
+      "style": 4,
+      "name": "질문한다"
+    },
+    {
+      "$id": 4,
+      "label": "tev000295_SEL0011",
+      "style": 3,
+      "name": "방금 한 체조는 대체 뭐냐고\n질문한다"
+    },
+    {
+      "$id": 5,
+      "label": "tev000295_JNK0020",
+      "style": 4,
+      "name": "가르침을 청한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000295_SEL0021",
+      "style": 3,
+      "name": "방금 한 체조를 가르쳐 달라고\n부탁한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000295_MSG0003",
+      "style": 1,
+      "name": "지극히 정상적인 질문이군요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000295_MSG0004",
+      "style": 1,
+      "name": "이것은 나기가 알려 준\n국민 체조라는 것에……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000295_MSG0005",
+      "style": 1,
+      "name": "노폰인의 스트레칭을 더하고\n거기에 바이어스인의 성인식 춤을 섞어서……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000295_MSG0006",
+      "style": 1,
+      "name": "제가 어레인지한 것입니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000295_MSG0007",
+      "style": 1,
+      "name": "저희는 같은 도시에서 살고 있지만\n다 함께 할 수 있는 체조는 존재하지 않았죠[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000295_MSG0008",
+      "style": 1,
+      "name": "그렇다면 제가 만들어 보는 것도\n나쁜 아이디어는 아니지 않겠습니까?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000295_MSG0009",
+      "style": 1,
+      "name": "오오……\n벌써 이 체조의 가능성을 깨달으셨을 줄이야……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000295_MSG0010",
+      "style": 1,
+      "name": "역시 당신은 보통내기가 아닌 것 같군요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000295_MSG0011",
+      "style": 1,
+      "name": "이것은 나기가 알려 준\n국민 체조라는 것에……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000295_MSG0012",
+      "style": 1,
+      "name": "노폰인의 스트레칭을 더하고\n거기에 바이어스인의 성인식 춤을 섞어서……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000295_MSG0013",
+      "style": 1,
+      "name": "제가 어레인지한 것입니다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000295_MSG0014",
+      "style": 1,
+      "name": "저희는 같은 도시에서 살고 있지만\n다 함께 할 수 있는 체조는 존재하지 않았죠[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000295_MSG0015",
+      "style": 1,
+      "name": "그래서 제가 두 팔 걷어붙이고 나선 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000295_MSG0016",
+      "style": 1,
+      "name": "당신도 같이 해 주시는 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000295_JNK0030",
+      "style": 4,
+      "name": "동의한다"
+    },
+    {
+      "$id": 22,
+      "label": "tev000295_SEL0031",
+      "style": 3,
+      "name": "훌륭한 체조라며\n루의 도전을 칭찬한다"
+    },
+    {
+      "$id": 23,
+      "label": "tev000295_JNK0040",
+      "style": 4,
+      "name": "부정한다"
+    },
+    {
+      "$id": 24,
+      "label": "tev000295_SEL0041",
+      "style": 3,
+      "name": "이렇게 촌스러운 체조는\n유행하지 않는다며 부정한다"
+    },
+    {
+      "$id": 25,
+      "label": "tev000295_MSG0017",
+      "style": 1,
+      "name": "격려의 말씀 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000295_MSG0018",
+      "style": 1,
+      "name": "외계인분들 모두 기이한 눈빛으로 바라볼 뿐\n함께 체조를 해 주지는 않으시거든요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000295_MSG0019",
+      "style": 1,
+      "name": "하지만 이제부터는\n당신이라는 파트너가 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000295_MSG0020",
+      "style": 1,
+      "name": "둘이 홍보 활동을 하면 두 배의 속도로\nNLA 분들께 받아들여질 거라 생각합니다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000295_MSG0021",
+      "style": 1,
+      "name": "옛말에 이르기를 낙숫물이 댓돌을 뚫는다고 했으니\n꾸준히 노력하도록 합시다[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000295_MSG0022",
+      "style": 1,
+      "name": "뭐라고요~!?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000295_MSG0023",
+      "style": 1,
+      "name": "나기에게 보여 줬을 때와\n완전히 똑같은 반응을 하실 줄은\n상상도 못 했습니다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000295_MSG0024",
+      "style": 1,
+      "name": "유감이네요……\n당신도 이 체조를 기이하고 웃기게 여길 뿐\n직접 해 볼 생각은 없는 모양입니다……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000295_MSG0025",
+      "style": 1,
+      "name": "하지만 두고 보십시오\n지금은 옛말에 이르기를 와신상담의 때……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000295_MSG0026",
+      "style": 1,
+      "name": "1년 후에는 외계인을 포함해 NLA 주민 대부분이\n매일 아침 이 체조를 할 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000295_MSG0027",
+      "style": 1,
+      "name": "기대되는군요~[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev078202_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ], 들어 주세요!\n전 새로운 자르보가를\n토해 내는 데 성공했습니다![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev078202_MSG0002",
+      "style": 1,
+      "name": "이것도 다 당신이 야광의 숲에서\n제 목숨을 구해 줬기 때문이에요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev078202_JNK0010",
+      "style": 4,
+      "name": "축복[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev078202_SEL0011",
+      "style": 3,
+      "name": "아라세니칸을 축복한다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev078202_JNK0020",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev078202_SEL0021",
+      "style": 3,
+      "name": "아이를 토해 냈다는 게\n무슨 뜻인지 질문한다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev078202_MSG0005",
+      "style": 1,
+      "name": "감사합니다!\n역시 당신은 정말 좋은 사람이군요![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev078202_MSG0006",
+      "style": 1,
+      "name": "……맞다, 오레론과 이야기해 봐 주세요\n오레론은 당신 같은 사람과 교류하면서\n어른이 되는 데에 중요한 걸 얻을 수 있을 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev078202_MSG0009",
+      "style": 1,
+      "name": "『아이』? 저희는 모두 고르보가의 아이입니다\n전 그저 새로운 생명을\n토해 낸 것에 지나지 않아요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev078202_MSG0010",
+      "style": 1,
+      "name": "만약 제가 토해 낸 생명……\n오레론에게 흥미가 있으면\n한번 이야기해 봐 주세요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev078202_MSG0011",
+      "style": 1,
+      "name": "분명 어떤 것인지 알 수 있을 겁니다\n그리고 오레론에게도 당신 같은 사람과 교류하는 것이\n어른이 되는 데에 큰 의미가 되겠죠[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001393_MSG0001",
+      "style": 1,
+      "name": "こんにちは　[ST:playername ]さん\nお買い物中ですか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001393_MSG0002",
+      "style": 1,
+      "name": "私とロックは時間ができたので\n商業エリアを散策してるんです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001393_MSG0003",
+      "style": 1,
+      "name": "[ST:playername ]さんがオススメの\n楽しいお店ってありますか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001393_MSG0004",
+      "style": 1,
+      "name": "あ　でも　食べ物屋さん以外がいいです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001393_MSG0005",
+      "style": 1,
+      "name": "ロックはたくさん食べちゃうから\n食事は家で作るようにしているんです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001393_JNK0010",
+      "style": 4,
+      "name": "服屋"
+    },
+    {
+      "$id": 7,
+      "label": "tev001393_SEL0011",
+      "style": 3,
+      "name": "服屋をオススメする"
+    },
+    {
+      "$id": 8,
+      "label": "tev001393_JNK0020",
+      "style": 4,
+      "name": "ルーの店"
+    },
+    {
+      "$id": 9,
+      "label": "tev001393_SEL0021",
+      "style": 3,
+      "name": "ルーの店をオススメする"
+    },
+    {
+      "$id": 10,
+      "label": "tev001393_JNK0030",
+      "style": 4,
+      "name": "おもちゃ屋"
+    },
+    {
+      "$id": 11,
+      "label": "tev001393_SEL0031",
+      "style": 3,
+      "name": "おもちゃ屋をオススメする"
+    },
+    {
+      "$id": 12,
+      "label": "tev001393_MSG0006",
+      "style": 1,
+      "name": "地球の方はおしゃれですよね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001393_MSG0007",
+      "style": 1,
+      "name": "お店の窓から見える服も素敵なものばかりで\n見てるだけでも楽しいです[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001393_MSG0008",
+      "style": 1,
+      "name": "私も一度着てみたいとは思うんですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001393_JNK0040",
+      "style": 4,
+      "name": "勧める"
+    },
+    {
+      "$id": 16,
+      "label": "tev001393_SEL0041",
+      "style": 3,
+      "name": "きっと似合うと勧める"
+    },
+    {
+      "$id": 17,
+      "label": "tev001393_JNK0050",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 18,
+      "label": "tev001393_SEL0051",
+      "style": 3,
+      "name": "ロックとおそろいがないので\n心配しているのか尋ねる"
+    },
+    {
+      "$id": 19,
+      "label": "tev001393_MSG0009",
+      "style": 1,
+      "name": "そうでしょうか[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001393_MSG0010",
+      "style": 1,
+      "name": "私にぴったりのサイズの服があると\nいいんですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001393_MSG0011",
+      "style": 1,
+      "name": "それに一人でお店に入ることも心配なんです[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001393_MSG0012",
+      "style": 1,
+      "name": "ロックは一緒に入れませんし[ST:wide ]―\n私一人だとどうしていいのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001393_MSG0013",
+      "style": 1,
+      "name": "でも　今度リンさんも誘って一緒に行きたいと\n思います[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001393_MSG0014",
+      "style": 1,
+      "name": "そのときは[ST:playername ]さんも\n一緒に来てくださいね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001393_MSG0015",
+      "style": 1,
+      "name": "そ　そこは心配していません[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001393_MSG0016",
+      "style": 1,
+      "name": "ロックと一緒の服にすると外套だけに\nなってしまうので恥ずかしいですから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001393_MSG0017",
+      "style": 1,
+      "name": "私が心配していたのは\n一人でお店に入ることなんです[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001393_MSG0018",
+      "style": 1,
+      "name": "ロックは一緒に入れませんし[ST:wide ]―\n私一人だとどうしていいのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001393_MSG0019",
+      "style": 1,
+      "name": "でも　今度リンさんも誘って一緒に行きたいと\n思います[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001393_MSG0020",
+      "style": 1,
+      "name": "そのときは[ST:playername ]さんも\n一緒に来てくださいね[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001393_MSG0021",
+      "style": 1,
+      "name": "ルーさんのお店ですか\n何度かお邪魔したことがあるんです[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001393_MSG0022",
+      "style": 1,
+      "name": "おもしろいものがたくさんありますよね？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001393_MSG0023",
+      "style": 1,
+      "name": "スタップル専用の皮むき器があって驚きました\nでも　リンゴやポテトの皮は\n剥けないそうなんです[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001393_MSG0024",
+      "style": 1,
+      "name": "汎用性がないので全然売れないって\nルーさん困ってました[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001393_MSG0025",
+      "style": 1,
+      "name": "他にもロックレンジの発見器とか\nサスライアリの観察日記とか\n変なものがいっぱいでした[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001393_MSG0026",
+      "style": 1,
+      "name": "新商品が出たらまたルーさんと\nおしゃべりしにいきたいですね[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001393_MSG0027",
+      "style": 1,
+      "name": "地球製のおもちゃはまだ見たことがないです\n楽しそうですね[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001393_MSG0028",
+      "style": 1,
+      "name": "ただこの街には子供がいませんよね？\n大人の方のおもちゃなんでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001393_MSG0029",
+      "style": 1,
+      "name": "それともノポンやマ・ノンの方の？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001393_MSG0030",
+      "style": 1,
+      "name": "[ST:wide ]―とても興味が湧いてきました[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001393_MSG0031",
+      "style": 1,
+      "name": "ロックと一緒に遊べるものがあると\nいいんですけれど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001393_MSG0032",
+      "style": 1,
+      "name": "さっそく見に行ってみますね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001393_MSG0033",
+      "style": 1,
+      "name": "[ST:wide ]―そういえば　どこにあるんですっけ？[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001393_JNK0060",
+      "style": 4,
+      "name": "商業エリアの南"
+    },
+    {
+      "$id": 45,
+      "label": "tev001393_SEL0061",
+      "style": 3,
+      "name": "ノース第1ストリートに\nあると教える"
+    },
+    {
+      "$id": 46,
+      "label": "tev001393_JNK0070",
+      "style": 4,
+      "name": "商業エリアの北"
+    },
+    {
+      "$id": 47,
+      "label": "tev001393_SEL0071",
+      "style": 3,
+      "name": "モビーストリートの\n北側にあると教える"
+    },
+    {
+      "$id": 48,
+      "label": "tev001393_MSG0034",
+      "style": 1,
+      "name": "ノース第1ストリートですね\nわかりました　ありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001393_MSG0035",
+      "style": 1,
+      "name": "モビーストリートの北側ですね\nわかりました　ありがとうございます[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11100100_MSG0002",
+      "style": 0,
+      "name": "対話も戦闘も　これで終わりよ　ラオ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11100100_MSG0001",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "xs11100100_MSG0006",
+      "style": 0,
+      "name": "できるのか　エルマ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs11100100_MSG0007",
+      "style": 0,
+      "name": "俺の身体のどこにデータ[System:Ruby rt=デバイス ]端末[/System:Ruby]があるのか\nお前に分かるのか？[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs11100100_MSG0009",
+      "style": 0,
+      "name": "撃てよ　さあ！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs11100100_MSG0010",
+      "style": 0,
+      "name": "胸か！\n頭か！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11100100_MSG0010_2",
+      "style": 0,
+      "name": "確率は半々だぜ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11100100_MSG0011",
+      "style": 0,
+      "name": "人類の命運をお前のその指に委ねる\n最高じゃないか！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11100100_MSG0012",
+      "style": 0,
+      "name": "ああそうさ　最高の瞬間だぜ！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs11100100_MSG0003",
+      "style": 0,
+      "name": "やめてください　エルマさん！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs11100100_MSG0004",
+      "style": 0,
+      "name": "どきなさい　リン[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11100100_MSG0005",
+      "style": 0,
+      "name": "彼の[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]を活動停止させ\n内部に隠したデータ[System:Ruby rt=デバイス ]端末[/System:Ruby]を取り出すわ[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs11100100_MSG0014",
+      "style": 0,
+      "name": "二人とも　もうやめてください！\n同じブレイドの仲間じゃないですか！[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs11100100_MSG0015",
+      "style": 0,
+      "name": "お前[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs11100100_MSG0016",
+      "style": 0,
+      "name": "あなたまで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs11100100_MSG0017",
+      "style": 0,
+      "name": "ありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs11100100_MSG0018",
+      "style": 0,
+      "name": "エルマさん\n私　ラオさんの気持ちわかるんです[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs11100100_MSG0019",
+      "style": 0,
+      "name": "私のお父さんとお母さんは\nずっと前に死んでしまった[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs11100100_MSG0020",
+      "style": 0,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs11100100_MSG0021",
+      "style": 0,
+      "name": "もし　地球に置き去りにされて\n死んだんだったら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs11100100_MSG0022",
+      "style": 0,
+      "name": "きっと生き延びた人を憎むと思う！\nラオさんと同じことをしたと思う！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs11100100_MSG0023",
+      "style": 0,
+      "name": "リンさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs11100100_MSG0024",
+      "style": 0,
+      "name": "醜いですよね\n汚いですよね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs11100100_MSG0024_2",
+      "style": 0,
+      "name": "でも　人間ってそんなもんなんです[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs11100100_MSG0025",
+      "style": 0,
+      "name": "もしかしたら　宇宙から消え去った方が\nいいのかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs11100100_MSG0027",
+      "style": 0,
+      "name": "でも[ST:wide ]―　でも！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs11100100_MSG0028",
+      "style": 0,
+      "name": "リン[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs11100100_MSG0029",
+      "style": 0,
+      "name": "リン[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs11100100_MSG0029_2",
+      "style": 0,
+      "name": "データ[System:Ruby rt=デバイス ]端末[/System:Ruby]だ\n持って行け[ST:wait ]\n"
+    },
+    {
+      "$id": 30,
+      "label": "xs11100100_MSG0030",
+      "style": 0,
+      "name": "えっ！？　ラオさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs11100100_MSG0031",
+      "style": 0,
+      "name": "君が言ったように人間は醜くて汚い\nだから　こうするべきなんだろうさ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs11100100_MSG0032",
+      "style": 0,
+      "name": "ラオ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs11100100_MSG0033",
+      "style": 0,
+      "name": "気が変わったのさ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs11100100_MSG0034",
+      "style": 0,
+      "name": "気が変わった？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs11100100_MSG0035",
+      "style": 0,
+      "name": "元々　俺の個人的感情ではじめたことだ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs11100100_MSG0036",
+      "style": 0,
+      "name": "気まぐれでやめたって\n不思議じゃないだろう？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs11100100_MSG0037",
+      "style": 0,
+      "name": "ラオさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs11100100_MSG0038",
+      "style": 0,
+      "name": "行けよ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs11100100_MSG0039",
+      "style": 0,
+      "name": "セントラルライフには\n防衛機構もあったはずだ[ST:wait ]\n"
+    },
+    {
+      "$id": 40,
+      "label": "xs11100100_MSG0040",
+      "style": 0,
+      "name": "奴らだって　すぐには破壊できまい\n急げば　間に合うかもしれねえぜ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs11100100_MSG0041",
+      "style": 0,
+      "name": "確かに時間を無駄にはできない\nリン　[System:Ruby rt=デバイス ]端末[/System:Ruby]をここで解析できる？[ST:wait ]\n"
+    },
+    {
+      "$id": 42,
+      "label": "xs11100100_MSG0042",
+      "style": 0,
+      "name": "できないことはないですけど[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs11100100_MSG0043",
+      "style": 0,
+      "name": "ＮＬＡのコンピュータほどの性能がないので\nかなりの時間がかかります[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "xs11100100_MSG0044",
+      "style": 0,
+      "name": "しかたがないわね\n一度ＮＬＡに戻りましょう[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs11100100_MSG0048",
+      "style": 0,
+      "name": "ラオさん　一緒にＮＬＡに帰りましょう[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs11100100_MSG0049",
+      "style": 0,
+      "name": "バカを言うな\nこんなことをしておいて帰れるわけないだろ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs11100100_MSG0050",
+      "style": 0,
+      "name": "そんなことありません！\nみんなもきっとラオさんと同じ気持ちなんです[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "xs11100100_MSG0051",
+      "style": 0,
+      "name": "だからちゃんと話せば\nわかってくれると思います！[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs11100100_MSG0052",
+      "style": 0,
+      "name": "だからって　奴らにどんな顔して会えばいい\n俺は大罪人だぞ！[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs11100100_MSG0053",
+      "style": 0,
+      "name": "そう　あなたがしたことは決して赦されない\nだからこそ　あなたは戻らなければならない[ST:wait ]\n"
+    },
+    {
+      "$id": 51,
+      "label": "xs11100100_MSG0054",
+      "style": 0,
+      "name": "エルマ　お前まで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs11100100_MSG0055",
+      "style": 0,
+      "name": "帰りましょう　ラオさん[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs11100100_MSG0056",
+      "style": 0,
+      "name": "分かった\nだが時間は貴重だ　先に行け[ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "xs11100100_MSG0057",
+      "style": 0,
+      "name": "そうですけど[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs11100100_MSG0057_2",
+      "style": 0,
+      "name": "エルマさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs11100100_MSG0058",
+      "style": 0,
+      "name": "ラオの言う通りよ\n気持ちは分かるけど私達には時間がない[ST:wait ]\n"
+    },
+    {
+      "$id": 57,
+      "label": "xs11100100_MSG0059",
+      "style": 0,
+      "name": "わかりました[ST:wait ]\n"
+    },
+    {
+      "$id": 58,
+      "label": "xs11100100_MSG0060",
+      "style": 0,
+      "name": "ラオさん　救援を呼びますから\nここを動かないでください[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs11100100_MSG0061",
+      "style": 0,
+      "name": "あと　死なないでください\n生きてＮＬＡに戻ってください[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs11100100_MSG0062",
+      "style": 0,
+      "name": "ああ　生きて必ず帰る\nだからもう行け[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs11100100_MSG0063",
+      "style": 0,
+      "name": "はい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs11100100_MSG0064",
+      "style": 0,
+      "name": "タツのお弁当　わけてあげるですも！[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs11100100_MSG0065",
+      "style": 0,
+      "name": "お前　食べてちゃんと生きなきゃ\nダメなんですも！　[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs11100100_MSG0066",
+      "style": 0,
+      "name": "リンさんの気持ち\nわかってあげなかったら赦さないですも！[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs11100100_MSG0067",
+      "style": 0,
+      "name": "あいつら　死ぬな[ST:wide ]―　か[ST:wait ]\n"
+    },
+    {
+      "$id": 66,
+      "label": "xs11100100_MSG0067_2",
+      "style": 0,
+      "name": "死ねないさ[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs11100100_MSG0068",
+      "style": 0,
+      "name": "この身体を失っても\n新しい身体に意識は転送される[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs11100100_MSG0069",
+      "style": 0,
+      "name": "シャーメイ　チェンシー[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs11100100_MSG0069_2",
+      "style": 0,
+      "name": "なあ[ST:wide ]―　俺[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs11100100_MSG0070",
+      "style": 0,
+      "name": "まだお前らのとこに行けないらしいぜ[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs11100100_MSG0070_2",
+      "style": 0,
+      "name": "まいったな[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs11100100_MSG0071",
+      "style": 0,
+      "name": "すまね[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs11100100_MSG0071_2",
+      "style": 0,
+      "name": "もちっと　そっちで待っててくれ[ST:wait ]"
+    }
+  ]
+}

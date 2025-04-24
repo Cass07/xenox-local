@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev035702_MSG0001",
+      "style": 1,
+      "name": "여기 빅토리아도 그렇지만\n유도 상당한 패션 리더구낭![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev035702_MSG0002",
+      "style": 1,
+      "name": "매우 다이내믹하고 고저스!\n마 논과는 좀 다르넹?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev035702_MSG0003",
+      "style": 1,
+      "name": "……응! 너희에게는\n재밌는 것을 잔뜩 배울 수 있을 것 같앙![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev035702_MSG0004",
+      "style": 1,
+      "name": "파냐르는 결정했어!\n빅토리아와 함께 패션계에\n혁명을 일으켜 주겠다공![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000394_MSG0001",
+      "style": 1,
+      "name": "よう　[ST:playername ]か[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000394_MSG0002",
+      "style": 1,
+      "name": "今　銃のチェックをしてたんだ\n俺たちはB.B.だが　何もしなけりゃ\n腕がなまっちまうからな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000394_JNK0010",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 4,
+      "label": "tev000394_SEL0011",
+      "style": 3,
+      "name": "シンゴと一緒に\n特訓することを勧める"
+    },
+    {
+      "$id": 5,
+      "label": "tev000394_JNK0020",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 6,
+      "label": "tev000394_SEL0021",
+      "style": 3,
+      "name": "最近　任務でいないことを\n尋ねる"
+    },
+    {
+      "$id": 7,
+      "label": "tev000394_MSG0003",
+      "style": 1,
+      "name": "シンゴに教えることで\n俺にも身に付くことが多いだろうが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000394_MSG0004",
+      "style": 1,
+      "name": "純粋に時間がないんだよな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000394_MSG0005",
+      "style": 1,
+      "name": "それにアイツと俺じゃスタイルが全然違う\nもっとスペシャリストに教えてもらった方が\nアイツも伸びるだろう[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000394_MSG0006",
+      "style": 1,
+      "name": "[ST:wide ]―っていい訳がましく聞こえるか[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000394_MSG0007",
+      "style": 1,
+      "name": "誰にだってやるべきことがある[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000394_MSG0008",
+      "style": 1,
+      "name": "お前だって命を懸けなきゃいけない任務に\nリンやタツを連れて行くか？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000394_MSG0009",
+      "style": 1,
+      "name": "置いていくだろ？\n俺もそれと同じなんだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000394_MSG0010",
+      "style": 1,
+      "name": "今は詳しく言えないが[ST:playername ]や\nエルマと同じく俺だってそれなりのもの\n背負ってるんだぜ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000394_JNK0030",
+      "style": 4,
+      "name": "反論する"
+    },
+    {
+      "$id": 16,
+      "label": "tev000394_SEL0031",
+      "style": 3,
+      "name": "それでもチームメンバーを\n思いやる心の大切さを説く"
+    },
+    {
+      "$id": 17,
+      "label": "tev000394_JNK0040",
+      "style": 4,
+      "name": "応援する"
+    },
+    {
+      "$id": 18,
+      "label": "tev000394_SEL0041",
+      "style": 3,
+      "name": "ラオを応援する"
+    },
+    {
+      "$id": 19,
+      "label": "tev000394_MSG0011",
+      "style": 1,
+      "name": "フッ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000394_MSG0012",
+      "style": 1,
+      "name": "ダグと同じことを言うんだな[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000394_MSG0013",
+      "style": 1,
+      "name": "分かってるよ\nザイデンもモンドもシンゴも\n信頼のおける大切な仲間さ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000394_MSG0014",
+      "style": 1,
+      "name": "決して　ないがしろにはしないようにする[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000394_MSG0015",
+      "style": 1,
+      "name": "これまでは話し合いが\n不足してたかもしれないが\nもう少し事情を話してみるさ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000394_MSG0016",
+      "style": 1,
+      "name": "[ST:wide ]―これでいいか？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000394_MSG0017",
+      "style": 1,
+      "name": "まったく[ST:playername ]は\nおせっかいだな[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000394_MSG0018",
+      "style": 1,
+      "name": "さて　俺はそろそろ出掛けるよ\nザイデンと打ち合わせの時間だからな[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000394_MSG0019",
+      "style": 1,
+      "name": "じゃあ　またな[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000394_MSG0020",
+      "style": 1,
+      "name": "問いたださずに黙って俺を見守ってくれるか[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000394_MSG0021",
+      "style": 1,
+      "name": "ありがとうな\n信頼してくれて[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000394_MSG0022",
+      "style": 1,
+      "name": "そうだ[ST:wide ]―\n今度シンゴに稽古をつけてやってくれ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000394_MSG0023",
+      "style": 1,
+      "name": "お前ほどの腕ならアイツにとって\n刺激になるだろうし\n学ぶこともあるだろうしな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000394_MSG0024",
+      "style": 1,
+      "name": "よろしく頼むぜ[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

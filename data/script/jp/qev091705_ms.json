@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091705_MSG0001",
+      "style": 0,
+      "name": "あなたがランクロドね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091705_MSG0002",
+      "style": 0,
+      "name": "そうです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091705_MSG0003",
+      "style": 0,
+      "name": "日和見主義のオンオトナム達が\n私を説得しにくるかと思っていましたが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091705_MSG0004",
+      "style": 0,
+      "name": "まさか地球人のような下等生物だとは[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091705_JNK0010",
+      "style": 4,
+      "name": "質問する"
+    },
+    {
+      "$id": 6,
+      "label": "qev091705_SEL0011",
+      "style": 3,
+      "name": "どうして他の仲間に\n付いていかなかったのか尋ねる"
+    },
+    {
+      "$id": 7,
+      "label": "qev091705_JNK0020",
+      "style": 4,
+      "name": "お礼を言う"
+    },
+    {
+      "$id": 8,
+      "label": "qev091705_SEL0021",
+      "style": 3,
+      "name": "ビアーノ浄水場で世話に\nなったお礼を言う"
+    },
+    {
+      "$id": 9,
+      "label": "qev091705_MSG0005",
+      "style": 0,
+      "name": "私が異質な存在だからですよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091705_MSG0006",
+      "style": 0,
+      "name": "彼らのオーヴァはグロウスを裏切ることを\n勧めたが　私のオーヴァはそうではなかった[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091705_MSG0007",
+      "style": 0,
+      "name": "グロウスに残り　裏切り者を殺すこと\nそれが最優先だと判断したのです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091705_MSG0008",
+      "style": 0,
+      "name": "圧倒的なテクノロジーの差を\n思い知ったでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091705_MSG0009",
+      "style": 0,
+      "name": "私の頭脳はオンオトナムを\n遥かに上回っているのですよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091705_MSG0010",
+      "style": 0,
+      "name": "そんな話はどうでもいいわ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091705_MSG0011",
+      "style": 0,
+      "name": "私の報酬のために\nさっさと投降してもらいたいわね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091705_MSG0012",
+      "style": 0,
+      "name": "そう言われても\n大人しく捕まるつもりはありませんよ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091705_MSG0013",
+      "style": 0,
+      "name": "オルフェ人は戦うことができない[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091705_MSG0014",
+      "style": 0,
+      "name": "あなた方はそう聞いたかもしれませんが\n私は違います[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091705_MSG0015",
+      "style": 0,
+      "name": "一人でこんな所にいるには\nそれなりの自信があるのです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091705_MSG0016",
+      "style": 0,
+      "name": "なら先取先制すべきね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091705_JNK0030",
+      "style": 4,
+      "name": "唖然とする"
+    },
+    {
+      "$id": 22,
+      "label": "qev091705_SEL0031",
+      "style": 3,
+      "name": "マードレスの行動を見守ることしかできない"
+    },
+    {
+      "$id": 23,
+      "label": "qev091705_JNK0040",
+      "style": 4,
+      "name": "制止する"
+    },
+    {
+      "$id": 24,
+      "label": "qev091705_SEL0041",
+      "style": 3,
+      "name": "殺してはいけないとマードレスを止める"
+    },
+    {
+      "$id": 25,
+      "label": "qev091705_JNK0050",
+      "style": 4,
+      "name": "抗議する"
+    },
+    {
+      "$id": 26,
+      "label": "qev091705_SEL0051",
+      "style": 3,
+      "name": "自分が倒すつもりだったと抗議する"
+    },
+    {
+      "$id": 27,
+      "label": "qev091705_MSG0017",
+      "style": 0,
+      "name": "そ　そんな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091705_MSG0018",
+      "style": 0,
+      "name": "あら　おしゃべりを遮ってごめんなさい\n長話って大嫌いなのよね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091705_MSG0019",
+      "style": 0,
+      "name": "でも安心して\n死なない程度に痛め付けるだけだから[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091705_MSG0020",
+      "style": 0,
+      "name": "なんと野蛮な[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091705_MSG0021",
+      "style": 0,
+      "name": "大丈夫よ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091705_MSG0022",
+      "style": 0,
+      "name": "殺すと報酬がゼロになるかもしれないけど\n半殺しくらいだったら問題ないでしょ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091705_MSG0023",
+      "style": 0,
+      "name": "な　なんて野蛮な[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091705_MSG0024",
+      "style": 0,
+      "name": "血気盛んね\n戦わずして勝つ方がスマートなのに[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091705_MSG0025",
+      "style": 0,
+      "name": "ど　どこがスマートなんだ[ST:wide ]―　野蛮人め[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091705_MSG0026",
+      "style": 0,
+      "name": "野蛮だなんて冗談でしょ\n私これでも[ST:wide ]―　大富豪の娘なの[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091705_MSG0027",
+      "style": 0,
+      "name": "小さい頃　ドレスを着てパーティーに出てたわ\nだから何が優雅なのかは心得てる[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091705_MSG0028",
+      "style": 0,
+      "name": "さて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091705_MSG0029",
+      "style": 0,
+      "name": "虫ケラが黙ったところで\nＮＬＡに帰りましょうか[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091705_MSG0030",
+      "style": 0,
+      "name": "６０万Ｇが私達を待ってるわ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091705_MSG0031",
+      "style": 0,
+      "name": "しまったわ[ST:wide ]―　研究データの場所\nこの虫ケラから聞き出すべきだったわね[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091705_MSG0032",
+      "style": 0,
+      "name": "仕方ない　自力で探しましょう\nＮＬＡに戻るのはそれからよ[ST:wait ]"
+    }
+  ]
+}

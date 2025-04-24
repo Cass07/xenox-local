@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085504_MSG0002",
+      "style": 0,
+      "name": "どう　私が選んだ武器を使ってみて\n何か感じた？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085504_MSG0003",
+      "style": 0,
+      "name": "あの　もう一度\n模擬戦お願いできますか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085504_MSG0004",
+      "style": 0,
+      "name": "いいわよ\n準備してきなさい[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085504_MSG0001",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

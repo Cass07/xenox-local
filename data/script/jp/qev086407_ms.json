@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086407_MSG0001",
+      "style": 0,
+      "name": "すごいも　タツ！\nほんとに見つけてきたんだも！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086407_MSG0002",
+      "style": 0,
+      "name": "へへー　見直したですも？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086407_MSG0003",
+      "style": 0,
+      "name": "見直した見直したも！\nあんた　いいオトモダチに恵まれたんだも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086407_MSG0004",
+      "style": 0,
+      "name": "あら　お見通しなのね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086407_MSG0005",
+      "style": 0,
+      "name": "さぁ　かけてみておくれも　メガネ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086407_MSG0006",
+      "style": 0,
+      "name": "わかったですも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086407_MSG0007",
+      "style": 0,
+      "name": "どうですも？　\n一人前になったタツにピッタリですも[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086407_MSG0008",
+      "style": 0,
+      "name": "ああ～～\nトーチャンの若い頃を思い出すようだも[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086407_MSG0009",
+      "style": 0,
+      "name": "カカが好きになった頃の\nトーチャンにそっくりだも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086407_MSG0010",
+      "style": 0,
+      "name": "それが　お父さんの形見～～！？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086407_MSG0011",
+      "style": 0,
+      "name": "形見？\n変なこと言わないでほしいですも！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086407_MSG0012",
+      "style": 0,
+      "name": "それじゃまるで\nトーチャンが死んじゃったみたいですも！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086407_MSG0013",
+      "style": 0,
+      "name": "え　そうなの！？\nごめん　勘違いしてた[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086407_MSG0014",
+      "style": 0,
+      "name": "じゃあ　お父様はどこへ？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086407_MSG0015",
+      "style": 0,
+      "name": "うちの人は選ばれたんですも\n今年の伝説の勇者に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086407_MSG0016",
+      "style": 0,
+      "name": "そうですも！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086407_MSG0017",
+      "style": 0,
+      "name": "伝説の勇者は　お供を連れて悪い神様を\n倒しに行くのが古くからの習わしなんですも！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086407_MSG0018",
+      "style": 0,
+      "name": "今年はトーチャンの番ですも！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086407_MSG0019",
+      "style": 0,
+      "name": "そういうことって\n持ち回りでやるものじゃないような[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086407_MSG0020",
+      "style": 0,
+      "name": "でも　勇者だなんてすごいわね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086407_MSG0021",
+      "style": 0,
+      "name": "いやいや　うちは子供がたくさんだから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086407_MSG0022",
+      "style": 0,
+      "name": "トーチャンには頑張って\n悪い神様たくさん倒してもらって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086407_MSG0023",
+      "style": 0,
+      "name": "今年のうちにドカッ[ST:wide ]―　と頑張って\n稼いでもらわないとだも[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086407_MSG0024",
+      "style": 0,
+      "name": "何それぇ～～[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08140150_MSG0001",
+      "style": 0,
+      "name": "이리나 씨, 그윈 씨\n두 분 다 무사하셨네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08140150_MSG0002",
+      "style": 0,
+      "name": "그래, 우리들은 살아남았지만\n마커스 녀석이……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08140150_MSG0003",
+      "style": 0,
+      "name": "마커스가 어떻게 됐는데?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08140150_MSG0004",
+      "style": 0,
+      "name": "……적의 공격을 받아 전사했습니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08140150_MSG0005",
+      "style": 0,
+      "name": "네? 마커스 씨가……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08140150_MSG0006",
+      "style": 0,
+      "name": "중위님, 센트럴 라이프를 발견하면……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08140150_MSG0007",
+      "style": 0,
+      "name": "가장 먼저 마커스를 위한\n최신형 B.B.를 준비해 주자고요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs08140150_JNK0010",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 9,
+      "label": "xs08140150_SEL0011",
+      "style": 3,
+      "name": "잘생긴 최신형 B.B.를 추천한다"
+    },
+    {
+      "$id": 10,
+      "label": "xs08140150_JNK0020",
+      "style": 4,
+      "name": "의견"
+    },
+    {
+      "$id": 11,
+      "label": "xs08140150_SEL0021",
+      "style": 3,
+      "name": "모델 체형인 최신형 B.B.를 추천한다"
+    },
+    {
+      "$id": 12,
+      "label": "xs08140150_MSG0008",
+      "style": 0,
+      "name": "그래요\n그윈 씨보다 잘생긴 B.B.를 준비하죠![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs08140150_MSG0009",
+      "style": 0,
+      "name": "덤으로 키가 크면서\n마르고 탄탄한 몸이면 좋겠다모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08140150_MSG0010",
+      "style": 0,
+      "name": "맞다모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08140150_MSG0011",
+      "style": 0,
+      "name": "그윈 씨보다도 키가 크면서\n마르고 탄탄한 몸을 준비해 주자모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs08140150_MSG0012",
+      "style": 0,
+      "name": "덤으로 잘생긴 얼굴이면 좋죠![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs08140150_MSG0013",
+      "style": 0,
+      "name": "너희 둘, 그냥 나 놀리는 거지?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs08140150_MSG0014",
+      "style": 0,
+      "name": "그래![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs08140150_MSG0015",
+      "style": 0,
+      "name": "그윈보다 잘생기고 키가 큰\n최신식 B.B.를 준비해 주겠어![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs08140150_MSG0016",
+      "style": 0,
+      "name": "중위님까지……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs08140150_MSG0017",
+      "style": 0,
+      "name": "엘마 대령님, 녀석들한테 제대로 당하고 말았네요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs08140150_MSG0018",
+      "style": 0,
+      "name": "하지만 그 돌은 녀석들의 신상 아니던가요?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs08140150_MSG0019",
+      "style": 0,
+      "name": "신상 한두 개 빼앗긴 게 대수는 아닐 텐데요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs08140150_MSG0020",
+      "style": 0,
+      "name": "그렇다면 좋겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs08140150_MSG0021",
+      "style": 0,
+      "name": "대령님?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs08140150_MSG0022",
+      "style": 0,
+      "name": "아무튼 그로우스의 목적이\n무엇인지는 상관없어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs08140150_MSG0023",
+      "style": 0,
+      "name": "우리의 임무는 NLA를 방위하는 거야\n그리고 해냈지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs08140150_MSG0024",
+      "style": 0,
+      "name": "그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs08140150_MSG0025",
+      "style": 0,
+      "name": "엘마 대령님 말이 맞아요\n우리가 이긴 거라고요![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs08140150_MSG0026",
+      "style": 0,
+      "name": "그렇구나, 그 말이 맞네요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs08140150_MSG0027",
+      "style": 0,
+      "name": "그러면 다 함께 반담 사령관님께\n보고하러 갈까요?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs08140150_MSG0028",
+      "style": 0,
+      "name": "그래, 그렇게 하자[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs08140150_MSG0029",
+      "style": 0,
+      "name": "미안하지만\n너희끼리 먼저 가 줄 수 있을까?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs08140150_MSG0030",
+      "style": 0,
+      "name": "격납고 상황이 신경 쓰이거든[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs08140150_MSG0031",
+      "style": 0,
+      "name": "알겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs08140150_MSG0032",
+      "style": 0,
+      "name": "그러면 저희는 임무 결과를 보고하러 가겠습니다\n실례하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs08140150_MSG0033",
+      "style": 0,
+      "name": "우리는 격납고로 가자[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs08140150_MSG0034",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    }
+  ]
+}

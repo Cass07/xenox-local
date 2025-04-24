@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12170100_MSG0001",
+      "style": 0,
+      "name": "エルマさんが地球を訪れたのは\n今より三十年前[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12170100_MSG0002",
+      "style": 0,
+      "name": "２０２０年代半ばのことでした[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12170100_MSG0003",
+      "style": 0,
+      "name": "グロウスを擁する強大な星団国家連合と\nそれに匹敵する規模の異星文明との戦争が[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs12170100_MSG0004",
+      "style": 0,
+      "name": "地球圏に及ぶことを察知した\nエルマさんは私達を救うため[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs12170100_MSG0005",
+      "style": 0,
+      "name": "たった一人で地球へと降り立ったのです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12170100_MSG0006",
+      "style": 0,
+      "name": "ナギ軍務長官を始めとする\n支持者の協力を得て[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12170100_MSG0007",
+      "style": 0,
+      "name": "エルマさんは地球人類が\n存続するための計画を進めてくれました[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12170100_MSG0008",
+      "style": 0,
+      "name": "異星人の兵器に対抗するためのドールも[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12170100_MSG0009",
+      "style": 0,
+      "name": "光の速度を超えて航行できる移民船も[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12170100_MSG0010",
+      "style": 0,
+      "name": "そして　[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]とライフに関する技術も[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12170100_MSG0011",
+      "style": 0,
+      "name": "その全てがエルマさんからもたらされた\n異星文明の技術だったのです[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs12170100_MSG0012",
+      "style": 0,
+      "name": "あの時　地球は消えてしまったと\n皆は言うけれど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs12170100_MSG0013",
+      "style": 0,
+      "name": "私はそんな風には思っていません[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12170100_MSG0014",
+      "style": 0,
+      "name": "移民船も　私達の白鯨だけじゃない\n他にもきっと生き残った船があるはず[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12170100_MSG0015",
+      "style": 0,
+      "name": "私はそう信じています[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12170100_MSG0016",
+      "style": 0,
+      "name": "私達はこの星で生きていきます[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs12170100_MSG0017",
+      "style": 0,
+      "name": "これから先も　色々な困難があるだろうけれど\nそれでも諦めずに[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12170100_MSG0018",
+      "style": 0,
+      "name": "いつか　地球を探しに行ける\nその日が来ることを信じて[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

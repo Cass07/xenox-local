@@ -1,0 +1,480 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091801_MSG0001",
+      "style": 0,
+      "name": "뭐야……?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091801_MSG0002",
+      "style": 0,
+      "name": "당신은 살인 사건의 용의선상에 올랐습니다\n동행해 주시죠[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091801_JNK0010",
+      "style": 4,
+      "name": "탄식한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev091801_SEL0011",
+      "style": 3,
+      "name": "머더레스가 선을 넘고 말았다며 탄식한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev091801_JNK0020",
+      "style": 4,
+      "name": "질문한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev091801_SEL0021",
+      "style": 3,
+      "name": "냉정하게 무슨 상황인지 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "qev091801_JNK0030",
+      "style": 4,
+      "name": "사죄한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev091801_SEL0031",
+      "style": 3,
+      "name": "자신이 한 짓이라며 사죄한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev091801_MSG0003",
+      "style": 0,
+      "name": "너 말이야……\n그럴 줄 알았다는 듯한 표정 짓지 말아 줄래?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091801_MSG0004",
+      "style": 0,
+      "name": "난 살인을 저지른 적은 없거든\n자세히 이야기해 주겠어?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091801_MSG0005",
+      "style": 0,
+      "name": "장하네, 이런 때야말로\n냉정하게 생각해야지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091801_MSG0006",
+      "style": 0,
+      "name": "미안하지만, 짐작 가는 바가 없어\n일단 이야기를 들어 보자[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091801_MSG0007",
+      "style": 0,
+      "name": "아뇨, 당신에게 한 말이 아닙니다\n컬렉피디언 소속의 머더레스에게 한 말이죠[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091801_MSG0008",
+      "style": 0,
+      "name": "나? 짐작 가는 바가 없는데\n자세히 이야기해 주겠어?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091801_MSG0009",
+      "style": 0,
+      "name": "블레이드가 8명 연속으로\n살해당하는 사건이 일어났습니다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091801_MSG0010",
+      "style": 0,
+      "name": "많이도 죽었네, 누가 당했는데?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091801_MSG0011",
+      "style": 0,
+      "name": "옵스에 욜란다……\n잘 아는 이름 아닙니까?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091801_MSG0012",
+      "style": 0,
+      "name": "알지……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091801_MSG0013",
+      "style": 0,
+      "name": "그래…… 그 하잘것없는 녀석들이……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091801_MSG0014",
+      "style": 0,
+      "name": "그 두 사람을 포함한 피해자 전원의 공통점은\n당신과 함께 임무를 맡은 적이 있었다는 점입니다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091801_MSG0015",
+      "style": 0,
+      "name": "당신은 임무 보수에 매우 엄격해서\n동료들의 불평불만이 많다고 들었습니다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091801_MSG0016",
+      "style": 0,
+      "name": "그리고 빈번히 부정한 방법으로 돈을 벌어\n악평을 듣고 있고 동료를 배신한 적도 많죠[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091801_MSG0017",
+      "style": 0,
+      "name": "그들의 원한을 산 탓에\n험악한 관계가 되었어도 이상하지 않아요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091801_MSG0018",
+      "style": 0,
+      "name": "게다가 살인자라고 자칭하는 이상[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091801_MSG0019",
+      "style": 0,
+      "name": "한 번쯤은 이야기를 들어 보고 싶은 게\n지극히 당연한 일 아닐까요?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091801_JNK0040",
+      "style": 4,
+      "name": "항의"
+    },
+    {
+      "$id": 27,
+      "label": "qev091801_SEL0041",
+      "style": 3,
+      "name": "히메리 때처럼 데피니아가\n벌인 짓일지도 모른다고 주장한다"
+    },
+    {
+      "$id": 28,
+      "label": "qev091801_JNK0050",
+      "style": 4,
+      "name": "변호"
+    },
+    {
+      "$id": 29,
+      "label": "qev091801_SEL0051",
+      "style": 3,
+      "name": "머더레스는 살인을 할 여성이 아니라고 변호한다"
+    },
+    {
+      "$id": 30,
+      "label": "qev091801_MSG0020",
+      "style": 0,
+      "name": "그래, 데피니아라는 외계인이\n범인일 가능성이 높지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091801_MSG0021",
+      "style": 0,
+      "name": "그러한 가능성은 저희도 고려하고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091801_MSG0022",
+      "style": 0,
+      "name": "하지만 그렇다고 하더라도\n일단 당신의 이야기를 듣고 싶습니다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091801_MSG0023",
+      "style": 0,
+      "name": "맞는 말이네[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091801_MSG0024",
+      "style": 0,
+      "name": "믿어 줘서 고마워……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091801_MSG0025",
+      "style": 0,
+      "name": "들어 봐, 내가 살인자라고 자칭하는 건\n그래야 할 역겨운 이유가 있기 때문이야[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091801_MSG0026",
+      "style": 0,
+      "name": "그 이유는 말하기 싫지만\n이름만으로 살인 혐의를 씌우지는 말아 줘[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091801_MSG0027",
+      "style": 0,
+      "name": "……그렇네요\n이름으로 판단한 것은 실수였습니다, 죄송합니다[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091801_MSG0028",
+      "style": 0,
+      "name": "하지만 배신에 관한 건\n항변할 수 없지 않나요?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091801_MSG0029",
+      "style": 0,
+      "name": "그렇지……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091801_MSG0030",
+      "style": 0,
+      "name": "그러면 동행해 주시죠[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091801_MSG0031",
+      "style": 0,
+      "name": "기다려![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091801_MSG0032",
+      "style": 0,
+      "name": "머더레스는 돈을 위해서라면 배신도 하고\n냉혹한 데다 악당이지만, 사람을 죽이는 짓만은 안 해[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091801_MSG0033",
+      "style": 0,
+      "name": "그런 짓을 하면 머더레스의 목표가\n멀어질 텐데, 할 리가 없잖아?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091801_MSG0034",
+      "style": 0,
+      "name": "이리나……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091801_MSG0035",
+      "style": 0,
+      "name": "이리나 씨 말씀도 이해는 하지만\n어디까지나 몇 가지 질문을 할 뿐이고……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091801_MSG0036",
+      "style": 0,
+      "name": "그 질문이 끝난 후에 무기한으로\n영창에 보내질지도 모르잖아?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091801_MSG0037",
+      "style": 0,
+      "name": "임시 정부에는 머더레스를\n꺼리는 사람도 있는 모양이니까[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091801_MSG0038",
+      "style": 0,
+      "name": "그러면 이대로 놓아주라는 겁니까?\n또 피해자가 늘어날지도 모른다고요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091801_JNK0060",
+      "style": 4,
+      "name": "조언"
+    },
+    {
+      "$id": 50,
+      "label": "qev091801_SEL0061",
+      "style": 3,
+      "name": "일단 조사가 더 필요하다고 조언한다"
+    },
+    {
+      "$id": 51,
+      "label": "qev091801_JNK0070",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 52,
+      "label": "qev091801_SEL0071",
+      "style": 3,
+      "name": "자신이 범인을 잡겠다고 제안한다"
+    },
+    {
+      "$id": 53,
+      "label": "qev091801_MSG0039",
+      "style": 0,
+      "name": "맞아, 나도 그래야 한다고 생각해[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091801_MSG0040",
+      "style": 0,
+      "name": "머더레스에게 질문할 게 있더라도\n조사가 더 진전된 후에 해야 하는 게 아닐까?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091801_MSG0041",
+      "style": 0,
+      "name": "……어떻게 판단해야 할지[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091801_MSG0042",
+      "style": 0,
+      "name": "망설일 필요 없어, 우리가 범인을 잡을게[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091801_MSG0043",
+      "style": 0,
+      "name": "좋은 아이디어네\n우리가 문제를 처리하는 게 가장 확실해[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091801_MSG0043_m",
+      "style": 0,
+      "name": "좋은 아이디어네\n우리가 문제를 처리하는 게 가장 확실해[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091801_MSG0043_f",
+      "style": 0,
+      "name": "좋은 아이디어네\n우리가 문제를 처리하는 게 가장 확실해[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091801_MSG0044",
+      "style": 0,
+      "name": "게다가 욜란다와 동료들을 위한 일이기도 하고[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091801_MSG0045",
+      "style": 0,
+      "name": "아뇨, 아무리 그래도\n용의자를 자유롭게 놔둘 수는……[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091801_MSG0046",
+      "style": 0,
+      "name": "문제없어, 이리나가 있잖아[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091801_MSG0047",
+      "style": 0,
+      "name": "나?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev091801_MSG0048",
+      "style": 0,
+      "name": "그렇군…… 머더레스를 대신해서\n범인 수색에 협력하라는 뜻인가[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev091801_MSG0049",
+      "style": 0,
+      "name": "좋아, 해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev091801_MSG0050",
+      "style": 0,
+      "name": "재미없는 농담 하지 마, 아기 고양이[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev091801_MSG0051",
+      "style": 0,
+      "name": "나 대신 이리나를 넘겨줄게[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev091801_MSG0052",
+      "style": 0,
+      "name": "내가 도망치기라도 하면\n구워 먹든 삶아 먹든 마음대로 해[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev091801_MSG0053",
+      "style": 0,
+      "name": "뭐……\n그건 좀 심한 거 아니야!?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev091801_MSG0054",
+      "style": 0,
+      "name": "아까 날 믿는다고 했잖니?[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev091801_MSG0055",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev091801_MSG0056",
+      "style": 0,
+      "name": "알았어, 믿을게\n이 녀석도 있으니까 분명 괜찮겠지[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev091801_MSG0056_m",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 74,
+      "label": "qev091801_MSG0056_f",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 75,
+      "label": "qev091801_MSG0057",
+      "style": 0,
+      "name": "그럼, 괜찮고말고\n1초라도 빨리 범인을 찾아낼게[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev091801_MSG0058",
+      "style": 0,
+      "name": "자, 갈까[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev091801_MSG0058_2",
+      "style": 0,
+      "name": "일단 정보통인 엘레오노라한테서\n이야기를 들어 보자[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000391_MSG0001",
+      "style": 1,
+      "name": "오, [ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000391_MSG0002",
+      "style": 1,
+      "name": "잠깐 쉴까 했는데 이런 곳에 강아지가 있지 뭐냐[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000391_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 4,
+      "label": "tev000391_SEL0011",
+      "style": 3,
+      "name": "강아지를 싫어하냐고 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev000391_JNK0020",
+      "style": 4,
+      "name": "사과"
+    },
+    {
+      "$id": 6,
+      "label": "tev000391_SEL0021",
+      "style": 3,
+      "name": "우리 강아지가 폐를 끼쳤다며\n사과한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000391_MSG0003",
+      "style": 1,
+      "name": "싫어하는 건 아니야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000391_MSG0004",
+      "style": 1,
+      "name": "옛날에…… 내가 꼬맹이일 때 강아지를 키웠거든[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000391_MSG0005",
+      "style": 1,
+      "name": "근데 몇 년 못 가서 죽어 버렸어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000391_MSG0006",
+      "style": 1,
+      "name": "살아 있는 한 죽음은\n언젠가 찾아오는 법이지만……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000391_MSG0011",
+      "style": 1,
+      "name": "아무것도 할 수 없던 내 무력함이\n떠올라서 좋아하지는 않아[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000391_MSG0012",
+      "style": 1,
+      "name": "네가 키우는 강아지였군\n어쩐지 사람을 잘 따르더라니[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000391_MSG0013",
+      "style": 1,
+      "name": "너랑 린이 귀여워하면서\n소중히 키우는 덕분이겠지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000391_MSG0014",
+      "style": 1,
+      "name": "우리 집도 옛날에 강아지를 키웠어\n하지만 내가 꼬맹이일 때 죽어 버렸지[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000391_MSG0015",
+      "style": 1,
+      "name": "수명은 어떻게 할 수 없는 법이지만\n아무것도 해 주지 못해서 미안했거든[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000391_MSG0016",
+      "style": 1,
+      "name": "그 후로 강아지를 볼 때면\n괴롭고 슬퍼지더라고[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000391_MSG0017",
+      "style": 1,
+      "name": "즐거웠던 시간이 길수록\n헤어질 때의 절망감도 커지는 법이야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000391_MSG0018",
+      "style": 1,
+      "name": "너도 그렇게 생각하지 않냐?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000391_JNK0030",
+      "style": 4,
+      "name": "동의"
+    },
+    {
+      "$id": 20,
+      "label": "tev000391_SEL0031",
+      "style": 3,
+      "name": "라오의 의견에 찬성한다"
+    },
+    {
+      "$id": 21,
+      "label": "tev000391_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 22,
+      "label": "tev000391_SEL0041",
+      "style": 3,
+      "name": "라오의 의견에 찬성하지 않는다"
+    },
+    {
+      "$id": 23,
+      "label": "tev000391_MSG0019",
+      "style": 1,
+      "name": "그렇겠지……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000391_MSG0020",
+      "style": 1,
+      "name": "지구에 버려두고 온 녀석들을 생각하면\n난 지금도……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000391_MSG0021",
+      "style": 1,
+      "name": "아니…… 이 이야기는 그만두자\n아침 댓바람부터 할 말도 아니고[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000391_MSG0022",
+      "style": 1,
+      "name": "그러냐……\n너한텐 기억이 없어서 그런 건가……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000391_MSG0023",
+      "style": 1,
+      "name": "난 지구에 버려두고 온 녀석들이\n아직도 뇌리에서 잊히질 않아[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000391_MSG0024",
+      "style": 1,
+      "name": "그런 일은 더 이상 일어나선 안 돼\n난 그렇게 생각한다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000391_MSG0029",
+      "style": 1,
+      "name": "아무튼……\n여기선 느긋하게 쉬지도 못하겠고\n다이너라도 가 볼까[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000391_MSG0030",
+      "style": 1,
+      "name": "강아지가 계속 따라다녀서\n우울하던 참이었는데\n뭐, 너랑 대화한 덕분에 즐거웠다[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000391_MSG0031",
+      "style": 1,
+      "name": "그럼 임무 있을 때 또 보자[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev096101_MSG0001",
+      "style": 1,
+      "name": "どうだ？\nブレイドとしての暮らしには慣れてきたか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev096101_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 3,
+      "label": "qev096101_SEL0011",
+      "style": 3,
+      "name": "十分慣れたと答える"
+    },
+    {
+      "$id": 4,
+      "label": "qev096101_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 5,
+      "label": "qev096101_SEL0021",
+      "style": 3,
+      "name": "まだ慣れないと答える"
+    },
+    {
+      "$id": 6,
+      "label": "qev096101_JNK0030",
+      "style": 4,
+      "name": "不平"
+    },
+    {
+      "$id": 7,
+      "label": "qev096101_SEL0031",
+      "style": 3,
+      "name": "エルマが厳しすぎると冗談を言う"
+    },
+    {
+      "$id": 8,
+      "label": "qev096101_MSG0002",
+      "style": 1,
+      "name": "結構結構[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev096101_MSG0003",
+      "style": 1,
+      "name": "苛酷な任務ばかりだろうが\nお前さんはよくやってるぜ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev096101_MSG0004",
+      "style": 1,
+      "name": "そうか[ST:wide ]―\nまだ慣れたとは思えねぇか[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev096101_MSG0005",
+      "style": 1,
+      "name": "原生生物に襲われて死ぬヤツもいれば\n厳しい任務に心が折れてしまうヤツもいる……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev096101_MSG0006",
+      "style": 1,
+      "name": "お前さんの適応力は十二分にある\nよくやってると思うぜ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev096101_MSG0007",
+      "style": 1,
+      "name": "がっはっは！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev096101_MSG0008",
+      "style": 1,
+      "name": "エルマとも仲良くやっているようでなによりだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev096101_MSG0009",
+      "style": 1,
+      "name": "もう十分にブレイドにも\nこの星にも慣れたみたいだな[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev096101_MSG0010",
+      "style": 1,
+      "name": "それで何か心配事や要望など\n俺に言いたいことはないか？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev096101_MSG0011",
+      "style": 1,
+      "name": "いや　今日は機嫌がいいからって\n気に掛けてるんじゃないぞ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev096101_MSG0012",
+      "style": 1,
+      "name": "ブレイドの司令官として部下のことは\nしっかりと把握しておかないといかんからな[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev096101_MSG0013",
+      "style": 1,
+      "name": "で　どうだ？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev096101_JNK0040",
+      "style": 4,
+      "name": "安い要望"
+    },
+    {
+      "$id": 21,
+      "label": "qev096101_SEL0041",
+      "style": 3,
+      "name": "次のクエストの報酬を\n2倍にしてほしいと願い出る"
+    },
+    {
+      "$id": 22,
+      "label": "qev096101_JNK0050",
+      "style": 4,
+      "name": "高い要望"
+    },
+    {
+      "$id": 23,
+      "label": "qev096101_SEL0051",
+      "style": 3,
+      "name": "ドールに乗りたいと嘆願する"
+    },
+    {
+      "$id": 24,
+      "label": "qev096101_JNK0060",
+      "style": 4,
+      "name": "現状維持"
+    },
+    {
+      "$id": 25,
+      "label": "qev096101_SEL0061",
+      "style": 3,
+      "name": "何も不満はないと力強くうなずく"
+    },
+    {
+      "$id": 26,
+      "label": "qev096101_MSG0014",
+      "style": 1,
+      "name": "よし　わかった[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev096101_MSG0015",
+      "style": 1,
+      "name": "報酬を2倍にしてやる[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev096101_MSG0016",
+      "style": 1,
+      "name": "しかし　危険度も２倍の高難度の任務だぜ？[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev096101_MSG0017",
+      "style": 1,
+      "name": "がっはっは！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev096101_MSG0018",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "qev096101_MSG0019",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev096101_MSG0020",
+      "style": 1,
+      "name": "……今のは冗談だ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev096101_MSG0021",
+      "style": 1,
+      "name": "それよりどうして金が欲しいんだ？\nドールでも新調するのか？[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev096101_MSG0022",
+      "style": 1,
+      "name": "……いや　待てよ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev096101_MSG0023",
+      "style": 1,
+      "name": "……そもそもドールさえも持ってないのか[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev096101_MSG0024",
+      "style": 1,
+      "name": "いや　それどころかドールライセンスさえも\n持っていないんだな[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev096101_MSG0025",
+      "style": 1,
+      "name": "すまんすまん\nこれは迂闊だったな[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev096101_MSG0026",
+      "style": 1,
+      "name": "お前さんの腕前にドールが加われば\n鬼に金棒だってのに[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev096101_MSG0027",
+      "style": 1,
+      "name": "早々にドールライセンスを\n取得してもらうべきだったな[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev096101_MSG0028",
+      "style": 1,
+      "name": "ないよりはあった方がいいだろ？\nこの機会にとっておけよ　な？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev096101_MSG0029",
+      "style": 1,
+      "name": "おお！　そうか！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev096101_MSG0030",
+      "style": 1,
+      "name": "そういえば\nお前さんはドールを持ってなかったか[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev096101_MSG0031",
+      "style": 1,
+      "name": "いや　それどころかドールライセンスさえも\n持っていないんだな[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev096101_MSG0032",
+      "style": 1,
+      "name": "すまんすまん\nこれは迂闊だったな[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev096101_MSG0033",
+      "style": 1,
+      "name": "ドールに乗るためには\nドールライセンスが必要だ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev096101_MSG0034",
+      "style": 1,
+      "name": "それなりの力量と実績をもったブレイドにしか\n許可してないんだ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev096101_MSG0035",
+      "style": 1,
+      "name": "お前さんの実績を考えると\nタダでくれてやるべきなんだが\n伝統的なルールがあるからな[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev096101_MSG0036",
+      "style": 1,
+      "name": "一応　ライセンス試験をクリアしてくれや[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev096101_MSG0037",
+      "style": 1,
+      "name": "がっはっは\nとことん無欲なヤツだな[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev096101_MSG0038",
+      "style": 1,
+      "name": "でも　言いたいことがあれば\n遠慮なく言った方がいいぜ？[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev096101_MSG0039",
+      "style": 1,
+      "name": "任務は死と隣り合わせだ[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev096101_MSG0040",
+      "style": 1,
+      "name": "気の迷いや準備不足……ひとつのミスで地獄を\n見ることになるかもしれないからな[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev096101_MSG0041",
+      "style": 1,
+      "name": "例えドールに乗っててもだ[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev096101_MSG0042",
+      "style": 1,
+      "name": "……そういや　お前さん\nドールを持ってないよな？[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev096101_MSG0043",
+      "style": 1,
+      "name": "いや　それどころかドールライセンスさえも\n持っていないんだな[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev096101_MSG0044",
+      "style": 1,
+      "name": "すまんすまん\nこれは迂闊だったな[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev096101_MSG0045",
+      "style": 1,
+      "name": "お前さんの腕前にドールが加われば\n鬼に金棒だってのに[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev096101_MSG0046",
+      "style": 1,
+      "name": "早々にドールライセンスを\n取得してもらうべきだったな[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev096101_MSG0047",
+      "style": 1,
+      "name": "ないよりはあった方がいいだろ？\nこの機会にとっておけよ　な？[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev096101_MSG0048",
+      "style": 1,
+      "name": "8つの合格証を手に入れたら\nハンガーにいるウォルターに\n報告してくれ[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev096101_MSG0049",
+      "style": 1,
+      "name": "そこで最終試験に受かったら　\n晴れてドール乗りになれるってわけだ　\n楽しみだろ？[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev096101_MSG0050",
+      "style": 1,
+      "name": "お前さんがドール乗りになるってことは\nブレイドにとって　かなりのメリットだ[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev096101_MSG0051",
+      "style": 1,
+      "name": "だから　期待してるぜ！[ST:wait ]"
+    }
+  ]
+}

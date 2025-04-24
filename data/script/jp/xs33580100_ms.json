@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33580100_MSG0010",
+      "style": 0,
+      "name": "ああ　良かった！\nあなたも無事だったんですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33580100_MSG0020",
+      "style": 0,
+      "name": "ボクは気づいたらここにいて\nどうしようかと迷っていたんですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33580100_MSG0030",
+      "style": 0,
+      "name": "昔　兄さんに教わった対処法を思い出し\n照明弾を上げて待つことにしたんです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33580100_MSG0040",
+      "style": 0,
+      "name": "[ST:wide ]―ってすみません\nボクばっかり喋ってしまって[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33580100_MSG0050",
+      "style": 0,
+      "name": "まだ全部終わったわけじゃないのに\nちょっと安心しちゃって[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33580100_MSG0060",
+      "style": 0,
+      "name": "でも任せてください\nボクもまだまだ戦えます！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33580100_MSG0070",
+      "style": 0,
+      "name": "全力であなたをサポートしますから！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04080100_MSG0001",
+      "style": 0,
+      "name": "아앗, 당했다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04080100_MSG0002",
+      "style": 0,
+      "name": "아아, 무슨 짓을……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04080100_MSG0003",
+      "style": 0,
+      "name": "너무해…… 우리 지구의 소중한 유산을[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs04080100_MSG0004",
+      "style": 0,
+      "name": "아무래도 단순히 호전적일 뿐인\n외계인은 아닌 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs04080100_MSG0005",
+      "style": 0,
+      "name": "명확한 의도를 가지고 라이프를 공격하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs04080100_MSG0006",
+      "style": 0,
+      "name": "그러고 보니 지난번에\n지구인을 몰살하겠다고 했었죠[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs04080100_MSG0007",
+      "style": 0,
+      "name": "아직 늦지 않았을지도 몰라\n가자[ST:wait ]"
+    }
+  ]
+}

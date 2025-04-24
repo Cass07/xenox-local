@@ -1,0 +1,324 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001295_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ] 씨[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001295_MSG0002",
+      "style": 1,
+      "name": "여기서 마 논 우주선을 보고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001295_MSG0003",
+      "style": 1,
+      "name": "굉장히 흥미롭지 않아요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001295_MSG0004",
+      "style": 1,
+      "name": "저 기술……\n어떻게 발견한 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001295_MSG0005",
+      "style": 1,
+      "name": "저렇게 커다란 게 날고 있다기보다는\n공중에 가만히 떠 있잖아요?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001295_MSG0006",
+      "style": 1,
+      "name": "소음도 거의 없는 데다가\n아주 깨끗한 에너지로 떠 있어요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001295_MSG0007",
+      "style": 1,
+      "name": "덕분에 플라이트 팩을\n완성하긴 했지만……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001295_MSG0008",
+      "style": 1,
+      "name": "마 논인분들의 기술을 따라잡으려면\n아직 멀었어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001295_MSG0009",
+      "style": 1,
+      "name": "그리고 그로우스의 기술에도\n놀라운 게 있어요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001295_MSG0010",
+      "style": 1,
+      "name": "즈 하그였나요?\n그렇게 큰 질량의 기체를 비행시키는 기술은\n우리에겐 아직 없는데 말이죠……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001295_MSG0011",
+      "style": 1,
+      "name": "메레디스&코나 정직한 진심당을 견학하면서\n조금이라도 배우고 싶어질 정도예요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001295_JNK0010",
+      "style": 4,
+      "name": "응원"
+    },
+    {
+      "$id": 13,
+      "label": "tev001295_SEL0011",
+      "style": 3,
+      "name": "린이라면 그들을 뛰어넘는 걸\n만들 수 있다고 격려한다"
+    },
+    {
+      "$id": 14,
+      "label": "tev001295_JNK0020",
+      "style": 4,
+      "name": "동행"
+    },
+    {
+      "$id": 15,
+      "label": "tev001295_SEL0021",
+      "style": 3,
+      "name": "자신도 견학하고 싶다고\n자청한다"
+    },
+    {
+      "$id": 16,
+      "label": "tev001295_MSG0012",
+      "style": 1,
+      "name": "아니요……\n분명 이대로는 안 돼요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001295_MSG0013",
+      "style": 1,
+      "name": "우리가 그 기술을 쌓아 올리려면\n몇십 년, 몇백 년이 걸릴지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001295_MSG0014",
+      "style": 1,
+      "name": "그러면 그사이에 마 논인이나 그로우스가\n새로운 기술을 만들어 낼 게 틀림없어요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001295_MSG0015",
+      "style": 1,
+      "name": "그러니까 조금이라도 빨리 따라잡으려고……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001295_MSG0016",
+      "style": 1,
+      "name": "본보기가 되는 선생님이 있는 만큼\n제대로 배워야 해요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001295_MSG0017",
+      "style": 1,
+      "name": "그리고 따라잡은 후에는\n우리만의 방식을 적용해 보여 주고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001295_MSG0018",
+      "style": 1,
+      "name": "같이 갈 수 있다면 즐겁겠지만……\n그래도 괜찮아요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001295_MSG0019",
+      "style": 1,
+      "name": "저도 종종 부탁하는데\n매번 거절당하거든요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001295_MSG0020",
+      "style": 1,
+      "name": "블레이드를 위해 장비를 만들고 있다고는 해도\n일단은 기업이니까요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001295_MSG0021",
+      "style": 1,
+      "name": "기술이나 정보를 누설하지 않으려고 해요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001295_MSG0022",
+      "style": 1,
+      "name": "마 논인분들도 협력해 주고는 있지만\n기술 자체를 제공해 주는 건 아니에요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001295_MSG0023",
+      "style": 1,
+      "name": "앗…… 이런[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001295_MSG0024",
+      "style": 1,
+      "name": "전 공부하러 온 게 아니고\n제대로 쉬려고 온 거예요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001295_MSG0025",
+      "style": 1,
+      "name": "엘마 씨에게 자주 혼나거든요\n너무 무리하지 말고 제대로 쉬라고[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001295_JNK0030",
+      "style": 4,
+      "name": "제안한다"
+    },
+    {
+      "$id": 31,
+      "label": "tev001295_SEL0031",
+      "style": 3,
+      "name": "다음 휴일에는 하루 종일 놀자고\n제안한다"
+    },
+    {
+      "$id": 32,
+      "label": "tev001295_JNK0040",
+      "style": 4,
+      "name": "감싼다"
+    },
+    {
+      "$id": 33,
+      "label": "tev001295_SEL0041",
+      "style": 3,
+      "name": "좋아하는 일을 즐겁게 한다면\n문제없다고 감싼다"
+    },
+    {
+      "$id": 34,
+      "label": "tev001295_MSG0026",
+      "style": 1,
+      "name": "하루 종일이요……?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001295_MSG0027",
+      "style": 1,
+      "name": "즐거울 것 같아요\n긴장을 풀 수 있을지도 모르겠어요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001295_MSG0028",
+      "style": 1,
+      "name": "하지만……\n기술과 떨어지는 건 어려울지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001295_MSG0029",
+      "style": 1,
+      "name": "예를 들어 공원에 나가도\n차가 달리고 있고……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001295_MSG0030",
+      "style": 1,
+      "name": "영화를 봐도 무슨무슨 기계가\n등장하잖아요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001295_MSG0031",
+      "style": 1,
+      "name": "그러면 그게 어떻게 움직이는 걸지\n어떻게 하면 성능이 더 좋아질지[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001295_MSG0032",
+      "style": 1,
+      "name": "문득 생각하게 된단 말이죠[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001295_MSG0033",
+      "style": 1,
+      "name": "플라이트 팩을 완성하면\n한숨 돌릴 수 있겠다고 생각했는데[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001295_MSG0034",
+      "style": 1,
+      "name": "그 즐거움을 잊을 수가 없어서\n또 자꾸자꾸 개량하고 싶은 기분이 들어요[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001295_MSG0035",
+      "style": 1,
+      "name": "……[ST:playername ] 씨와 이야기했더니\n메카닉의 피가 끓기 시작했어요[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001295_MSG0036",
+      "style": 1,
+      "name": "저 돌을 보고 올게요\n그럼 또 블레이드 홈에서 봐요![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001295_MSG0037",
+      "style": 1,
+      "name": "고마워요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001295_MSG0038",
+      "style": 1,
+      "name": "메카닉 일은 즐거워서\n정말 좋아하거든요~[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001295_MSG0039",
+      "style": 1,
+      "name": "실패하는 경우도 많지만\n얼마든지 계속할 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001295_MSG0040",
+      "style": 1,
+      "name": "엘마 씨는 제가 너무 몰입하다가\n몸 관리를 소홀히 할까 봐\n걱정해 주고 있는 것 같지만……[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001295_MSG0041",
+      "style": 1,
+      "name": "오늘은 한 시간만 해야지 하고 참는 것도\n정신 건강에 안 좋을 것 같아서……[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001295_MSG0042",
+      "style": 1,
+      "name": "……그보다 [ST:playername ] 씨와 이야기했더니\n메카닉의 피가 끓기 시작했어요[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev001295_MSG0043",
+      "style": 1,
+      "name": "저 돌을 보고 올게요\n그럼 또 블레이드 홈에서 봐요![ST:wait ]"
+    }
+  ]
+}

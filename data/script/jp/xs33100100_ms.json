@@ -1,0 +1,408 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33100100_MSG0010",
+      "style": 0,
+      "name": "悪いな　お姫様[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33100100_MSG0020",
+      "style": 0,
+      "name": "本来ならオレの役目なのかもしれないが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33100100_MSG0030",
+      "style": 0,
+      "name": "だが　ここまでブレイドを\n引っ張って来たのは[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33100100_MSG0040",
+      "style": 0,
+      "name": "やっぱり君だ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33100100_MSG0050",
+      "style": 0,
+      "name": "君の声の方が[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33100100_MSG0060",
+      "style": 0,
+      "name": "きっと皆に届く[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33100100_MSG0070",
+      "style": 0,
+      "name": "[ST:wide ]―私は　地球で生を受けた生命種ではない[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33100100_MSG0080",
+      "style": 0,
+      "name": "故郷の星を失い\n地球に流れ着いたいわば難民よ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33100100_MSG0090",
+      "style": 0,
+      "name": "しかし[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33100100_MSG0100",
+      "style": 0,
+      "name": "皆の母なる星は慈悲深く\n大きな心で私を受け入れてくれた[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33100100_MSG0110",
+      "style": 0,
+      "name": "その心は地球に生きたすべての人の中にも\nまた育まれている[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33100100_MSG0120",
+      "style": 0,
+      "name": "私は[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33100100_MSG0130",
+      "style": 0,
+      "name": "その愛によって救われた[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33100100_MSG0140",
+      "style": 0,
+      "name": "私達は地球を失った[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33100100_MSG0150",
+      "style": 0,
+      "name": "そして今また[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33100100_MSG0160",
+      "style": 0,
+      "name": "あらたな故郷としたこのミラを\n失おうとしている[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33100100_MSG0170",
+      "style": 0,
+      "name": "正直をいうと[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33100100_MSG0180",
+      "style": 0,
+      "name": "私は一度悲観したわ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33100100_MSG0190",
+      "style": 0,
+      "name": "このままいつまでも新天地を求めて\n流浪し続ける運命なのかと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33100100_MSG0200",
+      "style": 0,
+      "name": "でも今　私は悲観などしていない[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33100100_MSG0220",
+      "style": 0,
+      "name": "新たな地に赴くたびに　心は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33100100_MSG0230",
+      "style": 0,
+      "name": "その魂と呼ばれるものは進化したと\n実感するから[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33100100_MSG0240",
+      "style": 0,
+      "name": "そう　魂[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs33100100_MSG0250",
+      "style": 0,
+      "name": "[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]であっても皆の中に\n確実に息づいているそれよ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs33100100_MSG0260",
+      "style": 0,
+      "name": "存在しようとする力への意志そのもの[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs33100100_MSG0270",
+      "style": 0,
+      "name": "どれほど過酷な環境に放り込まれようとも[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs33100100_MSG0280",
+      "style": 0,
+      "name": "皆はその意志によって力を発展させ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs33100100_MSG0290",
+      "style": 0,
+      "name": "精神を磨き[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs33100100_MSG0300",
+      "style": 0,
+      "name": "魂を進化させてきた[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs33100100_MSG0310",
+      "style": 0,
+      "name": "ならば新天地を求めた旅は[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs33100100_MSG0320",
+      "style": 0,
+      "name": "決して逃亡などではなかった[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs33100100_MSG0330",
+      "style": 0,
+      "name": "すべて進化のための船出だったのよ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs33100100_MSG0340",
+      "style": 0,
+      "name": "私達はこのミラから脱出する[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs33100100_MSG0350",
+      "style": 0,
+      "name": "そのための戦いは楽なものではない[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs33100100_MSG0360",
+      "style": 0,
+      "name": "けどもう一度言うわ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs33100100_MSG0370",
+      "style": 0,
+      "name": "忘れないで[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs33100100_MSG0380",
+      "style": 0,
+      "name": "これは逃亡のための戦いではない[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs33100100_MSG0390",
+      "style": 0,
+      "name": "生き残り　魂を進化させるための戦い[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs33100100_MSG0400",
+      "style": 0,
+      "name": "未来をつくるのは運命ではない[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs33100100_MSG0410",
+      "style": 0,
+      "name": "常に存在しようとする[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs33100100_MSG0420",
+      "style": 0,
+      "name": "私達の意志よ！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs33100100_MSG0430",
+      "style": 0,
+      "name": "うぉぉぉぉぉ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs33100100_MSG0431",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "xs33100100_MSG0432",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "xs33100100_MSG0433",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "xs33100100_MSG0434",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "xs33100100_MSG0435",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "xs33100100_MSG0436",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "xs33100100_MSG0437",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "xs33100100_MSG0438",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 51,
+      "label": "xs33100100_MSG0439",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "xs33100100_MSG0440",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "xs33100100_MSG0441",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "xs33100100_MSG0442",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 55,
+      "label": "xs33100100_MSG0443",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 56,
+      "label": "xs33100100_MSG0444",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "xs33100100_MSG0445",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "xs33100100_MSG0446",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "xs33100100_MSG0447",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "xs33100100_MSG0448",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "xs33100100_MSG0449",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "xs33100100_MSG0450",
+      "style": 0,
+      "name": "[ST:wide ]―お前ら全員　愛してるぜ[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs33100100_MSG0460",
+      "style": 0,
+      "name": "さあ[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs33100100_MSG0470",
+      "style": 0,
+      "name": "行こうか[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs33100100_MSG0480",
+      "style": 0,
+      "name": "全軍　進軍開始！[ST:wait ]"
+    }
+  ]
+}

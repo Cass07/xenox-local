@@ -1,0 +1,378 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04120100_MSG0001",
+      "style": 0,
+      "name": "응!? 그 녀석은 누군가?\n외계인 같은데……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04120100_MSG0002",
+      "style": 0,
+      "name": "야광의 숲에서 만난 루 씨예요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04120100_MSG0003",
+      "style": 0,
+      "name": "개체명은 루 시르페\n오래전부터 이 행성에 살던 자입니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs04120100_MSG0004",
+      "style": 0,
+      "name": "호오, 오래전부터 이 행성에[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs04120100_MSG0005",
+      "style": 0,
+      "name": "그래서 데려왔어\n그에게서 얻을 수 있는 정보는 귀중하니까[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs04120100_MSG0006",
+      "style": 0,
+      "name": "NLA로 이주하는 걸 허가해 줬으면 하는데[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs04120100_MSG0007",
+      "style": 0,
+      "name": "행정장관으로서 간단히 외부인을\n받아들일 수는 없네[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs04120100_MSG0008",
+      "style": 0,
+      "name": "그는 믿을 수 있어…… 난 그렇게 느꼈어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs04120100_MSG0009",
+      "style": 0,
+      "name": "선주민 중에 나쁜 사람은 없다모[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs04120100_MSG0010",
+      "style": 0,
+      "name": "타츠는 그렇다고 치고\n엘마 자네가 그렇다면 그렇겠지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs04120100_MSG0011",
+      "style": 0,
+      "name": "좋아, 알겠다\n나도 책임을 지지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs04120100_MSG0011_2",
+      "style": 0,
+      "name": "이거면 됐나? 행정장관 각하[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs04120100_MSG0012",
+      "style": 0,
+      "name": "자네들이 그렇게까지 말한다면[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs04120100_MSG0013",
+      "style": 0,
+      "name": "오오, 감사합니다!\n이것이 바로 옛말에 이르는 유유상종[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs04120100_MSG0014",
+      "style": 0,
+      "name": "딱딱하게 격식 차릴 필요는 없습니다\n루라고 불러 주세요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs04120100_MSG0015",
+      "style": 0,
+      "name": "그게 저도 마음이 편합니다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs04120100_MSG0016",
+      "style": 0,
+      "name": "그럼 엘마 대령\n라이프 포인트 건을 보고해 주게[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs04120100_MSG0017",
+      "style": 0,
+      "name": "그런가…… 역시 최우선 목표물은 아니었군[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs04120100_MSG0018",
+      "style": 0,
+      "name": "발견한 건\n데이터베이스 유닛 중 하나였어[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs04120100_MSG0019",
+      "style": 0,
+      "name": "유닛 넘버는 07[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs04120100_MSG0020",
+      "style": 0,
+      "name": "07이라고 하면……\nLC가 기록되어 있는 유닛인가[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs04120100_MSG0021",
+      "style": 0,
+      "name": "그 3분의 1이군[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs04120100_MSG0022",
+      "style": 0,
+      "name": "LC…… 미국 의회 도서관의 보관물은[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs04120100_MSG0023",
+      "style": 0,
+      "name": "유닛 07부터 09에\n분할 기록되어 있었을 터[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs04120100_MSG0024",
+      "style": 0,
+      "name": "뭐, 불행 중 다행이군\n부서진 게 데이터베이스라[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs04120100_MSG0025",
+      "style": 0,
+      "name": "그럴까?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs04120100_MSG0026",
+      "style": 0,
+      "name": "응?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs04120100_MSG0027",
+      "style": 0,
+      "name": "유사 이래 발행된 서적 등을 모은\n데이터베이스야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs04120100_MSG0028",
+      "style": 0,
+      "name": "사람의 발자취, 마음의 역사가 새겨진 서적은[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs04120100_MSG0029",
+      "style": 0,
+      "name": "무엇과도 바꿀 수 없는\n지구 인류가 자랑하는 문화유산 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs04120100_MSG0030",
+      "style": 0,
+      "name": "그야, 그건……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs04120100_MSG0031",
+      "style": 0,
+      "name": "전부는 아니라고 해도\n그 일부를 영원히 잃었어[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs04120100_MSG0032",
+      "style": 0,
+      "name": "이건 중대한 손실, 문화의 죽음이야[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs04120100_MSG0033",
+      "style": 0,
+      "name": "그, 그렇지……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs04120100_MSG0034",
+      "style": 0,
+      "name": "이 NLA에도 데이터베이스는 있다[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs04120100_MSG0035",
+      "style": 0,
+      "name": "유닛 넘버를 알고 있다면\n복원도 가능할지 모른다[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs04120100_MSG0036",
+      "style": 0,
+      "name": "그러길 바라고 있어[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs04120100_MSG0037",
+      "style": 0,
+      "name": "그것보다……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs04120100_MSG0038",
+      "style": 0,
+      "name": "그로우스라는 그 적대적인 외계인들 말이다만\n틀림없는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs04120100_MSG0039",
+      "style": 0,
+      "name": "그래, 이걸 봐[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs04120100_MSG0040",
+      "style": 0,
+      "name": "베이징 상공에서 전투를 벌인 병기와\n같은 기체야[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs04120100_MSG0041",
+      "style": 0,
+      "name": "즉, 지구를 습격한 외계인들이\n이 행성에도 있다는 거군[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs04120100_MSG0042",
+      "style": 0,
+      "name": "루도 타츠도 그들이 선주민이 아니라고 했어[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs04120100_MSG0043",
+      "style": 0,
+      "name": "그들은 이 행성에 온 지 얼마 안 됐어[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs04120100_MSG0044",
+      "style": 0,
+      "name": "우리를 쫓아온 건지\n아니면 단순한 우연인지[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs04120100_MSG0045",
+      "style": 0,
+      "name": "의도적으로 라이프를\n파괴하고 있던 걸로 봐서는[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs04120100_MSG0046",
+      "style": 0,
+      "name": "지구인에게 목적을 가지고\n접근한 것으로 볼 수 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs04120100_MSG0047",
+      "style": 0,
+      "name": "그들도 라이프의 의미를 알고 찾고 있는 건가[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs04120100_MSG0048",
+      "style": 0,
+      "name": "우리가 발견하지 못했을 뿐\n이미 파괴됐을 가능성은 있네[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs04120100_MSG0049",
+      "style": 0,
+      "name": "그렇다면 이렇게 대화할 수도 없지 않겠나[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs04120100_MSG0050",
+      "style": 0,
+      "name": "그거야 뭐, 그렇지……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs04120100_MSG0051",
+      "style": 0,
+      "name": "비공식이지만 그 밖에도 몇 건……[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs04120100_MSG0052",
+      "style": 0,
+      "name": "패스파인더 팀이\n외계인과 접촉했다는 보고도 있네[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs04120100_MSG0053",
+      "style": 0,
+      "name": "그 모든 게 그로우스라고 단정할 수는 없지만[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs04120100_MSG0054",
+      "style": 0,
+      "name": "앞으로는 방비를 더욱\n견고히 하는 편이 좋겠군[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs04120100_MSG0055",
+      "style": 0,
+      "name": "고생했다, 엘마\n계속해서 라이프 포인트 탐색을 부탁하지[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs04120100_MSG0056",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs04120100_MSG0057",
+      "style": 0,
+      "name": "우리에게 남겨진 시간은 적다[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs04120100_MSG0058",
+      "style": 0,
+      "name": "한시라도 빨리\n그것이 있는 장소를 찾아야 해[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs04120100_MSG9000",
+      "style": 0,
+      "name": "~ 블레이드 사령실 ~[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev020302_MSG0001",
+      "style": 1,
+      "name": "あっ……[ST:playername ]！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev020302_MSG0002",
+      "style": 1,
+      "name": "イライザさんを傷つけた奴\nやっぱりアレックスだったんだよ！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev020302_MSG0003",
+      "style": 1,
+      "name": "ねぇ……またあなたの力を貸して！\nお願い！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev020302_MSG0004",
+      "style": 1,
+      "name": "まずは詳しい話を\nイライザさんから聞いてみて！[ST:wait ]"
+    }
+  ]
+}

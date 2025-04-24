@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013902_MSG0001",
+      "style": 1,
+      "name": "외계인들에게 조심하라고 말해 준 건 나야!\n재미로 가는 사람만 없으면\n괜찮을 거야![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev013902_MSG0002",
+      "style": 1,
+      "name": "그것보다\n일라이자 씨는 대단하지?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev013902_MSG0003",
+      "style": 1,
+      "name": "외계인과의 가교 역할을\n해 줄 분이라고 확신해[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev013902_MSG0004",
+      "style": 1,
+      "name": "모든 사람이 평등해진다니\n정말 좋은 일이지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev013902_MSG0005",
+      "style": 1,
+      "name": "다툼이 없어지고 싸우다 다치는 사람도\n죽는 사람도 없어지는 거잖아[ST:wait ]"
+    }
+  ]
+}

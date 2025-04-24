@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs99110150_MSG0001",
+      "style": 0,
+      "name": "린 씨, 타츠는 와일드한 노폰이\n되려고 한다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs99110150_MSG0002",
+      "style": 0,
+      "name": "흐음~[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs99110150_MSG0003",
+      "style": 0,
+      "name": "블레이드에 협력하는 이상\n겉모습도 잘 가꾸고 싶다모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs99110150_MSG0004",
+      "style": 0,
+      "name": "그렇구나~[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs99110150_MSG0005",
+      "style": 0,
+      "name": "린 씨, 전혀 흥미가 없어 보인다모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs99110150_MSG0006",
+      "style": 0,
+      "name": "그렇지 않아~[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs99110150_MSG0007",
+      "style": 0,
+      "name": "맞다! 태닝을 해 보는 건 어때?\n여자들한테 인기가 많아질지도 몰라![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs99110150_MSG0008",
+      "style": 0,
+      "name": "타츠에게 딱 맞는 선 오일을 갖고 있으니까\n발라 줄게![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs99110150_MSG0009",
+      "style": 0,
+      "name": "그, 그렇게까지 말한다면 부탁하겠다모~[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs99110150_MSG0010",
+      "style": 0,
+      "name": "린 씨, 고맙다모![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs99110150_MSG0011",
+      "style": 0,
+      "name": "그런데 이 오일\n뭔가 달콤하고 좋은 향기가 난다모![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs99110150_MSG0012",
+      "style": 0,
+      "name": "그냥 벌꿀이니까 신경 쓰지 마[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs99110150_MSG0013",
+      "style": 0,
+      "name": "맛있는 치킨 소테를 만들려면\n잘 재워 두는 게 중요하거든~~♪[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs99110150_MSG0014",
+      "style": 0,
+      "name": "리, 리, 리, 리, 린 씨\n타츠는 닭고기가 아니다모~~![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs99110150_MSG0015",
+      "style": 0,
+      "name": "미안~ 착각했어![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs99110150_MSG0016",
+      "style": 0,
+      "name": "일부러다모!\n분명 일부러 그런 거다모~~![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs99110150_MSG0017",
+      "style": 0,
+      "name": "요리 완성입니다~![ST:wait ]"
+    }
+  ]
+}

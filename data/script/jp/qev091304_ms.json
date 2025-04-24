@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091304_MSG0001",
+      "style": 0,
+      "name": "ここのデータプローブも[ST:wide ]―\n地面に出ていますね[ST:wide ]―　やっぱり[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091304_JNK0010",
+      "style": 4,
+      "name": "同意する"
+    },
+    {
+      "$id": 3,
+      "label": "qev091304_SEL0011",
+      "style": 3,
+      "name": "誰かが意図的に掘り出したに\n違いないと同意する"
+    },
+    {
+      "$id": 4,
+      "label": "qev091304_JNK0020",
+      "style": 4,
+      "name": "指摘する"
+    },
+    {
+      "$id": 5,
+      "label": "qev091304_SEL0021",
+      "style": 3,
+      "name": "ここは最初に来た場所だと指摘する"
+    },
+    {
+      "$id": 6,
+      "label": "qev091304_MSG0002",
+      "style": 0,
+      "name": "ですよね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091304_MSG0003",
+      "style": 0,
+      "name": "[ST:wide ]―あれ？\nここって最初に来た場所ですよね！？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091304_MSG0004",
+      "style": 0,
+      "name": "あっ！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091304_MSG0005",
+      "style": 0,
+      "name": "ホントだ[ST:wide ]―\nここって最初に来た場所だったんですね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091304_MSG0006",
+      "style": 0,
+      "name": "すみません　間違えてしまいました[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091304_MSG0007",
+      "style": 0,
+      "name": "兄さんにもつまらないミスをするな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091304_MSG0007_02",
+      "style": 0,
+      "name": "しっかり確認しろ　と\n昔よく言われたんですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091304_MSG0008",
+      "style": 0,
+      "name": "ボクはいつまで経っても進歩しないですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091304_JNK0030",
+      "style": 4,
+      "name": "慰める"
+    },
+    {
+      "$id": 15,
+      "label": "qev091304_SEL0031",
+      "style": 3,
+      "name": "ミスは誰にでもある\n気にするなと慰める"
+    },
+    {
+      "$id": 16,
+      "label": "qev091304_JNK0040",
+      "style": 4,
+      "name": "叱る"
+    },
+    {
+      "$id": 17,
+      "label": "qev091304_SEL0041",
+      "style": 3,
+      "name": "任務中はもっと冷静に慎重になるべきと叱る"
+    },
+    {
+      "$id": 18,
+      "label": "qev091304_JNK0050",
+      "style": 4,
+      "name": "助言する"
+    },
+    {
+      "$id": 19,
+      "label": "qev091304_SEL0051",
+      "style": 3,
+      "name": "この失敗を忘れなければ\n進歩はできるとアドバイスする"
+    },
+    {
+      "$id": 20,
+      "label": "qev091304_MSG0009",
+      "style": 0,
+      "name": "ありがとうございます[ST:wide ]―\n寛大な心に感謝です[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091304_MSG0010",
+      "style": 0,
+      "name": "次は絶対に間違えないようにします[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091304_MSG0011",
+      "style": 0,
+      "name": "[ST:wide ]―そうですよね　一つの失敗が\n命を危険にさらすこともあるんですから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091304_MSG0012",
+      "style": 0,
+      "name": "ありがとうございます[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091304_MSG0013",
+      "style": 0,
+      "name": "この失敗を胸に刻み　成長するためにも\n毎日寝る前に反省することにします[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091304_MSG0014",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091304_MSG0015",
+      "style": 0,
+      "name": "ここにいても仕方がありませんね\n本来の目的地に行きましょう[ST:wait ]"
+    }
+  ]
+}

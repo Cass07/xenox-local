@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00100100_MSG0001",
+      "style": 0,
+      "name": "遠くで見るよりもずっと大きいでしょう[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs00100100_MSG0002",
+      "style": 0,
+      "name": "居住ユニットと言っても\n恒星間都市移民船の一部よ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs00100100_MSG0003",
+      "style": 0,
+      "name": "地上に移せば　これだけの巨大施設になる[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00100100_MSG0004",
+      "style": 0,
+      "name": "あれが　ウエストゲート[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs00100100_MSG0005",
+      "style": 0,
+      "name": "今は安全のために封鎖されているから[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs00100100_MSG0006",
+      "style": 0,
+      "name": "左脇の仮設エレベーターに乗って\n居住ユニットの中に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs00100100_MSG0007",
+      "style": 0,
+      "name": "ルプス　こんな街の近くまで[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs00100100_MSG0008",
+      "style": 0,
+      "name": "居住ユニットには非戦闘員もいる\n中に入られる前にここで斃してしまいたい[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs00100100_MSG0009",
+      "style": 0,
+      "name": "力を貸して！[ST:wait ]\n"
+    }
+  ]
+}

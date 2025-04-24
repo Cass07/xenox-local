@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001811_MSG0010",
+      "style": 1,
+      "name": "선배, 저 알고 있어요!\n최근에 NLA에서 화제인 영웅님과\n여기저기 모험하고 있다고![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001811_MSG0020",
+      "style": 1,
+      "name": "치사해요~\n저도 데려가 주세요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001811_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 4,
+      "label": "tev001811_SEL0040",
+      "style": 3,
+      "name": "미아를 멤버에 넣는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001811_MSG0050",
+      "style": 1,
+      "name": "선배라면\n그렇게 말해 줄 줄 알았어요!\n자, 출발하자고요![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001811_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001811_SEL0070",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001811_MSG0080",
+      "style": 1,
+      "name": "흥~! 선배는 쪼잔해……[ST:wait ]"
+    }
+  ]
+}

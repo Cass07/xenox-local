@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091204_MSG0001",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091204_MSG0002",
+      "style": 0,
+      "name": "포그…… 난 참을성이 별로 없어\n너도 알지?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091204_MSG0003",
+      "style": 0,
+      "name": "응, 중학생 때 설교 듣는 와중에\n괜히 대들었다가 설교 시간만 늘었잖아[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091204_MSG0004",
+      "style": 0,
+      "name": "바로 그거야, 난 군인이 된 후로\n영창을 13번 드나들었어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091204_MSG0005",
+      "style": 0,
+      "name": "그중 6번은 동료를 구하려고\n명령을 위반했다는 이유에서였지만……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091204_MSG0006",
+      "style": 0,
+      "name": "2번은 상관이 말을 너무 많이 해서 날뛴 탓이거든[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091204_MSG0007",
+      "style": 0,
+      "name": "무슨 어린애도 아니고……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091204_MSG0008",
+      "style": 0,
+      "name": "나머지 5번은?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091204_MSG0009",
+      "style": 0,
+      "name": "음주 관련 문제였어, 어른의 특권이지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091204_MSG0010",
+      "style": 0,
+      "name": "……다음에는 회수할 수 있도록 노력할게[ST:wait ]"
+    }
+  ]
+}

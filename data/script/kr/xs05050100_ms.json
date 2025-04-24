@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05050100_MSG0001",
+      "style": 0,
+      "name": "까끌 모래 골짜기에 도착이다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs05050100_MSG0001_1",
+      "style": 0,
+      "name": "망각의 계곡이잖아[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs05050100_MSG0001_2",
+      "style": 0,
+      "name": "망각의 계곡?\n그게 뭔가모?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs05050100_MSG0001_3",
+      "style": 0,
+      "name": "이 대륙 이름이야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs05050100_MSG0001_4",
+      "style": 0,
+      "name": "무슨 말을 하는 건가모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs05050100_MSG0001_5",
+      "style": 0,
+      "name": "여기는 모래 폭풍이 거세게 불어서\n여행자들의 시야를 빼앗는 대지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs05050100_MSG0001_6",
+      "style": 0,
+      "name": "까끌 모래 골짜기라는[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs05050100_MSG0001_7",
+      "style": 0,
+      "name": "선조님이 붙인\n유서 깊은 이름이 있다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs05050100_MSG0001_8",
+      "style": 0,
+      "name": "선주민에게 말도 없이\n이상한 이름을 붙이지 말아 줬으면 한다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs05050100_MSG0001_9",
+      "style": 0,
+      "name": "미, 미안해[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs05050100_MSG0001_10",
+      "style": 0,
+      "name": "반성하고 있는 것 같으니\n이번만은 용서해 주겠다모[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs05050100_MSG0001_11",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "xs05050100_MSG0001_12",
+      "style": 0,
+      "name": "아무것도 없어……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs05050100_MSG0002",
+      "style": 0,
+      "name": "이상하네\n아무리 비교 대상이 없었다고는 해도[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs05050100_MSG0003",
+      "style": 0,
+      "name": "보이지 않을 정도로\n작지는 않을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs05050100_MSG0004",
+      "style": 0,
+      "name": "그러니까요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs05050100_MSG0005",
+      "style": 0,
+      "name": "앗, 엘마 씨 저기[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs05050100_MSG0006",
+      "style": 0,
+      "name": "처음 보는 외계인이네[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs05050100_MSG0007",
+      "style": 0,
+      "name": "잠시만요\n대화를 들을 수 있을 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs05050100_MSG0008",
+      "style": 0,
+      "name": "무리양!\n그러니까 우리끼리는 안 된다고 했는뎅![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs05050100_MSG0009",
+      "style": 0,
+      "name": "이제 와서 그런 말을 해 봤자 소용없엉![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs05050100_MSG0010",
+      "style": 0,
+      "name": "우리가 어떻게 하지 않으면 우주선 사람들잉![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs05050100_MSG0011",
+      "style": 0,
+      "name": "하지만, 하지만 어떻게 포대를 부술 거양?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs05050100_MSG0012",
+      "style": 0,
+      "name": "분명 그로우스 병사도\n잔뜩 있을 거라공!?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs05050100_MSG0013",
+      "style": 0,
+      "name": "그로우스 병사는 아닌 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs05050100_MSG0014",
+      "style": 0,
+      "name": "대화를 들어 보니\n아무래도 적대 관계인 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs05050100_MSG0015",
+      "style": 0,
+      "name": "타츠는 알고 있다모\n분명 마 논인인가 하는 녀석들이다모[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs05050100_MSG0016",
+      "style": 0,
+      "name": "당신들이 오기 1년 전쯤에\n이 행성에 온 녀석들이다모[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs05050100_MSG0017",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "xs05050100_MSG0018",
+      "style": 0,
+      "name": "왜 그러세요?\n뭔가 이상한 점이라도 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs05050100_MSG0019",
+      "style": 0,
+      "name": "그게……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs05050100_MSG0020",
+      "style": 0,
+      "name": "타츠뿐만이 아니라 그로우스와 저 외계인들까지\n어떻게 대화를 할 수 있는 건지 신기해서[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs05050100_MSG0021",
+      "style": 0,
+      "name": "아, 그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs05050100_JNK0010",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 35,
+      "label": "xs05050100_SEL0011",
+      "style": 3,
+      "name": "지구 언어가 통하고 있다고 말한다"
+    },
+    {
+      "$id": 36,
+      "label": "xs05050100_JNK0020",
+      "style": 4,
+      "name": "억측"
+    },
+    {
+      "$id": 37,
+      "label": "xs05050100_SEL0021",
+      "style": 3,
+      "name": "번역기의 존재를 강하게 주장한다"
+    },
+    {
+      "$id": 38,
+      "label": "xs05050100_MSG0022",
+      "style": 0,
+      "name": "그럴까……?\n타츠는 우리 말을 알고 있어?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs05050100_MSG0023",
+      "style": 0,
+      "name": "어쩌면 그럴지도 모르겠네요[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs05050100_MSG0024",
+      "style": 0,
+      "name": "하지만 우리는 타츠와 대화할 때\n단말기를 쓰지 않잖아[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs05050100_MSG0025",
+      "style": 0,
+      "name": "타츠는 지구 언어를 알고 있는 거예요[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs05050100_MSG0026",
+      "style": 0,
+      "name": "타츠는 우리 말을 알고 있어?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs05050100_MSG0027",
+      "style": 0,
+      "name": "모른다모[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs05050100_MSG0028",
+      "style": 0,
+      "name": "그럼 어디 말로 말하고 있는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs05050100_MSG0029",
+      "style": 0,
+      "name": "그야 당연히 노폰어다모\n다들 노폰어 잘한다모![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs05050100_MSG0030",
+      "style": 0,
+      "name": "들었지?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs05050100_MSG0031",
+      "style": 0,
+      "name": "체형과 골격이 다르면\n발성 기관의 구조도 달라져[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs05050100_MSG0032",
+      "style": 0,
+      "name": "외계인이 지구 언어를 발성하긴 어려울 거야[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs05050100_MSG0033",
+      "style": 0,
+      "name": "하지만 그래도 대화가 성립되고 있어[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs05050100_MSG0034",
+      "style": 0,
+      "name": "발성할 수 없는데 대화가 가능하다니\n그런 건 말도 안 돼요[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs05050100_MSG0035",
+      "style": 0,
+      "name": "평범하게 생각하면 그렇지[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs05050100_MSG0036",
+      "style": 0,
+      "name": "하지만 만약 언어를\n소리로서 지각하고 있는 게 아니라[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs05050100_MSG0037",
+      "style": 0,
+      "name": "의사로서 인식하고 있다고 하면[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs05050100_MSG0038",
+      "style": 0,
+      "name": "그걸 가능하게 하는 무언가가\n이 행성에 있다고 한다면……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs05050100_MSG0039",
+      "style": 0,
+      "name": "엘마 씨, 왠지 기뻐 보이네요[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs05050100_MSG0040",
+      "style": 0,
+      "name": "이런 현상을 밝혀내는 거\n즐거울 것 같지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs05050100_MSG0041",
+      "style": 0,
+      "name": "지적 호기심을 자극한다는 거지[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs05050100_MSG0042",
+      "style": 0,
+      "name": "왠지 루 씨 같네요\n의외예요[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs05050100_MSG0043",
+      "style": 0,
+      "name": "그런 것보다\n자, 빨리 가자모![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs05050100_MSG0044",
+      "style": 0,
+      "name": "빨리 가서 도와주고\n타츠가 용사로서 숭배받도록 하는 거다모![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs05050100_MSG0045",
+      "style": 0,
+      "name": "이 녀석은……\n슬슬 먹어 버릴까 보다[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs05050100_MSG0046",
+      "style": 0,
+      "name": "모, 모모모~![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs05050100_MSG0047",
+      "style": 0,
+      "name": "그들을 도와줄 수 있을지는 모르지만\n우선 이야기를 들어 보자[ST:wait ]"
+    }
+  ]
+}

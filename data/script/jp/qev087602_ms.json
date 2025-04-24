@@ -1,0 +1,306 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087602_MSG0001",
+      "style": 0,
+      "name": "あそこにラースの人達がいるみたいですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087602_MSG0002",
+      "style": 0,
+      "name": "なんだか　警戒してるですも\n近づいたら　撃たれちゃいそうですも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087602_MSG0003",
+      "style": 0,
+      "name": "ここは先制攻撃ですも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087602_MSG0004",
+      "style": 0,
+      "name": "私達は友好関係を結びに来たのよ\n敵意のないところを正直に伝えましょう[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087602_MSG0005",
+      "style": 0,
+      "name": "何者だ　止まれ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087602_MSG0006",
+      "style": 0,
+      "name": "ここをガ・デルグ殿下の出城と\n知って踏み入るか[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087602_MSG0007",
+      "style": 0,
+      "name": "もちろん　承知しているわ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087602_MSG0008",
+      "style": 0,
+      "name": "ガ・デルグ殿下にお会いしたい\nとりついでもらえるかしら[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087602_MSG0009",
+      "style": 0,
+      "name": "殊勝な態度だな[ST:wide ]―\nだが　信用などできん[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087602_MSG0010",
+      "style": 0,
+      "name": "あなたは確か[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087602_MSG0011",
+      "style": 0,
+      "name": "ガ・デルグ殿下のお側仕え\nガ・ボウ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087602_MSG0012",
+      "style": 0,
+      "name": "私達　殿下へのお手紙持ってきたんです\n通してください！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087602_MSG0013",
+      "style": 0,
+      "name": "我らラース人が置かれた状況を\n知っているか　地球人[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087602_MSG0014",
+      "style": 0,
+      "name": "グロウスから離反したと聞いているわ\nだからこそ　私達はここへ来た[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087602_MSG0015",
+      "style": 0,
+      "name": "離反したことそのものは殿下の判断であるが故\n異議など唱えるつもりはない[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087602_MSG0016",
+      "style": 0,
+      "name": "だが　お前達は殿下に余計なことを吹き込む[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087602_MSG0017",
+      "style": 0,
+      "name": "お目通りさせたくない[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087602_JNK0010",
+      "style": 4,
+      "name": "反論"
+    },
+    {
+      "$id": 19,
+      "label": "qev087602_SEL0011",
+      "style": 3,
+      "name": "伝えるのは重要な話だと説く"
+    },
+    {
+      "$id": 20,
+      "label": "qev087602_JNK0020",
+      "style": 4,
+      "name": "感情"
+    },
+    {
+      "$id": 21,
+      "label": "qev087602_SEL0021",
+      "style": 3,
+      "name": "交渉もできないのかと呆れる"
+    },
+    {
+      "$id": 22,
+      "label": "qev087602_MSG0018",
+      "style": 0,
+      "name": "そう　私達は互いのためになると思って\n交渉を持ちかけている[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087602_MSG0019",
+      "style": 0,
+      "name": "互いのためというのも　お前達の考えにすぎん[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087602_MSG0020",
+      "style": 0,
+      "name": "交渉というのは大事なものですも[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087602_MSG0021",
+      "style": 0,
+      "name": "ノポン人か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087602_MSG0022",
+      "style": 0,
+      "name": "お前達のように　全てを金に置き換える\n生き方など我らにできるものか[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087602_JNK0030",
+      "style": 4,
+      "name": "強気"
+    },
+    {
+      "$id": 28,
+      "label": "qev087602_SEL0031",
+      "style": 3,
+      "name": "判断はデルグがすべきと凄む"
+    },
+    {
+      "$id": 29,
+      "label": "qev087602_JNK0040",
+      "style": 4,
+      "name": "弱気"
+    },
+    {
+      "$id": 30,
+      "label": "qev087602_SEL0041",
+      "style": 3,
+      "name": "聞くだけ聞いて欲しいと頼む"
+    },
+    {
+      "$id": 31,
+      "label": "qev087602_MSG0023",
+      "style": 0,
+      "name": "そうです！\nせめて殿下に聞いてみてくださいよ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev087602_MSG0024",
+      "style": 0,
+      "name": "不要だ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev087602_MSG0024_2",
+      "style": 0,
+      "name": "殿下のお心をお前達に乱させるわけにはいかん[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087602_MSG0025",
+      "style": 0,
+      "name": "私達の考えが理解してもらえるまで\nあきらめません！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087602_MSG0026",
+      "style": 0,
+      "name": "くだらんな\n言葉など無力だ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev087602_MSG0027",
+      "style": 0,
+      "name": "この荒れ果てた大地にて\n意味を持つのは力のみ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev087602_MSG0028",
+      "style": 0,
+      "name": "おのが意志を通したければ\n実力にてその権利を勝ち取ってみせよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev087602_MSG0029",
+      "style": 0,
+      "name": "それがラースの流儀！[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev087602_JNK0050",
+      "style": 4,
+      "name": "承諾"
+    },
+    {
+      "$id": 40,
+      "label": "qev087602_SEL0051",
+      "style": 3,
+      "name": "力で決着だと武器を構える"
+    },
+    {
+      "$id": 41,
+      "label": "qev087602_JNK0060",
+      "style": 4,
+      "name": "拒否"
+    },
+    {
+      "$id": 42,
+      "label": "qev087602_SEL0061",
+      "style": 3,
+      "name": "戦う意志は無いことを伝える"
+    },
+    {
+      "$id": 43,
+      "label": "qev087602_MSG0030",
+      "style": 0,
+      "name": "やめてください！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev087602_MSG0031",
+      "style": 0,
+      "name": "いいえ　これが正しい選択かもしれない[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev087602_MSG0032",
+      "style": 0,
+      "name": "いいえ　それは無理のようね[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev087602_MSG0033",
+      "style": 0,
+      "name": "エルマさん[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev087602_MSG0034",
+      "style": 0,
+      "name": "私達は客人よ\nこれがラースの流儀というのなら従いましょう[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev087602_MSG0035",
+      "style": 0,
+      "name": "気に入ったぞ　地球人[ST:wait ]"
+    }
+  ]
+}

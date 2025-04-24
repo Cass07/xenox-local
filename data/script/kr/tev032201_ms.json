@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev032201_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev032201_SEL0011",
+      "style": 3,
+      "name": "마 논인의 기술에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev032201_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev032201_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev032201_SEL0031",
+      "style": 3,
+      "name": "습격의 피해에 관해 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev032201_SEL0041",
+      "style": 3,
+      "name": "언어에 관해 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev032201_MSG0001",
+      "style": 1,
+      "name": "마 논인의 기술력은 그로우스도 탐내는\n천하제일 우주 최고잖앙![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev032201_MSG0002",
+      "style": 1,
+      "name": "응? 그 얼굴…… 천하태평 마 논인이\n고도의 기술을 갖고 있는 게 이상하다는 거양?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev032201_MSG0003",
+      "style": 1,
+      "name": "쯧쯧쯧, 한번 만들어 버리면\n그 작업을 내 손으로 안 해도 되잖앙!\n움직이고 싶지 않잖앙!![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev032201_MSG0004",
+      "style": 1,
+      "name": "천하태평이기에\n기술로 모든 걸 커버하는 거잖앙!\n예이! 최고잖앙!![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev032201_MSG0008",
+      "style": 1,
+      "name": "그로우스의 기술력도\n상당히 하이 레벨이잖앙?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev032201_MSG0009",
+      "style": 1,
+      "name": "찬스가 있으면 조사해 보고 싶넹[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev032201_MSG0010",
+      "style": 1,
+      "name": "하지만 녀석들의 기술은 대부분이 무기……\n우리는 무기를 싫어하니까\n조금 무서웡……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev032201_MSG0016",
+      "style": 1,
+      "name": "라라가 마음에 들어 한 남자가\n습격 때 죽어 버렸엉……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev032201_MSG0017",
+      "style": 1,
+      "name": "그래서 라라에게 맛있는 음식이나\n예쁜 꽃 같은 걸 줬엉[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev032201_MSG0018",
+      "style": 1,
+      "name": "레이디는 그런 걸 좋아한다고\n라라가 항상 말했으니까[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev032201_MSG0019",
+      "style": 1,
+      "name": "매일 누운 채로 눈에서 물이 계속 나오면\n언젠가 잠겨 버리잖앙![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev032201_MSG0020",
+      "style": 1,
+      "name": "전부터 신기하다고 생각했는데……\n너희 지구인은 마 논어를 아주 잘하넹[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev032201_MSG0021",
+      "style": 1,
+      "name": "……응?\n마 논어로 말하고 있는 게 아니양?\n그게 뭐야! 스트레인지![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev032201_MSG0022",
+      "style": 1,
+      "name": "발성 기관이 다를 테니까\n같은 언어를 구사하는 건 무리겠구낭[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev032201_MSG0023",
+      "style": 1,
+      "name": "흠…… 어떻게 말을 이해할 수 있는지\n전혀 모르겠넹…… 찜찜행……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev032201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev032201_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev032201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev032201_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev032201_MSG0011",
+      "style": 1,
+      "name": "무기가 무섭다고 말할 상황이 아니넹!\n계속계속 만들어서 너희가 싸워 주고\n그렇게 빨리 평화로워졌으면 좋겠잖앙![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev032201_MSG0012",
+      "style": 1,
+      "name": "우리는 전투에 협력하는 것도\n조금 무섭지만……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev032201_MSG0013",
+      "style": 1,
+      "name": "그로우스의 뜻대로 하게 두면\n더 많은 사람이 계속 언해피하고 말이징![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev032201_MSG0014",
+      "style": 1,
+      "name": "그걸 알게 해 준\n[ST:playername ]에게 감사행![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev032201_MSG0015",
+      "style": 1,
+      "name": "……이런, 라라에게도\n감사하다고 말하지 않으면\n허그라는 기술을 당할 거양![ST:wait ]"
+    }
+  ]
+}

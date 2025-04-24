@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev066001_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev066001_SEL0011",
+      "style": 3,
+      "name": "ラースについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev066001_JNK0020",
+      "style": 4,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev066001_SEL0021",
+      "style": 3,
+      "name": "困っていることを尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev066001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev066001_SEL0031",
+      "style": 3,
+      "name": "グロウスについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev066001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev066001_SEL0041",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev066001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev066001_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev066001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev066001_SEL1021",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev066001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev066001_SEL1031",
+      "style": 3,
+      "name": "グロウスについて聞く[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev066001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev066001_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev066001_MSG0001",
+      "style": 1,
+      "name": "あなたは……地球人！？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev066001_MSG0002",
+      "style": 1,
+      "name": "我らがアジトに　何をしに来たのですか？\n報復ですか？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev066001_MSG0003",
+      "style": 1,
+      "name": "私達はもう　グロウスに与していない故\nあなたと戦う理由はありませんが……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev066001_MSG0004",
+      "style": 1,
+      "name": "降りかかる火の粉は　払うまでです！\nどうしました？　武器を取らないのですか！？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev066001_MSG0009",
+      "style": 1,
+      "name": "我らは誇り高き　ラースが末裔……\n例え　困窮していようと[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev066001_MSG0010",
+      "style": 1,
+      "name": "あなたのような異星人に\n力を借りようとは　思いません[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev066001_MSG0015",
+      "style": 1,
+      "name": "ただサマールの領土を広げるためだけに\n暗躍する　血も涙もなき非道な組織[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev066001_MSG0016",
+      "style": 1,
+      "name": "やむを得ぬ事情があったとはいえ\nその者達に加担し　悪行を重ねてきた罪\n決して　軽いものだとは思っていません[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev066001_MSG0017",
+      "style": 1,
+      "name": "いずれ　この命に代えても奴らを打ち倒し\n償わせていただきます[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev066001_MSG0021",
+      "style": 1,
+      "name": "ガ・デルグ様が　同盟を結ばれたのであれば\n我らはそれに従うのみ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev066001_MSG0022",
+      "style": 1,
+      "name": "我らラース三傑衆は　ひとたび\nグロウスとの戦になれば　獅子奮迅の働きで\n奴らを殲滅してやりましょう[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev066001_MSG0023",
+      "style": 1,
+      "name": "どうぞ　期待していてください\nあなたとの違いを　戦場で見せてやりますよ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev066001_MSG1001",
+      "style": 1,
+      "name": "[ST:playername ]さん\n憎きクイーン・ハスタラとの戦い\n実に見事でした[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev066001_MSG1002",
+      "style": 1,
+      "name": "ラースの中にあっても　あなたのような\n凄まじい戦人は見たことがありませんよ……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev066001_MSG1003",
+      "style": 1,
+      "name": "あなたと共に戦えたこと　光栄に思います\nいずれまたどこかの戦場で会いましょう[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev066001_MSG1004",
+      "style": 1,
+      "name": "その際は　ラース三傑衆が\n疾風のダ・ナグテ……\n必ずやこの刀で　あなたを助けてみせます[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev066001_MSG1009",
+      "style": 1,
+      "name": "あやつらに加担し　数々の異星人を\n虐げて来た我々こそが　グロウスを滅して[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev066001_MSG1010",
+      "style": 1,
+      "name": "罪を償わなければならなかったというのに……\n真に　かたじけないです[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev066001_MSG1011",
+      "style": 1,
+      "name": "いまだ黒鋼の大陸などには　残党が多く\n残っていると聞きますし[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev066001_MSG1012",
+      "style": 1,
+      "name": "せめて残りの連中を駆逐する役目くらいは\n我らラースが　果たしていきたいと思います　[ST:wait ]"
+    }
+  ]
+}

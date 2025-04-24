@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999906_JNK0020",
+      "style": 4,
+      "name": "ユニオンサポート[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev999906_SEL0021",
+      "style": 3,
+      "name": "ユニオンからの支援を受ける[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev999906_JNK0030",
+      "style": 4,
+      "name": "バトルメンバーに加える[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999906_SEL0031",
+      "style": 3,
+      "name": "活動中のブレイド隊員[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999906_MSG0001",
+      "style": 1,
+      "name": "よっ　お疲れ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999906_MSG0101",
+      "style": 1,
+      "name": "よっ　がんばってるか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999906_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999906_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999906_MSG2001",
+      "style": 1,
+      "name": "わかった\n戦闘支援なら俺のユニオンに任せろ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999906_MSG2101",
+      "style": 1,
+      "name": "わかってる\nユニオンからの支援だろ？\nもう要請しといたよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999906_MSG3001",
+      "style": 1,
+      "name": "俺でよければ　力を貸すよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999906_MSG3101",
+      "style": 1,
+      "name": "さあ　行こうか[ST:wide ]―\nどこへでもついていくよ！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999906_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999906_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999906_MSG5001",
+      "style": 1,
+      "name": "ゴメンな\n今は別の任務があるんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999906_MSG5101",
+      "style": 1,
+      "name": "ゴメンな\n今は手が離せないんだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev999906_MSG5102",
+      "style": 1,
+      "name": "また改めて声を掛けてくれよな[ST:wait ]"
+    }
+  ]
+}

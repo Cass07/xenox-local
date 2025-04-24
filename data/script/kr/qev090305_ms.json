@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090305_MSG0001",
+      "style": 0,
+      "name": "네…… 그렇습니다……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090305_MSG0002",
+      "style": 0,
+      "name": "현안 과제였던 임시 기억은\n안정 영역에 도달했습니다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090305_MSG0003",
+      "style": 0,
+      "name": "또한 제삼자의 협력 덕분에\n인격 고정화도 성공한 것으로 보입니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090305_MSG0004",
+      "style": 0,
+      "name": "이후, 이것을 오리지널로 삼고\n양산 중인 J 보디에 기본값으로 설정하면……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090305_MSG0005",
+      "style": 0,
+      "name": "네…… 알겠습니다……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090305_MSG0006",
+      "style": 0,
+      "name": "지금부터 계획을 제2단계로 이행합니다[ST:wait ]"
+    }
+  ]
+}

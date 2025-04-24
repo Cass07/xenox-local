@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001292_MSG0001",
+      "style": 1,
+      "name": "왠지 놀고 싶어 하는 것 같아서\n이 아이를 산책시키러 왔는데……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001292_MSG0002",
+      "style": 1,
+      "name": "후훗, 얼굴을 죄다 핥아대서\n끈적끈적해졌어요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001292_MSG0003",
+      "style": 1,
+      "name": "정말 귀여워요!\n이 아이가 오고 블레이드 홈도\n떠들썩해졌잖아요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001292_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 5,
+      "label": "tev001292_SEL0011",
+      "style": 3,
+      "name": "돌아오는 게 기대된다며\n웃으면서 끄덕인다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001292_JNK0020",
+      "style": 4,
+      "name": "고생"
+    },
+    {
+      "$id": 7,
+      "label": "tev001292_SEL0021",
+      "style": 3,
+      "name": "돌보기 힘들다고\n현실적인 이야기를 한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001292_MSG0004",
+      "style": 1,
+      "name": "이 아이도 정말 좋은가 봐요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001292_MSG0005",
+      "style": 1,
+      "name": "[ST:playername ] 씨가 돌아오면\n꼬리를 붕붕 흔들면서 신나게 뛰어다니잖아요![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001292_MSG0006",
+      "style": 1,
+      "name": "그만큼 이 아이를\n신경 쓰고 있다는 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001292_MSG0007",
+      "style": 1,
+      "name": "털 정리부터 양치질까지\n항상 세심하게 해 주니까……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001292_MSG0008",
+      "style": 1,
+      "name": "[ST:playername ] 씨는 이 아이를\n정말 사랑하고 있구나 하고 감탄했어요![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001292_MSG0009",
+      "style": 1,
+      "name": "아~ 그렇지!\n다음에 이 아이에게 재주를 가르쳐 봐요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001292_MSG0010",
+      "style": 1,
+      "name": "분명 [ST:playername ] 씨 말이라면\n바로 알아들을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001292_MSG0011",
+      "style": 1,
+      "name": "저기, 어떤 걸 가르치고 싶어요?\n역시 처음으로 가르칠 만한 건\n『손』 같은 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001292_JNK0030",
+      "style": 4,
+      "name": "손!"
+    },
+    {
+      "$id": 17,
+      "label": "tev001292_SEL0031",
+      "style": 3,
+      "name": "강아지를 향해 「손!」 하고\n손을 뻗는다"
+    },
+    {
+      "$id": 18,
+      "label": "tev001292_JNK0040",
+      "style": 4,
+      "name": "공중 돌기"
+    },
+    {
+      "$id": 19,
+      "label": "tev001292_SEL0041",
+      "style": 3,
+      "name": "공중에서 한 바퀴 도는 고도의 기술에\n도전하게 해야 한다고 말한다"
+    },
+    {
+      "$id": 20,
+      "label": "tev001292_JNK0050",
+      "style": 4,
+      "name": "손! (린)"
+    },
+    {
+      "$id": 21,
+      "label": "tev001292_SEL0051",
+      "style": 3,
+      "name": "린을 향해 「손!」 하고\n손을 뻗는다"
+    },
+    {
+      "$id": 22,
+      "label": "tev001292_MSG0012",
+      "style": 1,
+      "name": "후훗! 이상하다는 표정으로\n우리를 보고 있어요![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001292_MSG0013",
+      "style": 1,
+      "name": "식사 시간 같은 때에 매일 꾸준히\n가르쳐야 한대요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001292_MSG0014",
+      "style": 1,
+      "name": "같이 열심히 「손」을 가르쳐 주자고요\n이 아이는 머리가 좋으니까 분명 금방 배울 거예요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001292_MSG0015",
+      "style": 1,
+      "name": "좋은 생각이네요!\n역시 돌이든 재주 부리기든\n하늘을 난다는 건 좋은 거니까요![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001292_MSG0016",
+      "style": 1,
+      "name": "……좋았어, 그러면 제가 NLA에 있는 \n전직 브리더분에게 이런저런 이야기를 듣고 올게요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001292_MSG0017",
+      "style": 1,
+      "name": "[ST:playername ] 씨도\n이 난이도 S급의 기술을 가르치는 데\n필요한 것을 철저히 조사해 주세요![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001292_MSG0018",
+      "style": 1,
+      "name": "꼭이에요! 우리의 힘으로 반드시\n이 아이가 하늘을 날게 만들어 봐요![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001292_MSG0019",
+      "style": 1,
+      "name": "……후훗, 저 왠지 불타오르기 시작했어요![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001292_MSG0020",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001292_MSG0021",
+      "style": 1,
+      "name": "……저한테 말고요!\n이 아이에게 가르치자는 말이에요![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001292_MSG0022",
+      "style": 1,
+      "name": "설마 저를 펫처럼 생각하는 건가요!?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001292_MSG0023",
+      "style": 1,
+      "name": "정말이지~ 몰라요!\nROSE MOSS에서 크레이프를 사 줄 때까지\n아무 말도 안 할 거예요![ST:wait ]"
+    }
+  ]
+}

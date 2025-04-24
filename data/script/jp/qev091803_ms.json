@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091803_MSG0001",
+      "style": 0,
+      "name": "デイル・ギボン[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091803_MSG0002",
+      "style": 0,
+      "name": "姿が変わってもわかるわ　ヘドが出るくらい\n汚れた空気が取り巻いてるもの[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091803_MSG0003",
+      "style": 0,
+      "name": "その名で呼ばれるのは久々だな\nようやく見つけてくれたか　お嬢様[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091803_MSG0004",
+      "style": 0,
+      "name": "俺は熱心にラブコールを送ってたのに\nちっとも気付きやしなかったよな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091803_MSG0005",
+      "style": 0,
+      "name": "冗談でしょ　あなたの殺気に気付けない程\n私は鈍感じゃない[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091803_MSG0006",
+      "style": 0,
+      "name": "私に気付いたのは最近のことね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091803_MSG0007",
+      "style": 0,
+      "name": "冴えてるねェ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091803_MSG0008",
+      "style": 0,
+      "name": "そうさ　まさかエフィンジャー家の娘が\n生きてるとは思ってなかったからなぁ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091803_MSG0009",
+      "style": 0,
+      "name": "それは私のセリフよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091803_MSG0010",
+      "style": 0,
+      "name": "死刑になるはずのあなたが\nどうしてここにいるの？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091803_MSG0011",
+      "style": 0,
+      "name": "刑務所の中にも腐ってる人間はいるのさ\n白鯨の中にもな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091803_MSG0012",
+      "style": 0,
+      "name": "死ぬのが怖くて逃げだしたのね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091803_MSG0013",
+      "style": 0,
+      "name": "当然さァ　俺は殺すのが専門であって\n死ぬのは専門じゃない[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091803_MSG0014",
+      "style": 0,
+      "name": "人でなしどもと取引し　コネを使い\n白鯨のクルーとなって生き延びたんだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091803_MSG0015",
+      "style": 0,
+      "name": "だが　[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]になって生きていくのは\n死も同然だった[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091803_MSG0016",
+      "style": 0,
+      "name": "周りの人間は知らないヤツばかり\n本当に人間なのかも怪しいもんさ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091803_MSG0017",
+      "style": 0,
+      "name": "高度なＡＩかもしれねェ\nあるいはよくできた人形か[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091803_MSG0018",
+      "style": 0,
+      "name": "俺はたった一人で\n生きているんじゃないかと思ったよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091803_MSG0019",
+      "style": 0,
+      "name": "意外とセンチメンタリストね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091803_MSG0020",
+      "style": 0,
+      "name": "だから人を殺すんだ\nマトモな感性じゃないからなァ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091803_MSG0021",
+      "style": 0,
+      "name": "で　アナクロニズムのあなたが\nどうして今頃殺人を？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091803_MSG0022",
+      "style": 0,
+      "name": "言っただろ？　周りは全部人形さ[ST:wide ]―\n殺す価値もないと思ってた[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091803_MSG0023",
+      "style": 0,
+      "name": "なるほど[ST:wide ]―　その時　私を見つけたのね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091803_MSG0024",
+      "style": 0,
+      "name": "あァ[ST:wide ]―\n生意気にも殺人者を名乗ってるふてぶてしい女[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091803_MSG0025",
+      "style": 0,
+      "name": "[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]になっても顔を見ればわかった\nそっくりだよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091803_MSG0026",
+      "style": 0,
+      "name": "あの時おもらしをして\nガタガタと震えていたお嬢様になぁ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091803_MSG0027",
+      "style": 0,
+      "name": "それから俺は希望が湧いてきたぜ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091803_MSG0028",
+      "style": 0,
+      "name": "エフィンジャー家のお嬢様を殺す\nっていう夢を見始めたんだ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091803_MSG0029",
+      "style": 0,
+      "name": "あなたの夢になれるなんて光栄ね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091803_MSG0030",
+      "style": 0,
+      "name": "だけど　あと数分もすれば\n私はあなたの悪夢になってるわ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091803_MSG0031",
+      "style": 0,
+      "name": "ヘっ[ST:wide ]―\nお供の人形共々いたぶり殺してやるよ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091803_MSG0032",
+      "style": 0,
+      "name": "こんなハズじゃぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091803_MSG0033",
+      "style": 0,
+      "name": "俺はお前が恐怖に震え絶望する姿を\n見たかっただけなのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091803_MSG0034",
+      "style": 0,
+      "name": "どう？　怖いかしら？\n死に追いやられるのは？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091803_MSG0035",
+      "style": 0,
+      "name": "こっ　殺すのか？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091803_MSG0036",
+      "style": 0,
+      "name": "自分のこれまでの行いを考えてみなさいよ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091803_MSG0037",
+      "style": 0,
+      "name": "[ST:wide ]―い　今まで殺人を\n起こしてこなかったんだろう？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091803_MSG0038",
+      "style": 0,
+      "name": "ここで殺人者[ST:wide ]―\nマードレスの名前の通りになっていいのか？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091803_MSG0039",
+      "style": 0,
+      "name": "[ST:wide ]―あなたのことは殺したくなる程憎んだ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091803_MSG0040",
+      "style": 0,
+      "name": "だけど皮肉にも　無力なお嬢様だった私を\n強くしたのは殺人者であるあなたの存在だった[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091803_MSG0041",
+      "style": 0,
+      "name": "その憎き名を冠して\n負の力を糧にここまで生きてこられたのよ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091803_MSG0042",
+      "style": 0,
+      "name": "なら[ST:wide ]―　俺を助けてくれるだろ？[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091803_MSG0043",
+      "style": 0,
+      "name": "お前が今　ここにいるのは\n俺のおかげなんだから[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091803_MSG0044",
+      "style": 0,
+      "name": "クソつまんない冗談を吐かないで[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091803_MSG0045",
+      "style": 0,
+      "name": "ここにいるのはエレオノーラや\nイリーナにあなた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091803_MSG0045_m",
+      "style": 0,
+      "name": "ここにいるのはエレオノーラや\nイリーナにあなた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091803_MSG0045_f",
+      "style": 0,
+      "name": "ここにいるのはエレオノーラや\nイリーナにあなた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091803_MSG0046",
+      "style": 0,
+      "name": "こんな私を信じてくれる人のおかげ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091803_JNK0010",
+      "style": 4,
+      "name": "感心"
+    },
+    {
+      "$id": 50,
+      "label": "qev091803_SEL0011",
+      "style": 3,
+      "name": "考え方を改めたことに感心する"
+    },
+    {
+      "$id": 51,
+      "label": "qev091803_JNK0020",
+      "style": 4,
+      "name": "確認"
+    },
+    {
+      "$id": 52,
+      "label": "qev091803_SEL0021",
+      "style": 3,
+      "name": "殺さなくていいのかと確認する"
+    },
+    {
+      "$id": 53,
+      "label": "qev091803_MSG0047",
+      "style": 0,
+      "name": "元々私は殺人者ではなかったでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091803_MSG0048",
+      "style": 0,
+      "name": "今回もそこから逸脱しない\nスレスレの方法をとるだけよ[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091803_MSG0049",
+      "style": 0,
+      "name": "殺したところで\nどうにもならないことはわかってるのよ[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091803_MSG0050",
+      "style": 0,
+      "name": "だったら今　後悔しない方法を選ぶわ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091803_MSG0051",
+      "style": 0,
+      "name": "私は手をくださない[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091803_MSG0052",
+      "style": 0,
+      "name": "でも　デイル・ギボンは死ぬのよ\nこのミラの大地でね[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091803_MSG0053",
+      "style": 0,
+      "name": "まさか[ST:wide ]―　こんな場所に放っていくのか？[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091803_MSG0054",
+      "style": 0,
+      "name": "何でもする命だけは助けてくれ[ST:wide ]―！！\nＮＬＡに連れ帰ってくれ！！[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091803_MSG0055",
+      "style": 0,
+      "name": "罪人であるあなたに元より帰る場所はないわ[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091803_MSG0056",
+      "style": 0,
+      "name": "さあ　イリーナのもとに帰りましょう[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091803_MSG0057",
+      "style": 0,
+      "name": "戻ってきてくれ！　シャロン！！[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev091803_MSG0058",
+      "style": 0,
+      "name": "確かに私はシャロン・Ｂ・エフィンジャー[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev091803_MSG0059",
+      "style": 0,
+      "name": "でもね　もう一つの夢を叶えるその時まで\n本当の名前は封印することに決めたの[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev091803_MSG0060",
+      "style": 0,
+      "name": "ぎゃぁぁぁぁっっ[ST:wide ]―！！[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev091803_MSG0061",
+      "style": 0,
+      "name": "ヤメろぉぉぉぉっ[ST:wide ]―！！[ST:wait ]"
+    }
+  ]
+}

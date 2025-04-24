@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev056101_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev056101_SEL0011",
+      "style": 3,
+      "name": "여기서 뭘 하고 있는지 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev056101_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev056101_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev056101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev056101_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev056101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev056101_SEL0041",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev056101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev056101_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev056101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev056101_SEL0061",
+      "style": 3,
+      "name": "소문에 관해 묻는다"
+    },
+    {
+      "$id": 13,
+      "label": "tev056101_MSG0001",
+      "style": 1,
+      "name": "그대가 사는 이 도시에 흥미가 생겨\n친히 와 본 것이노라모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev056101_MSG0002",
+      "style": 1,
+      "name": "정령은 사람들에게 직접 관여할 수 없으니\n여기서 지켜볼 수밖에 없노라만……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev056101_MSG0003",
+      "style": 1,
+      "name": "그대가 있다면 분명 언젠가\n평온한 도시가 될 터이노라모[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev056101_MSG0004",
+      "style": 1,
+      "name": "힘내서 고~ 고~이노라모~[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev056101_MSG0007",
+      "style": 1,
+      "name": "이 미라의 어딘가에\n나처럼 동그스름한 생물이 있노라모[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev056101_MSG0008",
+      "style": 1,
+      "name": "겉모습은 동그스름하나\n알맹이는 새까맣노라모\n만나면 조심해야 하노라모[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev056101_MSG0009",
+      "style": 1,
+      "name": "……어디 사는 누구인지\n알려 달라는 얼굴을 하고 있겠노라만……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev056101_MSG0010",
+      "style": 1,
+      "name": "세상의 비밀은 스스로 찾는 것이\n가장 즐거운 법이노라모[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev056101_MSG0011",
+      "style": 1,
+      "name": "그것은 그대가 누구보다도\n잘 알고 있지 않느뇨모?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev056101_MSG0012",
+      "style": 1,
+      "name": "힘내서 고~ 고~이노라모~[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev056101_MSG0026",
+      "style": 1,
+      "name": "그대, 나처럼 동그스름한 생물을\n만나고 온 모양이로구나모?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev056101_MSG0027",
+      "style": 1,
+      "name": "아아, 아니, 아니, 그게 누구인지는\n말하지 않아도 괜찮노라모[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev056101_MSG0028",
+      "style": 1,
+      "name": "그대의 덕으로 하나의 위협이\n사라졌다는 것만 알면 충분하노라모[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev056101_MSG0029",
+      "style": 1,
+      "name": "힘내 주어서 고맙노라모~[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev056101_MSG0045",
+      "style": 1,
+      "name": "이곳에 있을 리 없는 것이\n바로 근처에서 끽끽 소리를 내는구나모[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev056101_MSG0046",
+      "style": 1,
+      "name": "하나 나쁜 일은 하지 않을 성싶으니\n시끄러울 뿐이라면 문제는 없노라모[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev056101_MSG0047",
+      "style": 1,
+      "name": "그대의 덕으로 하나의 위협이\n잠잠해졌다는 것만 알면 충분하노라모[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev056101_MSG0048",
+      "style": 1,
+      "name": "힘내 주어서 고맙노라모~[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092501_MSG0001",
+      "style": 0,
+      "name": "역시 자네가 왔군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092501_MSG0002",
+      "style": 0,
+      "name": "날아다니는 돌 같은 비상식적인 물건을\n테스트하겠다고 나서는 굉장한 바보가……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092501_MSG0003",
+      "style": 0,
+      "name": "더그나 자네 말고 또 누가 있겠나[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092501_MSG0004",
+      "style": 0,
+      "name": "말이 심하네요, 반담 사령관님![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092501_MSG0005",
+      "style": 0,
+      "name": "물론 지금까지는 시험 비행 중에\n엔진이 살짝 대폭발을 일으키거나……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092501_MSG0006",
+      "style": 0,
+      "name": "폭주해서 바다까지 날아갔다가\n추락해 버리거나 했지만……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092501_MSG0007",
+      "style": 0,
+      "name": "그런 건 개발 과정에서\n흔히 있는 일이라고요![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092501_MSG0008",
+      "style": 0,
+      "name": "……그렇죠?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092501_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 10,
+      "label": "qev092501_SEL0011",
+      "style": 3,
+      "name": "흔히 있는 일이라며 끄덕인다"
+    },
+    {
+      "$id": 11,
+      "label": "qev092501_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 12,
+      "label": "qev092501_SEL0021",
+      "style": 3,
+      "name": "흔할 리가 없다며 고개를 흔든다"
+    },
+    {
+      "$id": 13,
+      "label": "qev092501_MSG0009",
+      "style": 0,
+      "name": "이봐, 린 곁에 있던 탓에 자네까지\n정신이 나가 버린 건가?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092501_MSG0010",
+      "style": 0,
+      "name": "더그도 요즘 투덜대면서도\n그 스릴에 빠져 버렸다는 둥[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092501_MSG0011",
+      "style": 0,
+      "name": "이해 못 할 소리를 떠들어 대던데……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092501_MSG0012",
+      "style": 0,
+      "name": "반담 사령관님은 과학의 진보를 위해 헌신하는\n고귀한 정신을 이해 못 하시네요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092501_MSG0013",
+      "style": 0,
+      "name": "그래그래……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092501_MSG0014",
+      "style": 0,
+      "name": "너무해요![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092501_MSG0014_2",
+      "style": 0,
+      "name": "두 분은 과학의 진보를 위해 헌신하는\n고귀한 정신을 이해 못 하시는군요![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092501_MSG0015",
+      "style": 0,
+      "name": "뭐, 그런 손해 보는 역할을 맡는 건\n더그 한 사람이면 충분해[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092501_MSG0016",
+      "style": 0,
+      "name": "……자, 슬슬 이 녀석한테\n린의 야심작을 설명해 줘[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092501_MSG0017",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092501_MSG0018",
+      "style": 0,
+      "name": "제가 지금까지 플라이트 팩 제작에\n계속 실패했던 이유가 무엇인지……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092501_MSG0019",
+      "style": 0,
+      "name": "최근에야 겨우 그 이유를 알게 됐어요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092501_MSG0020",
+      "style": 0,
+      "name": "기존의 돌로는 필요한 에너지도\n양력도 만들어 낼 수 없었기 때문이죠……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092501_MSG0021",
+      "style": 0,
+      "name": "그래서 문제의 근본을 재검토하고\n돌을 처음부터 다시 만들기로 한 거예요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092501_MSG0022",
+      "style": 0,
+      "name": "그 결과가\n플라이트 팩 일체형 비행 특화 돌……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092501_MSG0023",
+      "style": 0,
+      "name": "돌 플라이트 커스텀입니다![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092501_MSG0024",
+      "style": 0,
+      "name": "이걸 위해 막대한 예산을\n확보한 건 나일세[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092501_MSG0025",
+      "style": 0,
+      "name": "그리고 암즈 컴퍼니와의\n협력을 주선하기도 했지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092501_MSG0026",
+      "style": 0,
+      "name": "역시 블레이드 사령관님이네요!\n믿음직스러워요![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092501_MSG0027",
+      "style": 0,
+      "name": "빈말은 그만해\n더 이상의 실패는 곤란한 거 알지?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092501_MSG0028",
+      "style": 0,
+      "name": "이번만큼은 괜찮아[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092501_MSG0029",
+      "style": 0,
+      "name": "성공을 위해 우리도 개발에\n참가하게 되었으니 말이다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092501_MSG0030",
+      "style": 0,
+      "name": "이소베 씨, 자자니 씨![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092501_MSG0031",
+      "style": 0,
+      "name": "사쿠라바 중공업과 정직한 진심당의 중역이\n협력해 준다면 안심할 수 있겠군[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092501_MSG0032",
+      "style": 0,
+      "name": "그렇지만 마테리얼이 조금\n부족한 건 불안 요소잖앙[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092501_MSG0033",
+      "style": 0,
+      "name": "잠깐만, 그거 괜찮은 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092501_MSG0034",
+      "style": 0,
+      "name": "방금 최종 확인 중에\n문제가 한 가지 발견됐거든요……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092501_MSG0035",
+      "style": 0,
+      "name": "지금 상태라면 성공 확률은 10% 정도잖앙[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092501_MSG0036",
+      "style": 0,
+      "name": "심각하게 낮지 않나\n문제가 해결되면 얼마나 올라가지?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092501_MSG0037",
+      "style": 0,
+      "name": "99.9999999999%\n성공하는 거 맞죠?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092501_MSG0038",
+      "style": 0,
+      "name": "오, 예스! 물론이징!![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092501_MSG0039",
+      "style": 0,
+      "name": "그러면 해결해야지……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092501_MSG0040",
+      "style": 0,
+      "name": "최종 테스트를 앞둔 마당에 미안하지만\n마테리얼을 모아 줄 수 있겠나?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092501_JNK0030",
+      "style": 4,
+      "name": "자신"
+    },
+    {
+      "$id": 47,
+      "label": "qev092501_SEL0031",
+      "style": 3,
+      "name": "수집 임무라면 맡겨 달라며\n당당하게 나선다"
+    },
+    {
+      "$id": 48,
+      "label": "qev092501_JNK0040",
+      "style": 4,
+      "name": "겸손"
+    },
+    {
+      "$id": 49,
+      "label": "qev092501_SEL0041",
+      "style": 3,
+      "name": "수집 임무는 자신 없다고 말한다"
+    },
+    {
+      "$id": 50,
+      "label": "qev092501_MSG0041",
+      "style": 0,
+      "name": "훌륭해요!\n[ST:playername ] 씨라면 금방 해내겠죠![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092501_MSG0042",
+      "style": 0,
+      "name": "에이, 농담도 참~!\n여전히 겸손하시네요![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092501_MSG0043",
+      "style": 0,
+      "name": "괜찮아요! [ST:playername ] 씨라면\n금방 모을 수 있어요![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092501_MSG0044",
+      "style": 0,
+      "name": "그러면 마테리얼을 획득한 후에\n여기로 가져와 주게[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092501_MSG0045",
+      "style": 0,
+      "name": "린, 넌 그때까지 다시 한번 최종 점검이다\n이번이 진짜 마지막 기회라고[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092501_MSG0046",
+      "style": 0,
+      "name": "네! 열심히 할게요![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092501_MSG0046_2",
+      "style": 0,
+      "name": "반드시 이 아이를\n미라의 드넓은 하늘로 데려가 줄 거예요![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092501_MSG0047",
+      "style": 0,
+      "name": "잘 돌아왔다\n훌륭한 비행이었네[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092501_MSG0049",
+      "style": 0,
+      "name": "합격일세, 바로 양산기 제조에 들어가지[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092501_MSG0050",
+      "style": 0,
+      "name": "해냈다![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092501_MSG0050_2",
+      "style": 0,
+      "name": "지금까지의 노력이 결실을 보았어요![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092501_MSG0051",
+      "style": 0,
+      "name": "더그 씨에게도 민폐를 끼쳤고\n귀중한 소재를 잔뜩 허비해 버렸지만……[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev092501_MSG0052",
+      "style": 0,
+      "name": "저…… 이것만큼은 어떻게 해서라도\n제대로 완성해야만 했거든요[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev092501_JNK0050",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 64,
+      "label": "qev092501_SEL0051",
+      "style": 3,
+      "name": "그렇게까지 완성하고 싶었던 이유를\n자세히 묻는다"
+    },
+    {
+      "$id": 65,
+      "label": "qev092501_JNK0060",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 66,
+      "label": "qev092501_SEL0061",
+      "style": 3,
+      "name": "얼마나 많은 실패를\n거듭해 왔는지 묻는다"
+    },
+    {
+      "$id": 67,
+      "label": "qev092501_MSG0053",
+      "style": 0,
+      "name": "제 아빠와 엄마는 돌아가시기 직전까지\n독자적으로 어떤 연구를 진행했고……[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev092501_MSG0054",
+      "style": 0,
+      "name": "미완성 설계서를 남긴 채\n천국으로 떠나고 말았죠[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev092501_MSG0055",
+      "style": 0,
+      "name": "그 설계서가 플라이트 팩[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev092501_MSG0056",
+      "style": 0,
+      "name": "어떤 돌이든 자유자재로 하늘을\n날아다닐 수 있게 하는 꿈같은 장치……[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092501_MSG0057",
+      "style": 0,
+      "name": "두 분이 어떤 생각으로 이 연구에\n매진했었는지는 저도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092501_MSG0058",
+      "style": 0,
+      "name": "하지만 이 숙제를 끝내지 않으면[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092501_MSG0059",
+      "style": 0,
+      "name": "결코 진정한 메카닉이\n되지 못할 것 같아서……[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092501_MSG0060",
+      "style": 0,
+      "name": "그래서, 어떻게든 완성하고 싶었어요[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092501_MSG0061",
+      "style": 0,
+      "name": "아주 훌륭한 고집이군[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092501_MSG0062",
+      "style": 0,
+      "name": "네 부모님도 저 하늘 위에서\n딸을 자랑스러워하고 있을 게다[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092501_MSG0063",
+      "style": 0,
+      "name": "그야 물론 셀 수도 없을 만큼\n많은 돌을 망가뜨렸죠……[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092501_MSG0064",
+      "style": 0,
+      "name": "블레이드 본부에서도\n몇 번이나 포기하라고 했었고요[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092501_MSG0065",
+      "style": 0,
+      "name": "한때는 원시 생물이 파괴한 돌보다[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092501_MSG0066",
+      "style": 0,
+      "name": "네가 망가뜨린 돌이\n더 많았을 정도였으니 말이다[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092501_MSG0067",
+      "style": 0,
+      "name": "하지만…… 반담 사령관님이\n제가 개발을 계속할 수 있게[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092501_MSG0068",
+      "style": 0,
+      "name": "여러 부서와 교섭해 주신 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092501_MSG0069",
+      "style": 0,
+      "name": "네 눈을 보면 어중간한 이유로\n시작한 일이 아니라는 걸 알 수 있었으니까[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092501_MSG0070",
+      "style": 0,
+      "name": "난 그 마음에 투자하고 싶었거든\n그리고…… 대박이 터졌지[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev092501_MSG0071",
+      "style": 0,
+      "name": "잘했다[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev092501_MSG0072",
+      "style": 0,
+      "name": "……그리고 자네도\n지금까지 협력해 줘서 고맙네[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev092501_JNK0070",
+      "style": 4,
+      "name": "결의"
+    },
+    {
+      "$id": 88,
+      "label": "qev092501_SEL0071",
+      "style": 3,
+      "name": "돌 플라이트 커스텀을 활용하여\n모두를 지키겠다고 맹세한다"
+    },
+    {
+      "$id": 89,
+      "label": "qev092501_JNK0080",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 90,
+      "label": "qev092501_SEL0081",
+      "style": 3,
+      "name": "더욱 고도의 돌 조종 기술이\n필요해질 것을 걱정한다"
+    },
+    {
+      "$id": 91,
+      "label": "qev092501_MSG0078",
+      "style": 0,
+      "name": "좋은 마음가짐일세[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev092501_MSG0078_2",
+      "style": 0,
+      "name": "그걸 마음대로 다룰 수 있다면\n그로우스 따위를 두려워할 필요가 없지[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev092501_MSG0079",
+      "style": 0,
+      "name": "그래, 앞으로는 돌 라이선스 시험에도\n돌 플라이트 커스텀 연수가 필수 과목이 되겠지[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev092501_MSG0080",
+      "style": 0,
+      "name": "나도 어서 젊은 녀석들이 울상을 지을 만한\n새로운 시험을 고안해야겠어[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev092501_MSG0081",
+      "style": 0,
+      "name": "좋아, 비상하는 거다\n린이 완성한 거대한 날개로[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev092501_MSG0082",
+      "style": 0,
+      "name": "그리고 언젠가 도달하는 걸세\n인류의 희망…… 센트럴 라이프에![ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev092501_MSG0083",
+      "style": 1,
+      "name": "이번에는 플라이트 팩만 제작한 게 아닐세\n돌을 처음부터 다시 만들어서[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev092501_MSG0084",
+      "style": 1,
+      "name": "비행 특화형 돌, 돌 플라이트 커스텀이라는\n거창한 물건을 완성해 버렸다네[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev092501_MSG0085",
+      "style": 1,
+      "name": "상당한 예산을 들였으니\n또 실패하면 이번만큼은……[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev092501_MSG0086",
+      "style": 1,
+      "name": "내 힘으로도 감싸 주기 어려울 거라네\n어떻게 해서든 성공해야 해[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev092501_MSG0087",
+      "style": 1,
+      "name": "자, 돌 플라이트 커스텀에 탑승하게나[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev092501_MSG0088",
+      "style": 1,
+      "name": "……그리고 날아라\n블레이드의 미래와 함께![ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev092501_MSG0089",
+      "style": 1,
+      "name": "그 녀석이 실용화되면\n블레이드의 행동 범위가\n어마어마하게 넓어질 걸세[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev011702_MSG0001",
+      "style": 1,
+      "name": "……\n…………[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev011702_MSG0002",
+      "style": 1,
+      "name": "어라!? 음, 그러니까……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev011702_MSG0003",
+      "style": 1,
+      "name": "아! 맞다!\n선배군요~![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev011702_MSG0004",
+      "style": 1,
+      "name": "이런 곳에 무슨 일이세요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev011702_MSG0005",
+      "style": 1,
+      "name": "저 말인가요?\n저는 그……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev011702_MSG0006",
+      "style": 1,
+      "name": "조사를 계속하고 있어요![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev011702_MSG0007",
+      "style": 1,
+      "name": "네……? 제가 잡혀 있다고요……?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev011702_MSG0008",
+      "style": 1,
+      "name": "선배도 참, 무슨 말을 하는 거예요\n전 자유롭게 움직일 수 있는 상태로\n지금 여기에 있는데![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev011702_MSG0009",
+      "style": 1,
+      "name": "무슨 복잡한 함정에라도\n걸린 거 아니에요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev011702_JNK0010",
+      "style": 4,
+      "name": "의심한다"
+    },
+    {
+      "$id": 11,
+      "label": "qev011702_SEL0011",
+      "style": 3,
+      "name": "질문해 본다"
+    },
+    {
+      "$id": 12,
+      "label": "qev011702_JNK0020",
+      "style": 4,
+      "name": "믿는다"
+    },
+    {
+      "$id": 13,
+      "label": "qev011702_SEL0021",
+      "style": 3,
+      "name": "이야기를 듣는다"
+    },
+    {
+      "$id": 14,
+      "label": "qev011702_MSG0010",
+      "style": 1,
+      "name": "네……?\n애초에 어째서 제가\n이런 곳에 왔냐고요?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev011702_MSG0011",
+      "style": 1,
+      "name": "갑작스러운 질문이네요~[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev011702_MSG0012",
+      "style": 1,
+      "name": "제가 여기에 온 이유는……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev011702_MSG0013",
+      "style": 1,
+      "name": "물론 돈 때문이에요!\n블레이드 지망생이니까 당연하잖아요![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev011702_MSG0014",
+      "style": 1,
+      "name": "저는 호기심이 그렇게 많은 것도 아니고……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev011702_MSG0015",
+      "style": 1,
+      "name": "낯도 가리고\n믿을 수 있는 건 돈뿐이랄까[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev011702_MSG0016",
+      "style": 1,
+      "name": "그래서 보물이 많다는\n이 대륙을 눈여겨본 거예요![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev011702_MSG0017",
+      "style": 1,
+      "name": "뭐, 결국 잡혀 있는 상태니까\n이미 물 건너갔죠~[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev011702_MSG0018",
+      "style": 1,
+      "name": "반성합니다~![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev011702_MSG0021",
+      "style": 1,
+      "name": "맞아요~\n이 주변에는 음습한 함정이 많으니까\n조심해야 해요![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev011702_MSG0022",
+      "style": 1,
+      "name": "그래도 제가 선배에게\n할 말은 아니죠?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev011702_MSG0023",
+      "style": 1,
+      "name": "저는 여전히 선배에게\n배워야 할 것투성이고[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev011702_MSG0024",
+      "style": 1,
+      "name": "월터 교관에게는\n이미 버림받은 상태고……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev011702_MSG0025",
+      "style": 1,
+      "name": "아니~ 그 아저씨!\n솔직히 좀 짜증 나지 않아요?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev011702_MSG0026",
+      "style": 1,
+      "name": "선배랑은 완전히 다르다고요~![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev011702_MSG0027",
+      "style": 1,
+      "name": "이러쿵저러쿵 골치 아픈 잔소리만 퍼붓고\n가까이 오면 이상한 냄새 같은 것도 나고![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev011702_MSG0028",
+      "style": 1,
+      "name": "역시 저는 선배가 훨씬……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev011702_MSG0029",
+      "style": 1,
+      "name": "……어라? 왜 그래요?\n갑자기 심각한 얼굴을 하고[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev011702_MSG0030",
+      "style": 1,
+      "name": "저, 뭔가 제 캐릭터랑\n안 맞는 말을 했나요……?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev011702_JNK0030",
+      "style": 4,
+      "name": "전투"
+    },
+    {
+      "$id": 34,
+      "label": "qev011702_SEL0031",
+      "style": 3,
+      "name": "임전 태세를 갖춘다"
+    },
+    {
+      "$id": 35,
+      "label": "qev011702_JNK0040",
+      "style": 4,
+      "name": "신용"
+    },
+    {
+      "$id": 36,
+      "label": "qev011702_SEL0041",
+      "style": 3,
+      "name": "진짜라고 확신한다"
+    },
+    {
+      "$id": 37,
+      "label": "qev011702_MSG0031",
+      "style": 1,
+      "name": "뭐, 뭐, 뭐, 뭐, 뭐 뭔가요~!?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev011702_MSG0032",
+      "style": 1,
+      "name": "무기까지 꺼내서 싸울 태세로![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev011702_MSG0033",
+      "style": 1,
+      "name": "선배, 저예요\n귀여운 후배라고요!\n왜 전투태세를 풀어 주지 않는 건가요~![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev011702_MSG0034",
+      "style": 1,
+      "name": "엉망진창이에요~!\n열받아요~![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev011702_MSG0035",
+      "style": 1,
+      "name": "…………그보다 툭 까놓고 짜증 나![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev011702_MSG0037",
+      "style": 1,
+      "name": "아~ 다행이다! 역시 선배!\n후배가 하는 말은\n뭐든지 신용해 주는군요~![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev011702_MSG0038",
+      "style": 1,
+      "name": "별것도 아니네~!\n순진해 빠져선~!\n죽는 게 무섭지도 않냐, 이 멍청아~![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev011702_MSG0039",
+      "style": 1,
+      "name": "…………아, 이런 말투는\n나답지 않았으……려나?\n아, 아하하하하하………………[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev011702_MSG0040",
+      "style": 1,
+      "name": "……쳇! 인격 복제가\n아직 완벽하지 않았던 건가![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086403_MSG0001",
+      "style": 0,
+      "name": "懐かしいですも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086403_MSG0002",
+      "style": 0,
+      "name": "確かに　ここはタツの故郷\nドドンガ・キャラバンですも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086403_MSG0003",
+      "style": 0,
+      "name": "お前　もしかしてタツだも？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086403_MSG0004",
+      "style": 0,
+      "name": "タツだって　バイアス人に\n食われちまったんじゃなかっただも！？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086403_MSG0005",
+      "style": 0,
+      "name": "あ　トーチャンだも！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086403_MSG0006",
+      "style": 0,
+      "name": "トーーチャン！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086403_MSG0007",
+      "style": 0,
+      "name": "トーチャン　お腹すいたも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086403_MSG0008",
+      "style": 0,
+      "name": "トーチャン　土産くれだも！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086403_MSG0009",
+      "style": 0,
+      "name": "ちょ[ST:wide ]―　ちょと待つですも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086403_MSG0010",
+      "style": 0,
+      "name": "タツ　あなたこんなにたくさん子供がいたの？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086403_MSG0011",
+      "style": 0,
+      "name": "あなたもしかして　実はおじさんだったの？\n今年で４０歳とか！？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086403_MSG0013",
+      "style": 0,
+      "name": "そんな誤解ですも！\nタツはまだ１３歳の美少年ですも！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086403_MSG0014",
+      "style": 0,
+      "name": "あんた達[ST:wide ]―\nそれはトーチャンじゃないだも！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086403_MSG0015",
+      "style": 0,
+      "name": "お前達のニーチャンだも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086403_MSG0016",
+      "style": 0,
+      "name": "カ　カーチャン[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086403_MSG0017",
+      "style": 0,
+      "name": "あの人がタツのお母さんなの？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086403_MSG0018",
+      "style": 0,
+      "name": "そうですも\nカーチャンのカカですも[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086403_MSG0019",
+      "style": 0,
+      "name": "ならご挨拶しないとね\n行きましょう[ST:wait ]"
+    }
+  ]
+}

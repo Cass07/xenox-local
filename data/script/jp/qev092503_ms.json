@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092503_MSG0001",
+      "style": 0,
+      "name": "どうだ　空の旅は？\n意外に快適そうじゃねぇか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092503_MSG0002",
+      "style": 0,
+      "name": "問題点はありませんか？　何かあれば\n些細なことでもいいから教えてください！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092503_JNK0010",
+      "style": 4,
+      "name": "皆無"
+    },
+    {
+      "$id": 4,
+      "label": "qev092503_SEL0011",
+      "style": 3,
+      "name": "問題なく飛びまわれていると\n報告する"
+    },
+    {
+      "$id": 5,
+      "label": "qev092503_JNK0020",
+      "style": 4,
+      "name": "弱音"
+    },
+    {
+      "$id": 6,
+      "label": "qev092503_SEL0021",
+      "style": 3,
+      "name": "操作が難しいと\n弱音を吐く"
+    },
+    {
+      "$id": 7,
+      "label": "qev092503_MSG0003",
+      "style": 0,
+      "name": "モニタリングしてるこっちまで\n鳥にでもなった気分になっちゃいました！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092503_MSG0004",
+      "style": 0,
+      "name": "このドールがあれば　どこへでも行けますね！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092503_MSG0005",
+      "style": 0,
+      "name": "確かにモニタリングしてるとゆらゆら揺れてて\n徹夜明けにはキツ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092503_MSG0006",
+      "style": 0,
+      "name": "いえ！　本当に難しそうですね！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092503_MSG0007",
+      "style": 0,
+      "name": "だけど大丈夫　もっと長時間飛行すれば\n慣れると思いますよ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092503_MSG0008",
+      "style": 0,
+      "name": "よし　後はＮＬＡまで無事戻ってこれれば\nテストは成功だな[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092503_MSG0009",
+      "style": 0,
+      "name": "最後まで気を抜かずに集中してくださいね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092503_MSG0010",
+      "style": 0,
+      "name": "無事に帰ってきてくれるのを待ってますから！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092503_MSG0011",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "qev092503_MSG0012",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "qev092503_MSG0013",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "qev092503_MSG0014",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "qev092503_MSG0015",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "qev092503_MSG0016",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "qev092503_MSG0017",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

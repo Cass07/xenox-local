@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev031208_MSG0001",
+      "style": 1,
+      "name": "윽…… 으으……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev031208_MSG0002",
+      "style": 1,
+      "name": "레로이! 괜찮은 거야아!?\n왜 그렇게 무모한 짓을 했어어……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev031208_MSG0003",
+      "style": 1,
+      "name": "큭…… 그야, 당연히……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev031208_MSG0004",
+      "style": 1,
+      "name": "승부가 난 모양이군\n라비나…… 동료들 곁으로 돌아가자아[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev031208_MSG0005",
+      "style": 1,
+      "name": "아빠……!\n그래도 난 레로이를……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev031208_MSG0006",
+      "style": 1,
+      "name": "그만! 바이어스도 아니고…… 하다못해\n나약하기까지 한 남자에게 널 맡길 순 없다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev031208_MSG0007",
+      "style": 1,
+      "name": "……자, 그만 포기하거라아[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev031208_MSG0008",
+      "style": 1,
+      "name": "……장인어른, 저는……\n윽……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev031208_MSG0009",
+      "style": 1,
+      "name": "너도 포기해라\n어차피 그 몸으로는 싸울 수도 없잖나?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev031208_MSG0010",
+      "style": 1,
+      "name": "……싸울 수 없어도 싸울 겁니다!\n저는…… 여기로 도망치는 동안 결심했어요……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev031208_MSG0011",
+      "style": 1,
+      "name": "누구든 그녀를 상처 입히는 자로부터\n도망치지 않겠다고 말입니다![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev031208_MSG0012",
+      "style": 1,
+      "name": "흥, 나약한 주제에 제법\n큰소리를 칠 수 있게 되었군[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev031208_MSG0013",
+      "style": 1,
+      "name": "……이봐, 이 남자에게 무슨 일이 있었지이?\n같은 지구인인 너라면 알 수 있지 않나?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev031208_JNK0010",
+      "style": 4,
+      "name": "이해"
+    },
+    {
+      "$id": 15,
+      "label": "qev031208_SEL0011",
+      "style": 3,
+      "name": "그녀를 향한 사랑이 레로이를 바꿨다고 말한다"
+    },
+    {
+      "$id": 16,
+      "label": "qev031208_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 17,
+      "label": "qev031208_SEL0021",
+      "style": 3,
+      "name": "잘 모르겠다며 어깨를 으쓱한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev031208_MSG0014",
+      "style": 1,
+      "name": "이 작고 빈약한 자가……\n딸아이를 그리도 사랑한다는 말인가[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev031208_MSG0015",
+      "style": 1,
+      "name": "그래, 이해할 수가 없군\n왜 같은 지구인을 사랑하지 않지이?\n왜 엉망인 몸으로 다시 일어서는 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev031208_MSG0016",
+      "style": 1,
+      "name": "정말이지 영문 모를 남자로구운……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev031208_MSG0017",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev031208_MSG0018",
+      "style": 1,
+      "name": "……라비나, 돌아가자아![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev031208_MSG0019",
+      "style": 1,
+      "name": "그러니까 나는……![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev031208_MSG0020",
+      "style": 1,
+      "name": "다만, 와즈드 타이간트와의 결혼은\n없던 일로 하겠다아![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev031208_MSG0021",
+      "style": 1,
+      "name": "당분간 저 남자에게도 기회를 주마……\n그러니…… 돌아가자아![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev031208_MSG0022",
+      "style": 1,
+      "name": "어……?\n그 말은……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev031208_MSG0023",
+      "style": 1,
+      "name": "그래……\n라비나, 지금은 장인어른 곁으로 돌아가[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev031208_MSG0024",
+      "style": 1,
+      "name": "반드시 장인어른께 인정받을 만한\n남자가 되어서 널 데리러 갈게[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev031208_MSG0025",
+      "style": 1,
+      "name": "……알았어어\n나, 계속 기다릴 거야아[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev031208_MSG0026",
+      "style": 1,
+      "name": "그래도 할머니가 되어 버리면\n같이 있을 시간이 줄어드니까……\n빨리 데리러 와 줘어![ST:wait ]"
+    }
+  ]
+}

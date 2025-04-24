@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051513_MSG0001",
+      "style": 1,
+      "name": "당신이 싸움을 시작한 순간\n보지 않아도 결과를 알겠다며\n베벤은 돌아가 버렸습니다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051513_MSG0002",
+      "style": 1,
+      "name": "야심작인 가드 머신이 지는 모습을\n보기 싫었던 걸지도 모르겠군요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051513_MSG0003",
+      "style": 1,
+      "name": "……바로 저 가드 머신을 고쳐서\n비아노 정수장으로 돌아가겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051513_MSG0004",
+      "style": 1,
+      "name": "당신만큼 강한 원시 생물은 없으니\n이 정도의 능력이 있으면\n충분히 방위할 수 있을 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051513_MSG0005",
+      "style": 1,
+      "name": "귀중한 데이터 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev051513_MSG0006",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091201_MSG0001",
+      "style": 0,
+      "name": "프라이, 포그……\n정말로 맡아 주는 거겠지?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091201_MSG0002",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091201_MSG0003",
+      "style": 0,
+      "name": "우리한테 딱 맞는 임무거든[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091201_MSG0004",
+      "style": 0,
+      "name": "강력한 동료도 있으니까\n괜찮아, 그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091201_JNK0010",
+      "style": 4,
+      "name": "긍정한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev091201_SEL0011",
+      "style": 3,
+      "name": "맡겨 달라며 힘차게 끄덕인다"
+    },
+    {
+      "$id": 7,
+      "label": "qev091201_JNK0020",
+      "style": 4,
+      "name": "보류한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev091201_SEL0021",
+      "style": 3,
+      "name": "임무 내용을 모르는 이상\n함부로 성공을 장담할 수는 없다"
+    },
+    {
+      "$id": 9,
+      "label": "qev091201_MSG0005",
+      "style": 0,
+      "name": "마치 형처럼 무모하네요……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091201_MSG0005_m",
+      "style": 0,
+      "name": "마치 형처럼 무모하네요……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091201_MSG0005_f",
+      "style": 0,
+      "name": "마치 형처럼 무모하네요……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091201_MSG0006",
+      "style": 0,
+      "name": "그래도 결국은 성공한다고, 믿음직스럽지?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091201_MSG0007",
+      "style": 0,
+      "name": "자화자찬이 심하네……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091201_MSG0008",
+      "style": 0,
+      "name": "뭐야, 포그처럼 신중파군[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091201_MSG0009",
+      "style": 0,
+      "name": "현명한 판단이라고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091201_MSG0010",
+      "style": 0,
+      "name": "내가 바보 같다는 뜻이냐?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091201_MSG0011",
+      "style": 0,
+      "name": "아, 아니…… 그런 의미는 아닌데[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091201_MSG0012",
+      "style": 0,
+      "name": "몇 명이 가든 상관없지만\n임무 내용은 확실하게 설명해 줘라[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091201_MSG0013",
+      "style": 0,
+      "name": "그래그래, 포그…… 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091201_MSG0014",
+      "style": 0,
+      "name": "알았어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091201_MSG0015",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091201_MSG0016",
+      "style": 0,
+      "name": "백목의 대륙에 지금까지 확인된 적 없는\n자원으로 보이는 물질이 관측됐어요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091201_MSG0017",
+      "style": 0,
+      "name": "다른 팀이 회수하러 갔지만\n모두 실패로 끝나고 말았죠[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091201_MSG0018",
+      "style": 0,
+      "name": "저는 새롭게 그 물질을 조사, 확보하는\n임무를 맡게 되었습니다만……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091201_MSG0019",
+      "style": 0,
+      "name": "그 일대에 강력한 원시 생물도 많다고 해서[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091201_MSG0020",
+      "style": 0,
+      "name": "형의 도움을 받기로 했습니다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091201_MSG0021",
+      "style": 0,
+      "name": "인터셉터인 내가 괴물을 쓰러뜨리고[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091201_MSG0022",
+      "style": 0,
+      "name": "랜드뱅크인 포그가 자원을 확보하는\n연계 작업이지[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091201_MSG0023",
+      "style": 0,
+      "name": "설명은 이상입니다\n어떤가요, 협력해 주실 수 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091201_MSG0024",
+      "style": 0,
+      "name": "물어볼 필요도 없어, 우리는 운명 공동체야\n당연히 같이 가겠지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091201_MSG0025",
+      "style": 0,
+      "name": "그렇네, 물어볼 필요도 없었어[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091201_MSG0026",
+      "style": 0,
+      "name": "그러면 출발하죠, 목적지는 백목의 대륙\n목표는 미확인 자원의 조사 및 확보입니다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091201_MSG0027",
+      "style": 0,
+      "name": "한바탕 날뛰어 보자고![ST:wait ]"
+    }
+  ]
+}

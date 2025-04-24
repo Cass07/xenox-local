@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001111_MSG0010",
+      "style": 1,
+      "name": "힘든 상황이기는 하지만……\n블레이드의 임무는 끝이 없어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001111_MSG0020",
+      "style": 1,
+      "name": "일단 눈앞의 문제부터 해결해 나가자\n물론 나도 협력할게[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001111_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 4,
+      "label": "tev001111_SEL0040",
+      "style": 3,
+      "name": "엘마를 멤버에 넣는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001111_MSG0050",
+      "style": 1,
+      "name": "그래, 평소처럼 하면 돼\n서두르지 말고 착실하게[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001111_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001111_SEL0070",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001111_MSG0080",
+      "style": 1,
+      "name": "알았어\n당신도 무리하지는 마[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001111_MSG0090",
+      "style": 1,
+      "name": "아직 시간은 있어\n팀원들과 이야기를 하는 건 어때?\n분명 당신의 말을 기다리고 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001111_MSG0100",
+      "style": 1,
+      "name": "내가 대장이기는 해도\n지금까지 팀을 이끌어 온 건\n다름 아닌 당신이니까 말이야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001111_MSG0110",
+      "style": 1,
+      "name": "이번 작전에서도\n당신의 활약을 기대하고 있을게[ST:wait ]"
+    }
+  ]
+}

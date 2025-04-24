@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11060100_MSG0001",
+      "style": 0,
+      "name": "역시 일이 쉽게 풀리지는\n않는 모양이네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11060100_MSG0002",
+      "style": 0,
+      "name": "시간이 아까워, 단번에 쓰러뜨리자[ST:wait ]"
+    }
+  ]
+}

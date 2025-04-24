@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001594_MSG0001",
+      "style": 1,
+      "name": "あら　[ST:playername ]\n意外そうな顔をしてるわね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001594_MSG0002",
+      "style": 1,
+      "name": "私だって動物を愛でることくらいあるのよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001594_MSG0003",
+      "style": 1,
+      "name": "ロクでなしのクズどもと\n戯れていることが多いから　\nこういう安らぎも必要なんだわ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001594_MSG0004",
+      "style": 1,
+      "name": "それともこんな雑種を可愛がるのは\n似合わないかしら？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001594_JNK0010",
+      "style": 4,
+      "name": "肯定[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001594_SEL0011",
+      "style": 3,
+      "name": "気品のある猫が\nマードレスには似合う[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001594_JNK0020",
+      "style": 4,
+      "name": "否定[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001594_SEL0021",
+      "style": 3,
+      "name": "野良猫が\nマードレスには似合う[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001594_MSG0010",
+      "style": 1,
+      "name": "そうね　血統書つきの\nとびきり高級なのがいいわ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001594_MSG0011",
+      "style": 1,
+      "name": "[ST:wide ]―というと思ったでしょ？\n子供のころはそう思ってたけど\n今はそうでもないの[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001594_MSG0012",
+      "style": 1,
+      "name": "ペットは私に歩調を合わせられる子がいいわ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001594_MSG0013",
+      "style": 1,
+      "name": "高いとか安いとかじゃなくて\n私に合わせてくれる子を可愛がりたいの[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001594_MSG0014",
+      "style": 1,
+      "name": "だから私の性格的には\n猫よりも犬がいいんだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001594_MSG0016",
+      "style": 1,
+      "name": "今の私にはぴったりかもしれないわね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001594_MSG0017",
+      "style": 1,
+      "name": "でも　野良猫は寂しいわ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001594_MSG0018",
+      "style": 1,
+      "name": "ふらっとどこかへ行ったりして\n家に帰ってきたときにいなくなっていたら\n心配になるでしょ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001594_MSG0019",
+      "style": 1,
+      "name": "だから　私は犬の方が\n好みではあるのだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001594_MSG0021",
+      "style": 1,
+      "name": "結局のところ私は従僕が\n欲しいだけなのかもしれないわね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001594_JNK0030",
+      "style": 4,
+      "name": "指摘[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001594_SEL0031",
+      "style": 3,
+      "name": "エフィンジャー家を復興させるのも\nそのためかと尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001594_JNK0040",
+      "style": 4,
+      "name": "提案[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001594_SEL0041",
+      "style": 3,
+      "name": "ならば自分が……と立候補する[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001594_MSG0027",
+      "style": 1,
+      "name": "そうね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001594_MSG0028",
+      "style": 1,
+      "name": "家を復興するということは\n権威を取り戻すということ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001594_MSG0029",
+      "style": 1,
+      "name": "誰かから尊敬され　畏怖されて\nようやく復興したと言えるのよね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001594_MSG0030",
+      "style": 1,
+      "name": "だから　私が従僕を求めるのは必然[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001594_MSG0031",
+      "style": 1,
+      "name": "いつかあなたが従僕にしてくださいと\n懇願するようにしてみせるわ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001594_MSG0032",
+      "style": 1,
+      "name": "[ST:wide ]―なんてね\nじゃあ　私はブレイドエリアに戻るわね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001594_MSG0035",
+      "style": 1,
+      "name": "そう言ってくれると思ったわ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001594_MSG0036",
+      "style": 1,
+      "name": "私が家を持てたら住み込みで働きなさいよ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001594_MSG0037",
+      "style": 1,
+      "name": "任務があるときは一緒に行きましょ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001594_MSG0038",
+      "style": 1,
+      "name": "[ST:wide ]―なんてね　冗談だけど\nそう言ってくれるのは嬉しいわ　ありがとう[ST:wait ]"
+    }
+  ]
+}

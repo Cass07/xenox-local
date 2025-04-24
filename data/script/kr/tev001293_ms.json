@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001293_MSG0001",
+      "style": 1,
+      "name": "앗, [ST:playername ] 씨!\n마침 잘 왔어요!\n도와주세요![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001293_MSG0002",
+      "style": 1,
+      "name": "언니들에게 지나치게\n예쁨받고 있어요……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001293_JNK0010",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 4,
+      "label": "tev001293_SEL0011",
+      "style": 3,
+      "name": "순순히 받아들이라고\n조언한다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001293_JNK0020",
+      "style": 4,
+      "name": "참전"
+    },
+    {
+      "$id": 6,
+      "label": "tev001293_SEL0021",
+      "style": 3,
+      "name": "자신도 린을 예뻐한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001293_JNK0030",
+      "style": 4,
+      "name": "대리"
+    },
+    {
+      "$id": 8,
+      "label": "tev001293_SEL0031",
+      "style": 3,
+      "name": "린 대신에 불편하다고\n확실히 말한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001293_MSG0003",
+      "style": 1,
+      "name": "예뻐해 주는 건\n고맙게 생각하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001293_MSG0004",
+      "style": 1,
+      "name": "케이크 먹으러 가자든가\n바비큐를 하자든가……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001293_MSG0005",
+      "style": 1,
+      "name": "온천에 가자든가\n드라이브하자든가……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001293_MSG0006",
+      "style": 1,
+      "name": "제 또래가 없으니까 외롭지 않도록\n선의로 제안해 주는 건 알고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001293_MSG0007",
+      "style": 1,
+      "name": "그래도 말이죠, 그렇게 많은 걸\n한 번의 휴가에 다 할 수는 없다고요……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001293_MSG0008",
+      "style": 1,
+      "name": "그, 그러지 마세요![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001293_MSG0009",
+      "style": 1,
+      "name": "안 그래도 케이크 먹으러 가자든가\n바비큐를 하자든가……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001293_MSG0010",
+      "style": 1,
+      "name": "온천에 가자든가\n드라이브하자든가……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001293_MSG0011",
+      "style": 1,
+      "name": "휴가 스케줄이 가득 차 있는데\n다 소화할 수 없을 거예요!![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001293_MSG0012",
+      "style": 1,
+      "name": "부, 불편한 건 아닌데요……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001293_MSG0013",
+      "style": 1,
+      "name": "케이크 먹으러 가자든가\n바비큐를 하자든가……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001293_MSG0014",
+      "style": 1,
+      "name": "온천에 가자든가\n드라이브하자든가……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001293_MSG0015",
+      "style": 1,
+      "name": "그렇게 많은 걸\n한 번의 휴가에 다 할 수는 없으니까\n곤란하다고요![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001293_JNK0040",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 23,
+      "label": "tev001293_SEL0041",
+      "style": 3,
+      "name": "린이 하고 싶은 것\n한 가지만 하자고 제안한다"
+    },
+    {
+      "$id": 24,
+      "label": "tev001293_JNK0050",
+      "style": 4,
+      "name": "명안"
+    },
+    {
+      "$id": 25,
+      "label": "tev001293_SEL0051",
+      "style": 3,
+      "name": "다 같이 임무를 하러 가면\n모두 만족시킬 수 있다고 명안을 알려 준다"
+    },
+    {
+      "$id": 26,
+      "label": "tev001293_MSG0016",
+      "style": 1,
+      "name": "그렇네요……\n한 가지로 좁히면 할 수 있을 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001293_MSG0017",
+      "style": 1,
+      "name": "음, 그러니까……\n케이크도 먹고 싶고, 고기도 먹고 싶고……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001293_MSG0018",
+      "style": 1,
+      "name": "온천욕도 기분 좋을 테고\n드라이브도 재밌을 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001293_MSG0019",
+      "style": 1,
+      "name": "앗, 그렇지![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001293_MSG0020",
+      "style": 1,
+      "name": "이렇게 된 이상 다 같이 온천을 찾으러\n모험을 떠나는 거예요![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001293_MSG0021",
+      "style": 1,
+      "name": "돌로 드라이브도 할 수 있고\n중간에 밥도 먹게 될 거고\n완벽한 아이디어네요!![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001293_MSG0022",
+      "style": 1,
+      "name": "와!\n자신 있는 얼굴에 걸맞은 명안이네요![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001293_MSG0023",
+      "style": 1,
+      "name": "다 같이 임무를 하러 가면……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001293_MSG0024",
+      "style": 1,
+      "name": "돌로 드라이브도 할 수 있고\n중간에 밥도 먹게 될 거고……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001293_MSG0025",
+      "style": 1,
+      "name": "임무 후에 온천욕을 하면\n완벽하네요!![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001293_MSG0026",
+      "style": 1,
+      "name": "……아니, 잠깐만요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001293_MSG0027",
+      "style": 1,
+      "name": "임무라면 휴가가 아니잖아요~~![ST:wait ]"
+    }
+  ]
+}

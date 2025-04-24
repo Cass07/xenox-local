@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001091_MSG0001",
+      "style": 1,
+      "name": "……あ　[ST:playername ]さん\nこんにちは[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001091_MSG0002",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001091_MSG0003",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001091_MSG0004",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001091_MSG0005",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001091_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 7,
+      "label": "tev001091_SEL0011",
+      "style": 3,
+      "name": "何をしていたのか尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "tev001091_JNK0020",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 9,
+      "label": "tev001091_SEL0021",
+      "style": 3,
+      "name": "魚を見ていたのかと話を振る"
+    },
+    {
+      "$id": 10,
+      "label": "tev001091_MSG0006",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001091_MSG0007",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001091_MSG0008",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001091_MSG0009",
+      "style": 1,
+      "name": "……残念なことに魚はいません[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001091_MSG0010",
+      "style": 1,
+      "name": "いれば　毎日フィッシングが\nできたんですけど……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001091_MSG0011",
+      "style": 1,
+      "name": "……悩んでいたんです[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001091_MSG0012",
+      "style": 1,
+      "name": "……ここにあるのは一見ただの水のようですが\n実のところ衝撃を緩和するためのジェルです[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001091_MSG0013",
+      "style": 1,
+      "name": "固まるとNLAの外壁を取り囲んでいる\n結晶のようになるという話ですが\nどうにも信じられなくて……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001091_MSG0014",
+      "style": 1,
+      "name": "そこで　とある液体を注入すると瞬間的に\n凝固するという噂を聞きまして……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001091_MSG0015",
+      "style": 1,
+      "name": "実際に試してみるべきか\n考えあぐねていたんです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001091_JNK0030",
+      "style": 4,
+      "name": "提案する"
+    },
+    {
+      "$id": 21,
+      "label": "tev001091_SEL0031",
+      "style": 3,
+      "name": "気になったのなら\nやるべきだと提案する"
+    },
+    {
+      "$id": 22,
+      "label": "tev001091_JNK0040",
+      "style": 4,
+      "name": "なだめる"
+    },
+    {
+      "$id": 23,
+      "label": "tev001091_SEL0041",
+      "style": 3,
+      "name": "怒られるのでやめたほうがいいと\nなだめる[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001091_MSG0016",
+      "style": 1,
+      "name": "やはりあなたも気になりますか[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001091_MSG0017",
+      "style": 1,
+      "name": "ならば　ぜひ試してみてください[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001091_MSG0018",
+      "style": 1,
+      "name": "ボクは遠くから見てますので[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001091_MSG0019",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001091_MSG0020",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001091_MSG0021",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001091_MSG0022",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001091_MSG0023",
+      "style": 1,
+      "name": "……やっぱりそういうわけにはいきませんよね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001091_MSG0024",
+      "style": 1,
+      "name": "モーリス行政長官やナギ軍務長官や\nヴァンダム司令から雷が落ちそうです[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001091_MSG0025",
+      "style": 1,
+      "name": "ちょっとした好奇心を満たすために\n大冒険するという危険を冒すのは\nきっと賢明な判断じゃありません[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001091_MSG0026",
+      "style": 1,
+      "name": "ここはぐっとこらえますか[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001091_MSG0027",
+      "style": 1,
+      "name": "でも　いつかきっとどこかで試しましょう！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001091_MSG0028",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001091_MSG0029",
+      "style": 1,
+      "name": "……そうですよね　やめるべきですよね[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001091_MSG0030",
+      "style": 1,
+      "name": "住宅エリアからうっかり足をすべらせて\nここまで転落してしまったことも\n1度や2度じゃありません[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001091_MSG0031",
+      "style": 1,
+      "name": "そのとき液体だったから無傷で済んだものの\nこれが個体になっていたら\n足に怪我を負ってしまいそうです[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001091_MSG0032",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001091_MSG0033",
+      "style": 1,
+      "name": "……ボク　決めました\nジェルはこのままにしておきます[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001091_MSG0034",
+      "style": 1,
+      "name": "あなたのおかげで決断できて\n本当に良かったですよ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087405_MSG0001",
+      "style": 0,
+      "name": "이상하네\n밤에는 여기 있을 줄 알았는데[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087405_MSG0002",
+      "style": 0,
+      "name": "……그러니까 그곳이\n원시 생물의 근거지가 됐다는 거 아닌가[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087405_MSG0003",
+      "style": 0,
+      "name": "그것까지 알고 있는데\n어째서 섬멸할 수 없는 거지?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087405_MSG0004",
+      "style": 0,
+      "name": "공략전이라면 실행했다\n……두 번이나 말이지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087405_MSG0005",
+      "style": 0,
+      "name": "그리고 두 번 다 험한 꼴을 당했어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087405_MSG0006",
+      "style": 0,
+      "name": "그러고 보니 상처 난 돌이 많이 있었죠[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087405_MSG0007",
+      "style": 0,
+      "name": "작전 실패의 흔적이었구나……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087405_MSG0008",
+      "style": 0,
+      "name": "하지만 그곳의 원시 생물을 제거하지 않으면\n루트를 확보할 수 없네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087405_MSG0010",
+      "style": 0,
+      "name": "그러나 전력을 재정비하지 않고\n다시 하라고 해도……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087405_MSG0011",
+      "style": 0,
+      "name": "예산은 나오는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087405_MSG0012",
+      "style": 0,
+      "name": "그건…… 힘들다고밖엔 할 수 없네[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087405_MSG0013",
+      "style": 0,
+      "name": "당신들 머리가 굳은 거 아닌가?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087405_MSG0014",
+      "style": 0,
+      "name": "반담 사령관님![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087405_MSG0015",
+      "style": 0,
+      "name": "어느새……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087405_MSG0016",
+      "style": 0,
+      "name": "머리가 굳었다니, 말조심하게[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087405_MSG0017",
+      "style": 0,
+      "name": "그 얼굴은……\n뭔가 방법이 있는 것 같은데[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087405_MSG0018",
+      "style": 0,
+      "name": "웡 팀이 원시 생물의 리더 격을\n확인했다고 하더군[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087405_MSG0019",
+      "style": 0,
+      "name": "이 녀석일세[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087405_MSG0020",
+      "style": 0,
+      "name": "리더 격을 쓰러뜨리면\n무리 같은 건 뿔뿔이 흩어질 게야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087405_MSG0021",
+      "style": 0,
+      "name": "그러고 나서 각개 격파하는 편이\n소탕하기 훨씬 쉬울 거라고 생각하네만[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087405_MSG0022",
+      "style": 0,
+      "name": "그건 맞는 말이지만\n그 리더 격을 어떻게 쓰러뜨린다는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087405_MSG0023",
+      "style": 0,
+      "name": "우수한 팀을 투입해서\n집중 공격하는 방법밖에 없지 않나……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087405_MSG0024",
+      "style": 0,
+      "name": "안 그런가?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087405_MSG0025",
+      "style": 0,
+      "name": "저희!?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087405_MSG0026",
+      "style": 0,
+      "name": "말인가모!?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087405_MSG0027",
+      "style": 0,
+      "name": "그래…… 재미있는 임무네[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087405_MSG0028",
+      "style": 0,
+      "name": "그런가, 이러기 위해서\n엘마 팀을 불러 둔 거였어[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087405_MSG0029",
+      "style": 0,
+      "name": "빈틈이 없군, 사령관[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev087405_MSG0030",
+      "style": 0,
+      "name": "아니요, 저희는 그런 게 아니라, 그저[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev087405_MSG0031",
+      "style": 0,
+      "name": "뭐, 이 정도는 급료에 다 들어가 있는 거지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev087405_MSG0032",
+      "style": 0,
+      "name": "잠시만 기다려 주세요~~[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev087405_MSG0033",
+      "style": 0,
+      "name": "누군가는 해야만 하는 임무잖아, 린[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev087405_MSG0034",
+      "style": 0,
+      "name": "그건, 그렇지만요……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087405_MSG0035",
+      "style": 0,
+      "name": "이 임무, 맡겠어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087405_MSG0036",
+      "style": 0,
+      "name": "그렇게 나와야지[ST:wait ]"
+    }
+  ]
+}

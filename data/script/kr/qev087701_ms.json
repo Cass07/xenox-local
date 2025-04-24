@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087701_MSG0001",
+      "style": 0,
+      "name": "라스 병사인 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087701_MSG0002",
+      "style": 0,
+      "name": "으으으……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087701_MSG0003",
+      "style": 0,
+      "name": "다, 당신들은……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087701_MSG0004",
+      "style": 0,
+      "name": "지구인이야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087701_MSG0005",
+      "style": 0,
+      "name": "당신들 라스에게 우호적인 외계인\n그렇게 이해해 주면 고맙겠어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087701_MSG0006",
+      "style": 0,
+      "name": "라스의 친구 노폰도 있다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087701_MSG0007",
+      "style": 0,
+      "name": "무슨 일 있었나요?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087701_MSG0008",
+      "style": 0,
+      "name": "그로우스 잔당에게……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087701_MSG0009",
+      "style": 0,
+      "name": "그로우스라고모!?\n그 녀석들, 아직도 나쁜 짓을 하고 있었냐모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087701_MSG0010",
+      "style": 0,
+      "name": "저는 라스의 무사, 니 자인이라 합니다\n지구와 노폰 여러분에게 부탁이 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087701_MSG0011",
+      "style": 0,
+      "name": "말해 봐, 도움이 되고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087701_MSG0012",
+      "style": 0,
+      "name": "감사합니다, 전하를\n델그 전하를 도와주셨으면 합니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087701_MSG0013",
+      "style": 0,
+      "name": "델그 전하?\n아, 그 멍멍이다모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087701_MSG0014",
+      "style": 0,
+      "name": "저희가 한때 그로우스에 가담했다는 것은\n당신들도 알고 있을 것이라 생각합니다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087701_MSG0015",
+      "style": 0,
+      "name": "그 시절, 녀석들의 요구로\n저희의 돌을 제공해 버렸습니다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087701_MSG0016",
+      "style": 0,
+      "name": "그야 라스제 돌은\n기동성이 높고 우수하니까요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087701_MSG0017",
+      "style": 0,
+      "name": "녀석들은 지금도 그 기체의 복제품을\n계속 사용하고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087701_MSG0018",
+      "style": 0,
+      "name": "그걸 용서할 수 없다고 생각하신 전하는\n저희를 이끌고 파괴하러 향하셨지만[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087701_MSG0019",
+      "style": 0,
+      "name": "작전이 실패했구나[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087701_MSG0020",
+      "style": 0,
+      "name": "그로우스 잔당의 기습을 받아\n부대는 뿔뿔이 흩어지고…… 저도 이 꼴입니다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087701_MSG0021",
+      "style": 0,
+      "name": "그렇다고 포기할 전하가 아니겠지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087701_MSG0022",
+      "style": 0,
+      "name": "그렇죠? 그 사람이라면\n혼자서라도 쳐들어갈 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087701_MSG0023",
+      "style": 0,
+      "name": "알았어, 전하는 우리 지구인과\n우호 관계를 맺어 준 분[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087701_MSG0024",
+      "style": 0,
+      "name": "그냥 둘 수는 없지[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087701_MSG0025",
+      "style": 0,
+      "name": "감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087701_MSG0026",
+      "style": 0,
+      "name": "돌은 여기에 보관되어 있습니다\n부디 서둘러 주시길……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087701_MSG0027",
+      "style": 0,
+      "name": "그런데 멍멍이 아저씨\n두고 가도 되는 건가모?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087701_JNK0010",
+      "style": 4,
+      "name": "적극"
+    },
+    {
+      "$id": 29,
+      "label": "qev087701_SEL0011",
+      "style": 3,
+      "name": "델그의 지원이 먼저라고 주장한다"
+    },
+    {
+      "$id": 30,
+      "label": "qev087701_JNK0020",
+      "style": 4,
+      "name": "신중"
+    },
+    {
+      "$id": 31,
+      "label": "qev087701_SEL0021",
+      "style": 3,
+      "name": "니 자인의 치료가 우선이라고 말한다"
+    },
+    {
+      "$id": 32,
+      "label": "qev087701_MSG0028",
+      "style": 0,
+      "name": "네, 윽…… 그렇게 해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev087701_MSG0029",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087701_MSG0030",
+      "style": 0,
+      "name": "이 사람의 치료가 우선이야\nNLA로 데리고 가자[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087701_MSG0031",
+      "style": 0,
+      "name": "그래, 지금은 인명이 우선이야[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev087701_MSG0032",
+      "style": 0,
+      "name": "감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev087701_MSG0033",
+      "style": 0,
+      "name": "하지만 이미 구조는 요청해 두었습니다\n그것보다도 델그 전하를……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev087701_MSG0034",
+      "style": 0,
+      "name": "알았어, 우리가 맡을게[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev087701_MSG0035",
+      "style": 0,
+      "name": "감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev087701_MSG0036",
+      "style": 0,
+      "name": "다들, 가자[ST:wait ]"
+    }
+  ]
+}

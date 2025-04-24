@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086803_MSG0002",
+      "style": 0,
+      "name": "엘마 씨![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086803_MSG0003",
+      "style": 0,
+      "name": "록, 왜 그래?\n세리카 일이야?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086803_MSG0004",
+      "style": 0,
+      "name": "맞아, 세리카가……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086803_MSG0004_2",
+      "style": 0,
+      "name": "블레이드가 돼서\nNLA의 시민권을 얻겠대[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086803_MSG0005",
+      "style": 0,
+      "name": "그럼 내 몫까지\n일하는 게 된다고 말했어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086803_MSG0006",
+      "style": 0,
+      "name": "역시[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086803_MSG0007",
+      "style": 0,
+      "name": "어떻게 하지?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086803_MSG0008",
+      "style": 0,
+      "name": "백목의 대륙이라는 곳에서 셀레네 허브를\n채취해 오겠다고 혼자 가 버렸어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086803_MSG0009",
+      "style": 0,
+      "name": "네에? 백목의 대륙이라면\n강한 원시 생물이 우글거리는 곳이에요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086803_MSG0010",
+      "style": 0,
+      "name": "그로우스와 접촉할 가능성도 높아[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086803_MSG0011",
+      "style": 0,
+      "name": "부탁이야, 세리카를 구해 줘[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086803_MSG0012",
+      "style": 0,
+      "name": "물론이야\n세리카는 록만의 친구가 아닌걸[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086803_MSG0001",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "qev086803_MSG0101",
+      "style": 1,
+      "name": "기다리라고 했지만……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086803_MSG0102",
+      "style": 1,
+      "name": "저기, [ST:playername ]\n세리카가 어디로 가서 뭘 하려는지\n좀 보고 와 줘[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33120100_MSG0010",
+      "style": 0,
+      "name": "これはどういうことだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33120100_MSG0020",
+      "style": 0,
+      "name": "虚無にのまれたのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33120100_MSG0030",
+      "style": 0,
+      "name": "前方　明かりが見えます[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33120100_MSG0040",
+      "style": 0,
+      "name": "誘ってやがるのか[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33120100_MSG0050",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "xs33120100_MSG0051",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "xs33120100_MSG0052",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "xs33120100_MSG0053",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "xs33120100_MSG0054",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "xs33120100_MSG0055",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "xs33120100_MSG0060",
+      "style": 0,
+      "name": "一体何があった？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33120100_MSG0070",
+      "style": 0,
+      "name": "船底が何かにぶつかったようです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33120100_MSG0080",
+      "style": 0,
+      "name": "損傷は？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33120100_MSG0090",
+      "style": 0,
+      "name": "特にないみたいだヨ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33120100_MSG0100",
+      "style": 0,
+      "name": "周囲の状況は？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33120100_MSG0110",
+      "style": 0,
+      "name": "電波が阻害を受けているのか\n周囲の状況わかりません[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33120100_MSG0120",
+      "style": 0,
+      "name": "このまま進むのは危険だな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33120100_MSG0130",
+      "style": 0,
+      "name": "ああ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33120100_MSG0140",
+      "style": 0,
+      "name": "前方の光のところに着く前に\n船体がばらばらになっちまうかもしれねぇ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33120100_MSG0150",
+      "style": 0,
+      "name": "本艦は　ここで待機[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33120100_MSG0160",
+      "style": 0,
+      "name": "守備部隊は　船の周辺警戒[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33120100_MSG0170",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33120100_MSG0180",
+      "style": 0,
+      "name": "承知した[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs33120100_MSG0190",
+      "style": 0,
+      "name": "エルマ　出撃だ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs33120100_MSG0200",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093007_MSG0010",
+      "style": 0,
+      "name": "이제 더 이상 그녀들이\n누군가를 해칠 일은 없어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093007_MSG0020",
+      "style": 0,
+      "name": "무녀의 사명을 무녀의 손으로 바로잡은 거지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093007_MSG0025",
+      "style": 0,
+      "name": "……이번 일은 이걸로 끝이야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093007_MSG0030",
+      "style": 0,
+      "name": "니르 님……\n정말로 괜찮으신 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093007_MSG0040",
+      "style": 0,
+      "name": "설령 망가진 기계여도\n저 돌들은 니르 님의……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093007_MSG0050",
+      "style": 0,
+      "name": "그건 사소한 문제야, 세리카[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093007_MSG0060",
+      "style": 0,
+      "name": "과거에 매달리는 사람은\n미래를 바라볼 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093007_MSG0070",
+      "style": 0,
+      "name": "설령 우리가 한 행동을 부정하게 되더라도\n난 과거를 바로잡고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093007_MSG0080",
+      "style": 0,
+      "name": "클루가 역사의 과오를 뛰어넘어\n다시 한번 우주로 날아오를 수 있게 말이야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093007_MSG0090",
+      "style": 0,
+      "name": "……신관 중에는\n무녀이신 니르 님의 행동을[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093007_MSG0100",
+      "style": 0,
+      "name": "\"이단\"이라고 부르는 자도 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093007_MSG0110",
+      "style": 0,
+      "name": "사실은 니르 님이야말로[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093007_MSG0120",
+      "style": 0,
+      "name": "클루의…… 저희의 미래를\n염려해 주고 계시는데……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093007_MSG0130",
+      "style": 0,
+      "name": "클루를 위하는 마음은 다들 똑같아[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093007_MSG0135",
+      "style": 0,
+      "name": "그저, 나아가는 길이 다를 뿐이지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093007_MSG0140",
+      "style": 0,
+      "name": "게다가, 외계 문명과의 접촉이\n꼭 나쁜 결과만 부르는 건 아니잖아[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093007_MSG0150",
+      "style": 0,
+      "name": "신앙과 기술을 전파하지 않아도\n그저 대화만으로 서로 손잡을 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093007_MSG0160",
+      "style": 0,
+      "name": "지구인과 클루인이\n함께하는 것처럼 말이야…… 그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093007_MSG0170",
+      "style": 0,
+      "name": "……네[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093007_MSG0180",
+      "style": 0,
+      "name": "어디…… 여기 문제는 해결됐지만\n아직 미라에서 할 일이 잔뜩 있어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093007_MSG0190",
+      "style": 0,
+      "name": "다양한 외계 문명이 한 행성에 모이다니\n우주 고고학적 관점으로도 정상이 아니야……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093007_MSG0200",
+      "style": 0,
+      "name": "이 불가사의한 행성을 전부 조사할 때까지\n내 일은 끝나지 않아[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093007_JNK0210",
+      "style": 4,
+      "name": "적극적"
+    },
+    {
+      "$id": 24,
+      "label": "qev093007_SEL0220",
+      "style": 3,
+      "name": "의뢰라면 언제든 받겠다고 말한다"
+    },
+    {
+      "$id": 25,
+      "label": "qev093007_MSG0230",
+      "style": 0,
+      "name": "응, 이 별의 현지 조사에\n너를 빼놓을 수는 없지[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093007_MSG0240",
+      "style": 0,
+      "name": "아, 그냥 내 조수가 되지 않을래?\n응, 그게 좋겠어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093007_MSG0250",
+      "style": 0,
+      "name": "저기, 니르 님\n지구인분들도 각자 사정이 있으니까요……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093007_JNK0260",
+      "style": 4,
+      "name": "소극적"
+    },
+    {
+      "$id": 29,
+      "label": "qev093007_SEL0270",
+      "style": 3,
+      "name": "조금 쉬자고 제안한다"
+    },
+    {
+      "$id": 30,
+      "label": "qev093007_MSG0280",
+      "style": 0,
+      "name": "아하하, 그러네\n나도 솔직히 조금 피곤해……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev093007_MSG0290",
+      "style": 0,
+      "name": "NLA에 돌아가면 휴식도 할 겸\n다 같이 식사라도 하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev093007_MSG0300",
+      "style": 0,
+      "name": "물론 가우르 친구도 함께 말이야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev093007_MSG0310",
+      "style": 0,
+      "name": "네, 좋아요……![ST:wait ]"
+    }
+  ]
+}

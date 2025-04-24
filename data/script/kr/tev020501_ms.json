@@ -1,0 +1,372 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev020501_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev020501_SEL0011",
+      "style": 3,
+      "name": "NLA의 치안에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev020501_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev020501_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev020501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev020501_SEL0031",
+      "style": 3,
+      "name": "외계인과의 우호 조약에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev020501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev020501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev020501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev020501_SEL0041",
+      "style": 3,
+      "name": "습격 당시의 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev020501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev020501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev020501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev020501_SEL0051",
+      "style": 3,
+      "name": "그로우스와의 싸움에 관해\n의견을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev020501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev020501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev020501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev020501_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 19,
+      "label": "tev020501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev020501_SEL2021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 21,
+      "label": "tev020501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev020501_SEL2041",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev020501_MSG0001",
+      "style": 1,
+      "name": "미라 불시착 후 혼란기에는\n시민끼리의 언쟁이 적잖이 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev020501_MSG0002",
+      "style": 1,
+      "name": "그걸 해결하기 위해 조수인 앨리스와\nNLA 안을 누비고 다녔죠[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev020501_MSG0003",
+      "style": 1,
+      "name": "싸우는 사람들 사이에 끼어들었다가\n위험한 일도 당했지만……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev020501_MSG0004",
+      "style": 1,
+      "name": "상대를 존중하는 것이 얼마나 중요한지\n포기하지 않고 계속 호소하며 다툼을 말렸어요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev020501_MSG0005",
+      "style": 1,
+      "name": "전 블레이드는 아니지만……\n한 사람의 시민으로서 앞으로도\n다양한 문제에 관여하고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev020501_MSG0010",
+      "style": 1,
+      "name": "제 조수인 앨리스는 지구에 있었을 때는\n어떤 봉사 단체에 소속되어서\n빈곤과 차별을 없애기 위해 활동했어요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev020501_MSG0011",
+      "style": 1,
+      "name": "미라에서도 그 경험을 살려서\n곤경에 처한 사람을 돕고 싶어 하는데……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev020501_MSG0012",
+      "style": 1,
+      "name": "역시 단둘이 할 수 있는 일에는 한계가 있어요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev020501_MSG0013",
+      "style": 1,
+      "name": "무슨 큰 문제가 생긴다면\n블레이드 여러분의 힘을 빌리고 싶으니[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev020501_MSG0014",
+      "style": 1,
+      "name": "부디 그때는 도와주시길 바랄게요\n잘 부탁드립니다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev020501_MSG0019",
+      "style": 1,
+      "name": "종족이라는 울타리를 넘어 서로 손을 잡는다……\n멋진 일 아닌가요?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev020501_MSG0020",
+      "style": 1,
+      "name": "앞으로도 많은 외계인분과\n우호 조약을 체결했으면 좋겠네요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev020501_MSG0021",
+      "style": 1,
+      "name": "저희도 외계인분에 대한\n차별과 편견이 없어지도록 계몽 활동을 펼쳐서[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev020501_MSG0022",
+      "style": 1,
+      "name": "NLA를 더 다정하고 올바른 도시로\n바꿔 나가고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev020501_MSG0023",
+      "style": 1,
+      "name": "……당신은 블레이드죠? 싸우는 장소는 다르지만\n진정한 평등과 자유로운 세계를 이루기 위해\n서로 열심히 노력해요![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev020501_MSG0028",
+      "style": 1,
+      "name": "저는 우리를 공격한 그들에게\n대항하지 말아야 했을지도 모른다고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev020501_MSG0029",
+      "style": 1,
+      "name": "응전하지 않고 마지막까지 대화를 이어 갔다면\n분명 그로우스라도 이해해 주지 않았을까 하고……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev020501_MSG0030",
+      "style": 1,
+      "name": "이런 생각은…… 너무 안이한 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev020501_MSG0035",
+      "style": 1,
+      "name": "그들을 쓰러뜨리는 건 성공했어요……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev020501_MSG0036",
+      "style": 1,
+      "name": "하지만 전 그들과 서로 이해할 수 있는 길이\n그 밖에도 더 있지 않았을까……\n하는 생각이 지금도 들어요[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev020501_MSG0037",
+      "style": 1,
+      "name": "같은 우주에 살면서, 이 행성에서는\n이렇게 서로 대화도 할 수 있는데[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev020501_MSG0038",
+      "style": 1,
+      "name": "마음은 나눌 수가 없다니\n그렇게 슬픈 일은 또 없으니까요[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev020501_MSG0039",
+      "style": 1,
+      "name": "또 어떤 외계인과 대립하는 사태가 일어나면……\n그때는 꼭 진정한 화합을 요청하고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev020501_MSG1001",
+      "style": 1,
+      "name": "알렉스가 죽인 마 논인들의 유족을\n만나러 다니고 있는데……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev020501_MSG1002",
+      "style": 1,
+      "name": "그렇게 잔혹한 일을 당했는데도\n지구인을 원망하는 분은 거의 없었어요[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev020501_MSG1003",
+      "style": 1,
+      "name": "저희는 그 뛰어난 기술뿐만 아니라\n그들의 다정함도 배워야 하지 않을까요?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev020501_MSG1004",
+      "style": 1,
+      "name": "다음번에 그들의 훌륭함을\n많은 사람이 이해할 수 있도록 연설회를 열 거예요[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev020501_MSG1005",
+      "style": 1,
+      "name": "시간이 되시면\n[ST:playername ] 씨도 와 주세요[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev020501_MSG1010",
+      "style": 1,
+      "name": "속도는 느리지만…… 저희 지구인 사이에 있던\n외계인에 대한 편견도 없어지고 있는 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev020501_MSG1011",
+      "style": 1,
+      "name": "저 마 논 우주선을 방문하는 사람도\n전과 비교하면 상당히 늘어났고[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev020501_MSG1012",
+      "style": 1,
+      "name": "지금까지 이어 온 활동이\n드디어 결실을 보았다고 생각하니\n감개무량하네요[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev020501_MSG1013",
+      "style": 1,
+      "name": "……여기까지 올 수 있었던 건 \n당신의 도움과 앨리스의 헌신적인 지지 덕분이에요[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev020501_MSG1014",
+      "style": 1,
+      "name": "정말 감사합니다\n앞으로도 함께 진정한 자유와 평등을 추구하며\n활동을 계속해 나가요![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev020501_MSG1019",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "tev020501_MSG1020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "tev020501_MSG1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "tev020501_MSG1022",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

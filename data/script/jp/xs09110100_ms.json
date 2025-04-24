@@ -1,0 +1,276 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs09110100_MSG0001",
+      "style": 0,
+      "name": "う[ST:wide ]―　あう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs09110100_MSG0002",
+      "style": 0,
+      "name": "気がついたのか[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs09110100_MSG0003",
+      "style": 0,
+      "name": "ダグ　か[ST:wide ]―\nここは　ライフ？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs09110100_MSG0004",
+      "style": 0,
+      "name": "ＮＬＡだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs09110100_MSG0005",
+      "style": 0,
+      "name": "お前の[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]は機能停止する前に救われた\n残念だったな　生身の身体じゃなくって[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs09110100_MSG0006",
+      "style": 0,
+      "name": "そうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs09110100_MSG0007",
+      "style": 0,
+      "name": "ダグ　俺は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs09110100_MSG0008",
+      "style": 0,
+      "name": "考えるな　今は休め[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs09110100_MSG0009",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "xs09110100_MSG0010",
+      "style": 0,
+      "name": "よう[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs09110100_MSG0011",
+      "style": 0,
+      "name": "ダグ　あなたも来てたのね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs09110100_MSG0012",
+      "style": 0,
+      "name": "あの　ラオさんは？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs09110100_MSG0013",
+      "style": 0,
+      "name": "治療は一段落したそうだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs09110100_MSG0014",
+      "style": 0,
+      "name": "よかったら　顔を見に行ってやってくれ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs09110100_MSG0015",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs09110100_MSG0016",
+      "style": 0,
+      "name": "ダグ[ST:wide ]―　話したいことがあるの\nいいかしら？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs09110100_MSG0017",
+      "style": 0,
+      "name": "ああ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs09110100_MSG0018",
+      "style": 0,
+      "name": "私はラオに　疑惑を抱いている[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs09110100_MSG0019",
+      "style": 0,
+      "name": "残念だけど[ST:wide ]―\nそれはかなり確信に近づいているわ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs09110100_MSG0020",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "xs09110100_MSG0021",
+      "style": 0,
+      "name": "彼の提案によって私達は\nあの機体　ウィータを確保した[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs09110100_MSG0022",
+      "style": 0,
+      "name": "グロウスが手に入れようとして\n果たせずにいた機体をね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs09110100_MSG0023",
+      "style": 0,
+      "name": "そして　グロウスは[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "xs09110100_MSG0024",
+      "style": 0,
+      "name": "どこに保管されていたか分からないはずの\nウィータを易々と強奪することに成功した[ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "xs09110100_MSG0025",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "xs09110100_MSG0026",
+      "style": 0,
+      "name": "そして今回も　彼の情報に従って\nライフポイントへ赴き[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs09110100_MSG0027",
+      "style": 0,
+      "name": "グロウスの部隊に待ち伏せされた[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs09110100_MSG0028",
+      "style": 0,
+      "name": "ラオ　彼はおそらく[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs09110100_MSG0029",
+      "style": 0,
+      "name": "お前さんはどう思ってるんだ？\nやっぱり疑ってるのか？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs09110100_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 31,
+      "label": "xs09110100_SEL0011",
+      "style": 3,
+      "name": "ゆっくりとうなずく"
+    },
+    {
+      "$id": 32,
+      "label": "xs09110100_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 33,
+      "label": "xs09110100_SEL0021",
+      "style": 3,
+      "name": "大きく首を左右に振る"
+    },
+    {
+      "$id": 34,
+      "label": "xs09110100_MSG0030",
+      "style": 0,
+      "name": "そうだとしても　これまでお前さん達を\n助けてきたのも事実だろ？[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs09110100_MSG0031",
+      "style": 0,
+      "name": "何かわけがあるのなら俺はそれを聞きたい[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs09110100_MSG0032",
+      "style": 0,
+      "name": "あいつの口から[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs09110100_MSG0033",
+      "style": 0,
+      "name": "私もよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs09110100_MSG0034",
+      "style": 0,
+      "name": "そうか　そいつはありがてぇ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs09110100_MSG0035",
+      "style": 0,
+      "name": "あいつは異星人を恨んでる[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs09110100_MSG0036",
+      "style": 0,
+      "name": "地球人を売るような奴じゃない\n信じてやってくれ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs09110100_MSG0037",
+      "style": 0,
+      "name": "分かったわ\nあなたを信じる[ST:wait ]\n"
+    },
+    {
+      "$id": 42,
+      "label": "xs09110100_MSG0038",
+      "style": 0,
+      "name": "そして[ST:wide ]―　あなたが信じている人を[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs09110100_MSG0039",
+      "style": 0,
+      "name": "ありがたい　感謝する[ST:wait ]"
+    }
+  ]
+}

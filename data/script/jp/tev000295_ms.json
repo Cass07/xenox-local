@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000295_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]さん\nやはり私に声をかけてくださいましたか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000295_MSG0002",
+      "style": 1,
+      "name": "この体操は注目を浴びずには\nいられないようですね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000295_JNK0010",
+      "style": 4,
+      "name": "尋ねる"
+    },
+    {
+      "$id": 4,
+      "label": "tev000295_SEL0011",
+      "style": 3,
+      "name": "今の体操はいったい何なのか\n尋ねる"
+    },
+    {
+      "$id": 5,
+      "label": "tev000295_JNK0020",
+      "style": 4,
+      "name": "教えを請う"
+    },
+    {
+      "$id": 6,
+      "label": "tev000295_SEL0021",
+      "style": 3,
+      "name": "今の体操を教えてほしいと\nお願いする"
+    },
+    {
+      "$id": 7,
+      "label": "tev000295_MSG0003",
+      "style": 1,
+      "name": "至極まっとうな質問ですね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000295_MSG0004",
+      "style": 1,
+      "name": "これはナギから教えてもらった\nラジオ体操と呼ばれるものに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000295_MSG0005",
+      "style": 1,
+      "name": "ノポン人のストレッチを加え\nそれからバイアス人の成人の踊りを混ぜ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000295_MSG0006",
+      "style": 1,
+      "name": "私がアレンジしたものなのです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000295_MSG0007",
+      "style": 1,
+      "name": "私たちは一緒の街で暮らしていますが\n皆でできる体操は存在していませんでした[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000295_MSG0008",
+      "style": 1,
+      "name": "であれば　私が作ってみるのも\n悪いアイディアではないでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000295_MSG0009",
+      "style": 1,
+      "name": "おおっ[ST:wide ]―\nこの体操の可能性にすぐに気付くとは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000295_MSG0010",
+      "style": 1,
+      "name": "やはりあなたは只者ではないようです[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000295_MSG0011",
+      "style": 1,
+      "name": "これはナギから教えてもらった\nラジオ体操と呼ばれるものに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000295_MSG0012",
+      "style": 1,
+      "name": "ノポン人のストレッチを加え\nそれからバイアス人の成人の踊りを混ぜ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000295_MSG0013",
+      "style": 1,
+      "name": "私がアレンジしたものなのです[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000295_MSG0014",
+      "style": 1,
+      "name": "私たちは一緒の街で暮らしていますが\n皆でできる体操は存在していませんでした[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000295_MSG0015",
+      "style": 1,
+      "name": "ですので　私がひと肌脱いだという次第です[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000295_MSG0016",
+      "style": 1,
+      "name": "あなたも賛同していただけるという\nことですよね？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000295_JNK0030",
+      "style": 4,
+      "name": "同意する"
+    },
+    {
+      "$id": 22,
+      "label": "tev000295_SEL0031",
+      "style": 3,
+      "name": "すばらしい体操だと\nルーの試みを褒める"
+    },
+    {
+      "$id": 23,
+      "label": "tev000295_JNK0040",
+      "style": 4,
+      "name": "否定する"
+    },
+    {
+      "$id": 24,
+      "label": "tev000295_SEL0041",
+      "style": 3,
+      "name": "このダサい体操は\n普及しないと否定する"
+    },
+    {
+      "$id": 25,
+      "label": "tev000295_MSG0017",
+      "style": 1,
+      "name": "励みになるお言葉　ありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000295_MSG0018",
+      "style": 1,
+      "name": "どの異星人の方も奇異な目を向けるばかりで\n一緒に体操はしてくれないのですよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000295_MSG0019",
+      "style": 1,
+      "name": "しかし　これからは\nあなたというパートナーがいる[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000295_MSG0020",
+      "style": 1,
+      "name": "二人で普及活動すれば　2倍のスピードで\nNLAの方々に受け入れてもらえるはずです[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000295_MSG0021",
+      "style": 1,
+      "name": "故事に言う　運根鈍\n気長に参ろうではありませんか[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000295_MSG0022",
+      "style": 1,
+      "name": "なんと[ST:wide ]―！？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000295_MSG0023",
+      "style": 1,
+      "name": "ナギに見てもらったときと\nまったく同じ反応が返ってくるとは\n思いもよりませんでした[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000295_MSG0024",
+      "style": 1,
+      "name": "残念です[ST:wide ]―\nあなたもこの体操は奇妙でおもしろいとは\n思うものの　自らやろうとはしませんか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000295_MSG0025",
+      "style": 1,
+      "name": "しかし　見ていてください\n今は故事に言う　臥薪嘗胆ですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000295_MSG0026",
+      "style": 1,
+      "name": "1年後には　異星人含めNLAの住民のほとんどが\n毎朝この体操をしていますからね[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000295_MSG0027",
+      "style": 1,
+      "name": "楽しみですね[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

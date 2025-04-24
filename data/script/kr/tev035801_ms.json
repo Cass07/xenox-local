@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev035801_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev035801_SEL0011",
+      "style": 3,
+      "name": "일에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev035801_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev035801_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev035801_SEL0031",
+      "style": 3,
+      "name": "마 논 우주선에 관해 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev035801_SEL0041",
+      "style": 3,
+      "name": "마 논 우주선에 관해 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev035801_MSG0001",
+      "style": 1,
+      "name": "반짝반짝~ 반짝반짝~\n오늘도 모두 뷰티풀이넹![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev035801_MSG0002",
+      "style": 1,
+      "name": "오~ 당신 지금 나 혼자서\n스트레인지한 말을 한다고 생각했징?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev035801_MSG0003",
+      "style": 1,
+      "name": "나름대로 중요한 일이양\n후후, 무슨 일인지는\n조만간 알려 줄겡[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev035801_MSG0008",
+      "style": 1,
+      "name": "내 딸 파냐르가\n지구인의 옷을 베리 마음에 들어행[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev035801_MSG0009",
+      "style": 1,
+      "name": "하지만 어떤 걸 입어도\n헐렁헐렁해서 안 어울리는 모양이라 말이징[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev035801_MSG0010",
+      "style": 1,
+      "name": "어딘가에 어울리는 게 있을 거라면서\n상업 에어리어에서 나올 생각을 안 하고……\n잘 지내고 있는 걸깡?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev035801_MSG0015",
+      "style": 1,
+      "name": "플로어 한가운데에\n반짝반짝 빛나는 게 보이닝?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev035801_MSG0016",
+      "style": 1,
+      "name": "저게 마 논 우주선의\n중요한 에너지원이란당[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev035801_MSG0017",
+      "style": 1,
+      "name": "저기에서 생기는 에너지를\n벽 옆에 있는 장치가 변환하는 거양[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev035801_MSG0018",
+      "style": 1,
+      "name": "우후후후, 반짝반짝이를 소개해 줘서\n기쁜 모양이양![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev035801_MSG0025",
+      "style": 1,
+      "name": "마 논 우주선의 에너지원\n반짝반짝이는 살아 있단당[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev035801_MSG0026",
+      "style": 1,
+      "name": "반짝반짝이가 기뻐하면 발생하는 에너지를\n활용한 게 마 논 우주선이라는 거징[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev035801_MSG0027",
+      "style": 1,
+      "name": "지구인이 사용하는 어떤 에너지원보다\n파워풀하고 클린하단당, 대단하징?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev035801_MSG0028",
+      "style": 1,
+      "name": "우리가 만난 건\n500광년 떨어진 우주 영역에서……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev035801_MSG0029",
+      "style": 1,
+      "name": "어머, 반짝반짝이는 옛날이야기가 싫은 모양이야\n불쾌해하면 곤란하니까 여기까징[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev035801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev035801_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev035801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev035801_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev035801_MSG0011",
+      "style": 1,
+      "name": "파냐르 일은 생큐양!\n제대로 된 일을 하는 모양이고\n엄마는 베리 해피하구낭![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev035801_MSG0012",
+      "style": 1,
+      "name": "사이즈를 측정하게 해 준 보답으로\n향수라는 걸 받았엉[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev035801_MSG0013",
+      "style": 1,
+      "name": "그거 너무 쓰더구낭\n역시 미용과 건강을 위해서는\n고통을 견뎌야…… 응?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev035801_MSG0014",
+      "style": 1,
+      "name": "향수는 마시는 게 아니었엉?\n오 마이 갓![ST:wait ]"
+    }
+  ]
+}

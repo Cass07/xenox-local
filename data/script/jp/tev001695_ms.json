@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001695_MSG0001",
+      "style": 1,
+      "name": "やぁ　[ST:playername ]！\nミカとカンバーの件では　いろいろありがとね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001695_MSG0002",
+      "style": 1,
+      "name": "二人はすぐにメンテナンスセンターから\n出られたみたい[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001695_MSG0003",
+      "style": 1,
+      "name": "フェルナンとハンナのことは残念だったけど\n二人だけでも無事でよかったよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001695_MSG0004",
+      "style": 1,
+      "name": "あの時　あたしが黒いドールの話をしたこと\n覚えてるよね？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001695_MSG0005",
+      "style": 1,
+      "name": "訊きそびれてたけど　\nキミは白鯨が襲撃されているとき\n見なかった?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001695_MSG0006",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001695_MSG0007",
+      "style": 1,
+      "name": "そっか記憶がないんだったっけ？\nだったら　謎の黒いドールのことどう思う？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001695_JNK0010",
+      "style": 4,
+      "name": "冷淡[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001695_SEL0011",
+      "style": 3,
+      "name": "単なるカラーリングに\n過ぎないと冷やかに分析する[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001695_JNK0020",
+      "style": 4,
+      "name": "推測[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001695_SEL0021",
+      "style": 3,
+      "name": "NLAで作ってた新型機と\n推測する[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001695_JNK0030",
+      "style": 4,
+      "name": "断定[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001695_SEL0031",
+      "style": 3,
+      "name": "夜光の森で回収した\nグロウスのドールだと断言する[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001695_MSG0016",
+      "style": 1,
+      "name": "そんなことないと思うなぁ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001695_MSG0017",
+      "style": 1,
+      "name": "確かに黒にカラーリングされたドールが\nいくつかはあるけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001695_MSG0018",
+      "style": 1,
+      "name": "形が少し違った感じがするんだよね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001695_MSG0019",
+      "style": 1,
+      "name": "白鯨が襲撃されて　墜落するまでの映像は\n残ってないから　答えはわからないけど……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001695_MSG0020",
+      "style": 1,
+      "name": "そうそう\nどうしてこんな質問したのか分かる？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001695_MSG0022",
+      "style": 1,
+      "name": "確かにプログアレスだったのかも……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001695_MSG0023",
+      "style": 1,
+      "name": "でも　この星に着いてNLAが作られてから\n完成した機体だから\nあの時はまだ形もなかったはずだから……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001695_MSG0024",
+      "style": 1,
+      "name": "もしかしたら　あたしが見たのは\n幽霊だったとか？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001695_MSG0025",
+      "style": 1,
+      "name": "あはは……そんなわけないよね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001695_MSG0026",
+      "style": 1,
+      "name": "そうだ　どうしてこんな質問したのか分かる？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001695_MSG0028",
+      "style": 1,
+      "name": "グロウスのドールかぁ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001695_MSG0029",
+      "style": 1,
+      "name": "似てなくもない気がするけど\n地球人の味方なんかしてくれるのかな？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001695_MSG0030",
+      "style": 1,
+      "name": "いや　それもこれも……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001695_MSG0031",
+      "style": 1,
+      "name": "ね　どうしてこんな質問したのか分かる？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001695_JNK0040",
+      "style": 4,
+      "name": "推測[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001695_SEL0041",
+      "style": 3,
+      "name": "黒いドールに会いたいからと答える[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001695_JNK0050",
+      "style": 4,
+      "name": "制止[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001695_SEL0051",
+      "style": 3,
+      "name": "それよりもドールという単語を\n使ってもよくなったのか尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001695_MSG0038",
+      "style": 1,
+      "name": "違うんだよねー[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001695_MSG0039",
+      "style": 1,
+      "name": "黒いドールはいったいなんだったのか\n調べることにしたんだ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001695_MSG0041",
+      "style": 1,
+      "name": "くっ[ST:wide ]―\nなかなかいい切り返しだね[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001695_MSG0042",
+      "style": 1,
+      "name": "ドールのことを言葉を濁して話してたけど\nアレって単語ばかりの会話になっちゃったから\nティカに呆れられちゃって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001695_MSG0043",
+      "style": 1,
+      "name": "もう思うがままに生きなさいって\n言われたんだよね[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001695_MSG0044",
+      "style": 1,
+      "name": "だから　今は黒いドールのことを\n調べることにしたんだ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001695_MSG0046",
+      "style": 1,
+      "name": "残ってる映像がないか探したり\nこうして話して訊いてみたり[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001695_MSG0047",
+      "style": 1,
+      "name": "ドールが好きだーって言い続けていても\n何も起きないもんね[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001695_MSG0048",
+      "style": 1,
+      "name": "成果はあるかどうかはまだ分からないけど\nとにかく前進しないとね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001695_MSG0049",
+      "style": 1,
+      "name": "キミも情報があれば　教えてよね！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001695_MSG0050",
+      "style": 1,
+      "name": "絶対にあのドールの背中に\n追いついてみせるよ！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev027002_MSG0001",
+      "style": 1,
+      "name": "어떻게 된 건지 설명해![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev027002_MSG0002",
+      "style": 1,
+      "name": "설명하라고 해도 말이죠모모모~![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev027002_MSG0003",
+      "style": 1,
+      "name": "아니, 역시 설명은 됐어\n어떻게 책임질지 말해 봐![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev027002_MSG0004",
+      "style": 1,
+      "name": "책임지라고 해도 말이죠모모모모~![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev027002_MSG0005",
+      "style": 1,
+      "name": "아~ 안 되겠어! 너랑은 이야기가 안 돼![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev027002_MSG0006",
+      "style": 1,
+      "name": "앗! 잠깐만!\n당신 블레이드지?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev027002_MSG0007",
+      "style": 1,
+      "name": "외계인이랑 교섭 같은 걸 잘하게 생겼으니까\n이 노폰인에게 좀 말해 줘![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev027002_MSG0008",
+      "style": 1,
+      "name": "성의와 사과, 보상은\n장사의 기본이라고![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev027002_MSG0009",
+      "style": 1,
+      "name": "치로치로는 사과했습니다모~[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev027002_MSG0010",
+      "style": 1,
+      "name": "사과뿐만 아니라\n성의와 보상도 필요하다니까!\n일단 좀 조용히 있어 봐![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev027002_MSG0011",
+      "style": 1,
+      "name": "우선은 이 사람한테\n나에게 무슨 일이 있었는지 들려줘야겠어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev027002_MSG0012",
+      "style": 1,
+      "name": "왜 다투고 있는지는……\n혹시 대충 예상이 돼?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev027002_MSG0013",
+      "style": 1,
+      "name": "그래! 깔끔하게 매끈매끈해진\n나의 이 머리 때문이야![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev027002_MSG0014",
+      "style": 1,
+      "name": "난 딱히 펑크족도 아니고\n파파라치를 따돌리려고 돌발 행동을 하는\n연예인도 아니라고[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev027002_MSG0015",
+      "style": 1,
+      "name": "이 노폰인에게 산\n『매끈매끈 피부 에센스』를 사용했더니\n머리카락이 빠져서 머리까지 매끈매끈해진 거야![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev027002_MSG0016",
+      "style": 1,
+      "name": "매끈매끈은 맞습니다모~\n언니 예뻐졌습니다모~[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev027002_MSG0017",
+      "style": 1,
+      "name": "노폰인 너한테는 예뻐 보여도\n지구인에게는 출가한 사람으로 보인다고!\n난 출가하지 않았는데![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev027002_MSG0018",
+      "style": 1,
+      "name": "모……\n지구인의 감각은 어렵습니다모……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev027002_MSG0019",
+      "style": 1,
+      "name": "아무튼 성의가 느껴지는 보상을 청구할 거야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev027002_MSG0020",
+      "style": 1,
+      "name": "매끈매끈 에센스는 분명 5G였으니까……\n위자료와 위로비를 합해서\n2000배인 10000G면 돼![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev027002_MSG0021",
+      "style": 1,
+      "name": "못모오오오~~~~!?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev027002_MSG0022",
+      "style": 1,
+      "name": "그! 그건 너무합니다모!\n그런 돈 태어나서 본 적도 없습니다모!![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev027002_MSG0023",
+      "style": 1,
+      "name": "행성을 하나 살 수 있을 만한 금액입니다모~![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev027002_MSG0024",
+      "style": 1,
+      "name": "그건 너무 과장인데……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev027002_MSG0025",
+      "style": 1,
+      "name": "그런 거금 낼 수 있을 리 없습니다모~[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev027002_MSG0026",
+      "style": 1,
+      "name": "그럼 머리카락이 자라나는\n약이라도 준비해 와![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev027002_MSG0027",
+      "style": 1,
+      "name": "그런 약이 있는지 없는지 모릅니다모~[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev027002_MSG0028",
+      "style": 1,
+      "name": "모르면 찾아내든가 만들어 내든가\n네 노력으로 어떻게든 하라고![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev027002_MSG0029",
+      "style": 1,
+      "name": "모모~!\n이 언니 무섭습니다모~!\n도와주세요모~![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev027002_MSG0030",
+      "style": 1,
+      "name": "이봐, 너!\n이 블레이드는 내 편이잖아![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev027002_JNK0010",
+      "style": 4,
+      "name": "낸다"
+    },
+    {
+      "$id": 32,
+      "label": "tev027002_SEL0011",
+      "style": 3,
+      "name": "보상금을 낸다"
+    },
+    {
+      "$id": 33,
+      "label": "tev027002_JNK0020",
+      "style": 4,
+      "name": "찾는다"
+    },
+    {
+      "$id": 34,
+      "label": "tev027002_SEL0021",
+      "style": 3,
+      "name": "약을 찾아 온다"
+    },
+    {
+      "$id": 35,
+      "label": "tev027002_MSG0031",
+      "style": 1,
+      "name": "네……?\n치로치로 대신에 10000G를\n내 주시는 건가요모?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev027002_MSG0032",
+      "style": 1,
+      "name": "안 돼! 버릇 나빠져![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev027002_MSG0033",
+      "style": 1,
+      "name": "적어도 이 녀석이 상인이라면\n이런 일은 흐지부지 넘어가선 안 돼[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev027002_MSG0034",
+      "style": 1,
+      "name": "이 기회에 지구식의 비즈니스를\n확실하게 알려 줘야지![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev027002_MSG0035",
+      "style": 1,
+      "name": "약을 찾아 와 주시는 건가요모?\n혹시 『복슬복슬 헤어 에센스』에 대해\n짐작 가는 게 있나요모?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev027002_MSG0036",
+      "style": 1,
+      "name": "아니, 이름은 치로치로가 지금\n마음대로 생각해 냈습니다모……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev027002_MSG0037",
+      "style": 1,
+      "name": "안 돼! 버릇 나빠져![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev027002_MSG0038",
+      "style": 1,
+      "name": "적어도 이 녀석이 상인이라면\n이런 일은 흐지부지 넘어가선 안 돼[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev027002_MSG0039",
+      "style": 1,
+      "name": "이 기회에 지구식의 비즈니스를\n확실하게 알려 줘야지![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev027002_MSG0040",
+      "style": 1,
+      "name": "다른 사람에게 의지하지 말고\n10000G 아니면 머리가 자라나는 약을\n네 힘으로 준비하도록 해![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev027002_MSG0041",
+      "style": 1,
+      "name": "상인의 기개라는 걸 보여 달라고![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev027002_MSG0042",
+      "style": 1,
+      "name": "하…… 하지만……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev027002_MSG0043",
+      "style": 1,
+      "name": "이러쿵저러쿵 따지지 마!\n뛰어![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev027002_MSG0044",
+      "style": 1,
+      "name": "아, 알겠습니다모~~~![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03030100_MSG0001",
+      "style": 0,
+      "name": "応答がない以上　覚悟はしていたけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs03030100_MSG0002",
+      "style": 0,
+      "name": "この破損箇所　交戦したみたいですね\n原生生物の爪痕じゃないですよ[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs03030100_MSG0003",
+      "style": 0,
+      "name": "隊員達も見当たらない[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs03030100_MSG0004",
+      "style": 0,
+      "name": "自分の脚でどこかへ逃げたか\nでなければ連れ去られたか[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs03030100_JNK0010",
+      "style": 4,
+      "name": "楽観"
+    },
+    {
+      "$id": 6,
+      "label": "xs03030100_SEL0011",
+      "style": 3,
+      "name": "付近の捜索を提案する"
+    },
+    {
+      "$id": 7,
+      "label": "xs03030100_JNK0020",
+      "style": 4,
+      "name": "悲観"
+    },
+    {
+      "$id": 8,
+      "label": "xs03030100_SEL0021",
+      "style": 3,
+      "name": "うつむいて隊員の冥福を祈る"
+    },
+    {
+      "$id": 9,
+      "label": "xs03030100_MSG0005",
+      "style": 0,
+      "name": "そうね　あたりを探索してみましょう\n隊員達が見つかるかも知れない[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs03030100_MSG0006",
+      "style": 0,
+      "name": "そんな考えでは\nこの星では生き残っていけないわ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs03030100_MSG0007",
+      "style": 0,
+      "name": "諦めたらそこで全てが終わってしまう[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs03030100_MSG0007_2",
+      "style": 0,
+      "name": "まずはあたりを探索してみましょう[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs03030100_MSG0008",
+      "style": 0,
+      "name": "ちょっと待ってください　エルマさん[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs03030100_MSG0009",
+      "style": 0,
+      "name": "あの方角から　地球規格のＩＦＦ発信が[ST:wide ]―\nパスファインダーの反応です！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs03030100_MSG0010",
+      "style": 0,
+      "name": "あそこは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs03030100_MSG0011",
+      "style": 0,
+      "name": "明らかに人工物[ST:wide ]―　ですよね？[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs03030100_MSG0012",
+      "style": 0,
+      "name": "この造り[ST:wide ]―　まるで要塞の様ね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs03030100_MSG0013",
+      "style": 0,
+      "name": "これ見てください\n私達のとは異なる生体反応が[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs03030100_MSG0014",
+      "style": 0,
+      "name": "内部で未確認の生命体が活動しているようです\nエルマさん　この動き方[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs03030100_JNK0030",
+      "style": 4,
+      "name": "確信"
+    },
+    {
+      "$id": 21,
+      "label": "xs03030100_SEL0031",
+      "style": 3,
+      "name": "知的生命体の存在を示唆する"
+    },
+    {
+      "$id": 22,
+      "label": "xs03030100_JNK0040",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 23,
+      "label": "xs03030100_SEL0041",
+      "style": 3,
+      "name": "ただの原生生物だと伝える"
+    },
+    {
+      "$id": 24,
+      "label": "xs03030100_MSG0015",
+      "style": 0,
+      "name": "そうね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs03030100_MSG0016",
+      "style": 0,
+      "name": "違うわ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs03030100_MSG0017",
+      "style": 0,
+      "name": "秩序だった集団行動をとっている\n明らかに知的生命体だわ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs03030100_MSG0018",
+      "style": 0,
+      "name": "これがこの惑星の先住生物なのか[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs03030100_MSG0019",
+      "style": 0,
+      "name": "私達のような外来生物なのかは\n分からないけれど[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "xs03030100_MSG0020",
+      "style": 0,
+      "name": "地球を戦いに巻きこんだ種族なんでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs03030100_MSG0021",
+      "style": 0,
+      "name": "宇宙には　地球人類の想像を越える\n世界が広がっている[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs03030100_MSG0022",
+      "style": 0,
+      "name": "どんな可能性も　まだ捨てきれないわね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs03030100_MSG0023",
+      "style": 0,
+      "name": "ＮＬＡに救援要請しますか？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs03030100_MSG0024",
+      "style": 0,
+      "name": "傍受される可能性もあるわ\nここは通信封鎖したまま　隊員達を救出する[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs03030100_MSG0025",
+      "style": 0,
+      "name": "キサマラ　ナニしてイル！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs03030100_MSG0026",
+      "style": 0,
+      "name": "えっ！？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs03030100_MSG0027",
+      "style": 0,
+      "name": "迂闊だった\n前方に集中しすぎた！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs03030100_MSG0028",
+      "style": 0,
+      "name": "地球人ダト？\nナゼここにイル！[ST:wait ]\n"
+    },
+    {
+      "$id": 38,
+      "label": "xs03030100_MSG0029",
+      "style": 0,
+      "name": "地球人を知っている\nということは　やはりここに[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 39,
+      "label": "xs03030100_JNK0050",
+      "style": 4,
+      "name": "穏便"
+    },
+    {
+      "$id": 40,
+      "label": "xs03030100_SEL0051",
+      "style": 3,
+      "name": "構えを解き話し合う"
+    },
+    {
+      "$id": 41,
+      "label": "xs03030100_JNK0060",
+      "style": 4,
+      "name": "好戦"
+    },
+    {
+      "$id": 42,
+      "label": "xs03030100_SEL0061",
+      "style": 3,
+      "name": "戦う姿勢をとる"
+    },
+    {
+      "$id": 43,
+      "label": "xs03030100_MSG0030",
+      "style": 0,
+      "name": "どうしたんですか？[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs03030100_MSG0031",
+      "style": 0,
+      "name": "それでいいわ[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs03030100_MSG0031_2",
+      "style": 0,
+      "name": "リン　あなたも構えを解いて\nどうやら言葉は通じるみたい[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "xs03030100_MSG0032",
+      "style": 0,
+      "name": "それって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs03030100_MSG0033",
+      "style": 0,
+      "name": "交渉の余地が残されている　ということよ[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "xs03030100_MSG0034",
+      "style": 0,
+      "name": "なるほど[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs03030100_MSG0035",
+      "style": 0,
+      "name": "ダメよ[ST:wait ]\n"
+    },
+    {
+      "$id": 50,
+      "label": "xs03030100_MSG0036",
+      "style": 0,
+      "name": "最初に会った時に言ったはず\nむやみに好戦的にはなるなと[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs03030100_MSG0037",
+      "style": 0,
+      "name": "幸い相手は　[System:Ruby rt=こちら ]地球[/System:Ruby]の言葉が理解できている[ST:wait ]\n"
+    },
+    {
+      "$id": 52,
+      "label": "xs03030100_MSG0038",
+      "style": 0,
+      "name": "つまり[ST:wide ]―\n交渉の余地が残されている　ということよ[ST:wait ]\n"
+    },
+    {
+      "$id": 53,
+      "label": "xs03030100_MSG0039",
+      "style": 0,
+      "name": "そうですね[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs03030100_MSG0040",
+      "style": 0,
+      "name": "交渉したい[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs03030100_MSG0040_2",
+      "style": 0,
+      "name": "捕虜がいるなら解放して欲しい\n解放に条件があるのならそれも聞く[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs03030100_MSG0041",
+      "style": 0,
+      "name": "いないのなら　私達は立ち去るわ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs03030100_MSG0042",
+      "style": 0,
+      "name": "地球人ミナゴロシ　ダ\nそう命じられてイル！[ST:wait ]\n"
+    },
+    {
+      "$id": 58,
+      "label": "xs03030100_MSG0043",
+      "style": 0,
+      "name": "そうダ　一匹も逃がさナイ[ST:wait ]\n"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087407_MSG0011",
+      "style": 1,
+      "name": "파츠도 없고 일손도 부족하고……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087407_MSG0012",
+      "style": 1,
+      "name": "이런 상황을 타파하기 위해\n사령관님의 지혜를 빌릴 수 있다면 좋을 텐데……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087407_MSG0013",
+      "style": 1,
+      "name": "역시 바쁘실까요……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087407_MSG0001",
+      "style": 1,
+      "name": "반담 사령관님은 우리조차 탄성을 지를 정도로\n메카닉으로서의 깊은 지식을 갖고 계셔서[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087407_MSG0002",
+      "style": 1,
+      "name": "사령관님의 조언은 언제나\n저와 메카닉 동료인 바이런에게\n큰 도움이 되고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087407_MSG0003",
+      "style": 1,
+      "name": "정말 멋진 사령관님이시죠?\n당신은…… 그렇게 생각하지 않나요?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087407_MSG0004",
+      "style": 1,
+      "name": "도와주셔서 감사합니다![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087407_MSG0005",
+      "style": 1,
+      "name": "반담 사령관님이라면\n『밤에 일하는 모습도 보여 줄 테니 찾아 봐라』\n라는 전언을 남기고 떠나셨어요……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087407_MSG0006",
+      "style": 1,
+      "name": "대체 어디로 가신 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087407_MSG0007",
+      "style": 1,
+      "name": "블레이드 에어리어로 향하셨으니\n그 주변에 있을 것 같긴 한데요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087407_MSG0008",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "qev087407_MSG0009",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "qev087407_MSG0010",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

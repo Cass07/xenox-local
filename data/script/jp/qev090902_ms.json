@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090902_MSG0001",
+      "style": 0,
+      "name": "この辺りのターゲットは\n一掃できたみたいですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090902_MSG0002",
+      "style": 0,
+      "name": "[ST:wide ]―前に来た時より大分\n繁殖してしまっているようです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090902_MSG0003",
+      "style": 0,
+      "name": "厄介なことになる前に\n一刻も早く　奥にいる母親を倒しましょう[ST:wait ]"
+    }
+  ]
+}

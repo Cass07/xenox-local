@@ -1,0 +1,276 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085305_MSG0001",
+      "style": 0,
+      "name": "おう　親父　無事だったか\nフレムタイドは取ってこれたか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085305_MSG0002",
+      "style": 0,
+      "name": "親父？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085305_MSG0003",
+      "style": 0,
+      "name": "当たり前じゃ！\nわしを誰だと思っておる[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085305_MSG0004",
+      "style": 0,
+      "name": "親父のこと　あんたらに任せて正解だったよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085305_MSG0004_2",
+      "style": 0,
+      "name": "親父　ビール飲みに行こうぜ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085305_MSG0005",
+      "style": 0,
+      "name": "おう　行くぞ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085305_MSG0006",
+      "style": 0,
+      "name": "あっ　おい！\nちょっと待て！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085305_MSG0007",
+      "style": 0,
+      "name": "コール家家訓その１\n仕事の後はビールに限る　だ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085305_MSG0008",
+      "style": 0,
+      "name": "だからそうじゃない！\n今　リブロのこと親父って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085305_MSG0009",
+      "style": 0,
+      "name": "ああ　言ったけど[ST:wide ]―\nそれがどうかしたか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085305_MSG0010",
+      "style": 0,
+      "name": "いや　だって[ST:wide ]―\nリブロさんが息子さんじゃ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085305_MSG0011",
+      "style": 0,
+      "name": "俺達のこと　ヴァンダム司令から\n聞いてるんじゃなかったのか？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085305_MSG0012",
+      "style": 0,
+      "name": "なるほど\n変わっていると言っていたのはこういうこと[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085305_MSG0013",
+      "style": 0,
+      "name": "ヴァンダムも人が悪いわね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085305_MSG0014",
+      "style": 0,
+      "name": "いったいどういうことですも？\nタツ　さっぱりわからないですも[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085305_MSG0015",
+      "style": 0,
+      "name": "リブロ・コール\nあなた　実は八十歳を超えているんじゃない？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085305_MSG0016",
+      "style": 0,
+      "name": "何を言っとる　わしはまだ七十代だ！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085305_MSG0017",
+      "style": 0,
+      "name": "ええっ！？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085305_MSG0018",
+      "style": 0,
+      "name": "中身の話よ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085305_MSG0019",
+      "style": 0,
+      "name": "若い[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]をくれなきゃ\n白鯨に乗ってやらんって駄々こねたんだよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085305_MSG0020",
+      "style": 0,
+      "name": "何言っとる\n精神年齢にふさわしい身体をもらっただけじゃ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085305_MSG0021",
+      "style": 0,
+      "name": "さぁ　さっさと行くぞ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085305_MSG0022",
+      "style": 0,
+      "name": "はいよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085305_MSG0023",
+      "style": 0,
+      "name": "エルマさん\n私は頭の中がぐちゃぐちゃです[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085305_JNK0010",
+      "style": 4,
+      "name": "自信"
+    },
+    {
+      "$id": 26,
+      "label": "qev085305_SEL0011",
+      "style": 3,
+      "name": "リブロが息子でキアスが父親"
+    },
+    {
+      "$id": 27,
+      "label": "qev085305_JNK0020",
+      "style": 4,
+      "name": "確信"
+    },
+    {
+      "$id": 28,
+      "label": "qev085305_SEL0021",
+      "style": 3,
+      "name": "キアスが息子でリブロが父親"
+    },
+    {
+      "$id": 29,
+      "label": "qev085305_MSG0024",
+      "style": 0,
+      "name": "あなたもぐちゃぐちゃみたいね\nリブロが父親でキアスが息子よ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085305_MSG0025",
+      "style": 0,
+      "name": "自信満々で間違えたですも！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085305_MSG0025_m",
+      "style": 0,
+      "name": "自信満々で間違えたですも！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085305_MSG0025_f",
+      "style": 0,
+      "name": "自信満々で間違えたですも！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085305_MSG0026",
+      "style": 0,
+      "name": "正解　キアスが息子でリブロは父親ね[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085305_MSG0027",
+      "style": 0,
+      "name": "私もそれはわかってはいるんですけどね\nなんかしっくりこないんですよ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085305_MSG0028",
+      "style": 0,
+      "name": "しかし　見た目もかわってますけど\n性格もかわってましたね[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085305_MSG0029",
+      "style": 0,
+      "name": "そうですね[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev085305_MSG0030",
+      "style": 0,
+      "name": "リブロさん　息子さんに置いていかれたのに\n全然気にしてませんでしたね[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev085305_MSG0031",
+      "style": 0,
+      "name": "むしろ普通っていう感じでした[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev085305_MSG0032",
+      "style": 0,
+      "name": "たとえ一人になっても\n任務を遂行するというのは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev085305_MSG0033",
+      "style": 0,
+      "name": "ブレイドの鑑とも言えるけど[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev085305_MSG0034",
+      "style": 0,
+      "name": "ただ任務だからって家族なのに\nあそこまで割り切れるっていうのは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev085305_MSG0035",
+      "style": 0,
+      "name": "すごいと言っていいのかどうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev085305_MSG0036",
+      "style": 0,
+      "name": "あたしにはあの親子は\n一生理解出来そうにないです[ST:wait ]"
+    }
+  ]
+}

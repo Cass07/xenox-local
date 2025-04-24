@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs07080100_MSG0001",
+      "style": 0,
+      "name": "ヴァンダム司令　ただいま帰還しました！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs07080100_MSG0002",
+      "style": 0,
+      "name": "イリーナもさっき報告に来た[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs07080100_MSG0003",
+      "style": 0,
+      "name": "全員無傷で帰還とは　さすがだな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs07080100_MSG0004",
+      "style": 0,
+      "name": "でも　データベースユニットが破壊された[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs07080100_MSG0005",
+      "style": 0,
+      "name": "これでまた一つ\n地球の遺産が失われてしまったわ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs07080100_MSG0006",
+      "style": 0,
+      "name": "残念だが　クルーを失うよりマシだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs07080100_MSG0007",
+      "style": 0,
+      "name": "よし　飯行くか\n俺のおごりだ[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs07080100_MSG0008",
+      "style": 0,
+      "name": "今回はお前らに世話になったからな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs07080100_MSG0009",
+      "style": 0,
+      "name": "珍しいわね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs07080100_MSG0010",
+      "style": 0,
+      "name": "珍しいですね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs07080100_MSG0011",
+      "style": 0,
+      "name": "珍しいですも[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs07080100_MSG0012",
+      "style": 0,
+      "name": "ぐっ[ST:wide ]―　お前ら揃いも揃って[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs07080100_MSG0017",
+      "style": 0,
+      "name": "でも　本当にお礼なんて\nらしくないこと言わないで[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs07080100_MSG0018",
+      "style": 0,
+      "name": "ここは未知の星[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs07080100_MSG0019",
+      "style": 0,
+      "name": "私達もいつイリーナ達と同じようなことに\nなるか分からないんだから[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs07080100_MSG0020",
+      "style": 0,
+      "name": "そりゃそうだが[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs07080100_MSG0021",
+      "style": 0,
+      "name": "リンさんのご飯が一番ですも！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs07080100_MSG0022",
+      "style": 0,
+      "name": "タツ　いいこというね！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs07080100_MSG0023",
+      "style": 0,
+      "name": "今日は　特別にデザートつけちゃう！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs07080100_MSG0024",
+      "style": 0,
+      "name": "もももも～！！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs07080100_MSG0025",
+      "style": 0,
+      "name": "だそうよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs07080100_MSG0026",
+      "style": 0,
+      "name": "リンの料理にはさすがに勝てないな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs07080100_MSG0027",
+      "style": 0,
+      "name": "ヴァンダム司令も食べに来てくださいね！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs07080100_MSG0028",
+      "style": 0,
+      "name": "おう　分かった[ST:wait ]\n"
+    }
+  ]
+}

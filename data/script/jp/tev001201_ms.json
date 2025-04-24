@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001201_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]さん\nお出かけするんですか？\n私も連れて行ってください！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001201_MSG0002",
+      "style": 1,
+      "name": "ドールフライトカスタムの制作に\n行き詰っちゃって……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001201_MSG0003",
+      "style": 1,
+      "name": "たまにはブレイドの仕事をしたいなぁって\n思ってたんです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001201_JNK0010",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 5,
+      "label": "tev001201_SEL0011",
+      "style": 3,
+      "name": "リンをメンバーに加える"
+    },
+    {
+      "$id": 6,
+      "label": "tev001201_JNK0020",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 7,
+      "label": "tev001201_SEL0021",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 8,
+      "label": "tev001201_MSG0004",
+      "style": 1,
+      "name": "ありがとうございます！\n私　張り切っちゃいますよ！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001201_MSG0005",
+      "style": 1,
+      "name": "お気遣いありがとうございます\nきっとものすごく大変な任務なんですね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001201_MSG0010",
+      "style": 1,
+      "name": "[ST:playername ]さん\nドールフライトカスタムの調子はどうですか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001201_MSG0011",
+      "style": 1,
+      "name": "現場で役に立っているか確かめたいですし……\n一緒に連れて行ってくれませんか？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001201_JNK0150",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 13,
+      "label": "tev001201_SEL0151",
+      "style": 3,
+      "name": "リンをメンバーに加える"
+    },
+    {
+      "$id": 14,
+      "label": "tev001201_JNK0160",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 15,
+      "label": "tev001201_SEL0161",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 16,
+      "label": "tev001201_MSG0012",
+      "style": 1,
+      "name": "ありがとうございます！\n私　張り切っちゃいますよ！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001201_MSG0013",
+      "style": 1,
+      "name": "それじゃご飯の支度してますから\nお腹が減ったら戻って来てくださいね！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001201_MSG0018",
+      "style": 1,
+      "name": "やっとセントラルライフが見つかる[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001201_MSG0019",
+      "style": 1,
+      "name": "私も精一杯頑張りますから\nみんなが幸せに生きていける未来\n必ず　掴み取りましょうね！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001201_JNK0150",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev001201_SEL0151",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev001201_JNK0160",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev001201_SEL0161",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev001201_MSG0020",
+      "style": 1,
+      "name": "ありがとうございます！\n私　張り切っちゃいますよ！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001201_MSG0021",
+      "style": 1,
+      "name": "では　いってらっしゃい\n必ず無事に　帰って来てくださいね！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001201_MSG0026",
+      "style": 1,
+      "name": "おでかけですか？\n私も　ちょうど外に行きたいなーって\n思ってたんですよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001201_MSG0027",
+      "style": 1,
+      "name": "お願いします　どこでもいいですから\n連れて行ってください！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001201_JNK0170",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 29,
+      "label": "tev001201_SEL0171",
+      "style": 3,
+      "name": "リンをメンバーに加える"
+    },
+    {
+      "$id": 30,
+      "label": "tev001201_JNK0180",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 31,
+      "label": "tev001201_SEL0181",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 32,
+      "label": "tev001201_MSG0028",
+      "style": 1,
+      "name": "ありがとうございます！\n私　張り切っちゃいますよ！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001201_MSG0029",
+      "style": 1,
+      "name": "じゃあお留守番してますね\nお土産に何か食材でも取ってきてください！[ST:wait ]"
+    }
+  ]
+}

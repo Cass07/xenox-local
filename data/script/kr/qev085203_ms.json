@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085203_MSG0001",
+      "style": 0,
+      "name": "해냈다모~~\n다들 역시 대단하다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085203_MSG0002",
+      "style": 0,
+      "name": "이상하네……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085203_MSG0003",
+      "style": 0,
+      "name": "그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085203_MSG0004",
+      "style": 0,
+      "name": "타, 타츠가 뭐 이상한 말 했냐모?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085203_MSG0005",
+      "style": 0,
+      "name": "그게 아니라[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085203_MSG0006",
+      "style": 0,
+      "name": "지금 쓰러뜨린 정도의 원시 생물로는\n큰 피해를 입었을 것 같지 않다는 거야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085203_MSG0007",
+      "style": 0,
+      "name": "맞아[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085203_MSG0008",
+      "style": 0,
+      "name": "굳이 엘마 대령님에게 의뢰한 일이니\n진짜 표적은 이 정도가 아닐걸[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085203_MSG0009",
+      "style": 0,
+      "name": "여기는 엘마, 비상사태야?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085203_MSG0010",
+      "style": 0,
+      "name": "네, 그쪽 근처 에어리어에서\n고레벨 원시 생물에게 습격당한 팀이 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085203_MSG0011",
+      "style": 0,
+      "name": "알겠어, 바로 갈게[ST:wait ]"
+    }
+  ]
+}

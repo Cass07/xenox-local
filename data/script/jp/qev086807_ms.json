@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086807_MSG0001",
+      "style": 0,
+      "name": "皆さん お怪我はありませんか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086807_JNK0010",
+      "style": 4,
+      "name": "良好"
+    },
+    {
+      "$id": 3,
+      "label": "qev086807_SEL0011",
+      "style": 3,
+      "name": "ピンピンしてると微笑む"
+    },
+    {
+      "$id": 4,
+      "label": "qev086807_JNK0020",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 5,
+      "label": "qev086807_SEL0021",
+      "style": 3,
+      "name": "セリカこそ無事なのか尋ねる"
+    },
+    {
+      "$id": 6,
+      "label": "qev086807_MSG0002",
+      "style": 0,
+      "name": "あの程度の危険なら\nみんな何度も乗り越えてきたんですも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086807_MSG0003",
+      "style": 0,
+      "name": "そうそう　だからセリカさんは\nなんにも気にしなくていいんですよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086807_MSG0004",
+      "style": 0,
+      "name": "はい　大丈夫です\nロックのためだと思ったら　頑張れるから[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086807_MSG0005",
+      "style": 0,
+      "name": "それより皆さんこそ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086807_MSG0006",
+      "style": 0,
+      "name": "おんなじですよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086807_MSG0007",
+      "style": 0,
+      "name": "私たちもセリカさんのためと思って\nがんばっちゃいました[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086807_MSG0008",
+      "style": 0,
+      "name": "ロックさんもね！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086807_MSG0009",
+      "style": 0,
+      "name": "ところでセレネハーブは採取できたんですか？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086807_MSG0010",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086807_MSG0011",
+      "style": 0,
+      "name": "ブレイドの適性試験　無事に果たしたようね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086807_MSG0012",
+      "style": 0,
+      "name": "でも　皆さんに助けてもらったから[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086807_MSG0013",
+      "style": 0,
+      "name": "いいんですよ　そんなの\nブレイドは仲間と一緒に働くものなんですから[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086807_MSG0014",
+      "style": 0,
+      "name": "力を貸しあって\nそれで任務成功すればいいんです[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086807_MSG0015",
+      "style": 0,
+      "name": "あなたは立派なブレイドの一員よ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086807_MSG0016",
+      "style": 0,
+      "name": "文句を言うやつは\nエルマさんが相手になるですも[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086807_MSG0017",
+      "style": 0,
+      "name": "さぁ帰りましょう　私達の街に[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086807_MSG0018",
+      "style": 0,
+      "name": "うん！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086807_MSG0019",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    }
+  ]
+}

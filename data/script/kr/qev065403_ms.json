@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065403_MSG0001",
+      "style": 1,
+      "name": "선발대 중에는 내 지인도 있어\n어떻게든 구해 줘[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065403_MSG0002",
+      "style": 1,
+      "name": "하지만 너무 소란을 피우면\nNLA 주민들 사이에 불안이 퍼질 거야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065403_MSG0003",
+      "style": 1,
+      "name": "북쪽 요새에는 가능한 한\n적은 인원으로 가는 게 무난하겠지[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065403_MSG0004",
+      "style": 1,
+      "name": "오, 너는 라라의 의뢰를 받은\n블레이드지……?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev065403_MSG0005",
+      "style": 1,
+      "name": "기, 기다려! 난 진짜 클레몬스야!\n거짓 정보를 제공한 데피니아인이 아니라고![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev065403_MSG0006",
+      "style": 1,
+      "name": "나도 전혀 모르는 사이에\n가짜가 자리 잡고 있었다니까[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev065403_MSG0007",
+      "style": 1,
+      "name": "잠깐 임무 때문에\nNLA에서 벗어났더니 일이 터졌어……\n보기 좋게 당한 거지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev065403_MSG0008",
+      "style": 1,
+      "name": "적은 지금 스리엘라의 모습을 하고 있다면서?\n그렇다면 이쪽 근처에서는 본 적 없어\n너는 다른 에어리어를 조사해 봐[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev065403_MSG0009",
+      "style": 1,
+      "name": "……아, 그리고[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065403_MSG0010",
+      "style": 1,
+      "name": "아까 들은 건데 공업 에어리어에서\n시체가 발견되었다고 해[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065403_MSG0011",
+      "style": 1,
+      "name": "어쩌면 이번 외계인 사건과\n관련이 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065403_MSG0012",
+      "style": 1,
+      "name": "라라도 그쪽으로 향했을 테니까\n한번 가 보는 게 어때?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065403_MSG0013",
+      "style": 1,
+      "name": "무언가…………\n새로운 진실을 알게 될지도 모르잖아……?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065403_MSG0014",
+      "style": 1,
+      "name": "……그러면 이만![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055502_MSG0001",
+      "style": 1,
+      "name": "이건…… 뭐지? 나를 덮치는 건가?\n위험…… 위험해, 위험해…… 누가 좀……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055502_MSG0002",
+      "style": 1,
+      "name": "아아, 머리가 아파……\n머리가…… 깨질 것 같아……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055502_MSG0003",
+      "style": 1,
+      "name": "나는 당신들을 알고 있어……\n도와줘, 부탁이야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev055502_MSG0004",
+      "style": 1,
+      "name": "나는 당신 덕분에 살았어\n고맙다고 해야겠네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev055502_MSG0005",
+      "style": 1,
+      "name": "……아아, 아직도 머릿속에서 무언가가\n이건 대체 뭐야?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev055502_JNK0010",
+      "style": 4,
+      "name": "알려 준다"
+    },
+    {
+      "$id": 7,
+      "label": "qev055502_SEL0011",
+      "style": 3,
+      "name": "오르페 안에 존재하는\n오버의 의사라고 말한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev055502_JNK0020",
+      "style": 4,
+      "name": "걱정한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev055502_SEL0021",
+      "style": 3,
+      "name": "아직 혼란스러워서 그런 거라며\n마음을 진정시킨다"
+    },
+    {
+      "$id": 10,
+      "label": "qev055502_MSG0006",
+      "style": 1,
+      "name": "혹시 오르페에게는 당연한 일이야?\n이것이 오버의 의사라는 거구나[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev055502_MSG0007",
+      "style": 1,
+      "name": "괜찮아\n진정되고 있어, 고마워[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev055502_MSG0008",
+      "style": 1,
+      "name": "나는 오르페라고 불리는 종족이고\n당신은 인간이라는 종족, 이해되기 시작했어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev055502_MSG0009",
+      "style": 1,
+      "name": "하지만 나는 어째서 여기에?\n이것도 오버의 의사인 걸까……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev055502_MSG0010",
+      "style": 1,
+      "name": "이상해……\n나, 이름이 없는 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev055502_JNK0110",
+      "style": 4,
+      "name": "안전을 확보"
+    },
+    {
+      "$id": 16,
+      "label": "qev055502_SEL0111",
+      "style": 3,
+      "name": "고민은 나중에 하고\n우선 NLA로 귀환하자고 제안한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev055502_JNK0120",
+      "style": 4,
+      "name": "새로운 종의 분열체"
+    },
+    {
+      "$id": 18,
+      "label": "qev055502_SEL0121",
+      "style": 3,
+      "name": "분열 모체에 따르면\n새로운 종이라는 듯하다고 말한다"
+    },
+    {
+      "$id": 19,
+      "label": "qev055502_MSG0011",
+      "style": 1,
+      "name": "그래, 그렇게 하자[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev055502_MSG0012",
+      "style": 1,
+      "name": "빨리 NLA로 돌아가서……\n나의 분열 모체와 이야기해야지[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev055502_MSG0013",
+      "style": 1,
+      "name": "나의 분열 모체……\n그렇구나, 나는 그 종에게서 분열한 거야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev055502_MSG0014",
+      "style": 1,
+      "name": "분열 모체에게 확인하고 싶은 게 아주 많아\n아무튼 NLA로 돌아가자[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085902_MSG0001",
+      "style": 0,
+      "name": "へえ　あの人　ドロシーさんっていうんですか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085902_MSG0002",
+      "style": 0,
+      "name": "きれいな人ですね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085902_MSG0003",
+      "style": 0,
+      "name": "いやあ　それほどでも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085902_MSG0004",
+      "style": 0,
+      "name": "シンゴさんが謙遜するとこじゃないと思います[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085902_MSG0005",
+      "style": 0,
+      "name": "じゃあさっそくタツが　好きな食べもの\n聞いてきてあげるですも！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085902_MSG0006",
+      "style": 0,
+      "name": "余計なことしなくていいの！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085902_MSG0007",
+      "style": 0,
+      "name": "はあ　でもきれいな人すぎて\n俺なんかじゃとても[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085902_MSG0008",
+      "style": 0,
+      "name": "どうしたら　あの人に喜んでもらえるんだろう[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085902_JNK0010",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 10,
+      "label": "qev085902_SEL0011",
+      "style": 3,
+      "name": "プレゼント作戦を立案する"
+    },
+    {
+      "$id": 11,
+      "label": "qev085902_JNK0020",
+      "style": 4,
+      "name": "進言"
+    },
+    {
+      "$id": 12,
+      "label": "qev085902_SEL0021",
+      "style": 3,
+      "name": "迷わず告白することを勧める"
+    },
+    {
+      "$id": 13,
+      "label": "qev085902_MSG0009",
+      "style": 0,
+      "name": "ええっ　いきなりプレゼントですか！？\n食事に誘うとかじゃないんですか？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085902_MSG0010",
+      "style": 0,
+      "name": "食事に誘うはいいですけど\n今時　食事だけじゃだめですよ！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085902_MSG0011",
+      "style": 0,
+      "name": "いきなりのプレゼントで\nガツンと印象つけないと！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085902_MSG0012",
+      "style": 0,
+      "name": "そうなのかな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085902_MSG0013",
+      "style": 0,
+      "name": "案外　悪くないかもしれないわよ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085902_MSG0014",
+      "style": 0,
+      "name": "彼女　ファッションに\n気を使っているみたいだから[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085902_MSG0015",
+      "style": 0,
+      "name": "食事の時にブレスレットみたいな\nアクセサリーを贈ったら喜ぶんじゃないかしら[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085902_MSG0016",
+      "style": 0,
+      "name": "それ絶対　喜ぶと思います！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085902_MSG0017",
+      "style": 0,
+      "name": "そうですね！\nここは男らしく！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085902_MSG0018",
+      "style": 0,
+      "name": "ええっ　いきなりですか！？\n無理ですよ！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085902_MSG0019",
+      "style": 0,
+      "name": "あなた達　真面目に考えているの？\nいくら何でもそれは無茶よ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085902_MSG0020",
+      "style": 0,
+      "name": "やっぱりそうですよね[ST:wide ]―\nそれだったら無難に食事に誘うとかですかね？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085902_MSG0021",
+      "style": 0,
+      "name": "そうですよね\nでも　普通すぎますかね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085902_MSG0022",
+      "style": 0,
+      "name": "それなら彼女　ファッションに\n気を使っているみたいだから[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085902_MSG0023",
+      "style": 0,
+      "name": "食事の時にブレスレットみたいなアクセサリー\nでもプレゼントしたらいいんじゃない？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085902_MSG0024",
+      "style": 0,
+      "name": "それいいですね！\nガツンと印象もつけられますね！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085902_MSG0025",
+      "style": 0,
+      "name": "なるほど！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085902_MSG0026",
+      "style": 0,
+      "name": "でも　このミラでオシャレなブレスレット\nなんてどうしたらいいんだろう[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085902_MSG0027",
+      "style": 0,
+      "name": "タツにいい考えがあるんですも！\nキラキラ光る石をあげるといいんですも[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085902_MSG0028",
+      "style": 0,
+      "name": "タツのトーチャンもカーチャンに\nそうしてたですも！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085902_MSG0029",
+      "style": 0,
+      "name": "おお　それいい！\nお前　ノポンのくせに気が利くじゃないか！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085902_MSG0030",
+      "style": 0,
+      "name": "ノポンのくせには余計ですも[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085902_MSG0031",
+      "style": 0,
+      "name": "ほら　これなんてどうですも？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085902_MSG0032",
+      "style": 0,
+      "name": "あら　綺麗ね[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev085902_MSG0033",
+      "style": 0,
+      "name": "ノポンの縁結びの石ですも！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev085902_MSG0034",
+      "style": 0,
+      "name": "食べものより価値のある\nすごい贈りものなんですも！[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev085902_MSG0035",
+      "style": 0,
+      "name": "じゃあ　さっそくその石を\n探しに行きましょう！[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev085902_MSG0036",
+      "style": 0,
+      "name": "見つけたらブレスレットに\n加工して貰わないといけないわね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev085902_MSG0037",
+      "style": 0,
+      "name": "商業エリアにジュエリーショップがあるので\nそこに持ち込んでみましょう[ST:wait ]"
+    }
+  ]
+}

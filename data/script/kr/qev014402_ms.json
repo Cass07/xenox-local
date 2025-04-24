@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev014402_MSG0001",
+      "style": 1,
+      "name": "누가, 누가 좀 도와줘!!\n부탁이야, 이 문을 열어 줘!\n여기서 꺼내 달란 말이야![ST:wait ]"
+    }
+  ]
+}

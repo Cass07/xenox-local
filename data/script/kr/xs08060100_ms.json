@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08060100_MSG0001",
+      "style": 0,
+      "name": "기분 나쁜 비네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08060100_MSG0002",
+      "style": 0,
+      "name": "여기는 지구 인류의 거주지……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08060100_MSG0003",
+      "style": 0,
+      "name": "뉴 로스앤젤레스 방위군 지휘관\n반담 장군이다![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08060100_MSG0004",
+      "style": 0,
+      "name": "방위군? 장군?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08060100_MSG0005",
+      "style": 0,
+      "name": "그런 게 있었던가요?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08060100_MSG0006",
+      "style": 0,
+      "name": "그로우스군과 교섭하기 위한 명패야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08060100_MSG0007",
+      "style": 0,
+      "name": "민간 조직의 사령관보다는\n위엄이 있을 거라고 생각했겠지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs08060100_MSG0008",
+      "style": 0,
+      "name": "그런 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs08060100_JNK0010",
+      "style": 4,
+      "name": "찬성"
+    },
+    {
+      "$id": 10,
+      "label": "xs08060100_SEL0011",
+      "style": 3,
+      "name": "적절한 표현이라며 끄덕인다"
+    },
+    {
+      "$id": 11,
+      "label": "xs08060100_JNK0020",
+      "style": 4,
+      "name": "반대"
+    },
+    {
+      "$id": 12,
+      "label": "xs08060100_SEL0021",
+      "style": 3,
+      "name": "와닿지 않는다며 쓴웃음을 짓는다"
+    },
+    {
+      "$id": 13,
+      "label": "xs08060100_MSG0009",
+      "style": 0,
+      "name": "그렇죠?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08060100_MSG0010",
+      "style": 0,
+      "name": "뭔가 이렇게 울끈불끈한 느낌이\n장군 같은 이미지랄까[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08060100_MSG0011",
+      "style": 0,
+      "name": "직함이 어떻든 간에\n지휘관으로서의 그의 능력은 확실해[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs08060100_MSG0012",
+      "style": 0,
+      "name": "사령관이든 장군이든 상관없잖아[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs08060100_MSG0013",
+      "style": 0,
+      "name": "음…… 전 이미 장군이라는 이미지가\n머릿속에서 떠나지 않아요[ST:wait ]"
+    }
+  ]
+}

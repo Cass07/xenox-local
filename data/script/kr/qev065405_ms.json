@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065405_MSG0001",
+      "style": 1,
+      "name": "네 녀석 방식은 미적지근해!\n그래서는 우리가 오랫동안 쌓아 온\n신용에 흠집이 생긴다![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065405_MSG0002",
+      "style": 1,
+      "name": "그로우스의 스파이로서 쌓아 온\n우리 데피니아의 신용 말이다![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065405_MSG0003",
+      "style": 1,
+      "name": "어리석기는……!\n나에겐 내 방식이 있어![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065405_MSG0004",
+      "style": 1,
+      "name": "지구인의 관습에 따르고 신뢰를 얻고\n이해해야만 얻을 수 있는 정보도 있다고![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev065405_MSG0005",
+      "style": 1,
+      "name": "그것이야말로 스파이에게 어울리는\n최고의 방식이잖아![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev065405_MSG0006",
+      "style": 1,
+      "name": "난 그걸 실천했을 뿐이야![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev065405_MSG0007",
+      "style": 1,
+      "name": "호오…… 하지만 네 녀석은 그 방식대로\n임무를 진행하는 동안 지구인에게\n특별한 애착을 느끼게 된 거 아닌가?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev065405_MSG0008",
+      "style": 1,
+      "name": "무…… 무슨 소리를……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev065405_MSG0009",
+      "style": 1,
+      "name": "네 녀석은!\n지구인 생활에 너무 익숙해진 거다![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065405_MSG0010",
+      "style": 1,
+      "name": "지구인의 본거지를 내부에서 무너뜨린다는\n중대한 임무를 맡았는데도……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065405_MSG0011",
+      "style": 1,
+      "name": "그 정도의 신용을 데피니아 내부에서\n얻고 있는데도……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065405_MSG0012",
+      "style": 1,
+      "name": "네 녀석은 우리를 배신했다![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065405_MSG0013",
+      "style": 1,
+      "name": "그, 그렇지는…………[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065405_MSG0014",
+      "style": 1,
+      "name": "왜 그러지? 어째서 말문이 막힌 거냐?\n지구인에게 애착 따윈 없고 그로우스를 위해\n일할 생각이라면 당장 내 말을 부정해 봐라![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065405_MSG0015",
+      "style": 1,
+      "name": "……………………\n……………………[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev065405_MSG0016",
+      "style": 1,
+      "name": "…………흥\n부정할 수 없겠지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev065405_MSG0017",
+      "style": 1,
+      "name": "그 태도가 곧 답이다\n네 녀석은 배신자로 확정됐다![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev065405_MSG0018",
+      "style": 1,
+      "name": "지구인을 괴멸하는 임무는…………\n내가 이어받도록 하지……![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev065405_MSG0019",
+      "style": 1,
+      "name": "디에라……![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev065405_MSG0020",
+      "style": 1,
+      "name": "후후후후…………\n에리오! 적어도 죽을 때는\n데피니아의 모습으로 죽게 해 주마[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev065405_MSG0021",
+      "style": 1,
+      "name": "이것이 내 최소한의 자비다![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev065405_MSG0022",
+      "style": 1,
+      "name": "크…………윽![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev065405_MSG0023",
+      "style": 1,
+      "name": "…………하지만[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev065405_MSG0024",
+      "style": 1,
+      "name": "우리 문제를 정리하기 전에……\n잠시 방해꾼이 끼어든 것 같군[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev065405_MSG0025",
+      "style": 1,
+      "name": "…………?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev065405_MSG0026",
+      "style": 1,
+      "name": "네 녀석이 친목을 다지던 지구인이\n이제야 모든 것을 깨닫고\n여기로 달려온 모양이다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev065405_MSG0027",
+      "style": 1,
+      "name": "네 녀석과의 결판은…………\n저 얼간이를 묻어 버린 후에\n내도록 하지![ST:wait ]"
+    }
+  ]
+}

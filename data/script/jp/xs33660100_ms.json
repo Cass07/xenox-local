@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33660100_MSG0010",
+      "style": 0,
+      "name": "ここで貴公らに会えたのは僥倖であった[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33660100_MSG0020",
+      "style": 0,
+      "name": "俺は　奴に近づくすべはないかと\n周囲を見て回っていたのだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33660100_MSG0030",
+      "style": 0,
+      "name": "ヴォイドはグロウスを統べる存在[ST:wide ]―\n我らラースの誇りを踏みにじった仇敵だ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33660100_MSG0040",
+      "style": 0,
+      "name": "なに案ずるな\n一人で斬りかかる愚など犯さん[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33660100_MSG0050",
+      "style": 0,
+      "name": "今は頼もしき仲間[ST:wide ]―\n貴公らがいることだからな[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33660100_MSG0060",
+      "style": 0,
+      "name": "さあ　共に奴を倒し\n本懐を遂げようぞ[ST:wait ]"
+    }
+  ]
+}

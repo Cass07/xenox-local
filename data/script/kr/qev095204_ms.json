@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095204_MSG0001",
+      "style": 1,
+      "name": "동지여, 그로우스는 배신자인 우리를\n83.5% 확률로 말살하러 올 것이다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095204_MSG0002",
+      "style": 1,
+      "name": "그때가 오면 부디 도와주길 바란다\n나약한 우리에게는 녀석들과 싸울 수단이 없으니[ST:wait ]"
+    }
+  ]
+}

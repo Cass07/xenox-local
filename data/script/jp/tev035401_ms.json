@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev035401_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 2,
+      "label": "tev035401_SEL0011",
+      "style": 3,
+      "name": "他のエリアについて聞く"
+    },
+    {
+      "$id": 3,
+      "label": "tev035401_JNK0020",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 4,
+      "label": "tev035401_SEL0021",
+      "style": 3,
+      "name": "噂話を聞く"
+    },
+    {
+      "$id": 5,
+      "label": "tev035401_SEL0031",
+      "style": 3,
+      "name": "ミラの天候について聞く"
+    },
+    {
+      "$id": 6,
+      "label": "tev035401_SEL0041",
+      "style": 3,
+      "name": "エネミー図鑑について聞く"
+    },
+    {
+      "$id": 7,
+      "label": "tev035401_MSG0001",
+      "style": 1,
+      "name": "忘却の渓谷に不時着する時\nキャプシカはしっかりこの目で見たヨ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev035401_MSG0002",
+      "style": 1,
+      "name": "真っ赤な水が流れる川……\n真っ白な大地……メッチャスゴかったヨ！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev035401_MSG0003",
+      "style": 1,
+      "name": "見たことない原生生物とか\n見たことないマテリアルとかありそうで\nワクワクだネ！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev035401_MSG0004",
+      "style": 1,
+      "name": "NLAから　ずーーーっと北に行けば\n到着するんじゃないかナ？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev035401_MSG0008",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev035401_MSG0009",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev035401_MSG0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev035401_MSG0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev035401_MSG0012",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev035401_MSG0020",
+      "style": 1,
+      "name": "ミラのお天気って　身体に悪い影響が\n出るものもあるんだってネ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev035401_MSG0021",
+      "style": 1,
+      "name": "その影響を防ぐデバイスが\n開発されたんでショ？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev035401_MSG0022",
+      "style": 1,
+      "name": "お金かかるけど　命には代えられないヨネ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev035401_MSG0025",
+      "style": 1,
+      "name": "ユー達の持ってる端末に\nエネミー図鑑ってのがあるデショ？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev035401_MSG0026",
+      "style": 1,
+      "name": "誰にどこでいつ会えるとか\nどんなマテリアルをゲットできるとか\n情報載ってるでショ？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev035401_MSG0027",
+      "style": 1,
+      "name": "イーヨネー　ステキヨネー\nいつでも見れるの　ウラヤマシー！[ST:wait ]"
+    }
+  ]
+}

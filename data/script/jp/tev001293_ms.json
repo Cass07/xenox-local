@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001293_MSG0001",
+      "style": 1,
+      "name": "あっ　[ST:playername ]さん！\nちょうどいいところに！\n助けてください～[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001293_MSG0002",
+      "style": 1,
+      "name": "お姉さんたちに過剰に\n可愛がられているんですよー[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001293_JNK0010",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 4,
+      "label": "tev001293_SEL0011",
+      "style": 3,
+      "name": "素直に受け入れるように\nアドバイスする"
+    },
+    {
+      "$id": 5,
+      "label": "tev001293_JNK0020",
+      "style": 4,
+      "name": "参戦"
+    },
+    {
+      "$id": 6,
+      "label": "tev001293_SEL0021",
+      "style": 3,
+      "name": "自分もリンを可愛がる"
+    },
+    {
+      "$id": 7,
+      "label": "tev001293_JNK0030",
+      "style": 4,
+      "name": "代理"
+    },
+    {
+      "$id": 8,
+      "label": "tev001293_SEL0031",
+      "style": 3,
+      "name": "リンの代わりに迷惑だと\nきっぱりと伝える"
+    },
+    {
+      "$id": 9,
+      "label": "tev001293_MSG0003",
+      "style": 1,
+      "name": "可愛がってくれるのはありがたいと\n思っているんですよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001293_MSG0004",
+      "style": 1,
+      "name": "ケーキ食べに行こうとか\nバーベキューしようとか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001293_MSG0005",
+      "style": 1,
+      "name": "温泉へ入りに行こうとか\nドライブしようとか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001293_MSG0006",
+      "style": 1,
+      "name": "私には同年代の子がいないし\nきっと寂しくないように善意で\n言ってくれてるのは分かっているんです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001293_MSG0007",
+      "style": 1,
+      "name": "でもですね\nそんなにたくさんのこと\n一度の休暇中にはできないですよー[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001293_MSG0008",
+      "style": 1,
+      "name": "ちょ　ちょっとやめてください！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001293_MSG0009",
+      "style": 1,
+      "name": "ただでさえケーキ食べに行こうとか\nバーベキューしようとか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001293_MSG0010",
+      "style": 1,
+      "name": "温泉へ入りに行こうとか\nドライブしようとか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001293_MSG0011",
+      "style": 1,
+      "name": "休暇のスケジュールが\nたくさん埋まっているのに\nこなせなくなっちゃいます！！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001293_MSG0012",
+      "style": 1,
+      "name": "め　迷惑とまでは思ってないんですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001293_MSG0013",
+      "style": 1,
+      "name": "ケーキ食べに行こうとか\nバーベキューしようとか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001293_MSG0014",
+      "style": 1,
+      "name": "温泉へ入りに行こうとか\nドライブしようとか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001293_MSG0015",
+      "style": 1,
+      "name": "そんなにたくさんのこと\n一度の休暇中にはできないので\n困ってるんです！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001293_JNK0040",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 23,
+      "label": "tev001293_SEL0041",
+      "style": 3,
+      "name": "リンがやりたいこと\n一つだけにしようと提案する"
+    },
+    {
+      "$id": 24,
+      "label": "tev001293_JNK0050",
+      "style": 4,
+      "name": "名案"
+    },
+    {
+      "$id": 25,
+      "label": "tev001293_SEL0051",
+      "style": 3,
+      "name": "みんなで任務に行けばすべて\n満たせると名案を知らせる"
+    },
+    {
+      "$id": 26,
+      "label": "tev001293_MSG0016",
+      "style": 1,
+      "name": "そうですよね[ST:wide ]―\nどれか一つに絞ったら楽しめそうです[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001293_MSG0017",
+      "style": 1,
+      "name": "ええと[ST:wide ]―\nケーキも食べたいし　お肉も食べたいし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001293_MSG0018",
+      "style": 1,
+      "name": "どこかの温泉に入るのも気持ちいいだろうし\nドライブも楽しそうです[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001293_MSG0019",
+      "style": 1,
+      "name": "あっ　そっか！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001293_MSG0020",
+      "style": 1,
+      "name": "こうなったらみなさんで名湯を探す冒険に\n出かけます！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001293_MSG0021",
+      "style": 1,
+      "name": "ドールでドライブもできるし\n道中でご飯も食べることになるし\nパーフェクトなアイディアですよね！！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001293_MSG0022",
+      "style": 1,
+      "name": "おおっ\n自信ありげな顔に違わず　名案ですね！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001293_MSG0023",
+      "style": 1,
+      "name": "みんなで任務に出かければ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001293_MSG0024",
+      "style": 1,
+      "name": "ドールでドライブもできるし\n道中でご飯も食べることになるし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001293_MSG0025",
+      "style": 1,
+      "name": "任務の後に温泉へ入れば\nパーフェクトですね！！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001293_MSG0026",
+      "style": 1,
+      "name": "[ST:wide ]―いえ　ちょっと待ってください[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001293_MSG0027",
+      "style": 1,
+      "name": "任務だったら　休暇にならないじゃ\nないですか～～！[ST:wait ]"
+    }
+  ]
+}

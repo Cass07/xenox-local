@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev046401_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev046401_SEL0011",
+      "style": 3,
+      "name": "헨나를 낳았을 때에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev046401_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev046401_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev046401_MSG0001",
+      "style": 1,
+      "name": "딸을 출산할 때 말이지이, 바이어스인뿐만 아니라\n많은 사람이 도와줬어어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev046401_MSG0002",
+      "style": 1,
+      "name": "딸이 좀처럼 나오지 않아서 위험했을 때도\n마 논인이 그 굉장한 기술로 도와줬고[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev046401_MSG0003",
+      "style": 1,
+      "name": "당신도 배지시 대신에\n장례식을 도와줬어……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev046401_MSG0004",
+      "style": 1,
+      "name": "정말 이곳은 멋진 장소야아\n이제 모성으로 돌아갈 수 없을지도 모르지만[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev046401_MSG0005",
+      "style": 1,
+      "name": "이 토지에서 다 같이 힘을 모아\n열심히 딸을 키워 가겠어어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev046401_MSG0010",
+      "style": 1,
+      "name": "헨나라면 많이 먹고 많이 자고\n정~말 기운차게 울어![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev046401_MSG0011",
+      "style": 1,
+      "name": "매일매일 쑥쑥 자라고 있어어\n육아는 힘들지만 즐거운 거구나[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev046401_MSG0012",
+      "style": 1,
+      "name": "배지시도 사냥에서 돌아오면\n매일 아이를 돌보고 있고[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev046401_MSG0013",
+      "style": 1,
+      "name": "난 행복한 사람이야! 모두에게……\n그리고 이런 행복한 운명을 준비해 준\n위대한 나무의 위대한 자에게 감사해야겠지[ST:wait ]"
+    }
+  ]
+}

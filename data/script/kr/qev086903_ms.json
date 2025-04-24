@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086903_MSG0001",
+      "style": 0,
+      "name": "어이어이, 의형제\n도리안 카라반에 온 걸 환영한다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086903_MSG0002",
+      "style": 0,
+      "name": "곤란한 일이라도 있냐모?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086903_MSG0003",
+      "style": 0,
+      "name": "저기[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086903_MSG0004",
+      "style": 0,
+      "name": "저희는 에어로지움을 찾고 있어요\n여기에 오면 얻을 수 있다고 들었는데요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086903_MSG0005",
+      "style": 0,
+      "name": "에어로지움?\n오, 우리가 취급하는 상품이다모[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086903_MSG0006",
+      "style": 0,
+      "name": "다행이네요, 세리카 씨[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086903_MSG0007",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086903_MSG0008",
+      "style": 0,
+      "name": "어이어이, 이야기는 끝까지 들어라모[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086903_MSG0009",
+      "style": 0,
+      "name": "분명 우리 상품이긴 하지만\n마침 물건이 다 떨어졌다모[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086903_MSG0010",
+      "style": 0,
+      "name": "네에!?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086903_MSG0011",
+      "style": 0,
+      "name": "그거 곤란한데[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086903_MSG0012",
+      "style": 0,
+      "name": "그럴 수가, 그럼 록이……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086903_MSG0013",
+      "style": 0,
+      "name": "어이어이, 아름다운 아가씨\n울면 안 된다모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086903_MSG0014",
+      "style": 0,
+      "name": "이런 젠장, 나도 인정머리가 있는 노폰이다모\n숙녀의 눈물에는 거스를 수 없다모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086903_MSG0015",
+      "style": 0,
+      "name": "특별히 입수처를 알려 주겠다모[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086903_MSG0016",
+      "style": 0,
+      "name": "정말인가모!?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086903_MSG0017",
+      "style": 0,
+      "name": "나는 두말하지 않는다모[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086903_MSG0018",
+      "style": 0,
+      "name": "가, 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086903_MSG0019",
+      "style": 0,
+      "name": "잘 들어라모[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086903_MSG0020",
+      "style": 0,
+      "name": "이 근처에 커다란 바위가\n둥둥 떠 있는 신기한 장소가 있다모[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086903_MSG0021",
+      "style": 0,
+      "name": "에어로지움은 그 바위에서 얻을 수 있다모[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086903_MSG0022",
+      "style": 0,
+      "name": "알겠습니다, 가 볼게요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086903_MSG0023",
+      "style": 0,
+      "name": "위험한 원시 생물도 나타나니까\n조심해라모[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086903_MSG0024",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    }
+  ]
+}

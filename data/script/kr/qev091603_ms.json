@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091603_MSG0001",
+      "style": 0,
+      "name": "어서 오세요, 기다리고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091603_MSG0002",
+      "style": 0,
+      "name": "기다리고 있었다고?\n마침 나도 보고할 일이 있는데[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091603_MSG0003",
+      "style": 0,
+      "name": "머더레스 씨 일로 드릴 말씀이 있어요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091603_MSG0004",
+      "style": 0,
+      "name": "나도 마찬가지야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091603_MSG0005",
+      "style": 0,
+      "name": "그랬군요\n머더레스 씨가, 이리나 씨 일행이 오면[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091603_MSG0006",
+      "style": 0,
+      "name": "보수를 건네주라고 부탁했거든요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091603_MSG0007",
+      "style": 0,
+      "name": "그 녀석이……?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091603_MSG0008",
+      "style": 0,
+      "name": "어라? 모르고 계셨나요?\n머더레스 씨의 임무에 협력하셨잖아요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091603_JNK0010",
+      "style": 4,
+      "name": "일단 긍정한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev091603_SEL0011",
+      "style": 3,
+      "name": "협력하기는 했지만……이라며\n어영부영 끄덕인다"
+    },
+    {
+      "$id": 11,
+      "label": "qev091603_JNK0020",
+      "style": 4,
+      "name": "부정한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev091603_SEL0021",
+      "style": 3,
+      "name": "함정에 빠졌다며 항의한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev091603_MSG0009",
+      "style": 0,
+      "name": "정말 고생 많으시네요\n블레이드가 서로 협력하는 건 멋진 일이죠[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091603_MSG0010",
+      "style": 0,
+      "name": "이것이 이번 보수입니다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091603_MSG0011",
+      "style": 0,
+      "name": "돈 말고 다른 건 줄게……\n라고 말하던데요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091603_MSG0012",
+      "style": 0,
+      "name": "하아…… 그럴 줄 알았어……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091603_MSG0013",
+      "style": 0,
+      "name": "보수도 확실히 받아 버렸으니\n항의는 받아들여지지 않겠지……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091603_MSG0014",
+      "style": 0,
+      "name": "그렇네요, 문제점은 없다고 생각합니다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091603_MSG0015",
+      "style": 0,
+      "name": "머더레스 씨와 무슨 일 있었나요?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091603_MSG0016",
+      "style": 0,
+      "name": "아냐, 됐어\n그 녀석은 원래 그러니까……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091603_MSG0017",
+      "style": 0,
+      "name": "어머, 함정에 빠졌다고요!?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091603_MSG0018",
+      "style": 0,
+      "name": "하지만 보수는 제대로 준비되어 있고\n겉보기에 여러분이 다친 것 같지도 않으니[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091603_MSG0019",
+      "style": 0,
+      "name": "계약상으로는\n문제없다고 생각합니다만……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091603_MSG0020",
+      "style": 0,
+      "name": "이게 녀석의 계획인 거겠지……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091603_MSG0021",
+      "style": 0,
+      "name": "아무튼 이번 보수를 드릴게요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091603_MSG0022",
+      "style": 0,
+      "name": "돈만큼은 전부 가져갔군……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091603_MSG0023",
+      "style": 0,
+      "name": "돈 말고 다른 건 줄게……\n라고 말하던데요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091603_MSG0024",
+      "style": 0,
+      "name": "무슨 문제라도 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091603_MSG0025",
+      "style": 0,
+      "name": "아냐, 됐어\n그 녀석은 원래 그러니까……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091603_MSG0026",
+      "style": 0,
+      "name": "앗, 그렇지\n전언이 하나 더 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091603_MSG0027",
+      "style": 0,
+      "name": "또 사람 신경 거슬리게 하는 전언이야?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091603_MSG0028",
+      "style": 0,
+      "name": "이리나 씨가 아니라 당신에게……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091603_MSG0028_m",
+      "style": 0,
+      "name": "이리나 씨가 아니라 당신에게……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091603_MSG0028_f",
+      "style": 0,
+      "name": "이리나 씨가 아니라 당신에게……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091603_MSG0029",
+      "style": 0,
+      "name": "만나러 와 준다면\n언제든 같이 갈게……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091603_MSG0030",
+      "style": 0,
+      "name": "머더레스 씨가 이렇게 말했어요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091603_MSG0031",
+      "style": 0,
+      "name": "너, 귀찮은 녀석 눈에 들어 버렸네……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091603_MSG0032",
+      "style": 0,
+      "name": "어서 오세요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091603_MSG0033",
+      "style": 0,
+      "name": "다행이네요\n자원 회수 임무는 제대로 끝난 거군요[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091603_MSG0034",
+      "style": 0,
+      "name": "뭐? 무슨 소리야?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091603_MSG0035",
+      "style": 0,
+      "name": "머더레스 씨와 공동으로\n임무를 맡으셨잖아요?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091603_MSG0036",
+      "style": 0,
+      "name": "처음에는 그랬지[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091603_MSG0037",
+      "style": 0,
+      "name": "아까 머더레스 씨가 와서는\n보수만 가지고 가 버렸거든요[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091603_MSG0038",
+      "style": 0,
+      "name": "나중에 분명 이리나 씨가\n물건을 가지고 올 거라면서요[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091603_MSG0039",
+      "style": 0,
+      "name": "안 된다고 말해도 머더레스 씨가 억지를 부리며\n전혀 들어 주지를 않아서……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091603_MSG0040",
+      "style": 0,
+      "name": "물건이 오지 않으면 어쩌나\n고민하던 참이었어요[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091603_MSG0041",
+      "style": 0,
+      "name": "아주 목을 졸라 버려야 하는데……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091603_MSG0042",
+      "style": 0,
+      "name": "네?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091603_MSG0043",
+      "style": 0,
+      "name": "아니야, 아무것도[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091603_MSG0044",
+      "style": 0,
+      "name": "그 녀석한테 완전히 속아 넘어갔어\n우리도, 바보 같은 블레이드 남자들도[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091603_MSG0045",
+      "style": 0,
+      "name": "오늘은 괜히 고생만 했네\n다음에는 좀 더 제대로 된 임무를 하자[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091603_MSG0046",
+      "style": 0,
+      "name": "그 아가씨랑 엮이지 않는 임무 말이야[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091603_MSG0047",
+      "style": 0,
+      "name": "또 사람 신경 거스르는 이야기야?[ST:wait ]"
+    }
+  ]
+}

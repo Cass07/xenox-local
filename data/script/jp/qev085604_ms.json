@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085604_MSG0001",
+      "style": 0,
+      "name": "またせたな　エルマ　皆！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085604_MSG0002",
+      "style": 0,
+      "name": "ダグさん！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085604_MSG0003",
+      "style": 0,
+      "name": "遅れてすまん\nだがこれで　チョコもココアもゲットだな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085604_MSG0004",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    }
+  ]
+}

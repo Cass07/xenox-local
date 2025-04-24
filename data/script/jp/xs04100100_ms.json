@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04100100_MSG0001",
+      "style": 0,
+      "name": "忌々しいね\n原始生物の分際で[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs04100100_MSG0002",
+      "style": 0,
+      "name": "覚えときな！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04100100_MSG0003",
+      "style": 0,
+      "name": "この惑星に[System:Ruby rt=きさまら ]地球人[/System:Ruby]が住み着く余地なんてない！\nいや　宇宙のどこにもないのさっ！[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs04100100_MSG0004",
+      "style": 0,
+      "name": "ゲーティア様　今のうちに[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs04100100_MSG0004_2",
+      "style": 0,
+      "name": "もももも～[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs04100100_MSG0005",
+      "style": 0,
+      "name": "あの機動兵器　まさか[ST:wide ]―[ST:wait ]\n"
+    }
+  ]
+}

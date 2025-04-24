@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000393_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ], 너구나\n이제 살았군……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000393_MSG0002",
+      "style": 1,
+      "name": "격납고 일로 마 논인에게 의뢰를 하러 왔는데\n보다시피 붙들리고 말았어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000393_MSG0003",
+      "style": 1,
+      "name": "패스파인더가 보기 드문 것도 아닐 텐데\n프런티어넷에 대해 꼬치꼬치 캐묻더라고[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000393_MSG0004",
+      "style": 1,
+      "name": "난 바쁘니까 얼른 끝내고 싶은데\n도통 내 말을 들어 주질 않아[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000393_MSG0005",
+      "style": 1,
+      "name": "너라면 이럴 때 어떻게 할래?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000393_MSG0006",
+      "style": 1,
+      "name": "도망친다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000393_MSG0007",
+      "style": 1,
+      "name": "상대의 말을 무시하고 억지로 도망친다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000393_MSG0008",
+      "style": 1,
+      "name": "맞춰 준다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000393_MSG0009",
+      "style": 1,
+      "name": "상대가 납득할 때까지 대화한다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000393_MSG0010",
+      "style": 1,
+      "name": "양해를 구한다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000393_MSG0011",
+      "style": 1,
+      "name": "피자를 선물하고 양해를 구한다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000393_MSG0013",
+      "style": 1,
+      "name": "그럴 수 있으면 좋았겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000393_MSG0014",
+      "style": 1,
+      "name": "내가 달려서 도망치려고 하면\n팔에 둘이나 매달린단 말이야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000393_MSG0015",
+      "style": 1,
+      "name": "마치 떼쓰는 어린아이 같아서\n함부로 내칠 수가 없었다고……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000393_MSG0017",
+      "style": 1,
+      "name": "넌 성실한 녀석이군\n감탄스러워[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000393_MSG0019",
+      "style": 1,
+      "name": "피자라…… 명안이라고 하고 싶지만\n그런 걸 평소에 가지고 다니지는 않잖아?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000393_MSG0020",
+      "style": 1,
+      "name": "상업 에어리어까지 사러 간다 쳐도\n애초에 마 논인에게 붙들려 있으니\n이야기는 원점이야……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000393_MSG0022",
+      "style": 1,
+      "name": "이봐, 넌 지금 상황을 어떻게 생각해?\n지구인과 외계인이 한 도시에서 사는 상황 말이야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000393_JNK0040",
+      "style": 4,
+      "name": "긍정적[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000393_SEL0041",
+      "style": 3,
+      "name": "멋진 일이라고 생각한다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000393_JNK0050",
+      "style": 4,
+      "name": "중립적[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000393_SEL0051",
+      "style": 3,
+      "name": "좋은 일이지만 위험성도 있다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000393_JNK0060",
+      "style": 4,
+      "name": "부정적[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000393_SEL0061",
+      "style": 3,
+      "name": "단점도 많으므로 주의해야 한다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000393_MSG0030",
+      "style": 1,
+      "name": "그렇게 생각하는 건가……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000393_MSG0031",
+      "style": 1,
+      "name": "확실히 마 논인은 나쁜 녀석들이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000393_MSG0032",
+      "style": 1,
+      "name": "하지만 외계인이 오지만 않았어도\n지구는 멸망하지 않았을 테고\n우리가 이런 꼴이 되지도 않았겠지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000393_MSG0033",
+      "style": 1,
+      "name": "서로 만나지 말아야 했다……\n가벼이 그런 말을 할 생각은 없지만\n쉽사리 긍정하고 싶지도 않아[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000393_MSG0034",
+      "style": 1,
+      "name": "……하지만 이렇게 된 이상\n어쩔 수 없다는 것도 이해는 돼[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000393_MSG0035",
+      "style": 1,
+      "name": "나도 전진할 수 있도록 노력은 해 볼게[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000393_MSG0037",
+      "style": 1,
+      "name": "그렇지…… 확실히 좋은 일만 있는 건 아니야[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000393_MSG0038",
+      "style": 1,
+      "name": "지구인은 기술을 얻었지만\n동시에 위험 또한 안게 되었어[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000393_MSG0039",
+      "style": 1,
+      "name": "서로 만나지 말아야 했다……\n가벼이 그런 말을 할 생각은 없지만\n쉽사리 긍정하고 싶지도 않아[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000393_MSG0040",
+      "style": 1,
+      "name": "……하지만 이렇게 된 이상\n어쩔 수 없다는 것도 이해는 돼[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000393_MSG0041",
+      "style": 1,
+      "name": "나도 전진할 수 있도록 노력은 해 볼게[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000393_MSG0043",
+      "style": 1,
+      "name": "훗…… 그렇군[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000393_MSG0044",
+      "style": 1,
+      "name": "외계인은 본래 언어도 문화도 습관도 달라\n무슨 생각을 하는지 이해할 수 없는 녀석들이야[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000393_MSG0045",
+      "style": 1,
+      "name": "경계하는 게 당연해[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000393_MSG0046",
+      "style": 1,
+      "name": "……하지만 지구인의 힘만으로는\n생존할 수 없다는 것이 지금의 우리 상황이다[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000393_MSG0047",
+      "style": 1,
+      "name": "이용한다……라고 표현하기는 좀 그렇지만\n협력할 수 있을 때는 서로 손을 잡는 편이 좋겠지[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000393_MSG0048",
+      "style": 1,
+      "name": "상대가 어떤 외계인이든 말이야[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000393_MSG0050",
+      "style": 1,
+      "name": "……우리가 대화하는 걸 보고\n마 논인도 얌전해졌군[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000393_MSG0051",
+      "style": 1,
+      "name": "이 틈에 블레이드 에어리어로 돌아가야겠어[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000393_MSG0052",
+      "style": 1,
+      "name": "그럼 임무 있을 때 또 보자[ST:wait ]"
+    }
+  ]
+}

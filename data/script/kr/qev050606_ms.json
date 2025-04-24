@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050606_MSG0001",
+      "style": 1,
+      "name": "……[ST:playername ]!\n퀸 하스탈라가 나타났어![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050606_MSG0002",
+      "style": 1,
+      "name": "하하, 당신 말대로 싸웠더니\n저 녀석, 꼬리를 말고 도망가 버렸어!\n인정해 줄게…… 당신은 진짜 전사야![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050606_MSG0003",
+      "style": 1,
+      "name": "……좋았어! \n미 간드산 분화구로\n몰아넣고 결판을 내자![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050606_MSG0004",
+      "style": 1,
+      "name": "아빠와 엄마의 목숨을 빼앗긴 원한……\n풀고야 말겠어![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050606_MSG0005",
+      "style": 1,
+      "name": "……[ST:playername ]!!\n이쪽에 퀸 하스탈라가 나타났어!\n그래서…… 그래서……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev050606_MSG0006",
+      "style": 1,
+      "name": "오빠랑 제우레바도……\n그 녀석에게 잡아먹혀서\n다들, 다들 죽어 버렸어!![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev050606_MSG0007",
+      "style": 1,
+      "name": "당신 말대로 싸웠는데……\n전혀 제대로 되지 않았어!\n어째서…… 뭐가 잘못됐던 거야?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev050606_JNK0010",
+      "style": 4,
+      "name": "인정"
+    },
+    {
+      "$id": 9,
+      "label": "qev050606_SEL0011",
+      "style": 3,
+      "name": "실수가 있었을지도 모른다며\n잘못을 인정한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev050606_JNK0020",
+      "style": 4,
+      "name": "부인"
+    },
+    {
+      "$id": 11,
+      "label": "qev050606_SEL0021",
+      "style": 3,
+      "name": "자신의 조언에 잘못은 없었다고\n주장한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev050606_MSG0008",
+      "style": 1,
+      "name": "……당신 잘못이 아니야\n당신을 믿은 내 잘못이야[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev050606_MSG0009",
+      "style": 1,
+      "name": "젠장…… 분해……\n왜 난 그런 정보를\n믿어 버린 거야……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev050606_MSG0010",
+      "style": 1,
+      "name": "젠장……!\n그럼 대체 뭐가 잘못됐었다는 거야![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev050606_MSG0011",
+      "style": 1,
+      "name": "뭘 해도 녀석은 아무렇지 않은 얼굴로\n오라버니와 동생의 돌을 찢어 버리고……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev050606_MSG0012",
+      "style": 1,
+      "name": "앗……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev050606_MSG0013",
+      "style": 1,
+      "name": "……녀석이 다시 나왔어!\n나 말이야! 미 간드산 분화구로\n녀석을 유도할게[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev050606_MSG0014",
+      "style": 1,
+      "name": "나로선 목숨을 걸어도\n그곳으로 데려가는 게 최선이야……\n그러니까 당신이……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev050606_MSG0015",
+      "style": 1,
+      "name": "알겠지……? 나에게서 모든 걸 빼앗은\n저 녀석을 가르고 짓밟아서\n비참하게 죽여 줘!![ST:wait ]"
+    }
+  ]
+}

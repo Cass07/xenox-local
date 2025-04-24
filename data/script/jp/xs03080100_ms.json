@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03080100_MSG0001",
+      "style": 0,
+      "name": "そうか　やはりネルソンのチームは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs03080100_MSG0002",
+      "style": 0,
+      "name": "しかし　この星に来たのが\n俺達だけじゃなかったとはな[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs03080100_MSG0003",
+      "style": 0,
+      "name": "しかも　地球人に敵意を抱いていた[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs03080100_MSG0004",
+      "style": 0,
+      "name": "もしかしたら　地球を争いに巻きこんだ勢力と\n関係があるのかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs03080100_MSG0005",
+      "style": 0,
+      "name": "分かった[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs03080100_MSG0006",
+      "style": 0,
+      "name": "ナギ長官に具申して\nＮＬＡの護りを固めるとしよう[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs03080100_MSG0007",
+      "style": 0,
+      "name": "ところで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs03080100_MSG0008",
+      "style": 0,
+      "name": "そいつはなんだ　お土産か？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs03080100_MSG0009",
+      "style": 0,
+      "name": "美味しそうでしょ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs03080100_MSG0010",
+      "style": 0,
+      "name": "ち　ちがうですも！\nタツは食べものじゃないですも！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs03080100_MSG0011",
+      "style": 0,
+      "name": "惑星ミラを代表して[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs03080100_MSG0012",
+      "style": 0,
+      "name": "地球人とユーコージョーヤクを\nテイケツするためにやってきたですも[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs03080100_MSG0013",
+      "style": 0,
+      "name": "[ST:wide ]―ということらしいわ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs03080100_MSG0014",
+      "style": 0,
+      "name": "とりあえず　この星のことについて\n情報を提供してもらえると思う[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs03080100_MSG0015",
+      "style": 0,
+      "name": "どのくらい　あてになるか分からないけれど[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs03080100_MSG0016",
+      "style": 0,
+      "name": "あてにしていいですも！\nこのタツがいれば　みなさんは安全ですも！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs03080100_MSG0017",
+      "style": 0,
+      "name": "特にリンさんは弱そうだから\nこのタツが側について護ってあげるですも[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs03080100_MSG0018",
+      "style": 0,
+      "name": "弱そうとは失敬なヤツね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs03080100_MSG0019",
+      "style": 0,
+      "name": "だいたい\nなんで！　あんたが！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs03080100_MSG0020",
+      "style": 0,
+      "name": "私たちについてくることになっているのよ！[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs03080100_MSG0021",
+      "style": 0,
+      "name": "あんたは　ＮＬＡでお留守番よ！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs03080100_MSG0022",
+      "style": 0,
+      "name": "もももっ！？[ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "xs03080100_MSG0023",
+      "style": 0,
+      "name": "タツを！　ココに！\n置いていくつもりですも！！[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "xs03080100_MSG0024",
+      "style": 0,
+      "name": "そうね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs03080100_MSG0025",
+      "style": 0,
+      "name": "外は危険だし　あなたを捕まえた\n異星人達もまだいるかもしれない[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs03080100_MSG0026",
+      "style": 0,
+      "name": "ＮＬＡにいるのが一番安全よ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs03080100_MSG0027",
+      "style": 0,
+      "name": "だな[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs03080100_MSG0028",
+      "style": 0,
+      "name": "ももっ！　ちょ　ちょっと待つですも！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs03080100_MSG0029",
+      "style": 0,
+      "name": "タタタ　タツがいないとみなさん困るですも！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs03080100_MSG0030",
+      "style": 0,
+      "name": "なんでよ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs03080100_MSG0031",
+      "style": 0,
+      "name": "そっ　それは[ST:wide ]―　あれですも！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs03080100_MSG0032",
+      "style": 0,
+      "name": "この星にはたくさんのノポンがいるですも\nみなさん　情報が欲しいんじゃないですかも？[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs03080100_MSG0033",
+      "style": 0,
+      "name": "そりゃ　まぁ　そうだが[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs03080100_MSG0034",
+      "style": 0,
+      "name": "そうですも[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs03080100_MSG0035",
+      "style": 0,
+      "name": "でも　ノポンは人見知りで\n恥ずかしがり屋でキムズカシイですも[ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "xs03080100_MSG0036",
+      "style": 0,
+      "name": "みなさんじゃ　ゼーッタイ情報貰えないですも[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs03080100_MSG0037",
+      "style": 0,
+      "name": "そこで　このタツですも！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs03080100_MSG0038",
+      "style": 0,
+      "name": "タツのコーショージュツで\nスムーズに話が進むですも！[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs03080100_MSG0039",
+      "style": 0,
+      "name": "確かに一理あるな[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs03080100_MSG0040",
+      "style": 0,
+      "name": "あんた　何か企んでいるんじゃないでしょうね[ST:wait ]\n"
+    },
+    {
+      "$id": 41,
+      "label": "xs03080100_MSG0041",
+      "style": 0,
+      "name": "ととと　とんでもないですも！\nタツがそんな風に見えるですも？[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs03080100_MSG0042",
+      "style": 0,
+      "name": "誤解ですも！[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs03080100_MSG0043",
+      "style": 0,
+      "name": "タツはユーコーテキでコーキシンオウセイな\n普通のノポンですも！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs03080100_MSG0044",
+      "style": 0,
+      "name": "好奇心旺盛　って\nそれが本心ね[ST:wait ]\n"
+    },
+    {
+      "$id": 45,
+      "label": "xs03080100_MSG0045",
+      "style": 0,
+      "name": "よし分かった\nこの際だ　何も得られないよりはマシとするか[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "xs03080100_MSG0046",
+      "style": 0,
+      "name": "お前らでこいつの面倒を見てやってくれ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs03080100_MSG0047",
+      "style": 0,
+      "name": "えー！？　なんで私たちなんですか？[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "xs03080100_MSG0048",
+      "style": 0,
+      "name": "連れてきたのはお前らだ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs03080100_MSG0049",
+      "style": 0,
+      "name": "それにこいつを他のチームに\n任せられると思うか？[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs03080100_MSG0050",
+      "style": 0,
+      "name": "たしかに[ST:wide ]―　明日の朝食のテーブルに\nのっていそうですもんね[ST:wait ]\n"
+    },
+    {
+      "$id": 51,
+      "label": "xs03080100_MSG0052",
+      "style": 0,
+      "name": "ももも！？[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs03080100_MSG0053",
+      "style": 0,
+      "name": "俺が見たところ　リンとも気が合いそうだ\n一つ頼まれてくれんか？[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs03080100_MSG0054",
+      "style": 0,
+      "name": "ち　ちょっ　司令！[ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "xs03080100_MSG0055",
+      "style": 0,
+      "name": "どこをどう見たら\n気が合うように見えるんですか？[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs03080100_MSG0056",
+      "style": 0,
+      "name": "まぁ　私は別にいいですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs03080100_MSG0057",
+      "style": 0,
+      "name": "エルマとお前もそれでいいか？[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs03080100_MSG0058",
+      "style": 0,
+      "name": "ええ　私に異存はないわ[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs03080100_MSG0059",
+      "style": 0,
+      "name": "よし　決まりだ！\nタツ　だったか　よろしく頼むぞ[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs03080100_MSG0060",
+      "style": 0,
+      "name": "どーんとまかせるですも～[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs03080100_MSG0061",
+      "style": 0,
+      "name": "あ　一つ言い忘れてたことがあるですも[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs03080100_MSG0062",
+      "style": 0,
+      "name": "ノポンは　戦いが嫌いですも\nそれにタツは　大事なコーショーニンですも[ST:wait ]\n"
+    },
+    {
+      "$id": 62,
+      "label": "xs03080100_MSG0063",
+      "style": 0,
+      "name": "だからしっかり護るですも～[ST:wait ]\n"
+    },
+    {
+      "$id": 63,
+      "label": "xs03080100_MSG0064",
+      "style": 0,
+      "name": "こいつは　さっきは私を護るとか\n言っておいて　もう！[ST:wait ]\n"
+    }
+  ]
+}

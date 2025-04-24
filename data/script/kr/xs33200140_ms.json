@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33200140_MSG0010",
+      "style": 0,
+      "name": "이번 데이터도\n이 장치에 관한 정보인 것 같지만……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33200140_MSG0020",
+      "style": 0,
+      "name": "……안 되겠네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33200140_MSG0030",
+      "style": 0,
+      "name": "데이터 대부분이 파손돼서\n아무런 의미도 없어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33200140_MSG0040",
+      "style": 0,
+      "name": "꽝을 뽑아 버린 거냐모?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33200140_MSG0050",
+      "style": 0,
+      "name": "기껏 찾았는데 실망이다모[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33200140_MSG0060",
+      "style": 0,
+      "name": "그나마 유일하게 읽을 수 있는 건……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33200140_MSG0070",
+      "style": 0,
+      "name": "\"껍데기로부터 해방된 쐐기\"\n\"영혼을 벌할 멍에가 되리라\"[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33200140_MSG0080",
+      "style": 0,
+      "name": "……? 무슨 의미일까요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33200140_MSG0090",
+      "style": 0,
+      "name": "지금까지의 정보로 볼 때\n\"쐐기\"란 아마 이 장치를 의미하겠지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33200140_MSG0100",
+      "style": 0,
+      "name": "그 \"쐐기\"가 해방되면\n\"멍에\"가 된다……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33200140_MSG0110",
+      "style": 0,
+      "name": "단순하게 해석하면\n그런 의미겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33200140_MSG0120",
+      "style": 0,
+      "name": "모모모…… 타츠는 감도 안 잡힌다모[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33200140_MSG0130",
+      "style": 0,
+      "name": "어려운 이야기는\n린 씨한테 맡기겠다모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33200140_MSG0140",
+      "style": 0,
+      "name": "나도 이런 건 몰라[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33200140_MSG0150",
+      "style": 0,
+      "name": "생각하는 건 나중으로 미루자[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33200140_MSG0160",
+      "style": 0,
+      "name": "이 말이 어떤 의미인지……\n언젠가 알게 될 때가 올지도 모르니까[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051302_MSG0001",
+      "style": 1,
+      "name": "오, 주머니 사정은 어떤가?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051302_MSG0002",
+      "style": 1,
+      "name": "당연히 좋겠지?\n아니, 정확히는 앞으로 좋아지는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051302_MSG0003",
+      "style": 1,
+      "name": "그럼……\n손에 넣은 키를 건네주실까[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051302_MSG0004",
+      "style": 1,
+      "name": "……훗, 이건 열쇠가 아니군\n다른 건 어떤가?\n3개의 열쇠는 모았겠지?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051302_MSG0005",
+      "style": 1,
+      "name": "……왜 그러나?\n모은 게 맞겠지?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev051302_MSG0006",
+      "style": 1,
+      "name": "자, 나에게 3개의 열쇠를 주게[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev051302_MSG0007",
+      "style": 1,
+      "name": "잠시만 기다려 주세요, 마스터[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev051302_MSG0008",
+      "style": 1,
+      "name": "응?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev051302_MSG0009",
+      "style": 1,
+      "name": "저는 이자에 대해 중대한 사실을\n알아냈습니다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev051302_MSG0010",
+      "style": 1,
+      "name": "중대한 사실?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev051302_MSG0011",
+      "style": 1,
+      "name": "네……\n마스터가 되찾으려 한 4개의 열쇠[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev051302_MSG0012",
+      "style": 1,
+      "name": "사실 그중 3개는 처음부터 이자가\n소유하고 있었습니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev051302_MSG0013",
+      "style": 1,
+      "name": "……?\n그건 무슨 말인가?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev051302_MSG0014",
+      "style": 1,
+      "name": "즉, 셀레스트 스리에게서\n3개의 열쇠를 빼앗은 범인은……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev051302_MSG0015",
+      "style": 1,
+      "name": "당신의 동지\n포스다이크 일행을 죽인 건……\n이자였다는 겁니다![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev051302_MSG0016",
+      "style": 1,
+      "name": "뭐라고……!?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev051302_JNK0010",
+      "style": 4,
+      "name": "비난한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev051302_SEL0011",
+      "style": 3,
+      "name": "고자질한\n가 비유를 비난한다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev051302_JNK0020",
+      "style": 4,
+      "name": "놀란다"
+    },
+    {
+      "$id": 20,
+      "label": "qev051302_SEL0021",
+      "style": 3,
+      "name": "아돌푸스가\n네 번째 멤버였냐며 놀란다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev051302_JNK0030",
+      "style": 4,
+      "name": "정색한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev051302_SEL0031",
+      "style": 3,
+      "name": "속은 건 이쪽이었으니\n정당방위였다고 정색한다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev051302_MSG0017",
+      "style": 1,
+      "name": "악인의 말은 듣지 마세요\n나의 마스터[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev051302_MSG0018",
+      "style": 1,
+      "name": "알고 있다네……\n하지만 그 셋을 쓰러뜨렸다니\n예상 이상의 솜씨로군[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev051302_MSG0019",
+      "style": 1,
+      "name": "마스터, 걱정하실 것 없습니다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev051302_MSG0020",
+      "style": 1,
+      "name": "나야말로 놀랐네\n설마 녀석들을 죽인 자에게\n태평하게 의뢰를 맡겨 버리다니……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev051302_MSG0021",
+      "style": 1,
+      "name": "하지만 그 셋을 쓰러뜨렸다니\n예상 이상의 솜씨다……\n어찌하면 좋을지……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev051302_MSG0022",
+      "style": 1,
+      "name": "마스터, 걱정하실 것 없습니다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev051302_MSG0023",
+      "style": 1,
+      "name": "욕심에 눈이 먼 인간이 입만 살았군\n자네만 없었다면 화이트 골드는 내 것이었다[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev051302_MSG0024",
+      "style": 1,
+      "name": "이번에는 내가 자넬 죽이고\n3개의 열쇠를 되찾아 주지[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev051302_MSG0025",
+      "style": 1,
+      "name": "마스터, 그러실 필요 없습니다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev051302_MSG0026",
+      "style": 1,
+      "name": "3개의 열쇠는 이미 제가\n이자에게서 되찾았습니다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev051302_MSG0027",
+      "style": 1,
+      "name": "그랬나……\n잘했다, 가 비유[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev051302_MSG0028",
+      "style": 1,
+      "name": "그렇다면…… 가 비유\n자네가 이자를 나에게 데려온 것은……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev051302_MSG0029",
+      "style": 1,
+      "name": "네, 물론 틈을 노려\n열쇠를 되찾기 위함입니다[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev051302_MSG0030",
+      "style": 1,
+      "name": "그렇군……\n모든 건 자네의 계산 안이었다는 건가[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev051302_MSG0031",
+      "style": 1,
+      "name": "뒤늦게 보고드리게 되어\n진심으로 죄송합니다[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev051302_MSG0032",
+      "style": 1,
+      "name": "괜찮다, 결과적으로 4개의 열쇠는 다 모였네[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev051302_MSG0033",
+      "style": 1,
+      "name": "……응?\n블레이드 양반은 의아해하는 얼굴인데[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev051302_MSG0034",
+      "style": 1,
+      "name": "그런가…… 남은 하나\n마지막 열쇠에 대해 궁금한가 보군[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev051302_MSG0035",
+      "style": 1,
+      "name": "마지막 열쇠는 처음부터 내가 갖고 있었다[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev051302_MSG0036",
+      "style": 1,
+      "name": "자네에게 4개의 열쇠를 모으라고 했던 것은……\n뭐, 보험 같은 걸세[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev051302_MSG0037",
+      "style": 1,
+      "name": "가 비유에게 명령하여\n어느 블레이드에게 쥐여 준 가짜를\n자넨 필사적으로 찾아다닌 거지[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev051302_MSG0038",
+      "style": 1,
+      "name": "푸하하하하하하하![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev051302_MSG0039",
+      "style": 1,
+      "name": "가 비유![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev051302_MSG0040",
+      "style": 1,
+      "name": "열쇠를 손에 넣었으니 이자는 필요 없다\n…………처리하게[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev051302_MSG0041",
+      "style": 1,
+      "name": "분부 받들겠습니다……![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev051302_MSG0042",
+      "style": 1,
+      "name": "역시 강하군……[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev051302_MSG0043",
+      "style": 1,
+      "name": "더 이상 목숨을 걸 이유는 없어……\n작별이다![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev051302_MSG0044",
+      "style": 1,
+      "name": "어……! 어째서냐!?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev051302_MSG0045",
+      "style": 1,
+      "name": "어째서냐, 가 비유!\n아직 싸움은 끝나지 않았다![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev051302_MSG0046",
+      "style": 1,
+      "name": "적은……\n우리에게서 열쇠를 빼앗은 도둑은 아직도 이렇게\n나에게 무기를 겨누고 있는데……![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev051302_MSG0047",
+      "style": 1,
+      "name": "대체 어째서냐……![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev051302_MSG0048",
+      "style": 1,
+      "name": "기, 기다려 주게……\n대화로 풀지[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev051302_MSG0049",
+      "style": 1,
+      "name": "그래……\n열쇠는 4개 모두 여기에 모였네![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev051302_MSG0050",
+      "style": 1,
+      "name": "이걸로 금고를 열고 안에 있는 화이트 골드를\n똑같이 나누지 않겠나?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev051302_MSG0051",
+      "style": 1,
+      "name": "그러면 처음 의뢰와 조건은 같아진다!\n자네들이 손해 볼 것은 없다네![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev051302_MSG0052",
+      "style": 1,
+      "name": "그 라스 여자가 사라져 버린 지금\n우리 사이에 문제 될 건 없을 걸세![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev051302_MSG0053",
+      "style": 1,
+      "name": "지금 금고를 열겠네!\n산더미 같은 화이트 골드를 보면\n자네도 생각이 바뀌겠지!![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev051302_MSG0054",
+      "style": 1,
+      "name": "금고가 열렸네……[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev051302_MSG0055",
+      "style": 1,
+      "name": "…………이걸로 화이트 골드는\n우리의 손에…………[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev051302_MSG0056",
+      "style": 1,
+      "name": "……………………\n…………아니!?[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev051302_MSG0057",
+      "style": 1,
+      "name": "없다! 아무것도 없어!\n금고 안은…… 텅 비었다![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev051302_MSG0058",
+      "style": 1,
+      "name": "이럴 수가…… 어떻게 된 거지!?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev051302_MSG0059",
+      "style": 1,
+      "name": "누군가가……\n먼저 금고를 열고 안에 있는 것을\n가져가서…………[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev051302_MSG0060",
+      "style": 1,
+      "name": "설마……\n설마 그 라스 여자가…………![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev051302_MSG0061",
+      "style": 1,
+      "name": "……………………후\n후후후후후후…………[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev051302_MSG0062",
+      "style": 1,
+      "name": "아하하하하하하하하![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev051302_MSG0063",
+      "style": 1,
+      "name": "그런가……\n녀석은 먼저 자네들에게서 열쇠를 빼앗고……[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev051302_MSG0064",
+      "style": 1,
+      "name": "그리고 자네들은 열쇠를 찾고\n나는 탐색 결과를 기다리던 그 틈에……[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev051302_MSG0065",
+      "style": 1,
+      "name": "내가 가지고 있던 나머지 한 개의 열쇠도\n사용하여 창고를 열고서는…………\n안에 있는 것을 가지고 사라진 건가…………[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev051302_MSG0066",
+      "style": 1,
+      "name": "아마도 마지막까지 남아\n자네들과 싸우는 모습을 보여 준 건\n추격의 가능성을 제거하면 좋으니까……[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev051302_MSG0067",
+      "style": 1,
+      "name": "……그런 것이었나![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev051302_MSG0068",
+      "style": 1,
+      "name": "한 방 먹었군!\n보기 좋게 당했어![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev051302_MSG0069",
+      "style": 1,
+      "name": "아하하하하하하하하![ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev051302_MSG0070",
+      "style": 1,
+      "name": "앗하하하하하하하하하하하하하하![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev051302_MSG0071",
+      "style": 1,
+      "name": "아하하하하하하하하하하하하하하하하하![ST:wait ]"
+    }
+  ]
+}

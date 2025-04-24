@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33400110_MSG0010",
+      "style": 0,
+      "name": "ももっ！　スゴイですも！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33400110_MSG0020",
+      "style": 0,
+      "name": "ばびゅ～んと飛んでったですも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33400110_MSG0030",
+      "style": 0,
+      "name": "塔のように見えましたけど\n実際は飛行兵器の一種だったんですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33400110_MSG0040",
+      "style": 0,
+      "name": "あるいは“槍”と呼ぶべきかしらね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33400110_MSG0050",
+      "style": 0,
+      "name": "あれがヴォイドにどれだけの効力があるのか\n定かではないけれど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33400110_MSG0060",
+      "style": 0,
+      "name": "念のため　他の“槍”も調べに行きましょう[ST:wait ]"
+    }
+  ]
+}

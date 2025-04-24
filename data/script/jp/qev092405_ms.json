@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092405_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―これは　[ST:wide ]―お父様の日記を収めた\nデータベース[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092405_MSG0002",
+      "style": 0,
+      "name": "もしかして　これを探すために\nこんな場所まで来てくださったのですか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092405_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 4,
+      "label": "qev092405_SEL0011",
+      "style": 3,
+      "name": "日頃の感謝の気持ちを込め\nプレゼントを渡す"
+    },
+    {
+      "$id": 5,
+      "label": "qev092405_JNK0020",
+      "style": 4,
+      "name": "謝罪"
+    },
+    {
+      "$id": 6,
+      "label": "qev092405_SEL0021",
+      "style": 3,
+      "name": "今まで隠していて\nすまないと言って渡す"
+    },
+    {
+      "$id": 7,
+      "label": "qev092405_MSG0003",
+      "style": 0,
+      "name": "私　あなたから沢山のものを貰いました\n感謝するのは私の方なのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092405_MSG0004",
+      "style": 0,
+      "name": "こんなに嬉しいのに[ST:wide ]―\n謝らないでください！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092405_MSG0005",
+      "style": 0,
+      "name": "あの[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092405_MSG0005_2",
+      "style": 0,
+      "name": "後でゆっくり読ませていただきますね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092405_MSG0006",
+      "style": 0,
+      "name": "きっとこの中には　オルネラさんを\n追いつめてしまった私への[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092405_MSG0007",
+      "style": 0,
+      "name": "戒めの言葉があるはずですから[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

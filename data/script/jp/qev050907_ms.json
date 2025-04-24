@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050907_MSG0001",
+      "style": 1,
+      "name": "くっ……\nやはり……　敵わなかったか……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050907_MSG0002",
+      "style": 1,
+      "name": "口惜しさにこの身は焼け焦げてしまいそうだが\n……しかし[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050907_MSG0003",
+      "style": 1,
+      "name": "おかしなものだ\nなにか　清々しいものを同時に感じている[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050907_MSG0004",
+      "style": 1,
+      "name": "この感覚は……\n私がまだ甘い証拠なのだろうか……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050907_JNK0010",
+      "style": 4,
+      "name": "称える"
+    },
+    {
+      "$id": 6,
+      "label": "qev050907_SEL0011",
+      "style": 3,
+      "name": "ドールでの戦闘を褒める"
+    },
+    {
+      "$id": 7,
+      "label": "qev050907_JNK0020",
+      "style": 4,
+      "name": "無言"
+    },
+    {
+      "$id": 8,
+      "label": "qev050907_SEL0021",
+      "style": 3,
+      "name": "何も言わない"
+    },
+    {
+      "$id": 9,
+      "label": "qev050907_MSG0005",
+      "style": 1,
+      "name": "ドールでの戦闘……？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050907_MSG0006",
+      "style": 1,
+      "name": "確かに　自分自身でも\n生身の戦闘よりは　馴染むものを感じたが……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev050907_MSG0007",
+      "style": 1,
+      "name": "そうか……　少しは貴君を\n追い詰めることもできたようだな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev050907_MSG0008",
+      "style": 1,
+      "name": "…………かたじけない\n情けない話だが　その言葉で少し救われた[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev050907_MSG0009",
+      "style": 1,
+      "name": "いや　この言い方はまだ後ろ向きだな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev050907_MSG0010",
+      "style": 1,
+      "name": "貴君のおかげで……　自信がついた[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev050907_MSG0011",
+      "style": 1,
+      "name": "ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev050907_MSG0012",
+      "style": 1,
+      "name": "うん……　無言を貫いてくれるのは\n仲間としての優しさだな[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev050907_MSG0013",
+      "style": 1,
+      "name": "以前の私なら　情けをかけられるのは\n侮辱だと感じていたはずだが……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev050907_MSG0014",
+      "style": 1,
+      "name": "貴君からそれをされるのは\nなぜか……悪くない気持ちになるものだな[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev050907_MSG0015",
+      "style": 1,
+      "name": "こんな私に　長らくつきあわせてしまったな\n……申し訳ない[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev050907_MSG0016",
+      "style": 1,
+      "name": "だが　貴君に出会えたおかげで\n私はまた　自らの道を見出したような気がする[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev050907_MSG0017",
+      "style": 1,
+      "name": "はるか先までは見通すことのできない\nはなはだ心もとないみちではあるが……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev050907_MSG0018",
+      "style": 1,
+      "name": "今は　その道を邁進する少しばかりの\n自信がある[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev050907_MSG0019",
+      "style": 1,
+      "name": "それは……\n他でもない　貴君が私にくれたものだ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev050907_MSG0020",
+      "style": 1,
+      "name": "出会いに感謝している[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev050907_MSG0021",
+      "style": 1,
+      "name": "時間はかかるかも知れないが\n私は必ず　立派なラースの武人となることを\n誓おう[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev050907_MSG0022",
+      "style": 1,
+      "name": "そして　それが成った暁には再会を……！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev050907_MSG0023",
+      "style": 1,
+      "name": "これを約束して　ここで別れよう[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev050907_MSG0024",
+      "style": 1,
+      "name": "……息災でな[ST:wait ]"
+    }
+  ]
+}

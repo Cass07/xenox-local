@@ -1,0 +1,504 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091101_MSG0001",
+      "style": 0,
+      "name": "諸君らに集まってもらったのは他でもない[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091101_MSG0002",
+      "style": 0,
+      "name": "最近グロウスが　原初の荒野にある拠点に\n勢力を集結させているという情報がある[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091101_MSG0003",
+      "style": 0,
+      "name": "ヤツらに先手を打たれる前に　少数精鋭で\n岩盤要塞を攻撃する電撃戦を行うためだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091101_MSG0004",
+      "style": 0,
+      "name": "俺にぴったりの任務だな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091101_MSG0005",
+      "style": 0,
+      "name": "ああ　大きな期待をしている[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091101_MSG0006",
+      "style": 0,
+      "name": "フライには岩盤要塞を急襲する部隊を\n率いてもらいたい[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091101_MSG0007",
+      "style": 0,
+      "name": "おう　任せろ！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091101_MSG0008",
+      "style": 0,
+      "name": "それでここにいる半数は\nＮＬＡの外周部の防衛にあたってほしい[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091101_MSG0009",
+      "style": 0,
+      "name": "なんだ　全員で行かないのか？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091101_MSG0010",
+      "style": 0,
+      "name": "それではこの街の守りが手薄になるだろう[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091101_MSG0011",
+      "style": 0,
+      "name": "グロウスの別働隊に襲撃されたら\nひとたまりもない[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091101_MSG0012",
+      "style": 0,
+      "name": "なるほどな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091101_MSG0013",
+      "style": 0,
+      "name": "じゃあ　ボクは街を守る方を[ST:wide ]―\n攻めは得意でないので[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091101_MSG0014",
+      "style": 0,
+      "name": "そうだな\nフォグにはＮＬＡの防衛をしてもらおう[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091101_MSG0015",
+      "style": 0,
+      "name": "ランドバンクだし\n攻撃側に回るよりは適任だろう[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091101_MSG0016",
+      "style": 0,
+      "name": "それで[ST:wide ]―　お前はどうする？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091101_JNK0010",
+      "style": 4,
+      "name": "攻撃"
+    },
+    {
+      "$id": 18,
+      "label": "qev091101_SEL0011",
+      "style": 3,
+      "name": "フライと共に岩盤要塞を急襲する"
+    },
+    {
+      "$id": 19,
+      "label": "qev091101_JNK0020",
+      "style": 4,
+      "name": "防衛"
+    },
+    {
+      "$id": 20,
+      "label": "qev091101_SEL0021",
+      "style": 3,
+      "name": "フォグと共にNLAの防衛をする"
+    },
+    {
+      "$id": 21,
+      "label": "qev091101_MSG0017",
+      "style": 0,
+      "name": "やはりお前さんはそっちを選ぶか[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091101_MSG0018",
+      "style": 0,
+      "name": "俺を信じて付いてこい！！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091101_MSG0019",
+      "style": 0,
+      "name": "いや　お前さんといると\n俺が付いていくことの方が多いな[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091101_MSG0020",
+      "style": 0,
+      "name": "よし　俺の全てをお前さんに預ける！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091101_MSG0021",
+      "style": 0,
+      "name": "では　作戦の詳細を説明しよう[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091101_MSG0022",
+      "style": 0,
+      "name": "フライ達攻撃チームは岩盤要塞に向かってくれ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091101_MSG0023",
+      "style": 0,
+      "name": "そこでＮＬＡ襲撃のために整えている戦力を\n徹底的に叩いてほしい[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091101_MSG0024",
+      "style": 0,
+      "name": "奴らを倒せば\n作戦を阻止することができるだろう[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091101_MSG0025",
+      "style": 0,
+      "name": "何か質問は？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091101_MSG0026",
+      "style": 0,
+      "name": "グロウスの拠点にはそれ以外のヤツも\nいるだろ？アイツらはどうする？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091101_MSG0027",
+      "style": 0,
+      "name": "今回の作戦では先に挙げた敵を倒すことが\n目標だ　雑兵を無理して倒す必要もない[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091101_MSG0028",
+      "style": 0,
+      "name": "了解だ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091101_MSG0029",
+      "style": 0,
+      "name": "他に質問はないな？[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091101_MSG0030",
+      "style": 0,
+      "name": "フォグ達残りのブレイドには追って指示を出す[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091101_MSG0031",
+      "style": 0,
+      "name": "以上　各員の健闘を祈る！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091101_MSG0032",
+      "style": 0,
+      "name": "あなたがいてくれるなら心強いです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091101_MSG0033",
+      "style": 0,
+      "name": "そうだな\nＮＬＡの防衛はフォグ達で十分だろう[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091101_MSG0034",
+      "style": 0,
+      "name": "残りのメンバーは\nフライと共に行動してもらうことにしよう[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091101_MSG0035",
+      "style": 0,
+      "name": "では　作戦の詳細を説明しよう[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091101_MSG0036",
+      "style": 0,
+      "name": "フライ達攻撃チームは岩盤要塞に向かい\n敵戦力を徹底的に叩いてほしい[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091101_MSG0037",
+      "style": 0,
+      "name": "了解だ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091101_MSG0038",
+      "style": 0,
+      "name": "フォグ達は街の東側に陣取って防衛だ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091101_MSG0039",
+      "style": 0,
+      "name": "だが　俺達が攻めるのは西側だろ？[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091101_MSG0040",
+      "style": 0,
+      "name": "ああ　西側の敵は手一杯になるだろう[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091101_MSG0041",
+      "style": 0,
+      "name": "しかしＮＬＡの東側にも敵陣がある　敵は\n西側に増援に行くよりも街を攻撃するはずだ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091101_MSG0042",
+      "style": 0,
+      "name": "[ST:wide ]―岩盤要塞よりも\nＮＬＡの方が近いですもんね[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091101_MSG0043",
+      "style": 0,
+      "name": "ああ　そうなれば我々は後手に回ってしまう[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091101_MSG0044",
+      "style": 0,
+      "name": "街を守るために岩盤要塞からの撤退を\n余儀なくされる状況に至るかもしれないからな[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091101_MSG0045",
+      "style": 0,
+      "name": "なるほど\n敵の作戦を読んだ上での策ってわけか[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091101_MSG0046",
+      "style": 0,
+      "name": "でも　もし兄さん達の背後に\n増援が回りでもしたら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091101_MSG0047",
+      "style": 0,
+      "name": "心配無用だ　これまでのグロウスとの\n戦闘経験から可能性は０に近い[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091101_MSG0048",
+      "style": 0,
+      "name": "そうですか[ST:wide ]―\nそれでも兄さん[ST:wide ]―　気をつけて[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091101_MSG0049",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091101_MSG0050",
+      "style": 0,
+      "name": "なあ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091101_MSG0051",
+      "style": 0,
+      "name": "お前さん\nフォグと一緒に任務を受けたりしたんだよな？[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091101_MSG0052",
+      "style": 0,
+      "name": "アイツはどうだった？[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091101_JNK0030",
+      "style": 4,
+      "name": "賞賛"
+    },
+    {
+      "$id": 58,
+      "label": "qev091101_SEL0031",
+      "style": 3,
+      "name": "優秀だったと褒める"
+    },
+    {
+      "$id": 59,
+      "label": "qev091101_JNK0040",
+      "style": 4,
+      "name": "親しみ"
+    },
+    {
+      "$id": 60,
+      "label": "qev091101_SEL0041",
+      "style": 3,
+      "name": "マイペースで風変わりな性格をしていた\nと笑顔でうなずく"
+    },
+    {
+      "$id": 61,
+      "label": "qev091101_JNK0050",
+      "style": 4,
+      "name": "率直"
+    },
+    {
+      "$id": 62,
+      "label": "qev091101_SEL0051",
+      "style": 3,
+      "name": "ちょっと苦手だと率直に言う"
+    },
+    {
+      "$id": 63,
+      "label": "qev091101_MSG0053",
+      "style": 0,
+      "name": "そうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev091101_MSG0054",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev091101_MSG0055",
+      "style": 0,
+      "name": "俺にはアイツが薄情に思えるんだ\n家族さえも守ろうとしない冷血漢だな[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev091101_MSG0056",
+      "style": 0,
+      "name": "無口なところもマイペースなところも\n俺にとっちゃ不気味だ[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev091101_MSG0057",
+      "style": 0,
+      "name": "何を考えてるのかちっともわからないからな[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev091101_JNK0060",
+      "style": 4,
+      "name": "反論"
+    },
+    {
+      "$id": 69,
+      "label": "qev091101_SEL0061",
+      "style": 3,
+      "name": "フォグが語った真実を教える"
+    },
+    {
+      "$id": 70,
+      "label": "qev091101_JNK0070",
+      "style": 4,
+      "name": "黙する"
+    },
+    {
+      "$id": 71,
+      "label": "qev091101_SEL0071",
+      "style": 3,
+      "name": "フライの話を黙って聞く"
+    },
+    {
+      "$id": 72,
+      "label": "qev091101_MSG0058",
+      "style": 0,
+      "name": "親父は自分から望んで地球に残っただと[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev091101_MSG0059",
+      "style": 0,
+      "name": "ふん　信じられるもんかよ[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev091101_MSG0060",
+      "style": 0,
+      "name": "親父は誰よりも\n人の命を守ることに全てを賭けてたんだ[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev091101_MSG0061",
+      "style": 0,
+      "name": "白鯨の一員となって\nこの船を守る仕事は適任だろ？[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev091101_MSG0062",
+      "style": 0,
+      "name": "使命感あふれる親父が断るなんて\n考えられないぜ[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev091101_MSG0063",
+      "style": 0,
+      "name": "アイツは俺とは違って天才肌で\n軽々ととんでもないことをこなすヤツだった[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev091101_MSG0064",
+      "style": 0,
+      "name": "でもな[ST:wide ]―　受け入れられねぇよ\n親父の命をなんとも思わないヤツなんだからな[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev091101_MSG0065",
+      "style": 0,
+      "name": "まあいい　今はとにかく任務だな[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev091101_MSG0066",
+      "style": 0,
+      "name": "こういう時はさっさと終わらせて\nダイナーで一杯[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev091101_MSG0067",
+      "style": 0,
+      "name": "[ST:wide ]―いや千杯くらい飲みたいもんだ[ST:wait ]"
+    }
+  ]
+}

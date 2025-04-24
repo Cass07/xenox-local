@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev057701_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev057701_SEL0011",
+      "style": 3,
+      "name": "原生生物との戦い方について\n聞く[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev057701_JNK0020",
+      "style": 4,
+      "name": "興味[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev057701_SEL0021",
+      "style": 3,
+      "name": "最近の様子を尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev057701_SEL0031",
+      "style": 3,
+      "name": "夜光の森の原生生物について\n聞く[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev057701_SEL0041",
+      "style": 3,
+      "name": "夜光の森の原生生物について\n聞く[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev057701_MSG0001",
+      "style": 1,
+      "name": "ぐーぐー……\n行けー！　トーチャン！\nひっさつわざで　たたかえも……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev057701_MSG0002",
+      "style": 1,
+      "name": "目をねらえもー　足をねらえもー\nひきょうわざだもー……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev057701_MSG0003",
+      "style": 1,
+      "name": "相手のひっさつわざを　部位を壊して\n封じるんだもー……ぐう[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev057701_MSG0008",
+      "style": 1,
+      "name": "むにゃ……タツニーチャン\n他のキャラバンには　行ってみたかも？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev057701_MSG0009",
+      "style": 1,
+      "name": "えぬえるえーから　北に行けば\nまっしろなとこに行けるも[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev057701_MSG0010",
+      "style": 1,
+      "name": "きゃわいいリーダーさんが……\nもっ？　もももっ！？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev057701_MSG0011",
+      "style": 1,
+      "name": "だめもだめも！\nサツをそんなに　もふもふしないでも～！\nとろけちゃうも～……ぐう[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev057701_MSG0040",
+      "style": 1,
+      "name": "ぐーぐー……\nああっ！　トーチャンだめだも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev057701_MSG0041",
+      "style": 1,
+      "name": "水のあるところは　へなへなになるも！\nクロゴスに食べられちゃうも～！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev057701_MSG0042",
+      "style": 1,
+      "name": "あっ　あっ！　そっちはルメデルがいるも！\nカーチャン　あいつ捕まえても……ぐう[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev057701_MSG0043",
+      "style": 1,
+      "name": "でへ……今夜は　ルメデルの丸焼きが\n食べられるも……カーチャンありがとも……\nむにゃむにゃ……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev057701_MSG0048",
+      "style": 1,
+      "name": "ぐーぐー……ぐぐっ…………\nだ　だめも……毒銅泉洞の奥はだめも……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev057701_MSG0049",
+      "style": 1,
+      "name": "めちゃんこヤバイ奴が　森に来たんだも……\nあんな奴　見たことないも……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev057701_MSG0050",
+      "style": 1,
+      "name": "でも……トーチャンならきっと\n倒してくれる……も……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev057701_MSG0051",
+      "style": 1,
+      "name": "毒銅泉洞……どくどーせんどー……\nうう……どくどくしいも…………ぐう[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev057701_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev057701_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev057701_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev057701_SEL1021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev057701_MSG0012",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev057701_MSG0013",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev057701_MSG0014",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev057701_MSG0015",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev057701_MSG0016",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev057701_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev057701_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev057701_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "tev057701_SEL2021",
+      "style": 3,
+      "name": "噂話を聞く[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev057701_MSG0017",
+      "style": 1,
+      "name": "ぐーぐー……\nごめいわくを　おかけしましたも……\nサツ　とっても反省してるも……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev057701_MSG0018",
+      "style": 1,
+      "name": "お詫びに　サツのこと\n好きにしていいも……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev057701_MSG0021",
+      "style": 1,
+      "name": "ももっ！？\n男子は　男子はだめも！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev057701_MSG0022",
+      "style": 1,
+      "name": "もも～～～！　カタいも～～～！\n大胸筋は嫌だも～！！　……むぐぐ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev057701_MSG0025",
+      "style": 1,
+      "name": "このやわらかさ……温かさ……\nカーチャンみたいだも……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev057701_MSG0026",
+      "style": 1,
+      "name": "カーチャン……苦労させてごめんも……\n全部トーチャンが悪いんだも……すや……[ST:wait ]"
+    }
+  ]
+}

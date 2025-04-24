@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091206_MSG0001",
+      "style": 0,
+      "name": "フライ　それにフォグ\n任務は完了したのか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091206_MSG0002",
+      "style": 0,
+      "name": "ああ[ST:wide ]―　楽勝だったぜ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091206_MSG0003",
+      "style": 0,
+      "name": "大変でした[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091206_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―兄弟で感想が違うのは気になるが\nとにかくよくやった[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091206_MSG0005",
+      "style": 0,
+      "name": "例のブツはどうだ？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091206_MSG0006",
+      "style": 0,
+      "name": "これです　フォグリウムといいます[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091206_MSG0007",
+      "style": 0,
+      "name": "フォグリウム[ST:wide ]―？　もう名前が付いたのか？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091206_MSG0008",
+      "style": 0,
+      "name": "兄が付けてくれました[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091206_MSG0009",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091206_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091206_MSG0011",
+      "style": 0,
+      "name": "ふむ[ST:wide ]―　何の変哲もない結晶に見えるな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091206_MSG0012",
+      "style": 0,
+      "name": "エネルギーを与えると結晶化するんです\nこうしないと持ち運びもできませんでした[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091206_MSG0013",
+      "style": 0,
+      "name": "なるほど[ST:wide ]―\n研究しがいのある物質のようだな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091206_MSG0014",
+      "style": 0,
+      "name": "うまくいけば　今後のＮＬＡの発展に\n大いに役立ってくれるかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091206_MSG0015",
+      "style": 0,
+      "name": "お手柄だったな[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091206_MSG0016",
+      "style": 0,
+      "name": "他のチームが失敗を繰り返す中\nお前達は一発で成功させた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091206_MSG0017",
+      "style": 0,
+      "name": "お前達は最高のチームだ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091206_MSG0018",
+      "style": 0,
+      "name": "兄さん[ST:wide ]―　褒められたよ　嬉しいね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091206_MSG0019",
+      "style": 0,
+      "name": "悪い気はしねぇよな\nこれからもチームを組み続けるか[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091206_MSG0020",
+      "style": 0,
+      "name": "それいいね！　とてもいいね！！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091206_MSG0021",
+      "style": 0,
+      "name": "もちろんお前さんも入れてやるから安心しろよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091206_JNK0010",
+      "style": 4,
+      "name": "感謝"
+    },
+    {
+      "$id": 23,
+      "label": "qev091206_SEL0011",
+      "style": 3,
+      "name": "仲のいい兄弟に入れてくれて感謝する"
+    },
+    {
+      "$id": 24,
+      "label": "qev091206_JNK0020",
+      "style": 4,
+      "name": "断る"
+    },
+    {
+      "$id": 25,
+      "label": "qev091206_SEL0021",
+      "style": 3,
+      "name": "入りたくないと断る"
+    },
+    {
+      "$id": 26,
+      "label": "qev091206_JNK0030",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 27,
+      "label": "qev091206_SEL0031",
+      "style": 3,
+      "name": "スーパークリストフブラザーズと呼ぼう\nと提案する"
+    },
+    {
+      "$id": 28,
+      "label": "qev091206_MSG0022",
+      "style": 0,
+      "name": "いい返事だ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091206_MSG0023",
+      "style": 0,
+      "name": "お前さんがいなけりゃ\n俺とフォグも和解できなかったんだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091206_MSG0024",
+      "style": 0,
+      "name": "そうだね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091206_MSG0025",
+      "style": 0,
+      "name": "ボク達の方こそ　あなたに感謝してます[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091206_MSG0026",
+      "style": 0,
+      "name": "ありがとうよ　そしてこれからもよろしくな[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091206_MSG0027",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091206_MSG0028",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091206_MSG0029",
+      "style": 0,
+      "name": "ま　入るか入らないかはお前さんの自由だな[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091206_MSG0030",
+      "style": 0,
+      "name": "でも　入りたければいつでも言ってください\n歓迎しますから[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091206_MSG0031",
+      "style": 0,
+      "name": "ああ　お前さんがいなけりゃ\n俺とフォグも和解できなかったんだ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091206_MSG0032",
+      "style": 0,
+      "name": "俺達はいつだってお前さんの味方だからな\n俺達のこと　いつでも頼ってくれていいぜ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091206_MSG0033",
+      "style": 0,
+      "name": "フォグみたいに変なことを\n言いだすんじゃねぇよ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091206_MSG0035",
+      "style": 0,
+      "name": "たまらなくカッコイイですね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091206_MSG0036",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091206_MSG0037",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091206_MSG0038",
+      "style": 0,
+      "name": "わかったよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091206_MSG0039",
+      "style": 0,
+      "name": "これからもよろしく頼むぜ[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091206_MSG0039_m",
+      "style": 0,
+      "name": "これからもよろしく頼むぜ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091206_MSG0039_f",
+      "style": 0,
+      "name": "これからもよろしく頼むぜ[ST:wait ]"
+    }
+  ]
+}

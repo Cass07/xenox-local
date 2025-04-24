@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev075405_MSG0001",
+      "style": 1,
+      "name": "이봐! 굉장한 소리가 났는데\n대체 무슨 일이……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev075405_MSG0002",
+      "style": 1,
+      "name": "응……?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev075405_MSG0003",
+      "style": 1,
+      "name": "어……째서 토르바가 여기 있는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev075405_MSG0004",
+      "style": 1,
+      "name": "난 여기서 수상한 지구인에게 잡혀 있었다아\n녀석들의 빈틈을 노려 도망쳤는데……\n설마 스승님을 만날 줄은 몰랐다아[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev075405_MSG0005",
+      "style": 1,
+      "name": "하지만 토르바……\n넌 내 눈앞에서 물어 뜯겨서……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev075405_MSG0006",
+      "style": 1,
+      "name": "맞아, 그래서 난……\n너의 목숨을 짊어지고 그로우스 녀석들을……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev075405_MSG0007",
+      "style": 1,
+      "name": "그런 녀석에게 당할 정도로\n난 약하지 않다고오![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev075405_MSG0008",
+      "style": 1,
+      "name": "헤헤헷!\n그 후로 약간은 강해졌다아!\n스승님, 조금이라도 수행의 성과를 봐 줘어![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev075405_MSG0009",
+      "style": 1,
+      "name": "아…… 그래……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev075405_MSG0010",
+      "style": 1,
+      "name": "이봐, [ST:playername ]……\n대체 어떻게 된 거야?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev075405_JNK0010",
+      "style": 4,
+      "name": "기뻐한다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev075405_SEL0011",
+      "style": 3,
+      "name": "토르바가 살아 있는 걸\n순수하게 기뻐한다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev075405_JNK0020",
+      "style": 4,
+      "name": "의심한다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev075405_SEL0021",
+      "style": 3,
+      "name": "토르바는 죽었다고\n기 장그에게 경고한다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev075405_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "qev075405_MSG0011",
+      "style": 1,
+      "name": "……그래\n이렇게 눈앞에 있잖아……\n의심할 필요가 없지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev075405_MSG0012",
+      "style": 1,
+      "name": "토르바, 다행이야\n난 이제 나 때문에 누군가가 죽거나\n지키지 못하고 그러는 건 지긋지긋해[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev075405_MSG0013",
+      "style": 1,
+      "name": "너만이라도 살아 줘서……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev075405_MSG0014",
+      "style": 1,
+      "name": "헤헷! 이게 수련의 성과야!\n스승님, 이제 안녕![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev075405_MSG0015",
+      "style": 1,
+      "name": "이런 단순한 함정에 걸려들다니\n정말 라스인은 어리석네요![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev075405_MSG0016",
+      "style": 1,
+      "name": "후훗…… 남은 건 지구인뿐……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev075405_MSG0017",
+      "style": 1,
+      "name": "당신도 이 칼에 뒤지지 않는\n좋은 무기를 갖고 있는 것 같군요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev075405_MSG0018",
+      "style": 1,
+      "name": "우리 데피니아와\n위대한 포르툰 님의 계획을 위해……\n그 목숨과 함께 받아 가겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev075405_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "qev075405_MSG0019",
+      "style": 1,
+      "name": "그래…… 토르바는 틀림없이 죽었어\n그걸 가장 잘 아는 건 나잖아……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev075405_MSG0020",
+      "style": 1,
+      "name": "……이봐, 넌 누구야?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev075405_MSG0021",
+      "style": 1,
+      "name": "후훗, 역시 어리석은 라스인이어도\n이런 뻔한 함정에 걸리지는 않는군요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev075405_MSG0022",
+      "style": 1,
+      "name": "재미없네요\n모처럼 백목의 대륙에서 본\n당신들의 촌극을 활용해 봤는데[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev075405_MSG0023",
+      "style": 1,
+      "name": "뭐라……! 넌 누구냐?\n어째서 우리에게 이런 짓을 하는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev075405_MSG0024",
+      "style": 1,
+      "name": "나의 역할은 뛰어난 무기를 모으는 것\n그리고 당신은 이 칼을 갖고 있었죠\n……그뿐입니다[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev075405_MSG0025",
+      "style": 1,
+      "name": "거기 있는 지구인도 라스인의 칼에 뒤지지 않는\n좋은 무기를 갖고 있는 것 같군요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev075405_MSG0026",
+      "style": 1,
+      "name": "우리 데피니아와\n위대한 포르툰 님의 계획을 위해……\n그 목숨과 함께 받아 가겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev075405_MSG0027",
+      "style": 1,
+      "name": "무슨 말을 하는 건지\n전혀 모르겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev075405_MSG0028",
+      "style": 1,
+      "name": "이런 전개라면 이후는 단순하지!\n난 뒤에 있는 베르데를 해치울게![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev075405_MSG0029",
+      "style": 1,
+      "name": "[ST:playername ]!\n넌 저 녀석을 때려눕혀!\n이런 녀석들은 우리 힘으로 쫓아내자고![ST:wait ]"
+    }
+  ]
+}

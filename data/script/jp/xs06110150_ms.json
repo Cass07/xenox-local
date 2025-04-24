@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06110150_MSG0001",
+      "style": 0,
+      "name": "あいつ[ST:wide ]―　助けてくれたのか[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs06110150_MSG0002",
+      "style": 0,
+      "name": "そうかもね\nひとまずは命拾いってところかしら[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs06110150_MSG0003",
+      "style": 0,
+      "name": "ああ　そう願いたいな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06110150_MSG0004",
+      "style": 0,
+      "name": "回収したドールも気になるし\nＮＬＡに戻って格納庫に行ってみましょう[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06110150_MSG0005",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    }
+  ]
+}

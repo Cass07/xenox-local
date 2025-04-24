@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs10050150_MSG0001",
+      "style": 0,
+      "name": "루크자르 총수님……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs10050150_MSG0002",
+      "style": 0,
+      "name": "루크자르 총수님![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs10050150_MSG0003",
+      "style": 0,
+      "name": "무슨 일인데 소리를 지르는 게냐\n그러지 않아도 다 들린다![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs10050150_MSG0004",
+      "style": 0,
+      "name": "이, 이제 막 완성된 즈 하그를\n리즈가 가지고 갔습니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs10050150_MSG0005",
+      "style": 0,
+      "name": "뭐, 뭣이!?\n리즈가!?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs10050150_MSG0006",
+      "style": 0,
+      "name": "에이잇, 이 녀석이고 저 녀석이고\n다들 자기 멋대로 굴다니![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs10050150_MSG0007",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

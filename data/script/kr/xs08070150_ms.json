@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08070150_MSG0001",
+      "style": 0,
+      "name": "미사일이다, 격추해![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08070150_MSG0002",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "xs08070150_MSG0003",
+      "style": 0,
+      "name": "마커스![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08070150_MSG0004",
+      "style": 0,
+      "name": "유감이지만\n미사일에 당해 전사했습니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08070150_MSG0005",
+      "style": 0,
+      "name": "라이프 포인트를 발견하면[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08070150_MSG0006",
+      "style": 0,
+      "name": "가장 먼저 되살려 주겠어[ST:wait ]"
+    }
+  ]
+}

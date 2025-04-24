@@ -1,0 +1,528 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33860100_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―ヴォイドに取り込まれている間[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33860100_MSG0020",
+      "style": 0,
+      "name": "オレにはヤツの過去が見えた[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33860100_MSG0030",
+      "style": 0,
+      "name": "遠い昔[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33860100_MSG0040",
+      "style": 0,
+      "name": "ヤツもまたサマールの一人として生まれた[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33860100_MSG0050",
+      "style": 0,
+      "name": "並外れた天才だったヴォイドは\nゲートと呼ばれる究極の物体を研究して[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33860100_MSG0060",
+      "style": 0,
+      "name": "その力を６つのコアへと還元\nアレスを創り上げた[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33860100_MSG0070",
+      "style": 0,
+      "name": "[ST:wide ]―が[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33860100_MSG0080",
+      "style": 0,
+      "name": "それがゴーストを呼び覚ます結果となった[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33860100_MSG0090",
+      "style": 0,
+      "name": "サマールの民はヴォイドこそ元凶だとして[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33860100_MSG0100",
+      "style": 0,
+      "name": "アレスを破壊\nヴォイドの意識を狭間の世界の監獄へと封じた[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33860100_MSG0110",
+      "style": 0,
+      "name": "永遠に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33860100_MSG0120",
+      "style": 0,
+      "name": "ミラに現れた浮遊大陸は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33860100_MSG0130",
+      "style": 0,
+      "name": "狭間の世界からヴォイドとともに現出した\n監獄だったんだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33860100_MSG0140",
+      "style": 0,
+      "name": "狭間の世界に閉じ込められた\nヴォイドにとって[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33860100_MSG0150",
+      "style": 0,
+      "name": "孤独は苦じゃなかった[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33860100_MSG0160",
+      "style": 0,
+      "name": "ヤツにとっての苦痛は“知らない”こと[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33860100_MSG0170",
+      "style": 0,
+      "name": "ヴォイドは永遠の世界の中で[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33860100_MSG0180",
+      "style": 0,
+      "name": "“死”を知ろうとした[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33860100_MSG0190",
+      "style": 0,
+      "name": "そこに感情は無く[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33860100_MSG0200",
+      "style": 0,
+      "name": "“ただ無邪気に”知ろうとしたんだ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33860100_MSG0210",
+      "style": 0,
+      "name": "ある時[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33860100_MSG0220",
+      "style": 0,
+      "name": "ヴォイドを閉じ込めた意識の監獄の檻に\n亀裂が走った[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33860100_MSG0230",
+      "style": 0,
+      "name": "原因は分からない[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs33860100_MSG0240",
+      "style": 0,
+      "name": "監獄が限界を迎えたのか\n他の世界からの干渉があったのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs33860100_MSG0250",
+      "style": 0,
+      "name": "いずれにせよヴォイドの意識は\n監獄から解放された[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs33860100_MSG0260",
+      "style": 0,
+      "name": "そして[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs33860100_MSG0270",
+      "style": 0,
+      "name": "エルマの母星があった宇宙に\nヴォイドは現れた[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs33860100_MSG0280",
+      "style": 0,
+      "name": "肉体は無くなっていたが\nヤツを信仰する者たちによって創られた器\n―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs33860100_MSG0290",
+      "style": 0,
+      "name": "ウィータを依代として現出した[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs33860100_MSG0300",
+      "style": 0,
+      "name": "更にヤツは　グロウスを創り出し[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs33860100_MSG0310",
+      "style": 0,
+      "name": "その力をもって“死を知ろうとした”[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs33860100_MSG0320",
+      "style": 0,
+      "name": "まずはアレスを取り戻すため\nエルマの母星へと進軍を始めた[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs33860100_MSG0330",
+      "style": 0,
+      "name": "ヴォイドの行動　再生されたアレス[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs33860100_MSG0340",
+      "style": 0,
+      "name": "それらの事象に呼応してゴーストが現れた[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs33860100_MSG0350",
+      "style": 0,
+      "name": "エルマの母星は\nグロウスとゴーストの衝突によって消失し[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs33860100_MSG0360",
+      "style": 0,
+      "name": "世界も消えた[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs33860100_MSG0370",
+      "style": 0,
+      "name": "目の前に在る多くの死を見ながらも\nヤツはそれを理解しようとしなかった[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs33860100_MSG0380",
+      "style": 0,
+      "name": "気付いていたんだよ　本能的に[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs33860100_MSG0390",
+      "style": 0,
+      "name": "自分自身の存在が消える事の恐怖を[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs33860100_MSG0400",
+      "style": 0,
+      "name": "だから　逃げたんだ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs33860100_MSG0410",
+      "style": 0,
+      "name": "サマールの民　ゴースト[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs33860100_MSG0420",
+      "style": 0,
+      "name": "自身の存在を排除しようとする力から\n逃げ続けたヴォイドは[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs33860100_MSG0430",
+      "style": 0,
+      "name": "旅路の果てに敗北し　初めて死を知った[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs33860100_MSG0440",
+      "style": 0,
+      "name": "あの瞬間[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs33860100_MSG0450",
+      "style": 0,
+      "name": "ヤツは何を思ったんだろうな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs33860100_MSG9010",
+      "style": 0,
+      "name": "私は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs33860100_MSG9020",
+      "style": 0,
+      "name": "どこに行く？[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs33860100_MSG9030",
+      "style": 0,
+      "name": "おおおおぉぉぉ[ST:wide ]―！！[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs33860100_MSG0490",
+      "style": 0,
+      "name": "よぉ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs33860100_MSG0500",
+      "style": 0,
+      "name": "みんないるか？[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs33860100_MSG0510",
+      "style": 0,
+      "name": "オレさ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs33860100_MSG0520",
+      "style": 0,
+      "name": "なんとなく[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs33860100_MSG0530",
+      "style": 0,
+      "name": "分かった気がするんだ[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs33860100_MSG0540",
+      "style": 0,
+      "name": "あの場所は監獄なんかじゃない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs33860100_MSG0550",
+      "style": 0,
+      "name": "天国へと続く道だったんじゃないかってさ[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs33860100_MSG0560",
+      "style": 0,
+      "name": "あるんだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs33860100_MSG0570",
+      "style": 0,
+      "name": "あんなにも素敵な場所が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs33860100_MSG0580",
+      "style": 0,
+      "name": "よかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs33860100_MSG0590",
+      "style": 0,
+      "name": "お前無事だったのか！[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs33860100_MSG0600",
+      "style": 0,
+      "name": "ご苦労だったな[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs33860100_MSG0610",
+      "style": 0,
+      "name": "馬鹿野郎　心配させんな！[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs33860100_MSG0620",
+      "style": 0,
+      "name": "きっと[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs33860100_MSG0630",
+      "style": 0,
+      "name": "きっと還ってきてくれるって信じてました！[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs33860100_MSG0640",
+      "style": 0,
+      "name": "とにかく一安心ですもー[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs33860100_MSG0650",
+      "style": 0,
+      "name": "おかえりなさい[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs33860100_MSG0660",
+      "style": 0,
+      "name": "いやぁよかったっす[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs33860100_MSG0670",
+      "style": 0,
+      "name": "僕もうてっきり[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs33860100_MSG0680",
+      "style": 0,
+      "name": "ひどい！[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs33860100_MSG0690",
+      "style": 0,
+      "name": "信じてなかったんですか！？[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs33860100_MSG0700",
+      "style": 0,
+      "name": "い　いやそうじゃなくって[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs33860100_MSG0710",
+      "style": 0,
+      "name": "じゃなくって　なんです！？[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs33860100_MSG0720",
+      "style": 0,
+      "name": "え　そ　それは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs33860100_MSG0740",
+      "style": 0,
+      "name": "なんにせよ無事でよかったじゃねぇか　な？[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs33860100_MSG0750",
+      "style": 0,
+      "name": "故事に言う　雨降って地固まる　ですね[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs33860100_MSG0760",
+      "style": 0,
+      "name": "なんだそれ？[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs33860100_MSG0770",
+      "style": 0,
+      "name": "あははははっ[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs33860100_MSG0771",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 78,
+      "label": "xs33860100_MSG0772",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 79,
+      "label": "xs33860100_MSG0773",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 80,
+      "label": "xs33860100_MSG0774",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 81,
+      "label": "xs33860100_MSG0775",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 82,
+      "label": "xs33860100_MSG0776",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 83,
+      "label": "xs33860100_MSG0780",
+      "style": 0,
+      "name": "さて　と[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs33860100_MSG0790",
+      "style": 0,
+      "name": "次の世界が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs33860100_MSG0800",
+      "style": 0,
+      "name": "見えて来たぜ[ST:wait ]"
+    }
+  ]
+}

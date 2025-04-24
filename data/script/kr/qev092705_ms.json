@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092705_MSG0010",
+      "style": 0,
+      "name": "벌써 다 모은 건가?\n역시 블레이드는 일 처리가 빨라[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092705_MSG0020",
+      "style": 0,
+      "name": "그래, 이 정도면 충분해\n고맙다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092705_MSG0030",
+      "style": 0,
+      "name": "이전 전투 때문에 과열됐어\n뼈대가 견디지 못한 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092705_MSG0040",
+      "style": 0,
+      "name": "냉각 장치에 이 소재를 추가해서\n응급 처치를 하면……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092705_MSG0050",
+      "style": 0,
+      "name": "……좋아, 이 정도라면\n나라도 어떻게든 고칠 수 있겠어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092705_MSG0060",
+      "style": 0,
+      "name": "잠시만 기다려 줘\n금방 수리하겠다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092705_MSG0070",
+      "style": 0,
+      "name": "좋아, 이제 움직이겠지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092705_MSG0080",
+      "style": 0,
+      "name": "그건 그렇고……\n이 정도로 안정성이 부족하다니[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092705_MSG0090",
+      "style": 0,
+      "name": "공개 날짜도 코앞인데\n이제 와서 문제가 생겼나……?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092705_JNK0100",
+      "style": 4,
+      "name": "칭찬"
+    },
+    {
+      "$id": 11,
+      "label": "qev092705_SEL0110",
+      "style": 3,
+      "name": "좋은 돌 같다고 말한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev092705_MSG0120",
+      "style": 0,
+      "name": "그래, 나도 그렇게 생각해[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092705_MSG0130",
+      "style": 0,
+      "name": "좋은 돌이 아니면 곤란하지\n이제 겨우 완성을 앞두고 있으니까……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092705_JNK0140",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 15,
+      "label": "qev092705_SEL0150",
+      "style": 3,
+      "name": "망가진 이유를 묻는다"
+    },
+    {
+      "$id": 16,
+      "label": "qev092705_MSG0160",
+      "style": 0,
+      "name": "글쎄……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092705_MSG0170",
+      "style": 0,
+      "name": "여기서 원인 조사를 할 순 없어\n전문가의 도움이 필요하거든[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092705_MSG0180",
+      "style": 0,
+      "name": "하지만……\n조종하기 어려운 건 분명해[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092705_MSG0190",
+      "style": 0,
+      "name": "섬세한 물건이기도 하고\n직감적으로 다루기도 쉽지 않아……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092705_MSG0200",
+      "style": 0,
+      "name": "열을 견디지 못한 걸 보면\n조종 시의 부하가 예상 수치 이상인가……?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092705_MSG0210",
+      "style": 0,
+      "name": "……나중에\n아리샤에게 보고해야겠군[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092705_MSG0220",
+      "style": 0,
+      "name": "NLA로 돌아가자\n너도 따라와 주겠어?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092705_MSG0230",
+      "style": 0,
+      "name": "너의 의뢰인은 아마도 내 지인일 거다\n자세히 소개해 주지[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000592_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]……\n부끄러운 모습을 보이고 말았네요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000592_MSG0002",
+      "style": 1,
+      "name": "저번에 동기 패스파인더와 함께\n망각의 계곡에 데이터 프로브를\n설치하려고 했던 일, 기억하시나요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000592_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 4,
+      "label": "tev000592_SEL0011",
+      "style": 3,
+      "name": "기억하고 있다고 대답한다"
+    },
+    {
+      "$id": 5,
+      "label": "tev000592_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 6,
+      "label": "tev000592_SEL0021",
+      "style": 3,
+      "name": "잊었다고 솔직하게 대답한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000592_MSG0003",
+      "style": 1,
+      "name": "조금 슬프네요……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000592_MSG0004",
+      "style": 1,
+      "name": "경험이 부족한 블레이드끼리 망각의 계곡에서\n데이터 프로브를 설치하려니 불안하다고\n제가 상의 드린 적이 있잖아요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000592_MSG0005",
+      "style": 1,
+      "name": "아무튼 데이터 프로브 설치까지는\n어떻게 잘되기는 했는데……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000592_MSG0006",
+      "style": 1,
+      "name": "복귀 도중에 대규모 루프스 무리의\n습격을 받고 말았어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000592_MSG0007",
+      "style": 1,
+      "name": "그때, 제가 미처 해치우지 못한 적이\n동료 한 명을 다치게 해서……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000592_MSG0008",
+      "style": 1,
+      "name": "더는 같은 실수를 되풀이하지 않으려고\n여기서 비밀 특훈을 하고 있었던 거예요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000592_JNK0030",
+      "style": 4,
+      "name": "질타한다"
+    },
+    {
+      "$id": 14,
+      "label": "tev000592_SEL0031",
+      "style": 3,
+      "name": "이런 훈련으로는\n한참 부족하다며 질타한다"
+    },
+    {
+      "$id": 15,
+      "label": "tev000592_JNK0040",
+      "style": 4,
+      "name": "격려한다"
+    },
+    {
+      "$id": 16,
+      "label": "tev000592_SEL0041",
+      "style": 3,
+      "name": "그윈은 제법 싸울 줄 안다며\n자신을 가지라고 한다"
+    },
+    {
+      "$id": 17,
+      "label": "tev000592_MSG0009",
+      "style": 1,
+      "name": "[ST:playername ]……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000592_MSG0010",
+      "style": 1,
+      "name": "그렇겠네요\n도시 바깥에 운 좋게 차폐물이\n있지는 않을 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000592_MSG0011",
+      "style": 1,
+      "name": "설령 최악의 상황이 닥쳐도 대응할 수 있는\n응용력이 필요하다는 뜻이군요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000592_MSG0012",
+      "style": 1,
+      "name": "저는 훈련의 의미와 목적을\n더 깊이 고민해 볼게요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000592_MSG0013",
+      "style": 1,
+      "name": "그렇게 되었으니 블레이드 에어리어로 돌아가서\n플랜을 다시 짜는 것부터 시작해야겠어요![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000592_MSG0014",
+      "style": 1,
+      "name": "그러면 이만 실례하겠습니다!\n괜찮다면 또 임무에 불러 주세요![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000592_MSG0015",
+      "style": 1,
+      "name": "[ST:playername ]의\n칭찬을 받다니 기쁘네요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000592_MSG0016",
+      "style": 1,
+      "name": "하지만…… 동료가 다친 건\n다름 아닌 저의 실수 때문이에요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000592_MSG0017",
+      "style": 1,
+      "name": "저도 알아요\n이리나 중위님이나 [ST:playername ]에게는\n아직 상대가 되지 않는다는 것을요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000592_MSG0018",
+      "style": 1,
+      "name": "그러니…… 절 엄하게 대해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000592_MSG0019",
+      "style": 1,
+      "name": "만약 제가 훌륭한 블레이드가 되어\n이리나 중위님이나 [ST:playername ]조차도\n지킬 수 있을 만큼 강해지면……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000592_MSG0020",
+      "style": 1,
+      "name": "그때는 정말로 칭찬받고 싶네요[ST:wait ]"
+    }
+  ]
+}

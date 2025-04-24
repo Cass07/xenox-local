@@ -1,0 +1,378 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev018201_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev018201_SEL0011",
+      "style": 3,
+      "name": "격납고에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev018201_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev018201_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev018201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev018201_SEL0031",
+      "style": 3,
+      "name": "마 논인에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev018201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev018201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev018201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev018201_SEL0051",
+      "style": 3,
+      "name": "습격에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev018201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev018201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev018201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev018201_SEL0071",
+      "style": 3,
+      "name": "격리 격납고에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev018201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev018201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev018201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev018201_SEL0091",
+      "style": 3,
+      "name": "격리 격납고에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev018201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev018201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev018201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev018201_SEL0111",
+      "style": 3,
+      "name": "격납고에 배치된\n돌에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev018201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev018201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev018201_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 26,
+      "label": "tev018201_SEL2021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 27,
+      "label": "tev018201_MSG0001",
+      "style": 1,
+      "name": "블레이드가 사용하는 돌이나 차량을 보관하고\n메인터넌스를 하는 시설이에요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev018201_MSG0002",
+      "style": 1,
+      "name": "NLA 밖이 블레이드의 전장이라면\n여기는 우리 메카닉의\n전장이라고 할 수 있겠네요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev018201_MSG0003",
+      "style": 1,
+      "name": "아무리 처참하게 파괴된 돌이라도\n인류의 미래를 위해서 반드시 고쳐 내겠어요![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev018201_MSG0010",
+      "style": 1,
+      "name": "신형 병기 적응 시험을 위해서 야광의 숲으로 간\n암즈의 블레이드가 있는데요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev018201_MSG0011",
+      "style": 1,
+      "name": "아무리 시간이 지나도\n귀환했다는 보고가 없어서 걱정이에요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev018201_MSG0012",
+      "style": 1,
+      "name": "저와 바이런이 그의 돌을\n완벽하게 완성해서 내보냈지만……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev018201_MSG0013",
+      "style": 1,
+      "name": "어쨌든 무기가 실용화 전인 프로토타입이니까요\n어떤 예측 불가능한 사태가 일어날지\n모르는 거잖아요……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev018201_MSG0018",
+      "style": 1,
+      "name": "지금까지 수리에 3일 걸리던 걸\n그들은 몇 시간 만에 고쳐 버려요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev018201_MSG0019",
+      "style": 1,
+      "name": "그날의 기분에 따라 전혀 의욕이 없거나\n한바탕 일을 끝내고는 피자를 먹겠다면서\n아미 피자에 가 버리거나……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev018201_MSG0020",
+      "style": 1,
+      "name": "같이 일을 하면서 어려운 부분도 있지만\n그걸 제외하고도 많은 도움이 돼요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev018201_MSG0021",
+      "style": 1,
+      "name": "지구인은 더할 나위 없이 믿음직스러운 동료와\n우호 조약을 체결했네요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev018201_MSG0026",
+      "style": 1,
+      "name": "많은 돌이 그로우스에게\n파괴되어 버린 것 같지만……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev018201_MSG0027",
+      "style": 1,
+      "name": "블레이드 여러분은 그런 건 신경 쓰지 말고\n부디 탐색을 진행해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev018201_MSG0028",
+      "style": 1,
+      "name": "지금이야말로 우리 메카닉의 실력을 보여 줄 때!\n녀석들에게 파괴된 건 전부 고쳐 내겠어요![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev018201_MSG0032",
+      "style": 1,
+      "name": "반담 사령관님이 안색을 바꾸더니\n블레이드를 데리고 안으로 들어갔어요[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev018201_MSG0033",
+      "style": 1,
+      "name": "이건…… 보통 일이 아니에요![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev018201_MSG0034",
+      "style": 1,
+      "name": "부디 여러분도 빨리 지원을 가 주세요![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev018201_MSG0039",
+      "style": 1,
+      "name": "저곳에는 그 밖에도\n귀중한 프로토타입이 많이 있거든요……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev018201_MSG0040",
+      "style": 1,
+      "name": "저대로는 너무 무방비하니까\n파괴된 격리 격납고 문은\n메카닉이 총출동해서 수리했어요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev018201_MSG0041",
+      "style": 1,
+      "name": "뭐…… 아무리 튼튼한 문을 설치해도\n내부에 배신자가 있으면\n막을 방법이 없지만 말이죠……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev018201_MSG0046",
+      "style": 1,
+      "name": "돌 산업에 혁명을 가져온 신형 병기……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev018201_MSG0047",
+      "style": 1,
+      "name": "돌 플라이트 커스텀 배치 준비가\n빠른 속도로 진행되고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev018201_MSG0048",
+      "style": 1,
+      "name": "구조를 잘 몰라서 메인터넌스를 하는 데\n시간이 보통 기체의 몇 배나 걸려서 말이죠[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev018201_MSG0049",
+      "style": 1,
+      "name": "아직 기체는 블레이드에게\n전달되지 않았지만……[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev018201_MSG0050",
+      "style": 1,
+      "name": "그걸 만들어 낸 린 씨와 동료분들의 노력을\n헛되지 않게 하기 위해서라도\n이 신기술을 빠르게 익혀 내겠어요![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev018201_MSG1001",
+      "style": 1,
+      "name": "야광의 숲에서 소식이 끊겼던\n암즈의 블레이드가 돌아왔어요![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev018201_MSG1002",
+      "style": 1,
+      "name": "원시 생물에 의해 돌이 망가져서\n계속 피난해 있던 모양인데……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev018201_MSG1003",
+      "style": 1,
+      "name": "우연히 지나가던\n[ST:playername ][KR:Particle char=ya ]라는 블레이드에게 구조되어\n테스트 데이터도 회수할 수 있었다고 해요[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev018201_MSG1004",
+      "style": 1,
+      "name": "그런 곳에서\n그렇게 친절한 블레이드와 만나게 되다니\n정말 운이 좋죠?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev018201_MSG2001",
+      "style": 1,
+      "name": "얼마 전에 바이런과\n갑자기 정지한 돌을 조사하고 있었는데[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev018201_MSG2002",
+      "style": 1,
+      "name": "원인을 전혀 알아낼 수가 없어서……\n어찌할 바를 모르고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev018201_MSG2003",
+      "style": 1,
+      "name": "그랬더니 마침 상황을 보러 온\n반담 사령관님이 돌을 한 번 보더니[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev018201_MSG2004",
+      "style": 1,
+      "name": "『이건 흉부 전송 계열의 트러블이군\n320번 케이블을 교체해 봐』라고 하셔서\n그대로 해 봤더니 정말 고쳐진 거예요[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev018201_MSG2005",
+      "style": 1,
+      "name": "정말 놀랐어요, 역시 전 수석 엔지니어……\n2년간의 흰고래 우주 항행과 NLA 건축을\n선두에서 지탱해 온 천재 기술자세요[ST:wait ]"
+    }
+  ]
+}

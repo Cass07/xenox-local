@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095204_MSG0001",
+      "style": 1,
+      "name": "同志よ　グロウスたちは裏切り者の我々を\n83.5％の確率で始末しに来るでしょう[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095204_MSG0002",
+      "style": 1,
+      "name": "どうかその時は　お助け下さい\n非力な我々に　奴らと戦う術はないのですから[ST:wait ]"
+    }
+  ]
+}

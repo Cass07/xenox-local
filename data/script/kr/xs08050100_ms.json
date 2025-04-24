@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08050100_MSG0001",
+      "style": 0,
+      "name": "들었겠지만\n이 NLA에 그로우스 대부대가 몰려오고 있어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08050100_MSG0002",
+      "style": 0,
+      "name": "모리스 행정장관의 대화가\n잘 풀리면 좋겠지만, 그럴 확률은 작아[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08050100_MSG0003",
+      "style": 0,
+      "name": "지구인을 눈엣가시로 여기고 있으니까요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08050100_MSG0004",
+      "style": 0,
+      "name": "우리는 블레이드 에어리어의\n입구 수비를 담당할 거야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08050100_MSG0005",
+      "style": 0,
+      "name": "가장 중요한 포인트야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08050100_MSG0006",
+      "style": 0,
+      "name": "본부가 함락되면\n만에 하나의 승산조차 없어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08050100_MSG0007",
+      "style": 0,
+      "name": "그만큼 그로우스의 공격도\n가장 격렬할 거야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs08050100_MSG0008",
+      "style": 0,
+      "name": "그만큼 저희를 믿고 있다는 말이네요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs08050100_MSG0009",
+      "style": 0,
+      "name": "이리나 씨와 더그 씨는\n어디에 배치됐나요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs08050100_MSG0010",
+      "style": 0,
+      "name": "이리나는 공업 에어리어 입구[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs08050100_MSG0011",
+      "style": 0,
+      "name": "더그는 적의 주력 부대가 확인될 때까지\n예비 전력으로서 대기[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs08050100_MSG0012",
+      "style": 0,
+      "name": "라오는 격납고 수비를 맡게 됐어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs08050100_MSG0013",
+      "style": 0,
+      "name": "타츠는 보급을 맡았다모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08050100_MSG0014",
+      "style": 0,
+      "name": "노폰의 오기와 자긍심, 연줄을\n총동원할 거다모[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08050100_MSG0015",
+      "style": 0,
+      "name": "타츠, 고마워[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs08050100_MSG0016",
+      "style": 0,
+      "name": "이 싸움이 끝나면\n맛있게 요리해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs08050100_MSG0017",
+      "style": 0,
+      "name": "모모모모~ 타츠는 식재료가 아니다모![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs08050100_MSG0018",
+      "style": 0,
+      "name": "당신에게도 기대하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs08050100_MSG0018_m",
+      "style": 0,
+      "name": "당신에게도 기대하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs08050100_MSG0018_f",
+      "style": 0,
+      "name": "당신에게도 기대하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs08050100_JNK0010",
+      "style": 4,
+      "name": "강인한 자세"
+    },
+    {
+      "$id": 22,
+      "label": "xs08050100_SEL0011",
+      "style": 3,
+      "name": "혼자서도 충분하다며 여유 부린다"
+    },
+    {
+      "$id": 23,
+      "label": "xs08050100_JNK0020",
+      "style": 4,
+      "name": "나약한 자세"
+    },
+    {
+      "$id": 24,
+      "label": "xs08050100_SEL0021",
+      "style": 3,
+      "name": "사실 조금 두렵다고 말한다"
+    },
+    {
+      "$id": 25,
+      "label": "xs08050100_MSG0019",
+      "style": 0,
+      "name": "너무 기를 쓰려고 하지 마\n그럴수록 초조해질 거야[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs08050100_MSG0020",
+      "style": 0,
+      "name": "맞아요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs08050100_MSG0021",
+      "style": 0,
+      "name": "팀이니까\n다 같이 힘을 합쳐서 열심히 해요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs08050100_MSG0022",
+      "style": 0,
+      "name": "솔직히 말하자면 저도 그래요……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs08050100_MSG0023",
+      "style": 0,
+      "name": "이렇게 큰 싸움이라면 누구나 두려울 거야[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs08050100_MSG0024",
+      "style": 0,
+      "name": "엘마 씨도 그런가모?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs08050100_MSG0025",
+      "style": 0,
+      "name": "물론이지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs08050100_MSG0026",
+      "style": 0,
+      "name": "그 두려움을 소중히 여겨\n두려움을 알아야 강해질 수 있는 거야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs08050100_MSG0027",
+      "style": 0,
+      "name": "출격하자[ST:wait ]"
+    }
+  ]
+}

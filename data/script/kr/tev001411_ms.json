@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001411_MSG0010",
+      "style": 1,
+      "name": "산 넘어 산이군……\n앞으로 점점 더 바빠질 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001411_MSG0020",
+      "style": 1,
+      "name": "그쪽은 어때?\n도움이 필요하면 협력할게\n우리 사이니까 말이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001411_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 4,
+      "label": "tev001411_SEL0040",
+      "style": 3,
+      "name": "이리나를 멤버에 넣는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001411_MSG0050",
+      "style": 1,
+      "name": "좋았어!\n등 뒤는 나한테 맡겨![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001411_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001411_SEL0070",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001411_MSG0080",
+      "style": 1,
+      "name": "그렇군\n뭐, 서로 열심히 하자고[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001411_MSG0090",
+      "style": 1,
+      "name": "살아남기 위한 투쟁인가……\n흥, 얕보인 모양이군[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001411_MSG0100",
+      "style": 1,
+      "name": "우리는 지구에서 탈출한 후부터\n계속 싸워 왔어\n살기 위해서 필사적으로 말이야……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001411_MSG0110",
+      "style": 1,
+      "name": "그런 우리를 얕보면 어떻게 되는지……\n확실하게 알려 주자고, 그렇지?[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev100901_MSG0001",
+      "style": 1,
+      "name": "あなた様が私の依頼を受けてくださった\nブレイドの方ですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev100901_MSG0002",
+      "style": 1,
+      "name": "今回　私が必要とするミラニウムの量は900gm\nどうやらあなた様は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev100901_MSG0003",
+      "style": 1,
+      "name": "それだけのミラニウムはお持ちでないようです\nどうか　ミラニウムをお集めになってから\n再度おいでくださいませ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev100901_MSG0004",
+      "style": 1,
+      "name": "あなた様が私の依頼を受けてくださった\nブレイドの方ですね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev100901_MSG0005",
+      "style": 1,
+      "name": "今回　私が必要とするミラニウムの量は900gm\nふむ　あなた様は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev100901_MSG0006",
+      "style": 1,
+      "name": "900gm　お持ちのようですね\nどうかそれをお譲りくださらないでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev100901_JNK0010",
+      "style": 4,
+      "name": "渡す[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev100901_SEL0011",
+      "style": 3,
+      "name": "ミラニウム900gmを渡す[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev100901_JNK0020",
+      "style": 4,
+      "name": "渡さない[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev100901_SEL0021",
+      "style": 3,
+      "name": "今はまだ渡さないでおく[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev100901_MSG0007",
+      "style": 1,
+      "name": "ミラニウム900gm[ST:wide ]―\n確かに頂戴いたしました[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev100901_MSG0008",
+      "style": 1,
+      "name": "こちらは　ただちに資源不足に窮する\nアームズカンパニーへ送らせていただきます[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev100901_MSG0009",
+      "style": 1,
+      "name": "ご協力ありがとうございました\n今後も　NLA発展のため\nより多くのミラニウムを採掘してくださいませ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev100901_MSG0010",
+      "style": 1,
+      "name": "そうですか……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev100901_MSG0011",
+      "style": 1,
+      "name": "では　渡せるだけのミラニウムが\n確保できましたら　改めてお越しくださいませ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092803_MSG0010",
+      "style": 0,
+      "name": "없어……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092803_JNK0020",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 3,
+      "label": "qev092803_SEL0030",
+      "style": 3,
+      "name": "짐작 가는 곳은 있는지 묻는다"
+    },
+    {
+      "$id": 4,
+      "label": "qev092803_MSG0040",
+      "style": 0,
+      "name": "모르겠어……\n아리샤는 밖에 나가는 일 자체가 드물거든[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092803_MSG0050",
+      "style": 0,
+      "name": "……이렇게 된 이상 어쩔 수 없지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092803_JNK0060",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 7,
+      "label": "qev092803_SEL0070",
+      "style": 3,
+      "name": "둘로 나뉘어서 찾자고 제안한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev092803_MSG0080",
+      "style": 0,
+      "name": "……그럴 필요 없어[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092803_MSG0090",
+      "style": 0,
+      "name": "이 방법은 별로 쓰고 싶지 않지만……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092803_MSG0100",
+      "style": 0,
+      "name": "아리샤의 단말기에는 만일의 사태에\n대비하기 위한 추적 장치가 설치되어 있어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092803_MSG0110",
+      "style": 0,
+      "name": "내 임무에는 주임 기술자인\n그녀의 호위도 포함되거든[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092803_MSG0120",
+      "style": 0,
+      "name": "하지만, 이 속도는……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092803_MSG0125",
+      "style": 0,
+      "name": "설마 돌에 타고 있는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092803_MSG0130",
+      "style": 0,
+      "name": "이동 경로를 고려하면……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092803_MSG0140",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092803_MSG0150",
+      "style": 0,
+      "name": "아리샤의 위치를 알아냈어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092803_MSG0155",
+      "style": 0,
+      "name": "……\"그 장소\"다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092803_MSG0160",
+      "style": 0,
+      "name": "서두르자\n어쩐지…… 불길한 예감이 든다[ST:wait ]"
+    }
+  ]
+}

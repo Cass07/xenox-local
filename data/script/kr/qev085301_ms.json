@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085301_MSG0001",
+      "style": 0,
+      "name": "누가 온 것 같다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085301_MSG0002",
+      "style": 0,
+      "name": "이리나\n엘마를 돕고 있는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085301_MSG0003",
+      "style": 0,
+      "name": "네, 그렇습니다만[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085301_MSG0004",
+      "style": 0,
+      "name": "마침 잘됐군\n임무를 도와주지 않겠나?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085301_MSG0005",
+      "style": 0,
+      "name": "무슨 어려운 임무라도 있어?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085301_MSG0006",
+      "style": 0,
+      "name": "어렵다고 할 정도는 아니네만[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085301_MSG0007",
+      "style": 0,
+      "name": "랜드뱅크 팀에서 구조 요청이 들어와서 말이지\n도우러 가 줬으면 하네[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085301_MSG0008",
+      "style": 0,
+      "name": "키아스 콜과 리브로 콜이네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085301_JNK0010",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 10,
+      "label": "qev085301_SEL0011",
+      "style": 3,
+      "name": "두 사람은 부모 자식임이 틀림없다고 주장"
+    },
+    {
+      "$id": 11,
+      "label": "qev085301_JNK0020",
+      "style": 4,
+      "name": "억측"
+    },
+    {
+      "$id": 12,
+      "label": "qev085301_SEL0021",
+      "style": 3,
+      "name": "사이좋아 보이는 형제라고 말한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev085301_MSG0009",
+      "style": 0,
+      "name": "그 말대로 성도 같고 얼굴도 닮았네요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085301_MSG0010",
+      "style": 0,
+      "name": "그래, 맞네\n아버지도 아들도 좀 특이하긴 하네만[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085301_MSG0011",
+      "style": 0,
+      "name": "확실히 성도 같고 얼굴도 닮긴 했지만[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085301_MSG0012",
+      "style": 0,
+      "name": "형제라기보다는\n부모 자식 같은 느낌인데요?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085301_MSG0013",
+      "style": 0,
+      "name": "린의 말대로 부모 자식 사이일세\n아버지도 아들도 좀 특이하긴 하네만[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085301_MSG0014",
+      "style": 0,
+      "name": "랜드뱅크라면\n광물 자원 조사라도 하러 간 건가?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085301_MSG0015",
+      "style": 0,
+      "name": "두 사람 다 지질학자여서 말이지[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085301_MSG0016",
+      "style": 0,
+      "name": "오랜 시간 아들이 아버지의 조수를 해 왔네[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085301_MSG0017",
+      "style": 0,
+      "name": "그렇군요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085301_MSG0018",
+      "style": 0,
+      "name": "바로 가자, 정보 부탁해[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085301_MSG0019",
+      "style": 0,
+      "name": "그래, 준비해 두지[ST:wait ]"
+    }
+  ]
+}

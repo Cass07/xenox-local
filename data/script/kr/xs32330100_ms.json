@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32330100_MSG0010",
+      "style": 0,
+      "name": "테드가 돌아왔다고\n에릭에게 연락받았다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32330100_MSG0020",
+      "style": 0,
+      "name": "유전자 정보도 무사하다는군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32330100_MSG0030",
+      "style": 0,
+      "name": "자네들에게 고마워했네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32330100_MSG0040",
+      "style": 0,
+      "name": "테드는?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32330100_MSG0050",
+      "style": 0,
+      "name": "위반은 위반일세[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32330100_MSG0060",
+      "style": 0,
+      "name": "벌은 받아야지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32330100_MSG0070",
+      "style": 0,
+      "name": "다른 자들에게 본보기가 되어야 하니까[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32330100_MSG0080",
+      "style": 0,
+      "name": "뭐, 당연한 일이군[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32330100_MSG0090",
+      "style": 0,
+      "name": "유전자 정보는 어떻게 됐나요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32330100_MSG0100",
+      "style": 0,
+      "name": "신 흰고래에 실은 데이터베이스에 등록했네[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32330100_MSG0110",
+      "style": 0,
+      "name": "허가해 줬구나[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32330100_MSG0120",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "xs32330100_MSG0130",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "xs32330100_MSG0140",
+      "style": 0,
+      "name": "사령관님, 감사합니다![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32330100_MSG0150",
+      "style": 0,
+      "name": "아저씨, 제법이다모~[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32330100_MSG0160",
+      "style": 0,
+      "name": "이번 임무는 이걸로 완료라네[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32330100_MSG0170",
+      "style": 0,
+      "name": "고생했다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32330100_MSG0180",
+      "style": 0,
+      "name": "푹 쉬도록 하게……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32330100_MSG0190",
+      "style": 0,
+      "name": "라고 말하고 싶지만……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32330100_MSG0200",
+      "style": 0,
+      "name": "무슨 일이야?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32330100_MSG0210",
+      "style": 0,
+      "name": "기쁜 소식이다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32330100_MSG0220",
+      "style": 0,
+      "name": "아까 보고를 받았는데[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32330100_MSG0230",
+      "style": 0,
+      "name": "전이 시스템이 완성됐다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32330100_MSG0240",
+      "style": 0,
+      "name": "정말이냐![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32330100_MSG0250",
+      "style": 0,
+      "name": "그래, 다른 녀석들은 이미\n전이 시스템이 있는 곳에 가 있네[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32330100_MSG0260",
+      "style": 0,
+      "name": "저희도 가요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32330100_MSG0270",
+      "style": 0,
+      "name": "그래, 가자[ST:wait ]"
+    }
+  ]
+}

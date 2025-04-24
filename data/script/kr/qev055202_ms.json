@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055202_MSG0001",
+      "style": 1,
+      "name": "스모크는 우리가 그로우스 안에 있었을 때\n오르페끼리 위험을 알리기 위해 사용하던 것[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055202_MSG0002",
+      "style": 1,
+      "name": "설마 이런 일에\n도움이 될 줄은 몰랐다……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055202_MSG0003",
+      "style": 1,
+      "name": "칸오토남의 무사를 확인했다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev055202_MSG0004",
+      "style": 1,
+      "name": "조금 지친 것 같지만 회복은 빠를 것으로 예상\n걱정할 필요는 없다고 생각한다[ST:wait ]"
+    }
+  ]
+}

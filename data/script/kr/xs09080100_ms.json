@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs09080100_MSG0001",
+      "style": 0,
+      "name": "지구인이여\n더할 나위 없는 통쾌한 전투였다, 감사하마[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs09080100_MSG0002",
+      "style": 0,
+      "name": "이곳으로부터 북쪽에는\n깎아지른 듯한 칠흑의 암반에 둘러싸인 채[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs09080100_MSG0003",
+      "style": 0,
+      "name": "균열 사이로 펄펄 끓는\n용암이 흐르는 대지가 있다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs09080100_MSG0004",
+      "style": 0,
+      "name": "그곳이 그로우스의 본진이다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs09080100_MSG0005",
+      "style": 0,
+      "name": "그대들의 앞으로의 여정에 무운을 빌겠다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs09080100_MSG0006",
+      "style": 0,
+      "name": "적이지만 말이 통하는 녀석들이었다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs09080100_MSG0007",
+      "style": 0,
+      "name": "그러게[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs09080100_MSG0008",
+      "style": 0,
+      "name": "용병단이라고 했으니까\n어쩌면 함께 싸울 수 있을지도 몰라![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs09080100_MSG0009",
+      "style": 0,
+      "name": "타츠는 대환영이다모\n멍멍이 정말 좋다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs09080100_MSG0010",
+      "style": 0,
+      "name": "그 얘기, 라스인 앞에서는 절대 하면 안 돼[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs09080100_MSG0011",
+      "style": 0,
+      "name": "널 바삭하게 구운 다음\n먹기 좋게 썰어서……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs09080100_MSG0012",
+      "style": 0,
+      "name": "모못!?\n타츠는 북경 오리가 아니다모~[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs09080100_MSG0013",
+      "style": 0,
+      "name": "아하하, 북경 오리를 알고 있네?\n깜짝 놀랐어![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs09080100_MSG0014",
+      "style": 0,
+      "name": "하나도 재미없다모~[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs09080100_MSG0015",
+      "style": 0,
+      "name": "다들, 들어 줘[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs09080100_MSG0016",
+      "style": 0,
+      "name": "NLA의 B.B. 메인터넌스 센터에\n라오가 입원했다고 해[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs09080100_MSG0017",
+      "style": 0,
+      "name": "무사했었군요\n다행이다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs09080100_MSG0018",
+      "style": 0,
+      "name": "어서 병문안하러 가요![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs09080100_MSG0019",
+      "style": 0,
+      "name": "그래……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs09080100_MSG0020",
+      "style": 0,
+      "name": "엘마 씨, 왜 그러세요?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs09080100_MSG0021",
+      "style": 0,
+      "name": "아무것도 아니야\n라오가 걱정돼서 그래[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs09080100_MSG0022",
+      "style": 0,
+      "name": "자, NLA로 돌아가자[ST:wait ]"
+    }
+  ]
+}

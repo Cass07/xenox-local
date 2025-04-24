@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs01020100_MSG0001",
+      "style": 0,
+      "name": "그러니까 왜 콕피트 안으로\n배기가스가 들어오는 거냐고[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs01020100_MSG0002",
+      "style": 0,
+      "name": "덕트 주변이 뭔가 이상하지 않아?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs01020100_MSG0003",
+      "style": 0,
+      "name": "네? 그럴 리가 없을 텐데요……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs01020100_MSG0004",
+      "style": 0,
+      "name": "앗, 흡배기 바이패스가 반대로 연결되어 있네![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs01020100_MSG0005",
+      "style": 0,
+      "name": "정말, 누가 이런 거야~[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs01020100_MSG0006",
+      "style": 0,
+      "name": "누구냐니……\n마지막으로 본 메카닉은 너잖아[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs01020100_MSG0007",
+      "style": 0,
+      "name": "뭐가 잘못됐어?\n별일이네[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs01020100_MSG0008",
+      "style": 0,
+      "name": "그래도 파일럿이 튼튼한 더그라서\n다행이야, 린[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs01020100_MSG0009",
+      "style": 0,
+      "name": "앗, 엘마 씨!\n다녀오셨어요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs01020100_MSG0010",
+      "style": 0,
+      "name": "엘마 씨, 이 사람은 혹시……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs01020100_MSG0010_m",
+      "style": 0,
+      "name": "엘마 씨, 이 사람은 혹시……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs01020100_MSG0010_f",
+      "style": 0,
+      "name": "엘마 씨, 이 사람은 혹시……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs01020100_MSG0011",
+      "style": 0,
+      "name": "와~![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs01020100_MSG0012",
+      "style": 0,
+      "name": "전 린리 쿠, 13살로\n블레이드에서 메카닉을 하고 있어요![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs01020100_JNK0010",
+      "style": 4,
+      "name": "놀람"
+    },
+    {
+      "$id": 16,
+      "label": "xs01020100_SEL0011",
+      "style": 3,
+      "name": "나이를 다시 묻는다"
+    },
+    {
+      "$id": 17,
+      "label": "xs01020100_JNK0020",
+      "style": 4,
+      "name": "감탄"
+    },
+    {
+      "$id": 18,
+      "label": "xs01020100_SEL0021",
+      "style": 3,
+      "name": "용모에 넋을 잃는다"
+    },
+    {
+      "$id": 19,
+      "label": "xs01020100_MSG0013",
+      "style": 0,
+      "name": "놀랐지?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs01020100_MSG0014",
+      "style": 0,
+      "name": "하지만 나이는 어려도 린은 선택받은 스태프야\n실력은 보증하지[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs01020100_MSG0015",
+      "style": 0,
+      "name": "왜 그러세요?\n얼굴에 기름이라도 묻었나요?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs01020100_MSG0016",
+      "style": 0,
+      "name": "그런 게 아니야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs01020100_MSG0017",
+      "style": 0,
+      "name": "흥미가 생기는 건 이해해[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs01020100_MSG0018",
+      "style": 0,
+      "name": "하지만 말이지[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs01020100_MSG0019",
+      "style": 0,
+      "name": "이래 보여도 린은 선택받은 스태프야\n실력은 보증해[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs01020100_MSG0020",
+      "style": 0,
+      "name": "뭐, 가끔 실수도 하지만[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs01020100_MSG0021",
+      "style": 0,
+      "name": "이제 블레이드 홈으로 돌아가는 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs01020100_MSG0022",
+      "style": 0,
+      "name": "응, 맞아[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs01020100_MSG0023",
+      "style": 0,
+      "name": "이참에 수송기로 가지 않으실래요?\nNLA도 한눈에 볼 수 있고, 소개도 할 수 있으니까요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs01020100_MSG0024",
+      "style": 0,
+      "name": "그렇네, 그것도 좋겠어[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs01020100_MSG0025",
+      "style": 0,
+      "name": "더그 씨\n그 돌 정리해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs01020100_MSG0026",
+      "style": 0,
+      "name": "전 엘마 씨와 함께 돌아갈게요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs01020100_MSG0027",
+      "style": 0,
+      "name": "뭐?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs01020100_MSG0028",
+      "style": 0,
+      "name": "플라이트 팩 테스트는 내일 다시 해요\n그럼 이만[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs01020100_MSG0029",
+      "style": 0,
+      "name": "잠깐, 왜 내가……\n이봐 린, 린![ST:wait ]"
+    }
+  ]
+}

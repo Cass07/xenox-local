@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085702_MSG0001",
+      "style": 0,
+      "name": "すまねえな　本当は一杯飲みながら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085702_MSG0002",
+      "style": 0,
+      "name": "とでもいきたいところだが\nそういう店じゃ誰に聞かれるか分からない[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085702_MSG0003",
+      "style": 0,
+      "name": "気にしないで[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085702_MSG0004",
+      "style": 0,
+      "name": "これを見てくれ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085702_MSG0005",
+      "style": 0,
+      "name": "実はな[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085702_MSG0006",
+      "style": 0,
+      "name": "ここに危険対象にカテゴライズされている\n原生生物が大量発生したらしい[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085702_MSG0007",
+      "style": 0,
+      "name": "ここって\nフロンティアネットスポットでしたよね？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085702_MSG0008",
+      "style": 0,
+      "name": "もしデータプローブが阻害されたりしたら\nミラニウムの供給が滞っちゃうんじゃ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085702_MSG0009",
+      "style": 0,
+      "name": "そういうことだ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085702_MSG0010",
+      "style": 0,
+      "name": "ヴァンダムの親父も報酬をはずんでくれた\nほら　こんだけ出るんだぜ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085702_MSG0011",
+      "style": 0,
+      "name": "すっごい！\n討伐任務でこの報酬って見たことないですよ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085702_MSG0012",
+      "style": 0,
+      "name": "当然ね　おそらく１０チーム以上で\n担当することを想定した任務でしょう[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085702_MSG0013",
+      "style": 0,
+      "name": "ああ　そういうことですかぁ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085702_MSG0014",
+      "style": 0,
+      "name": "確かにそれだけの数でわけたら\n普通の報酬ですもんね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085702_MSG0015",
+      "style": 0,
+      "name": "問題はまだ公示前ということね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085702_MSG0016",
+      "style": 0,
+      "name": "今なら　自分達だけで任務達成して\n報酬独占ということも可能[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085702_MSG0017",
+      "style": 0,
+      "name": "どうやって手に入れたの　この情報？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085702_MSG0018",
+      "style": 0,
+      "name": "そいつは聞かないでくれ\n本部にもギャンブルに弱い奴はいるってことさ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085702_MSG0019",
+      "style": 0,
+      "name": "それ　答えちゃったようなものじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085702_MSG0020",
+      "style": 0,
+      "name": "まあ　うまい話であることは確かだろう[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085702_MSG0021",
+      "style": 0,
+      "name": "さすがに俺だけじゃ骨が折れるが\nあんた達が手を貸してくれりゃなんとかなる[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085702_MSG0022",
+      "style": 0,
+      "name": "どうだい？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085702_MSG0023",
+      "style": 0,
+      "name": "そうね\nあなたはどう思う？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085702_JNK0010",
+      "style": 4,
+      "name": "独占"
+    },
+    {
+      "$id": 25,
+      "label": "qev085702_SEL0011",
+      "style": 3,
+      "name": "自分達だけでやろうと提案"
+    },
+    {
+      "$id": 26,
+      "label": "qev085702_JNK0020",
+      "style": 4,
+      "name": "交渉"
+    },
+    {
+      "$id": 27,
+      "label": "qev085702_SEL0021",
+      "style": 3,
+      "name": "報酬の7割欲しいと主張する"
+    },
+    {
+      "$id": 28,
+      "label": "qev085702_MSG0024",
+      "style": 0,
+      "name": "確かに　やれないことはないわね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085702_MSG0025",
+      "style": 0,
+      "name": "じゃあ　この任務は早い者勝ち\nということでいいわね？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085702_MSG0026",
+      "style": 0,
+      "name": "健闘を祈っているわ　ダグ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085702_MSG0027",
+      "style": 0,
+      "name": "お　おいおい！\n人の持ってきた情報でそれはないだろう[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085702_MSG0028",
+      "style": 0,
+      "name": "ったく　エルマまで人が悪いぜ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085702_MSG0029",
+      "style": 0,
+      "name": "な　さっきのは冗談だろう？[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085702_MSG0030",
+      "style": 0,
+      "name": "確かに戦力比を考えたら\nその分配比率が正しいかもしれないわね[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085702_MSG0031",
+      "style": 0,
+      "name": "おいおい\n人の持ってきた情報でそれはないだろう[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085702_MSG0032",
+      "style": 0,
+      "name": "情報料はタダでいいから　５：５だ\nな　それならいいだろう？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev085702_MSG0033",
+      "style": 0,
+      "name": "よし　今回は自分のチームにも極秘なんでな[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev085702_MSG0034",
+      "style": 0,
+      "name": "あんた達に加えてもらうぜ[ST:wait ]"
+    }
+  ]
+}

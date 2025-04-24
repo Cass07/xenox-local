@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086002_MSG0001",
+      "style": 0,
+      "name": "네? 이 구역 공급 시스템에 전송 손실이요?\n아니요, 딱히 이상은 느껴지지 않는데요……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086002_MSG0002",
+      "style": 0,
+      "name": "하지만 실제로 계측되고 있어요\n아무튼 점검 부탁합니다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086002_MSG0003",
+      "style": 0,
+      "name": "뭔가 어려운 이야기라\n타츠는 잘 모르겠다모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086002_MSG0004",
+      "style": 0,
+      "name": "NLA는 원래\n우주선의 거주 블록이었어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086002_MSG0005",
+      "style": 0,
+      "name": "여기는 우주와 맞닿은 외벽에 해당해[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086002_MSG0006",
+      "style": 0,
+      "name": "불필요해진 자세 제어용 스러스터로\n보내져야 할……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086002_MSG0007",
+      "style": 0,
+      "name": "주기관에서 나오는 에너지가……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086002_MSG0008",
+      "style": 0,
+      "name": "쉽게 말하면, 물이 새는 거랑 비슷해[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086002_MSG0009",
+      "style": 0,
+      "name": "전에 린이 막았는데\n다시 새기 시작한 거지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086002_MSG0010",
+      "style": 0,
+      "name": "그런 건가모!\n이제 알았다모~~![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086002_MSG0012",
+      "style": 0,
+      "name": "왜 그래?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086002_MSG0013",
+      "style": 0,
+      "name": "그러고 보니 린이 메카닉 일을 하는 걸\n오랜만에 보네[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086002_MSG0014",
+      "style": 0,
+      "name": "낯설어?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086002_JNK0010",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 15,
+      "label": "qev086002_SEL0011",
+      "style": 3,
+      "name": "린에 관해 자세히 묻는다"
+    },
+    {
+      "$id": 16,
+      "label": "qev086002_JNK0020",
+      "style": 4,
+      "name": "관심"
+    },
+    {
+      "$id": 17,
+      "label": "qev086002_SEL0021",
+      "style": 3,
+      "name": "즐겁게 작업하는 모습을 지켜본다"
+    },
+    {
+      "$id": 18,
+      "label": "qev086002_MSG0015",
+      "style": 0,
+      "name": "원래 린은 메카닉이 본업이었어\n그래서 굳이 따지자면……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086002_MSG0016",
+      "style": 0,
+      "name": "블레이드로서 싸우는 일이\n더 벅찰지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086002_MSG0017",
+      "style": 0,
+      "name": "린, 즐거워 보이지?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086002_MSG0018",
+      "style": 0,
+      "name": "린은 똑똑한 아이니까\n미라에서 살아간다는 게 어떤 건지 이해하고……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086002_MSG0018_2",
+      "style": 0,
+      "name": "지금은 블레이드로서\n열심히 해 주고 있지만[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086002_MSG0019",
+      "style": 0,
+      "name": "사실은 이런 식으로 재능을 활용하는 걸\n더 좋아할지도 모르겠네[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086002_MSG0020",
+      "style": 0,
+      "name": "린은 말이지……\n흰고래에서도 기관 구역 보수 요원이었어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086002_MSG0021",
+      "style": 0,
+      "name": "흰고래가 미라에 떨어질 때 마지막 순간까지\n주기관 부분에 머무르며 보수를 계속했어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086002_MSG0022",
+      "style": 0,
+      "name": "린은 어리지만 신뢰할 수 있는\n메카닉이라는 것에는 변함없어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086002_MSG0023",
+      "style": 0,
+      "name": "그런 린이 의문을 느꼈다면\n이 구획의 설비에는 분명 문제가 있는 거야[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086002_MSG0024",
+      "style": 0,
+      "name": "문제를 알아냈어요\n교환 파츠의 정밀도가 문제인 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086002_MSG0025",
+      "style": 0,
+      "name": "지난번에 교환했던 부분?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086002_MSG0026",
+      "style": 0,
+      "name": "네…… NLA에서 제조한 파츠였는데[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086002_MSG0027",
+      "style": 0,
+      "name": "역시 흰고래에서 사용되던 지구제 것에 비교하면\n성능이 떨어지는 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086002_MSG0028",
+      "style": 0,
+      "name": "그건 어쩔 수 없는 일이네[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086002_MSG0029",
+      "style": 0,
+      "name": "하지만 유성 골짜기에 가면\n아직 사용 가능한 파츠가 있을지도 몰라요……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086002_MSG0030",
+      "style": 0,
+      "name": "린 씨가 그렇게 말한다면 바로 가자모!\n빨리 일을 끝내고 밥 먹자모![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086002_MSG0031",
+      "style": 0,
+      "name": "그래, 타츠가 쓰러지기 전에 끝내자[ST:wait ]"
+    }
+  ]
+}

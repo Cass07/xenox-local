@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087406_MSG0001",
+      "style": 0,
+      "name": "아~~ 반담 사령관님이 자고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087406_MSG0002",
+      "style": 0,
+      "name": "지금은 일하는 시간이다모!\n성실한 타츠로서는 용서할 수 없다모[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087406_MSG0003",
+      "style": 0,
+      "name": "자게 내버려둬\n이 사람이 잘 수 있다는 건 좋은 일이야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087406_MSG0004",
+      "style": 0,
+      "name": "그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087406_MSG0005",
+      "style": 0,
+      "name": "그만큼 NLA가\n평화롭다는 말이니까요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087406_MSG0006",
+      "style": 0,
+      "name": "어째서인가모?\n타츠는 잘 모르겠다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087406_MSG0007",
+      "style": 0,
+      "name": "자기 전에 처리해 둔 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087406_MSG0008",
+      "style": 0,
+      "name": "정말이네……\n역시 세심한 배려도 할 줄 아는 사람이군요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087406_MSG0009",
+      "style": 0,
+      "name": "어째서인가모~~\n타츠는 모르겠다모~~![ST:wait ]"
+    }
+  ]
+}

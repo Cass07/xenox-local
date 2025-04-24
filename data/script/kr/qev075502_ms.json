@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev075502_MSG0001",
+      "style": 1,
+      "name": "……오옷! [ST:playername ]!\n이런 곳에서 뭘 하고 있어?\n혹시 나와 싸우러 온 건가![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev075502_JNK0010",
+      "style": 4,
+      "name": "설명"
+    },
+    {
+      "$id": 3,
+      "label": "qev075502_SEL0011",
+      "style": 3,
+      "name": "고 로간의 의뢰를 알려 준다"
+    },
+    {
+      "$id": 4,
+      "label": "qev075502_JNK0020",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 5,
+      "label": "qev075502_SEL0021",
+      "style": 3,
+      "name": "끄덕이며 임전 태세를 갖춘다"
+    },
+    {
+      "$id": 6,
+      "label": "qev075502_MSG0002",
+      "style": 1,
+      "name": "……이 근처에 닥치는 대로\n병사들을 공격하는 악한이 있다고!?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev075502_MSG0003",
+      "style": 1,
+      "name": "난 여기서 계속 수행하고 있었지만\n그런 녀석은 본 적 없는걸?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev075502_MSG0004",
+      "style": 1,
+      "name": "……응? 누구와 수행하고 있었냐고?\n그야 강해 보이는 녀석이 지나갈 때마다\n계속 대결을 벌였는데……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev075502_MSG0005",
+      "style": 1,
+      "name": "……어라? 혹시 그 악한……\n나 아니야!?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev075502_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 11,
+      "label": "qev075502_SEL0031",
+      "style": 3,
+      "name": "기 장그에게 반성을 촉구한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev075502_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 13,
+      "label": "qev075502_SEL0041",
+      "style": 3,
+      "name": "다른 범인이 있을 거라고 열변한다"
+    },
+    {
+      "$id": 14,
+      "label": "qev075502_MSG0006",
+      "style": 1,
+      "name": "수행에 정신이 팔려\n엄청난 일을 저질러 버렸군……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev075502_MSG0007",
+      "style": 1,
+      "name": "……알려 줘서 고마워\n뭐…… 나중에 사람들에게 사과하러 갈게\n하지만 그 전에……![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev075502_MSG0008",
+      "style": 1,
+      "name": "그런 녀석이 주변에서 날뛰고 있다면\n내가 이미 해치웠을 거야\n이거…… 엄청난 일을 저질러 버렸군[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev075502_MSG0009",
+      "style": 1,
+      "name": "나중에 제대로 사과하러 가야겠네……\n……그런데 말이야, 그 전에![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev075502_MSG0010",
+      "style": 1,
+      "name": "[ST:playername ]! 나와 겨루자!\n드디어 나…… 널 쓰러뜨릴 만한\n기술을 익혔어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev075502_MSG0011",
+      "style": 1,
+      "name": "여전히 시원시원하군![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev075502_MSG0012",
+      "style": 1,
+      "name": "헤헷! 이 주변을 지나가는 강해 보이는 녀석과\n닥치는 대로 승부를 겨루다가[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev075502_MSG0013",
+      "style": 1,
+      "name": "나…… 엄청난 필살기를 익혔어\n이번에야말로 절대로 지지 않을 거라고?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev075502_MSG0014",
+      "style": 1,
+      "name": "……좋아!\n그럼 갈고리발톱 바위 제2단층부로 가자!\n여기는 우리가 싸우기엔 너무 좁아[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev075502_MSG0015",
+      "style": 1,
+      "name": "졌구나……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev075502_MSG0016",
+      "style": 1,
+      "name": "이건 오래전부터 백인귀사에 전해진 기술로\n할아버지의 주특기였어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev075502_MSG0017",
+      "style": 1,
+      "name": "줄곧 동경했는데…… 드디어 이 미라에서\n사용할 수 있게 됐는데……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev075502_MSG0018",
+      "style": 1,
+      "name": "하아~! 넌 대체 얼마나 강한 거야!\n아무리 나라도 지긋지긋해지기 시작했어\n이렇게나 수행을 해도 차이가 좁혀지질 않으니![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev075502_JNK0050",
+      "style": 4,
+      "name": "격려"
+    },
+    {
+      "$id": 28,
+      "label": "qev075502_SEL0051",
+      "style": 3,
+      "name": "아슬아슬한 승부였다고 말한다"
+    },
+    {
+      "$id": 29,
+      "label": "qev075502_JNK0060",
+      "style": 4,
+      "name": "도발"
+    },
+    {
+      "$id": 30,
+      "label": "qev075502_SEL0061",
+      "style": 3,
+      "name": "이제 포기하는 거냐며 비웃는다"
+    },
+    {
+      "$id": 31,
+      "label": "qev075502_MSG0019",
+      "style": 1,
+      "name": "……그 작은 차이가 줄어들지 않는다고!\n정말 [ST:playername ][KR:Particle char=ha ] 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev075502_MSG0020",
+      "style": 1,
+      "name": "최고의 라이벌이야!\n너처럼 엄청난 녀석과 싸우고 있으면\n그로우스에 대한 원한도 잊게 돼[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev075502_MSG0021",
+      "style": 1,
+      "name": "젠장~! 분해!\n다음은 절대로 지지 않을 거라고![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev075502_MSG0022",
+      "style": 1,
+      "name": "……너무한 녀석이네\n정말 [ST:playername ][KR:Particle char=ha ] 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev075502_MSG0023",
+      "style": 1,
+      "name": "최고의 라이벌이야!\n너처럼 강하고 기분 좋은 녀석이\n이렇게 눈앞에 있잖아?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev075502_MSG0024",
+      "style": 1,
+      "name": "어떤 식으로 지든 포기할 수 있을까 보냐!\n다음에는 절대 지지 않을 거라고![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev075502_MSG0025",
+      "style": 1,
+      "name": "……좋아! 그럼 확실하게 졌으니까\n수행 중에 폐를 끼친 사람들에게\n사과하러 다녀오겠어[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev075502_MSG0026",
+      "style": 1,
+      "name": "그런데 꽤 성대하게 일을 벌여 놔서……\n다들 용서해 줄까?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev075502_MSG0027",
+      "style": 1,
+      "name": "이 사람, 전장에서 할아버지네 사람들에게\n도움받은 적이 있대[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev075502_MSG0028",
+      "style": 1,
+      "name": "그래서 백인귀사에게 은혜가 있다면서……\n내가 한 일을 전부 없던 일로 해 줬어[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev075502_MSG0029",
+      "style": 1,
+      "name": "……뭐랄까, 여기서까지\n할아버지에게 신세를 지고……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev075502_MSG0030",
+      "style": 1,
+      "name": "정말로 나…… 백인귀사의 생존자로서\n정신 똑바로 차려야겠어[ST:wait ]"
+    }
+  ]
+}

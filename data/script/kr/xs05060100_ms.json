@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05060100_MSG0001",
+      "style": 0,
+      "name": "무슨 일인가요?\n곤란한 일이라도 있나요~?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs05060100_MSG0002",
+      "style": 0,
+      "name": "타츠에게 말해 봐라모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs05060100_MSG0003",
+      "style": 0,
+      "name": "꺅~ 외계인이양![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs05060100_MSG0004",
+      "style": 0,
+      "name": "게다가 노폰을 테이크아웃\n도시락으로 데리고 다니고 있엉![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs05060100_MSG0005",
+      "style": 0,
+      "name": "무례하다모!\n타츠는 도시락이 아니다모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs05060100_MSG0006",
+      "style": 0,
+      "name": "이 지구인들은 타츠의 친위대다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs05060100_MSG0007",
+      "style": 0,
+      "name": "친위대?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs05060100_MSG0008",
+      "style": 0,
+      "name": "앗, 아니!\n치, 친구다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs05060100_MSG0009",
+      "style": 0,
+      "name": "친구? 그럼 그 종족은\n그로우스와는 상관없는 거양?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs05060100_MSG0010",
+      "style": 0,
+      "name": "놀라게 해서 미안해[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs05060100_MSG0011",
+      "style": 0,
+      "name": "우리는 지구인이야\n현재 그로우스와는 적대 관계에 있어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs05060100_MSG0012",
+      "style": 0,
+      "name": "그로우스와 적대?\n그럼 우리 편이 되어 줄 것 같잖앙![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs05060100_MSG0013",
+      "style": 0,
+      "name": "우리는 마 논인이양[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs05060100_MSG0014",
+      "style": 0,
+      "name": "보는 대로 문화적이고 높은 지성을 가지고 있어서\n그로우스의 타깃이 되었엉![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs05060100_MSG0015",
+      "style": 0,
+      "name": "너희들이라면 우리를 도와줄 거징?\n분명 그럴 거징?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs05060100_MSG0016",
+      "style": 0,
+      "name": "그래, 우리가 도울 수 있는 거라면[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs05060100_MSG0017",
+      "style": 0,
+      "name": "도울 수 있엉!\n너희야말로 우리의 구세주양![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs05060100_MSG0018",
+      "style": 0,
+      "name": "여기가 우리가 있는 장소양[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs05060100_MSG0019",
+      "style": 0,
+      "name": "이 균열의 안개 밑에\n우주선이 있단 말이징![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs05060100_MSG0022",
+      "style": 0,
+      "name": "하지만 그로우스의 방공 병기가 노리고 있어서\n움직일 수 없잖앙![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs05060100_MSG0023",
+      "style": 0,
+      "name": "그럼 그 방공 병기를 부수면\n우주선은 이륙할 수 있는 거군요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs05060100_MSG0024",
+      "style": 0,
+      "name": "맞앙! 그로우스의 방공 병기는\n이 세 군데에 설치되어 있엉![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs05060100_MSG0025",
+      "style": 0,
+      "name": "전부 부숴 줘, 부탁행![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs05060100_MSG0026",
+      "style": 0,
+      "name": "알겠어, 하늘이 막히는 건\n우리에게도 달갑지 않은 일이야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs05060100_MSG0027",
+      "style": 0,
+      "name": "빨리 제거해야겠어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs05060100_MSG0028",
+      "style": 0,
+      "name": "해 주는 거양?\n너희들 친절하잖앙![ST:wait ]"
+    }
+  ]
+}

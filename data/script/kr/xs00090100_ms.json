@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00090100_MSG0001",
+      "style": 0,
+      "name": "슬슬 날이 밝으려나\n비도 그칠 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00090100_MSG0002",
+      "style": 0,
+      "name": "따라와\n재미있는 걸 볼 수 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs00090100_MSG0003",
+      "style": 0,
+      "name": "놀랐지?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00090100_MSG0004",
+      "style": 0,
+      "name": "저들이 이 행성의 선주민이야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs00090100_MSG0005",
+      "style": 0,
+      "name": "우리 같은 신입은 그들과 잘 지내야만 하지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs00090100_MSG0006",
+      "style": 0,
+      "name": "여기는 행성 미라[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs00090100_MSG0007",
+      "style": 0,
+      "name": "우주 지도에도 나와 있지 않은 미지의 행성[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs00090100_MSG0008",
+      "style": 0,
+      "name": "우리의 새로운 고향이야……[ST:wait ]"
+    }
+  ]
+}

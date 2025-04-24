@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086603_MSG0001",
+      "style": 0,
+      "name": "エルマさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086603_MSG0002",
+      "style": 0,
+      "name": "救難信号はこの奥から発信されている[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086603_MSG0003",
+      "style": 0,
+      "name": "ここを抜けなければ\nイリーナの所へは行けないようね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086603_MSG0004",
+      "style": 0,
+      "name": "行きましょう　イリーナさんが心配です！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086603_MSG0005",
+      "style": 0,
+      "name": "みんな　がんばれですも！[ST:wait ]"
+    }
+  ]
+}

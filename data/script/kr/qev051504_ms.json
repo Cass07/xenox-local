@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051504_MSG0001",
+      "style": 1,
+      "name": "하핫! [ST:playername ]!\n이 슬랩티 페이거스가 다음 상대야![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051504_MSG0002",
+      "style": 1,
+      "name": "네가 어느 정도의 전사인지는\n함께 싸워 와서 알고 있으니 말이지이![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051504_MSG0003",
+      "style": 1,
+      "name": "대전 상대가 너라는 말을 들은 후로\n계속 온몸이 뜨거워서 견딜 수가 없어![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051504_MSG0004",
+      "style": 1,
+      "name": "자! 오랜만에 전력으로 간다!\n어리숙하게 있다간 잡아먹힐 거야아![ST:wait ]"
+    }
+  ]
+}

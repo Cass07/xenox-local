@@ -1,0 +1,390 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31140100_MSG0010",
+      "style": 0,
+      "name": "ここまで施設が稼働しているとは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31140100_MSG0020",
+      "style": 0,
+      "name": "オレが留守にしていた期間と言っても\nそんな何年もあったわけじゃないだろ？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31140100_MSG0030",
+      "style": 0,
+      "name": "正直　恐れ入った[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31140100_MSG0040",
+      "style": 0,
+      "name": "気に入ったぜ　ＮＬＡ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs31140100_MSG0050",
+      "style": 0,
+      "name": "そう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs31140100_MSG0055",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "xs31140100_MSG0060",
+      "style": 0,
+      "name": "いい加減に機嫌を直してくれよ　お姫様[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs31140100_MSG0070",
+      "style": 0,
+      "name": "わからないことを言うのね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs31140100_MSG0080",
+      "style": 0,
+      "name": "どうして私が機嫌を悪くする必要があるの？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs31140100_MSG0090",
+      "style": 0,
+      "name": "ずっと一人ぼっちにさせてしまったからな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs31140100_MSG0100",
+      "style": 0,
+      "name": "怒ってるんじゃないかと[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs31140100_MSG0110",
+      "style": 0,
+      "name": "[ST:wide ]―そうね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs31140100_MSG0120",
+      "style": 0,
+      "name": "あなたが残ってくれてさえいれば[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs31140100_MSG0130",
+      "style": 0,
+      "name": "私も少しは楽が出来たのかもしれないわね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs31140100_MSG0140",
+      "style": 0,
+      "name": "空軍からの肝入りで配属されて来たあなたは[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs31140100_MSG0150",
+      "style": 0,
+      "name": "ドールを操るセンスは抜群だった[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs31140100_MSG0160",
+      "style": 0,
+      "name": "当たり前のように\n昇進の声がかかるのも早くて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs31140100_MSG0170",
+      "style": 0,
+      "name": "短期間でチームを離れることになったけれど[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs31140100_MSG0190",
+      "style": 0,
+      "name": "私は素直に喜んでいたわ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs31140100_MSG0200",
+      "style": 0,
+      "name": "[ST:wide ]―もし私が怒っていることがあるとすれば[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs31140100_MSG0210",
+      "style": 0,
+      "name": "それはあなたにアレスを委ねてしまった\n私自身に対してかも知れない[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs31140100_MSG0220",
+      "style": 0,
+      "name": "地球を脱出する時[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs31140100_MSG0230",
+      "style": 0,
+      "name": "チームを指揮することを優先した私は[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs31140100_MSG0240",
+      "style": 0,
+      "name": "独断でアレスを駆り[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs31140100_MSG0250",
+      "style": 0,
+      "name": "たった一機で切り込んで行くあなたを\n止めることをしなかった[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs31140100_MSG0260",
+      "style": 0,
+      "name": "無責任にも[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs31140100_MSG0270",
+      "style": 0,
+      "name": "あなたの力に縋ってしまった[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs31140100_MSG0280",
+      "style": 0,
+      "name": "あなたは英雄と呼ばれるようになり[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs31140100_MSG0290",
+      "style": 0,
+      "name": "アレスの専属パイロットとなって[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs31140100_MSG0300",
+      "style": 0,
+      "name": "以降も白鯨を守り抜いた[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs31140100_MSG0310",
+      "style": 0,
+      "name": "そして私達がミラに落着することに\nなったあの戦いで[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs31140100_MSG0320",
+      "style": 0,
+      "name": "あなたは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs31140100_MSG0330",
+      "style": 0,
+      "name": "私は後悔した[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs31140100_MSG0340",
+      "style": 0,
+      "name": "アレスを押し付け[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs31140100_MSG0350",
+      "style": 0,
+      "name": "あなたに英雄としての戦いを\n強いてしまった私が[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs31140100_MSG0360",
+      "style": 0,
+      "name": "許せなかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs31140100_MSG0370",
+      "style": 0,
+      "name": "君のせいじゃない[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs31140100_MSG0380",
+      "style": 0,
+      "name": "オレは勝手に突っ走っただけだ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs31140100_MSG0390",
+      "style": 0,
+      "name": "アレスの力を借りて\n年甲斐もなくいきがってただけさ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs31140100_MSG0400",
+      "style": 0,
+      "name": "オレは英雄なんかじゃない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs31140100_MSG0410",
+      "style": 0,
+      "name": "ただ　怖かったんだ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs31140100_MSG0420",
+      "style": 0,
+      "name": "幼い頃に国を失ったように[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs31140100_MSG0425",
+      "style": 0,
+      "name": "また居場所がなくなってしまうのを恐れていた[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs31140100_MSG0430",
+      "style": 0,
+      "name": "オレは白鯨を守りたかった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs31140100_MSG0440",
+      "style": 0,
+      "name": "アレスは道連れにされたに過ぎない[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs31140100_MSG0450",
+      "style": 0,
+      "name": "道連れ　ね[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs31140100_MSG0460",
+      "style": 0,
+      "name": "でも[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs31140100_MSG0470",
+      "style": 0,
+      "name": "それなら私も同じ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs31140100_MSG0480",
+      "style": 0,
+      "name": "私も生まれた星を失い[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs31140100_MSG0485",
+      "style": 0,
+      "name": "アレスを道連れに\n地球へとやって来たんだから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs31140100_MSG0490",
+      "style": 0,
+      "name": "でもね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs31140100_MSG0500",
+      "style": 0,
+      "name": "それはアレスの力を見くびり過ぎよ[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs31140100_MSG0510",
+      "style": 0,
+      "name": "アレスは道連れにされたんじゃない[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs31140100_MSG0520",
+      "style": 0,
+      "name": "この機体はいつも導いてくれているのよ[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs31140100_MSG0530",
+      "style": 0,
+      "name": "私たちを[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs31140100_MSG0540",
+      "style": 0,
+      "name": "あるべき場所に[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs31140100_MSG0550",
+      "style": 0,
+      "name": "あるべき[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs31140100_MSG0560",
+      "style": 0,
+      "name": "場所[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs31140100_MSG0570",
+      "style": 0,
+      "name": "ええ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs31140100_MSG0580",
+      "style": 0,
+      "name": "[ST:wide ]―戻って来てくれて[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs31140100_MSG0590",
+      "style": 0,
+      "name": "嬉しいわ[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs31140100_MSG0600",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

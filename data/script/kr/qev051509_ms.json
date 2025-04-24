@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051509_MSG0001",
+      "style": 1,
+      "name": "역시 대단하군, [ST:playername ]\n전에 싸웠을 때와는\n비교도 안 될 정도로 강해졌다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051509_MSG0002",
+      "style": 1,
+      "name": "그래…… 네 녀석은 그 힘으로\n루크자르를 보기 좋게 쓰러뜨린 거야……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051509_MSG0003",
+      "style": 1,
+      "name": "정말 고맙다\n오라버니들의 원수를 갚아 줘서[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051509_MSG0004",
+      "style": 1,
+      "name": "이 대회에는 수많은 라스 무도 대회를 제패한\n천하무쌍의 무인도 출전했다고 들었지만[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051509_MSG0005",
+      "style": 1,
+      "name": "절대 지지 말라고!\n반드시 네 녀석이 최강이라는 걸 보여 줘[ST:wait ]"
+    }
+  ]
+}

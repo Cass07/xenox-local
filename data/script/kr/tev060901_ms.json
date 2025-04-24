@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev060901_SEL2021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다"
+    },
+    {
+      "$id": 2,
+      "label": "tev060901_MSG1001",
+      "style": 1,
+      "name": "실은 카라반 제일의 전사 루리리타에게도\n곤란한 일이 있다모……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev060901_MSG1002",
+      "style": 1,
+      "name": "아, 그렇지만 당신네 도시에\n부탁이라면 무엇이든 들어주는\n멋진 사람이 있다고 들었다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev060901_MSG1003",
+      "style": 1,
+      "name": "더는 안 되겠다고 생각되면\n부탁하러 갈 셈이다모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev060901_MSG1004",
+      "style": 1,
+      "name": "멋진 사람의 이름?\n……기억은 잘 안 나지만\n다들 성녀라고 했던 것 같다모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev060901_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev060901_SEL0011",
+      "style": 3,
+      "name": "카라반의 방위에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev060901_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev060901_SEL0021",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev060901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev060901_SEL0031",
+      "style": 3,
+      "name": "흑강의 대륙의\n적 정보를 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev060901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev060901_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev060901_MSG0001",
+      "style": 1,
+      "name": "이 드론고 카라반에는\n주먹 대장 루리리타가 있으니까\n그럭저럭 안전하다모[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev060901_MSG0002",
+      "style": 1,
+      "name": "다른 카라반은 습격받지 않기 위해\n궁리하고 있다고 들었다모\n예를 들면……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev060901_MSG0003",
+      "style": 1,
+      "name": "드메톰의 배설물을\n캠프 주변에 흩뿌려 놓으면\n잔챙이들은 다가오지 않는다고 했다모[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev060901_MSG0004",
+      "style": 1,
+      "name": "습격은 안 받을지 몰라도……\n생활하는 장소로서는\n좀 그렇지 않나 싶다모…… 우욱……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev060901_MSG0008",
+      "style": 1,
+      "name": "노폰들 사이에서도 히메리라는 사람이\n뭐든지 다 들어준다는 소문이 났다모~[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev060901_MSG0009",
+      "style": 1,
+      "name": "다음에도 NLA에 부탁하러 갈 테니까\n잘 부탁한다모![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev060901_MSG0010",
+      "style": 1,
+      "name": "……앗! 당연히 공짜로, 말이다모![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev060901_MSG0020",
+      "style": 1,
+      "name": "루리리타가 주먹을 단련하는\n소중한 장소를 알려 주겠다모[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev060901_MSG0025",
+      "style": 1,
+      "name": "바다에서 오를 수 있는 외벽에 있는 녀석들이라면\n두들겨 팰 수 있어서 속 시원하다모[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev060901_MSG0026",
+      "style": 1,
+      "name": "……모? 약해 빠진 것들뿐?\n그, 그렇지 않다모!\n루리리타가 볼 때는 강한 녀석들이다모![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev060901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev060901_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev060901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev060901_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev060901_SEL1041",
+      "style": 3,
+      "name": "흑강의 대륙의\n적 정보를 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev060901_MSG0021",
+      "style": 1,
+      "name": "히메리는 모두가 자신에게 의지하는 게\n행복한 걸까모?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev060901_MSG0022",
+      "style": 1,
+      "name": "그럼 루리리타가 많~이\n의지해 줄 거다모\n물론 무급 노동……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev060901_MSG0023",
+      "style": 1,
+      "name": "같은 일은 안 시킨다모!\n확실하게 답례할 거다모[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev060901_MSG0024",
+      "style": 1,
+      "name": "이 귀여운 루리리타를\n원하는 만큼 쓰다듬어도 좋다모\n최고로 근사한 답례다모![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev060901_MSG0027",
+      "style": 1,
+      "name": "이곳의 하늘에는 온종일 망을 보는\n커다란 전함이 있다모[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev060901_MSG0028",
+      "style": 1,
+      "name": "눈앞을 무심코 날아가는 짓을 했다간\n탕~~~~ 하고 공격받아서 추락한다모![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev060901_MSG0029",
+      "style": 1,
+      "name": "이 대륙을 조사한다면\n걸어 다니는 걸 추천한다모[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev060901_MSG0030",
+      "style": 1,
+      "name": "루리리타네 노폰들이 여기에 있어도\n녀석들이 발견하지 못한다는 게\n안전하다는 증거다모[ST:wait ]"
+    }
+  ]
+}

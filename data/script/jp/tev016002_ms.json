@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev016002_MSG0001",
+      "style": 1,
+      "name": "おっ……もしかしてお前……！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev016002_MSG0002",
+      "style": 1,
+      "name": "エルマが見つけた新入りか！\nほぅ　どんな奴かと思ったら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev016002_MSG0003",
+      "style": 1,
+      "name": "なかなか男前な奴じゃねーか！\nそれに良い目をしてやがる！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev016002_MSG0004",
+      "style": 1,
+      "name": "なかなかのベッピンさんじゃねーか！\nそれに良い目をしてやがる！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev016002_MSG0005",
+      "style": 1,
+      "name": "ようこそNLAへ！\n俺達はお前を歓迎するよ！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev016002_MSG0006",
+      "style": 1,
+      "name": "とりあえず　手続きやらなんやら\n色々　やらなきゃならんことがあるんだろ？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev016002_MSG0007",
+      "style": 1,
+      "name": "あそこに駐機してる輸送機に乗ってけよ\nブレイドエリアまで\nひとっ飛びで連れてってくれるぜ！[ST:wait ]"
+    }
+  ]
+}

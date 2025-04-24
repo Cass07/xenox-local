@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086109_MSG0001",
+      "style": 0,
+      "name": "リンさん　勝手に家出して\nごめんなさいですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086109_MSG0002",
+      "style": 0,
+      "name": "タツ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086109_MSG0003",
+      "style": 0,
+      "name": "タツ　わかったですも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086109_MSG0004",
+      "style": 0,
+      "name": "どうせ食べられるなら\nタツは好きな人に食べられたいですも！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086109_MSG0005",
+      "style": 0,
+      "name": "さあ　思う存分\nタツを料理してくださいですも！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086109_MSG0006",
+      "style": 0,
+      "name": "あの[ST:wide ]―　えっと[ST:wide ]―\n何を言ってるの　タツ？[ST:wait ]"
+    }
+  ]
+}

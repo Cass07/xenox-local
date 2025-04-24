@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085304_MSG0001",
+      "style": 0,
+      "name": "후우, 이거면 됐지?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085304_MSG0002",
+      "style": 0,
+      "name": "이 정도 있으면 당분간은 문제없겠군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085304_MSG0003",
+      "style": 0,
+      "name": "당신, 아버지의 지시를\n너무 곧이곧대로 듣는 거 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085304_MSG0004",
+      "style": 0,
+      "name": "아버지?\n자네, 우리 아버지를 만난 적이 있는가?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085304_MSG0005",
+      "style": 0,
+      "name": "응? 아니, 아까……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085304_MSG0006",
+      "style": 0,
+      "name": "내 아버지는 진작에 죽었어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085304_MSG0007",
+      "style": 0,
+      "name": "뭐어……!?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085304_MSG0008",
+      "style": 0,
+      "name": "그, 그럼 그 사람은 유령!?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085304_MSG0009",
+      "style": 0,
+      "name": "어떻게 된 거야![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085304_MSG0010",
+      "style": 0,
+      "name": "나도 몰라\n그것보다 원시 생물의 공격을 받으면 큰일이다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085304_MSG0011",
+      "style": 0,
+      "name": "NLA로 돌아가서 키아스와 합류해야겠어\n빨리 가자고[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085304_MSG0012",
+      "style": 0,
+      "name": "이, 이봐![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086908_MSG0001",
+      "style": 1,
+      "name": "에어로지움은 그 둥둥 떠 있는\n신기한 바위섬에서 얻을 수 있다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086908_MSG0002",
+      "style": 1,
+      "name": "이런 귀중한 정보를\n공짜로 알려 줬으니\n절대로 헛되게 하지 마라모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086908_MSG0003",
+      "style": 1,
+      "name": "빨리 에어로지움을 손에 넣어서\n아름다운 아가씨의\n멋진 미소를 되찾아라모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086908_MSG0004",
+      "style": 1,
+      "name": "에어로지움을 손에 넣어서 다행이다모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086908_MSG0005",
+      "style": 1,
+      "name": "이 츠무지\n도리안 카라반의 리더로서……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086908_MSG0006",
+      "style": 1,
+      "name": "아니, 한 명의 노폰으로서\n언제든지 아가씨를 도와주겠다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086908_MSG0007",
+      "style": 1,
+      "name": "또 놀러 와 줘모!\n반드시, 반드시, 반~드시! 약속이다모!![ST:wait ]"
+    }
+  ]
+}

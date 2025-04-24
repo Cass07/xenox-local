@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090303_MSG0001_02",
+      "style": 0,
+      "name": "좌표에 따르면 이 근처일 텐데……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090303_MSG0001",
+      "style": 0,
+      "name": "이봐, 저거…… 사람 아니냐……?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090303_MSG0003",
+      "style": 0,
+      "name": "역시, 저 녀석…… 살아 있었던 거야……!\n이런 곳에서 혼자 강인하게 살아온 거라고![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090303_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 5,
+      "label": "qev090303_SEL0011",
+      "style": 3,
+      "name": "분명 그럴 거라고 말한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev090303_JNK0020",
+      "style": 4,
+      "name": "경계"
+    },
+    {
+      "$id": 7,
+      "label": "qev090303_SEL0021",
+      "style": 3,
+      "name": "이엘브에게 경계하라고 한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev090303_MSG0004",
+      "style": 0,
+      "name": "그래! 이봐~\n나야, 이엘브라고![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090303_MSG0005",
+      "style": 0,
+      "name": "경계……? 경계를 왜 하라는 건데……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090303_MSG0006",
+      "style": 0,
+      "name": "……응?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090303_MSG0007",
+      "style": 0,
+      "name": "……뭐야!?\n저건…… 적인가!?[ST:wait ]"
+    }
+  ]
+}

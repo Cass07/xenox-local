@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091304_MSG0001",
+      "style": 0,
+      "name": "이곳 데이터 프로브도……\n땅 위에 나와 있네요…… 역시……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091304_JNK0010",
+      "style": 4,
+      "name": "동의한다"
+    },
+    {
+      "$id": 3,
+      "label": "qev091304_SEL0011",
+      "style": 3,
+      "name": "누군가가 의도적으로 파헤친 것이\n틀림없다며 동의한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev091304_JNK0020",
+      "style": 4,
+      "name": "지적한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev091304_SEL0021",
+      "style": 3,
+      "name": "여기는 처음에 왔던 장소라고 지적한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev091304_MSG0002",
+      "style": 0,
+      "name": "그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091304_MSG0003",
+      "style": 0,
+      "name": "……어라?\n여기는 처음에 왔던 곳 아닌가요!?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091304_MSG0004",
+      "style": 0,
+      "name": "앗![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091304_MSG0005",
+      "style": 0,
+      "name": "정말이네……\n여기는 처음에 왔던 곳이었어요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091304_MSG0006",
+      "style": 0,
+      "name": "죄송합니다, 제가 착각했습니다……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091304_MSG0007",
+      "style": 0,
+      "name": "형한테서도 사소한 실수 하지 마라[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091304_MSG0007_02",
+      "style": 0,
+      "name": "제대로 확인해라, 그런 말을\n옛날에 자주 듣고는 했는데……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091304_MSG0008",
+      "style": 0,
+      "name": "전 아무리 시간이 지나도 나아지지 않네요……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091304_JNK0030",
+      "style": 4,
+      "name": "위로한다"
+    },
+    {
+      "$id": 15,
+      "label": "qev091304_SEL0031",
+      "style": 3,
+      "name": "실수는 누구나 하는 법이니\n신경 쓰지 말라며 위로한다"
+    },
+    {
+      "$id": 16,
+      "label": "qev091304_JNK0040",
+      "style": 4,
+      "name": "꾸짖는다"
+    },
+    {
+      "$id": 17,
+      "label": "qev091304_SEL0041",
+      "style": 3,
+      "name": "임무 중에는 더 냉정하고 신중하게\n판단해야 한다며 꾸짖는다"
+    },
+    {
+      "$id": 18,
+      "label": "qev091304_JNK0050",
+      "style": 4,
+      "name": "조언한다"
+    },
+    {
+      "$id": 19,
+      "label": "qev091304_SEL0051",
+      "style": 3,
+      "name": "이 실수를 잊지 않는다면\n나아질 수 있다고 조언한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev091304_MSG0009",
+      "style": 0,
+      "name": "감사합니다……\n관대한 마음을 가지셨네요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091304_MSG0010",
+      "style": 0,
+      "name": "다음에는 절대 실수하지 않겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091304_MSG0011",
+      "style": 0,
+      "name": "……그래요, 한 번의 실패로\n목숨이 위태로워질 수도 있으니까요……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091304_MSG0012",
+      "style": 0,
+      "name": "감사합니다……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091304_MSG0013",
+      "style": 0,
+      "name": "이 실수를 가슴에 새기고 성장하기 위해서도\n매일 밤 자기 전에 반성하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091304_MSG0014",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091304_MSG0015",
+      "style": 0,
+      "name": "여기서는 할 수 있는 게 없어요\n진짜 목적지로 가죠[ST:wait ]"
+    }
+  ]
+}

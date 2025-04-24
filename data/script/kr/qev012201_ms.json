@@ -1,0 +1,342 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012201_MSG0001",
+      "style": 1,
+      "name": "어라?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012201_MSG0002",
+      "style": 1,
+      "name": "어라라라라?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012201_MSG0003",
+      "style": 1,
+      "name": "설마 그럴 리 없다고 생각했는데……\n선배인가요~!?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev012201_MSG0004",
+      "style": 1,
+      "name": "이 먼 백목의 대륙까지 일하러 오신 거예요?\n고생하십니다![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev012201_MSG0005",
+      "style": 1,
+      "name": "전 평소처럼 모험을 하는 중이에요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev012201_MSG0006",
+      "style": 1,
+      "name": "하지만 타고 있던 돌이\n이 앞 호수 건너편에서 공격을 당해\n멈춰 버리는 바람에[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev012201_MSG0007",
+      "style": 1,
+      "name": "지금은 저 카라반에서\n신세 지고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev012201_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 9,
+      "label": "qev012201_SEL0011",
+      "style": 3,
+      "name": "공격한 상대에 관해 묻는다"
+    },
+    {
+      "$id": 10,
+      "label": "qev012201_JNK0020",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 11,
+      "label": "qev012201_SEL0021",
+      "style": 3,
+      "name": "어떻게 돌에 탔는지 묻는다"
+    },
+    {
+      "$id": 12,
+      "label": "qev012201_MSG0008",
+      "style": 1,
+      "name": "공격한 상대 말인가요?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev012201_MSG0009",
+      "style": 1,
+      "name": "음~ 사실은 잘 몰라요\n이동 중에 갑자기 저격당한 느낌이라……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev012201_MSG0010",
+      "style": 1,
+      "name": "다리가 망가져 버려서\n일단 그 자리에 돌을 버리고\n걸어서 여기까지 온 거예요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev012201_MSG0011",
+      "style": 1,
+      "name": "어떻게 돌 같은 비싼 걸 탔냐고요?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev012201_MSG0012",
+      "style": 1,
+      "name": "음~ 그러니까……\n비밀로 해 주실 수 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev012201_MSG0013",
+      "style": 1,
+      "name": "본부의 격납고에서 정비 중이던 기체를\n그…… 자발적으로 가동 테스트를 도울까 하고……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev012201_MSG0014",
+      "style": 1,
+      "name": "그러니까…… 네……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev012201_MSG0015",
+      "style": 1,
+      "name": "다시 말해서……\n멋대로 타고 나와 버렸습니다……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev012201_MSG0016",
+      "style": 1,
+      "name": "공격을 당하긴 했어도\n제 몸은 아주아주 멀쩡해서\n돌아가려면 언제든 돌아갈 수는 있지만[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev012201_MSG0017",
+      "style": 1,
+      "name": "망가진 돌을 방치할 수는 없어요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev012201_MSG0018",
+      "style": 1,
+      "name": "저 카라반의 노폰인들도\n도와주겠다고 하는데\n다행히 가벼운 대미지여서요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev012201_MSG0019",
+      "style": 1,
+      "name": "원래 본업이기도 하고\n수리는 혼자서도 할 수 있을 거라고 생각하는데\n문제는…… 역시 소재예요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev012201_MSG0020",
+      "style": 1,
+      "name": "카라반에도 상품용 재고가 있지만\n수가 한참 모자라거든요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev012201_MSG0021",
+      "style": 1,
+      "name": "그래서 저……\n이번에도 후배의 부탁이 있는데요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev012201_MSG0022",
+      "style": 1,
+      "name": "수리에 필요한 소재 채취를\n도와주시면 안 될까요?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev012201_MSG0023",
+      "style": 1,
+      "name": "여기서 만나게 된 것도\n운명이라는 느낌이 들고요![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev012201_JNK0030",
+      "style": 4,
+      "name": "협력한다"
+    },
+    {
+      "$id": 29,
+      "label": "qev012201_SEL0031",
+      "style": 3,
+      "name": "소재 채취를 돕는다"
+    },
+    {
+      "$id": 30,
+      "label": "qev012201_JNK0040",
+      "style": 4,
+      "name": "거절한다"
+    },
+    {
+      "$id": 31,
+      "label": "qev012201_SEL0041",
+      "style": 3,
+      "name": "도울 생각은 없다고 말한다"
+    },
+    {
+      "$id": 32,
+      "label": "qev012201_MSG0024",
+      "style": 1,
+      "name": "정말요!?\n역시 선배는 다정해요![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev012201_MSG0025",
+      "style": 1,
+      "name": "저, 선배 같은 블레이드가 되는 게 꿈이에요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev012201_MSG0026",
+      "style": 1,
+      "name": "정말이라고요!\n아부 같은 게 아니에요![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev012201_MSG0027",
+      "style": 1,
+      "name": "강하게, 다정하게, 믿음직스럽게!\n이게 제 신조거든요![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev012201_MSG0028",
+      "style": 1,
+      "name": "으…… 이 정도까지 이야기를 들었으면\n이미 선배도 발을 담근 거 아닌가요……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev012201_MSG0029",
+      "style": 1,
+      "name": "그런 서운한 말 하지 말고\n도와주세요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev012201_MSG0030",
+      "style": 1,
+      "name": "임무 중인 블레이드는 경쟁자이면서\n동시에 공동체이기도 하다고 들었어요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev012201_MSG0031",
+      "style": 1,
+      "name": "……뭐, 저는 임무 중인 것도\n하물며 블레이드도 아니지만요……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev012201_MSG0032",
+      "style": 1,
+      "name": "그래도 역시 곤란해하는 후배를 돕는 건\n선배의 역할이에요![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev012201_MSG0033",
+      "style": 1,
+      "name": "그러니까…… 부탁합니다!\n이렇게 빌게요![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev012201_MSG0034",
+      "style": 1,
+      "name": "고생하십니다~ 선배![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev012201_MSG0035",
+      "style": 1,
+      "name": "소재 모으는 건 좀 어떤가요?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev012201_MSG0036",
+      "style": 1,
+      "name": "뭐, 「돌 수리에 필요한 소재를 근처에서\n찾아 와 주세요」라는 느낌의 부탁으로\n조달하는 것도 좀 얌체 같긴 하지만[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev012201_MSG0037",
+      "style": 1,
+      "name": "이것도 하나의 생활 속 지혜라는 걸로……!\n잘 부탁합니다![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev012201_MSG0038",
+      "style": 1,
+      "name": "다녀오셨어요, 선배?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev012201_MSG0039",
+      "style": 1,
+      "name": "어땠나요? 성과는 있었나요?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev012201_MSG0040",
+      "style": 1,
+      "name": "감사합니다!\n이걸로 수리를 시작할 수 있어요![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev012201_MSG0041",
+      "style": 1,
+      "name": "그럼 바로 망가진 돌이 있는 곳까지\n레츠 고인데……[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev012201_MSG0042",
+      "style": 1,
+      "name": "혼자 걸어서 가는 건\n솔직히 좀 불안해요~[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev012201_MSG0043",
+      "style": 1,
+      "name": "현장까지 같이 가 주시면 안 될까요?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev012201_MSG0044",
+      "style": 1,
+      "name": "수리하는 데 시간은 그렇게 많이 안 걸리니까\n뭐, 잠깐 같이 산책하는 느낌으로요![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev012201_MSG0045",
+      "style": 1,
+      "name": "자, 자, 이러는 시간도 아까워요![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev012201_MSG0046",
+      "style": 1,
+      "name": "아무튼 출발해요![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051509_MSG0001",
+      "style": 1,
+      "name": "さすがだよ　[ST:playername ]\n前に戦った時とは比較にならぬ程強くなったな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051509_MSG0002",
+      "style": 1,
+      "name": "そう……貴様は　その力をもって\nルクザールを見事　打ち倒したのだ……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051509_MSG0003",
+      "style": 1,
+      "name": "本当に　ありがとうな\n兄様の仇を討ってくれて[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051509_MSG0004",
+      "style": 1,
+      "name": "この大会には数々のラース武道大会を制した\n天下無双の武人も　出場していると聞いたがな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051509_MSG0005",
+      "style": 1,
+      "name": "絶対に負けるなよ！\n必ずや貴様が最強だと　示して見せるんだ[ST:wait ]"
+    }
+  ]
+}

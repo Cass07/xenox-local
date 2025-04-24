@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06110170_MSG0001",
+      "style": 0,
+      "name": "回収　ご苦労さん[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06110170_MSG0002",
+      "style": 0,
+      "name": "ヴァンダム司令\nどうしてこんなところに[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs06110170_MSG0003",
+      "style": 0,
+      "name": "中に入らないんですか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06110170_MSG0004",
+      "style": 0,
+      "name": "リン　お前を待ってたんだよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06110170_MSG0005",
+      "style": 0,
+      "name": "えっ\n私ですか？[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs06110170_MSG0006",
+      "style": 0,
+      "name": "興味があるんだろ　あの機体に[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs06110170_MSG0007",
+      "style": 0,
+      "name": "は　はい　それはまぁ[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs06110170_MSG0008",
+      "style": 0,
+      "name": "それなら　あの機体の調査はお前に任せる[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06110170_MSG0009",
+      "style": 0,
+      "name": "あの機体を回収できたのは　お前の[ST:wide ]―\nいやっ　お前のチームの手柄だからな[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs06110170_MSG0010",
+      "style": 0,
+      "name": "い　いいんですか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs06110170_MSG0011",
+      "style": 0,
+      "name": "もう準備は　出来てる\nさっさと中に行くぞ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs06110170_MSG0012",
+      "style": 0,
+      "name": "はい　ありがとうございます\nヴァンダム司令！[ST:wait ]\n"
+    }
+  ]
+}

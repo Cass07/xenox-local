@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091302_MSG0001",
+      "style": 0,
+      "name": "……무언가 이상하네요\n이 망가진 형태……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091302_MSG0002",
+      "style": 0,
+      "name": "땅속에 묻었던 데이터 프로브가\n땅 위에 나와 있다니[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091302_MSG0003",
+      "style": 0,
+      "name": "하지만 이것만으로는 원인을 알 수 없네요\n다음 장소로 가죠[ST:wait ]"
+    }
+  ]
+}

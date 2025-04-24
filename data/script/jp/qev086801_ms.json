@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086801_MSG0001",
+      "style": 0,
+      "name": "何度言われても　お断りします[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086801_MSG0002",
+      "style": 0,
+      "name": "私はそう無茶な提案をしているつもりは\nないのだがね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086801_MSG0003",
+      "style": 0,
+      "name": "ロックだったな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086801_MSG0004",
+      "style": 0,
+      "name": "そこの彼がグロウスに追われている\nという報告は受けている[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086801_MSG0005",
+      "style": 0,
+      "name": "だとすれば　彼を受け入れたことで[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086801_MSG0006",
+      "style": 0,
+      "name": "このＮＬＡが狙われる可能性は\n高くなったということだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086801_MSG0007",
+      "style": 0,
+      "name": "元々　この街はグロウスと\n敵対していたんじゃないんですか[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086801_MSG0008",
+      "style": 0,
+      "name": "その通りだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086801_MSG0009",
+      "style": 0,
+      "name": "だから　我々と君達は\n手を取り合えると判断した[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086801_MSG0010",
+      "style": 0,
+      "name": "ならば　グロウスとの戦いにも\n力を貸して欲しいという[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086801_MSG0011",
+      "style": 0,
+      "name": "こちらの希望も理解できるのではないかね？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086801_MSG0012",
+      "style": 0,
+      "name": "ロックの巨体なら　戦力として\n当てにできそうに思えるのだが[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086801_MSG0013",
+      "style": 0,
+      "name": "それは取引　それとも脅迫かしら[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086801_MSG0014",
+      "style": 0,
+      "name": "エルマさん　みんな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086801_MSG0015",
+      "style": 0,
+      "name": "私はお互いにとって\n有益な取引を提案しているつもりだ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086801_MSG0016",
+      "style": 0,
+      "name": "脅迫と解釈されるのは愉快ではない[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086801_JNK0010",
+      "style": 4,
+      "name": "反論"
+    },
+    {
+      "$id": 18,
+      "label": "qev086801_SEL0011",
+      "style": 3,
+      "name": "どこが互いに有益なのか問う"
+    },
+    {
+      "$id": 19,
+      "label": "qev086801_JNK0020",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 20,
+      "label": "qev086801_SEL0021",
+      "style": 3,
+      "name": "何故戦わせたいのか尋ねる"
+    },
+    {
+      "$id": 21,
+      "label": "qev086801_MSG0017",
+      "style": 0,
+      "name": "そうです\nロックさんは戦いを嫌がってるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086801_MSG0018",
+      "style": 0,
+      "name": "だから　彼には自由意志による選択権がある[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086801_MSG0019",
+      "style": 0,
+      "name": "この街への貢献を拒否して\n出て行くのも彼の自由だ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086801_MSG0020",
+      "style": 0,
+      "name": "そんなひどいこと[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086801_MSG0021",
+      "style": 0,
+      "name": "情けない話だが タダ飯を食わせる余裕がない\nというのが実情なのだ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086801_MSG0022",
+      "style": 0,
+      "name": "彼の巨体はただ生きていくだけで\n様々なコストに負担をかける[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086801_MSG0023",
+      "style": 0,
+      "name": "その分は戦闘力として返して貰いたい\nそういうことだ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086801_MSG0024",
+      "style": 0,
+      "name": "ひどいです！\nロックさんは戦いを嫌がっているのに！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086801_MSG0025",
+      "style": 0,
+      "name": "ありがとう　皆さん\nでもいいんです[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086801_MSG0026",
+      "style": 0,
+      "name": "セリカさん[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086801_MSG0027",
+      "style": 0,
+      "name": "私とロックがこれからどうするか\n二人で相談して決めようと思います[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086801_MSG0028",
+      "style": 0,
+      "name": "それでいいですか？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086801_MSG0029",
+      "style": 0,
+      "name": "もちろんだ\nいい返事を期待させてもらうよ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086801_MSG0030",
+      "style": 0,
+      "name": "気にすることはないわ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086801_MSG0031",
+      "style": 0,
+      "name": "ＮＬＡ市民にだって　非戦闘員はたくさんいる\n全ての者が戦わなければならないわけじゃない[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086801_MSG0032",
+      "style": 0,
+      "name": "でもボク　こんな身体なのに戦えないなんて[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086801_MSG0033",
+      "style": 0,
+      "name": "ワガママだよね[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086801_MSG0034",
+      "style": 0,
+      "name": "そんなことはないわ\nロック　あなたは優しい人[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086801_MSG0035",
+      "style": 0,
+      "name": "戦えないことは恥ずかしいことじゃない[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086801_MSG0036",
+      "style": 0,
+      "name": "セリカさんの言う通りですも！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086801_MSG0037",
+      "style": 0,
+      "name": "タツだって戦わないけど\n全く恥ずかしくなんかないですも！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086801_MSG0038",
+      "style": 0,
+      "name": "あ　ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev086801_MSG0039",
+      "style": 0,
+      "name": "ロック　少し待ってて 私に考えがある[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086801_MSG0040",
+      "style": 0,
+      "name": "セリカ　どうするの[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev086801_MSG0041",
+      "style": 0,
+      "name": "あなたは何も不安に思うことはないわ\nここで待っていて[ST:wait ]"
+    }
+  ]
+}

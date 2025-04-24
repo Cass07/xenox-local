@@ -1,0 +1,600 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091403_MSG0001",
+      "style": 0,
+      "name": "……솔란 씨, 오랜만입니다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091403_MSG0002",
+      "style": 0,
+      "name": "너는……?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091403_MSG0003",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091403_MSG0004",
+      "style": 0,
+      "name": "포그입니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091403_MSG0005",
+      "style": 0,
+      "name": "아 그랬지, 안개처럼 존재감이 옅어서\n포그라는 이름이 기억에 남았었어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091403_MSG0006",
+      "style": 0,
+      "name": "……기억에 남지 않았잖아요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091403_MSG0007",
+      "style": 0,
+      "name": "미안 미안, 그래서 오늘은 무슨 일이지?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091403_MSG0008",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091403_MSG0009",
+      "style": 0,
+      "name": "망각의 계곡에서\n미지의 생명체에게 습격당했어요……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091403_MSG0010",
+      "style": 0,
+      "name": "그로우스의 생체 병기인가?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091403_MSG0011",
+      "style": 0,
+      "name": "그 부분을 알 수가 없네요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091403_MSG0012",
+      "style": 0,
+      "name": "만약을 위해 회수해 왔습니다\n분석을 부탁드리고 싶어요……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091403_MSG0013",
+      "style": 0,
+      "name": "그런 일이라면 바로 시작해야지\n잠시만 기다려 줘[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091403_MSG0014",
+      "style": 0,
+      "name": "으으음……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091403_MSG0015",
+      "style": 0,
+      "name": "대강 조사해 봤는데\n그로우스의 생체 병기는 아닌 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091403_MSG0016",
+      "style": 0,
+      "name": "문명 수준이 다른 느낌이거든[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091403_MSG0017",
+      "style": 0,
+      "name": "무슨 뜻이죠……?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091403_MSG0018",
+      "style": 0,
+      "name": "자세한 건 몰라[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091403_MSG0019",
+      "style": 0,
+      "name": "어쩌면 미라 고유의 종일지도 모르지[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091403_MSG0020",
+      "style": 0,
+      "name": "예를 들어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091403_MSG0020_2",
+      "style": 0,
+      "name": "망각의 계곡에서만 서식한다든가……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091403_MSG0021",
+      "style": 0,
+      "name": "그렇군요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091403_MSG0022",
+      "style": 0,
+      "name": "망각의 계곡에\n유적이 몇 개 있다는 건 알고 있어?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091403_MSG0023",
+      "style": 0,
+      "name": "그곳들의 정보를 조합해 보면\n무언가 알아낼 수 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091403_MSG0024",
+      "style": 0,
+      "name": "……혹시 필요한 걸\n가지고 오는 건 저희 일인가요?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091403_MSG0025",
+      "style": 0,
+      "name": "그래, 3개의 유적에 가서\n정보를 가지고 와 줘[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091403_MSG0026",
+      "style": 0,
+      "name": "망각의 계곡 유적 정보를 모아 온 모양이군\n바로 분석해 볼게[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091403_MSG0027",
+      "style": 0,
+      "name": "으으음……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091403_MSG0028",
+      "style": 0,
+      "name": "유감이지만 알아낸 건 하나뿐이야……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091403_MSG0029",
+      "style": 0,
+      "name": "그게 뭐죠……?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091403_MSG0030",
+      "style": 0,
+      "name": "이건 그로우스의 생체 병기도 아니고\n미라의 생물도, 지구의 생물도 아니야[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091403_MSG0031",
+      "style": 0,
+      "name": "즉, 아무것도 모르겠다는 걸 알아냈어[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091403_MSG0032",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091403_MSG0033",
+      "style": 0,
+      "name": "이봐, 이봐\n유감스러운 결과로 끝나기는 했지만[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091403_MSG0034",
+      "style": 0,
+      "name": "조금은 반응해 줘도 되는 거 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091403_MSG0035",
+      "style": 0,
+      "name": "……형[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091403_JNK0010",
+      "style": 4,
+      "name": "솔란이?"
+    },
+    {
+      "$id": 38,
+      "label": "qev091403_SEL0011",
+      "style": 3,
+      "name": "솔란이 형이냐고 묻는다"
+    },
+    {
+      "$id": 39,
+      "label": "qev091403_JNK0020",
+      "style": 4,
+      "name": "프라이가?"
+    },
+    {
+      "$id": 40,
+      "label": "qev091403_SEL0021",
+      "style": 3,
+      "name": "프라이가 형이냐고 묻는다"
+    },
+    {
+      "$id": 41,
+      "label": "qev091403_MSG0036",
+      "style": 0,
+      "name": "아니, 난 이렇게 개성 넘치는 동생 없어[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091403_MSG0037",
+      "style": 0,
+      "name": "……네[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091403_MSG0038",
+      "style": 0,
+      "name": "프라이 크리스토프가 제 형이에요[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091403_MSG0039",
+      "style": 0,
+      "name": "……긴 이야기가 될지도 모르지만\n들어 주실래요?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091403_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 46,
+      "label": "qev091403_SEL0031",
+      "style": 3,
+      "name": "포그의 이야기를 듣는다"
+    },
+    {
+      "$id": 47,
+      "label": "qev091403_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 48,
+      "label": "qev091403_SEL0041",
+      "style": 3,
+      "name": "포그의 이야기가 길어질까 봐 걱정한다"
+    },
+    {
+      "$id": 49,
+      "label": "qev091403_MSG0040",
+      "style": 0,
+      "name": "피도 눈물도 없네[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091403_MSG0041",
+      "style": 0,
+      "name": "지금까지 함께 싸워 왔잖아?\n이야기 정도는 들어 줘도 되는 거 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091403_MSG0042",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091403_MSG0043",
+      "style": 0,
+      "name": "……가능한 한 간결히 이야기할 테니\n들어 주세요, 들어 주셨으면 해요[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091403_MSG0044",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091403_MSG0045",
+      "style": 0,
+      "name": "……지금까지 형이 누구인지\n말하지 않아서 죄송해요[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091403_MSG0046",
+      "style": 0,
+      "name": "형과 지구 시절에 크게 다투었거든요[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091403_MSG0047",
+      "style": 0,
+      "name": "크리스토프 가문은 군인 가문이라 형도, 아버지도\n할아버지도, 증조할아버지도 군인이셨어요[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091403_MSG0048",
+      "style": 0,
+      "name": "저만은 돌아가신 어머니의 영향으로\n계측 공학 연구자를 목표로 했었고요[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091403_MSG0049",
+      "style": 0,
+      "name": "가는 길은 달라도 사이좋은 가족이었죠[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091403_MSG0050",
+      "style": 0,
+      "name": "하지만 흰고래에 타게 되었을 때\n문제가 생겼습니다[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091403_MSG0051",
+      "style": 0,
+      "name": "아버지만 지구종 범이민 계획에 선발되지 못해\n지구에 남게 된 거예요[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091403_MSG0052",
+      "style": 0,
+      "name": "형은, 어째서 자기보다 경험도 많고\n지위도 높은 아버지를 남기냐면서……[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091403_MSG0053",
+      "style": 0,
+      "name": "상층부에 몇 번이고 항의했었습니다[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091403_JNK0050",
+      "style": 4,
+      "name": "감동한다"
+    },
+    {
+      "$id": 64,
+      "label": "qev091403_SEL0051",
+      "style": 3,
+      "name": "프라이의 아버지 사랑에 감동한다"
+    },
+    {
+      "$id": 65,
+      "label": "qev091403_JNK0060",
+      "style": 4,
+      "name": "놀린다"
+    },
+    {
+      "$id": 66,
+      "label": "qev091403_SEL0061",
+      "style": 3,
+      "name": "프라이는 파파보이라며 가볍게 놀린다"
+    },
+    {
+      "$id": 67,
+      "label": "qev091403_JNK0070",
+      "style": 4,
+      "name": "질문한다"
+    },
+    {
+      "$id": 68,
+      "label": "qev091403_SEL0071",
+      "style": 3,
+      "name": "아버지가 선택받지 못한 이유를 묻는다"
+    },
+    {
+      "$id": 69,
+      "label": "qev091403_MSG0054",
+      "style": 0,
+      "name": "그렇네요……\n형은 누구보다도 아버지를 존경했으니까요[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev091403_MSG0055",
+      "style": 0,
+      "name": "그렇네요……[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev091403_MSG0056",
+      "style": 0,
+      "name": "형은 파파보이고\n저는 브라더보이인 걸지도 모르겠어요[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev091403_MSG0057",
+      "style": 0,
+      "name": "당신도 그런 의문이 들었군요[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev091403_MSG0058",
+      "style": 0,
+      "name": "형은 착각했던 거예요\n아마 지금도 그럴 거고요……[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev091403_MSG0059",
+      "style": 0,
+      "name": "전 형과 달리 진실을 받아들였습니다[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev091403_MSG0060",
+      "style": 0,
+      "name": "아버지를 지구에 둔 채 떠나는 것을 망설이지 않았어요[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev091403_MSG0061",
+      "style": 0,
+      "name": "어째서 그랬냐면……\n아버지가 자주적으로 지구에 남았기 때문이에요[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev091403_MSG0062",
+      "style": 0,
+      "name": "흰고래에 탈 수 있는 인원수도 한계가 있으니\n늙은이를 태울 필요는 없다고 아버지께서 말씀하셨죠[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev091403_MSG0063",
+      "style": 0,
+      "name": "자신보다 다른 사람들의 보호를\n우선하는 분이셨으니까요……[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev091403_MSG0064",
+      "style": 0,
+      "name": "하지만 아버지의 선택은 곧\n영원한 이별을 의미하니까……[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev091403_MSG0065",
+      "style": 0,
+      "name": "이를 받아들이지 못한 형은\n아버지 말씀도, 제 말도 듣지 않았고[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev091403_MSG0066",
+      "style": 0,
+      "name": "그날 이후 오늘 이때까지도\n계속 험악한 사이인 거예요[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev091403_JNK0080",
+      "style": 4,
+      "name": "이해해 준다"
+    },
+    {
+      "$id": 83,
+      "label": "qev091403_SEL0081",
+      "style": 3,
+      "name": "프라이의 마음도 알 것 같다며 이해해 준다"
+    },
+    {
+      "$id": 84,
+      "label": "qev091403_JNK0090",
+      "style": 4,
+      "name": "동정한다"
+    },
+    {
+      "$id": 85,
+      "label": "qev091403_SEL0091",
+      "style": 3,
+      "name": "포그의 상황을 동정한다"
+    },
+    {
+      "$id": 86,
+      "label": "qev091403_MSG0067",
+      "style": 0,
+      "name": "그렇겠죠……[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev091403_MSG0068",
+      "style": 0,
+      "name": "아버지의 죽음을 쉽게 받아들였던 저는\n조금 특이한 걸지도 몰라요……[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev091403_MSG0069",
+      "style": 0,
+      "name": "하지만 언젠가 신뢰를 얻어서\n지금과는 다른 입장에서 이야기할 수 있다면[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev091403_MSG0070",
+      "style": 0,
+      "name": "형도 분명 제 말을 들어 줄 거라고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev091403_MSG0071",
+      "style": 0,
+      "name": "그렇게 말씀해 주시니 조금 마음이 편하네요[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev091403_MSG0072",
+      "style": 0,
+      "name": "전 형과 화해하고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev091403_MSG0073",
+      "style": 0,
+      "name": "블레이드 임무를 계속 수행해서\n지금과는 다른 입장에서 이야기할 수 있다면[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev091403_MSG0074",
+      "style": 0,
+      "name": "형도 분명 제 말을 들어 줄 거라고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev091403_MSG0075",
+      "style": 0,
+      "name": "그러니 앞으로도 잘 부탁드립니다[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev091403_MSG0076",
+      "style": 1,
+      "name": "후…… 역시 자료가 너무 부족해\n이대로는 답이 나오지 않아[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev091403_MSG0077",
+      "style": 1,
+      "name": "망각의 계곡에 있는 유적 정보만 있으면\n너희가 가지고 온 잔해가 무엇인지……[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev091403_MSG0078",
+      "style": 1,
+      "name": "밝혀낼 수 있을지도 몰라\n어서 모아 줘[ST:wait ]"
+    }
+  ]
+}

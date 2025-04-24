@@ -1,0 +1,540 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev060301_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev060301_SEL0011",
+      "style": 3,
+      "name": "가족에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev060301_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev060301_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev060301_MSG0001",
+      "style": 1,
+      "name": "나르에겐 라나라는 여동생이 있어요모\n외모는 훌륭하죠모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev060301_MSG0002",
+      "style": 1,
+      "name": "그래요…… 외모는 훌륭하지만\n성격은…… 문제 있어요모[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev060301_MSG0003",
+      "style": 1,
+      "name": "교활하다는 말이 어울리죠모……\n목적을 위해서라면 뭐든지 하는\n어떤 의미로는 한결같은 여자예요모[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev060301_MSG0004",
+      "style": 1,
+      "name": "결혼했다고 연락이 왔지만\n축하해 주지 않았어요모\n건강하게 지낸다면 알려 주세요모[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev060301_MSG0008",
+      "style": 1,
+      "name": "이번에는 어떻게 지구인을 벗겨 먹을까……\n크크큭…… 기대된다모…… 모못!?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev060301_MSG0009",
+      "style": 1,
+      "name": "저, 저번 일은 감사합니다모!\n그 덕분에 나르는\n그로우스의 마수에서 해방되었습니다모![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev060301_MSG0010",
+      "style": 1,
+      "name": "또 녀석들의 마수가 뻗치면……\n그때는 힘을 빌려주세요모[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev060301_MSG0011",
+      "style": 1,
+      "name": "드론고 카라반의 리더\n포테포테는 글러 먹었으니까\n당신에게 의지할 수밖에 없어요모![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev060301_MSG0012",
+      "style": 1,
+      "name": "이번에는 어떻게 지구인을 벗겨 먹을까……\n크크큭…… 기대된다모…… 모못!?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev060301_MSG0013",
+      "style": 1,
+      "name": "저, 저번 일은 감사합니다모!\n나르는 그로우스와 손을 끊고\n좀 더 이익이 되는 녀석들과 손을 잡……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev060301_MSG0014",
+      "style": 1,
+      "name": "는 일은, 없어요, 모!\n앗…… 이 일은 카라반 리더인\n포테포테한테는 말하지 마세요모[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev060301_MSG0015",
+      "style": 1,
+      "name": "그런 글러 먹은 리더가 알면\n나르에게 비수를 꽂는 말을 할 게\n틀림없어요모![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "tev060301_MSG0016",
+      "style": 1,
+      "name": "나르의 여동생 라나가\n터무니없는 짓을 저질렀어요모……[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev060301_MSG0017",
+      "style": 1,
+      "name": "드론고 카라반뿐 아니라\n미라 전체의 노폰 사이에\n소문이 났어요모……[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev060301_MSG0018",
+      "style": 1,
+      "name": "아기가 생겼다고 말하며\n남자를 속이는 악녀…… 그렇게 불리고 있어요모![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev060301_MSG0019",
+      "style": 1,
+      "name": "……대강 맞아요모\n제 동생이지만 무서운 아이네요모[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev060301_MSG0023",
+      "style": 1,
+      "name": "이번에는 어떻게 지구인을 벗겨 먹을까……\n크크큭…… 기대된다모…… 모못!?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev060301_MSG0024",
+      "style": 1,
+      "name": "아, 아무것도 아니에요모!\n저번 일은 감사합니다모![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev060301_MSG0025",
+      "style": 1,
+      "name": "앞으로는 지구인과의 거래를\n성심성의껏 해 나갈 거라고!\n생각하고 있습니다모! 진짜예요모![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev060301_MSG0026",
+      "style": 1,
+      "name": "카라반 리더인 포테포테에게도\n지구인을 추천해 두었습니다모![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev060301_MSG0027",
+      "style": 1,
+      "name": "글러 먹은 리더입니다만\n그건 참모가 어떻게든 해 줄 겁니다모![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev060301_MSG0028",
+      "style": 1,
+      "name": "들었나요모, 들었나요모?\n드론고 카라반의 리더가\n바뀌었어요모[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev060301_MSG0029",
+      "style": 1,
+      "name": "포테포테는 장로 곁에서\n엄격히 다시 단련하고 오면 돼요모![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev060301_MSG0030",
+      "style": 1,
+      "name": "새로운 리더는 견실하니까\n안심하고 장사할 수 있어요모[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev060301_MSG0031",
+      "style": 1,
+      "name": "……모? 그렇다는 건 장사 상대를\n고르는 데 더욱 조심해야 한다는……\n모? 아무것도 아닙니다모![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev060301_MSG0032",
+      "style": 1,
+      "name": "큰일이에요모…… 이 대륙에 있는\n드론고 카라반의 참모가\n뛰쳐나가 버렸어요모![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev060301_MSG0033",
+      "style": 1,
+      "name": "리더인 포테포테는\n혼자서는 아무것도 못 해요모……\n드론고 카라반의 경영 위기예요모![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev060301_MSG0034",
+      "style": 1,
+      "name": "……모? 그렇다는 건\n나르가 어떤 상대와 거래하든지\n들킬 일이 없……[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev060301_MSG0035",
+      "style": 1,
+      "name": "아아아, 아무것도 아닙니다모!\n나르는 깨끗하게 장사하겠다고\n결심했습니다모! 모못![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev060301_MSG3001",
+      "style": 1,
+      "name": "당신, 터무니없는 장난을 쳤어요모![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev060301_MSG3002",
+      "style": 1,
+      "name": "녀석들에게 상품을 건네주려 했는데\n불릿 플라이가 튀어나오는 바람에\n모두 크게 다쳐서……[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev060301_MSG3003",
+      "style": 1,
+      "name": "하마터면 화난 그로우스에게 붙잡혀\n살해당할 뻔했다고요모![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev060301_MSG3004",
+      "style": 1,
+      "name": "정말이지…… 그로우스는 무시무시해요모……\n엮일 게 못 돼요모……[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev060301_JNK0030",
+      "style": 4,
+      "name": "비난한다[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev060301_SEL0031",
+      "style": 3,
+      "name": "나쁜 짓을 해선 안 된다며\n후회하고 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev060301_JNK0040",
+      "style": 4,
+      "name": "설교한다[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev060301_SEL0041",
+      "style": 3,
+      "name": "지구인을 속이려 한 업보라며\n개심했는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev060301_MSG3005",
+      "style": 1,
+      "name": "했어요모…… 그로우스는 무서워요모\n지구인은 그보다 더 무섭고요모[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev060301_MSG3006",
+      "style": 1,
+      "name": "다음에 속일 때는 좀 더 신중히\n일을 진척시키겠다모……[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev060301_MSG3007",
+      "style": 1,
+      "name": "……혹시\n또 나르가 헛소리를 했습니까모?[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev060301_MSG3008",
+      "style": 1,
+      "name": "지금 말한 건 본심이 아니에요모[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev060301_MSG3009",
+      "style": 1,
+      "name": "앞으로 성심성의껏\n지구인과 함께할 겁니다모[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev060301_MSG3010",
+      "style": 1,
+      "name": "부디 잘 부탁드립니다모[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev060301_MSG3011",
+      "style": 1,
+      "name": "했습니다, 했습니다, 개심했습니다모[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "tev060301_MSG3012",
+      "style": 1,
+      "name": "앞으로 성심성의껏\n지구인과 함께할 겁니다모[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "tev060301_MSG3013",
+      "style": 1,
+      "name": "그렇게 방심하게 만들어서\n다음에는 확실하게 속여 줄 거다모[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev060301_MSG3014",
+      "style": 1,
+      "name": "……앗!\n또 나르가 이상한 소리를 했습니까모?[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "tev060301_MSG3015",
+      "style": 1,
+      "name": "지금 건 본심이 아닙니다모[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev060301_MSG3016",
+      "style": 1,
+      "name": "벌레 폭탄으로 너덜너덜해져서\n조금 머리가 어질어질한 거예요모[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "tev060301_MSG3017",
+      "style": 1,
+      "name": "더는 지구인을\n배신하는 짓 같은 건 안 합니다모[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "tev060301_MSG3018",
+      "style": 1,
+      "name": "부디 잘 부탁드립니다모[ST:wait ]"
+    }
+  ]
+}

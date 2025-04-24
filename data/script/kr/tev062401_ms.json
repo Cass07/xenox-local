@@ -1,0 +1,462 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev062401_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev062401_SEL0011",
+      "style": 3,
+      "name": "백목의 대륙에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev062401_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev062401_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev062401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev062401_SEL0031",
+      "style": 3,
+      "name": "그로우스에 관해 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev062401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev062401_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev062401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev062401_SEL0041",
+      "style": 3,
+      "name": "즈 하그와의 싸움에 관해 묻는다"
+    },
+    {
+      "$id": 11,
+      "label": "tev062401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev062401_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev062401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev062401_SEL0051",
+      "style": 3,
+      "name": "그로우스에 관해 묻는다"
+    },
+    {
+      "$id": 15,
+      "label": "tev062401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev062401_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev062401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev062401_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "tev062401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev062401_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 21,
+      "label": "tev062401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev062401_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev062401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev062401_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev062401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev062401_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev062401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev062401_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev062401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev062401_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev062401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev062401_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev062401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "tev062401_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "tev062401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "tev062401_SEL2021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 37,
+      "label": "tev062401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev062401_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev062401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev062401_SEL2021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev062401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev062401_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "tev062401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev062401_SEL2021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev062401_MSG0001",
+      "style": 1,
+      "name": "시엘 호수 서쪽에는 정말 위험한 녀석들이\n득시글거린다모[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev062401_MSG0002",
+      "style": 1,
+      "name": "그래서 나나 일행은\n그 주변에는 다가가지 않는다모[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev062401_MSG0003",
+      "style": 1,
+      "name": "큰 사람 씨는 강해 보이지만\n역시 너무 무리하지 않는 게 좋을 거다모[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev062401_MSG0004",
+      "style": 1,
+      "name": "꼭 살아 돌아와서……\n나나의 가게에 돈을 잔뜩 써야만 한다모[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev062401_MSG0009",
+      "style": 1,
+      "name": "나나는 이 도판 카라반에서\n만물 가게를 운영하고 있다모[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev062401_MSG0010",
+      "style": 1,
+      "name": "어디 보자, 지금 추천하는 상품은……\n이 근방에서 얻은 도르파리 약이다모![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev062401_MSG0011",
+      "style": 1,
+      "name": "양심적인 가격!\n특별히 하나당 1000000G에 팔아 주겠다모![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev062401_MSG0012",
+      "style": 1,
+      "name": "……못? 안 산다고모?\n요 근방에서는 보통 이 정도 가격이다모[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev062401_MSG0013",
+      "style": 1,
+      "name": "큰 사람 씨는 허리띠를 너무 졸라맨다모\n어디 허리띠 좀 느슨한 녀석은 없으려나모~[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev062401_MSG0018",
+      "style": 1,
+      "name": "전에 서쪽 히랄 요새의 그로우스 무리가\n시비를 걸러 찾아왔다모![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev062401_MSG0019",
+      "style": 1,
+      "name": "와서 나나 일행한테 복수하겠다 어쩐다\n마구 소리를 질러 댔는데모[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev062401_MSG0020",
+      "style": 1,
+      "name": "적당히 고개 숙이는 척하면서\n슬쩍 쓸모없는 쓰레기를\n비싼 값에 팔아 치웠다모![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev062401_MSG0021",
+      "style": 1,
+      "name": "후모모~ 그 녀석들, 힘은 셀지 몰라도\n머리는 별로 안 좋은 모양이다모~![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev062401_MSG0026",
+      "style": 1,
+      "name": "싸움이 너무나도 격렬해서\n도판 카라반의 노폰들 모두 몹시 흥분했다모![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev062401_MSG0027",
+      "style": 1,
+      "name": "그 거대한 로봇과 싸운 거, 지구인이지모?\n다음에 할 때는 미리 말해 주면 좋겠다모[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev062401_MSG0028",
+      "style": 1,
+      "name": "그러면 구경할 손님을 잔뜩 불러서\n간식이나 주스를 마구 팔 거다모~![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev062401_MSG0033",
+      "style": 1,
+      "name": "그로우스가 궤멸했다 들었다모![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev062401_MSG0034",
+      "style": 1,
+      "name": "먹으면 강해질지도 모르는 과일이라든가\n상처가 금방 나을지도 모르는 풀이라든가[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev062401_MSG0035",
+      "style": 1,
+      "name": "수상쩍은 물건을 강매했는데\n들키기 전에 없어져서 다행이다모[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev062401_MSG0036",
+      "style": 1,
+      "name": "……사실은 전부\n먹으면 배탈이 나는 것뿐이었다모[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev062401_MSG0037",
+      "style": 1,
+      "name": "조금이나마 지구인의 승리에\n공헌했을지도 모르겠다모![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev062401_MSG1001",
+      "style": 1,
+      "name": "어서 와모!\n나나의 만물 가게에 온 걸 환영한다모~![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev062401_MSG1002",
+      "style": 1,
+      "name": "쿠타가 나나한테 억지로 떠넘긴\n신제품 빳빳한 드레스는 어때모?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev062401_MSG1003",
+      "style": 1,
+      "name": "지구인한테는 조금 작을지도 모르지만\n머리에 쓰면 분명 세련돼 보일 거다모[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev062401_MSG1004",
+      "style": 1,
+      "name": "지금만 특별 가격, 1000000G에 줄 테니까\n꼭 사 줬으면 좋겠다모![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev062401_MSG2001",
+      "style": 1,
+      "name": "꿀 떨어지는 신혼 분위기인 두 사람한테\n여러 가지 악성 재고 상품……[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev062401_MSG2002",
+      "style": 1,
+      "name": "이 아니라…… 아껴 둔 비장의 상품을\n팔아 치우고자 니오에게 영업 중이다모![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev062401_MSG2003",
+      "style": 1,
+      "name": "하지만 그 녀석, 포포가 쓸데없는 지출은\n하지 말랬다면서 도무지 사질 않는다모[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev062401_MSG2004",
+      "style": 1,
+      "name": "후모~! 좋은 봉이었는데\n성가신 절약가랑 결혼해 버렸다모[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev062401_MSG2005",
+      "style": 1,
+      "name": "정말이지, 쿠타가 넘겨주는 상품은\n자꾸만 재고가 남아서 곤란하다모!\n상인으로서의 안목이 글러 먹었다모![ST:wait ]"
+    }
+  ]
+}

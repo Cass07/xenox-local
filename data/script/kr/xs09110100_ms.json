@@ -1,0 +1,276 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs09110100_MSG0001",
+      "style": 0,
+      "name": "으…… 으윽……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs09110100_MSG0002",
+      "style": 0,
+      "name": "정신이 들었구나[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs09110100_MSG0003",
+      "style": 0,
+      "name": "더그냐……\n여기는, 라이프?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs09110100_MSG0004",
+      "style": 0,
+      "name": "NLA다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs09110100_MSG0005",
+      "style": 0,
+      "name": "네 B.B.의 기능이 정지되기 전에 구조했어\n살아 있는 몸이 아니라 유감이겠네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs09110100_MSG0006",
+      "style": 0,
+      "name": "그렇군……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs09110100_MSG0007",
+      "style": 0,
+      "name": "더그, 나는……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs09110100_MSG0008",
+      "style": 0,
+      "name": "가만히 있어, 지금은 쉬라고[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs09110100_MSG0009",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "xs09110100_MSG0010",
+      "style": 0,
+      "name": "왔냐[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs09110100_MSG0011",
+      "style": 0,
+      "name": "더그, 당신도 와 있었구나[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs09110100_MSG0012",
+      "style": 0,
+      "name": "저기, 라오 씨는요?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs09110100_MSG0013",
+      "style": 0,
+      "name": "치료는 잘 끝났다고 해[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs09110100_MSG0014",
+      "style": 0,
+      "name": "괜찮다면 얼굴이라도 보러 가 줘[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs09110100_MSG0015",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs09110100_MSG0016",
+      "style": 0,
+      "name": "더그…… 하고 싶은 말이 있어\n시간 괜찮아?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs09110100_MSG0017",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs09110100_MSG0018",
+      "style": 0,
+      "name": "나는 라오에게 의혹을 품고 있어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs09110100_MSG0019",
+      "style": 0,
+      "name": "유감스럽게도……\n그 의혹은 확신에 가까워지고 있지[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs09110100_MSG0020",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "xs09110100_MSG0021",
+      "style": 0,
+      "name": "우리는 그의 제안에 따라\n그 기체, 위터를 확보했어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs09110100_MSG0022",
+      "style": 0,
+      "name": "그로우스가 가지려고 했지만\n난항을 겪던 기체를 말이야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs09110100_MSG0023",
+      "style": 0,
+      "name": "그리고 그로우스는……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs09110100_MSG0024",
+      "style": 0,
+      "name": "어디에 보관했는지도 알 수 없었을 위터를\n손쉽게 탈환하는 데 성공했어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs09110100_MSG0025",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "xs09110100_MSG0026",
+      "style": 0,
+      "name": "그리고 이번에도 그의 정보에 따라\n라이프 포인트로 향했더니[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs09110100_MSG0027",
+      "style": 0,
+      "name": "그로우스의 부대가 매복하고 있었지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs09110100_MSG0028",
+      "style": 0,
+      "name": "라오, 그는 아마도……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs09110100_MSG0029",
+      "style": 0,
+      "name": "넌 어떻게 생각하는데?\n역시 의심하고 있나?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs09110100_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 31,
+      "label": "xs09110100_SEL0011",
+      "style": 3,
+      "name": "천천히 끄덕인다"
+    },
+    {
+      "$id": 32,
+      "label": "xs09110100_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 33,
+      "label": "xs09110100_SEL0021",
+      "style": 3,
+      "name": "고개를 크게 좌우로 흔든다"
+    },
+    {
+      "$id": 34,
+      "label": "xs09110100_MSG0030",
+      "style": 0,
+      "name": "그렇다고 해도 지금까지 너희를\n도와준 것도 사실이잖아?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs09110100_MSG0031",
+      "style": 0,
+      "name": "무언가 이유가 있는 거라면 난 그걸 듣고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs09110100_MSG0032",
+      "style": 0,
+      "name": "녀석의 입으로 직접……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs09110100_MSG0033",
+      "style": 0,
+      "name": "나도 동감이야[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs09110100_MSG0034",
+      "style": 0,
+      "name": "그렇군, 이거 고마운걸[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs09110100_MSG0035",
+      "style": 0,
+      "name": "녀석은 외계인을 원망하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs09110100_MSG0036",
+      "style": 0,
+      "name": "지구인을 팔아먹을 녀석이 아니야\n믿어 줘[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs09110100_MSG0037",
+      "style": 0,
+      "name": "알았어\n당신을 믿을게[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs09110100_MSG0038",
+      "style": 0,
+      "name": "그리고…… 당신이 믿고 있는 사람도[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs09110100_MSG0039",
+      "style": 0,
+      "name": "고맙다, 정말 고마워[ST:wait ]"
+    }
+  ]
+}

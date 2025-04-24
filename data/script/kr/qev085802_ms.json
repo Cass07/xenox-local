@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085802_MSG0001",
+      "style": 0,
+      "name": "이걸로 활동을 재개할 수 있게 됐어, 고마워![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085802_MSG0002",
+      "style": 0,
+      "name": "덕분에 살았습니다\n라오 리더 대신에 감사드립니다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085802_MSG0003",
+      "style": 0,
+      "name": "우리도 임무를 완수했을 뿐이야, 신경 쓰지 마[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085802_MSG0004",
+      "style": 0,
+      "name": "그건 그렇고 라오 씨\n정말 어디로 간 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085802_MSG0005",
+      "style": 0,
+      "name": "내 말이, 대체 언제쯤에나\n돌아올 생각인 건지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085802_MSG0006",
+      "style": 0,
+      "name": "우리에게 성장의 기회를 주려는 거야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085802_MSG0007",
+      "style": 0,
+      "name": "정말 그럴까요?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085802_MSG0008",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "qev085802_MSG0009",
+      "style": 0,
+      "name": "그, 그런 눈으로 보지 마세요\n저도 라오 씨를 믿고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085802_MSG0010",
+      "style": 0,
+      "name": "하지만 보급 준비도 잊어버리다니\n너무하지 않나요?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085802_MSG0011",
+      "style": 0,
+      "name": "아, 그건 저희의 실수입니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085802_MSG0012",
+      "style": 0,
+      "name": "그 사람이 방해되는 건 내버려두고\n단독 행동을 하는 건……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085802_MSG0013",
+      "style": 0,
+      "name": "옛날부터 자주 있던 일이니까요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085802_MSG0014",
+      "style": 0,
+      "name": "옛날부터?\n당신은 혹시……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085802_MSG0015",
+      "style": 0,
+      "name": "자이덴이라고 합니다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085802_MSG0016",
+      "style": 0,
+      "name": "지구에 있을 때부터\n라오 씨와 함께 일을 했습니다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085802_MSG0017",
+      "style": 0,
+      "name": "애초에 저 같은 사람이\n지구종 범이민 계획에 참가할 수 있었던 건……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085802_MSG0018",
+      "style": 0,
+      "name": "라오 씨의 추천이 있었기 때문입니다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085802_MSG0019",
+      "style": 0,
+      "name": "저와 몬도 씨도 전에\n프런티어넷 개발을 했어서[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085802_MSG0020",
+      "style": 0,
+      "name": "라오 씨를 동경했어요![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085802_MSG0021",
+      "style": 0,
+      "name": "아, 저는 신고예요\n이쪽은 몬도 씨고요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085802_MSG0022",
+      "style": 0,
+      "name": "여러분, 라오 씨를 존경하고 계시는군요\n아까는 실례되는 말을 해서 죄송했어요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085802_MSG0023",
+      "style": 0,
+      "name": "그런데 보급 물자는 저걸로 충분해?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085802_MSG0024",
+      "style": 0,
+      "name": "충분하다 못해 넘쳐 납니다, 다만……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085802_MSG0025",
+      "style": 0,
+      "name": "다만, 뭔가모?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085802_MSG0026",
+      "style": 0,
+      "name": "그게, 다음 데이터 프로브를 설치할 장소에\n원시 생물이 밀집해 있는데……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085802_MSG0027",
+      "style": 0,
+      "name": "저희가 평소에 전투는\n라오 씨에게 많이 의지하거든요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085802_MSG0028",
+      "style": 0,
+      "name": "그런 거라면\n우리가 에스코트해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085802_MSG0029",
+      "style": 0,
+      "name": "정말인가요? 소문의 엘마 팀이\n이끌어 준다면 든든하죠[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085802_MSG0030",
+      "style": 0,
+      "name": "잘 부탁드립니다![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085802_MSG0031",
+      "style": 0,
+      "name": "흐으음, 이 두 사람\n뭔가 통하는 게 있는 것 같다모[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085802_MSG0032",
+      "style": 1,
+      "name": "한심한 일이지만, 라오 씨 없이는\n이 주변의 원시 생물에게 당해 낼 수 없습니다……\n여러분이 와 주셔서 정말 다행이에요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085802_MSG0033",
+      "style": 1,
+      "name": "원시 생물들에 관한 자세한 이야기는\n도착한 후에 말씀드릴 테니[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085802_MSG0034",
+      "style": 1,
+      "name": "남쪽에 있는 포인트로\n부디 잘 이끌어 주시길 부탁드립니다[ST:wait ]"
+    }
+  ]
+}

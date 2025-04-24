@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev027106_MSG0001",
+      "style": 1,
+      "name": "노폰의, 노폰에 의한, 노폰을 위한\n정치를 목표로 열심히 할 거다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev027106_MSG0002",
+      "style": 1,
+      "name": "모두 코포포에게 투표해서 NLA를\n노폰이 살기 좋은 도시로 만들자모~[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev027106_MSG0003",
+      "style": 1,
+      "name": "고위 인사에게 뇌물을 잔뜩 먹였다모!\n다른 후보자는 코포포의 상대가 되지 않는다모~![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev027106_MSG0004",
+      "style": 1,
+      "name": "반~드시 이 선거에 당선돼서\n노폰만이 이익을 얻는 도시로\nNLA를 바꾸고 말겠다모~![ST:wait ]"
+    }
+  ]
+}

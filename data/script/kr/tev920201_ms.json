@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev920201_MSG0010",
+      "style": 1,
+      "name": "너희를 위해서\n숍과 암즈 컴퍼니 단말기를\n신 흰고래에 가져다 놨엉![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev920201_MSG0020",
+      "style": 1,
+      "name": "프런티어넷을 재현한\n리소스 회수 시스템도 만들어 뒀으니까\n그쪽도 활용해 줘![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev920201_MSG0025",
+      "style": 1,
+      "name": "아, 맞다, 맞다!\n지금이라면 돌 보험이 만료되어도\n무료로 수리해 준다고 행! 잘됐당![ST:wait ]"
+    }
+  ]
+}

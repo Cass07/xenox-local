@@ -1,0 +1,564 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092004_MSG0080",
+      "style": 1,
+      "name": "自分に責任があるから\nユニオンに関係なく働かせてって？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092004_MSG0081",
+      "style": 1,
+      "name": "[ST:wide ]―ふん\n相変わらずのいい子ちゃんね　アクセナ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092004_MSG0001",
+      "style": 0,
+      "name": "ミカ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092004_MSG0002",
+      "style": 0,
+      "name": "あら　アクセナ　こんな所でどうしたの？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092004_MSG0003",
+      "style": 0,
+      "name": "そっちこそ　どうしてこんなとこに？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092004_MSG0004",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092004_MSG0005",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092004_MSG0006",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092004_MSG0007",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092004_MSG0008",
+      "style": 0,
+      "name": "また武器が爆発したんだって？\nケガはなかった？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092004_MSG0009",
+      "style": 0,
+      "name": "うん　幸いにも[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092004_MSG0010",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "qev092004_MSG0011",
+      "style": 0,
+      "name": "そっか　ミカだったんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092004_MSG0012",
+      "style": 0,
+      "name": "[ST:wide ]―ごめんね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092004_MSG0013",
+      "style": 0,
+      "name": "もう少し安全なタイミングで\nするつもりだったんだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092004_MSG0014",
+      "style": 0,
+      "name": "バレると思って焦っちゃったら　つい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092004_MSG0015",
+      "style": 0,
+      "name": "どうしてあんなことを？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092004_MSG0016",
+      "style": 0,
+      "name": "憎いから[ST:wide ]―　に決まってるでしょう[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092004_MSG0017",
+      "style": 0,
+      "name": "カンバーのドールを壊しちゃったことなら\n何度でも謝るよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092004_MSG0018",
+      "style": 0,
+      "name": "何度でも何度でも[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092004_MSG0019",
+      "style": 0,
+      "name": "[ST:wide ]―そういうところが気に食わないのよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092004_MSG0020",
+      "style": 0,
+      "name": "私は地球にいた頃からカンバーの友達だった[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092004_MSG0021",
+      "style": 0,
+      "name": "なのに　あなたはこの星に来てから\nたった２ヶ月でカンバーの心を掴みかけてる[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092004_MSG0022",
+      "style": 0,
+      "name": "私が陰険で奥手なのがいけないのは\nわかってるつもり　でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092004_MSG0023",
+      "style": 0,
+      "name": "積極的なあなたを\n羨望しないわけがないじゃない[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092004_MSG0024",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092004_MSG0025",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092004_MSG0026",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "qev092004_MSG0027",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "qev092004_MSG0028",
+      "style": 0,
+      "name": "[ST:wide ]―キミ　ちょっと質問なんだけど\nミカは何で怒ってるの？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092004_JNK0010",
+      "style": 4,
+      "name": "教える"
+    },
+    {
+      "$id": 32,
+      "label": "qev092004_SEL0011",
+      "style": 3,
+      "name": "カンバーがアクセナに取られてしまうことを\n不安に思っていると答える"
+    },
+    {
+      "$id": 33,
+      "label": "qev092004_JNK0020",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 34,
+      "label": "qev092004_SEL0021",
+      "style": 3,
+      "name": "本気で言っているのかと尋ね返す"
+    },
+    {
+      "$id": 35,
+      "label": "qev092004_MSG0029",
+      "style": 0,
+      "name": "おお！　なるほど！\nなるほど！　なるほどぉ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092004_MSG0030",
+      "style": 0,
+      "name": "ミカってバカじゃないの？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092004_MSG0031",
+      "style": 0,
+      "name": "あ　あんたねぇ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092004_MSG0032",
+      "style": 0,
+      "name": "毎日のようにカンバーの元にやって来て\nおしゃべりしてたじゃない[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092004_MSG0033",
+      "style": 0,
+      "name": "カンバーもまんざらじゃないみたいで\n楽しそうだったし[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092004_MSG0034",
+      "style": 0,
+      "name": "それにカンバーの気を引くために\n修理用の素材を苦労して集めたりして[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092004_MSG0035",
+      "style": 0,
+      "name": "献身的なところまで見せちゃってさ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092004_MSG0036",
+      "style": 0,
+      "name": "それなのにしらばっくれるってわけ！？[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092004_MSG0037",
+      "style": 0,
+      "name": "はぁ～　思い悩んじゃって損した気分[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092004_MSG0038",
+      "style": 0,
+      "name": "それはこっちのセリフよ！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092004_MSG0039",
+      "style": 0,
+      "name": "えっと[ST:wide ]―　あたしは本気で言ってるけど\n何か問題が？[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092004_MSG0040",
+      "style": 0,
+      "name": "あるわよ！　アクセナって実は相当鈍いの！？[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092004_MSG0041",
+      "style": 0,
+      "name": "毎日のようにカンバーの元にやって来て\nおしゃべりしてたじゃない[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092004_MSG0042",
+      "style": 0,
+      "name": "カンバーもまんざらじゃないみたいで\n楽しそうだったし[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092004_MSG0043",
+      "style": 0,
+      "name": "それにカンバーの気を引くために\n修理用の素材を苦労して集めたりして[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092004_MSG0044",
+      "style": 0,
+      "name": "献身的なところまで見せちゃってさ[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092004_MSG0045",
+      "style": 0,
+      "name": "アクセナって\nカンバーのこと好きなんでしょ！？[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092004_MSG0046",
+      "style": 0,
+      "name": "そういうことかぁ\n確かにあたしって鈍感だ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092004_MSG0047",
+      "style": 0,
+      "name": "カンバーのこと　認めるのね？[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092004_MSG0048",
+      "style": 0,
+      "name": "[ST:wide ]―ううん[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092004_MSG0049",
+      "style": 0,
+      "name": "ミカ　あたしはドールが大好きなんだよ[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092004_MSG0050",
+      "style": 0,
+      "name": "足繁くカンバーのところに通ってたのは\nカンバーとミカのドールを見たかったからだし[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092004_MSG0051",
+      "style": 0,
+      "name": "それに今回のは壊れたドールを\nすぐにでも修理してあげたかっただけだよ[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092004_MSG0052",
+      "style": 0,
+      "name": "え[ST:wide ]―　それだけの理由？[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092004_MSG0053",
+      "style": 0,
+      "name": "あたしにとっては恋人よりもドールなの！[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092004_MSG0054",
+      "style": 0,
+      "name": "キミも頭の中がお花畑のミカに\n何か言ってやってよ[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092004_JNK0030",
+      "style": 4,
+      "name": "反省を促す"
+    },
+    {
+      "$id": 62,
+      "label": "qev092004_SEL0031",
+      "style": 3,
+      "name": "すべての原因はミカにあったと指摘し\n反省を促す"
+    },
+    {
+      "$id": 63,
+      "label": "qev092004_JNK0040",
+      "style": 4,
+      "name": "賛同する"
+    },
+    {
+      "$id": 64,
+      "label": "qev092004_SEL0041",
+      "style": 3,
+      "name": "恋人よりもドールという考え方に\n大いに賛同する"
+    },
+    {
+      "$id": 65,
+      "label": "qev092004_JNK0050",
+      "style": 4,
+      "name": "指摘する"
+    },
+    {
+      "$id": 66,
+      "label": "qev092004_SEL0051",
+      "style": 3,
+      "name": "アクセナの頭の中の方がお花畑だと指摘する"
+    },
+    {
+      "$id": 67,
+      "label": "qev092004_MSG0055",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev092004_MSG0056",
+      "style": 0,
+      "name": "私の勘違いだったってこと[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev092004_MSG0057",
+      "style": 0,
+      "name": "うん[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev092004_MSG0058",
+      "style": 0,
+      "name": "アクセナ　ごめんなさい\nそして　あなたにも迷惑を掛けたわね[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092004_MSG0059",
+      "style": 0,
+      "name": "そんなに気にしなくていいよ\n大事故にはならなかったんだし[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092004_MSG0060",
+      "style": 0,
+      "name": "本当に反省してるわ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092004_MSG0061",
+      "style": 0,
+      "name": "おっ　キミもわかってくれるかぁ[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092004_MSG0062",
+      "style": 0,
+      "name": "ドールって何よりもカッコイイよね！\nあの手に抱かれたら昇天してしまうよね！[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092004_MSG0063",
+      "style": 0,
+      "name": "握りつぶされて圧死するの間違いでしょ[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092004_MSG0064",
+      "style": 0,
+      "name": "[ST:wide ]―ともかく　あなた達がドールバカ\nってことはよくわかったわ[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092004_MSG0065",
+      "style": 0,
+      "name": "私も勘違いして先走って暴走してただけの\n恋愛バカだってこともね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092004_MSG0066",
+      "style": 0,
+      "name": "今回の件　本当にごめんなさい\n反省してるわ[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092004_MSG0067",
+      "style": 0,
+      "name": "ええっ　ひどくない？[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092004_MSG0068",
+      "style": 0,
+      "name": "確かにドールで妄想する時もある[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092004_MSG0069",
+      "style": 0,
+      "name": "だけど　ジェラシーが積もり積もって\n爆発物を仕掛ける人間と[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092004_MSG0070",
+      "style": 0,
+      "name": "ドールを愛でる人間を比べたら\nあたしのがマシでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092004_MSG0071",
+      "style": 0,
+      "name": "はぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092004_MSG0072",
+      "style": 0,
+      "name": "[ST:wide ]―ともかくあなたがドールバカってことは\nよくわかったわ[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev092004_MSG0073",
+      "style": 0,
+      "name": "私も勘違いして先走って暴走してただけの\n恋愛バカだってこともね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev092004_MSG0074",
+      "style": 0,
+      "name": "今回の件　本当にごめんなさい\n反省してるわ[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev092004_MSG0075",
+      "style": 0,
+      "name": "反省してるなら　お詫びにあたしを\nミカのドールに乗せてほしいかなぁ？[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev092004_MSG0076",
+      "style": 0,
+      "name": "[ST:wide ]―それだけで許してくれるの？[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev092004_MSG0077",
+      "style": 0,
+      "name": "あたしにとっては十分だよ[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev092004_MSG0078",
+      "style": 0,
+      "name": "わかったわ\nでも　ぶつけないでよね[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev092004_MSG0079",
+      "style": 0,
+      "name": "はーい！[ST:wait ]"
+    }
+  ]
+}

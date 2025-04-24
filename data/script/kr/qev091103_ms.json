@@ -1,0 +1,360 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091103_MSG0001",
+      "style": 0,
+      "name": "포그, 괜찮냐!?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091103_MSG0002",
+      "style": 0,
+      "name": "형……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091103_MSG0003",
+      "style": 0,
+      "name": "으……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091103_MSG0004",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091103_MSG0005",
+      "style": 0,
+      "name": "난 간신히 살았어……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091103_MSG0006",
+      "style": 0,
+      "name": "12차 공세까지는, 적을 막아 냈지만……\n더는 버틸 수가……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091103_MSG0007",
+      "style": 0,
+      "name": "지금까지 용케 잘 싸웠네……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091103_MSG0008",
+      "style": 0,
+      "name": "NLA를 지키기 위해서야, 형……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091103_MSG0009",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091103_MSG0010",
+      "style": 0,
+      "name": "나머지는 우리가 어떻게든 할게\n넌 당분간 쉬고 있어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091103_MSG0011",
+      "style": 0,
+      "name": "……응[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091103_MSG0012",
+      "style": 0,
+      "name": "준비는 됐지? 무슨 수를 써서라도 NLA를 지키자![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091103_JNK0010",
+      "style": 4,
+      "name": "예"
+    },
+    {
+      "$id": 14,
+      "label": "qev091103_SEL0011",
+      "style": 3,
+      "name": "준비 완료"
+    },
+    {
+      "$id": 15,
+      "label": "qev091103_JNK0020",
+      "style": 4,
+      "name": "아니요"
+    },
+    {
+      "$id": 16,
+      "label": "qev091103_SEL0021",
+      "style": 3,
+      "name": "아직 준비가 끝나지 않았다"
+    },
+    {
+      "$id": 17,
+      "label": "qev091103_MSG0013",
+      "style": 0,
+      "name": "적의 공세가 잦아든 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091103_MSG0014",
+      "style": 0,
+      "name": "포그, 안심해라\n곧 지원군이 올 거야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091103_MSG0015",
+      "style": 0,
+      "name": "두 사람 다 고마워……\n구하러 와 줘서, 기뻤어……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091103_MSG0016",
+      "style": 0,
+      "name": "포그…… 미안하다\n지난 몇 년간 너를 오해하고 있었어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091103_MSG0017",
+      "style": 0,
+      "name": "……어째서 갑자기 구하러 와 준 거야?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091103_MSG0018",
+      "style": 0,
+      "name": "너는 지금 내게 남은 유일한 가족이니까[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091103_MSG0019",
+      "style": 0,
+      "name": "가족은 반드시 지켜야만 하는 존재야\n네가 NLA를 지킨 것처럼 말이지[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091103_MSG0020",
+      "style": 0,
+      "name": "……형, 내 이야기 들어 줄래?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091103_MSG0021",
+      "style": 0,
+      "name": "나중에 들을게, 일단 지금은 좀 쉬어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091103_MSG0022",
+      "style": 0,
+      "name": "아니야, 지금 말하고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091103_MSG0023",
+      "style": 0,
+      "name": "아버지는…… 연로한 자신보다\n젊은이가 흰고래에 타야 한다고 말씀하셨어[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091103_MSG0024",
+      "style": 0,
+      "name": "본인이 희생되는 걸 개의치 않으셨지[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091103_MSG0025",
+      "style": 0,
+      "name": "……그랬겠지, 당연히 그렇고말고[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091103_MSG0026",
+      "style": 0,
+      "name": "난 그런 생각은 해 본 적도 없어[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091103_MSG0027",
+      "style": 0,
+      "name": "자기 목숨을 내던져서\n다른 사람을 지키는 방법이 있다니[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091103_MSG0028",
+      "style": 0,
+      "name": "난 평소처럼 싸움에서 활약하는 걸로\n사람들을 지킬 생각뿐이었는데[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091103_MSG0029",
+      "style": 0,
+      "name": "……형[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091103_MSG0030",
+      "style": 0,
+      "name": "오늘 네 모습을 보고 알게 됐어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091103_MSG0031",
+      "style": 0,
+      "name": "아버지도 분명 네가 그랬듯이\n사력을 다해 도시를 지켰을 거야[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091103_MSG0032",
+      "style": 0,
+      "name": "넌 박정한 녀석 같은 게 아니었어\n아버지처럼 뜨거운 마음을 갖고 있다고……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091103_MSG0033",
+      "style": 0,
+      "name": "지금까지 미안했다, 포그[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091103_MSG0034",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091103_MSG0036",
+      "style": 0,
+      "name": "아니야, 괜찮아\n지구 시절 같은 관계로 돌아갈 수 있다면 충분해[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091103_MSG0037",
+      "style": 0,
+      "name": "그래, 옛날처럼 신나게 놀자고\n임무도 어떻게든 완료했으니까 말이야[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091103_MSG0038",
+      "style": 0,
+      "name": "괜찮네, 차가운 우유를 단숨에 들이켜고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091103_MSG0039",
+      "style": 0,
+      "name": "여전하구나……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091103_MSG0040",
+      "style": 0,
+      "name": "너도 당연히 올 거지?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091103_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 45,
+      "label": "qev091103_SEL0031",
+      "style": 3,
+      "name": "물론 가겠다고 말한다"
+    },
+    {
+      "$id": 46,
+      "label": "qev091103_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 47,
+      "label": "qev091103_SEL0041",
+      "style": 3,
+      "name": "형제끼리 즐겁게 놀라며 사양한다"
+    },
+    {
+      "$id": 48,
+      "label": "qev091103_MSG0041",
+      "style": 0,
+      "name": "좋아, 오늘 밤은 아침까지 밤새워 마시자고\n지난 수년간 있었던 일을 전부 이야기해야지[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091103_MSG0042",
+      "style": 0,
+      "name": "그런 소리 하지 마, 너는 이미\n우리 가족이나 마찬가지니까[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091103_MSG0043",
+      "style": 0,
+      "name": "……맞아요, 형이 하는 말은[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091103_MSG0044",
+      "style": 0,
+      "name": "의욕만 넘쳐서 잘 알아들을 수가 없으니까\n저 대신 이야기를 들어 주세요[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091103_MSG0045",
+      "style": 0,
+      "name": "포그, 너 진짜~![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091103_MSG0046",
+      "style": 1,
+      "name": "조금만…… 조금만 더 버텨!\n형……![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091103_MSG0047",
+      "style": 1,
+      "name": "반짝반짝…… 빛나서…………\n적의 모습이………… 윽……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091103_MSG0048",
+      "style": 1,
+      "name": "[ST:playername ]의 환영……?\n부탁드릴게요…… 남은 적을……\n조금만…… 쓰러뜨려 주세요…………[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091103_MSG0049",
+      "style": 1,
+      "name": "별이………… 아니, 그게 아니야\n……저건 ……예상 밖의 적이에요……![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091103_MSG0050",
+      "style": 1,
+      "name": "형, [ST:playername ]!\n이대로는 13차 공세를 막을 수 없어요……\n어서 적을 제거해 주세요……![ST:wait ]"
+    }
+  ]
+}

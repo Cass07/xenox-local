@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33190100_MSG0010",
+      "style": 0,
+      "name": "이런 곳에 불시착했었군요\n찾아서 다행이에요……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33190100_MSG0020",
+      "style": 0,
+      "name": "이제 조사 범위를 넓힐 수 있겠어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33190100_MSG0030",
+      "style": 0,
+      "name": "주변을 빠짐없이 수색해서\n한시라도 빨리 모두와 합류하자[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087404_MSG0001",
+      "style": 0,
+      "name": "助かりました\nこれでドールの装甲を修復できます[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087404_MSG0002",
+      "style": 0,
+      "name": "それでヴァンダム司令は？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087404_MSG0003",
+      "style": 0,
+      "name": "それが　もうここには[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087404_MSG0004",
+      "style": 0,
+      "name": "ええ～～　どこか行っちゃったんですか！？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087404_MSG0005",
+      "style": 0,
+      "name": "はい[ST:wide ]―\n他にもやることがある　忙しいと言って[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087404_MSG0006",
+      "style": 0,
+      "name": "全く　せっかくタツが\nマテリアルを集めてきたんですから[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087404_MSG0007",
+      "style": 0,
+      "name": "思いっきりほめて欲しかったですも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087404_MSG0008",
+      "style": 0,
+      "name": "はあ　すみません[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087404_MSG0009",
+      "style": 0,
+      "name": "あなたの責任ではないわ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087404_MSG0010",
+      "style": 0,
+      "name": "あ　それと司令からの伝言がありました[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087404_MSG0011",
+      "style": 0,
+      "name": "夜の仕事姿も見せてやるから見つけてみろ\n[ST:wide ]―以上です！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087404_MSG0012",
+      "style": 0,
+      "name": "今度は夜～～[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087404_MSG0013",
+      "style": 0,
+      "name": "おうち帰って　寝てたいですも[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087404_MSG0014",
+      "style": 0,
+      "name": "そう言わないで\nここまできたら　付き合ってあげましょう[ST:wait ]"
+    }
+  ]
+}

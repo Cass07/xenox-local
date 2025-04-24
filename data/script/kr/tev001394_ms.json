@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001394_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ] 씨, 안녕하세요\n이런 곳에서 만나다니[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001394_JNK0010",
+      "style": 4,
+      "name": "록에 대해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev001394_SEL0011",
+      "style": 3,
+      "name": "록이 어디에 있는지 묻는다"
+    },
+    {
+      "$id": 4,
+      "label": "tev001394_JNK0020",
+      "style": 4,
+      "name": "고양이에 대해 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001394_SEL0021",
+      "style": 3,
+      "name": "고양이를 보고 있었느냐고 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001394_MSG0002",
+      "style": 1,
+      "name": "록은 지금 열심히 일하는 중이에요\n그래서 저 혼자 있어요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001394_MSG0003",
+      "style": 1,
+      "name": "상업 에어리어에서 산책하다가\n우연히 고양이를 발견해서\n뒤를 쫓아와 봤어요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001394_MSG0004",
+      "style": 1,
+      "name": "그랬더니 이런 곳까지\n와 버렸지 뭐예요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001394_MSG0005",
+      "style": 1,
+      "name": "네, 맞아요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001394_MSG0006",
+      "style": 1,
+      "name": "상업 에어리어에서 산책하다가\n우연히 고양이를 발견했는데……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001394_MSG0007",
+      "style": 1,
+      "name": "너무 귀여워서\n뒤를 쫓아와 봤어요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001394_MSG0008",
+      "style": 1,
+      "name": "그랬더니 이런 곳까지\n와 버렸지 뭐예요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001394_MSG0009",
+      "style": 1,
+      "name": "이 고양이 잘 만들어졌네요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001394_MSG0010",
+      "style": 1,
+      "name": "린 씨에게 만들어진 고양이라고 들었을 때는\n정말 놀랐어요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001394_MSG0011",
+      "style": 1,
+      "name": "보거나 만지는 정도로는 판별이 안 되고\n변덕스러운 점은 마치 진짜 고양이 같아요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001394_JNK0030",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 17,
+      "label": "tev001394_SEL0031",
+      "style": 3,
+      "name": "세리카의 고향에도\n고양이가 있었는지 묻는다"
+    },
+    {
+      "$id": 18,
+      "label": "tev001394_JNK0040",
+      "style": 4,
+      "name": "자랑"
+    },
+    {
+      "$id": 19,
+      "label": "tev001394_SEL0041",
+      "style": 3,
+      "name": "지구인의 지혜의 결정체라고 우쭐댄다"
+    },
+    {
+      "$id": 20,
+      "label": "tev001394_MSG0012",
+      "style": 1,
+      "name": "저와 지구인분들의 모습이 조금 다른 것처럼\n고양이도 모습은 조금 달랐지만 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001394_MSG0013",
+      "style": 1,
+      "name": "저희 별과 지구는 멀리 떨어져 있는\n전혀 다른 별인데……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001394_MSG0014",
+      "style": 1,
+      "name": "저희 같은 존재가 있고\n고양이 같은 귀여운 동물이 있다니[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001394_MSG0015",
+      "style": 1,
+      "name": "묘하지만……\n멋진 우연이죠?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001394_MSG0016",
+      "style": 1,
+      "name": "그렇네요~[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001394_MSG0017",
+      "style": 1,
+      "name": "이런 데에 기술을 사용하는\n지구인분들의 감성에 감탄했어요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001394_MSG0018",
+      "style": 1,
+      "name": "그로우스라면 분명 병기 개발에만\n기술을 쏟아부을 테니까요……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001394_MSG0019",
+      "style": 1,
+      "name": "마음의 여유…… 유머를 잊지 않는 점이\n많은 외계인이 지구인분들을 받아들인\n이유인지도 모르겠네요[ST:wait ]"
+    }
+  ]
+}

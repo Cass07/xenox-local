@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086505_MSG0001",
+      "style": 0,
+      "name": "어이어이, 못 보던 얼굴의 노폰인데\n어디 애송이냐모?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086505_MSG0002",
+      "style": 0,
+      "name": "타츠다모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086505_MSG0003",
+      "style": 0,
+      "name": "타츠는 지구인의 친구이자\n친선 대사로서 찾아왔다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086505_MSG0004",
+      "style": 0,
+      "name": "친선 대사라고?\n그건 맛있는 거냐모?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086505_MSG0005",
+      "style": 0,
+      "name": "교양 없는 소리 하지 마라모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086505_MSG0006",
+      "style": 0,
+      "name": "당신이 이 카라반의 리더야?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086505_MSG0007",
+      "style": 0,
+      "name": "그래, 내가 바로 도리안 카라반의 멋진 형님\n츠무지 님이시다모[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086505_MSG0008",
+      "style": 0,
+      "name": "츠무지 형님[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086505_MSG0009",
+      "style": 0,
+      "name": "뉴 로스앤젤레스 임시 정부와\n도리안 카라반이……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086505_MSG0010",
+      "style": 0,
+      "name": "우호 조약을\n체결했으면 한다모![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086505_MSG0011",
+      "style": 0,
+      "name": "우, 우호 조약 체결이라고모?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086505_MSG0012",
+      "style": 0,
+      "name": "말하자면 지구인의 도시 NLA와\n사이좋게 지내자는 말이다모[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086505_MSG0013",
+      "style": 0,
+      "name": "그, 그 정도는 알고 있다모\n난 교양 있는 노폰이다모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086505_MSG0014",
+      "style": 0,
+      "name": "저기…… 그럼\n우호 조약을 맺어 주시겠나요?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086505_MSG0015",
+      "style": 0,
+      "name": "그건 너희들의 마음가짐에 달렸다모[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086505_MSG0016",
+      "style": 0,
+      "name": "마음가짐 말인가모?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086505_MSG0017",
+      "style": 0,
+      "name": "그렇다![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086505_MSG0018",
+      "style": 0,
+      "name": "말하자면 우리 도리안 카라반과\n의형제가 되고 싶다는 거 아닌가모?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086505_MSG0019",
+      "style": 0,
+      "name": "그럼 먼저 계약금을 갖고 와라모[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086505_MSG0020",
+      "style": 0,
+      "name": "계약금!?\n얼마가 필요하냐모?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086505_MSG0021",
+      "style": 0,
+      "name": "어디 보자……\n대충 이 정도다모[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086505_MSG0022",
+      "style": 0,
+      "name": "네에에? 그렇게나!?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086505_JNK0010",
+      "style": 4,
+      "name": "거부"
+    },
+    {
+      "$id": 24,
+      "label": "qev086505_SEL0011",
+      "style": 3,
+      "name": "30000G는 비싸다며 거부한다"
+    },
+    {
+      "$id": 25,
+      "label": "qev086505_JNK0020",
+      "style": 4,
+      "name": "감탄"
+    },
+    {
+      "$id": 26,
+      "label": "qev086505_SEL0021",
+      "style": 3,
+      "name": "역시 교역 종족이라며 납득한다"
+    },
+    {
+      "$id": 27,
+      "label": "qev086505_MSG0023",
+      "style": 0,
+      "name": "그래, 조금 더 받아들일 수 있을 만한 조건을\n제시해 주면 고맙겠어[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086505_MSG0024",
+      "style": 0,
+      "name": "그건 들어줄 수 없는 이야기다모\n우리 상인의 자긍심을 걸고 양보할 수 없다모[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086505_MSG0025",
+      "style": 0,
+      "name": "모든 행위는……\n상업적 가치로 환산한다는 말이구나[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086505_MSG0026",
+      "style": 0,
+      "name": "어떤 의미로는 공평하고 공정한 자세야[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086505_MSG0027",
+      "style": 0,
+      "name": "그걸 이해하고 있다면\n복잡한 이야기는 필요 없다모[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086505_MSG0028",
+      "style": 0,
+      "name": "정말 우리와 사이좋게 지내고 싶은 거라면\n이것도 싼 편이다모[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086505_MSG0029",
+      "style": 0,
+      "name": "으으음~ 임무 달성을 위해서는 어쩔 수 없다모[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086505_MSG0030",
+      "style": 0,
+      "name": "츠무지 형님, 우리가 계약금을\n준비해 올 때까지 기다려라모![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086505_MSG0031",
+      "style": 0,
+      "name": "그래, 최대한 빨리 부탁한다모[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12040100_MSG0001",
+      "style": 0,
+      "name": "エルマさん　あれを！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12040100_MSG0002",
+      "style": 0,
+      "name": "一足遅かったか！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12040100_MSG0003",
+      "style": 0,
+      "name": "いえ　まだよ\n見て　あの海面を[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12040100_MSG0004",
+      "style": 0,
+      "name": "防御フィールド！？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12040100_MSG0005",
+      "style": 0,
+      "name": "ライフは　人類存続に不可欠なシステム[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12040100_MSG0006",
+      "style": 0,
+      "name": "その中枢を護るための防御フィールドは\nまだ破られていない[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12040100_MSG0007",
+      "style": 0,
+      "name": "ってことは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12040100_MSG0008",
+      "style": 0,
+      "name": "セントラルライフは無事なんですね！[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs12040100_MSG0009",
+      "style": 0,
+      "name": "ええ　でも安心はできない[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12040100_MSG0010",
+      "style": 0,
+      "name": "防御フィールドで敵侵入を防いでも\n稼働限界時間が延びるわけじゃない[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12040100_MSG0011",
+      "style": 0,
+      "name": "急ぐわよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs12040100_MSG0011_02",
+      "style": 0,
+      "name": "人類の未来のため\nグロウスをやっつけちゃいましょう！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs12040100_MSG0011_03",
+      "style": 0,
+      "name": "そうですも！\nけっちょんけっちょんにしてやるですも！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12040100_MSG0012",
+      "style": 0,
+      "name": "頼もしいわね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12040100_MSG0013",
+      "style": 0,
+      "name": "そう　これは[ST:wide ]―\n全ての人の希望を背負った戦い[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12040100_MSG0013_2",
+      "style": 0,
+      "name": "引くことは出来ない[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs12040100_MSG0014",
+      "style": 0,
+      "name": "エルマより　各チームに告げる[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12040100_MSG0015",
+      "style": 0,
+      "name": "これより私のチームがセントラルライフ\n内部に突入　予備システムを起動させる[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs12040100_MSG0016",
+      "style": 0,
+      "name": "ダグ　イリーナ　グイン　ルーは同行して[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12040100_MSG0017",
+      "style": 0,
+      "name": "他のチームは進路確保を最優先\n突入後は拠点防衛に専念[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs12040100_MSG0018",
+      "style": 0,
+      "name": "作戦目的は敵の殲滅ではない\n間違えないで[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs12040100_MSG0019",
+      "style": 0,
+      "name": "チーム・グラシーザ了解！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12040100_MSG0020",
+      "style": 0,
+      "name": "トリシューラ了解！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12040100_MSG0021",
+      "style": 0,
+      "name": "ニンギルス了解！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs12040100_MSG0022",
+      "style": 0,
+      "name": "バルムンク了解！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs12040100_MSG0023",
+      "style": 0,
+      "name": "チーム・ズールト　敵を掃討しつつ\n大佐の進路を確保します！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs12040100_MSG0024",
+      "style": 0,
+      "name": "突入部隊　行くわよ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs12040100_MSG0025",
+      "style": 0,
+      "name": "了解！[ST:wait ]"
+    }
+  ]
+}

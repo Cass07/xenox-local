@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32210100_MSG0010",
+      "style": 0,
+      "name": "바쁘신데 죄송합니다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32210100_MSG0020",
+      "style": 0,
+      "name": "사실은 임무 중에 알게 된 친구가\n아직 오지 않아서요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32210100_MSG0030",
+      "style": 0,
+      "name": "상황을 보러 가 주실 수 없을까요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32210100_MSG0040",
+      "style": 0,
+      "name": "그거 걱정되네요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32210100_MSG0050",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32210100_MSG0060",
+      "style": 0,
+      "name": "제가 가고 싶지만[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32210100_MSG0070",
+      "style": 0,
+      "name": "제 부대는 신 흰고래로 유도하는 임무를 맡아서요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32210100_MSG0075",
+      "style": 0,
+      "name": "갈 수가 없어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32210100_MSG0080",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32210100_MSG0090",
+      "style": 0,
+      "name": "그렇게 할게[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32210100_MSG0100",
+      "style": 0,
+      "name": "그 친구는 어디에 살고 있어?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32210100_MSG0110",
+      "style": 0,
+      "name": "감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32210100_MSG0120",
+      "style": 0,
+      "name": "그녀는 백목의 대륙에 있는\n북미망산 정상에 살고 있어요[ST:wait ]"
+    }
+  ]
+}

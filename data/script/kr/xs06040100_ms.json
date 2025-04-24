@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06040100_MSG0001",
+      "style": 0,
+      "name": "그나저나 정말 맛있었어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06040100_MSG0002",
+      "style": 0,
+      "name": "린은 요리를 잘하는구나[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs06040100_MSG0003",
+      "style": 0,
+      "name": "우리 팀 녀석들도 배웠으면 좋겠네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06040100_MSG0004",
+      "style": 0,
+      "name": "감사합니다![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06040100_MSG0005",
+      "style": 0,
+      "name": "……그런데 갑자기 왜 차를 마시러 온 거야?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs06040100_MSG0006",
+      "style": 0,
+      "name": "당연히 일 이야기를 하러 왔지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs06040100_MSG0007",
+      "style": 0,
+      "name": "어쩐지 제 지식이 필요하다고 하셔서 말입니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs06040100_MSG0008",
+      "style": 0,
+      "name": "이것이 옛말에 이르는 소귀에 경 읽기군요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06040100_MSG0009",
+      "style": 0,
+      "name": "네? 그랬나요?[ST:wait ]"
+    }
+  ]
+}

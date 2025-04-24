@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093001_MSG0010",
+      "style": 0,
+      "name": "오, 안녕\n오랜만이네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093001_MSG0020",
+      "style": 0,
+      "name": "저기…… 안녕하세요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093001_JNK0030",
+      "style": 4,
+      "name": "니르"
+    },
+    {
+      "$id": 4,
+      "label": "qev093001_SEL0040",
+      "style": 3,
+      "name": "니르에게 용건을 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "qev093001_MSG0050",
+      "style": 0,
+      "name": "응? 용건 같은 거 없어\n그냥 우연히 보여서 인사한 거야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093001_MSG0060",
+      "style": 0,
+      "name": "……뭐, 농담이고\n널 만나야겠다 싶어서 말이야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093001_MSG0070",
+      "style": 0,
+      "name": "자세한 이야기는 블레이드 홈에서……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093001_JNK0080",
+      "style": 4,
+      "name": "세리카"
+    },
+    {
+      "$id": 9,
+      "label": "qev093001_SEL0090",
+      "style": 3,
+      "name": "세리카에게 용건을 묻는다"
+    },
+    {
+      "$id": 10,
+      "label": "qev093001_MSG0100",
+      "style": 0,
+      "name": "네, 니르 님께서 당신에게\n간곡히 드릴 말씀이 있다고 해요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093001_MSG0110",
+      "style": 0,
+      "name": "응, 할 말이 뭐냐면……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093001_MSG0120",
+      "style": 0,
+      "name": "아니지…… 그 전에\n너에게 감사 인사부터 해야겠네[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093001_MSG0130",
+      "style": 0,
+      "name": "내 소중하고도 귀여운 동생……\n세리카 크리카를 구해 줬으니 말이야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093001_MSG0140",
+      "style": 0,
+      "name": "진심으로…… 고마워[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093001_MSG0150",
+      "style": 0,
+      "name": "제, 제가 니르 님의 동생이라니\n황송할 따름이에요……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093001_MSG0160",
+      "style": 0,
+      "name": "에이~ 뭐 어때?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093001_MSG0170",
+      "style": 0,
+      "name": "우리는 같은 인공 자궁 플랜트에서 태어나니까\n클루인은 모두 가족 같은 거잖아?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093001_MSG0180",
+      "style": 0,
+      "name": "하지만 니르 님은 클루에서도\n최고위 신분인 \"신탁의 무녀\"이신걸요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093001_MSG0190",
+      "style": 0,
+      "name": "저는 무녀를 따르는 신관 가문이니[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093001_MSG0200",
+      "style": 0,
+      "name": "이렇게 같은 자리에 있는 것만으로도\n원래라면 명예로운 일이고……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093001_MSG0210",
+      "style": 0,
+      "name": "아하하, 그렇구나……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093001_MSG0220",
+      "style": 0,
+      "name": "클루 고향 별에서 떠난 지 한참 됐는데\n엄격한 교육 프로그램은 여전한가 보네[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093001_MSG0230",
+      "style": 0,
+      "name": "그렇지만 난 딱딱한 분위기는 싫거든\n그런 건 다른 무녀들한테 맡기면 돼[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093001_MSG0240",
+      "style": 0,
+      "name": "그러니 너도 날 자연스럽게\n대해 주면 기쁘겠어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev093001_MSG0250",
+      "style": 0,
+      "name": "니르 님……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093001_MSG0260",
+      "style": 0,
+      "name": "……이런, 이야기가 샜네[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093001_MSG0270",
+      "style": 0,
+      "name": "나머지는 블레이드 홈에서 이야기할게\n실제로 데이터를 보면 이해하기 편할 테니까[ST:wait ]"
+    }
+  ]
+}

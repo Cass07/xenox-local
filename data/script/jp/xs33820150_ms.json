@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33820150_MSG0010",
+      "style": 0,
+      "name": "いったいどうした！？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33820150_MSG0020",
+      "style": 0,
+      "name": "消失現象の拡大により崩壊が始まったようです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33820150_MSG0030",
+      "style": 0,
+      "name": "このままでは　まずいな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33820150_MSG0040",
+      "style": 0,
+      "name": "新白鯨浮上！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33820150_MSG0050",
+      "style": 0,
+      "name": "いつでも動けるように準備しておけ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33820150_MSG0060",
+      "style": 0,
+      "name": "了解！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31130100_MSG0010",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31130100_MSG0020",
+      "style": 0,
+      "name": "바로 갈게[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31130100_MSG0030",
+      "style": 0,
+      "name": "아레스가 있는 곳에 다녀올게[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31130100_MSG0040",
+      "style": 0,
+      "name": "분석반이 조언을 듣고 싶나 봐[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs31130100_MSG0050",
+      "style": 0,
+      "name": "도울 수 있는 게 있으면\n언제든지 불러 주세요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs31130100_MSG0060",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090807_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―あの　最近　君と僕がどんな風に\n言われているか知っていますか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090807_MSG0002",
+      "style": 0,
+      "name": "ヴァンダム司令の後を継ぐのは\n僕達のどちらかだ　なんて言われてるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090807_MSG0003",
+      "style": 0,
+      "name": "僕は[ST:wide ]―　負けませんからね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090807_MSG0004",
+      "style": 0,
+      "name": "絶対にトップになって　ブレイドをもっと\n現代的な組織に作り変えてみせますから[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090807_JNK0010",
+      "style": 4,
+      "name": "挑発"
+    },
+    {
+      "$id": 6,
+      "label": "qev090807_SEL0011",
+      "style": 3,
+      "name": "譲るつもりはないと挑戦を受ける"
+    },
+    {
+      "$id": 7,
+      "label": "qev090807_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 8,
+      "label": "qev090807_SEL0021",
+      "style": 3,
+      "name": "そういったものには興味がないという"
+    },
+    {
+      "$id": 9,
+      "label": "qev090807_MSG0005",
+      "style": 0,
+      "name": "それでこそ僕のライバル\n頂点に上り詰めるのはどちらが先か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090807_MSG0006",
+      "style": 0,
+      "name": "今から楽しみですね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090807_MSG0007",
+      "style": 0,
+      "name": "[ST:wide ]―良かったです\n僕も君と無用な争いなど御免ですからね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090807_MSG0008",
+      "style": 0,
+      "name": "とにかく　これからも二人でいかなる任務をも\nパーフェクトに解決していきましょう[ST:wait ]"
+    }
+  ]
+}

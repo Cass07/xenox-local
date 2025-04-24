@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001894_MSG0001",
+      "style": 1,
+      "name": "안녕하세요, 선배![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001894_MSG0002",
+      "style": 1,
+      "name": "이 아이, 선배네 고양이죠?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001894_MSG0003",
+      "style": 1,
+      "name": "좋겠다~\n나도 키우고 싶다~[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001894_MSG0004",
+      "style": 1,
+      "name": "저 펫은 키워 본 적 없는데\n키운다면 어떤 게 좋을까요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001894_JNK0010",
+      "style": 4,
+      "name": "고양이를 추천한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001894_SEL0011",
+      "style": 3,
+      "name": "미아에게는 고양이가\n잘 어울린다는 이유로 추천한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001894_JNK0020",
+      "style": 4,
+      "name": "강아지를 추천한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001894_SEL0021",
+      "style": 3,
+      "name": "충직한 강아지를 추천한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001894_JNK0030",
+      "style": 4,
+      "name": "노폰을 추천한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001894_SEL0031",
+      "style": 3,
+      "name": "이제는 친근해진\n노폰을 추천한다"
+    },
+    {
+      "$id": 11,
+      "label": "tev001894_MSG0005",
+      "style": 1,
+      "name": "왜 고양이인가요?\n제 이름이 미아라서요?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001894_MSG0006",
+      "style": 1,
+      "name": "미어캣이라도 키우라고\n말하고 싶은 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001894_MSG0007",
+      "style": 1,
+      "name": "하지만 미어캣은 한 마리로는 안 돼요\n집단생활을 하는 동물이니까 불쌍하잖아요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001894_MSG0008",
+      "style": 1,
+      "name": "역시 멍멍이인가요~[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001894_MSG0009",
+      "style": 1,
+      "name": "쉬는 날에는 프리스비를 던지며 놀 수 있고\n할짝할짝 뺨을 핥아 주고[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001894_MSG0010",
+      "style": 1,
+      "name": "혼자 쓸쓸하게 살고 있는 저에게는\n딱 맞는 파트너일지도 모르겠네요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001894_MSG0011",
+      "style": 1,
+      "name": "선배……\n노폰은 펫이 아니에요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001894_MSG0012",
+      "style": 1,
+      "name": "얼마 전에 선배랑 다니는 타츠에게\n말린 오징어를 줬더니 따라오긴 했지만[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001894_MSG0013",
+      "style": 1,
+      "name": "그래도 펫 취급하면 안 돼요\n엄연한 사람이니까요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001894_MSG0014",
+      "style": 1,
+      "name": "아무튼 우선은 펫을 키울 권리부터\n받아야겠죠[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001894_MSG0015",
+      "style": 1,
+      "name": "선배는 다양한 공적이 있으니까\n권리도 펫도 받을 수 있었을지\n모르겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001894_MSG0016",
+      "style": 1,
+      "name": "전 처음부터 해야 해요~[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001894_MSG0017",
+      "style": 1,
+      "name": "블레이드로서 임무를 1000건 해결해야 하고\n자기 집을 가지고 있어야 하고\n또 면담을 해야 하는 조건이 있단 말이죠……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001894_MSG0018",
+      "style": 1,
+      "name": "게다가 이 새끼 고양이도\n상당한 고급품이잖아요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001894_MSG0019",
+      "style": 1,
+      "name": "초정밀 기계니까\n차 한 대보다 비싸다고요!\n과연 제가 살 수 있을지……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001894_MSG0020",
+      "style": 1,
+      "name": "그런 이유로 저는\n가끔 선배 집에 방문해서\n고양이를 예뻐해 주기로 했어요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001894_MSG0021",
+      "style": 1,
+      "name": "또 갈 테니까 잘 부탁합니다![ST:wait ]"
+    }
+  ]
+}

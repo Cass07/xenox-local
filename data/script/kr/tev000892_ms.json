@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000892_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000892_MSG0002",
+      "style": 1,
+      "name": "너…… 싸움을 말리러 온 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000892_MSG0003",
+      "style": 1,
+      "name": "이 자식이 헛소리를 지껄였어……![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000892_MSG0004",
+      "style": 1,
+      "name": "테스터먼트를 욕했다고! 도굴꾼이라는 둥\n쓸모없는 쓰레기나 주워 온다는 둥\n헛소리하면서 시비를 걸었단 말이다![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000892_JNK0010",
+      "style": 4,
+      "name": "동조한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000892_SEL0011",
+      "style": 3,
+      "name": "상대방 남자를 비난한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000892_JNK0020",
+      "style": 4,
+      "name": "위로한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000892_SEL0021",
+      "style": 3,
+      "name": "이엘브를 위로하며\n진정하라고 한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev000892_MSG0005",
+      "style": 1,
+      "name": "너도 이해해 주는구나![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000892_MSG0006",
+      "style": 1,
+      "name": "그 녀석이 사라진 후, 나에게는\n너와 블레이드가 안식처야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000892_MSG0007",
+      "style": 1,
+      "name": "그런 블레이드의 임무를 욕하는데\n가만히 넘어갈 수 있을 리가 없잖아?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000892_MSG0008",
+      "style": 1,
+      "name": "심호흡하고 진정하라고……?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000892_MSG0009",
+      "style": 1,
+      "name": "쳇, 하면 되잖아……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000892_MSG0010",
+      "style": 1,
+      "name": "스읍~[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000892_MSG0011",
+      "style": 1,
+      "name": "하아~[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000892_MSG0012",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000892_MSG0013",
+      "style": 1,
+      "name": "……멍청아!\n너도 모르는 거냐!![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000892_MSG0014",
+      "style": 1,
+      "name": "그 녀석이 사라진 후, 나에게는\n너와 블레이드가 안식처라고[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000892_MSG0015",
+      "style": 1,
+      "name": "그런 블레이드의 임무를 욕하는데\n가만히 넘어갈 수 있을 리가 없잖아!?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000892_MSG0016",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000892_MSG0017",
+      "style": 1,
+      "name": "이해했으면 됐어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000892_MSG0018",
+      "style": 1,
+      "name": "어디, 이 자식이 다시는 헛소리를 못 하게\n만들려면 어떻게 하는 게 좋을까……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000892_JNK0030",
+      "style": 4,
+      "name": "제지한다"
+    },
+    {
+      "$id": 24,
+      "label": "tev000892_SEL0031",
+      "style": 3,
+      "name": "엘레오노라를 언급하며\n거친 행동을 막는다"
+    },
+    {
+      "$id": 25,
+      "label": "tev000892_JNK0040",
+      "style": 4,
+      "name": "가세한다"
+    },
+    {
+      "$id": 26,
+      "label": "tev000892_SEL0041",
+      "style": 3,
+      "name": "근처에 있는 건설용 돌을\n사용해 가세한다"
+    },
+    {
+      "$id": 27,
+      "label": "tev000892_MSG0019",
+      "style": 1,
+      "name": "젠장, 그 이름을 꺼내는 건 비겁하잖아……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000892_MSG0020",
+      "style": 1,
+      "name": "오늘 소동이 그 녀석 귀에 들어가면\n괜찮은 임무를 못 받게 되겠지……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000892_MSG0021",
+      "style": 1,
+      "name": "OK, OK\n싸움은 이만 멈추지[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000892_MSG0022",
+      "style": 1,
+      "name": "이 녀석한테 요즘 극히 일부에서 유행한다는\n미트로프라는 걸 사 오라고 한 다음\n이번 일은 끝내는 걸로 하자고[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000892_MSG0023",
+      "style": 1,
+      "name": "어이구, 무지막지하네……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000892_MSG0024",
+      "style": 1,
+      "name": "아무리 나라도 그렇게까지는 안 한다고[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000892_MSG0025",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000892_MSG0026",
+      "style": 1,
+      "name": "어쩔 수 없지[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000892_MSG0027",
+      "style": 1,
+      "name": "이 남자가 다진 고기로 변하는 꼴은\n보고 싶지 않으니 싸움은 이만 멈출게[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000892_MSG0028",
+      "style": 1,
+      "name": "내가 물러서면 너도 손에\n피를 묻힐 필요 없을 테니까[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000892_MSG0029",
+      "style": 1,
+      "name": "나도 널 열받게 하지 않게 조심해야겠어\n정말이지 무서운 녀석이라니까……[ST:wait ]"
+    }
+  ]
+}

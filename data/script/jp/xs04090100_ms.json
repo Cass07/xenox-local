@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04090100_MSG0001",
+      "style": 0,
+      "name": "ゲーティア様　あいつラ　地球人でス[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04090100_MSG0002",
+      "style": 0,
+      "name": "ふーん[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04090100_MSG0003",
+      "style": 0,
+      "name": "この目で見るまでは信じられなかったけど\nどうやら本当だったようだねぇ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs04090100_MSG0004",
+      "style": 0,
+      "name": "くっ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs04090100_MSG0005",
+      "style": 0,
+      "name": "バイアス人とは違う　別種の異星人が[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs04090100_MSG0006",
+      "style": 0,
+      "name": "地球人だったら　どうするんですか！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs04090100_MSG0007",
+      "style": 0,
+      "name": "殲滅するのさ\nそれがあたし達グロウスの義務[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs04090100_MSG0008",
+      "style": 0,
+      "name": "グロウス？\nそれがあなた達の組織ということね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs04090100_MSG0009",
+      "style": 0,
+      "name": "そうさね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs04090100_MSG0010",
+      "style": 0,
+      "name": "貴様ら地球人は\nこの宇宙に発生した癌細胞みたいなもの[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs04090100_MSG0011",
+      "style": 0,
+      "name": "滅ぼさなければならないのさ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs04090100_MSG0012",
+      "style": 0,
+      "name": "随分と手前勝手な論理ね\nそのために　ライフを破壊したの？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs04090100_MSG0013",
+      "style": 0,
+      "name": "こいつはライフっていうのかい[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs04090100_MSG0014",
+      "style": 0,
+      "name": "まるで原始人\n随分と時代遅れの機械を使ってるねぇ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs04090100_MSG0015",
+      "style": 0,
+      "name": "まぁいい\nこいつも貴様ら地球人も全て消し去る[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs04090100_MSG0016",
+      "style": 0,
+      "name": "それがあたしらグロウスの論理\nグロウスの正義さ！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs04090100_MSG0017",
+      "style": 0,
+      "name": "ならば私達は　私達の論理を貫くまで[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs04090100_MSG0018",
+      "style": 0,
+      "name": "いいよ　殺しがいがある\n眠ってるだけの奴らよりずっとね！[ST:wait ]"
+    }
+  ]
+}

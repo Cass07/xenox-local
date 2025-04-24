@@ -1,0 +1,630 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092601_MSG0001",
+      "style": 0,
+      "name": "선배, 문제를 하나 낼게요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092601_MSG0002",
+      "style": 0,
+      "name": "이름이 뿌리채소 같은 노폰인에게서\n긴급 의뢰를 받고……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092601_MSG0003",
+      "style": 0,
+      "name": "여기서 만나기로 했는데\n전혀 나타날 기미가 없다면[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092601_MSG0004",
+      "style": 0,
+      "name": "어떻게 해야 할까요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092601_JNK0010",
+      "style": 4,
+      "name": "탐색"
+    },
+    {
+      "$id": 6,
+      "label": "qev092601_SEL0011",
+      "style": 3,
+      "name": "찾으러 가자고 말한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev092601_JNK0020",
+      "style": 4,
+      "name": "대기"
+    },
+    {
+      "$id": 8,
+      "label": "qev092601_SEL0021",
+      "style": 3,
+      "name": "잠시 기다리자고 말한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev092601_MSG0005",
+      "style": 0,
+      "name": "선배는 성급하네요~\n어쩐지 옛날의 저 같아요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092601_MSG0006",
+      "style": 0,
+      "name": "이럴 때 함부로 움직이면 서로 엇갈리니까\n끈기 있게 계속 기다리는 편이 낫다고요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092601_MSG0007",
+      "style": 0,
+      "name": "나쁘지 않잖아요? 요즘은 이런 식으로\n느긋하게 이야기한 적도 없었고요……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092601_MSG0008",
+      "style": 0,
+      "name": "태평한 성격인 선배다운 대답이네요!\n뭐, 이런 시간도 소중하기는 하죠[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092601_MSG0009",
+      "style": 0,
+      "name": "요즘은 임무만 하느라 이런 식으로\n멍하니 있을 여유도 없었고요……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092601_MSG0010",
+      "style": 0,
+      "name": "저기, 기왕 이렇게 됐으니\n잡담하면서 시간이나 때워요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092601_MSG0011",
+      "style": 0,
+      "name": "기억나요?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092601_MSG0011_2",
+      "style": 0,
+      "name": "여기, 선배와 제가\n처음 만난 곳이잖아요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092601_JNK0030",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 18,
+      "label": "qev092601_SEL0031",
+      "style": 3,
+      "name": "기억하고 있다고 대답한다"
+    },
+    {
+      "$id": 19,
+      "label": "qev092601_JNK0040",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 20,
+      "label": "qev092601_SEL0041",
+      "style": 3,
+      "name": "잊고 있었다고 대답한다"
+    },
+    {
+      "$id": 21,
+      "label": "qev092601_MSG0012",
+      "style": 0,
+      "name": "역시 선배네요! 기억해 줘서 기뻐요![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092601_MSG0013",
+      "style": 0,
+      "name": "그래요~ 그 후로 많은 일이 있었으니까\n그런 옛날 일 같은 건 잊어버렸겠죠[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092601_MSG0014",
+      "style": 0,
+      "name": "그날 이후로 온 미라를 돌아다니고……\n이렇게 겨우 블레이드가 되고[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092601_MSG0015",
+      "style": 0,
+      "name": "지금은 컬렉피디언의 일원으로서[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092601_MSG0016",
+      "style": 0,
+      "name": "선배와 함께 최전선에서\n모험할 수 있게 됐어요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092601_MSG0017",
+      "style": 0,
+      "name": "진짜 장족의 발전이라고요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092601_MSG0018",
+      "style": 0,
+      "name": "헤헤, 천국에 계신 아빠랑 엄마가……\n지금의 절 보면 어떻게 생각하실까요?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092601_MSG0019",
+      "style": 0,
+      "name": "아직 그분들만큼 굉장한 모험가가\n되지는 못했지만, 조금은 인정해 주시려나요?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092601_JNK0050",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 30,
+      "label": "qev092601_SEL0051",
+      "style": 3,
+      "name": "인정해 줄 거라고 말한다"
+    },
+    {
+      "$id": 31,
+      "label": "qev092601_JNK0060",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 32,
+      "label": "qev092601_SEL0061",
+      "style": 3,
+      "name": "더욱 정진하라며 꾸짖을 거라고 말한다"
+    },
+    {
+      "$id": 33,
+      "label": "qev092601_MSG0020",
+      "style": 0,
+      "name": "그렇겠죠……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092601_MSG0021",
+      "style": 0,
+      "name": "어릴 때, 혼자 옆 마을까지 모험하러 갔다가\n길을 잃어서 경찰에 보호받은 적이 있어요……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092601_MSG0022",
+      "style": 0,
+      "name": "그런데도 절 데리러 왔던 아빠랑 엄마는\n혼내기는커녕 잘했다며 칭찬해 주셨어요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092601_MSG0023",
+      "style": 0,
+      "name": "분명 지금의 저도……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092601_MSG0024",
+      "style": 0,
+      "name": "역시 그런가요?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092601_MSG0025",
+      "style": 0,
+      "name": "아빠랑 엄마는 월터 교관에게도\n지지 않을 만큼 엄격한 사람들이었으니까요~[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092601_MSG0026",
+      "style": 0,
+      "name": "확실히 이 정도로는 아직 멀었을지도요[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092601_MSG0027",
+      "style": 0,
+      "name": "오래 기다리게 했다모~!\n미아라는 누나는 어디에 있냐모![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092601_MSG0028",
+      "style": 0,
+      "name": "네가 의뢰인이야?\n역시 이름대로 맛있어 보이네![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092601_MSG0029",
+      "style": 0,
+      "name": "맛있어 보인다니모!\n토라는 멋있는 노폰이 될 거다모![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092601_MSG0030",
+      "style": 0,
+      "name": "노폰인 남자애들은 다 그렇게 말하지만\n멋있는 노폰은 본 적 없단 말이지~[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092601_MSG0031",
+      "style": 0,
+      "name": "괜찮다모!\n토라는 이제부터 멋있어질 예정이다모![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092601_MSG0032",
+      "style": 0,
+      "name": "아~ 알았다![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092601_MSG0033",
+      "style": 0,
+      "name": "내게 맡길 의뢰가 바로 그 멋있어지기 위한\n무언가를 가지고 오는 일인 거지?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092601_MSG0034",
+      "style": 0,
+      "name": "맞아모, 제법 감이 좋은 누나다모![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092601_MSG0035",
+      "style": 0,
+      "name": "그럼, 나 정도의 강자쯤 되면\n상대가 뭘 찾는지도 알 수 있다고[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092601_MSG0036",
+      "style": 0,
+      "name": "네가 찾는 건 바로, 전설의 검 맞지?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092601_MSG0037",
+      "style": 0,
+      "name": "그런 장난감은 필요 없다모[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092601_MSG0038",
+      "style": 0,
+      "name": "어라~[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092601_MSG0039",
+      "style": 0,
+      "name": "토라가 가지고 싶은 건 코인이다모![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092601_MSG0040",
+      "style": 0,
+      "name": "……코인?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092601_MSG0041",
+      "style": 0,
+      "name": "미라 각지에 노폰 카라반이\n있다는 건 알아모?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092601_MSG0042",
+      "style": 0,
+      "name": "물론이지[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092601_MSG0043",
+      "style": 0,
+      "name": "카라반에서 장사를 하려면\n노폰 상회의 일원이 되어야만 해모![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092601_MSG0044",
+      "style": 0,
+      "name": "아하, 그리고 노폰 상회에 들어가려면\n증표로 코인이 필요한 거구나[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092601_MSG0045",
+      "style": 0,
+      "name": "진짜 눈치 빠르다모![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092601_MSG0046",
+      "style": 0,
+      "name": "아무튼 코인을 가지게 되면\n타츠 녀석한테도 지지 않고……[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092601_MSG0047",
+      "style": 0,
+      "name": "아빠, 엄마와도 만날 수 있다모![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092601_JNK0070",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 62,
+      "label": "qev092601_SEL0071",
+      "style": 3,
+      "name": "타츠와의 다툼에 관해 자세히 묻는다"
+    },
+    {
+      "$id": 63,
+      "label": "qev092601_JNK0080",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 64,
+      "label": "qev092601_SEL0081",
+      "style": 3,
+      "name": "어째서 상회의 일원이 되면\n부모를 만날 수 있는지 묻는다"
+    },
+    {
+      "$id": 65,
+      "label": "qev092601_MSG0048",
+      "style": 0,
+      "name": "그 녀석, 요즘 블레이드에서 활약한다는 둥\n건방지게 굴고 있다모![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev092601_MSG0049",
+      "style": 0,
+      "name": "그러니까 토라도 빨리 어엿한 상인이 돼서\n달라진 모습을 보여 주고 싶다모![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev092601_MSG0050",
+      "style": 0,
+      "name": "……게다가 토라, 부모님이\n행상하러 떠났다가 돌아오기 전까지[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev092601_MSG0051",
+      "style": 0,
+      "name": "어엿한 상인이 되겠다고 약속했으니까……[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev092601_MSG0052",
+      "style": 0,
+      "name": "이대로는 수치스러워서\n오래간만의 가족 상봉도 엉망이 된다모![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev092601_MSG0053",
+      "style": 0,
+      "name": "부모님이 행상하러 떠났다가 돌아오기 전까지\n반드시 어엿한 상인이 되겠다고 약속했다모![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092601_MSG0054",
+      "style": 0,
+      "name": "이대로는 수치스러워서\n오래간만의 가족 상봉도 엉망이 된다모![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092601_MSG0055",
+      "style": 0,
+      "name": "아~ 어른이 되고 싶은 청소년이구나\n큐트, 큐트[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092601_MSG0056",
+      "style": 0,
+      "name": "큐트하지 않다모!\n토라는 쿨한 노폰이 될 거다모![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092601_MSG0057",
+      "style": 0,
+      "name": "토라의 아빠, 엄마는\n온 세상을 돌아다니며 희귀한 물건을 파는[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092601_MSG0058",
+      "style": 0,
+      "name": "전설의 행상인이다모![ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092601_MSG0059",
+      "style": 0,
+      "name": "뭐라고 할까…… 우리 부모님이랑 똑같네[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092601_MSG0060",
+      "style": 0,
+      "name": "그분들도 나를 내버려둔 채\n날이면 날마다 모험에 나섰지……[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092601_MSG0061",
+      "style": 0,
+      "name": "누나도 토라의 마음을 이해하는 거야모?[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092601_MSG0062",
+      "style": 0,
+      "name": "잘 알지, 나도 아빠랑 엄마를\n따라잡기 위해 블레이드가 된 거니까[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092601_MSG0063",
+      "style": 0,
+      "name": "어쩐지 마음이 맞는 누나다모~[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092601_MSG0064",
+      "style": 0,
+      "name": "토라도 아빠랑 엄마한테 지지 않을 만큼\n쿨하고 멋있는 어른이 되고 싶다모![ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092601_MSG0065",
+      "style": 0,
+      "name": "오오~ 포부가 대단하네!\n벌써 그럭저럭 멋있어 보여[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092601_MSG0066",
+      "style": 0,
+      "name": "야호, 칭찬받았다모~!\n이제 만족했다모, 충분하다모[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092601_MSG0067",
+      "style": 0,
+      "name": "아니, 조금만 더 열심히 해 봐[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev092601_MSG0068",
+      "style": 0,
+      "name": "아빠랑 엄마 앞에서 부린 허세를\n현실로 만들어야 하잖아[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev092601_MSG0069",
+      "style": 0,
+      "name": "그랬었지모![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev092601_MSG0070",
+      "style": 0,
+      "name": "이제 곧 부모님과 만날 수 있는\n1년에 한 번뿐인 날이 올 거다모![ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev092601_MSG0071",
+      "style": 0,
+      "name": "그런데 아직도 노폰 상회의 증표인\n코인을 얻지 못했다모![ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev092601_MSG0071_2",
+      "style": 0,
+      "name": "위기다모~![ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev092601_MSG0072",
+      "style": 0,
+      "name": "누나, 도와줄 거야모?[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev092601_MSG0073",
+      "style": 0,
+      "name": "물론이지![ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev092601_MSG0073_2",
+      "style": 0,
+      "name": "토라의 의뢰라면 싼값에 받아 줄게![ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev092601_MSG0074",
+      "style": 0,
+      "name": "케포 당근 1개면 돼모?[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev092601_MSG0075",
+      "style": 0,
+      "name": "……조금만 더 넉넉하게 주면 좋겠는데[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev092601_MSG0076",
+      "style": 0,
+      "name": "알았어모\n의뢰가 완료되기 전까지 생각해 둘게모![ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev092601_MSG0077",
+      "style": 0,
+      "name": "그건 그렇고 일단 우리가 뭘 하면 될까?[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev092601_MSG0078",
+      "style": 0,
+      "name": "이 도시에 있는 장로인 눈이\n자세한 정보를 알고 있어모[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev092601_MSG0079",
+      "style": 0,
+      "name": "하지만 토라가 갔을 때는\n제대로 상대해 주지 않았다모……[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev092601_MSG0080",
+      "style": 0,
+      "name": "누나 쪽에서 잘 구슬리면서\n코인에 대해 캐물어 줘모!![ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev092601_MSG0081",
+      "style": 0,
+      "name": "알았어![ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev092601_MSG0082",
+      "style": 0,
+      "name": "토라는 먼저 가서 기다리고 있을게모~[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev092601_MSG0083",
+      "style": 0,
+      "name": "선배, 활기차게 가 봐요![ST:wait ]"
+    }
+  ]
+}

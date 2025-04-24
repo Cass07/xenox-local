@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev035501_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev035501_SEL0011",
+      "style": 3,
+      "name": "일에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev035501_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev035501_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev035501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev035501_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev035501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev035501_SEL0031",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev035501_MSG0001",
+      "style": 1,
+      "name": "틀어박혀서 밤새우기 일쑤라……\n건강했던 피부색이 창백해져 버렸어요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev035501_MSG0002",
+      "style": 1,
+      "name": "무사태평한 마이 브라더 조존에게까지\n걱정을 끼쳐 버렸고요……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev035501_MSG0003",
+      "style": 1,
+      "name": "맞다, 흑강의 대륙에 다녀온\n패스파인더에게 들은\n미 간드산 분화구……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev035501_MSG0004",
+      "style": 1,
+      "name": "그곳에 뛰어들면 까맣게 타 버린다던데……\n이 창백한 피부를 건강한 빛깔로 만들\n효과적인 방법일지도 몰라요![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev035501_MSG0005",
+      "style": 1,
+      "name": "일이 마무리되면 가 보고 싶네요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev035501_MSG0008",
+      "style": 1,
+      "name": "지금까지 계속 암즈 연구실에 틀어박혀\n병기 개발을 해서 말이죠[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev035501_MSG0009",
+      "style": 1,
+      "name": "이렇게 마 논 우주선에 돌아오는 것도\n꽤 오랜만이에요\n연일 철야라…… 좀 지쳤어요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev035501_MSG0010",
+      "style": 1,
+      "name": "어떤가요? 암즈가 협력해서 만든 병기는\n그로우스와의 싸움에서 도움이 됐나요?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev035501_MSG0011",
+      "style": 1,
+      "name": "아직 라스의 잔당이 망각의 계곡 등에\n있다는 이야기도 들었고……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev035501_MSG0012",
+      "style": 1,
+      "name": "부디 앞으로도 암즈에 대한 지원\n잘 부탁드려요![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev035501_MSG0013",
+      "style": 1,
+      "name": "지금까지 계속 『정직한 진심당』 연구실에 틀어박혀\n병기 개발을 해서 말이죠[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev035501_MSG0014",
+      "style": 1,
+      "name": "이렇게 마 논 우주선에 돌아오는 것도\n꽤 오랜만이에요\n연일 철야라…… 좀 지쳤어요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev035501_MSG0015",
+      "style": 1,
+      "name": "……그래서 어땠나요? 그로우스와의 싸움에서\n저희 회사의 병기는 도움이 됐나요?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev035501_MSG0016",
+      "style": 1,
+      "name": "아직 라스의 잔당이 망각의 계곡 등에\n있다는 이야기도 들었고……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev035501_MSG0017",
+      "style": 1,
+      "name": "부디 앞으로도 저희 회사의 제품을 사용해서\n다양한 강적을 쓰러뜨려 주세요![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev035501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev035501_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev035501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev035501_SEL1021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev035501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev035501_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev035501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev035501_SEL1041",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev035501_MSG0018",
+      "style": 1,
+      "name": "그 후로 데 징의 스토킹이 뚝 끊겼어요\n조금 신경이 쓰여서 이야기를 들어 봤는데……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev035501_MSG0019",
+      "style": 1,
+      "name": "놀랍게도 이번에는 흑강의 대륙에서\n원시 생물을 쫓아다니고 있다는 게 아니겠어요?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev035501_MSG0020",
+      "style": 1,
+      "name": "그런 칼 한 자루만 들고 말이에요\n참 대단한 사람이죠\n저는 조금 다시 봤어요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev035501_MSG0021",
+      "style": 1,
+      "name": "저도 그의 그런 열정에 지지 않도록\n새로운 초강철 개발에 몰두해야겠네요![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev035501_MSG0022",
+      "style": 1,
+      "name": "당신…… 이야기가 다르잖아요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev035501_MSG0023",
+      "style": 1,
+      "name": "그 후로 데 징의 스토킹이\n다시 시작됐어요……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev035501_MSG0024",
+      "style": 1,
+      "name": "이번에는 돌 전용 칼을 만들겠다는 둥\n알 수 없는 말을 하면서……\n협력을 요청해 왔어요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev035501_MSG0025",
+      "style": 1,
+      "name": "아니, 이야기를 들어 보면\n아이디어 자체는 재밌을 것 같긴 해요……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev035501_MSG0026",
+      "style": 1,
+      "name": "하지만…… 그런 남자와 엮이면 안 된다고\n제 이성이 호소하고 있어요[ST:wait ]"
+    }
+  ]
+}

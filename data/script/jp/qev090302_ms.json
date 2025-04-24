@@ -1,0 +1,276 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090302_MSG0001",
+      "style": 0,
+      "name": "イエルヴ　今日はどうしました？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090302_MSG0002",
+      "style": 0,
+      "name": "切羽詰まった顔して[ST:wide ]―\nいつにも増して怖いですよ？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090302_MSG0003",
+      "style": 0,
+      "name": "今日は無駄話はなしだ　エレオノーラ\nすぐに調べてもらいたいもんがあるんだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090302_MSG0004",
+      "style": 0,
+      "name": "いまから送る４つの手足の落下ポイントから[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090302_MSG0005",
+      "style": 0,
+      "name": "本体が落ちた可能性の高いエリアを\n割り出してもらいたいんだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090302_MSG0006",
+      "style": 0,
+      "name": "[ST:wide ]―あら？　それってあなたの相棒が\n探してたお友達の身体ですか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090302_MSG0007",
+      "style": 0,
+      "name": "なっ[ST:wide ]―　なんでそいつを[ST:wide ]―？\nお前　エレオノーラに喋ったのか！？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090302_JNK0010",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 9,
+      "label": "qev090302_SEL0011",
+      "style": 3,
+      "name": "話していないと言う"
+    },
+    {
+      "$id": 10,
+      "label": "qev090302_JNK0020",
+      "style": 4,
+      "name": "曖昧"
+    },
+    {
+      "$id": 11,
+      "label": "qev090302_SEL0021",
+      "style": 3,
+      "name": "記憶が定かではないと言う"
+    },
+    {
+      "$id": 12,
+      "label": "qev090302_MSG0008",
+      "style": 0,
+      "name": "お前はこういう大事なことで\n嘘をつく奴じゃないってのはわかってるよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090302_MSG0009",
+      "style": 0,
+      "name": "いいや　お前はそんな風に\n話しちまう奴じゃないってのはわかってる[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090302_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―エレオノーラ　何を調べやがった？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090302_MSG0011",
+      "style": 0,
+      "name": "ふふっ　あなた方の全てを知る私に\nわからないことはないんです[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090302_MSG0012",
+      "style": 0,
+      "name": "お友達の落下地点をお教えしたいのは\nやまやまなんですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090302_MSG0013",
+      "style": 0,
+      "name": "今のところ\nフロンティアネットには引っかからないですね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090302_MSG0014",
+      "style": 0,
+      "name": "もっとフロンティアネットを広げれば\n分析できると思うんですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090302_MSG0015",
+      "style": 0,
+      "name": "なら俺達の力で　データプローブを\n打ち込みまくってやるまでの話さ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090302_MSG0016",
+      "style": 0,
+      "name": "エレオノーラ　今回だけはてめぇのお節介\n感謝させてもらうぜ！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090302_MSG0017",
+      "style": 0,
+      "name": "これも仕事ですから[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090302_MSG0018",
+      "style": 0,
+      "name": "フロンティアネットをより広げたら\nまた私に声をかけてくださいね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090302_MSG0019",
+      "style": 0,
+      "name": "改めて　イエルヴの大切な方の居場所を\n調べさせていただきますよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090302_MSG0020",
+      "style": 0,
+      "name": "任せてください\nそれなら既に　全て割り出し済みです[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090302_MSG0021",
+      "style": 0,
+      "name": "細かい情報もあなた方が設置した\nフロンティアネットから取得できました[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090302_MSG0022",
+      "style": 0,
+      "name": "なっ[ST:wide ]―　てめぇ\nどこまでお節介なんだ　クソが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090302_MSG0023",
+      "style": 0,
+      "name": "だが[ST:wide ]―　エレオノーラ今回だけは\nてめぇのお節介　感謝させてもらうぜ！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090302_MSG0024",
+      "style": 0,
+      "name": "これも仕事ですから[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090302_MSG0025",
+      "style": 0,
+      "name": "詳しい座標は後でお送りしますが[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090302_MSG0026",
+      "style": 0,
+      "name": "その方は　忘却の渓谷にいらっしゃる\n可能性が高いようです[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090302_MSG0027",
+      "style": 0,
+      "name": "そんな所でぼんやりしてやがったか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090302_MSG0028",
+      "style": 0,
+      "name": "[ST:wide ]―よしっ！　すぐに行くぞ！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090302_MSG0029",
+      "style": 0,
+      "name": "あのマイペース野郎のツラ一発ぶん殴って\nＮＬＡに連れ帰るんだ！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev090302_MSG0030",
+      "style": 0,
+      "name": "ちくしょう　キツイ一発くれてやるから\n覚悟してろよ　バカヤロウ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev090302_MSG0031",
+      "style": 1,
+      "name": "おかえりなさいイエルヴ\nまだ[ST:wide ]―　フロンティアネットの情報が\n足りないみたいですね[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev090302_MSG0032",
+      "style": 1,
+      "name": "忘却の渓谷の\nフロンティアネットをもっと広げたら\nまた私に声をかけてくださいね[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev090302_MSG0033",
+      "style": 1,
+      "name": "改めて　イエルヴの大切な方の居場所を\n調べさせていただきますよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev090302_MSG0034",
+      "style": 0,
+      "name": "お帰りなさい　イエルヴ　朗報です！[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev090302_MSG0035",
+      "style": 0,
+      "name": "フロンティアネットを広げてくれたおかげで\nあなたがずっと探していた宝物の場所[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev090302_MSG0036",
+      "style": 0,
+      "name": "割り出すことができましたよ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev090302_MSG0037",
+      "style": 0,
+      "name": "本当か！　それで[ST:wide ]―\nアイツは一体　どこにいやがるんだ！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev090302_MSG0038",
+      "style": 0,
+      "name": "詳しい座標は後でお送りしますが[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev090302_MSG0039",
+      "style": 0,
+      "name": "その方は　忘却の渓谷にいらっしゃる\n可能性が高いようです[ST:wait ]"
+    }
+  ]
+}

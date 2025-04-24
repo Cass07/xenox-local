@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086414_MSG0001",
+      "style": 1,
+      "name": "아빠가 어떤 노폰인지 알고 싶냐모?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086414_MSG0002",
+      "style": 1,
+      "name": "오빠보다 5만 배 멋있다모!\n……빚쟁이지만모[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086414_MSG0003",
+      "style": 1,
+      "name": "오빠는 분명 바이어스에게 물리고\n기진맥진해서 돌아올 줄 알았는데……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086414_MSG0004",
+      "style": 1,
+      "name": "친구들 덕분에\n무사히 돌아올 수 있었다모! 고맙다모![ST:wait ]"
+    }
+  ]
+}

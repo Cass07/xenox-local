@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090605_MSG0001",
+      "style": 1,
+      "name": "今回の任務は\nオン・トリズモの討伐ですか\nなかなかの強敵みたいですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090605_MSG0002",
+      "style": 1,
+      "name": "いつものボウズさんとの　息の合った戦い方で\n見事に打ち倒してきてくださいね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090605_MSG0003",
+      "style": 0,
+      "name": "お帰りなさい　今回の任務はいかがでしたか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090605_MSG0004",
+      "style": 0,
+      "name": "道中　ワケのわからん異星人に襲われたよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090605_MSG0005",
+      "style": 0,
+      "name": "まぁ　こやつと俺で一捻りにして\n成仏させてやったがな！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090605_MSG0006",
+      "style": 0,
+      "name": "さすがですね　お二人のコンビは\nブレイドの中でも噂になってますよ！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090605_MSG0007",
+      "style": 0,
+      "name": "それにしても　その異星人というのは[ST:wide ]―\nやはり　グロウスの手の者でしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090605_MSG0008",
+      "style": 0,
+      "name": "グロウスだろうがなんだろうが\nどうせ異星人など腹の中は似たようなもの[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090605_MSG0046",
+      "style": 0,
+      "name": "[ST:wide ]―なぁ　オヌシもそう思わんか？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090605_MSG0047",
+      "style": 0,
+      "name": "奴らはいつだって　俺達の大切なものを\n奪わんと目を光らせている悪鬼なのだ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090605_MSG0048",
+      "style": 0,
+      "name": "肯定"
+    },
+    {
+      "$id": 12,
+      "label": "qev090605_MSG0049",
+      "style": 0,
+      "name": "異星人には警戒すべきだとボゼの意見に従う"
+    },
+    {
+      "$id": 13,
+      "label": "qev090605_MSG0009",
+      "style": 0,
+      "name": "否定"
+    },
+    {
+      "$id": 14,
+      "label": "qev090605_MSG0010",
+      "style": 0,
+      "name": "異星人にも良い者はいると反論する"
+    },
+    {
+      "$id": 15,
+      "label": "qev090605_MSG0011",
+      "style": 0,
+      "name": "やはり　オヌシとは気が合う！\nだからこそ　ここまでやってこれたのよ！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090605_MSG0012",
+      "style": 0,
+      "name": "これからも共に　悪しき異星人どもを\nなぎ倒していこうではないか！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090605_MSG0013",
+      "style": 0,
+      "name": "奴らがいなければ　俺の教え子は\n命を落とさずにすんだのだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090605_MSG0014",
+      "style": 0,
+      "name": "いくらオヌシの言うことでも\nそのような意見には頷けぬよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090605_MSG0015",
+      "style": 0,
+      "name": "[ST:wide ]―とにかくお疲れ様でした\nこちらは今回の任務の報酬となります[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090605_MSG0016",
+      "style": 0,
+      "name": "これからもお二人のご活躍期待しています\n頑張ってくださいね[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090605_MSG0017",
+      "style": 0,
+      "name": "お帰りなさい　今回の任務はいかがでしたか？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090605_MSG0018",
+      "style": 0,
+      "name": "それがな道中\n妙な異星人に襲われたのだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090605_MSG0019",
+      "style": 0,
+      "name": "これまた妙な異星人にもらった物に\n助けられてしまってな[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090605_MSG0050",
+      "style": 0,
+      "name": "感謝していいのか　憎めばいいのか\nどうにもすっきりせん気分なんだ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090605_MSG0051",
+      "style": 0,
+      "name": "なぁ 俺は異星人どもをどう思えばいいんだ？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090605_JNK0030",
+      "style": 4,
+      "name": "感謝"
+    },
+    {
+      "$id": 27,
+      "label": "qev090605_SEL0031",
+      "style": 3,
+      "name": "マ・ノンには感謝すべきだと言う"
+    },
+    {
+      "$id": 28,
+      "label": "qev090605_JNK0040",
+      "style": 4,
+      "name": "憎悪"
+    },
+    {
+      "$id": 29,
+      "label": "qev090605_SEL0041",
+      "style": 3,
+      "name": "グロウスを強く憎むべきだと言う"
+    },
+    {
+      "$id": 30,
+      "label": "qev090605_MSG0022",
+      "style": 0,
+      "name": "ああ[ST:wide ]―　俺は大きな恩を受けた[ST:wide ]―\nあのマ・ノン人とかいう異星人にな[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090605_MSG0023",
+      "style": 0,
+      "name": "奴らは　地球を襲った連中とは違う\nそんな単純なことすら見失っていたのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090605_MSG0024",
+      "style": 0,
+      "name": "そうだ　奴ら異星人どもに\n俺の教え子達は殺されてきたのだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090605_MSG0025",
+      "style": 0,
+      "name": "絶対に許してなるものかよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev090605_MSG0026",
+      "style": 0,
+      "name": "いや[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev090605_MSG0026_2",
+      "style": 0,
+      "name": "だが　あのマ・ノン人のように\n良き異星人もいるのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev090605_MSG0027",
+      "style": 0,
+      "name": "俺は　そんな単純なことすら\n見失っていた[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev090605_MSG0028",
+      "style": 0,
+      "name": "教え子を失った悲しみを埋め合わせるため\n憎しみに逃げ込んでいたというわけか[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev090605_MSG0029",
+      "style": 0,
+      "name": "[ST:wide ]―ずいぶんと業の深い考えじゃないか\nこれじゃあボウズ失格だな[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev090605_MSG0030",
+      "style": 0,
+      "name": "なんだか　ボウズさんらしくないですね[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev090605_MSG0031",
+      "style": 0,
+      "name": "いつもだったら　そんな風に迷っている人に\n喝を入れてるじゃないですか？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev090605_MSG0032",
+      "style": 0,
+      "name": "ボウズ先生　無事に戻ったんですね！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev090605_MSG0033",
+      "style": 0,
+      "name": "ジェジェバってマ・ノン人に伝言を頼まれて\nずっと捜してたんですよ[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev090605_MSG0034",
+      "style": 0,
+      "name": "伝言[ST:wide ]―　だと？[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev090605_MSG0035",
+      "style": 0,
+      "name": "ええ　装置に反応があったけど\n大丈夫だったか[ST:wide ]―　なんて心配してて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev090605_MSG0037",
+      "style": 0,
+      "name": "すっごい心配そうだったから\nこっちまで不安になっちゃいましたよ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev090605_MSG0038",
+      "style": 0,
+      "name": "一度会っただけの俺のことをそこまでか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev090605_MSG0039",
+      "style": 0,
+      "name": "[ST:wide ]―あのマ・ノン人のおかげで\nやっと悟ることができたよ[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev090605_MSG0040",
+      "style": 0,
+      "name": "えっ？　どういうことですか？[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev090605_MSG0041",
+      "style": 0,
+      "name": "なぁに　仲間の死を逃げ場所にしていたのは\n俺の方だったというわけよ[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev090605_MSG0042",
+      "style": 0,
+      "name": "悪かったなレジー　オヌシに説教など\nしている場合ではなかったのさ[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev090605_MSG0043",
+      "style": 0,
+      "name": "はぁ[ST:wide ]―でも　とにかく御無事でよかったです\nジェジェバもきっと喜びますよ[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev090605_MSG0044",
+      "style": 0,
+      "name": "そうだな[ST:wide ]―　よしっ！[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev090605_MSG0045",
+      "style": 0,
+      "name": "今度一つ　地球から持ってきた仏像でも\n手土産にそやつの所を尋ねてみるか！[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev090605_MSG0054",
+      "style": 0,
+      "name": "迷いは晴れたみたいですね\nそれでこそボウズさんですよ[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev090605_MSG0055",
+      "style": 0,
+      "name": "これからもお二人のご活躍　期待しています\nそれでは今回の報酬をお受け取りください[ST:wait ]"
+    }
+  ]
+}

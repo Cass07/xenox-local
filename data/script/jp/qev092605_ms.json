@@ -1,0 +1,330 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092605_MSG0001",
+      "style": 0,
+      "name": "父ちゃーん！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092605_MSG0002",
+      "style": 0,
+      "name": "おお　トラ！\nしばらく見ない間に見違えたようだも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092605_MSG0003",
+      "style": 0,
+      "name": "そうですわも！\n一回り大きく成長したんだも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092605_MSG0004",
+      "style": 0,
+      "name": "えっへん！　その通りだも！\nこれを見てほしいんだも[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092605_MSG0005",
+      "style": 0,
+      "name": "おおっ！　これはノポン商会の証も！\nついにオマエもノポン商会の仲間となったか！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092605_MSG0006",
+      "style": 0,
+      "name": "これからは最大の仲間であり[ST:wide ]―\nライバルだも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092605_MSG0007",
+      "style": 0,
+      "name": "えらいですも！　約束をちゃんと果たして[ST:wide ]―\nママナは　トラが誇らしいですも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092605_MSG0008",
+      "style": 0,
+      "name": "でも　トラだけの力じゃないんだも[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092605_MSG0009",
+      "style": 0,
+      "name": "この人達がいてくれたから[ST:wide ]―\n一人前の商人になれたんだも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092605_MSG0010",
+      "style": 0,
+      "name": "いーえ　全ては一人前になりたいって\nトラ君の強い想いがあったからよ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092605_MSG0011",
+      "style": 0,
+      "name": "トラ君を見てたら　ＮＬＡを\n飛び出した頃の自分を思い出しちゃったわ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092605_MSG0012",
+      "style": 0,
+      "name": "ねっ？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092605_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 14,
+      "label": "qev092605_SEL0011",
+      "style": 3,
+      "name": "その通りだとうなずく"
+    },
+    {
+      "$id": 15,
+      "label": "qev092605_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 16,
+      "label": "qev092605_SEL0021",
+      "style": 3,
+      "name": "あの頃のミーアよりもしっかりしてると言う"
+    },
+    {
+      "$id": 17,
+      "label": "qev092605_MSG0013",
+      "style": 0,
+      "name": "うん！　わたしはブレイドの一員になって\nトラ君は一人前の商人になった！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092605_MSG0014",
+      "style": 0,
+      "name": "これからも一生懸命\nお互い　頑張っていかないとね！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092605_MSG0015",
+      "style": 0,
+      "name": "おうだも！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092605_MSG0015_2",
+      "style": 0,
+      "name": "イッショーケンメー頑張って\nタツに負けないようにするも！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092605_MSG0016",
+      "style": 0,
+      "name": "[ST:wide ]―まー　あの時のわたしって\n無鉄砲に突っ込むことしかできなかったもんね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092605_MSG0017",
+      "style": 0,
+      "name": "昔のわたしと比べたら\nトラ君はかなり立派だったかもね！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092605_MSG0018",
+      "style": 0,
+      "name": "やっぱそうだも？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092605_MSG0019",
+      "style": 0,
+      "name": "でも　タツに負けないよう\nもっともっとイッショーケンメー　頑張るも！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092605_MSG0020",
+      "style": 0,
+      "name": "いいお友達ができて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092605_MSG0021",
+      "style": 0,
+      "name": "どうやらトラは　コインよりも大切なものを\n手に入れたみたいですわも！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092605_MSG0022",
+      "style": 0,
+      "name": "大事にしろも　トラ！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092605_MSG0023",
+      "style": 0,
+      "name": "商人にとって何よりも大切なのはな\nお金でも商品でもない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092605_MSG0024",
+      "style": 0,
+      "name": "キズナの繋がりなんだも！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092605_MSG0025",
+      "style": 0,
+      "name": "トートン達も世界各地にトモダチがいるから\n行商の旅を続けていられるんだも！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev092605_MSG0026",
+      "style": 0,
+      "name": "よしっ[ST:wide ]―　トートン達は旅に戻るも\nトラよ　達者で暮らせも！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092605_MSG0027",
+      "style": 0,
+      "name": "また約束の日に　この場所で会いましょう\nそれじゃあーですわもー！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092605_MSG0028",
+      "style": 0,
+      "name": "えっ[ST:wide ]―　ええっ！\n再会したばっかなのにもう行っちゃうの！？[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092605_MSG0029",
+      "style": 0,
+      "name": "同じ場所には１時間といることはなく\n商売のチャンスを求めて　世界を飛び回る[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092605_MSG0030",
+      "style": 0,
+      "name": "そうやって　父ちゃん達はデンセツの行商人と\n呼ばれるようになったんだも[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092605_MSG0031",
+      "style": 0,
+      "name": "ちょっと寂しいけど[ST:wide ]―\nトラは　とっても誇らしいも！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092605_MSG0032",
+      "style": 0,
+      "name": "なんか[ST:wide ]―　そんなところも\nうちのパパとママにそっくりだね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092605_MSG0033",
+      "style": 0,
+      "name": "[ST:wide ]―ねぇ　前にも聞いたかもしれないけど\nもしパパとママが生きてたら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092605_MSG0034",
+      "style": 0,
+      "name": "一人前になったわたしを誉めてくれたかな？\nわたしを誇りに思ってくれたかな？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092605_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 41,
+      "label": "qev092605_SEL0031",
+      "style": 3,
+      "name": "出会った頃とは見違えたと\n正直な気持ちを話す"
+    },
+    {
+      "$id": 42,
+      "label": "qev092605_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 43,
+      "label": "qev092605_SEL0041",
+      "style": 3,
+      "name": "もっとミーアが成長したら\nそう言ってくれると言う"
+    },
+    {
+      "$id": 44,
+      "label": "qev092605_MSG0035",
+      "style": 0,
+      "name": "ありがと！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092605_MSG0035_2",
+      "style": 0,
+      "name": "それもきっと　センパイがいつも\n横にいてくれたからだよね！[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092605_MSG0036",
+      "style": 0,
+      "name": "これからもよろしくね！\n一緒にもっと　成長しましょ！[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092605_MSG0037",
+      "style": 0,
+      "name": "そっか[ST:wide ]―　それじゃあ\nこれからもよろしくお願いします！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092605_MSG0038",
+      "style": 0,
+      "name": "センパイといれば　きっとそんな風に\n認められるように　成長できるはずだもんね！[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092605_MSG0039",
+      "style": 0,
+      "name": "きっとパパとママも\nあんな感じで旅をしてたんだろうなぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092605_MSG0040",
+      "style": 0,
+      "name": "お互いを認め合って支え合って\n最高のパートナーだったんだろうな[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092605_MSG0041",
+      "style": 0,
+      "name": "まぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092605_MSG0042",
+      "style": 0,
+      "name": "どっちも男だったんだけどさ[ST:wait ]"
+    }
+  ]
+}

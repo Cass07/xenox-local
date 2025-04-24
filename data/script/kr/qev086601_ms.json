@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086601_MSG0001",
+      "style": 0,
+      "name": "누가 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086601_MSG0002",
+      "style": 0,
+      "name": "새로운 임무가 있는데, 부탁해도 되겠나?\n몬티 팀이 실패한 일일세[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086601_MSG0003",
+      "style": 0,
+      "name": "몬티…… 그는 테스터먼트였지?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086601_MSG0004",
+      "style": 0,
+      "name": "흰고래의 유류품이라도 발견된 거야?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086601_MSG0005",
+      "style": 0,
+      "name": "그렇다네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086601_MSG0006",
+      "style": 0,
+      "name": "최근 이 주변에 파츠 몇 개가\n떠밀려 와서 말이지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086601_MSG0007",
+      "style": 0,
+      "name": "그걸 전부 회수하고 싶네[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086601_JNK0010",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 9,
+      "label": "qev086601_SEL0011",
+      "style": 3,
+      "name": "회수하려는 목적이 무엇인지 묻는다"
+    },
+    {
+      "$id": 10,
+      "label": "qev086601_JNK0020",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 11,
+      "label": "qev086601_SEL0012",
+      "style": 3,
+      "name": "몬티 일행이 무사한지 확인한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev086601_MSG0008",
+      "style": 0,
+      "name": "떠밀려 온 파츠를 분석하면\n우주선 내부 중 어느 구획의 것인지 알 수 있다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086601_MSG0009",
+      "style": 0,
+      "name": "그러면 라이프가 추락한 위치를\n알아낼 단서도 될 수 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086601_MSG0010",
+      "style": 0,
+      "name": "그래, 먼저 그걸 말했어야 했군\n그들은 무사하다……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086601_MSG0011",
+      "style": 0,
+      "name": "일부 장비는 잃었지만\n본인들은 아주 멀쩡하다네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086601_MSG0012",
+      "style": 0,
+      "name": "NLA에서 생산할 수 없는 파츠를\n주울지도 모르고, 기대되네요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086601_MSG0013",
+      "style": 0,
+      "name": "그래, 테스터먼트 녀석들도 들떠 있어[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086601_MSG0014",
+      "style": 0,
+      "name": "하지만 아직 원시 생물이\n제거되지 않은 에어리어라 말일세[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086601_MSG0015",
+      "style": 0,
+      "name": "경험이 적은 팀에게는 어렵겠네\n알겠어, 우리가 회수해 올게[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086601_MSG0016",
+      "style": 0,
+      "name": "잘 부탁하네, 다른 팀에도 말해 둘 테니\n먼저 완수하는 팀이 공을 세우는 걸세[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086601_MSG0017",
+      "style": 0,
+      "name": "으흠! 이건 질 수 없다모!\n빨리 가자모![ST:wait ]"
+    }
+  ]
+}

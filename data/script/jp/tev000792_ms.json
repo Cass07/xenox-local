@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000792_MSG0001",
+      "style": 1,
+      "name": "よう　[ST:playername ]か[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000792_MSG0002",
+      "style": 1,
+      "name": "今　そこの嬢ちゃんに救急キットを\n多めに用意しておいてくれって頼んでたんだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000792_MSG0003",
+      "style": 1,
+      "name": "俺が担当する次の任務でオーバード2匹と\n同時に 遭遇する可能性があるんだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000792_MSG0004",
+      "style": 1,
+      "name": "厳しい戦いになって　負傷者が多く出るかも\nしれねぇからな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000792_JNK0010",
+      "style": 4,
+      "name": "羨む"
+    },
+    {
+      "$id": 6,
+      "label": "tev000792_SEL0011",
+      "style": 3,
+      "name": "燃える戦いになりそうだと\nダグを羨む"
+    },
+    {
+      "$id": 7,
+      "label": "tev000792_JNK0020",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 8,
+      "label": "tev000792_SEL0021",
+      "style": 3,
+      "name": "自分も手伝うと提案する"
+    },
+    {
+      "$id": 9,
+      "label": "tev000792_JNK0030",
+      "style": 4,
+      "name": "褒める"
+    },
+    {
+      "$id": 10,
+      "label": "tev000792_SEL0031",
+      "style": 3,
+      "name": "仲間思いなところを賞賛する"
+    },
+    {
+      "$id": 11,
+      "label": "tev000792_MSG0005",
+      "style": 1,
+      "name": "はっ[ST:wide ]―お前らしいな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000792_MSG0006",
+      "style": 1,
+      "name": "アヴァランチのヤツらでもビビってるし\n俺だってそこまで積極的じゃない[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000792_MSG0007",
+      "style": 1,
+      "name": "たぶん　お前ほどブレイドにふさわしい奴は\nいないぜ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000792_MSG0008",
+      "style": 1,
+      "name": "そんな[ST:playername ]に\n譲りたい気持ちもあるが\n俺たちにもプライドがある[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000792_MSG0009",
+      "style": 1,
+      "name": "ここは俺に任せてくれ\n誰一人脱落させずに戻ってくるからよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000792_MSG0010",
+      "style": 1,
+      "name": "そうしたら報酬もたんまりもらえるだろうし\nおごってやるよ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000792_MSG0011",
+      "style": 1,
+      "name": "じゃあ　俺はもう行くぞ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000792_MSG0012",
+      "style": 1,
+      "name": "お前に焚き付けられて\n俄然やる気が出てきたぞ！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000792_MSG0013",
+      "style": 1,
+      "name": "それには及ばねぇよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000792_MSG0014",
+      "style": 1,
+      "name": "俺には俺の仕事があるし\nお前にはお前のやるべきことがある[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000792_MSG0015",
+      "style": 1,
+      "name": "仲間思いなのは何よりありがたいが\nお前一人が全部抱え込むことはないんだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000792_MSG0016",
+      "style": 1,
+      "name": "ここは俺を信じて任せておいてくれ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000792_MSG0017",
+      "style": 1,
+      "name": "どうしても危なくなったら\n救援を呼ぶから　その時は頼むぜ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000792_MSG0018",
+      "style": 1,
+      "name": "っと　そうだ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000792_MSG0019",
+      "style": 1,
+      "name": "任務の件は問題ないんだが\nすぐにでも手伝ってもらいたいことが\nあったんだった[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000792_MSG0020",
+      "style": 1,
+      "name": "今　話した任務よりはるかに危険なんだが\n人類の希望になるかもしれないことなんだ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000792_MSG0021",
+      "style": 1,
+      "name": "それはな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000792_MSG0022",
+      "style": 1,
+      "name": "ドールフライトカスタムの開発だ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000792_MSG0023",
+      "style": 1,
+      "name": "リンのテストに付き合ってたら\n身体がいくつあっても足りねぇ……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000792_MSG0024",
+      "style": 1,
+      "name": "っ！？\nおい　俺の話を聞き流してるだろ！？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000792_MSG0025",
+      "style": 1,
+      "name": "ちゃんと聞いてくれって！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000792_MSG0026",
+      "style": 1,
+      "name": "別段褒められるようなことじゃないぜ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000792_MSG0027",
+      "style": 1,
+      "name": "俺たちの任務には人類のためという\n偉大な名分があるがいまいちピンとこないんだ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000792_MSG0028",
+      "style": 1,
+      "name": "スケールがでかくて想像できやしない[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000792_MSG0029",
+      "style": 1,
+      "name": "今の俺の身近にいるのは仲間たちだけだ\nお前も含めてな[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000792_MSG0030",
+      "style": 1,
+      "name": "だから俺はそいつらのために全力を\n尽くすだけなんだ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000792_MSG0031",
+      "style": 1,
+      "name": "その結果　人類のためになればいい[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000792_MSG0032",
+      "style": 1,
+      "name": "と　まあ　俺は金と目の前のことしか\nみれないからな[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000792_MSG0033",
+      "style": 1,
+      "name": "当然のことをしてるだけなんだぜ？[ST:wait ]"
+    }
+  ]
+}

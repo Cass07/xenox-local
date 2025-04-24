@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093101_MSG0010",
+      "style": 0,
+      "name": "よう　邪魔するぜ\n調子はどうだ？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093101_JNK0020",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 3,
+      "label": "qev093101_SEL0030",
+      "style": 3,
+      "name": "絶好調だと答える"
+    },
+    {
+      "$id": 4,
+      "label": "qev093101_MSG0040",
+      "style": 0,
+      "name": "ふっ　そいつは結構[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093101_MSG0050",
+      "style": 0,
+      "name": "これからすることを考えれば\nそうでなくちゃ困るってもんさ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093101_JNK0060",
+      "style": 4,
+      "name": "緊張"
+    },
+    {
+      "$id": 7,
+      "label": "qev093101_SEL0070",
+      "style": 3,
+      "name": "羨望の眼差しで見つめる"
+    },
+    {
+      "$id": 8,
+      "label": "qev093101_MSG0080",
+      "style": 0,
+      "name": "ほう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093101_MSG0085",
+      "style": 0,
+      "name": "もしかして\nオレの用向きに察しがついてるのか？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093101_MSG0090",
+      "style": 0,
+      "name": "だとしたら大したもんだ\n常在戦場ってやつか[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093101_MSG0100",
+      "style": 0,
+      "name": "さて[ST:wide ]―　前置きはここまでだ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093101_MSG0110",
+      "style": 0,
+      "name": "単刀直入に言うぜ\nオレと模擬戦をしないか[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093101_MSG0120",
+      "style": 0,
+      "name": "お姫様ご自慢の部下とやらの実力を\n直接確かめておきたくてな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093101_MSG0130",
+      "style": 0,
+      "name": "あのウィータを退けたって話は聞いてるが[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093101_MSG0135",
+      "style": 0,
+      "name": "オレは自分で見たものしか信じないタチでね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093101_MSG0140",
+      "style": 0,
+      "name": "いいか　生きるか死ぬかの戦いで重要なのは[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093101_MSG0145",
+      "style": 0,
+      "name": "背中を預けられる仲間の存在だ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093101_MSG0150",
+      "style": 0,
+      "name": "お前がオレの背中を預けるに値する奴か[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093101_MSG0155",
+      "style": 0,
+      "name": "そこんとこ知っておきたいのさ　事前にな[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093101_MSG0160",
+      "style": 0,
+      "name": "で　どうだ？\nオレの指名　受け取ってくれるか？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093101_JNK0170",
+      "style": 4,
+      "name": "強気"
+    },
+    {
+      "$id": 22,
+      "label": "qev093101_SEL0180",
+      "style": 3,
+      "name": "余裕の表情でうなずく"
+    },
+    {
+      "$id": 23,
+      "label": "qev093101_MSG0190",
+      "style": 0,
+      "name": "ははっ　大きく出たな！\nこいつは期待できそうだ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093101_MSG0200",
+      "style": 4,
+      "name": "弱気"
+    },
+    {
+      "$id": 25,
+      "label": "qev093101_MSG0210",
+      "style": 3,
+      "name": "自信なさげに首を振る"
+    },
+    {
+      "$id": 26,
+      "label": "qev093101_MSG0220",
+      "style": 0,
+      "name": "つれないこと言うなよ\nお互い本気でやり合おうぜ　なあ？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093101_MSG0230",
+      "style": 0,
+      "name": "オレはアレスに乗って出るが\nどう戦うかはお前に任せる[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093101_MSG0240",
+      "style": 0,
+      "name": "ドール同士の戦闘に持ち込むか\nあえて白兵戦を選ぶか[ST:wide ]―　お前の自由だ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev093101_MSG0250",
+      "style": 0,
+      "name": "仲間を連れ立っても構わないぜ\nチームを指揮するのも実力のうちだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev093101_MSG0260",
+      "style": 0,
+      "name": "話は終わりだ　準備ができたら\nイーストゲート傍の“ルーフロック”に来い[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev093101_MSG0270",
+      "style": 0,
+      "name": "アレスと一緒に\nお前が来るのを楽しみに待ってるぜ[ST:wait ]"
+    }
+  ]
+}

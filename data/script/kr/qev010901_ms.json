@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev010901_MSG0001",
+      "style": 1,
+      "name": "크으…… 으윽……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev010901_MSG0002",
+      "style": 1,
+      "name": "아…… 당신은……\n[ST:playername ]인가요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev010901_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 4,
+      "label": "qev010901_SEL0011",
+      "style": 3,
+      "name": "대체 무슨 일이 있었는지 상황을 확인한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev010901_JNK0020",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 6,
+      "label": "qev010901_SEL0021",
+      "style": 3,
+      "name": "칼의 상처를 걱정한다"
+    },
+    {
+      "$id": 7,
+      "label": "qev010901_MSG0003",
+      "style": 1,
+      "name": "솔직히 무지 심각하지만……\n지금은 저보다 NLA가 우선입니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev010901_MSG0004",
+      "style": 1,
+      "name": "그 녀석…… 그 녀석이 왔어요……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev010901_MSG0005",
+      "style": 1,
+      "name": "[ST:playername ] 씨가\n예전에 놓아줬던 괴물……\n새끼 즈우스예요![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev010901_MSG0006",
+      "style": 1,
+      "name": "그 새끼 즈우스가 다 커서\n블레이드를 마구 공격하고…… 저도……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev010901_MSG0007",
+      "style": 1,
+      "name": "그 녀석들은 놓아줘선 안 됐어요……\n불쌍해도 그때 죽여야 했어요![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev010901_MSG0008",
+      "style": 1,
+      "name": "이대로라면 우리의 판단 때문에\n많은 사람이 다치게 될 거예요……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev010901_MSG0009",
+      "style": 1,
+      "name": "부탁이에요…… 녀석을…… 녀석을……\n쓰러뜨려…… 주세요……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev010901_MSG0010",
+      "style": 1,
+      "name": "그 녀석들은 지금도 웨스트 게이트 북쪽의……\n그 둥지에 있는 것…… 같아요……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev010901_MSG0011",
+      "style": 1,
+      "name": "부디 NLA를 지켜……\n주세……요……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev010901_MSG0012",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    }
+  ]
+}

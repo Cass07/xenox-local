@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095105_MSG0001",
+      "style": 1,
+      "name": "이 지구인 여자……\n어쩐지 허둥대는 것 같구운[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095105_MSG0002",
+      "style": 1,
+      "name": "우리가 지구인의 적이 아니라는 걸\n네가 직접 설명해 주는 게 어떻겠나?[ST:wait ]"
+    }
+  ]
+}

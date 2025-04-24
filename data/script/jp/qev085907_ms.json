@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085907_MSG0001",
+      "style": 0,
+      "name": "どうやらうまくいったようね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085907_MSG0002",
+      "style": 0,
+      "name": "タツの作戦が大成功ですも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085907_MSG0003",
+      "style": 0,
+      "name": "ほんと　珍しいこともあるものね～[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085907_MSG0004",
+      "style": 0,
+      "name": "[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]で恋人作ってどうすんだって\n思ってたが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085907_MSG0004_2",
+      "style": 0,
+      "name": "ま　こういうのもいいかもな[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085907_MSG0005",
+      "style": 0,
+      "name": "どういう意味ですか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085907_MSG0006",
+      "style": 0,
+      "name": "失言だ　忘れてくれ[ST:wait ]"
+    }
+  ]
+}

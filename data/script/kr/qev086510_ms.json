@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086510_MSG0001",
+      "style": 1,
+      "name": "하아, 배가 꼬르륵이다모~\n빨리 엄마의 생선 요리를 먹고 싶다모~[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086510_MSG0002",
+      "style": 1,
+      "name": "엄마의 요리는 도돈가 카라반에서\n제일 맛있다모~[ST:wait ]"
+    }
+  ]
+}

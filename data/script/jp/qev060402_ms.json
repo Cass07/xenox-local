@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060402_MSG0001",
+      "style": 1,
+      "name": "ああああっ……ボルタントが身体をかけまわり\n全てがクリアになっていく……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060402_MSG0002",
+      "style": 1,
+      "name": "白く……あの到達点へまた……近づく……\nああっ！　ああああッ……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060402_JNK0010",
+      "style": 4,
+      "name": "声をかける"
+    },
+    {
+      "$id": 4,
+      "label": "qev060402_SEL0011",
+      "style": 3,
+      "name": "アラセニカンに声をかける"
+    },
+    {
+      "$id": 5,
+      "label": "qev060402_JNK0020",
+      "style": 4,
+      "name": "傍観"
+    },
+    {
+      "$id": 6,
+      "label": "qev060402_SEL0021",
+      "style": 3,
+      "name": "アラセニカンの様子をしばらく眺める"
+    },
+    {
+      "$id": 7,
+      "label": "qev060402_MSG0009",
+      "style": 1,
+      "name": "……あなたは……\nああっ！　邪魔を……しないでください！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev060402_MSG0012",
+      "style": 1,
+      "name": "うううううふぅ……\nほっ！　はぁああああああああああっ！！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev060402_MSG0015",
+      "style": 1,
+      "name": "ああっ……あと少し……\nあと……少しで……[ST:wait ]"
+    }
+  ]
+}

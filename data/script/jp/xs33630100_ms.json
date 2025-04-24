@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33630100_MSG0010",
+      "style": 0,
+      "name": "やれやれ[ST:wide ]―\nとんだアクシデントに見舞われましたね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33630100_MSG0020",
+      "style": 0,
+      "name": "戦力を分断させるとは\nバケモノのくせに知恵のまわることだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33630100_MSG0030",
+      "style": 0,
+      "name": "[ST:wide ]―ああ\n僕でしたら問題ありませんよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33630100_MSG0040",
+      "style": 0,
+      "name": "君が来るまで敵情を視察していました\nおおまかな分析も済んでいます[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33630100_MSG0050",
+      "style": 0,
+      "name": "ふっ　この僕が合流したからには\n万事の解決は目前ですよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33630100_MSG0060",
+      "style": 0,
+      "name": "この決戦で軍功をあげれば\n次期司令の座に着実に近づく[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33630100_MSG0070",
+      "style": 0,
+      "name": "さあ　モタモタしてないで行きますよ！\n敵は待ってくれませんからね！[ST:wait ]"
+    }
+  ]
+}

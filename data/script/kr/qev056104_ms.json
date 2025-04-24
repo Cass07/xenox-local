@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev056104_MSG0001",
+      "style": 1,
+      "name": "……넌 ……누구지?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev056104_MSG0002",
+      "style": 1,
+      "name": "……그렇군 ……우리를 구하러 온 건가\n폐를 끼쳤구나……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev056104_MSG0003",
+      "style": 1,
+      "name": "역시 우리는, 틀렸던 거야……\n오버의 목소리가, 옳았어……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev056104_MSG0004",
+      "style": 1,
+      "name": "이 안쪽에 있는 그것을……\n건드리지, 말았어야 했는데……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev056104_MSG0005",
+      "style": 1,
+      "name": "……최소한 룬오토남만이라도……\n부디…… 구해…… 줘……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev056104_MSG0006",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    }
+  ]
+}

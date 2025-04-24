@@ -1,0 +1,564 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12150100_MSG0001",
+      "style": 0,
+      "name": "라오![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12150100_MSG0002",
+      "style": 0,
+      "name": "루크자르를 비롯한 창조된 생명체에는\n비상 정지 시스템이 들어 있었어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12150100_MSG0003",
+      "style": 0,
+      "name": "강인한 생명체인 그들이 폭주할 때를 대비한 것[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12150100_MSG0004",
+      "style": 0,
+      "name": "그것이 서멀의, 지구인의 육체다……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12150100_MSG0005",
+      "style": 0,
+      "name": "끊임없이 이어져 온 지구인의 유전자야말로\n그로우스의 폭주를 막을 열쇠……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12150100_MSG0006",
+      "style": 0,
+      "name": "그래서 루크자르와 녀석들은……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12150100_MSG0006_02",
+      "style": 0,
+      "name": "B.B.인 우리가 아니라 라이프에서 재생되는\n지구인을 두려워했던 거야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12150100_MSG0007",
+      "style": 0,
+      "name": "라오 씨……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12150100_MSG0008",
+      "style": 0,
+      "name": "이걸로 된 거야……\n잘했어, 너희들[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12150100_MSG0009",
+      "style": 0,
+      "name": "이로써 인류의 소망은 이루어진다\n미래를 향해 나아갈 수 있는 거야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12150100_MSG0010",
+      "style": 0,
+      "name": "잊지 마…… 우리가 육체를 되찾으면[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs12150100_MSG0011",
+      "style": 0,
+      "name": "더 이상 그로우스를 두려워할 필요…… 없어……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs12150100_MSG0012",
+      "style": 0,
+      "name": "어떻게 됐어?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12150100_MSG0013",
+      "style": 0,
+      "name": "아직 가동 중인 건가?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12150100_MSG0014",
+      "style": 0,
+      "name": "무사해요……\n어떻게든 유지되고 있어요![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12150100_MSG0015",
+      "style": 0,
+      "name": "다행이다~\n저희가 지켜 낸 거군요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs12150100_MSG0016",
+      "style": 0,
+      "name": "하지만 라오 씨는……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12150100_MSG0017",
+      "style": 0,
+      "name": "너무 슬퍼하지 마[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs12150100_MSG0018",
+      "style": 0,
+      "name": "우리는 시스템을 지켜 냈을 뿐 아니라\n라오도 구한 거야……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12150100_MSG0019",
+      "style": 0,
+      "name": "그렇군……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs12150100_MSG0020",
+      "style": 0,
+      "name": "녀석의 기억도 유전자 정보도\n라이프의 클라우드 데이터에 보존되어 있지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs12150100_MSG0021",
+      "style": 0,
+      "name": "맞아, 그도 새로운 육체로\n되살아날 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12150100_MSG0022",
+      "style": 0,
+      "name": "하지만 그걸……\n라오 씨가 납득할까요……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12150100_MSG0023",
+      "style": 0,
+      "name": "자신이 한 일들을\n전부 기억할 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs12150100_MSG0024",
+      "style": 0,
+      "name": "그래도 상관없어\n죽어 버리면 속죄도 후회도 못 해[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs12150100_MSG0025",
+      "style": 0,
+      "name": "그 녀석이 살아 돌아오면\n저지른 죄에 걸맞은 일을 시키면 돼[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs12150100_MSG0026",
+      "style": 0,
+      "name": "그렇군…… 그 말이 맞아[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs12150100_MSG0027",
+      "style": 0,
+      "name": "그렇네요\n그러면 서둘러 시스템을 복구하죠![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs12150100_MSG0029",
+      "style": 0,
+      "name": "엘마 대령님?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs12150100_MSG0030",
+      "style": 0,
+      "name": "모두에게 한 가지\n말해야만 하는 일이 있어[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs12150100_MSG0031",
+      "style": 0,
+      "name": "뭐야, 갑자기[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs12150100_MSG0032",
+      "style": 0,
+      "name": "NLA의 B.B. 중 오직 한 명[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs12150100_MSG0033",
+      "style": 0,
+      "name": "콜드 캡슐에 잠들어 있는 몸에서\n의식이 전송되는 자가 있어……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs12150100_MSG0034",
+      "style": 0,
+      "name": "네? 지구종 범이민 계획에\n살아 있는 몸은 없다고……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs12150100_MSG0035",
+      "style": 0,
+      "name": "그래, 하지만 그 한 명만은 달라[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs12150100_MSG0036",
+      "style": 0,
+      "name": "무슨 뜻이냐?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs12150100_MSG0037",
+      "style": 0,
+      "name": "이런 뜻이야[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs12150100_MSG0038",
+      "style": 0,
+      "name": "엘마 대령님![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs12150100_MSG0039",
+      "style": 0,
+      "name": "에, 엘마 씨, 죽어 버린 건가모!?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs12150100_MSG0040",
+      "style": 0,
+      "name": "아니야, 이건……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs12150100_MSG0041",
+      "style": 0,
+      "name": "……죽은 게 아니야\n의식을 원래 몸으로 되돌렸을 뿐[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs12150100_MSG0042",
+      "style": 0,
+      "name": "엘마…… 그 모습……!?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs12150100_MSG0043",
+      "style": 0,
+      "name": "그래, 이게 내 진짜 모습이야[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs12150100_MSG0044",
+      "style": 0,
+      "name": "콜드 캡슐 안에 들어 있던 유일한 외계인[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs12150100_MSG0045",
+      "style": 0,
+      "name": "엘마 대령님……\n지구인이 아니었던 겁니까![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs12150100_MSG0046",
+      "style": 0,
+      "name": "그럴 수가……[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs12150100_MSG0047",
+      "style": 0,
+      "name": "오오, 아름답네요[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs12150100_MSG0048",
+      "style": 0,
+      "name": "이 모습을 보고도……\n날 너희의 동료라고 생각해 줄 수 있겠어?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs12150100_MSG0050",
+      "style": 0,
+      "name": "당연하잖아요![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs12150100_MSG0051",
+      "style": 0,
+      "name": "저희는 엘마 씨의 겉모습이 아니라……\n행동을 믿고 여기까지 따라온 거예요![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs12150100_MSG0052",
+      "style": 0,
+      "name": "그렇다모![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs12150100_MSG0062",
+      "style": 0,
+      "name": "……린의 말이 맞아[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs12150100_MSG0063",
+      "style": 0,
+      "name": "엘마 대령님, 당신은 의미도 없이\n저희를 속일 분이 아닙니다[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs12150100_MSG0064",
+      "style": 0,
+      "name": "맞는 말이야, 나도 믿겠어[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs12150100_MSG0065",
+      "style": 0,
+      "name": "저도 그렇고요[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs12150100_MSG0066",
+      "style": 0,
+      "name": "고마워, 기뻐[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs12150100_MSG0067",
+      "style": 0,
+      "name": "너희의 신뢰에 보답하기 위해서도\n내가 아는 진실을 모두 말할게……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs12150100_MSG0068",
+      "style": 0,
+      "name": "하지만 그 전에 할 일은 해야지[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs12150100_MSG0069",
+      "style": 0,
+      "name": "나밖에 할 수 없는 일을……[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs12150100_MSG0070",
+      "style": 0,
+      "name": "이제 예비 동력 시스템으로 전환될 거야[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs12150100_MSG0071",
+      "style": 0,
+      "name": "생체 인증 코드, 확인[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs12150100_MSG0072",
+      "style": 0,
+      "name": "예비 동력 시스템으로 전환\n완료되었습니다[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs12150100_MSG0073",
+      "style": 0,
+      "name": "정말로 전환된 거 맞아?\n갑자기 뭔가 터지는 건 아니겠지?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs12150100_MSG0074",
+      "style": 0,
+      "name": "그럼, 괜찮아[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs12150100_MSG0075",
+      "style": 0,
+      "name": "엘마 씨, 나기 아저씨예요[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs12150100_MSG0076",
+      "style": 0,
+      "name": "연결해 줘[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs12150100_MSG0077",
+      "style": 0,
+      "name": "가동 한계 시간의 회복을 확인했다\n다들 고맙다[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs12150100_MSG0078",
+      "style": 0,
+      "name": "반담으로부터 외부의 그로우스 부대를\n제압했다는 보고도 받았다[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs12150100_MSG0079",
+      "style": 0,
+      "name": "메인 동력 시스템은 수일 내로\n테스터먼트가 복구할 것이다[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs12150100_MSG0080",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs12150100_MSG0081",
+      "style": 0,
+      "name": "고생 많았다\n복귀하면 축배를 들도록 하자[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs12150100_MSG0082",
+      "style": 0,
+      "name": "이걸로 우리 수명은 당분간 늘어났군[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs12150100_MSG0083",
+      "style": 0,
+      "name": "그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs12150100_MSG0084",
+      "style": 0,
+      "name": "메인 동력이 회복되면\n활동 정지를 걱정하지 않아도 돼요[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs12150100_MSG0085",
+      "style": 0,
+      "name": "살아 있는 몸으로 돌아가면 동력도 필요 없지만요[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs12150100_MSG0086",
+      "style": 0,
+      "name": "그래, 네 말대로야[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs12150100_MSG0087",
+      "style": 0,
+      "name": "그러려면 일단 제어 컴퓨터를\n수리해야 해[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs12150100_MSG0088",
+      "style": 0,
+      "name": "아래층에 있는 너희의 기억……\n데이터베이스도 확인해야 하고[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs12150100_MSG0089",
+      "style": 0,
+      "name": "잠깐 기다려 봐[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "xs12150100_MSG0090",
+      "style": 0,
+      "name": "그 전에 엘마가 말하려던\n진실을 듣는 게 먼저잖냐[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs12150100_MSG0091",
+      "style": 0,
+      "name": "그러고 보니……\n너무 많은 일이 있어서 깜빡했네요[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs12150100_MSG0092",
+      "style": 0,
+      "name": "괜찮아, 서두르지 않아도 돼\n이제 우리에겐 시간이 잔뜩 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs12150100_MSG0093",
+      "style": 0,
+      "name": "게다가 긴 이야기가 될 거야[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs12150100_MSG0094",
+      "style": 0,
+      "name": "이렇게 할까?[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs12150100_MSG0095",
+      "style": 0,
+      "name": "일단 NLA로 돌아가서 린의 요리라도 먹으며\n내 이야기를 듣는 건 어때?[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs12150100_MSG0096",
+      "style": 0,
+      "name": "찬성이다모!\n타츠, 배가 꼬르륵거린다모![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "xs12150100_MSG0097",
+      "style": 0,
+      "name": "마침 여기에 살이 포동포동하게 찐\n식재료도 있으니까요…… 그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "xs12150100_MSG0098",
+      "style": 0,
+      "name": "못! 모모모못~!?[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "xs12150100_MSG0099",
+      "style": 0,
+      "name": "하하하하하, 그렇군\n음, 그렇게 하자고[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "xs12150100_MSG0100",
+      "style": 0,
+      "name": "그러면 여러분, 돌아갑시다[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "xs12150100_MSG0101",
+      "style": 0,
+      "name": "네, 돌아가요\n우리의 도시…… NLA로[ST:wait ]"
+    }
+  ]
+}

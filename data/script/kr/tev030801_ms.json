@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev030801_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev030801_SEL0011",
+      "style": 3,
+      "name": "일에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev030801_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev030801_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev030801_SEL0031",
+      "style": 3,
+      "name": "돌 보험에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev030801_SEL0041",
+      "style": 3,
+      "name": "돌로 싸우는 법에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev030801_MSG0001",
+      "style": 1,
+      "name": "마 논인의 의식주에 관한 작업은\n대부분 마 논 우주선의 기계가 해 줘[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev030801_MSG0002",
+      "style": 1,
+      "name": "그러니까 마 논인이 하는 일이라고 하면\n메인터넌스나 관리 정도야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev030801_MSG0003",
+      "style": 1,
+      "name": "지구인처럼 재미없는 일 따위 안 하지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev030801_MSG0008",
+      "style": 1,
+      "name": "블레이드 녀석들\n오늘도 하나같이 뭘 부숴서 가져오고 있어……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev030801_MSG0009",
+      "style": 1,
+      "name": "……하지만 그만큼 죽을힘을 다해 살아남으며\n전장에서 싸워 왔다는 뜻이지?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev030801_MSG0010",
+      "style": 1,
+      "name": "난 말이야…… 너와의 약속을 지켜서\n닥치는 대로 그것들을 수리하고, 수리하고\n몽땅 수리해 줄 테니까![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev030801_MSG0011",
+      "style": 1,
+      "name": "힘든 일도 있겠지만 주저앉지 마!\n나도 형님과 함께 열심히 할 테니까[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev030801_MSG0018",
+      "style": 1,
+      "name": "돌이 부서졌을 때\n블레이드가 샐비지 요금을 매번 내야 한다면\n격한 전투가 있을 때마다 파산할 테니까[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev030801_MSG0019",
+      "style": 1,
+      "name": "너희 돌에는 대부분\n돌 보험이라는 게 들려 있어[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev030801_MSG0020",
+      "style": 1,
+      "name": "그게 없어지지 않으면 아무리 부서져도\n공짜로 완벽하게 수리해서 돌려주지만……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev030801_MSG0021",
+      "style": 1,
+      "name": "너희 본부가 돈을 대신 내 주는 거니까\n절대 소홀히 다루지 마[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev030801_MSG0022",
+      "style": 1,
+      "name": "아무리 돌이라지만\n너무 무모한 짓만 골라 하지는 마[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev030801_MSG0023",
+      "style": 1,
+      "name": "부서져 버릴 때까지 타면\n수리비도 장난 아니라고?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev030801_MSG0024",
+      "style": 1,
+      "name": "완전히 부서지기 전에\n돌에서 내려서 싸운다거나……\n조금은 머리를 쓰란 말이야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev030801_MSG0025",
+      "style": 1,
+      "name": "가끔은 우리 수리점에\n일이 없는 날도 만들어 달라고![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev030801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev030801_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev030801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev030801_SEL1011",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev030801_MSG0012",
+      "style": 1,
+      "name": "네가 물건을 소홀히 다루는\n나쁜 녀석이 아니라는 건 알았어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev030801_MSG0013",
+      "style": 1,
+      "name": "하지만 말이지…… 아직 지구인을\n인정한 게 아니라고?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev030801_MSG0014",
+      "style": 1,
+      "name": "이 도시에 사는 녀석들은\n물건을 대하는 애정이라는 게 전혀 없어[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev030801_MSG0015",
+      "style": 1,
+      "name": "태어났을 때부터 이것저것 만들며\n기계와 함께 살아온 마 논 입장에서 보면\n믿을 수 없는 일이야[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev030801_MSG0016",
+      "style": 1,
+      "name": "그런데도 형님은……\n계속해서 수리 의뢰를 받고……\n그러니까 마음이 여리단 거야[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev030801_MSG0017",
+      "style": 1,
+      "name": "흥, 맡은 수리는 해 주겠지만\n그런 부분은 고쳐 줬으면 좋겠어[ST:wait ]"
+    }
+  ]
+}

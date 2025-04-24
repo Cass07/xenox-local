@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091501_MSG0001",
+      "style": 0,
+      "name": "兄さん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091501_JNK0010",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 3,
+      "label": "qev091501_SEL0011",
+      "style": 3,
+      "name": "今回の任務で不安があるのか心配する"
+    },
+    {
+      "$id": 4,
+      "label": "qev091501_JNK0020",
+      "style": 4,
+      "name": "同情"
+    },
+    {
+      "$id": 5,
+      "label": "qev091501_SEL0021",
+      "style": 3,
+      "name": "フライが口を利いてくれないことに同情する"
+    },
+    {
+      "$id": 6,
+      "label": "qev091501_MSG0002",
+      "style": 0,
+      "name": "お気遣いありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091501_MSG0003",
+      "style": 0,
+      "name": "街の防衛の方は心配してません[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091501_MSG0004",
+      "style": 0,
+      "name": "あなたと一緒にいろいろな任務を\n達成したことがいい経験になってますから[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091501_MSG0005",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091501_MSG0006",
+      "style": 0,
+      "name": "でも　兄さんのこと　少し不安なんです\n嫌な予感がするっていうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091501_MSG0007",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091501_MSG0008",
+      "style": 0,
+      "name": "それは慣れっこですから[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091501_MSG0009",
+      "style": 0,
+      "name": "兄さんのこと　少し不安なんです\n嫌な予感がするっていうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091501_MSG0010",
+      "style": 0,
+      "name": "けど　心配していても仕方ないですよね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091501_MSG0011",
+      "style": 0,
+      "name": "任務はもう始まっているのですから\n役目を全うしなければ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091501_MSG0012",
+      "style": 0,
+      "name": "ひとまず　街の東側にいる\nウォルターさんの所に行きましょう[ST:wait ]"
+    }
+  ]
+}

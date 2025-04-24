@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087403_MSG0001",
+      "style": 0,
+      "name": "이 시간대는 이 주변이 의심스러운데[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087403_MSG0002",
+      "style": 0,
+      "name": "엘마 씨, 왔어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087403_MSG0003",
+      "style": 0,
+      "name": "사령관 아저씨다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087403_MSG0004",
+      "style": 0,
+      "name": "낮의 반담 사령관님을 찾았네요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087403_MSG0005",
+      "style": 0,
+      "name": "이번에는 일하고 있는 분위기야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087403_MSG0006",
+      "style": 0,
+      "name": "메인터넌스가 쫓아가질 못합니다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087403_MSG0007",
+      "style": 0,
+      "name": "그래, 어제 전투는 격렬했으니 말이지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087403_MSG0008",
+      "style": 0,
+      "name": "일단은 손상이 적은 기체를 우선시하도록[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087403_MSG0009",
+      "style": 0,
+      "name": "크게 파손된 돌은 고치기보단\n파츠를 빼내서 사용하게, 그편이 빨라[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087403_MSG0010",
+      "style": 0,
+      "name": "그렇군요![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087403_MSG0011",
+      "style": 0,
+      "name": "전자 부품이나 제너레이터는 재활용할 수 있지만\n2차 장갑 부재는 쓸 만한 상태가 아니에요……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087403_MSG0012",
+      "style": 0,
+      "name": "아, 그건 마테리얼이 필요하지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087403_MSG0013",
+      "style": 0,
+      "name": "어이, 거기 구경꾼들[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087403_MSG0014",
+      "style": 0,
+      "name": "네에!?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087403_MSG0015",
+      "style": 0,
+      "name": "구경꾼이라니 너무하네……\n자기가 보러 오라고 했으면서[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087403_MSG0016",
+      "style": 0,
+      "name": "이봐, 그런 소리 말라고\n결과적으로 블레이드 전체에 도움이 될 일이잖나[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087403_MSG0017",
+      "style": 0,
+      "name": "자, 알겠으면 필요한 마테리얼을\n빨리 모아 와 주게[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087403_MSG0018",
+      "style": 0,
+      "name": "그런 건 아저씨가 해라모![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087403_MSG0019",
+      "style": 0,
+      "name": "나 말인가?\n난 여기서 메카닉을 감독해야 하거든[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087403_MSG0020",
+      "style": 0,
+      "name": "미안하지만 부탁하겠네[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087403_MSG0021",
+      "style": 0,
+      "name": "이것도 임무인 거지……? 알았어[ST:wait ]"
+    }
+  ]
+}

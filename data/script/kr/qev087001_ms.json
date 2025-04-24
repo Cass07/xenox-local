@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087001_MSG0001",
+      "style": 0,
+      "name": "늦었군……\n기다렸네, 엘마 팀 제군들[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087001_MSG0002",
+      "style": 0,
+      "name": "블레이드로서의 본래 임무가 산더미거든[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087001_MSG0003",
+      "style": 0,
+      "name": "행정장관이 직접 의뢰하는 이례적인 일은\n좀처럼 없기도 하고 말이지[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087001_MSG0004",
+      "style": 0,
+      "name": "그만큼 중대한 일이라고 생각해 줬으면 좋겠군\n인류의 미래에 있어서 필요한 임무다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087001_MSG0005",
+      "style": 0,
+      "name": "정식 임무라면 본부를 통해서 맡겠어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087001_MSG0006",
+      "style": 0,
+      "name": "정식 임무가 아니다……라고 인정하긴 싫지만\n나기와 반담은 거절했다네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087001_MSG0007",
+      "style": 0,
+      "name": "그렇다기보다는 반대했지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087001_MSG0008",
+      "style": 0,
+      "name": "네에?\n그런 걸 맡을 수는 없어요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087001_MSG0009",
+      "style": 0,
+      "name": "임무 내용과\n두 사람이 반대한 이유를 알려 줘[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087001_MSG0010",
+      "style": 0,
+      "name": "현명한 판단이다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087001_MSG0011",
+      "style": 0,
+      "name": "곧 자일 요새에……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087001_MSG0012",
+      "style": 0,
+      "name": "우리가 기습 공격을 가할 예정인 건\n알고 있겠지?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087001_MSG0013",
+      "style": 0,
+      "name": "물론이죠\n블레이드의 총력을 다하는 작전인걸요![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087001_MSG0014",
+      "style": 0,
+      "name": "작전 계획에서는 우리의 피해를\n최소화하는 것을 우선하여……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087001_MSG0015",
+      "style": 0,
+      "name": "원거리 공격을 가하는 것으로 되어 있지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087001_MSG0016",
+      "style": 0,
+      "name": "당연한 전술이네[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087001_MSG0017",
+      "style": 0,
+      "name": "물론일세, 그걸 부정할 생각은 없다네\n하지만 그래서는 정보를 입수할 수 없지[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087001_JNK0010",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 19,
+      "label": "qev087001_SEL0011",
+      "style": 3,
+      "name": "원하는 정보가 무엇인지 묻는다"
+    },
+    {
+      "$id": 20,
+      "label": "qev087001_JNK0020",
+      "style": 4,
+      "name": "반론"
+    },
+    {
+      "$id": 21,
+      "label": "qev087001_SEL0021",
+      "style": 3,
+      "name": "피해 최소화가 우선이라고 주장한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev087001_MSG0018",
+      "style": 0,
+      "name": "그로우스의 내부 사정이다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087001_MSG0019",
+      "style": 0,
+      "name": "우리는 지금 그로우스에 관해\n아는 게 거의 없다고 해도 무방해[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087001_MSG0020",
+      "style": 0,
+      "name": "앞으로도 싸움이 계속되든\n평화 협정을 맺게 되든……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087001_MSG0021",
+      "style": 0,
+      "name": "상대에 관해 모르는 상태로는\n대책을 세울 수 없다네[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087001_MSG0022",
+      "style": 0,
+      "name": "오해하지 말아 줬으면 한다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087001_MSG0023",
+      "style": 0,
+      "name": "여기서 그들의 정보를 입수하면\n앞으로의 싸움을 유리하게 이끌 수 있네[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087001_MSG0024",
+      "style": 0,
+      "name": "평화 협정이 체결될 가능성도 생기겠지[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev087001_MSG0025",
+      "style": 0,
+      "name": "그것이 최종적으로는\n피해를 줄일 수 있다고 생각하고 있네[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev087001_MSG0026",
+      "style": 0,
+      "name": "말씀하시는 내용은 알겠는데\n저희가 뭘 할 수 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev087001_MSG0027",
+      "style": 0,
+      "name": "작전이 실행되기 전에 요새에 잠입하여[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev087001_MSG0028",
+      "style": 0,
+      "name": "뭐든지 좋으니\n그들의 정보를 입수해 줬으면 하네[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev087001_MSG0029",
+      "style": 0,
+      "name": "그런 게 가능한가요!?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087001_MSG0030",
+      "style": 0,
+      "name": "가능하다……\n라고 간단히 단언할 수는 없지[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087001_MSG0031",
+      "style": 0,
+      "name": "하지만 누군가는 해야 할 일이라 생각했고……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev087001_MSG0032",
+      "style": 0,
+      "name": "자네들이 가장\n성공 확률이 높은 팀이라고 여겼다네[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev087001_MSG0033",
+      "style": 0,
+      "name": "그래서 이렇게 직접 이야기하는 거구나……\n명예로운 일이네[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev087001_MSG0034",
+      "style": 0,
+      "name": "비꼬는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev087001_MSG0035",
+      "style": 0,
+      "name": "어떻게 받아들일지는 자유야……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev087001_MSG0036",
+      "style": 0,
+      "name": "우리가 거절하면 어떻게 할 거야?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev087001_MSG0037",
+      "style": 0,
+      "name": "자네들 다음으로 확률이 높은 팀에게 의뢰할 걸세[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev087001_MSG0038",
+      "style": 0,
+      "name": "그래도 안 된다면 그다음……\n맡아 줄 팀이 나타날 때까지 계속 말이지[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev087001_MSG0039",
+      "style": 0,
+      "name": "그렇게까지 할 가치가 있다고\n확신하는구나[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev087001_MSG0040",
+      "style": 0,
+      "name": "그렇다[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev087001_MSG0041",
+      "style": 0,
+      "name": "알았어, 맡도록 할게[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev087001_MSG0042",
+      "style": 0,
+      "name": "부탁함세[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev087001_MSG0043",
+      "style": 0,
+      "name": "단, 필요 이상으로 위험을 무릅쓸 생각은 없어[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev087001_MSG0044",
+      "style": 0,
+      "name": "상황에 따라서는\n정보 입수를 포기하고 작전을 중지하겠어[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev087001_MSG0045",
+      "style": 0,
+      "name": "그렇게 되지 않기를 바라겠네[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev087001_MSG0046",
+      "style": 0,
+      "name": "한 가지만 알려 줘[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev087001_MSG0047",
+      "style": 0,
+      "name": "그로우스의 정보를 원하는 이유는\n방금 말한 게 다야?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev087001_MSG0048",
+      "style": 0,
+      "name": "다른 뭔가가 있다는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev087001_MSG0049",
+      "style": 0,
+      "name": "글쎄……\n난 그저 당신의 생각을 알고 싶을 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev087001_MSG0050",
+      "style": 0,
+      "name": "내가 바라는 건 이 땅에 다다른 지구 인류에게\n미래를 가져다주는 것뿐일세[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev087001_MSG0051",
+      "style": 0,
+      "name": "……그 말, 믿겠어[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev087001_MSG0052",
+      "style": 0,
+      "name": "블레이드 홈으로 돌아가서 준비하자\n힘든 임무가 될 거야[ST:wait ]"
+    }
+  ]
+}

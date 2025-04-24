@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08060170_MSG0001",
+      "style": 0,
+      "name": "왠지 줄어든 것 같다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08060170_MSG0002",
+      "style": 0,
+      "name": "엘마 씨, 어떻게든 이스트 게이트를\n지켜 낼 수 있겠어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08060170_MSG0003",
+      "style": 0,
+      "name": "너무 적어……\n정말로 이게…… 전부일까……?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08060170_MSG0004",
+      "style": 0,
+      "name": "엘마 씨[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08060170_MSG0005",
+      "style": 0,
+      "name": "미안해\n그래, 조금만 더 힘내자[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08060170_MSG0006",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    }
+  ]
+}

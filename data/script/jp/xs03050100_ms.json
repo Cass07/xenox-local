@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03050100_MSG0001",
+      "style": 0,
+      "name": "地球人は皆殺し\nまさに　その通りにしたというわけね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs03050100_MSG0002",
+      "style": 0,
+      "name": "そうだ　運がなかったな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs03050100_MSG0003",
+      "style": 0,
+      "name": "そんな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs03050100_MSG0004",
+      "style": 0,
+      "name": "お前達は　この星へ来るべきではなかった[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs03050100_MSG0005",
+      "style": 0,
+      "name": "流暢な言葉ね\n他の者とは違うのかしら[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs03050100_MSG0006",
+      "style": 0,
+      "name": "オレは グレンナーだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs03050100_MSG0007",
+      "style": 0,
+      "name": "お前達の言葉で言うなら\n隊長　といったところか[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs03050100_MSG0008",
+      "style": 0,
+      "name": "なるほどね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs03050100_MSG0009",
+      "style": 0,
+      "name": "ここがあなた達の星だとしたら\n無断で降り立った非礼を謝罪する[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs03050100_MSG0010",
+      "style": 0,
+      "name": "でも　私達の船は未知の敵に襲われ\n不時着したの[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs03050100_MSG0011",
+      "style": 0,
+      "name": "同じ宇宙に生きる者として\n理解と寛容を求めたい[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs03050100_MSG0012",
+      "style": 0,
+      "name": "リカイ？　カンヨウ？\nそんな言葉は知らん[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs03050100_MSG0013",
+      "style": 0,
+      "name": "お前達はただぶち殺されていくだけだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs03050100_MSG0014",
+      "style": 0,
+      "name": "エルマさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs03050100_MSG0015",
+      "style": 0,
+      "name": "どうやら　弱肉強食の論理こそが\n有効というわけね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs03050100_MSG0016",
+      "style": 0,
+      "name": "いいわ\n地球人を知っているということは[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs03050100_MSG0017",
+      "style": 0,
+      "name": "私達との因縁は始まったばかり\nということではなさそうね[ST:wait ]\n"
+    }
+  ]
+}

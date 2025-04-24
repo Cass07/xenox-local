@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001193_MSG0001",
+      "style": 1,
+      "name": "あら　[ST:playername ]\n奇遇ね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001193_MSG0002",
+      "style": 1,
+      "name": "あなた　車に興味はある？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001193_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 4,
+      "label": "tev001193_SEL0011",
+      "style": 3,
+      "name": "興味があると答える"
+    },
+    {
+      "$id": 5,
+      "label": "tev001193_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 6,
+      "label": "tev001193_SEL0021",
+      "style": 3,
+      "name": "興味はないと否定する"
+    },
+    {
+      "$id": 7,
+      "label": "tev001193_MSG0003",
+      "style": 1,
+      "name": "そう思ったわ\n車好きの誰かさんと同じ目をしてるものね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001193_MSG0004",
+      "style": 1,
+      "name": "私は詳しいわけではないけれど\n少しは車を知ってるつもりよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001193_MSG0005",
+      "style": 1,
+      "name": "ゴム製のタイヤ　ガソリンエンジン[ST:wide ]―\nスーパーチャージャー　ハードトップ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001193_MSG0006",
+      "style": 1,
+      "name": "そんな単語が飛び交う話を聞きながら\nクラシックカーによく乗せてもらったからね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001193_MSG0007",
+      "style": 1,
+      "name": "そう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001193_MSG0008",
+      "style": 1,
+      "name": "私も詳しいわけではないのだけれど\n地球で見ていた車とは少し違うと思って[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001193_MSG0009",
+      "style": 1,
+      "name": "ゴム製のタイヤ　ガソリンエンジン[ST:wide ]―\nスーパーチャージャー　ハードトップ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001193_MSG0010",
+      "style": 1,
+      "name": "そんな単語が飛び交う話を聞きながら\nクラシックカーによく乗せてもらったから\n少しは分かるのよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001193_MSG0011",
+      "style": 1,
+      "name": "エンストをよく起こす　かなり古い型の\n車だったのだけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001193_MSG0012",
+      "style": 1,
+      "name": "そのおかげで余計に歴史を感じられたというか\n車って素敵なものだと感じられたの[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001193_JNK0030",
+      "style": 4,
+      "name": "ひけらかす"
+    },
+    {
+      "$id": 18,
+      "label": "tev001193_SEL0031",
+      "style": 3,
+      "name": "最初の車は蒸気機関だったと\nエルマに教える"
+    },
+    {
+      "$id": 19,
+      "label": "tev001193_JNK0040",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 20,
+      "label": "tev001193_SEL0041",
+      "style": 3,
+      "name": "車を買ったら\nドライブしようと提案する"
+    },
+    {
+      "$id": 21,
+      "label": "tev001193_MSG0013",
+      "style": 1,
+      "name": "そうなの[ST:wide ]―？\n物知りね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001193_MSG0014",
+      "style": 1,
+      "name": "確かに人類がいきなりガソリンを使おうという\n考えには及ばないわよね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001193_MSG0015",
+      "style": 1,
+      "name": "技術は身近にある力を活用し\n進歩していくもの[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001193_MSG0016",
+      "style": 1,
+      "name": "今　街を走っている車が\nいつかはクラシックカーと呼ばれるほどに\n地球人がこの星で繁栄できればいいわね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001193_MSG0017",
+      "style": 1,
+      "name": "そうね[ST:wide ]―\nそのためには復刻させないといけないわね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001193_MSG0018",
+      "style": 1,
+      "name": "ライフのデータベースに情報があれば\n古い自動車も生産できるんじゃないかしら[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001193_MSG0019",
+      "style": 1,
+      "name": "今は難しいけれど\n実現できるようにがんばりましょう\n楽しみにしてるわ[ST:wait ]"
+    }
+  ]
+}

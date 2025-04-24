@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086110_MSG0001",
+      "style": 0,
+      "name": "맛있다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086110_MSG0002",
+      "style": 0,
+      "name": "이것도 저것도 어느 것도\n다 맛있다모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086110_MSG0003",
+      "style": 0,
+      "name": "타츠가 좋아해 줘서 다행이야[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086110_MSG0004",
+      "style": 0,
+      "name": "타츠, 착각해 버렸다모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086110_MSG0005",
+      "style": 0,
+      "name": "린 씨는 타츠에게 먹일 레시피를\n찾고 있었던 거였다모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086110_MSG0006",
+      "style": 0,
+      "name": "미안해, 착각하게 해서[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086110_MSG0007",
+      "style": 0,
+      "name": "그런데 왜 이런 진수성찬을?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086110_MSG0008",
+      "style": 0,
+      "name": "타츠는 얼마 전에 13살이 됐잖아?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086110_MSG0009",
+      "style": 0,
+      "name": "그렇다모, 어엿한 어른이다모[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086110_MSG0010",
+      "style": 0,
+      "name": "계속 바빠서 넘어가 버렸지만\n타츠의 생일을 축하해 주고 싶어서[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086110_MSG0011",
+      "style": 0,
+      "name": "생일이 축하할 일이냐모?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086110_MSG0012",
+      "style": 0,
+      "name": "지구에서는 말이지, 소중한 가족이 태어난 날을\n축하하는 관습이 있어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086110_MSG0013",
+      "style": 0,
+      "name": "나도 생일을 축하받았을 때는\n정말 기뻤어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086110_MSG0014",
+      "style": 0,
+      "name": "리, 린 씨……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086110_JNK0010",
+      "style": 4,
+      "name": "말"
+    },
+    {
+      "$id": 16,
+      "label": "qev086110_SEL0011",
+      "style": 3,
+      "name": "미소 지으며 축하의 말을 건넨다"
+    },
+    {
+      "$id": 17,
+      "label": "qev086110_JNK0020",
+      "style": 4,
+      "name": "행동"
+    },
+    {
+      "$id": 18,
+      "label": "qev086110_SEL0021",
+      "style": 3,
+      "name": "맛있는 음식을 잔뜩 먹인다"
+    },
+    {
+      "$id": 19,
+      "label": "qev086110_MSG0015",
+      "style": 0,
+      "name": "고맙다모!\n기쁘다모![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086110_MSG0016",
+      "style": 0,
+      "name": "기쁘다모![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086110_MSG0017",
+      "style": 0,
+      "name": "하지만 타츠만 먹으면 미안하다모\n다 같이 먹자모![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086110_MSG0018",
+      "style": 0,
+      "name": "무슨 말을 하는 거야, 타츠의 생일이잖아[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086110_MSG0019",
+      "style": 0,
+      "name": "린 씨, 타츠는 소중한 가족인가모?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086110_MSG0020",
+      "style": 0,
+      "name": "당연하지![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086110_MSG0021",
+      "style": 0,
+      "name": "모모모, 타츠에게도\n신부가 생겼다모![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086110_MSG0021_2",
+      "style": 0,
+      "name": "기쁘다모~~♪[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086110_MSG0022",
+      "style": 0,
+      "name": "뭐? 왜 그렇게 되는데?\n까불지 마~~~![ST:wait ]"
+    }
+  ]
+}

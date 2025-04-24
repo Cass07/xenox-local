@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev016801_MSG0001",
+      "style": 1,
+      "name": "なんの順番待ちをしてるのかですって？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev016801_MSG0002",
+      "style": 1,
+      "name": "……えっ！？\n君は彼女のことを知らないんですか！？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev016801_MSG0003",
+      "style": 1,
+      "name": "彼女は天使！　この苦しみに満ちた\n世界で咲いた　たった一つの美しい花！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev016801_MSG0004",
+      "style": 1,
+      "name": "僕なんて朝からずーっと　彼女に相談に\n乗ってもらうために並んでるんですよ！[ST:wait ]"
+    }
+  ]
+}

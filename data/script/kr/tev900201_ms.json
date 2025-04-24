@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev900201_MSG0010",
+      "style": 1,
+      "name": "오, 잘 지냈어?\n혹시 임무 제안인가?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev900201_MSG0020",
+      "style": 1,
+      "name": "난 언제든지 환영이야\n미라에서 조사하고 싶은 게\n아직도 산처럼 많기도 하고[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev900201_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 4,
+      "label": "tev900201_SELS0040",
+      "style": 3,
+      "name": "니르를 멤버에 넣는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev900201_MSG0050",
+      "style": 1,
+      "name": "그래, 그렇게 나와야지!\n정식으로 잘 부탁할게![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev900201_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev900201_SEL0070",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev900201_MSG0080",
+      "style": 1,
+      "name": "그렇구나……\n아쉽지만, 다음 기회가 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev900201_MSG0090",
+      "style": 1,
+      "name": "최근에는 아는 지구인도 늘어나서\n나도 NLA의 일원으로\n받아들여진 기분이 들어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev900201_MSG0100",
+      "style": 1,
+      "name": "그 첫 계기를 만들어 준 건\n다름 아닌 너였어\n……이 은혜 잊지 않을게, 절대로[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev900201_JNK0110",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 12,
+      "label": "tev900201_SEL0120",
+      "style": 3,
+      "name": "니르를 멤버에 넣는다"
+    },
+    {
+      "$id": 13,
+      "label": "tev900201_MSG0130",
+      "style": 1,
+      "name": "물론, 기꺼이 가겠어\n너의 힘이 될 수 있다면 기쁘지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev900201_JNK0140",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 15,
+      "label": "tev900201_SEL0150",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 16,
+      "label": "tev900201_MSG0160",
+      "style": 1,
+      "name": "조심해\n네가 무사하길 기도하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev900201_MSG0170",
+      "style": 1,
+      "name": "……엘마에게서 이야기는 들었어\n나도 전면적으로 도울게[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev900201_MSG0180",
+      "style": 1,
+      "name": "이 일은 이미 지구인만의 문제가 아니야\n……나도 할 수 있는 건 해야지[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev900201_JNK0190",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 20,
+      "label": "tev900201_SEL0200",
+      "style": 3,
+      "name": "니르를 멤버에 넣는다"
+    },
+    {
+      "$id": 21,
+      "label": "tev900201_MSG0210",
+      "style": 1,
+      "name": "응, 알겠어\n함께 이 어려운 상황을 극복하자[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev900201_JNK0220",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 23,
+      "label": "tev900201_SEL0230",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 24,
+      "label": "tev900201_MSG0240",
+      "style": 1,
+      "name": "미지의 상황과 맞닥뜨렸을 땐\n침착하고 냉정하게 대처해야 해\n……조심해[ST:wait ]"
+    }
+  ]
+}

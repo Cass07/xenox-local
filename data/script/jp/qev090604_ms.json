@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090604_MSG0001",
+      "style": 0,
+      "name": "異星人というのは\nどいつもこいつも薄汚い連中よ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090604_MSG0002",
+      "style": 0,
+      "name": "このような連中とは\nもう二度と関わることはあるまい[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090604_MSG0003",
+      "style": 0,
+      "name": "[ST:wide ]―さぁ　本来の任務に戻るぞ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090604_MSG0004",
+      "style": 0,
+      "name": "南無阿弥陀仏ッ！\nなかなか手強きバケモンであったな！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090604_MSG0005",
+      "style": 0,
+      "name": "少々回り道はしたが　これにて任務は完了だ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090604_MSG0006",
+      "style": 0,
+      "name": "さぁ　エレオノーラ嬢に\n報告に行こうではないか[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090604_MSG0007",
+      "style": 0,
+      "name": "これは一体[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090604_MSG0008",
+      "style": 0,
+      "name": "俺は　あのジェジェバとかいう\nマ・ノン人に助けられたのか[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090604_MSG0009",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090604_MSG0010",
+      "style": 0,
+      "name": "[ST:wide ]―いや　とにかく今は任務に集中だな[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090604_MSG0011",
+      "style": 0,
+      "name": "異星人なんぞに気を取られ\n大怪我でもしてはいかんからな[ST:wait ]"
+    }
+  ]
+}

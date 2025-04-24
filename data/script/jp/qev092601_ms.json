@@ -1,0 +1,630 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092601_MSG0001",
+      "style": 0,
+      "name": "さてセンパイ　問題です[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092601_MSG0002",
+      "style": 0,
+      "name": "なんだか怖い名前のノポン人から\n緊急の依頼があって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092601_MSG0003",
+      "style": 0,
+      "name": "ここで待ち合わせることになってるんだけど\n一向にやってきません[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092601_MSG0004",
+      "style": 0,
+      "name": "どうすべきでしょーか？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092601_JNK0010",
+      "style": 4,
+      "name": "探索"
+    },
+    {
+      "$id": 6,
+      "label": "qev092601_SEL0011",
+      "style": 3,
+      "name": "探しに行こうと言う"
+    },
+    {
+      "$id": 7,
+      "label": "qev092601_JNK0020",
+      "style": 4,
+      "name": "待機"
+    },
+    {
+      "$id": 8,
+      "label": "qev092601_SEL0021",
+      "style": 3,
+      "name": "しばらく待とうと言う"
+    },
+    {
+      "$id": 9,
+      "label": "qev092601_MSG0005",
+      "style": 0,
+      "name": "センパイってせっかちねー\nなんだか昔のわたしみたい[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092601_MSG0006",
+      "style": 0,
+      "name": "こういう時は下手に動くと二重遭難になるから\n根気強く待ち続けるのがいいんだよ？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092601_MSG0007",
+      "style": 0,
+      "name": "いいじゃない　こんな風に\nのんびり話せることも最近なかったし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092601_MSG0008",
+      "style": 0,
+      "name": "のんびり屋のセンパイらしい答えだね！\nまっ　こういう時間も大切だよね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092601_MSG0009",
+      "style": 0,
+      "name": "最近は任務任務で　こんな風に\nぼーっとできる時間もなかったし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092601_MSG0010",
+      "style": 0,
+      "name": "ね　せっかくだしさ\nおしゃべりしてヒマを潰そうよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092601_MSG0011",
+      "style": 0,
+      "name": "覚えてる？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092601_MSG0011_2",
+      "style": 0,
+      "name": "ここってセンパイとわたしが\n初めて会った場所なんだよ？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092601_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 18,
+      "label": "qev092601_SEL0031",
+      "style": 3,
+      "name": "覚えていると答える"
+    },
+    {
+      "$id": 19,
+      "label": "qev092601_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 20,
+      "label": "qev092601_SEL0041",
+      "style": 3,
+      "name": "忘れていたと答える"
+    },
+    {
+      "$id": 21,
+      "label": "qev092601_MSG0012",
+      "style": 0,
+      "name": "さっすが！　覚えててくれて嬉しいな！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092601_MSG0013",
+      "style": 0,
+      "name": "まーあれから色々あったもんね\nそりゃ　あんな昔のことなんか忘れてるか[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092601_MSG0014",
+      "style": 0,
+      "name": "あれからミラ中　駆け回って[ST:wide ]―\nこうしてなんとかブレイドになって[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092601_MSG0015",
+      "style": 0,
+      "name": "今じゃ　コレペディアンの一員として[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092601_MSG0016",
+      "style": 0,
+      "name": "センパイと一緒に\n第一線で冒険できてるんだよね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092601_MSG0017",
+      "style": 0,
+      "name": "ものすごい大躍進だよね[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092601_MSG0018",
+      "style": 0,
+      "name": "へへっ　天国のパパとママ[ST:wide ]―\n今のわたしを見たら　どう思うかな？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092601_MSG0019",
+      "style": 0,
+      "name": "まだまだ　あんなスッゴイ冒険者には\nなれてないけど　少しは認めてくれてるかな？[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092601_JNK0050",
+      "style": 4,
+      "name": "認める"
+    },
+    {
+      "$id": 30,
+      "label": "qev092601_SEL0051",
+      "style": 3,
+      "name": "認めてくれるはずだと言う"
+    },
+    {
+      "$id": 31,
+      "label": "qev092601_JNK0060",
+      "style": 4,
+      "name": "叱る"
+    },
+    {
+      "$id": 32,
+      "label": "qev092601_SEL0061",
+      "style": 3,
+      "name": "もっと精進しろと叱るはずだと言う"
+    },
+    {
+      "$id": 33,
+      "label": "qev092601_MSG0020",
+      "style": 0,
+      "name": "そうだよね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092601_MSG0021",
+      "style": 0,
+      "name": "小さい時　一人で隣町まで冒険に行ったらさ\n迷子になって警察に保護されて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092601_MSG0022",
+      "style": 0,
+      "name": "それでも怒らないで　良くやったって\n褒めてくれたんだ　迎えに来たパパとママ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092601_MSG0023",
+      "style": 0,
+      "name": "きっと今のわたしのことだって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092601_MSG0024",
+      "style": 0,
+      "name": "やっぱりそうかな？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092601_MSG0025",
+      "style": 0,
+      "name": "パパとママはウォルター教官にも\n負けないくらい厳しい人だったからなぁ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092601_MSG0026",
+      "style": 0,
+      "name": "確かにこの程度じゃまだまだかもね[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092601_MSG0027",
+      "style": 0,
+      "name": "待たせたもー！\nミーアって姉ちゃんはどこにいるんだも！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092601_MSG0028",
+      "style": 0,
+      "name": "アナタが依頼人？\n名前に反して　かわいいね！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092601_MSG0029",
+      "style": 0,
+      "name": "かわいくないも！\nトラはかっこいいを目指してるんだも！[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092601_MSG0030",
+      "style": 0,
+      "name": "ノポン人の男の子って皆そう言うんだけど\n伴ってないんだよねー[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092601_MSG0031",
+      "style": 0,
+      "name": "大丈夫だも！\nトラはこれからかっこよくなるんだも！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092601_MSG0032",
+      "style": 0,
+      "name": "あー　わかった！[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092601_MSG0033",
+      "style": 0,
+      "name": "わたしへの依頼ってそのかっこよくなるための\nものを手に入れてきてほしいってことね？[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092601_MSG0034",
+      "style": 0,
+      "name": "そうだも　なかなか勘のいい姉ちゃんだも！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092601_MSG0035",
+      "style": 0,
+      "name": "まあね　わたしくらいの強者になれば\n探してるものだってわかるんだから[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092601_MSG0036",
+      "style": 0,
+      "name": "探しものは　ズバリ伝説の剣でしょ？[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092601_MSG0037",
+      "style": 0,
+      "name": "そんなオモチャはいらないも[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092601_MSG0038",
+      "style": 0,
+      "name": "えー[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092601_MSG0039",
+      "style": 0,
+      "name": "トラがほしいのはコインなんだも！[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev092601_MSG0040",
+      "style": 0,
+      "name": "[ST:wide ]―コイン？[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev092601_MSG0041",
+      "style": 0,
+      "name": "各地にノポンのキャラバンが\nあるのは知ってるも？[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev092601_MSG0042",
+      "style": 0,
+      "name": "もちろん[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev092601_MSG0043",
+      "style": 0,
+      "name": "キャラバンで商売をするには　ノポン商会の\n一員にならなければならないんだも！[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092601_MSG0044",
+      "style": 0,
+      "name": "なるほど　それでノポン商会に入るには\n証としてコインが必要ってことね[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092601_MSG0045",
+      "style": 0,
+      "name": "察しがよすぎるも！[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092601_MSG0046",
+      "style": 0,
+      "name": "とにかくコインを手に入れれば\nタツの奴にも負けないし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092601_MSG0047",
+      "style": 0,
+      "name": "父ちゃん母ちゃんにも会えるんだも！[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092601_JNK0070",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 62,
+      "label": "qev092601_SEL0071",
+      "style": 3,
+      "name": "タツとの諍いについて詳しく聞く"
+    },
+    {
+      "$id": 63,
+      "label": "qev092601_JNK0080",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 64,
+      "label": "qev092601_SEL0081",
+      "style": 3,
+      "name": "一人前になるとご両親に何故会えるか尋ねる"
+    },
+    {
+      "$id": 65,
+      "label": "qev092601_MSG0048",
+      "style": 0,
+      "name": "あいつ　最近ブレイドで活躍したとか言って\nチョーシに乗ってるんだも！[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev092601_MSG0049",
+      "style": 0,
+      "name": "だからトラも早く一人前の商人になって\n見返してやりたいんだも！[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev092601_MSG0050",
+      "style": 0,
+      "name": "[ST:wide ]―それにトラ　母ちゃん達が\n行商の旅から帰ってくるまでに[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev092601_MSG0051",
+      "style": 0,
+      "name": "一人前になるって約束したから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev092601_MSG0052",
+      "style": 0,
+      "name": "今のままじゃ　恥ずかしくて\n久々の親子の再会も台無しなんだも！[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev092601_MSG0053",
+      "style": 0,
+      "name": "母ちゃん達が行商の旅から帰ってくるまでに\n絶対に　一人前になるって約束したんだも！[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092601_MSG0054",
+      "style": 0,
+      "name": "今のままじゃ　恥ずかしくて\n久々の親子の再会も台無しなんだも！[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev092601_MSG0055",
+      "style": 0,
+      "name": "そっかー　男の子らしく見栄張ったんだね\nキュートキュート[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev092601_MSG0056",
+      "style": 0,
+      "name": "キュートじゃないも！\nトラはクールを目指してるんだも！[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev092601_MSG0057",
+      "style": 0,
+      "name": "トラの父ちゃん母ちゃんは\n世界をまたにかけ　珍しいものを売り歩く[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev092601_MSG0058",
+      "style": 0,
+      "name": "デンセツの行商人なんだも！[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev092601_MSG0059",
+      "style": 0,
+      "name": "なんか[ST:wide ]―　わたしの両親とそっくりだね[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev092601_MSG0060",
+      "style": 0,
+      "name": "あの人達もわたしをほっぽって\n年がら年じゅう冒険してたっけ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev092601_MSG0061",
+      "style": 0,
+      "name": "姉ちゃんもトラの気持ちがわかる口だも？[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev092601_MSG0062",
+      "style": 0,
+      "name": "わかるわかる　わたしもパパとママに\n追い付きたくてブレイドになったんだし[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev092601_MSG0063",
+      "style": 0,
+      "name": "なんと気が合う姉ちゃんだもー[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev092601_MSG0064",
+      "style": 0,
+      "name": "トラも父ちゃんと母ちゃんに負けないくらいに\nクールでかっこいい大人になりたいんだも！[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev092601_MSG0065",
+      "style": 0,
+      "name": "おおー　高い志だね！\nもう既にそこそこかっこいいよ[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev092601_MSG0066",
+      "style": 0,
+      "name": "やった　褒められたもー！\nもう満足したも　十分だも[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev092601_MSG0067",
+      "style": 0,
+      "name": "いやいや　もうちょっとがんばんなよ[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev092601_MSG0068",
+      "style": 0,
+      "name": "パパとママに切った大見栄は\n達成しておかないと[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev092601_MSG0069",
+      "style": 0,
+      "name": "そうだったも！[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev092601_MSG0070",
+      "style": 0,
+      "name": "もうすぐ父ちゃん達と１年に１回だけ\n会える日がやってくるんだも！[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev092601_MSG0071",
+      "style": 0,
+      "name": "それなのに　まだノポン商会の証のコインが\n手に入れられないんだも！[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev092601_MSG0071_2",
+      "style": 0,
+      "name": "ピンチなんだも～！[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev092601_MSG0072",
+      "style": 0,
+      "name": "姉ちゃん　手伝ってくれるも？[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev092601_MSG0073",
+      "style": 0,
+      "name": "もちろん！[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev092601_MSG0073_2",
+      "style": 0,
+      "name": "トラ君の依頼なら格安で引き受けてあげよう！[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev092601_MSG0074",
+      "style": 0,
+      "name": "ケポ人参１個でいいも？[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev092601_MSG0075",
+      "style": 0,
+      "name": "[ST:wide ]―もうちょっとだけ奮発してほしいかな[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev092601_MSG0076",
+      "style": 0,
+      "name": "わかったも\n依頼が完了する時までに考えておくも！[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev092601_MSG0077",
+      "style": 0,
+      "name": "それでわたし達はまずは何をすればいいかな？[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev092601_MSG0078",
+      "style": 0,
+      "name": "この街にいる長老のヌンが\n詳しいことを知ってるも[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev092601_MSG0079",
+      "style": 0,
+      "name": "けど　トラじゃマトモに話をして\nもらえなかったんだも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev092601_MSG0080",
+      "style": 0,
+      "name": "姉ちゃん達がうまいこと\nコインのこと聞き出してほしいも！！[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev092601_MSG0081",
+      "style": 0,
+      "name": "了解！[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev092601_MSG0082",
+      "style": 0,
+      "name": "トラは先に行って待ってるもー[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev092601_MSG0083",
+      "style": 0,
+      "name": "さあセンパイ　はりきっていこうね！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03050100_MSG0001",
+      "style": 0,
+      "name": "지구인은 몰살\n정말 그 말대로 했다는 거구나[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs03050100_MSG0002",
+      "style": 0,
+      "name": "그렇다, 운이 없었군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs03050100_MSG0003",
+      "style": 0,
+      "name": "그럴 수가……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs03050100_MSG0004",
+      "style": 0,
+      "name": "너희들은 이 행성에 와선 안 됐다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs03050100_MSG0005",
+      "style": 0,
+      "name": "말이 유창하네\n다른 자들과는 무슨 차이지?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs03050100_MSG0006",
+      "style": 0,
+      "name": "난 글렌너다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs03050100_MSG0007",
+      "style": 0,
+      "name": "너희들 말로 하자면\n대장 정도 되겠지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs03050100_MSG0008",
+      "style": 0,
+      "name": "그렇구나[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs03050100_MSG0009",
+      "style": 0,
+      "name": "이곳이 당신들의 행성이라면\n무단으로 착륙한 무례를 사과할게[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs03050100_MSG0010",
+      "style": 0,
+      "name": "하지만 우리의 우주선은 미지의 적에게 습격당해\n불시착한 거야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs03050100_MSG0011",
+      "style": 0,
+      "name": "같은 우주에 사는 자로서\n이해와 관용을 구하고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs03050100_MSG0012",
+      "style": 0,
+      "name": "이해? 관용?\n그런 말은 모른다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs03050100_MSG0013",
+      "style": 0,
+      "name": "너희들은 그저 우리 손에 죽어갈 뿐이다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs03050100_MSG0014",
+      "style": 0,
+      "name": "엘마 씨……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs03050100_MSG0015",
+      "style": 0,
+      "name": "아무래도 약육강식 논리만\n통하는 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs03050100_MSG0016",
+      "style": 0,
+      "name": "좋아\n지구인을 알고 있다면[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs03050100_MSG0017",
+      "style": 0,
+      "name": "우리와의 인연은\n이게 처음이 아닌 모양이야[ST:wait ]"
+    }
+  ]
+}

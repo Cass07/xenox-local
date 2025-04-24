@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093103_MSG0010",
+      "style": 0,
+      "name": "하! 실력이 제법이잖아\n공주님이 널 믿는 이유를 알겠군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093103_MSG0020",
+      "style": 0,
+      "name": "아레스와 이 정도로 겨룰 수 있는 녀석은\n군대에서도 얼마 없었다고[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093103_MSG0030",
+      "style": 0,
+      "name": "넌 기억 상실이라고 들었는데……\n혹시 엘리트 출신인 거 아니냐?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093103_MSG0040",
+      "style": 0,
+      "name": "뭐, 아무래도 상관없지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093103_MSG0050",
+      "style": 0,
+      "name": "좋아, 인정할게[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093103_MSG0055",
+      "style": 0,
+      "name": "너는 영웅과 어깨를 나란히 할 만한 녀석이다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093103_MSG0060",
+      "style": 0,
+      "name": "확실히 이 정도라면 내 목숨뿐 아니라\n아레스를 맡겨도 괜찮겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093103_MSG0070",
+      "style": 0,
+      "name": "……아까워\n아레스를 타기에는 조금 부족해[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093103_MSG0080",
+      "style": 0,
+      "name": "진정해, 약속을 어기겠다는 게 아니야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093103_MSG0085",
+      "style": 0,
+      "name": "이래 보여도 긍정적으로 검토하고 있다고[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093103_MSG0090",
+      "style": 0,
+      "name": "잘 들어, 아레스에 타기 위해서는\n신체 조건보다도 중요한 게 있어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093103_MSG0100",
+      "style": 0,
+      "name": "그게 뭐일 것 같냐?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093103_SEL0110",
+      "style": 4,
+      "name": "도량"
+    },
+    {
+      "$id": 14,
+      "label": "qev093103_JNK0120",
+      "style": 3,
+      "name": "영웅다운 도량이라고 대답한다"
+    },
+    {
+      "$id": 15,
+      "label": "qev093103_SEL0130",
+      "style": 4,
+      "name": "힘"
+    },
+    {
+      "$id": 16,
+      "label": "qev093103_JNK0140",
+      "style": 3,
+      "name": "압도적인 힘이라고 대답한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev093103_SEL0150",
+      "style": 4,
+      "name": "기술"
+    },
+    {
+      "$id": 18,
+      "label": "qev093103_JNK0160",
+      "style": 3,
+      "name": "뛰어난 돌 조종 기술이라고 대답한다"
+    },
+    {
+      "$id": 19,
+      "label": "qev093103_MSG0170",
+      "style": 0,
+      "name": "틀렸어\n그런 건 나중에 어련히 생기잖냐[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093103_MSG0180",
+      "style": 0,
+      "name": "\"마음\"이야\n살고자 하는 강한 의지, 충동……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093103_MSG0190",
+      "style": 0,
+      "name": "다시 말하면 \"사랑\"이지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093103_MSG0200",
+      "style": 0,
+      "name": "너는 사랑할 각오가 되어 있냐?\n결혼식 때 하는 서약과는 차원이 달라[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093103_MSG0210",
+      "style": 0,
+      "name": "이 세상 모든 것……\n세계 그 자체를 사랑할 정도의 \"사랑\"이다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093103_MSG0220",
+      "style": 0,
+      "name": "그럴 각오가 생기기 전까지는\n아레스를 넘겨줄 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev093103_MSG0230",
+      "style": 0,
+      "name": "너무 실망하지는 마\n가능성이 있는 것만으로도 대단해[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093103_MSG0240",
+      "style": 0,
+      "name": "너도 언젠가 이해할 수 있을 거다\n내가 하는 말이니 틀림없어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093103_MSG0250",
+      "style": 0,
+      "name": "말해 두는데 빈말이 아니야\n생각보다 진지하게 하는 말이라고[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093103_MSG0260",
+      "style": 0,
+      "name": "이렇게까지 내 의욕을 끌어올렸으니\n내 생각이 착각이 아니라는 걸 꼭 증명해 줘[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev093103_MSG0270",
+      "style": 0,
+      "name": "알겠지? 미래의 히어로[ST:wait ]"
+    }
+  ]
+}

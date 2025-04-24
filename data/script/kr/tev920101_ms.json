@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev920101_MSG0010",
+      "style": 1,
+      "name": "아레스 수리는 순식간에 끝났엉!\n외부 장치를 끼우기만 하면 완료양[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev920101_MSG0020",
+      "style": 1,
+      "name": "내부 프레임만 무사하면\n몇 번이고 수리할 수 있엉\n매우 어메이징한 돌이양![ST:wait ]"
+    }
+  ]
+}

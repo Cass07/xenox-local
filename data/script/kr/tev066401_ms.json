@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev066401_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev066401_SEL0011",
+      "style": 3,
+      "name": "지구인에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev066401_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev066401_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "tev066401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev066401_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev066401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev066401_SEL0031",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev066401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev066401_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev066401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev066401_SEL0041",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev066401_MSG0001",
+      "style": 1,
+      "name": "처음엔 지구인 같은 들어 본 적도 없는 녀석들\n별거 아닐 거라 생각했어요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev066401_MSG0002",
+      "style": 1,
+      "name": "하지만 게티아를 쓰러뜨리고\n가 델그 전하와의 일대일 대결에 승리해……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev066401_MSG0003",
+      "style": 1,
+      "name": "결국에는 즈 하그째로\n리즈와 더건을 해치워 버리다니![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev066401_MSG0004",
+      "style": 1,
+      "name": "정말 엄청나요! 그로우스 녀석들도\n지금쯤 몹시 허둥대고 있을 거예요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev066401_MSG0005",
+      "style": 1,
+      "name": "헤헤…… 저도 더욱 강해져서\n당신처럼 커다란 공로를 세워 보고 싶어요![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev066401_MSG0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "tev066401_MSG0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev066401_MSG0012",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev066401_MSG0017",
+      "style": 1,
+      "name": "저기 당신, 전에 기 장그 씨에게\n바이어스인 제자가 있었단 거 알고 있었어요?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev066401_MSG0018",
+      "style": 1,
+      "name": "듣건대 그 제자에게 가르쳐 주지 못한 만큼\n저에게 철저히 주입해서\n열심히 지도해 주시고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev066401_MSG0019",
+      "style": 1,
+      "name": "제게는 선배인 그 사람……\n한번 만나 보고 싶네요![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev066401_MSG0020",
+      "style": 1,
+      "name": "이런 대단한 수행을 익힌 바이어스인이라면\n분명 굉장히 강하겠죠![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev066401_MSG0025",
+      "style": 1,
+      "name": "요전에 사지프 스코피오라는 바이어스인이\n병사라면 지구인의 병법을\n배워야 한다고 말하더군요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev066401_MSG0026",
+      "style": 1,
+      "name": "갑작스러워서 당황하고 말았습니다만……\n아무래도 그는 이 우주선의 전사들에게\n그렇게 병법을 퍼뜨리고 다니는 모양이에요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev066401_MSG0027",
+      "style": 1,
+      "name": "으~음…… 그가 말했던 『나폴레옹』이나\n『클라우제비츠』라는 분들은\n그렇게 대단한가요?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev066401_MSG0028",
+      "style": 1,
+      "name": "고 로간 부대의 조장으로서\n역시 그런 것도 공부하는 편이 나을까요?[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087405_MSG0001",
+      "style": 0,
+      "name": "おかしいわね\n夜はここにいるだろうと思ったのに[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087405_MSG0002",
+      "style": 0,
+      "name": "[ST:wide ]―つまり　そこが原生生物の根拠地に\nなっているわけだろう[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087405_MSG0003",
+      "style": 0,
+      "name": "それさえ分かっているのなら\nなぜ殲滅できないのだね？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087405_MSG0004",
+      "style": 0,
+      "name": "攻略戦なら実行したよ\n[ST:wide ]―二度もね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087405_MSG0005",
+      "style": 0,
+      "name": "そして　二度　手痛い目にあったというわけだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087405_MSG0006",
+      "style": 0,
+      "name": "そういえば　傷ついたドールが\nいっぱいありましたね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087405_MSG0007",
+      "style": 0,
+      "name": "作戦失敗の傷跡というわけね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087405_MSG0008",
+      "style": 0,
+      "name": "だが　そこの原生生物を一掃せねば\nルートが確保できん[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087405_MSG0010",
+      "style": 0,
+      "name": "とはいえ　戦力を立て直さずに\nもう一度やれと言われても[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087405_MSG0011",
+      "style": 0,
+      "name": "予算は出るのかね？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087405_MSG0012",
+      "style": 0,
+      "name": "それは[ST:wide ]―　厳しいと言わざるを得ない[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087405_MSG0013",
+      "style": 0,
+      "name": "あんた達　頭が固いんじゃねえか？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087405_MSG0014",
+      "style": 0,
+      "name": "ヴァンダム司令！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087405_MSG0015",
+      "style": 0,
+      "name": "いつの間に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087405_MSG0016",
+      "style": 0,
+      "name": "頭が固いだと　口を慎みたまえ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087405_MSG0017",
+      "style": 0,
+      "name": "その顔は[ST:wide ]―\n何か搦め手でもあるようだな[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087405_MSG0018",
+      "style": 0,
+      "name": "ワンのチームが\n原生生物のリーダー格を確認したらしい[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087405_MSG0019",
+      "style": 0,
+      "name": "こいつだ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087405_MSG0020",
+      "style": 0,
+      "name": "リーダー格を倒せば\n群れなんて散り散りになる[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087405_MSG0021",
+      "style": 0,
+      "name": "一掃するなら　それから各個撃破した方が\nなんぼか楽だと思うんだがなぁ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087405_MSG0022",
+      "style": 0,
+      "name": "それはもっともだが\nそのリーダー格をどう倒すというのだね？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087405_MSG0023",
+      "style": 0,
+      "name": "優秀なチームを投入して一点突破\nそれしかねえだろ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087405_MSG0024",
+      "style": 0,
+      "name": "なあ？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087405_MSG0025",
+      "style": 0,
+      "name": "私達！？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087405_MSG0026",
+      "style": 0,
+      "name": "ですも！？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087405_MSG0027",
+      "style": 0,
+      "name": "そうね[ST:wide ]―　面白い任務だわ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087405_MSG0028",
+      "style": 0,
+      "name": "そうかそのために\nエルマチームを呼び寄せておいたのか[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087405_MSG0029",
+      "style": 0,
+      "name": "ぬかりないな　司令[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev087405_MSG0030",
+      "style": 0,
+      "name": "いえ　そうじゃなくて私達ただ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev087405_MSG0031",
+      "style": 0,
+      "name": "まぁ　このくらいは給料のうちだからなぁ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev087405_MSG0032",
+      "style": 0,
+      "name": "ちょっと待ってください～～[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev087405_MSG0033",
+      "style": 0,
+      "name": "誰かがやらなければならない任務なのは確かよ\nリン[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev087405_MSG0034",
+      "style": 0,
+      "name": "それは　そうみたいですけど[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087405_MSG0035",
+      "style": 0,
+      "name": "この任務引き受けるわ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087405_MSG0036",
+      "style": 0,
+      "name": "そうでなくっちゃ[ST:wait ]"
+    }
+  ]
+}

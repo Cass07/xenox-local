@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090601_MSG0001",
+      "style": 0,
+      "name": "今回の任務ですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090601_MSG0002",
+      "style": 0,
+      "name": "近頃　何人ものパスファインダーを倒している\n凶悪な原生生物の討伐をお願いします[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090601_MSG0003",
+      "style": 0,
+      "name": "ふむ[ST:wide ]―　ソヤツのことは聞いたことがある\nザイデンやモンドもしてやられたとか[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090601_MSG0004",
+      "style": 0,
+      "name": "早急に成敗し　アヴァランチとしての使命\n果たさねばならんな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090601_MSG0005",
+      "style": 0,
+      "name": "さすがです　先生[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090601_MSG0006",
+      "style": 0,
+      "name": "おうよ！　ところで　オヌシは何をしておる？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090601_MSG0007",
+      "style": 0,
+      "name": "その[ST:wide ]―　ちょうどソイツにやられて\n逃げ帰って来たところです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090601_JNK0010",
+      "style": 4,
+      "name": "一喝"
+    },
+    {
+      "$id": 9,
+      "label": "qev090601_SEL0011",
+      "style": 3,
+      "name": "また逃げ出したのかと\n喝を入れる"
+    },
+    {
+      "$id": 10,
+      "label": "qev090601_JNK0020",
+      "style": 4,
+      "name": "慰める"
+    },
+    {
+      "$id": 11,
+      "label": "qev090601_SEL0021",
+      "style": 3,
+      "name": "逃げ帰って来たレジーを\n慰める"
+    },
+    {
+      "$id": 12,
+      "label": "qev090601_MSG0008",
+      "style": 0,
+      "name": "なんだか　その喝の入れ方[ST:wide ]―\nまるでボウズ先生みたいですね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090601_MSG0009",
+      "style": 0,
+      "name": "さすがいつも一緒に行動して　先生から\n教えを受けているだけのことはあります[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090601_MSG0010",
+      "style": 0,
+      "name": "そうだな　なかなか良き喝だった！\nだが今度は　もっと大きく息を吸ってな[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090601_MSG0011",
+      "style": 0,
+      "name": "カァーーーーーーーーーーーーッツ！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090601_MSG0012",
+      "style": 0,
+      "name": "[ST:wide ]―と　やった方がいいぞ！　精進しろよ！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090601_MSG0013",
+      "style": 0,
+      "name": "優しい人ですね[ST:wide ]―　そんな言葉\n仲間内からもかけられたことないですよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090601_MSG0014",
+      "style": 0,
+      "name": "相変わらずいたわりの気持ちに満ちている\nふふっ　オヌシは仏の道がわかっておるよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090601_MSG0014_m",
+      "style": 0,
+      "name": "相変わらずいたわりの気持ちに満ちている\nふふっ　オヌシは仏の道がわかっておるよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090601_MSG0014_f",
+      "style": 0,
+      "name": "相変わらずいたわりの気持ちに満ちている\nふふっ　オヌシは仏の道がわかっておるよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090601_MSG0015",
+      "style": 0,
+      "name": "ふむ[ST:wide ]―　それでレジーの坊やよ\nソイツと戦った感触はどうだった？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090601_MSG0016",
+      "style": 0,
+      "name": "たった一撃でチームは壊滅[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090601_MSG0017",
+      "style": 0,
+      "name": "僕だってそれなりに\nいろんな所を回ってますけどね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090601_MSG0018",
+      "style": 0,
+      "name": "あんな怪物は見たことありません\nその辺りにいるのとは桁違いなんです[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090601_MSG0019",
+      "style": 0,
+      "name": "なるほど[ST:wide ]―　そいつは腕が鳴るわ！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090601_MSG0020",
+      "style": 0,
+      "name": "最近は異星人どもとの戦いばかりで\nどうもすっきりせんかったからな！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090601_MSG0021",
+      "style": 0,
+      "name": "ここらで一つ\n純粋な力試しといこうじゃないか！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090601_MSG0022",
+      "style": 0,
+      "name": "それじゃ　ソイツがいたポイントのデータを\n先生達の[System:Ruby rt=デバイス ]端末[/System:Ruby]に送っておきますね[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090601_MSG0023",
+      "style": 0,
+      "name": "先生なら大丈夫だと思うけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090601_MSG0024",
+      "style": 0,
+      "name": "何人ものアヴァランチが\n返り討ちにあってるんです[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090601_MSG0025",
+      "style": 0,
+      "name": "くれぐれも気をつけてください[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090601_MSG0026",
+      "style": 0,
+      "name": "おうよ！\nオヌシの仇　しかと討ってきてやる！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090601_MSG0027",
+      "style": 0,
+      "name": "[ST:wide ]―それでは行くぞ！\n奴めを　成仏させてやろうではないか！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001794_MSG0001",
+      "style": 1,
+      "name": "어머, [ST:playername ] 씨[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001794_MSG0002",
+      "style": 1,
+      "name": "지금, 이 아이에게 예쁨받고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001794_MSG0003",
+      "style": 1,
+      "name": "제 다리에 몸을 비벼 대는데\n절 마음에 들어 하는 것 같아서 기뻐요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001794_JNK0010",
+      "style": 4,
+      "name": "칭찬한다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001794_SEL0011",
+      "style": 3,
+      "name": "히메리가 다정한 사람이기 때문이라고\n칭찬한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001794_JNK0020",
+      "style": 4,
+      "name": "농담한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001794_SEL0021",
+      "style": 3,
+      "name": "히메리가 다리에 먹을 것을\n숨겨 놨기 때문이라고 장난친다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001794_MSG0004",
+      "style": 1,
+      "name": "감사해요……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001794_MSG0005",
+      "style": 1,
+      "name": "아무리 그래도 그런 곳에는 숨기지 않았어요![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001794_MSG0006",
+      "style": 1,
+      "name": "그래도 이렇게 멍멍이와 접하고 있으면\n마치 지구 시절로 돌아간 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001794_MSG0007",
+      "style": 1,
+      "name": "조금씩이지만 NLA도\n지구인답게 살 수 있는\n도시가 되어 가고 있네요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001794_MSG0008",
+      "style": 1,
+      "name": "[ST:playername ] 씨는\n뭐가 만들어지면\n더 지구 같아질 것 같나요?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001794_JNK0030",
+      "style": 4,
+      "name": "영화"
+    },
+    {
+      "$id": 14,
+      "label": "tev001794_SEL0031",
+      "style": 3,
+      "name": "영화관이나 스튜디오를\n만들었으면 좋겠다"
+    },
+    {
+      "$id": 15,
+      "label": "tev001794_JNK0040",
+      "style": 4,
+      "name": "동물원"
+    },
+    {
+      "$id": 16,
+      "label": "tev001794_SEL0041",
+      "style": 3,
+      "name": "동물을 보며 마음을 치유하고 싶다"
+    },
+    {
+      "$id": 17,
+      "label": "tev001794_JNK0050",
+      "style": 4,
+      "name": "밤거리"
+    },
+    {
+      "$id": 18,
+      "label": "tev001794_SEL0051",
+      "style": 3,
+      "name": "클럽이나 바, 카지노를\n만들었으면 좋겠다"
+    },
+    {
+      "$id": 19,
+      "label": "tev001794_MSG0009",
+      "style": 1,
+      "name": "굉장히 좋은 아이디어네요~![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001794_MSG0010",
+      "style": 1,
+      "name": "지금의 NLA에는 문화 시설이\n아직도 만들어지지 않았어요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001794_MSG0011",
+      "style": 1,
+      "name": "영화라는 문화가 활발해지면\n보다 NLA다워질 거예요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001794_MSG0012",
+      "style": 1,
+      "name": "시민분들도 즐거워할 테고\n꼭 실현됐으면 좋겠어요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001794_MSG0013",
+      "style": 1,
+      "name": "하지만 블레이드에는\n영화감독이 없는 것 같고……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001794_MSG0014",
+      "style": 1,
+      "name": "다시 처음부터 성장해 나가야겠네요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001794_MSG0015",
+      "style": 1,
+      "name": "동물원인가요~\n좋은데요?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001794_MSG0016",
+      "style": 1,
+      "name": "라이프를 찾으면 유전자를 사용해서\n지구에 있던 동물을 만들 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001794_MSG0017",
+      "style": 1,
+      "name": "데이터로밖에 못 봤던 것들을\n실물로 볼 수 있게 되는 거죠[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001794_MSG0018",
+      "style": 1,
+      "name": "앞으로 진짜 몸을 되찾아서\n아이를 낳을 수 있게 되면[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001794_MSG0019",
+      "style": 1,
+      "name": "다음 세대에게 지구에는 이런 생물이 있었다고\n직접 느끼게 해 줄 수 있겠네요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001794_MSG0020",
+      "style": 1,
+      "name": "라이프는 무사히 찾았으니\n유전자를 이용해서 지구에 있던 동물을\n만들 수 있겠네요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001794_MSG0021",
+      "style": 1,
+      "name": "데이터로밖에 못 봤던 것들을\n실물로 볼 수 있게 되는 거죠[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001794_MSG0022",
+      "style": 1,
+      "name": "우리 지구인이 진짜 몸으로 돌아가서\n아이를 낳을 수 있는 삶으로 되돌아갈 수 있다면[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001794_MSG0023",
+      "style": 1,
+      "name": "다음 세대에게 지구에는 이런 생물이 있었다고\n직접 느끼게 해 줄 수 있겠네요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001794_MSG0024",
+      "style": 1,
+      "name": "그건 절대 안 돼요![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001794_MSG0025",
+      "style": 1,
+      "name": "그런 바람직하지 않은 시설을 만들 바에는\n다양한 종교의 사원을 10개 정도 지었으면 좋겠어요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001794_MSG0026",
+      "style": 1,
+      "name": "그러면 모든 지구인분의 마음이\n편안해지는 데 도움이 될 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001794_MSG0027",
+      "style": 1,
+      "name": "만약 만에 하나 그런 시설이 생긴다고 해도\n[ST:playername ] 씨는 가면 안 돼요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001794_MSG0028",
+      "style": 1,
+      "name": "그럴 시간이 있다면\n교회에 오세요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001794_MSG0029",
+      "style": 1,
+      "name": "저와 함께 기도해요\n그런 부정한 마음을 떨쳐 낼 수 있게……![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086304_MSG0003",
+      "style": 0,
+      "name": "つ　強い[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086304_MSG0001",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "qev086304_MSG0004",
+      "style": 0,
+      "name": "ああ　だから手出ししない方が\nいいと言ったのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086304_MSG0005",
+      "style": 0,
+      "name": "聞いてません[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086304_MSG0007",
+      "style": 0,
+      "name": "見逃してくれた[ST:wide ]―　んですか？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086304_JNK0011",
+      "style": 4,
+      "name": "強気"
+    },
+    {
+      "$id": 7,
+      "label": "qev086304_SEL0012",
+      "style": 3,
+      "name": "いつか必ず倒すと皆に誓う"
+    },
+    {
+      "$id": 8,
+      "label": "qev086304_JNK0021",
+      "style": 4,
+      "name": "平穏"
+    },
+    {
+      "$id": 9,
+      "label": "qev086304_SEL0022",
+      "style": 3,
+      "name": "分かり合える気がすると語る"
+    },
+    {
+      "$id": 10,
+      "label": "qev086304_MSG0008",
+      "style": 0,
+      "name": "あの敵を倒すには\nかなり自分を鍛える必要があるわ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086304_MSG0009",
+      "style": 0,
+      "name": "それでも？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086304_MSG0010",
+      "style": 0,
+      "name": "決意は固いようね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086304_MSG0011",
+      "style": 0,
+      "name": "そうですね　命を統べる者は\n人の心を読むという言い伝えもあります[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086304_MSG0012",
+      "style": 0,
+      "name": "私達の目的を認めてくれたのかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086304_MSG0012_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "qev086304_MSG0013",
+      "style": 0,
+      "name": "見てください！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086304_MSG0014",
+      "style": 0,
+      "name": "これは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086304_MSG0015",
+      "style": 0,
+      "name": "守護者の霊鱗のようですね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086304_MSG0016",
+      "style": 0,
+      "name": "ええ！？\nやったぁ　これで薬が作れますね！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086304_MSG0017",
+      "style": 0,
+      "name": "命を統べる者[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086304_MSG0017_2",
+      "style": 0,
+      "name": "私達が不浄な生命ではないと\n認めてくれたのかしら[ST:wait ]"
+    }
+  ]
+}

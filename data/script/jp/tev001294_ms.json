@@ -1,0 +1,384 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001294_MSG0001",
+      "style": 1,
+      "name": "あっ　[ST:playername ]さん\nこんにちは[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001294_MSG0002",
+      "style": 1,
+      "name": "これから夕飯の材料を買うところなんです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001294_MSG0003",
+      "style": 1,
+      "name": "今日は何が食べたいですか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001294_JNK0010",
+      "style": 4,
+      "name": "立候補"
+    },
+    {
+      "$id": 5,
+      "label": "tev001294_SEL0011",
+      "style": 3,
+      "name": "たまには自分が作ると言う"
+    },
+    {
+      "$id": 6,
+      "label": "tev001294_JNK0020",
+      "style": 4,
+      "name": "誘う"
+    },
+    {
+      "$id": 7,
+      "label": "tev001294_SEL0021",
+      "style": 3,
+      "name": "食材よりも先に服を見ようと\n誘う"
+    },
+    {
+      "$id": 8,
+      "label": "tev001294_JNK0030",
+      "style": 4,
+      "name": "とっておき"
+    },
+    {
+      "$id": 9,
+      "label": "tev001294_SEL0031",
+      "style": 3,
+      "name": "ついにタツを食べようと\n提案する"
+    },
+    {
+      "$id": 10,
+      "label": "tev001294_MSG0004",
+      "style": 1,
+      "name": "わぁ　ほんとですか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001294_MSG0005",
+      "style": 1,
+      "name": "何を作ってくれるのかなぁ\n得意料理ってなんですか？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001294_JNK0110",
+      "style": 4,
+      "name": "お刺身"
+    },
+    {
+      "$id": 13,
+      "label": "tev001294_SEL0111",
+      "style": 3,
+      "name": "お刺身が得意料理だと\n胸を張る"
+    },
+    {
+      "$id": 14,
+      "label": "tev001294_JNK0120",
+      "style": 4,
+      "name": "バーベキュー"
+    },
+    {
+      "$id": 15,
+      "label": "tev001294_SEL0121",
+      "style": 3,
+      "name": "バーベキューが得意料理だと\n胸を張る"
+    },
+    {
+      "$id": 16,
+      "label": "tev001294_JNK0130",
+      "style": 4,
+      "name": "プリン"
+    },
+    {
+      "$id": 17,
+      "label": "tev001294_SEL0131",
+      "style": 3,
+      "name": "プリンが得意料理だと\n胸を張る"
+    },
+    {
+      "$id": 18,
+      "label": "tev001294_JNK0140",
+      "style": 4,
+      "name": "ようかん"
+    },
+    {
+      "$id": 19,
+      "label": "tev001294_SEL0141",
+      "style": 3,
+      "name": "ようかんが得意料理だと\n胸を張る"
+    },
+    {
+      "$id": 20,
+      "label": "tev001294_JNK0150",
+      "style": 4,
+      "name": "オムレツ"
+    },
+    {
+      "$id": 21,
+      "label": "tev001294_SEL0151",
+      "style": 3,
+      "name": "オムレツが得意料理だと\n胸を張る"
+    },
+    {
+      "$id": 22,
+      "label": "tev001294_MSG0006",
+      "style": 1,
+      "name": "お刺身ですかぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001294_MSG0007",
+      "style": 1,
+      "name": "って切るだけじゃないですか\nすごいといえばすごいですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001294_MSG0008",
+      "style": 1,
+      "name": "ナギおじさまが好きそうですし\n私はあまり食べたことがないので\n興味深いです[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001294_MSG0009",
+      "style": 1,
+      "name": "今日はそれにしましょう\n新鮮なお魚があるといいんですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001294_MSG0010",
+      "style": 1,
+      "name": "バーベキューですかぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001294_MSG0011",
+      "style": 1,
+      "name": "って　焼くだけじゃないですか\nほとんど何も料理しないんですね！？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001294_MSG0012",
+      "style": 1,
+      "name": "でも　なんだかスタミナがつきそうですよね\nヴァンダム司令くらい力持ちになれそうです[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001294_MSG0013",
+      "style": 1,
+      "name": "今日はそれにしましょう\nじゃあ　私買い物したらすぐに帰りますね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001294_MSG0014",
+      "style": 1,
+      "name": "プリンですか！？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001294_MSG0015",
+      "style": 1,
+      "name": "私　結構大好きなんです\n何度かチャレンジしたけど\nあまり　うまくできなくって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001294_MSG0016",
+      "style": 1,
+      "name": "あんなに難しいのに得意料理だなんて\n感心しちゃいます[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001294_MSG0017",
+      "style": 1,
+      "name": "[ST:wide ]―あ　でも　さすがにプリンは\n夕飯のおかずにはならないですよね[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001294_MSG0018",
+      "style": 1,
+      "name": "今日のメニューは私が考えますから\n今度おやつにプリン作ってください！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001294_MSG0019",
+      "style": 1,
+      "name": "期待してますから！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001294_MSG0020",
+      "style": 1,
+      "name": "和菓子職人さんですか！？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001294_MSG0021",
+      "style": 1,
+      "name": "すごいです\nきっとナギおじさまやモーリス長官が\n大喜びしますよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001294_MSG0022",
+      "style": 1,
+      "name": "[ST:wide ]―でも　夕飯にはちょっと\nふさわしくないですよね[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001294_MSG0023",
+      "style": 1,
+      "name": "今日のメニューは私が考えますから\n今度おやつにようかん作ってください！[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001294_MSG0024",
+      "style": 1,
+      "name": "期待してますから！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001294_MSG0025",
+      "style": 1,
+      "name": "オムレツですか！？[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001294_MSG0026",
+      "style": 1,
+      "name": "ふんわりと綺麗な形に仕上げるのって\n難しいんですよね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001294_MSG0027",
+      "style": 1,
+      "name": "でも　その余裕の表情\nなんだか料理ができる人みたいですね[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001294_MSG0028",
+      "style": 1,
+      "name": "私は半熟の方が好みなので\nレアでお願いします！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001294_MSG0029",
+      "style": 1,
+      "name": "じゃあ　私は卵とバター買って帰りますね\nフライパン準備しておいてくださいね[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001294_MSG0030",
+      "style": 1,
+      "name": "ええっ！？\n私の私服がダサいからですか！？[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001294_MSG0031",
+      "style": 1,
+      "name": "って　私服姿ってあまり見たことないですよね[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001294_MSG0032",
+      "style": 1,
+      "name": "動きやすいからインナースーツばかり\n着てるから　あまり自信がなくって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001294_MSG0033",
+      "style": 1,
+      "name": "でも　私ひとりだと気恥ずかしいので\n今度エルマさんと一緒に連れて行ってください[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001294_MSG0034",
+      "style": 1,
+      "name": "それに誘ってくれたってことは\n服　買ってくれるんですよね？[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev001294_MSG0035",
+      "style": 1,
+      "name": "楽しみだなぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev001294_MSG0036",
+      "style": 1,
+      "name": "喜んでる場合じゃありませんでした\n今日の夕飯のことで悩んでたんですよ[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev001294_MSG0037",
+      "style": 1,
+      "name": "今日　タツを食べるのはかわいそうですよぉ[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev001294_MSG0038",
+      "style": 1,
+      "name": "だって　もっともっと丸々\n太らせてからでないと勿体ないですから[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001294_MSG0039",
+      "style": 1,
+      "name": "冗談はさておき[ST:wide ]―\n大切なのは今日の夕飯です[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev001294_MSG0040",
+      "style": 1,
+      "name": "昨日はハンバーグで\n一昨日はナギおじさまの手打ちそば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev001294_MSG0041",
+      "style": 1,
+      "name": "となると今日はやっぱりあれですよね？[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev001294_MSG0042",
+      "style": 1,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev001294_MSG0043",
+      "style": 1,
+      "name": "えー　分からないんですか？[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev001294_MSG0044",
+      "style": 1,
+      "name": "カレーですよ！\nそばにもハンバーグにも使えそうですから[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev001294_MSG0045",
+      "style": 1,
+      "name": "楽しみにしていてくださいね！[ST:wait ]"
+    }
+  ]
+}

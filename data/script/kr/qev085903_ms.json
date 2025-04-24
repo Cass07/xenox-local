@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085903_MSG0001",
+      "style": 0,
+      "name": "이건 훌륭한 돌이군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085903_MSG0002",
+      "style": 0,
+      "name": "그렇죠? 손에 넣느라 고생했다고요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085903_MSG0003",
+      "style": 0,
+      "name": "그, 그래서, 저기……\n이걸 브레이슬릿으로 만들려면……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085903_MSG0004",
+      "style": 0,
+      "name": "미안한데, 난 못 해[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085903_MSG0005",
+      "style": 0,
+      "name": "네에!?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085903_MSG0006",
+      "style": 0,
+      "name": "어째서?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085903_MSG0007",
+      "style": 0,
+      "name": "이 녀석의 경도를 재어 봤는데……\n다이아몬드 이상이야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085903_MSG0008",
+      "style": 0,
+      "name": "그렇게나요!?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085903_MSG0009",
+      "style": 0,
+      "name": "미안하지만, 내 기계로는 감당할 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085903_MSG0010",
+      "style": 1,
+      "name": "신고라고 했나?\n아까 그 꼬마에게는 미안하게 됐군\n웬만한 것들은 가공할 수 있지만……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085903_MSG0011",
+      "style": 1,
+      "name": "다이아몬드보다 단단하다면\n내 기계로는 어떻게 할 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085903_MSG0012",
+      "style": 1,
+      "name": "다른 사람을 찾아 봐\n군용 기계나 아니면 그 이상의 기술……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085903_MSG0013",
+      "style": 1,
+      "name": "예를 들어 외계인의 기계라면\n그 아름다운 돌을 가공할 수 있을지도 모르지[ST:wait ]"
+    }
+  ]
+}

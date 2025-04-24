@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999925_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999925_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999925_JNK0030",
+      "style": 4,
+      "name": "배틀 멤버에 넣는다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999925_SEL0031",
+      "style": 3,
+      "name": "활동 중인 블레이드 대원[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999925_MSG0001",
+      "style": 1,
+      "name": "안녕, 컨디션은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999925_MSG0101",
+      "style": 1,
+      "name": "안녕, 여전히 좋아 보이네[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999925_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999925_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999925_MSG2001",
+      "style": 1,
+      "name": "알겠어\n유니언에 전투 지원을 요청해 둘게[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999925_MSG2101",
+      "style": 1,
+      "name": "안심하고 싸우도록 해\n내 유니언이 제대로 서포트하겠어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999925_MSG3001",
+      "style": 1,
+      "name": "나라도 괜찮다면 도와줄게[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999925_MSG3101",
+      "style": 1,
+      "name": "가 볼까?\n당신과 함께하는 임무…… 설레는걸[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999925_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999925_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999925_MSG5001",
+      "style": 1,
+      "name": "지금은 바빠\n나중에 해도 될까?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999925_MSG5101",
+      "style": 1,
+      "name": "미안해, 지금은 여유가 없어\n나중에 다시 와 줄래?[ST:wait ]"
+    }
+  ]
+}

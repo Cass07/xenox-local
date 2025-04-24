@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev015006_MSG0001",
+      "style": 1,
+      "name": "……여기도 지구인이 있잖아?\n흐흐, 메인 디시는 잡았으니까\n간식으로라도 써 주마아![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev015006_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 3,
+      "label": "qev015006_SEL0011",
+      "style": 3,
+      "name": "메인 디시가 무엇인지 묻는다"
+    },
+    {
+      "$id": 4,
+      "label": "qev015006_JNK0020",
+      "style": 4,
+      "name": "임전 태세"
+    },
+    {
+      "$id": 5,
+      "label": "qev015006_SEL0021",
+      "style": 3,
+      "name": "곧바로 임전 태세를 갖춘다"
+    },
+    {
+      "$id": 6,
+      "label": "qev015006_MSG0002",
+      "style": 1,
+      "name": "간식 주제에 떠들지 마아!\n너는 얌전히 잡아먹히면 그만이다아[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev015006_MSG0003",
+      "style": 1,
+      "name": "간다아!\n너한테 진짜 사냥을 가르쳐 주겠다![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev015006_MSG0004",
+      "style": 1,
+      "name": "도망이라도 치면 차라리 귀여울 텐데\n간식 주제에 건방지다아![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev015006_MSG0005",
+      "style": 1,
+      "name": "우리를 이길 거라고 착각하지 마!\n너한테 진짜 사냥을 가르쳐 주겠다아![ST:wait ]"
+    }
+  ]
+}

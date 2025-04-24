@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev097804_MSG0001",
+      "style": 1,
+      "name": "……………………\n…………………………[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev097804_MSG0002",
+      "style": 1,
+      "name": "별님의 목소리가 들려모……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev097804_MSG0003",
+      "style": 1,
+      "name": "응? 이 보라보라에게 무슨 볼일이야모?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev097804_MSG0004",
+      "style": 1,
+      "name": "별님과의 대화를\n방해하면서까지 말을 걸었으니\n제법 중요한 이야기인 건가모?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev097804_JNK0010",
+      "style": 4,
+      "name": "확인한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev097804_SEL0011",
+      "style": 3,
+      "name": "병약한 연인이 있는지 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "qev097804_JNK0020",
+      "style": 4,
+      "name": "묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "qev097804_SEL0021",
+      "style": 3,
+      "name": "방랑하는 이유를 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "qev097804_MSG0005",
+      "style": 1,
+      "name": "……응?\n……으으으으으응!?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev097804_MSG0006",
+      "style": 1,
+      "name": "카라반에서 보라보라가 돌아오길 기다리는\n사랑스러운 헤나헤나를 아는 거야모!?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev097804_MSG0007",
+      "style": 1,
+      "name": "당신…… 정체가 뭐냐모?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev097804_MSG0008",
+      "style": 1,
+      "name": "당신과는 상관없는 일이다모……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev097804_MSG0009",
+      "style": 1,
+      "name": "보라보라는 병으로 괴로워하는\n사랑스러운 헤나헤나를 위해서……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev097804_MSG0010",
+      "style": 1,
+      "name": "기적의 의술을 찾아\n떠돌고 있을 뿐이다모……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev097804_MSG0011",
+      "style": 1,
+      "name": "뭐!? 당신\n보라보라의 카라반을 아는 거야모!?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev097804_MSG0012",
+      "style": 1,
+      "name": "병약한 헤나헤나도 안다고모!?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev097804_MSG0013",
+      "style": 1,
+      "name": "당신…… 정체가 뭐냐모?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev097804_MSG0014",
+      "style": 1,
+      "name": "아하……\n카라반에서 의뢰를 받아\n여기까지 온 거였구나모~[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev097804_MSG0015",
+      "style": 1,
+      "name": "그것참 고생이 많다모\n그런데 무슨 의뢰야모?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev097804_MSG0016",
+      "style": 1,
+      "name": "……아니, 그것보다\n헤나헤나의 병세는 어떻게 된 거냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev097804_MSG0017",
+      "style": 1,
+      "name": "……못?\n모모모모모모모모모모못!?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev097804_MSG0018",
+      "style": 1,
+      "name": "헤나헤나의……\n사랑스러운 헤나헤나의 병이…… 낫는다고모!?\n치료할 방법을 알아낸 거야모!?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev097804_MSG0019",
+      "style": 1,
+      "name": "이럴 수가…… 보라보라가\n여기저기 돌아다니고도\n단서조차 잡지 못했던 치료법이……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev097804_MSG0020",
+      "style": 1,
+      "name": "이렇게 간단히…………[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev097804_MSG0021",
+      "style": 1,
+      "name": "아, 아니지! 보라보라의 고생 따위는\n이제 아무래도 상관없다모![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev097804_MSG0022",
+      "style": 1,
+      "name": "건강해진 헤나헤나를 만나고 싶다모!\n지금 당장 한달음에 만나러 가고 싶다모![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev097804_MSG0023",
+      "style": 1,
+      "name": "카라반으로 돌아가겠다모~~~![ST:wait ]"
+    }
+  ]
+}

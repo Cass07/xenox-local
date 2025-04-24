@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev066701_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev066701_SEL0011",
+      "style": 3,
+      "name": "요리에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev066701_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev066701_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev066701_NSG0001",
+      "style": 1,
+      "name": "카레를 만드는 데 익숙해지면\n다른 요리에도 도전해 보려 합니다\n특이한 식재료를 써 보는 것도 좋겠네요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev066701_NSG0002",
+      "style": 1,
+      "name": "예를 들면 노폰들의 비약\n붉은 꽃가루 구슬을 사용해\n레드 카레를 만들고 싶다…………[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev066701_NSG0003",
+      "style": 1,
+      "name": "라고 전에, 슬쩍 집어 먹으러 온\n타츠 공께 이야기해 봤더니\n결사반대하시더군요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev066701_NSG0004",
+      "style": 1,
+      "name": "기운 솟는 레드 카레를\n만들 수 있겠다 싶었는데……\n조금 유감입니다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev066701_NSG0008",
+      "style": 1,
+      "name": "오오, [ST:playername ] 공!\n보십시오, 이 성황을 이루는 모습![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev066701_NSG0009",
+      "style": 1,
+      "name": "제가 만든 카레를 먹으러\n다들 와 주신 거예요!![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev066701_NSG0010",
+      "style": 1,
+      "name": "아무리 칼을 휘둘러도\n이렇게까지 사람들의 마음을 끌지는 못했는데……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev066701_NSG0011",
+      "style": 1,
+      "name": "요리를 가르쳐 준 메그 공과 귀하께는\n감사와 감격의 마음이 휘몰아칩니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev066701_NSG0012",
+      "style": 1,
+      "name": "이 카레…… 망각의 계곡에 계신 델그 님께서도\n부디 드셔 주셨으면 하네요[ST:wait ]"
+    }
+  ]
+}

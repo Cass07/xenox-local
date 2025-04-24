@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev056302_MSG0101",
+      "style": 1,
+      "name": "ザザザン遅すぎだも……\n白樹の大陸で連絡があったのを最後に\n通信も繋がらないし……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev056302_MSG0102",
+      "style": 1,
+      "name": "……一体何があったんだも？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev056302_JNK0010",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev056302_SEL0011",
+      "style": 3,
+      "name": "ザザザンの知り合いかと\n尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev056302_JNK0020",
+      "style": 4,
+      "name": "教える[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev056302_SEL0021",
+      "style": 3,
+      "name": "無事に黒鋼の大陸を\n出発したと　教えてあげる[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev056302_MSG0103",
+      "style": 1,
+      "name": "……おまえ何者だも？\nザザザンは……大切な仲間だも\nそれ以上のことは言う必要はないも[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev056302_MSG0104",
+      "style": 1,
+      "name": "おまえザザザンの知り合いも？\nザザザンはボダボダの大切な仲間だも[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev056302_MSG0105",
+      "style": 1,
+      "name": "でも　それにしては遅すぎだも\nまったく……何やってるんだも……[ST:wait ]"
+    }
+  ]
+}

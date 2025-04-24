@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05080100_MSG0001",
+      "style": 0,
+      "name": "まず一つ！[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs05080100_MSG0002",
+      "style": 0,
+      "name": "残りは二つね\n急ぎましょう[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs05080100_MSG0003",
+      "style": 0,
+      "name": "二つ目も壊したですも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs05080100_MSG0004",
+      "style": 0,
+      "name": "さあ　次が最後よ！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs05080100_MSG0005",
+      "style": 0,
+      "name": "ここの対空兵器も沈黙[ST:wide ]―\nこれで全部のようね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs05080100_MSG0006",
+      "style": 0,
+      "name": "マ・ノンの人達　喜びますね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs05080100_MSG0007",
+      "style": 0,
+      "name": "さっきの所へ戻りましょう！[ST:wait ]"
+    }
+  ]
+}

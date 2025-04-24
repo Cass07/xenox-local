@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000693_MSG0001",
+      "style": 1,
+      "name": "이 녀석, 내 육포를 먹어 버렸잖아!\n젠장! 고양이는 이래서 문제라니까[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000693_MSG0002",
+      "style": 1,
+      "name": "펫은 역시 강아지가 제일이지…… 응?\n오, [ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000693_MSG0003",
+      "style": 1,
+      "name": "미안, 네 펫을 욕할 생각은 아니었는데……\n그래도 난 뼛속까지 강아지파거든[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000693_MSG0004",
+      "style": 1,
+      "name": "B.B. 펫 중에서도 강아지는 군용견 AI를\n설치하고 보디 아머 같은 걸 입혀서\n함께 미라를 탐색할 수도 있다고[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000693_MSG0005",
+      "style": 1,
+      "name": "우리보다 후각도 뛰어날 테니\n사냥감을 쫓을 때도 제격이지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000693_MSG0006",
+      "style": 1,
+      "name": "게다가 한심한 인간과는 달리\n어지간한 일로는 도망치지 않아[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000693_MSG0007",
+      "style": 1,
+      "name": "너는 어떻게 생각하냐?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000693_JNK0010",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 9,
+      "label": "tev000693_SEL0011",
+      "style": 3,
+      "name": "강아지가 원시 생물한테 먹히지 않을지\n걱정된다"
+    },
+    {
+      "$id": 10,
+      "label": "tev000693_JNK0020",
+      "style": 4,
+      "name": "찬성"
+    },
+    {
+      "$id": 11,
+      "label": "tev000693_SEL0021",
+      "style": 3,
+      "name": "함께 미라를 탐험한다면\n즐거울 거라며 찬성한다"
+    },
+    {
+      "$id": 12,
+      "label": "tev000693_MSG0008",
+      "style": 1,
+      "name": "하긴, 인간 상대라면 군용견이 유용하지만\n우리 상대는 오버드란 말이지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000693_MSG0009",
+      "style": 1,
+      "name": "가장 먼저 표적이 될지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000693_MSG0010",
+      "style": 1,
+      "name": "임무에 나갈 때마다 강아지를 잃는다면 정말 끔찍하겠지[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000693_MSG0011",
+      "style": 1,
+      "name": "지구에 있던 시절에 폭스하운드를\n기른 적이 있었어[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000693_MSG0012",
+      "style": 1,
+      "name": "그 녀석은 내가 10살 때 죽었는데\n그때 난 아주 대성통곡을 했었지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000693_MSG0013",
+      "style": 1,
+      "name": "포그는 강아지가 무서워서 다가가질 않았으니\n별로 슬프지도 않았을 것 같지만 말이다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000693_MSG0014",
+      "style": 1,
+      "name": "……다시 생각해 보니 애착이 생긴 강아지가\n원시 생물한테 죽는 건 도저히 못 볼 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000693_MSG0015",
+      "style": 1,
+      "name": "설령 만들어진 생명이라도\n이름을 짓고 사랑을 주면\n더 이상 진짜와 다를 게 없잖냐[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000693_MSG0016",
+      "style": 1,
+      "name": "……뭐, 함께 미라를 여행하는 건\n한참 나중 일이 될 것 같군[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000693_MSG0017",
+      "style": 1,
+      "name": "일단 이 별에서 위협을 제거해야지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000693_MSG0018",
+      "style": 1,
+      "name": "난 오늘 휴일이니까 일 안 하지만\n[ST:playername ][KR:Particle char=ha ] 미래를 위해\n열심히 일해 달라고![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000693_MSG0019",
+      "style": 1,
+      "name": "바로 그거야![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000693_MSG0020",
+      "style": 1,
+      "name": "지구에 있던 시절에 폭스하운드를\n기른 적이 있었어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000693_MSG0021",
+      "style": 1,
+      "name": "포그는 무섭다며 좀체 다가오지 않았지만\n나는 언제나 같이 있었거든[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000693_MSG0022",
+      "style": 1,
+      "name": "녀석과는 더 이상 만날 수 없지만\n다시 한번 아끼는 강아지와 함께 사냥을 하고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000693_MSG0023",
+      "style": 1,
+      "name": "……내 자그마한 꿈 이야기는 여기까지 할까[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000693_MSG0024",
+      "style": 1,
+      "name": "임무에 강아지를 데리고 갈 수 없을지\n반담 영감이랑 상의해 봐야겠어[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000693_MSG0025",
+      "style": 1,
+      "name": "술에 취해서 헛소리한다며 쫓아낼 것 같지만[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000693_MSG0026",
+      "style": 1,
+      "name": "그럼 또 보자[ST:wait ]"
+    }
+  ]
+}

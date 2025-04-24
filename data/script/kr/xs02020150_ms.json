@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs02020150_MSG0001",
+      "style": 0,
+      "name": "여기서 목적지로 가려면 아까 지나온\n공업 에어리어의 웨스트 게이트보다……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs02020150_MSG0002",
+      "style": 0,
+      "name": "블레이드 에어리어의\n이스트 게이트로 나가는 게 가깝겠네요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs02020150_MSG0003",
+      "style": 0,
+      "name": "린[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs02020150_MSG0004",
+      "style": 0,
+      "name": "주변에 고랭크의 원시 생물이 출몰해서\n모든 게이트가 봉쇄되지 않았어?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs02020150_MSG0005",
+      "style": 0,
+      "name": "그랬었는데요, 조금 전에\n경계 레벨이 내려가서 봉쇄가 풀렸어요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs02020150_MSG0006",
+      "style": 0,
+      "name": "어떤 팀이 원시 생물을\n쓰러뜨려 줬거든요![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs02020150_JNK0010",
+      "style": 4,
+      "name": "자랑"
+    },
+    {
+      "$id": 8,
+      "label": "xs02020150_SEL0011",
+      "style": 3,
+      "name": "자신이 쓰러뜨렸다고 자랑한다"
+    },
+    {
+      "$id": 9,
+      "label": "xs02020150_JNK0020",
+      "style": 4,
+      "name": "추리"
+    },
+    {
+      "$id": 10,
+      "label": "xs02020150_SEL0021",
+      "style": 3,
+      "name": "이리나와 그윈을 떠올리며 묻는다"
+    },
+    {
+      "$id": 11,
+      "label": "xs02020150_MSG0007",
+      "style": 0,
+      "name": "네? 그런가요?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs02020150_MSG0008",
+      "style": 0,
+      "name": "그렇지 않아[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs02020150_MSG0009",
+      "style": 0,
+      "name": "우리가 싸운 루프스는 저랭크야\n모든 게이트를 봉쇄할 정도로 위협적이진 않지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs02020150_MSG0010",
+      "style": 0,
+      "name": "그건 그렇지만……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs02020150_MSG0011",
+      "style": 0,
+      "name": "그것보다 루프스를 쓰러뜨린 건가요?\n둘이서?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs02020150_MSG0012",
+      "style": 0,
+      "name": "대단하네요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs02020150_MSG0013",
+      "style": 0,
+      "name": "루프스는 무리 지어 행동하니까\n모든 팀이 고전하고 있다고요![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs02020150_MSG0014",
+      "style": 0,
+      "name": "우쭐해 하지 마[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs02020150_MSG0015",
+      "style": 0,
+      "name": "린도 너무 띄워 주지 말고\n그러다 다치기라도 하면 곤란해[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs02020150_MSG0017",
+      "style": 0,
+      "name": "죄송해요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs02020150_MSG0018",
+      "style": 0,
+      "name": "확실히 이리나 팀의 실력이라면\n있을 수 있는 일이네[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs02020150_MSG0020",
+      "style": 0,
+      "name": "이리나 씨와 그윈 씨랑 만났나요?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs02020150_MSG0020_m",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "xs02020150_MSG0020_f",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "xs02020150_MSG0021",
+      "style": 0,
+      "name": "그래, 린과 만나기 조금 전에 말이지\n임무를 수행하러 가는 길이라고 했어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs02020150_MSG0022",
+      "style": 0,
+      "name": "임무를 수행하러 가는 길이었다면 틀림없어요![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs02020150_MSG0024",
+      "style": 0,
+      "name": "아, 보고 싶었는데~\n이리나 씨 팀의 활약[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs02020150_MSG0025",
+      "style": 0,
+      "name": "분명 곧 볼 수 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs02020150_MSG0026",
+      "style": 0,
+      "name": "자, 잡담은 여기까지 하고\n임무로 돌아가자[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs02020150_MSG0027",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs02020150_MSG0028",
+      "style": 0,
+      "name": "그럼 이스트 게이트를 통해\n목적지로 가요![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025306_MSG0001",
+      "style": 1,
+      "name": "어서 오세요!\n선샤인 카페에 온 걸 환영합니다![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025306_MSG0002",
+      "style": 1,
+      "name": "……네? 뭐라고요?\nNLA만의 음식을 찾고 있다고요?\n그렇다면 우리 가게가 자랑하는 핫도그는 어때요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025306_MSG0003",
+      "style": 1,
+      "name": "아무리 시간이 지나도 따끈따끈, 스파이시~!\n게다가 겨우 600G라니까요![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025306_JNK0010",
+      "style": 4,
+      "name": "산다"
+    },
+    {
+      "$id": 5,
+      "label": "qev025306_SEL0011",
+      "style": 3,
+      "name": "600G를 내고\n핫도그를 구입한다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev025306_JNK0020",
+      "style": 4,
+      "name": "사지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "qev025306_SEL0021",
+      "style": 3,
+      "name": "필요 없다며 거절한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev025306_MSG0004",
+      "style": 1,
+      "name": "고마워요! 여기 있어요!\n분명 외계인도 이 맛에 푹 빠질 거예요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev025306_MSG0005",
+      "style": 1,
+      "name": "어라? 맛있는데……\n생각이 바뀌면 사러 와 주세요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025306_MSG0006",
+      "style": 1,
+      "name": "……응?\n저기~ 설마 돈이 없으신가요?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025306_MSG0007",
+      "style": 1,
+      "name": "분명 600G 값어치를 할 거라고요!\n돈을 가지고 다시 와 주세요![ST:wait ]"
+    }
+  ]
+}

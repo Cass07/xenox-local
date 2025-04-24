@@ -1,0 +1,438 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev041203_MSG0001",
+      "style": 1,
+      "name": "므하~ 어떻게든 도착했다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev041203_MSG0002",
+      "style": 1,
+      "name": "안쪽이면, 이 근처면 되겠냐모?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev041203_MSG0003",
+      "style": 1,
+      "name": "왠지 둘러싸여 있어서 무섭지만\n물품을 납품하자모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev041203_MSG0004",
+      "style": 1,
+      "name": "납품 완료다모!\n빨리 카라반으로 돌아가자모![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev041203_MSG0005",
+      "style": 1,
+      "name": "잠깐 기다려![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev041203_MSG0006",
+      "style": 1,
+      "name": "너는 상인 주제에\n납품한 물건 확인도 안 시켜 주고\n바로 떠나려는 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev041203_MSG0007",
+      "style": 1,
+      "name": "므하?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev041203_MSG0008",
+      "style": 1,
+      "name": "아…… 아니, 그렇지 않다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev041203_MSG0009",
+      "style": 1,
+      "name": "책임자가 없는 것 같아서\n다시 한번 입구로 돌아가\n확인해 달라고 할 생각이었다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev041203_MSG0010",
+      "style": 1,
+      "name": "그 책임자가 바로 나다!\n확인할 테니까 거기서 기다려![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev041203_MSG0011",
+      "style": 1,
+      "name": "…………\n……응? 이게 뭐야![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev041203_MSG0012",
+      "style": 1,
+      "name": "왜 그러냐모?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev041203_MSG0013",
+      "style": 1,
+      "name": "모르는 척하지 마!\n납품 수가 한참 모자라잖아!\n난 평소의 3배를 요구했을 텐데에![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev041203_MSG0014",
+      "style": 1,
+      "name": "그럴 수가……!\n그런 말 못 들었다모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev041203_MSG0015",
+      "style": 1,
+      "name": "시끄러워![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev041203_MSG0016",
+      "style": 1,
+      "name": "어떻게 할 거냐아!\n너 때문에 우리 모두가\n배고파서 움직일 수 없게 될 거다![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev041203_MSG0017",
+      "style": 1,
+      "name": "덕분에 계획은 엉망진창!\n돈으로 계산해도 엄청난 손실이다아![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev041203_MSG0018",
+      "style": 1,
+      "name": "이 자식, 어떻게 책임질 거냐아![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev041203_MSG0019",
+      "style": 1,
+      "name": "므, 음므므므므므므므!\n그, 그럼 이 건은 일단 돌아가서\n사실 관계를 확인하고……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev041203_MSG0020",
+      "style": 1,
+      "name": "뭐라고 지껄이는 거냐!\n책임질 수 없다면\n여기서 널 먹어 버릴 수도 있다아![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev041203_MSG0021",
+      "style": 1,
+      "name": "그하하하하하하하![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev041203_MSG0022",
+      "style": 1,
+      "name": "히! 히이이익~![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev041203_MSG0023",
+      "style": 1,
+      "name": "자, 지금이 바로 당신이 나설 차례다모![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev041203_MSG0024",
+      "style": 1,
+      "name": "므믄을 지켜 줘라모……\n그리고 이 자리에서 원만하게\n비즈니스적으로 우리 손해가 없도록![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev041203_MSG0025",
+      "style": 1,
+      "name": "잘 교섭해서 사태를 수습하는 거다모![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev041203_MSG0026",
+      "style": 1,
+      "name": "그러려고 여기까지 데리고 온 거다모![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev041203_MSG0027",
+      "style": 1,
+      "name": "지금이야말로 맡은 일을 할 때다모~![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev041203_JNK0010",
+      "style": 4,
+      "name": "타협안"
+    },
+    {
+      "$id": 29,
+      "label": "qev041203_SEL0011",
+      "style": 3,
+      "name": "요구한 숫자만큼 조달한다"
+    },
+    {
+      "$id": 30,
+      "label": "qev041203_JNK0020",
+      "style": 4,
+      "name": "강공책"
+    },
+    {
+      "$id": 31,
+      "label": "qev041203_SEL0021",
+      "style": 3,
+      "name": "무력으로 상황을 타개한다"
+    },
+    {
+      "$id": 32,
+      "label": "qev041203_MSG0028",
+      "style": 1,
+      "name": "진심이냐모!\n요구대로 조달한다고 하면\n에그위 14개다모![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev041203_MSG0029",
+      "style": 1,
+      "name": "모으기도 엄청나게 힘들고……\n그리고 더 일한 만큼 추가로 돈을 내라고\n할 수도 없는 상황이다모![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev041203_MSG0030",
+      "style": 1,
+      "name": "그래도 한다는 거냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev041203_MSG0031",
+      "style": 1,
+      "name": "하지만…… 이곳에서 살아 돌아가려면\n그것밖에 없다모[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev041203_MSG0032",
+      "style": 1,
+      "name": "알았다모\n그럼 다시 한번 에그위를 찾아 오겠다모![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev041203_MSG0033",
+      "style": 1,
+      "name": "서, 설마 이 숫자를 상대로 싸울 생각인가모!?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev041203_MSG0034",
+      "style": 1,
+      "name": "무모하다모! 살아남을 수 있을 리가 없다모!\n므믄은 책임 못 진다모![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev041203_MSG0035",
+      "style": 1,
+      "name": "그, 그래도 한다는 거냐모?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev041203_MSG0036",
+      "style": 1,
+      "name": "……알았다모[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev041203_MSG0037",
+      "style": 1,
+      "name": "그럼 므믄은 방해되지 않게\n그림자에 숨어 있겠다모![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev041203_MSG0065",
+      "style": 1,
+      "name": "뭐야? 아직도 물건이 없는 거냐?\n빨리 에그위를 14개 가져와![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev041203_MSG0066",
+      "style": 1,
+      "name": "너무 꾸물거리면\n이 자리에서 너희를 먹어 치우겠다아![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev041203_MSG0038",
+      "style": 1,
+      "name": "오, 드디어 돌아왔나?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev041203_MSG0039",
+      "style": 1,
+      "name": "매, 매번 고맙다모~[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev041203_MSG0040",
+      "style": 1,
+      "name": "그래서?\n물건 개수는 제대로 맞췄겠지?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev041203_MSG0041",
+      "style": 1,
+      "name": "아주 좋아!\n에그위가 이만큼이나 있으면\n한동안 먹을 걱정은 없겠구운![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev041203_MSG0042",
+      "style": 1,
+      "name": "저, 저기~\n그래서 추가 요금 말인데모……[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev041203_MSG0043",
+      "style": 1,
+      "name": "뭐야? 무슨 잠꼬대를 하는 거냐아?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev041203_MSG0044",
+      "style": 1,
+      "name": "개수를 틀린 건 그쪽이다아!\n추가금 같은 건 우리가 알 바 아니다아![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev041203_MSG0045",
+      "style": 1,
+      "name": "그건 안 된다모~!\n에그위를 그만큼 모으느라\n죽도록 고생했다모~![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev041203_MSG0046",
+      "style": 1,
+      "name": "앞으로는 개수를\n틀리지 않으면 되는 거다아![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev041203_MSG0047",
+      "style": 1,
+      "name": "이번에는 이걸로 용서해 주는 걸\n감사하게 생각해[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev041203_MSG0048",
+      "style": 1,
+      "name": "므, 음므므므므~![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev041203_MSG0049",
+      "style": 1,
+      "name": "화났다모!\n거래는 오늘이 마지막이다모![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev041203_MSG0050",
+      "style": 1,
+      "name": "비즈니스 불성립!\n우리와의 관계는 이걸로 끝이다모![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev041203_MSG0051",
+      "style": 1,
+      "name": "호오, 괜찮겠나아?\n그렇게 말한 걸 후회하지 않겠나아?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev041203_MSG0052",
+      "style": 1,
+      "name": "상인이 비즈니스에서 얕보이면\n끝난 거다모![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev041203_MSG0053",
+      "style": 1,
+      "name": "알겠다, 앞으로 너희들은\n우리와 거래하지 않겠다는 거지이?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev041203_MSG0054",
+      "style": 1,
+      "name": "그렇다모![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev041203_MSG0055",
+      "style": 1,
+      "name": "그럼 힘으로 습격하는 수밖에 없겠군\n너희 카라반을 말이다[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev041203_MSG0056",
+      "style": 1,
+      "name": "므하!?[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev041203_MSG0057",
+      "style": 1,
+      "name": "물건을 팔고 싶지 않다고 한다면\n방법은 그것뿐이지이[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev041203_MSG0058",
+      "style": 1,
+      "name": "므……[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev041203_MSG0059",
+      "style": 1,
+      "name": "므므……[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev041203_MSG0060",
+      "style": 1,
+      "name": "므하하하하하하~![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev041203_MSG0061",
+      "style": 1,
+      "name": "농담이다모!\n바이어스인과 비즈니스를 그만두다니\n진심일 리 없지 않냐모![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev041203_MSG0062",
+      "style": 1,
+      "name": "그렇지?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev041203_MSG0063",
+      "style": 1,
+      "name": "앞으로도 잘 부탁한다모!\n이야~ 이번 건은 좋은 비즈니스였다모![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev041203_MSG0064",
+      "style": 1,
+      "name": "므하, 므하\n므하하하하하하~![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085901_MSG0001",
+      "style": 0,
+      "name": "あ　エルマさん　皆さん\nこないだはお世話になりました！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085901_MSG0002",
+      "style": 0,
+      "name": "お前　エルマチームと仕事したこと\nあったのか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085901_MSG0003",
+      "style": 0,
+      "name": "なに言ってるんですか　ラオさんが\nいなくなっちゃって困ってた時ですよ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085901_MSG0004",
+      "style": 0,
+      "name": "そういうこともあったな\n悪い悪い[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085901_MSG0005",
+      "style": 0,
+      "name": "よしエルマ　今　礼をする\n好きなもん飲み食いして行けよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085901_MSG0006",
+      "style": 0,
+      "name": "ほんとですも！？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085901_MSG0007",
+      "style": 0,
+      "name": "食べた食べたですも～～　幸せですも～～\nラオさん　いい人ですも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085901_MSG0008",
+      "style": 0,
+      "name": "お前な　好きなもん食えとは言ったが\n好きなだけ食えとは言ってねぇぞ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085901_MSG0009",
+      "style": 0,
+      "name": "まぁまぁ　今度タツをご馳走しますから[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085901_MSG0010",
+      "style": 0,
+      "name": "ところでシンゴよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085901_MSG0011",
+      "style": 0,
+      "name": "お前さんの悩み　俺なんかよりこのご婦人方に\n相談した方が有意義なんじゃないのか？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085901_MSG0012",
+      "style": 0,
+      "name": "何か困っているの？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085901_MSG0013",
+      "style": 0,
+      "name": "あ　それは　その[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085901_MSG0014",
+      "style": 0,
+      "name": "あっ　わかった[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085901_MSG0014_2",
+      "style": 0,
+      "name": "シンゴさん　好きな人でも\nできたんじゃないですか？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085901_MSG0015",
+      "style": 0,
+      "name": "な　ななな[ST:wide ]―\n何でそんなこと分かるんですか！？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085901_MSG0016",
+      "style": 0,
+      "name": "だって[ST:wide ]―　ねえ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085901_JNK0010",
+      "style": 4,
+      "name": "同調"
+    },
+    {
+      "$id": 19,
+      "label": "qev085901_SEL0011",
+      "style": 3,
+      "name": "見れば分かるとニヤニヤする"
+    },
+    {
+      "$id": 20,
+      "label": "qev085901_JNK0020",
+      "style": 4,
+      "name": "鈍感"
+    },
+    {
+      "$id": 21,
+      "label": "qev085901_SEL0021",
+      "style": 3,
+      "name": "分からないと首を振る"
+    },
+    {
+      "$id": 22,
+      "label": "qev085901_MSG0017",
+      "style": 0,
+      "name": "ほ～んと　シンゴさんわかりやすいんだもん[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085901_MSG0018",
+      "style": 0,
+      "name": "[ST:wide ]―よく言われます[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085901_MSG0019",
+      "style": 0,
+      "name": "え～　わからないんですか？\nシンゴさん　こんなにわかりやすいのに[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085901_MSG0020",
+      "style": 0,
+      "name": "よく言われます[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085901_MSG0021",
+      "style": 0,
+      "name": "何故分かったかは置いておいて\n相談にのってあげたら？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085901_MSG0022",
+      "style": 0,
+      "name": "でも恋の相談なら　やっぱりラオさんが\nのってあげるのがいいですよ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085901_MSG0023",
+      "style": 0,
+      "name": "いつも同じチーム組んでて\nシンゴさんのことよく知ってるし[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085901_MSG0024",
+      "style": 0,
+      "name": "それにラオさんってご結婚されて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085901_MSG0025",
+      "style": 0,
+      "name": "悪いな　シンゴ\n先に帰らせてもらう[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085901_MSG0026",
+      "style": 0,
+      "name": "あっ　はい[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085901_MSG0027",
+      "style": 0,
+      "name": "うまくいくといいな\n応援してるぜ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085901_MSG0028",
+      "style": 0,
+      "name": "あ　ありがとうございます！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085901_MSG0029",
+      "style": 0,
+      "name": "ラオさんの前で家族の話は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085901_MSG0030",
+      "style": 0,
+      "name": "あ　あの　私[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085901_JNK0030",
+      "style": 4,
+      "name": "慰安"
+    },
+    {
+      "$id": 37,
+      "label": "qev085901_SEL0031",
+      "style": 3,
+      "name": "気を落とすなと精一杯慰める"
+    },
+    {
+      "$id": 38,
+      "label": "qev085901_JNK0040",
+      "style": 4,
+      "name": "激励"
+    },
+    {
+      "$id": 39,
+      "label": "qev085901_SEL0041",
+      "style": 3,
+      "name": "元気を出せと一生懸命励ます"
+    },
+    {
+      "$id": 40,
+      "label": "qev085901_MSG0031",
+      "style": 0,
+      "name": "ありがとうございます\n私　無神経なこと言っちゃって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev085901_MSG0032",
+      "style": 0,
+      "name": "あの[ST:wide ]―　すみません\n元気出ません[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev085901_MSG0033",
+      "style": 0,
+      "name": "大丈夫よ\nラオ　応援してるって言ってたじゃない[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev085901_MSG0034",
+      "style": 0,
+      "name": "そうですも！\n怒ってたらあんなこと言わないですも！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev085901_MSG0035",
+      "style": 0,
+      "name": "みんな　ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev085901_MSG0036",
+      "style": 0,
+      "name": "そうだ　あの　よかったらほんとに\n相談に乗ってもらえませんか？[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev085901_MSG0037",
+      "style": 0,
+      "name": "俺　マジ困ってて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev085901_MSG0038",
+      "style": 0,
+      "name": "はい　私達にできることなら！[ST:wait ]"
+    }
+  ]
+}

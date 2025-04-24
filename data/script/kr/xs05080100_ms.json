@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05080100_MSG0001",
+      "style": 0,
+      "name": "우선 하나![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs05080100_MSG0002",
+      "style": 0,
+      "name": "두 개 남았어\n서두르자[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs05080100_MSG0003",
+      "style": 0,
+      "name": "두 번째도 부쉈다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs05080100_MSG0004",
+      "style": 0,
+      "name": "자, 다음이 마지막이야![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs05080100_MSG0005",
+      "style": 0,
+      "name": "이곳의 방공 병기도 파괴 완료……\n이걸로 다 부순 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs05080100_MSG0006",
+      "style": 0,
+      "name": "마 논인들이 기뻐하겠어요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs05080100_MSG0007",
+      "style": 0,
+      "name": "아까 그곳으로 돌아가요![ST:wait ]"
+    }
+  ]
+}

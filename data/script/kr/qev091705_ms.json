@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091705_MSG0001",
+      "style": 0,
+      "name": "네가 랑크로드구나……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091705_MSG0002",
+      "style": 0,
+      "name": "그렇습니다……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091705_MSG0003",
+      "style": 0,
+      "name": "기회주의자인 온오토남과 동족들이\n저를 설득하러 올 거라고 생각했습니다만……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091705_MSG0004",
+      "style": 0,
+      "name": "설마 지구인 같은 하등 생물이 오다니[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091705_JNK0010",
+      "style": 4,
+      "name": "질문한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev091705_SEL0011",
+      "style": 3,
+      "name": "어째서 다른 동료들을\n따르지 않은 거냐고 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "qev091705_JNK0020",
+      "style": 4,
+      "name": "인사한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev091705_SEL0021",
+      "style": 3,
+      "name": "비아노 정수장에서 크게\n신세를 졌다며 인사한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev091705_MSG0005",
+      "style": 0,
+      "name": "제가 이질적인 존재이기 때문입니다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091705_MSG0006",
+      "style": 0,
+      "name": "그들의 오버는 그로우스를 배신할 것을 종용했지만\n저의 오버는 그러지 않았죠[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091705_MSG0007",
+      "style": 0,
+      "name": "그로우스에 남아 배신자를 죽이는 것\n그것이 최우선이라고 판단한 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091705_MSG0008",
+      "style": 0,
+      "name": "압도적인 테크놀로지 차이를\n깨달았을 테지요?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091705_MSG0009",
+      "style": 0,
+      "name": "저의 두뇌는 온오토남을\n까마득히 웃돌고 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091705_MSG0010",
+      "style": 0,
+      "name": "그런 얘기는 아무래도 좋아[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091705_MSG0011",
+      "style": 0,
+      "name": "나의 보수를 위해서\n당장 투항해 줘야겠어[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091705_MSG0012",
+      "style": 0,
+      "name": "죄송합니다만\n전 얌전히 잡힐 생각이 없습니다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091705_MSG0013",
+      "style": 0,
+      "name": "오르페인은 싸우지 못한다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091705_MSG0014",
+      "style": 0,
+      "name": "여러분은 그렇게 들었을지도 모르지만\n저는 다릅니다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091705_MSG0015",
+      "style": 0,
+      "name": "혼자 이런 곳에 있는 건\n제 나름대로 자신이 있기 때문이죠[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091705_MSG0016",
+      "style": 0,
+      "name": "그러면 선수를 쳐야겠네[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091705_JNK0030",
+      "style": 4,
+      "name": "아연실색한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev091705_SEL0031",
+      "style": 3,
+      "name": "머더레스의 행동을 지켜볼 수밖에 없다"
+    },
+    {
+      "$id": 23,
+      "label": "qev091705_JNK0040",
+      "style": 4,
+      "name": "제지한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev091705_SEL0041",
+      "style": 3,
+      "name": "죽이면 안 된다며 머더레스를 막는다"
+    },
+    {
+      "$id": 25,
+      "label": "qev091705_JNK0050",
+      "style": 4,
+      "name": "항의한다"
+    },
+    {
+      "$id": 26,
+      "label": "qev091705_SEL0051",
+      "style": 3,
+      "name": "자신이 쓰러뜨릴 생각이었다며 항의한다"
+    },
+    {
+      "$id": 27,
+      "label": "qev091705_MSG0017",
+      "style": 0,
+      "name": "이, 이럴 수가……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091705_MSG0018",
+      "style": 0,
+      "name": "어머, 말하는 중에 끊어서 미안해\n난 일장 연설이 정말 싫거든[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091705_MSG0019",
+      "style": 0,
+      "name": "하지만 안심해도 돼\n죽지 않을 만큼만 혼내 줄 테니까[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091705_MSG0020",
+      "style": 0,
+      "name": "이런 야만인 녀석……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091705_MSG0021",
+      "style": 0,
+      "name": "괜찮아[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091705_MSG0022",
+      "style": 0,
+      "name": "죽이면 보수가 날아갈지도 모르지만\n산송장 정도라면 문제없을 테니까[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091705_MSG0023",
+      "style": 0,
+      "name": "이, 이 야만인 녀석……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091705_MSG0024",
+      "style": 0,
+      "name": "혈기 왕성하기는\n싸우지 않고 이기는 게 똑똑한 방법이라고[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091705_MSG0025",
+      "style": 0,
+      "name": "이, 이게 똑똑한 방법이라니……\n야만인 녀석……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091705_MSG0026",
+      "style": 0,
+      "name": "야만인이라니 농담도 참\n난 이래 봬도…… 대부호의 딸이야[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091705_MSG0027",
+      "style": 0,
+      "name": "어린 시절엔 드레스를 입고 파티에 참석했었어\n그러니까 우아한 게 어떤 건지 잘 알아[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091705_MSG0028",
+      "style": 0,
+      "name": "어디 보자……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091705_MSG0029",
+      "style": 0,
+      "name": "벌레 녀석이 입을 다물었으니\nNLA로 돌아갈까[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091705_MSG0030",
+      "style": 0,
+      "name": "60만 G가 우리를 기다리고 있어[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091705_MSG0031",
+      "style": 0,
+      "name": "이런…… 연구 데이터의 위치를\n이 벌레 녀석한테서 캐물었어야 했는데[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091705_MSG0032",
+      "style": 0,
+      "name": "어쩔 수 없지, 자력으로 찾자\nNLA로 돌아가는 건 그다음이야[ST:wait ]"
+    }
+  ]
+}

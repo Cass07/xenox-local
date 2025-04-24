@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085404_MSG0001",
+      "style": 0,
+      "name": "그윈 선배, 여러분\n감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085404_MSG0002",
+      "style": 0,
+      "name": "나 참, 위험하잖아\n비전투원 블레이드가 이런 곳까지 오다니[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085404_MSG0003",
+      "style": 0,
+      "name": "아이샤![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085404_MSG0004",
+      "style": 0,
+      "name": "네엣!?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085404_MSG0005",
+      "style": 0,
+      "name": "아이샤, 나야!\n데리러 왔어![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085404_MSG0006",
+      "style": 0,
+      "name": "아이샤![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085404_MSG0007",
+      "style": 0,
+      "name": "아아……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085404_MSG0008",
+      "style": 0,
+      "name": "아무래도 경계하는 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085404_MSG0009",
+      "style": 0,
+      "name": "미토스, 아이샤가 좋아하는 음식 같은 거 없어?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085404_MSG0010",
+      "style": 0,
+      "name": "아, 저 아이는\n키란 개다래나무라면 사족을 못 써요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085404_MSG0011",
+      "style": 0,
+      "name": "결정이다모![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085404_MSG0012",
+      "style": 0,
+      "name": "도망가는 녀석을 잡는 데는\n먹이로 유인하는 게 최고다모![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085404_MSG0013",
+      "style": 0,
+      "name": "뭐, 노폰도 고양이랑 비슷한 레벨 같으니까[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085404_MSG0014",
+      "style": 0,
+      "name": "모?[ST:wait ]"
+    }
+  ]
+}

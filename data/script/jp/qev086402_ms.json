@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086402_MSG0001",
+      "style": 0,
+      "name": "ああもう　うっとうしい！\n止まれ！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086402_MSG0002",
+      "style": 0,
+      "name": "はいですも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086402_MSG0003",
+      "style": 0,
+      "name": "ねえ　ドドンガ・キャラバンってのは何？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086402_MSG0004",
+      "style": 0,
+      "name": "ノポンはキャラバンで旅をする種族なんですも[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086402_MSG0005",
+      "style": 0,
+      "name": "キャラバンには\n立ち上げた時の長の名前がつくんですも[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086402_MSG0006",
+      "style": 0,
+      "name": "と言うことは　ドドンガさんというノポンが\n作ったキャラバンなのね？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086402_MSG0007",
+      "style": 0,
+      "name": "そうですも　ドドンガは\n偉大な初代キャラバンリーダーのことですも！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086402_MSG0008",
+      "style": 0,
+      "name": "でも　そのドドンガ・キャラバンが\nタツに何か関係あるの？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086402_MSG0009",
+      "style": 0,
+      "name": "大有りですも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086402_MSG0010",
+      "style": 0,
+      "name": "タツのふるさとですも\nカーチャンもそこにいるですも[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086402_MSG0011",
+      "style": 0,
+      "name": "えええっ　お母さんも！？\n何で今まで帰らなかったの？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086402_MSG0012",
+      "style": 0,
+      "name": "キャラバンは日々移動しているんですも[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086402_MSG0012_2",
+      "style": 0,
+      "name": "タツ　バイアスにさらわれたから\nドドンガ・キャラバンがどこにいるのか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086402_MSG0013",
+      "style": 0,
+      "name": "わからなくなってしまったんですも[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086402_MSG0014",
+      "style": 0,
+      "name": "その行方が判明したのに\nどうして帰らないの？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086402_MSG0015",
+      "style": 0,
+      "name": "いまのタツはブレイドの大黒柱ですも[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086402_MSG0016",
+      "style": 0,
+      "name": "タツが勝手に里帰りしたら\nみんなが困ってしまうですも[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086402_MSG0017",
+      "style": 0,
+      "name": "いや　困らないと思う[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086402_MSG0018",
+      "style": 0,
+      "name": "なんですも～～！\nそれはあんまりですも！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086402_MSG0019",
+      "style": 0,
+      "name": "いいわ\nドドンガ・キャラバンの視察に行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086402_MSG0020",
+      "style": 0,
+      "name": "ＮＬＡと友好関係を結べれば　立派な任務だわ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086402_MSG0021",
+      "style": 0,
+      "name": "はい　タツの故郷　見てみたいですしね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086402_JNK0010",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 24,
+      "label": "qev086402_SEL0011",
+      "style": 3,
+      "name": "確かに見たいと深くうなずく"
+    },
+    {
+      "$id": 25,
+      "label": "qev086402_JNK0020",
+      "style": 4,
+      "name": "恐怖"
+    },
+    {
+      "$id": 26,
+      "label": "qev086402_SEL0021",
+      "style": 3,
+      "name": "沢山のタツを想像して震える"
+    },
+    {
+      "$id": 27,
+      "label": "qev086402_MSG0022",
+      "style": 0,
+      "name": "ノポンのキャラバンってどんなだか\n興味ありますもんね[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086402_MSG0023",
+      "style": 0,
+      "name": "おっきな木の中に住んでたりして！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086402_MSG0024",
+      "style": 0,
+      "name": "キャラバンって言うくらいだから\nこんなのが沢山[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086402_MSG0025",
+      "style": 0,
+      "name": "二人とも　その目はなんですかも？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086402_MSG0026",
+      "style": 0,
+      "name": "ううん　何でもないよ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086402_MSG0027",
+      "style": 0,
+      "name": "わかりましたですも\nタツも男ですも！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086402_MSG0028",
+      "style": 0,
+      "name": "捨てたはずの過去と直面する日が\nやってきたんですも[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086402_MSG0029",
+      "style": 0,
+      "name": "行きましょうですも！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086402_MSG0030",
+      "style": 0,
+      "name": "捨てたはずの過去[ST:wide ]―　ねぇ[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

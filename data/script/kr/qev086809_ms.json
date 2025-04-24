@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086809_MSG0001",
+      "style": 1,
+      "name": "강요하고 싶지는 않지만……\n모두가 각자 가진 능력을 최대한 살려서[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086809_MSG0002",
+      "style": 1,
+      "name": "가혹한 미라에서 살아남기 위해\n다양한 공헌을 하고 있다네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086809_MSG0003",
+      "style": 1,
+      "name": "그도 이 NLA의 시민인 이상\n그 책임을 다해 줘야 하지[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086809_MSG0004",
+      "style": 1,
+      "name": "아무래도 그녀는 혼자서\n백목의 대륙으로 간 모양이군……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086809_MSG0005",
+      "style": 1,
+      "name": "거대한 체구의 그에게 가장 잘 맞는 역할이\n전투 임무라고 생각했지만……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086809_MSG0006",
+      "style": 1,
+      "name": "나의 그런 판단이\n그녀를 몰아붙인 건가……[ST:wait ]"
+    }
+  ]
+}

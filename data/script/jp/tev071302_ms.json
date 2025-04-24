@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev071302_MSG0001",
+      "style": 1,
+      "name": "非力な私達が　デフィニアを見つけだしても\n勝率など0.03％もありません……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev071302_MSG0002",
+      "style": 1,
+      "name": "どうか　お願いします……\nスンオサラグを助けてください……[ST:wait ]"
+    }
+  ]
+}

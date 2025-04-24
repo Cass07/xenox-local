@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev010901_MSG0001",
+      "style": 1,
+      "name": "ぐっ……うう……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev010901_MSG0002",
+      "style": 1,
+      "name": "……あっ……あんたは\n[ST:playername ]っすか……？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev010901_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 4,
+      "label": "qev010901_SEL0011",
+      "style": 3,
+      "name": "一体、何があったか状況を確認する"
+    },
+    {
+      "$id": 5,
+      "label": "qev010901_JNK0020",
+      "style": 4,
+      "name": "心配"
+    },
+    {
+      "$id": 6,
+      "label": "qev010901_SEL0021",
+      "style": 3,
+      "name": "カールの怪我を心配する"
+    },
+    {
+      "$id": 7,
+      "label": "qev010901_MSG0003",
+      "style": 1,
+      "name": "正直　相当ヤベーっすけど……\nいまは自分のことより　NLAのことっす[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev010901_MSG0004",
+      "style": 1,
+      "name": "あいつ……あいつが来たんすよ……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev010901_MSG0005",
+      "style": 1,
+      "name": "[ST:playername ]さんが\nずっと前に　見逃したバケモン……\nズースの子供っすよ！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev010901_MSG0006",
+      "style": 1,
+      "name": "あの子供が　大人になって\nブレイドを襲いまくってて……オレも……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev010901_MSG0007",
+      "style": 1,
+      "name": "あいつらは　見逃しちゃダメだったんす……\nかわいそうでも\nあの時に殺しておくべきだったんす！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev010901_MSG0008",
+      "style": 1,
+      "name": "このままじゃオレたちの判断のせいで\n沢山の人がキズつくことになるっす……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev010901_MSG0009",
+      "style": 1,
+      "name": "お願いっす……奴を……奴を……\nたおしてください……っす……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev010901_MSG0010",
+      "style": 1,
+      "name": "あいつら　今もウエストゲート北の……\nあの巣にいるみたい……っす……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev010901_MSG0011",
+      "style": 1,
+      "name": "どうかNLAを　守って……\nあっ……くっ……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev010901_MSG0012",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    }
+  ]
+}

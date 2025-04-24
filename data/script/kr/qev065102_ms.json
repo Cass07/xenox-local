@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065102_MSG0001",
+      "style": 1,
+      "name": "……쳇\n하등 생물이 나타나셨군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065102_MSG0002",
+      "style": 1,
+      "name": "이봐……\n우리 위대한 왕의 어전이다, 머리를 조아려라[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065102_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 4,
+      "label": "qev065102_SEL0011",
+      "style": 3,
+      "name": "왕이 대체 어디 있다는 건지 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "qev065102_JNK0020",
+      "style": 4,
+      "name": "전투"
+    },
+    {
+      "$id": 6,
+      "label": "qev065102_SEL0021",
+      "style": 3,
+      "name": "곧바로 무기를 꺼낸다"
+    },
+    {
+      "$id": 7,
+      "label": "qev065102_MSG0003",
+      "style": 1,
+      "name": "그렇군, 여기까지 왔으면서\n아직 아무것도 모르는 건가[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev065102_MSG0004",
+      "style": 1,
+      "name": "그렇다면 그대로 죽어라……\n지금부터 포르툰 님의 명령을 수행한다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev065102_MSG0005",
+      "style": 1,
+      "name": "……너의 그 하찮은 만용을 보신\n포르툰 님께서 명령을 내리셨다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065102_MSG0006",
+      "style": 1,
+      "name": "죽여라……라고 하시는군\n신속하게 명령을 수행하겠다[ST:wait ]"
+    }
+  ]
+}

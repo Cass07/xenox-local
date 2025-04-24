@@ -1,0 +1,468 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001001_MSG0001",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001001_MSG0002",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001001_MSG0003",
+      "style": 1,
+      "name": "……무언가 용건이 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001001_MSG0004",
+      "style": 1,
+      "name": "저는 생각을 좀 하고 싶어서요……\n죄송합니다……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001001_MSG1009",
+      "style": 1,
+      "name": "설마…… 절 동료로 삼아 주실……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001001_MSG1010",
+      "style": 1,
+      "name": "……아니, 설마요\n그럴 리 없겠죠……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001001_JNK0010",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001001_SEL0011",
+      "style": 3,
+      "name": "포그를 멤버에 넣는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001001_JNK0020",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001001_SEL0021",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 11,
+      "label": "tev001001_MSG1011",
+      "style": 1,
+      "name": "기쁘네요\n싸움은 좋아하지 않지만…… 열심히 할게요![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001001_MSG1012",
+      "style": 1,
+      "name": "그렇겠죠……\n알고 있었어요……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001001_MSG1017",
+      "style": 1,
+      "name": "미지의…… 생명체……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001001_MSG1018",
+      "style": 1,
+      "name": "저, 예전에 그런 별명으로\n불린 적이 있어요……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001001_JNK0050",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 16,
+      "label": "tev001001_SEL0051",
+      "style": 3,
+      "name": "포그를 멤버에 넣는다"
+    },
+    {
+      "$id": 17,
+      "label": "tev001001_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 18,
+      "label": "tev001001_SEL0061",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 19,
+      "label": "tev001001_MSG1019",
+      "style": 1,
+      "name": "기쁘네요\n싸움은 좋아하지 않지만…… 열심히 할게요![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001001_MSG1020",
+      "style": 1,
+      "name": "다음에, 당신의 예전 별명도\n알려 주세요……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001001_MSG1025",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001001_MSG1026",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001001_MSG1027",
+      "style": 1,
+      "name": "……이런 식으로 기척을 지워서\n플라에드에게 들키지 않기를 바랄게요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001001_MSG1032",
+      "style": 1,
+      "name": "무섭지만…… 동료를 구해야 해……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001001_MSG1033",
+      "style": 1,
+      "name": "저도, 망각의 계곡에 데려가 주세요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001001_JNK0070",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 27,
+      "label": "tev001001_SEL0071",
+      "style": 3,
+      "name": "포그를 멤버에 넣는다"
+    },
+    {
+      "$id": 28,
+      "label": "tev001001_JNK0080",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 29,
+      "label": "tev001001_SEL0081",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 30,
+      "label": "tev001001_MSG1034",
+      "style": 1,
+      "name": "네……\n발목 잡지 않게, 노력할게요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001001_MSG1035",
+      "style": 1,
+      "name": "언제든 말씀해 주세요\n마음의 준비는 됐으니까요…… 아마도요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001001_MSG1040",
+      "style": 1,
+      "name": "백목의 대륙은 안개에 싸인 미지의 땅……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001001_MSG1041",
+      "style": 1,
+      "name": "길을 잃지 않도록 조심해야겠네요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001001_JNK0090",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 35,
+      "label": "tev001001_SEL0091",
+      "style": 3,
+      "name": "포그를 멤버에 넣는다"
+    },
+    {
+      "$id": 36,
+      "label": "tev001001_JNK0100",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 37,
+      "label": "tev001001_SEL0101",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 38,
+      "label": "tev001001_MSG1042",
+      "style": 1,
+      "name": "네……\n발목 잡지 않게, 노력할게요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001001_MSG1043",
+      "style": 1,
+      "name": "그런가요……\n부디 무사히 돌아와 주세요……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001001_MSG1048",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001001_MSG1049",
+      "style": 1,
+      "name": "잠시 멍하니 있었어요……\n저기, 또 새로운 임무인가요?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001001_JNK0110",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 43,
+      "label": "tev001001_SEL0111",
+      "style": 3,
+      "name": "포그를 멤버에 넣는다"
+    },
+    {
+      "$id": 44,
+      "label": "tev001001_JNK0120",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 45,
+      "label": "tev001001_SEL0121",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 46,
+      "label": "tev001001_MSG1050",
+      "style": 1,
+      "name": "네……\n발목 잡지 않게, 노력할게요[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001001_MSG1051",
+      "style": 1,
+      "name": "언제든 말씀해 주세요\n마음의 준비는 됐으니까요…… 아마도요[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001001_MSG1056",
+      "style": 1,
+      "name": "저기…… 서둘러 라오 씨를\n쫓아가야 하는 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001001_MSG1057",
+      "style": 1,
+      "name": "저도, 힘낼게요\n그러니 데려가 주세요[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001001_JNK0130",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 51,
+      "label": "tev001001_SEL0131",
+      "style": 3,
+      "name": "포그를 멤버에 넣는다"
+    },
+    {
+      "$id": 52,
+      "label": "tev001001_JNK0140",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 53,
+      "label": "tev001001_SEL0141",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 54,
+      "label": "tev001001_MSG1058",
+      "style": 1,
+      "name": "알겠습니다\n그럼, 저기…… 서둘러야겠네요![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001001_MSG1059",
+      "style": 1,
+      "name": "언제든 말씀해 주세요\n마음의 준비는 됐으니까요…… 아마도요[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev001001_MSG1064",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev001001_MSG1065",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev001001_MSG1066",
+      "style": 1,
+      "name": "결심이…… 섰습니다\n언제든지 갈 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev001001_JNK0150",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 60,
+      "label": "tev001001_SEL0151",
+      "style": 3,
+      "name": "포그를 멤버에 넣는다"
+    },
+    {
+      "$id": 61,
+      "label": "tev001001_JNK0160",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 62,
+      "label": "tev001001_SEL0161",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 63,
+      "label": "tev001001_MSG1067",
+      "style": 1,
+      "name": "저도 마지막 정도는……\n용감하게 싸울 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev001001_MSG1068",
+      "style": 1,
+      "name": "알겠습니다\n그럼 여기에서, 임무 성공을 빌게요[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev001001_MSG1073",
+      "style": 1,
+      "name": "평화는 참 좋네요[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev001001_MSG1074",
+      "style": 1,
+      "name": "주택 에어리어 사람들도\n어쩐지 무거운 짐을 내려놓은 듯한 표정이고요……[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev001001_MSG1075",
+      "style": 1,
+      "name": "저…… 이 평화를 지키기 위해서라면\n아직 조금 더 싸울 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev001001_JNK0170",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 69,
+      "label": "tev001001_SEL0171",
+      "style": 3,
+      "name": "포그를 멤버에 넣는다"
+    },
+    {
+      "$id": 70,
+      "label": "tev001001_JNK0180",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 71,
+      "label": "tev001001_SEL0181",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 72,
+      "label": "tev001001_MSG1076",
+      "style": 1,
+      "name": "기쁘네요\n싸움은 좋아하지 않지만…… 열심히 할게요![ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev001001_MSG1077",
+      "style": 1,
+      "name": "언제든 말씀해 주세요\n그때까지 저, 여기서 생각을 하고 있을 테니까요……[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev001001_MSG1078",
+      "style": 1,
+      "name": "……저기, 죄송해요\n제가 조금…… 바빠서요……[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev001001_MSG1079",
+      "style": 1,
+      "name": "저기…… 그게, 죄송합니다\n다음에 다시 만나요…………[ST:wait ]"
+    }
+  ]
+}

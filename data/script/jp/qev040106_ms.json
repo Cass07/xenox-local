@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040106_MSG0001",
+      "style": 1,
+      "name": "ももも？\nドパーン・キャラバンに何か用かも？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040106_MSG0002",
+      "style": 1,
+      "name": "NLAから来たノポンを探してる？\nうーんと……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev040106_MSG0003",
+      "style": 1,
+      "name": "そういえば　召使を連れたカワイイノポンが\n黒鋼の大陸へ向かうといってましたも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev040106_MSG0004",
+      "style": 1,
+      "name": "もう　ずいぶん前に出発したから\nそろそろ到着してるはずだも[ST:wait ]"
+    }
+  ]
+}

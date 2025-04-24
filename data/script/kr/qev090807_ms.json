@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090807_MSG0001",
+      "style": 0,
+      "name": "……저기, 요즘 당신과 제가 주변에서\n어떤 평가를 받는지 알고 있습니까?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090807_MSG0002",
+      "style": 0,
+      "name": "반담 사령관의 뒤를 잇는 건\n저희 둘 중 하나라고 말하더군요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090807_MSG0003",
+      "style": 0,
+      "name": "저는…… 지지 않을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090807_MSG0004",
+      "style": 0,
+      "name": "반드시 최고의 자리에 올라서 블레이드를\n더욱 현대적인 조직으로 개편하고 말 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090807_JNK0010",
+      "style": 4,
+      "name": "도발"
+    },
+    {
+      "$id": 6,
+      "label": "qev090807_SEL0011",
+      "style": 3,
+      "name": "양보할 생각은 없다며 도전을 받아들인다"
+    },
+    {
+      "$id": 7,
+      "label": "qev090807_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 8,
+      "label": "qev090807_SEL0021",
+      "style": 3,
+      "name": "그런 지위에는 흥미가 없다고 말한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev090807_MSG0005",
+      "style": 0,
+      "name": "그렇게 나와야 제 라이벌이죠\n정점에 도달하는 것은 누가 먼저일지……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090807_MSG0006",
+      "style": 0,
+      "name": "벌써 기대되는데요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090807_MSG0007",
+      "style": 0,
+      "name": "……다행이네요\n저도 당신과 무익한 싸움을 벌이기는 싫거든요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090807_MSG0008",
+      "style": 0,
+      "name": "아무튼 앞으로도 저희 둘이서 어떤 임무든\n완벽하게 해결해 냅시다[ST:wait ]"
+    }
+  ]
+}

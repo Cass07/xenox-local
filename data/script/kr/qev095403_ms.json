@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095403_MSG0001",
+      "style": 1,
+      "name": "큭……\n여기까지인가……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095403_MSG0002",
+      "style": 1,
+      "name": "대장!![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095403_MSG0003",
+      "style": 1,
+      "name": "다행이다아……\n늦지 않았어……!![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev095403_MSG0004",
+      "style": 1,
+      "name": "너희들……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev095403_MSG0005",
+      "style": 1,
+      "name": "난 너희한테 돌아오라든가\n날 구해 달라고 명령한 적 없어!![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev095403_MSG0006",
+      "style": 1,
+      "name": "대장, 다시 한번 싸우자아!![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev095403_MSG0007",
+      "style": 1,
+      "name": "슬랩티 부대의 마지막 의지를\n보여 주는 거야아!![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095403_MSG0008",
+      "style": 1,
+      "name": "설마……?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095403_MSG0009",
+      "style": 1,
+      "name": "으아악……!?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095403_MSG0010",
+      "style": 1,
+      "name": "저번에 우리를 습격한 원시 생물이다아……!![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095403_MSG0011",
+      "style": 1,
+      "name": "쳇, 녀석의 둥지였던 건가……[ST:wait ]"
+    }
+  ]
+}

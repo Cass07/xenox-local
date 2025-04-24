@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085406_MSG0001",
+      "style": 0,
+      "name": "よかったな　アイシャが戻ってきて[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085406_MSG0002",
+      "style": 0,
+      "name": "皆さんのおかげです\nありがとうございました！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085406_MSG0003",
+      "style": 0,
+      "name": "もう逃げられないようにしないと　ですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085406_MSG0004",
+      "style": 0,
+      "name": "いや　そういうわけにはいかないよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085406_MSG0005",
+      "style": 0,
+      "name": "[ST:undisp]ん？"
+    },
+    {
+      "$id": 6,
+      "label": "qev085406_MSG0006",
+      "style": 0,
+      "name": "僕たちには僕たちの任務があるように\nアイシャにも任務があるんだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085406_MSG0007",
+      "style": 0,
+      "name": "このミラの大地を駆け回る[ST:wide ]―\nという重大任務がね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085406_MSG0008",
+      "style": 0,
+      "name": "そっか\nそれでデータを集めてくるんですもんね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085406_MSG0009",
+      "style": 0,
+      "name": "そうそう[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085406_MSG0010",
+      "style": 0,
+      "name": "データを回収させてもらえなくなると困るけど\n後は自由にやってもらうさ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085406_MSG0011",
+      "style": 0,
+      "name": "嘘つくなよ　データとるだけなら\nフロンティアネットで充分だろ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085406_MSG0012",
+      "style": 0,
+      "name": "本当は心配でたまらなかったくせに[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085406_MSG0013",
+      "style": 0,
+      "name": "せ　先輩！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085406_MSG0014",
+      "style": 0,
+      "name": "あ～～　行っちゃいましたですも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085406_MSG0015",
+      "style": 0,
+      "name": "元気に走り回ってこいよ！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085406_MSG0016",
+      "style": 0,
+      "name": "気持ちよさそうですね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085406_MSG0017",
+      "style": 0,
+      "name": "そうね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085406_MSG0018",
+      "style": 0,
+      "name": "いつかは私達も[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]ではない自分の身体で\nこの星の大地を駆けてみたいものね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085406_JNK0010",
+      "style": 4,
+      "name": "賛成"
+    },
+    {
+      "$id": 20,
+      "label": "qev085406_SEL0011",
+      "style": 3,
+      "name": "笑みをたたえて強くうなずく"
+    },
+    {
+      "$id": 21,
+      "label": "qev085406_JNK0020",
+      "style": 4,
+      "name": "弱気"
+    },
+    {
+      "$id": 22,
+      "label": "qev085406_SEL0021",
+      "style": 3,
+      "name": "その日が来るか不安を伝える"
+    },
+    {
+      "$id": 23,
+      "label": "qev085406_MSG0019",
+      "style": 0,
+      "name": "もしそうなったら\nあなた達を驚かせてしまうけど[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085406_MSG0020",
+      "style": 0,
+      "name": "どうしてですか？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085406_MSG0021",
+      "style": 0,
+      "name": "いずれ分かるわ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085406_MSG0022",
+      "style": 0,
+      "name": "何言ってるんですか！\n私達の手で呼び寄せるんですよ！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085406_MSG0023",
+      "style": 0,
+      "name": "リンの言う通りよ\nその日が来るまで頑張りましょう[ST:wait ]"
+    }
+  ]
+}

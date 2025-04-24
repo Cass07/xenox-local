@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092806_MSG0010",
+      "style": 0,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092806_MSG0020",
+      "style": 0,
+      "name": "アリシャ　お前が残した不正の証拠[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092806_MSG0030",
+      "style": 0,
+      "name": "それから　さっきの戦闘のログと\nクレマンとの会話の音声データ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092806_MSG0040",
+      "style": 0,
+      "name": "これを全て上層部に渡すんだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092806_MSG0050",
+      "style": 0,
+      "name": "お前に少しでも[ST:wide ]―\n情状酌量の余地が与えられるように[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092806_MSG0060",
+      "style": 0,
+      "name": "[ST:wide ]―ありがとう　リーゼル[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092806_MSG0070",
+      "style": 0,
+      "name": "それと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092806_MSG0080",
+      "style": 0,
+      "name": "これからは\n悩みがあれば　おれに話してくれ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092806_MSG0090",
+      "style": 0,
+      "name": "どんな小さなことでもだ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092806_MSG0100",
+      "style": 0,
+      "name": "おれ達は[ST:wide ]―　親友なんだから[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092806_MSG0110",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "qev092806_MSG0120",
+      "style": 0,
+      "name": "それに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092806_MSG0130",
+      "style": 0,
+      "name": "今は心強い味方もいる[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092806_MSG0140",
+      "style": 0,
+      "name": "ええ　そうね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092806_MSG0145",
+      "style": 0,
+      "name": "本当に[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

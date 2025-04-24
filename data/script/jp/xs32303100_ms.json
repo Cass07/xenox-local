@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32303100_MSG0010",
+      "style": 0,
+      "name": "これで最後ですね！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32303100_MSG0020",
+      "style": 0,
+      "name": "みんな　ご苦労さま[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32303100_MSG0030",
+      "style": 0,
+      "name": "夜光の森に戻りましょう[ST:wait ]"
+    }
+  ]
+}

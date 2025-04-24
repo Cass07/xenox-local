@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev055691_MSG0001",
+      "style": 1,
+      "name": "호오~!\nNLA가 큰일이다모!![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev055691_MSG0002",
+      "style": 1,
+      "name": "하지만 이런 때야말로\n크게 한몫 잡을 찬스다모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev055691_MSG0003",
+      "style": 1,
+      "name": "암즈 컴퍼니의 높으신 분의 부탁으로\n너희를 위해서 출장 왔다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev055691_MSG0004",
+      "style": 1,
+      "name": "암즈 컴퍼니의 콘솔과\n숍의 콘솔을 운반해 온 거다모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev055691_MSG0005",
+      "style": 1,
+      "name": "그것도 가격은 인상 없이 그대로![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev055691_MSG0006",
+      "style": 1,
+      "name": "마구 구매해서\n그로우스를 해치워 주길 바란다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev055691_MSG0010",
+      "style": 1,
+      "name": "자, 마구 구매해서\n그로우스를 해치워 주길 바란다모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev055691_MSG0011",
+      "style": 1,
+      "name": "참고로 차차의 주머니에는\n매출의 50%가 들어온다모[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev055691_MSG0012",
+      "style": 1,
+      "name": "그리고 아르바이트 노폰들에게는\n일당으로 30G를 주고 있다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev055691_MSG0013",
+      "style": 1,
+      "name": "네가 구매하면 할수록\n차차는 큰 부자가 된다모!\n호오, 호오, 호오~!![ST:wait ]"
+    }
+  ]
+}

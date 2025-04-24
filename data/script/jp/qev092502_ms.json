@@ -1,0 +1,444 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092502_MSG0001",
+      "style": 0,
+      "name": "リン　一体なにをしやがった[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092502_MSG0002",
+      "style": 0,
+      "name": "ちょ[ST:wide ]―　ちょっと待ってください！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092502_MSG0003",
+      "style": 0,
+      "name": "[ST:wide ]―あっ！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092502_MSG0003_2",
+      "style": 0,
+      "name": "増幅炉への直通回路が逆になってる！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092502_MSG0004",
+      "style": 0,
+      "name": "ごめんなさい！　最終調整で\nこんなドジやらかしちゃうなんて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092502_MSG0005",
+      "style": 0,
+      "name": "おっ　帰って来たか[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092502_MSG0006",
+      "style": 0,
+      "name": "その様子じゃ\nマテリアルは手に入れて来たみたいだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092502_MSG0006_2",
+      "style": 0,
+      "name": "見ての通りでな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092502_MSG0007",
+      "style": 0,
+      "name": "このままじゃ　テストフライトは延期\nあるいは製造中止なんてこともあるかもしれん[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092502_MSG0008",
+      "style": 0,
+      "name": "[ST:wide ]―わざわざ苦労をかけたのに　悪かったな[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092502_MSG0009",
+      "style": 0,
+      "name": "そんな！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092502_MSG0009_2",
+      "style": 0,
+      "name": "機体の修理も問題の解決も\nなんとかしてみせます！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092502_MSG0010",
+      "style": 0,
+      "name": "ヴァンダム司令！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092502_MSG0010_2",
+      "style": 0,
+      "name": "私[ST:wide ]―　どうしても\nこれだけは完成させなきゃならないんです！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092502_MSG0011",
+      "style": 0,
+      "name": "終わらせなきゃいけない　宿題なんです[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092502_MSG0012",
+      "style": 0,
+      "name": "この機体[ST:wide ]―\n最後まで仕上げさせてください！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092502_MSG0013",
+      "style": 0,
+      "name": "[ST:wide ]―お前さんの気持ちは分かった[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092502_MSG0014",
+      "style": 0,
+      "name": "しかしなぁ[ST:wide ]―　さっきの失敗を見て\n協力してくれたサクラバの連中も不安がってる[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092502_MSG0015",
+      "style": 0,
+      "name": "量産できるレベルにまで完成させないと\nこの１機だけじゃ上層部は納得しないぞ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092502_MSG0016",
+      "style": 0,
+      "name": "だけど　私[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092502_MSG0018",
+      "style": 0,
+      "name": "あの親にしてこの子ありと言ったところか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092502_MSG0019",
+      "style": 0,
+      "name": "[ST:wide ]―ヴァンダムよ　気にするな\n若い連中は　ワシがなんとかする[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092502_MSG0020",
+      "style": 0,
+      "name": "なぁに　一介の技術者とはいえ\nこの人生　全てサクラバに費やしてきた身だ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092502_MSG0021",
+      "style": 0,
+      "name": "年寄りのワガママの一つくらい\n通してみせるさ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092502_MSG0022",
+      "style": 0,
+      "name": "イソベさんっ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092502_MSG0023",
+      "style": 0,
+      "name": "なるほどな[ST:wide ]―\nだが　パイロットはどうする？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092502_MSG0024",
+      "style": 0,
+      "name": "こんなのを見せられて\nテストフライトをやってくれるやつなんざ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092502_MSG0025",
+      "style": 0,
+      "name": "[ST:wide ]―いると思うか？[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092502_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 30,
+      "label": "qev092502_SEL0011",
+      "style": 3,
+      "name": "自分に任せて欲しいと\n力強くうなずいてみせる"
+    },
+    {
+      "$id": 31,
+      "label": "qev092502_JNK0020",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 32,
+      "label": "qev092502_SEL0021",
+      "style": 3,
+      "name": "ダグならやるだろうと\n話の風向きを変える"
+    },
+    {
+      "$id": 33,
+      "label": "qev092502_MSG0026",
+      "style": 0,
+      "name": "ありがとうございます！\n私　みんなの期待に必ず応えてみせます！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092502_MSG0027",
+      "style": 0,
+      "name": "確かにダグさんならやってくれるかもしれない\nだけど　これは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092502_MSG0028",
+      "style": 0,
+      "name": "今までずっと生死を共にして戦ってきた\nあなたに　託したいんです！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092502_MSG0029",
+      "style": 0,
+      "name": "なるほど[ST:wide ]―　まっ　そこまで頼られちゃ\n断るわけにはいかないか[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092502_MSG0030",
+      "style": 0,
+      "name": "よし　そうと決まればいつまでに直せる？\n結構な壊れようだぞ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092502_MSG0031",
+      "style": 0,
+      "name": "明日までに修理して　カンペキにします！[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092502_MSG0032",
+      "style": 0,
+      "name": "分かった[ST:wide ]―　それなら明日の朝までだ\n遅れたら今回は中止[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092502_MSG0033",
+      "style": 0,
+      "name": "再度　ドールフライトカスタムの開発が妥当か\n本部で検討させてもらうぜ？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092502_MSG0034",
+      "style": 0,
+      "name": "はい！　まかせてください！\nここまで手伝ってくれた人たちの想い[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092502_MSG0035",
+      "style": 0,
+      "name": "テストフライトに挑んでくれる　あなたの覚悟\n絶対に　無駄にしませんから！[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092502_MSG0035_m",
+      "style": 0,
+      "name": "テストフライトに挑んでくれる　あなたの覚悟\n絶対に　無駄にしませんから！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092502_MSG0035_f",
+      "style": 0,
+      "name": "テストフライトに挑んでくれる　あなたの覚悟\n絶対に　無駄にしませんから！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092502_MSG0036",
+      "style": 0,
+      "name": "で[ST:wide ]―　できたぁ！！[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092502_MSG0037",
+      "style": 0,
+      "name": "ヴァンダム司令！\n今度こそ絶対安全安心[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092502_MSG0038",
+      "style": 0,
+      "name": "自由自在に大空を　舞うことができる\nドールフライトカスタムの完成ですよ！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev092502_MSG0039",
+      "style": 0,
+      "name": "ああ[ST:wide ]―　俺も一通り　見させてもらったが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev092502_MSG0040",
+      "style": 0,
+      "name": "多分大丈夫　こいつならいける[ST:wide ]―はずだ[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev092502_MSG0041",
+      "style": 0,
+      "name": "[ST:wide ]―どうだ[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev092502_MSG0041_2",
+      "style": 0,
+      "name": "朝っぱらから悪いが\n早速　コイツで飛んでくれるか？[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev092502_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 53,
+      "label": "qev092502_SEL0031",
+      "style": 3,
+      "name": "任せろと胸を叩く"
+    },
+    {
+      "$id": 54,
+      "label": "qev092502_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 55,
+      "label": "qev092502_SEL0041",
+      "style": 3,
+      "name": "眠気が覚めてからに\nしたいと言う"
+    },
+    {
+      "$id": 56,
+      "label": "qev092502_MSG0042",
+      "style": 0,
+      "name": "その意気だ\nきっと朝日が気持ちいいと思うぜ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev092502_MSG0043",
+      "style": 0,
+      "name": "[ST:wide ]―ちゃんと　飛べればな[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev092502_MSG0044",
+      "style": 0,
+      "name": "いけますってば！\n司令　実はあんまり信用してませんね？[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev092502_MSG0045",
+      "style": 0,
+      "name": "もうっ！[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev092502_MSG0046",
+      "style": 0,
+      "name": "トラブル一つないテストフライトで\n目に物見せてやってください！[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev092502_MSG0047",
+      "style": 0,
+      "name": "なぁに　しばらく空を飛んでれば\n眠気なんか全部　吹っ飛ぶさ[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev092502_MSG0048",
+      "style": 0,
+      "name": "なんせコイツは　リンが作った\nとびっきりデンジャラスな機体だからな[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev092502_MSG0049",
+      "style": 0,
+      "name": "ひどいですよ！　もうっ！[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev092502_MSG0050",
+      "style": 0,
+      "name": "トラブル一つないテストフライトで\n目に物見せてやってください！[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev092502_MSG0051",
+      "style": 0,
+      "name": "よし　それじゃあ早速\n指定したポイントまで飛んでみてくれ[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev092502_MSG0052",
+      "style": 0,
+      "name": "これまで人類が足を踏み入れることが\nできなかった場所にな[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev092502_MSG0053",
+      "style": 0,
+      "name": "テストフライトにはピッタリの目的ですね[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev092502_MSG0054",
+      "style": 0,
+      "name": "だろ？[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev092502_MSG0055",
+      "style": 0,
+      "name": "俺達はここでモニタリングさせてもらう\n頼んだぞ[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev092502_MSG0056",
+      "style": 0,
+      "name": "絶対に墜落しないでくださいね！[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev092502_MSG0057",
+      "style": 0,
+      "name": "無事に帰ってきてくださいねって\n言うところだろ[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

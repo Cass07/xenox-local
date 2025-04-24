@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33120100_MSG0010",
+      "style": 0,
+      "name": "이건 어떻게 된 거지……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33120100_MSG0020",
+      "style": 0,
+      "name": "허무에 삼켜진 것인가……?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33120100_MSG0030",
+      "style": 0,
+      "name": "전방에서 빛이 보입니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33120100_MSG0040",
+      "style": 0,
+      "name": "유인하는 건가[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33120100_MSG0050",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "xs33120100_MSG0051",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "xs33120100_MSG0052",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "xs33120100_MSG0053",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "xs33120100_MSG0054",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "xs33120100_MSG0055",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "xs33120100_MSG0060",
+      "style": 0,
+      "name": "대체 무슨 일이지?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33120100_MSG0070",
+      "style": 0,
+      "name": "우주선 바닥이 무언가에 부딪힌 것 같습니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33120100_MSG0080",
+      "style": 0,
+      "name": "손상은?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33120100_MSG0090",
+      "style": 0,
+      "name": "딱히 없는 것 같당[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33120100_MSG0100",
+      "style": 0,
+      "name": "주변 상황은?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33120100_MSG0110",
+      "style": 0,
+      "name": "전파가 방해받는 것 같습니다\n주변 상황을 알 수 없습니다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33120100_MSG0120",
+      "style": 0,
+      "name": "이대로 나아가는 건 위험하겠군[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33120100_MSG0130",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33120100_MSG0140",
+      "style": 0,
+      "name": "전방의 빛이 있는 곳에 도착하기 전에\n선체가 조각날지도 모르네[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33120100_MSG0150",
+      "style": 0,
+      "name": "본선은 여기서 대기[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33120100_MSG0160",
+      "style": 0,
+      "name": "수비 부대는 우주선 주변을 경계해라[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33120100_MSG0170",
+      "style": 0,
+      "name": "알겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33120100_MSG0180",
+      "style": 0,
+      "name": "알겠다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs33120100_MSG0190",
+      "style": 0,
+      "name": "엘마, 출격이다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs33120100_MSG0200",
+      "style": 0,
+      "name": "알았어[ST:wait ]"
+    }
+  ]
+}

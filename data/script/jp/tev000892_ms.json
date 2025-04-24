@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000892_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000892_MSG0002",
+      "style": 1,
+      "name": "お前[ST:wide ]―ケンカを止めに来たのか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000892_MSG0003",
+      "style": 1,
+      "name": "この野郎がふざけたことを\n言いやがったんだ……！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000892_MSG0004",
+      "style": 1,
+      "name": "テスタメントをバカにした！\n墓荒らしだとか　使えないゴミばかり\n拾ってくるとかケンカをふっかけてきたんだ！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000892_JNK0010",
+      "style": 4,
+      "name": "同調する"
+    },
+    {
+      "$id": 6,
+      "label": "tev000892_SEL0011",
+      "style": 3,
+      "name": "相手の男を批難する"
+    },
+    {
+      "$id": 7,
+      "label": "tev000892_JNK0020",
+      "style": 4,
+      "name": "なだめる"
+    },
+    {
+      "$id": 8,
+      "label": "tev000892_SEL0021",
+      "style": 3,
+      "name": "イエルヴをなだめ\n落ち着かせる"
+    },
+    {
+      "$id": 9,
+      "label": "tev000892_MSG0005",
+      "style": 1,
+      "name": "お前も分かってくれるか！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000892_MSG0006",
+      "style": 1,
+      "name": "アイツがいなくなった今の俺には\nお前やブレイドがよりどころなんだよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000892_MSG0007",
+      "style": 1,
+      "name": "そのブレイドの仕事をコケにされて\n黙っていられるわけがないだろ？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000892_MSG0008",
+      "style": 1,
+      "name": "深呼吸して落ち着けって……？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000892_MSG0009",
+      "style": 1,
+      "name": "ちっ　わかったよ……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000892_MSG0010",
+      "style": 1,
+      "name": "すー[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000892_MSG0011",
+      "style": 1,
+      "name": "はー[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000892_MSG0012",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000892_MSG0013",
+      "style": 1,
+      "name": "……バカ野郎！\nお前も分かっていないようだな！！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000892_MSG0014",
+      "style": 1,
+      "name": "アイツがいなくなった今の俺には\nお前やブレイドがよりどころなんだぜ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000892_MSG0015",
+      "style": 1,
+      "name": "そのブレイドの仕事をコケにされて\n黙っていられるわけがないだろ！？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000892_MSG0016",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000892_MSG0017",
+      "style": 1,
+      "name": "分かってくれたならいいんだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000892_MSG0018",
+      "style": 1,
+      "name": "さて　どうやって二度とこいつの減らず口を\n叩けなくしてやるべきか……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000892_JNK0030",
+      "style": 4,
+      "name": "制止する"
+    },
+    {
+      "$id": 24,
+      "label": "tev000892_SEL0031",
+      "style": 3,
+      "name": "エレオノーラの名を出し\n蛮行をやめさせる"
+    },
+    {
+      "$id": 25,
+      "label": "tev000892_JNK0040",
+      "style": 4,
+      "name": "加勢する"
+    },
+    {
+      "$id": 26,
+      "label": "tev000892_SEL0041",
+      "style": 3,
+      "name": "近くの建機ドールを使って\n加勢する"
+    },
+    {
+      "$id": 27,
+      "label": "tev000892_MSG0019",
+      "style": 1,
+      "name": "くそっ　その名前を出すのは卑怯だぞ……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000892_MSG0020",
+      "style": 1,
+      "name": "今日の騒ぎがあいつの耳に入ったら\nうまい任務をもらえなくなる……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000892_MSG0021",
+      "style": 1,
+      "name": "ＯＫ　ＯＫ\nもうケンカは止めにするよ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000892_MSG0022",
+      "style": 1,
+      "name": "あいつに最近　ごく一部で流行ってる\nミートローフとやらをおごってもらって\n手打ちにするぜ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000892_MSG0023",
+      "style": 1,
+      "name": "おいおい容赦ねぇな……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000892_MSG0024",
+      "style": 1,
+      "name": "さすがの俺でもそこまではしねぇよ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000892_MSG0025",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000892_MSG0026",
+      "style": 1,
+      "name": "しかたねぇ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000892_MSG0027",
+      "style": 1,
+      "name": "男がミンチになる姿なんざ見たくないから\nケンカはもうやめにしてやる[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000892_MSG0028",
+      "style": 1,
+      "name": "俺が引けば　お前の手も血で汚れずに\n済むだろ？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000892_MSG0029",
+      "style": 1,
+      "name": "俺もお前を怒らせないように注意しないとな\nほんとおっかないぜ……[ST:wait ]"
+    }
+  ]
+}

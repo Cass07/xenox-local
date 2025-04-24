@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001092_MSG0001",
+      "style": 1,
+      "name": "……아, [ST:playername ] 씨\n안녕하세요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001092_MSG0002",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001092_MSG0003",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001092_MSG0004",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001092_MSG0005",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001092_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 7,
+      "label": "tev001092_SEL0011",
+      "style": 3,
+      "name": "뭘 하고 있었는지 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001092_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 9,
+      "label": "tev001092_SEL0021",
+      "style": 3,
+      "name": "고양이를 좋아하냐고 묻는다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001092_MSG0006",
+      "style": 1,
+      "name": "……보면 아시겠지만, 서로 견제하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001092_MSG0007",
+      "style": 1,
+      "name": "……고양이에게서 눈을 떼는 순간\n바로 저에게 달려들어 제 얼굴을\n발톱으로 사정없이 할퀼 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001092_MSG0008",
+      "style": 1,
+      "name": "전혀요![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001092_MSG0009",
+      "style": 1,
+      "name": "고양이는 전혀 좋아하지 않아요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001092_MSG0010",
+      "style": 1,
+      "name": "이 녀석들은, 절 괴롭힌다고요……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001092_MSG0011",
+      "style": 1,
+      "name": "……눈을 떼는 순간 바로 저에게\n달려들어 제 얼굴을 발톱으로\n사정없이 할퀼 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001092_MSG0012",
+      "style": 1,
+      "name": "고양이라는 생물은 지구에 있었을 때\n제 라이벌이었어요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001092_MSG0013",
+      "style": 1,
+      "name": "하지만 이 별에 온 후로, 마 논인이나\n노폰과는 언어가 제각각이어도\n어째서인지 말이 통하게 되었죠[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001092_MSG0014",
+      "style": 1,
+      "name": "그래서, 고양이와도 의사소통이 되는지\n시험해 보고 싶어졌거든요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001092_MSG0015",
+      "style": 1,
+      "name": "하지만, 결과는 실패……\n어째서 저와 고양이는\n서로를 이해할 수 없는 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001092_JNK0030",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 21,
+      "label": "tev001092_SEL0031",
+      "style": 3,
+      "name": "울음소리가 있을 뿐\n언어가 없기 때문이다"
+    },
+    {
+      "$id": 22,
+      "label": "tev001092_JNK0040",
+      "style": 4,
+      "name": "격려"
+    },
+    {
+      "$id": 23,
+      "label": "tev001092_SEL0041",
+      "style": 3,
+      "name": "언젠가 서로 이해할 수 있는 고양이를\n만날 것이다"
+    },
+    {
+      "$id": 24,
+      "label": "tev001092_MSG0016",
+      "style": 1,
+      "name": "……이해가 되네요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001092_MSG0017",
+      "style": 1,
+      "name": "달리 말하면 고양이 울음소리는\n언어가 아니라는 뜻이기도 하고요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001092_MSG0018",
+      "style": 1,
+      "name": "유감이지만, 저와 고양이는 영원히\n견원지간일지도 모르겠어요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001092_MSG0019",
+      "style": 1,
+      "name": "그렇네요……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001092_MSG0020",
+      "style": 1,
+      "name": "저도 딱히 세상 모든 고양이와\n친구가 되고 싶은 건 아니니까요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001092_MSG0021",
+      "style": 1,
+      "name": "언젠가 절 할퀴지 않는 고양이와\n만나게 될지도 모르겠네요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001092_MSG0022",
+      "style": 1,
+      "name": "전 그런 희망을 품고\n강하게 살아갈 생각입니다[ST:wait ]"
+    }
+  ]
+}

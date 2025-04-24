@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev017001_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 2,
+      "label": "tev017001_SEL0011",
+      "style": 3,
+      "name": "ブレイドについて聞く"
+    },
+    {
+      "$id": 3,
+      "label": "tev017001_JNK0020",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 4,
+      "label": "tev017001_SEL0021",
+      "style": 3,
+      "name": "最近の様子を尋ねる"
+    },
+    {
+      "$id": 5,
+      "label": "tev017001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev017001_SEL0031",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev017001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev017001_SEL0041",
+      "style": 3,
+      "name": "最近の様子を尋ねる"
+    },
+    {
+      "$id": 9,
+      "label": "tev017001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev017001_SEL0051",
+      "style": 3,
+      "name": "B.B.について聞く"
+    },
+    {
+      "$id": 11,
+      "label": "tev017001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev017001_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev017001_SEL1021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev017001_MSG0001",
+      "style": 1,
+      "name": "元軍人のブレイドは\n妙に気位の高い奴が多いんだよなぁ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev017001_MSG0002",
+      "style": 1,
+      "name": "もう関係ねぇのに　階級つけて呼ぶとか\n俺には理解できないね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev017001_MSG0003",
+      "style": 1,
+      "name": "規律だなんだと　やたらうるせぇし……\nこんな惑星に来て　無い軍にすがって\nどうすんだよ　なぁ？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev017001_MSG0008",
+      "style": 1,
+      "name": "見りゃわかんだろ　腕っぷしの強さを\n比べてんだよ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev017001_MSG0009",
+      "style": 1,
+      "name": "一番強いブレイドが\nあの人と一緒の任務に　行くことができるんだ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev017001_MSG0010",
+      "style": 1,
+      "name": "キツい任務に行くんだ\nせめて美人と一緒の方がいいだろ？\nははははっ！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev017001_MSG0015",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev017001_MSG0016",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev017001_MSG0017",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev017001_MSG0025",
+      "style": 1,
+      "name": "捕えなきゃいけない賞金首を\n瀕死にして捕えちまうなんて\nさすがマードレスさんだぜ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev017001_MSG0026",
+      "style": 1,
+      "name": "殺しちまうのは簡単だからな\n絶妙な加減ってのを　心得てる[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev017001_MSG0027",
+      "style": 1,
+      "name": "お前も賞金首にはならないよう\n気をつけなよ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev017001_MSG0028",
+      "style": 1,
+      "name": "仲間に入るフリして\n隊列後方から……バン！　ってな[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev017001_MSG0035",
+      "style": 1,
+      "name": "B.B.でも酔うようにできてるなんて\n素晴らしいと思わねえか？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev017001_MSG0036",
+      "style": 1,
+      "name": "こんな状況で　こんな身体……\nシラフでやってられっかってんだ！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev017001_MSG0037",
+      "style": 1,
+      "name": "ただ……二日酔いまで\n再現しなくても良かったと思うぜ……ウッ……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev017001_MSG0038",
+      "style": 1,
+      "name": "身体に影響が無いから\nつい飲みすぎちまうんだよ……\nむ……むかえ酒だ　チクショウ！[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev017001_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev017001_MSG1002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev017001_MSG1003",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "tev017001_MSG1010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "tev017001_MSG1011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "tev017001_MSG1012",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

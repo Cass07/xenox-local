@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086106_MSG0001",
+      "style": 0,
+      "name": "ずいぶんと熱心ね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086106_MSG0002",
+      "style": 0,
+      "name": "ほんとですね　予想外\n作る方も気合い入っちゃう[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086106_MSG0003",
+      "style": 0,
+      "name": "苦労して集めたレシピだものね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086106_MSG0004",
+      "style": 0,
+      "name": "リンさ～ん♪[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086106_MSG0005",
+      "style": 0,
+      "name": "今回のメインディッシュはタツだもん\nがんばって料理してあげないと[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086106_MSG0006",
+      "style": 0,
+      "name": "リンさん[ST:wide ]―　いま　確かに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086106_MSG0007",
+      "style": 0,
+      "name": "今回のメインディッシュはタツだもん\nがんばって料理してあげないとぉぉぉ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086106_MSG0008",
+      "style": 0,
+      "name": "ひぃぃぃ[ST:wide ]―　ですも！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086106_MSG0009",
+      "style": 0,
+      "name": "リン　それを言うなら主賓よ\nメインディッシュはお料理のこと[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086106_MSG0010",
+      "style": 0,
+      "name": "いっけなーい　間違えちゃった[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086106_MSG0011",
+      "style": 0,
+      "name": "どうしたの？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086106_MSG0012",
+      "style": 0,
+      "name": "あれ　タツがいない[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086106_MSG0013",
+      "style": 0,
+      "name": "どこ行ったのかしら[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086106_MSG0014",
+      "style": 0,
+      "name": "ひょっとしたらお腹すいて\nブレイドホームに戻ったのかもしれませんね[ST:wait ]"
+    }
+  ]
+}

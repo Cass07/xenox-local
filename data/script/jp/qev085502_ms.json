@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085502_MSG0001",
+      "style": 0,
+      "name": "ダメだ　こんな武器じゃかなわない\nもっと強力な武器じゃないと[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085502_JNK0010",
+      "style": 4,
+      "name": "支持"
+    },
+    {
+      "$id": 3,
+      "label": "qev085502_SEL0011",
+      "style": 3,
+      "name": "その通りだとうなずく"
+    },
+    {
+      "$id": 4,
+      "label": "qev085502_JNK0020",
+      "style": 4,
+      "name": "確認"
+    },
+    {
+      "$id": 5,
+      "label": "qev085502_SEL0021",
+      "style": 3,
+      "name": "本当に武器のせいか尋ねる"
+    },
+    {
+      "$id": 6,
+      "label": "qev085502_MSG0002",
+      "style": 0,
+      "name": "やっぱりそうですよね\n攻撃力が全てですよね！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085502_MSG0003",
+      "style": 0,
+      "name": "本当にそうかしら？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085502_MSG0004",
+      "style": 0,
+      "name": "どういう意味ですか？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085502_MSG0005",
+      "style": 0,
+      "name": "そうですよ　強力であれば強力であるほど\nいいに決まっているじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085502_MSG0006",
+      "style": 0,
+      "name": "グイン　それは違うわ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085502_MSG0007",
+      "style": 0,
+      "name": "どうしてですか？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085502_MSG0008",
+      "style": 0,
+      "name": "リン　今の模擬戦をみてどう思った？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085502_MSG0009",
+      "style": 0,
+      "name": "えっと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085502_MSG0010",
+      "style": 0,
+      "name": "正直に言ってくれていいよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085502_MSG0011",
+      "style": 0,
+      "name": "はい　今のは武器を使っているというより\n使われているって感じでした[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085502_MSG0012",
+      "style": 0,
+      "name": "使われている？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085502_MSG0013",
+      "style": 0,
+      "name": "これはメカニックの話なんですけど\nどんなに高性能な工具でも[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085502_MSG0014",
+      "style": 0,
+      "name": "基本的な扱い方ができていないと\nかえって時間がかかるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085502_MSG0015",
+      "style": 0,
+      "name": "今　リンの言ったことが全てよ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085502_MSG0016",
+      "style": 0,
+      "name": "今のあなたに必要なのは\n強力な武器じゃなくて扱い方なの[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085502_MSG0017",
+      "style": 0,
+      "name": "そこができていなければいくら強力な武器を\n使ったとしても宝の持ち腐れよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085502_MSG0018",
+      "style": 0,
+      "name": "扱い方ですか\n考えたこともなかったです[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085502_MSG0019",
+      "style": 0,
+      "name": "その基礎の部分を\n身体に叩きこむことから始めましょう[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085502_MSG0020",
+      "style": 0,
+      "name": "最適な武器を用意するから待っていて[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085502_MSG0021",
+      "style": 0,
+      "name": "はい　ありがとうございます\nエルマ大佐[ST:wait ]"
+    }
+  ]
+}

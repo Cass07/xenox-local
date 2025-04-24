@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085205_MSG0001",
+      "style": 0,
+      "name": "あ　あのさ　おかげで助かった\nいや　助かりました[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085205_MSG0002",
+      "style": 0,
+      "name": "いいよ　あたしら戦闘要員は\nこういう時のために訓練してるんだからさ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085205_MSG0003",
+      "style": 0,
+      "name": "でも　もう少し鍛えないと\nこのミラで生きていくのは難しいですよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085205_MSG0004",
+      "style": 0,
+      "name": "ああ　そうだな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085205_MSG0005",
+      "style": 0,
+      "name": "先日はすまなかった\nあんたにもエルマ大佐にも　謝罪する[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085205_MSG0006",
+      "style": 0,
+      "name": "もういいって　気を付けて帰還しなよ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085205_MSG0007",
+      "style": 0,
+      "name": "は　はい[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085205_MSG0008",
+      "style": 0,
+      "name": "全く　素直なんだか勝手なんだか[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085205_MSG0009",
+      "style": 0,
+      "name": "イリーナさん\nさっきはすみませんでした[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085205_MSG0010",
+      "style": 0,
+      "name": "んっ　なんのことだ？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085205_MSG0011",
+      "style": 0,
+      "name": "あんな人達　助けなくてもなんて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085205_MSG0012",
+      "style": 0,
+      "name": "あー　そのことか\n正直言うとあたしもちょっと思った[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085205_MSG0013",
+      "style": 0,
+      "name": "えっ　そうなんですか？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085205_MSG0014",
+      "style": 0,
+      "name": "私情は捨てて助けなきゃとは思うんだけどね\nやっぱムカつく時はムカつくしね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085205_MSG0015",
+      "style": 0,
+      "name": "正直ね　イリーナ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085205_MSG0016",
+      "style": 0,
+      "name": "それでも助けに入るだなんて　さすがです[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085205_MSG0017",
+      "style": 0,
+      "name": "この星にはさ　あたし達だけしかいないだろ？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085205_MSG0018",
+      "style": 0,
+      "name": "あいつらの肩にだって\n地球人の希望がのっかってる[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085205_MSG0019",
+      "style": 0,
+      "name": "そう考えたらさ\n身体が勝手に動いてた[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085205_MSG0020",
+      "style": 0,
+      "name": "すみません　エルマ大佐\nでも　スッキリしました[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085205_MSG0021",
+      "style": 0,
+      "name": "連れてきてくれてありがとうございました[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085205_MSG0022",
+      "style": 0,
+      "name": "そう　良かったわ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085205_MSG0023",
+      "style": 0,
+      "name": "ＮＬＡに戻りましょう[ST:wait ]"
+    }
+  ]
+}

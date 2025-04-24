@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086305_MSG0001",
+      "style": 0,
+      "name": "皆　よく帰っただも\n守護者の霊鱗は手に入ったのかも？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086305_MSG0002",
+      "style": 0,
+      "name": "もちろんよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086305_MSG0003",
+      "style": 0,
+      "name": "お前ら　すごいだも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086305_MSG0004",
+      "style": 0,
+      "name": "それでは早速　調合するとしましょう[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086305_MSG0005",
+      "style": 0,
+      "name": "さあ　できましたよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086305_MSG0006",
+      "style": 0,
+      "name": "ありがとだも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086305_MSG0007",
+      "style": 0,
+      "name": "よかったですも　トラ！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086305_MSG0008",
+      "style": 0,
+      "name": "おう　これでノポンの未来は安泰だも！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086305_MSG0009",
+      "style": 0,
+      "name": "エルマさん\nこれは　あなた達に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086305_MSG0010",
+      "style": 0,
+      "name": "これは？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086305_MSG0011",
+      "style": 0,
+      "name": "薬のついでに精製された[System:Ruby rt=デバイス ]端末[/System:Ruby]です[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086305_MSG0012",
+      "style": 0,
+      "name": "[System:Ruby rt=デバイス ]端末[/System:Ruby]！？\n一体どんな効果なんですか？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086305_MSG0013",
+      "style": 0,
+      "name": "どうやら傷の修復　治癒能力のようですよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086305_MSG0014",
+      "style": 0,
+      "name": "何故　そんなものが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086305_MSG0015",
+      "style": 0,
+      "name": "命を統べる者からの贈りもの[ST:wide ]―\nとでも思っておけばいいんじゃないでしょうか[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086305_MSG0016",
+      "style": 0,
+      "name": "私達に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086305_MSG0017",
+      "style": 0,
+      "name": "このミラを護る守護者[ST:wide ]―\n私達を認めてくれたのかもしれませんね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086305_MSG0018",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "qev086305_MSG0019",
+      "style": 0,
+      "name": "ところでトラ\n薬をはやく持って行ってあげるですも！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086305_MSG0020",
+      "style": 0,
+      "name": "おう　そうだも\nせっかくだから　急いで飲むだも[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086305_MSG0021",
+      "style": 0,
+      "name": "えええ～～～～～っ！？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086305_MSG0022",
+      "style": 0,
+      "name": "あ　あなた　何やってんの！？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086305_MSG0023",
+      "style": 0,
+      "name": "ノポンの明日をになう若者が\n重病に苦しんでいるんじゃなかったんですも？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086305_MSG0024",
+      "style": 0,
+      "name": "そうだも[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086305_MSG0025",
+      "style": 0,
+      "name": "ノポンの明日をになう　このトラが\n食べ過ぎで苦しんでいただも！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086305_MSG0026",
+      "style": 0,
+      "name": "ふう　やっと楽になっただも\nさすがはノポン秘伝のカンポー薬だも！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086305_MSG0027",
+      "style": 0,
+      "name": "ん？　皆どうしただも？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086305_MSG0028",
+      "style": 0,
+      "name": "お前　絶対ゆるさないですも～～！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086305_MSG0029",
+      "style": 0,
+      "name": "いったい何なんだも！！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086305_MSG0030",
+      "style": 1,
+      "name": "こっちでも　ノポン秘伝のカンポー薬に\n必要な材料を探しておくから[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086305_MSG0031",
+      "style": 1,
+      "name": "お前は　ティダーラの星羽根と\n黒曜石のカケラを\n取ってきてくれだも[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086305_MSG0032",
+      "style": 1,
+      "name": "ノポンの明日をになう若者を助けるためだも\nとにかく急いでも！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086305_MSG0033",
+      "style": 1,
+      "name": "お前達が守護者の霊鱗を\n取ってきてくれたら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086305_MSG0034",
+      "style": 1,
+      "name": "トラ　この命に代えても\nノポンの明日をになう若者を救ってみせるも[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086305_MSG0035",
+      "style": 1,
+      "name": "頼んだも　夜光の森へ行って\n命を統べる者を倒してきてくれだも[ST:wait ]"
+    }
+  ]
+}

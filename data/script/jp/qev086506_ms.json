@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086506_MSG0001",
+      "style": 0,
+      "name": "おう　契約金は準備できたかも？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086506_MSG0002",
+      "style": 0,
+      "name": "やった　やったーも！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086506_MSG0003",
+      "style": 0,
+      "name": "これで腹一杯花粉玉が食えるだも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086506_MSG0004",
+      "style": 0,
+      "name": "やわらかキノコも食べ放題だも！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086506_MSG0005",
+      "style": 0,
+      "name": "ツムジの兄貴についてきて良かったも！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086506_MSG0006",
+      "style": 0,
+      "name": "おうよ　俺の言った通りだも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086506_MSG0007",
+      "style": 0,
+      "name": "お　おう　ご苦労だったも　タツの小僧\nさっそくユーコージョーヤクを結ぶんだも[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086506_MSG0008",
+      "style": 0,
+      "name": "サインしただも[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086506_MSG0009",
+      "style": 0,
+      "name": "やったですも～～！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086506_MSG0010",
+      "style": 0,
+      "name": "感謝するわ　ツムジ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086506_MSG0011",
+      "style": 0,
+      "name": "おう　これでＮＬＡと\nドリアン・キャラバンは義兄弟[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086506_MSG0011_2",
+      "style": 0,
+      "name": "俺達が困った時は助けてくれも[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086506_MSG0012",
+      "style": 0,
+      "name": "さあ　次はドドンガ・キャラバンですも！\nさっさとジョーヤクテイケツですも！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086506_MSG0013",
+      "style": 0,
+      "name": "これで任務を果たしたですも！\nヴァンダムのおっちゃんに報告に行くですも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086506_MSG0015",
+      "style": 0,
+      "name": "渡す"
+    },
+    {
+      "$id": 16,
+      "label": "qev086506_MSG0016",
+      "style": 0,
+      "name": "契約金を30000G渡す"
+    },
+    {
+      "$id": 17,
+      "label": "qev086506_MSG0017",
+      "style": 0,
+      "name": "渡さない"
+    },
+    {
+      "$id": 18,
+      "label": "qev086506_MSG0018",
+      "style": 0,
+      "name": "やっぱりやめる"
+    },
+    {
+      "$id": 19,
+      "label": "qev086506_MSG0014",
+      "style": 1,
+      "name": "早くしないとお値段つりあげるも！\nとっとと30000G持ってくるも！[ST:wait ]"
+    }
+  ]
+}

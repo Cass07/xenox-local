@@ -1,0 +1,360 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31150100_MSG0010",
+      "style": 0,
+      "name": "사실은 아레스 정비를 돕고 싶지만……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31150100_MSG0020",
+      "style": 0,
+      "name": "너도 지금은 블레이드니까[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31150100_MSG0030",
+      "style": 0,
+      "name": "그쪽 임무를 우선시하라면서\n절 쫓아내 버렸어요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31150100_MSG0040",
+      "style": 0,
+      "name": "너무하지 않아요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs31150100_MSG0050",
+      "style": 0,
+      "name": "이래 봬도 저, 전에는 아레스 정비 팀의\n일원이었다고요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs31150100_JNK0010",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 7,
+      "label": "xs31150100_SEL0010",
+      "style": 3,
+      "name": "알에 대해 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "xs31150100_MSG0060",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs31150100_MSG0070",
+      "style": 0,
+      "name": "처음 만난 건[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs31150100_MSG0080",
+      "style": 0,
+      "name": "제가 엘마 씨 팀에 배속됐을 때였어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs31150100_JNK0020",
+      "style": 4,
+      "name": "칭찬"
+    },
+    {
+      "$id": 12,
+      "label": "xs31150100_SEL0020",
+      "style": 3,
+      "name": "린의 정비 기술은 우주 제일이라고 말한다"
+    },
+    {
+      "$id": 13,
+      "label": "xs31150100_MSG0090",
+      "style": 0,
+      "name": "빈말이라도 기뻐요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs31150100_MSG0100",
+      "style": 0,
+      "name": "감사합니다![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs31150100_MSG0110",
+      "style": 0,
+      "name": "제가 처음으로 알 씨를 만난 건[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs31150100_MSG0120",
+      "style": 0,
+      "name": "엘마 씨 팀에 배속됐을 때였어요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs31150100_MSG0130",
+      "style": 0,
+      "name": "그런 성격이니까\n팀원과 어울리지 못해서[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs31150100_MSG0140",
+      "style": 0,
+      "name": "어쩌다 보니 알 씨는\n외톨이가 되었지만……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs31150100_MSG0150",
+      "style": 0,
+      "name": "저에게는 친절하게 대해 줬어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs31150100_MSG0160",
+      "style": 0,
+      "name": "알 씨에게는 예전에[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs31150100_MSG0170",
+      "style": 0,
+      "name": "제 또래의 여동생이 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs31150100_MSG0180",
+      "style": 0,
+      "name": "정세가 불안정한 나라에서\n도망쳐 나왔을 때 헤어진 후로[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs31150100_MSG0190",
+      "style": 0,
+      "name": "계속 만나지 못한 것 같지만요……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs31150100_MSG0200",
+      "style": 0,
+      "name": "알 씨는 사람에게는 안식처가\n필요하다고 했어요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs31150100_MSG0210",
+      "style": 0,
+      "name": "그건 주소같이 세상 어딘가를\n특정하는 것이 아니라……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs31150100_MSG0220",
+      "style": 0,
+      "name": "예를 들면 기다려 주는 사람이 있는 곳[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs31150100_MSG0230",
+      "style": 0,
+      "name": "동료와 믿을 수 있는 사람들이 모이는 곳[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs31150100_MSG0240",
+      "style": 0,
+      "name": "그런 장소를 말하는 거래요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs31150100_MSG0250",
+      "style": 0,
+      "name": "분명……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs31150100_MSG0260",
+      "style": 0,
+      "name": "동생이나 가족이 있는 장소가\n알 씨의 안식처였겠죠[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs31150100_MSG0270",
+      "style": 0,
+      "name": "하지만 그걸 잃어버린 후에는[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs31150100_MSG0280",
+      "style": 0,
+      "name": "알 씨는 지구 전체를 안식처로 만들기 위해\n우주로 간 거예요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs31150100_MSG0290",
+      "style": 0,
+      "name": "지구 어딘가에 자신의 가족은\n반드시 살아 있다고……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs31150100_MSG0300",
+      "style": 0,
+      "name": "그곳이 자신이 지켜야 할 안식처라고\n확신하기 위해[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs31150100_MSG0310",
+      "style": 0,
+      "name": "지구를 잃은 후에는[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs31150100_MSG0320",
+      "style": 0,
+      "name": "흰고래가 알 씨의 안식처가 되었어요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs31150100_MSG0330",
+      "style": 0,
+      "name": "그러니까 린\n지금은 너도 내 가족이야라고……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs31150100_MSG0340",
+      "style": 0,
+      "name": "알 씨는 그렇게 말해 줬어요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs31150100_MSG0350",
+      "style": 0,
+      "name": "그 말은[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs31150100_MSG0360",
+      "style": 0,
+      "name": "저에게 무엇보다도 기쁜 말이었어요[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs31150100_MSG0370",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs31150100_MSG0380",
+      "style": 0,
+      "name": "저는 전처럼……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs31150100_MSG0390",
+      "style": 0,
+      "name": "천진난만하게 알 씨의 호의에\n기댈 수는 없어요[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs31150100_MSG0400",
+      "style": 0,
+      "name": "알 씨가 없는 사이……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs31150100_MSG0410",
+      "style": 0,
+      "name": "슬픈 일이 너무 많이 일어났으니까요……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs31150100_JNK0030",
+      "style": 4,
+      "name": "조언"
+    },
+    {
+      "$id": 47,
+      "label": "xs31150100_SEL0030",
+      "style": 3,
+      "name": "천천히 나아가자고 말한다"
+    },
+    {
+      "$id": 48,
+      "label": "xs31150100_MSG0420",
+      "style": 0,
+      "name": "……그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs31150100_MSG0430",
+      "style": 0,
+      "name": "여러 가지 일이 있어서\n그에 대한 감정을 매듭지어야 한다고[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs31150100_MSG0440",
+      "style": 0,
+      "name": "너무 초조해했던 걸지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs31150100_JNK0040",
+      "style": 4,
+      "name": "낙관"
+    },
+    {
+      "$id": 52,
+      "label": "xs31150100_SEL0040",
+      "style": 3,
+      "name": "너무 깊이 생각하지 말라고 말한다"
+    },
+    {
+      "$id": 53,
+      "label": "xs31150100_MSG0450",
+      "style": 0,
+      "name": "……그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs31150100_MSG0460",
+      "style": 0,
+      "name": "모든 것에 답을 내야 한다고[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs31150100_MSG0470",
+      "style": 0,
+      "name": "너무 깊이 생각한 걸지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs31150100_MSG0480",
+      "style": 0,
+      "name": "말 상대가 되어 주셔서 감사해요[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs31150100_MSG0490",
+      "style": 0,
+      "name": "이야기했더니 왠지 좀 진정됐어요[ST:wait ]"
+    }
+  ]
+}

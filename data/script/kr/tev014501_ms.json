@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev014501_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev014501_SEL0011",
+      "style": 3,
+      "name": "시설 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev014501_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev014501_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev014501_MSG0001",
+      "style": 1,
+      "name": "비아노 정수장 건설은 무사히 끝났지만……\n솔직히, 이 주변은 아직 위험한 곳이야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev014501_MSG0002",
+      "style": 1,
+      "name": "저번에도 정찰 중이던 블레이드가\n임플레카라는 기분 나쁜 원시 생물의\n공격 때문에 다치고 말았으니……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev014501_MSG0003",
+      "style": 1,
+      "name": "어쩌면 또 당신한테\n토벌 의뢰를 하게 될지도 모르지\n그렇게 되면 일 처리 잘 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev014501_MSG0008",
+      "style": 1,
+      "name": "내가 여기 물로 술을 만들어 먹어도\n괜찮을 거라고 했었는데, 기억하고 있나?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev014501_MSG0009",
+      "style": 1,
+      "name": "아조아한테 슬쩍 말해 봤더니\n이곳의 명물이 될 수 있게 최선을 다해\n만들라고 하더군! 으하하하하![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev014501_MSG0010",
+      "style": 1,
+      "name": "물은 준비되었으니 이제 주변을 경작해서\n금빛 보리밭을 만들 계획이라도 세울까![ST:wait ]"
+    }
+  ]
+}

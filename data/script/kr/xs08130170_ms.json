@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08130170_MSG0001",
+      "style": 0,
+      "name": "유랑민의 도시가 불타고 있구나……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08130170_MSG0002",
+      "style": 0,
+      "name": "……이러한 돌 하나를 강탈하기 위해\n이렇게까지 할 필요가 있었던 것인가?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08130170_MSG0003",
+      "style": 0,
+      "name": "나는…… 무얼 하는 거냐……[ST:wait ]"
+    }
+  ]
+}

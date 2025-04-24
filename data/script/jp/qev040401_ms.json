@@ -1,0 +1,690 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040401_MSG0001",
+      "style": 1,
+      "name": "じゃあ　そろそろ遊びは終わりにするも！\n点呼だも！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040401_MSG0002",
+      "style": 1,
+      "name": "サツ！　ヨヨツ！　ゴツ！　ムツツ！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev040401_MSG0003",
+      "style": 1,
+      "name": "いるも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev040401_MSG0004",
+      "style": 1,
+      "name": "いるも！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev040401_MSG0005",
+      "style": 1,
+      "name": "いるも！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev040401_MSG0006",
+      "style": 1,
+      "name": "よし！　全員そろって……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev040401_MSG0007",
+      "style": 1,
+      "name": "んんん？\nおかしいも！　もう一度！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev040401_MSG0008",
+      "style": 1,
+      "name": "サツ！　ヨヨツ！　ゴツ！　ムツツ！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev040401_MSG0009",
+      "style": 1,
+      "name": "いるも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev040401_MSG0010",
+      "style": 1,
+      "name": "いるも！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev040401_MSG0011",
+      "style": 1,
+      "name": "いるも！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev040401_MSG0012",
+      "style": 1,
+      "name": "や　やっぱりサツがいないも！　[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev040401_MSG0013",
+      "style": 1,
+      "name": "どこへ行ったも！\nどうするも！　どうするも！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev040401_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 15,
+      "label": "qev040401_SEL0011",
+      "style": 3,
+      "name": "何がおこったのか尋ねる"
+    },
+    {
+      "$id": 16,
+      "label": "qev040401_JNK0020",
+      "style": 4,
+      "name": "落ち着かせる"
+    },
+    {
+      "$id": 17,
+      "label": "qev040401_SEL0021",
+      "style": 3,
+      "name": "深呼吸をさせる"
+    },
+    {
+      "$id": 18,
+      "label": "qev040401_MSG0014",
+      "style": 1,
+      "name": "あんたはトーチャンの\n知り合いのブレイドさんだも！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev040401_MSG0015",
+      "style": 1,
+      "name": "トーチャンじゃないも！\nタツはお前らのニーチャンだも！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev040401_MSG0016",
+      "style": 1,
+      "name": "一体　どうしたんだも！？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev040401_MSG0017",
+      "style": 1,
+      "name": "兄弟みんなで　かくれんぼをしてたんだも！\nそしたら一人　いなくなったも！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev040401_MSG0018",
+      "style": 1,
+      "name": "ななななな！　それは大変だも！\n捜しにいくも！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev040401_MSG0019",
+      "style": 1,
+      "name": "大変だも！　深く息を吸って吐くも？\nこ　こうかも……すーはーすーはー[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev040401_MSG0020",
+      "style": 1,
+      "name": "少し落ち着いてきたも……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev040401_MSG0021",
+      "style": 1,
+      "name": "一体　何があったも！？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev040401_MSG0022",
+      "style": 1,
+      "name": "あ　トーチャン！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev040401_MSG0023",
+      "style": 1,
+      "name": "兄弟みんなで　かくれんぼをしてたんだも！\nそしたら一人　いなくなったも！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev040401_MSG0024",
+      "style": 1,
+      "name": "ななななな！　それは大変も！\n捜しにいくも！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev040401_MSG0025",
+      "style": 1,
+      "name": "……ってタツはトーチャンじゃないも！\nニーチャンだも！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev040401_MSG0026",
+      "style": 1,
+      "name": "それでいなくなったのは誰だも？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev040401_MSG0027",
+      "style": 1,
+      "name": "三男のサツだも！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev040401_MSG0028",
+      "style": 1,
+      "name": "捜しにいくも！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev040401_MSG0029",
+      "style": 1,
+      "name": "この辺は危険な怪物が\nうじゃうじゃしているも！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev040401_MSG0030",
+      "style": 1,
+      "name": "捜しにいくも！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev040401_MSG0031",
+      "style": 1,
+      "name": "サツはねぼすけだから\nどこかでスヤスヤしてるかもしれないも[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev040401_MSG0032",
+      "style": 1,
+      "name": "寝てる間に　アブナイのに\n食べられたら大変だも[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev040401_JNK0030",
+      "style": 4,
+      "name": "忠告"
+    },
+    {
+      "$id": 38,
+      "label": "qev040401_SEL0031",
+      "style": 3,
+      "name": "このあたりをノポンがうろつくのは\n危険だと忠告する"
+    },
+    {
+      "$id": 39,
+      "label": "qev040401_JNK0040",
+      "style": 4,
+      "name": "注意"
+    },
+    {
+      "$id": 40,
+      "label": "qev040401_SEL0041",
+      "style": 3,
+      "name": "危険な怪物が多そうなので\n警戒して行動した方がいいと進言する"
+    },
+    {
+      "$id": 41,
+      "label": "qev040401_MSG0033",
+      "style": 1,
+      "name": "そんなこといっても\n弟を見殺しにはできないも！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev040401_MSG0034",
+      "style": 1,
+      "name": "だけどのろのろしていたら\n弟がどうなるかわからないも！[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev040401_JNK0050",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 44,
+      "label": "qev040401_SEL0051",
+      "style": 3,
+      "name": "全員で手分けして捜そうと言う"
+    },
+    {
+      "$id": 45,
+      "label": "qev040401_JNK0060",
+      "style": 4,
+      "name": "進言"
+    },
+    {
+      "$id": 46,
+      "label": "qev040401_SEL0061",
+      "style": 3,
+      "name": "誰かここに残っていた方がいいと言う"
+    },
+    {
+      "$id": 47,
+      "label": "qev040401_MSG0035",
+      "style": 1,
+      "name": "でも誰かここに残っていた方が\nいいかもしれないも[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev040401_MSG0036",
+      "style": 1,
+      "name": "サツが戻ってきた時\nここに誰もいなかったら困るも！[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev040401_MSG0037",
+      "style": 1,
+      "name": "確かにそうだも\nサツが戻ってきた時\nここに誰もいなかったら困るも！[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev040401_MSG0038",
+      "style": 1,
+      "name": "わかったもトーチャン！\n誰もいなかったら　サツが泣いちゃうも！[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev040401_MSG0039",
+      "style": 1,
+      "name": "ニーチャンだっつーも！[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev040401_MSG0040",
+      "style": 1,
+      "name": "じゃあジツはここに残るも！[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev040401_MSG0041",
+      "style": 1,
+      "name": "ヨヨツは至海大巻木へ\nサツを捜しにいきますも！[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev040401_MSG0042",
+      "style": 1,
+      "name": "ゴツは日向湧水へ\nサツを捜しにいくも！[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev040401_MSG0043",
+      "style": 1,
+      "name": "ムツツは十川仙境へ\nサツを捜しにいきますも！[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev040401_MSG0044",
+      "style": 1,
+      "name": "じゃあタツたちはまずキャラバンの近くを\n探索してみるも！[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev040401_MSG0046",
+      "style": 1,
+      "name": "どうかサツを捜し出してきてほしいも！[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev040401_MSG0047",
+      "style": 1,
+      "name": "あー！　帰ってきたも[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev040401_MSG0048",
+      "style": 1,
+      "name": "むにゃむにゃ　あ！　ニーチャン！[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev040401_MSG0049",
+      "style": 1,
+      "name": "サツ　無事でよかったも\nみんなお前を捜しにいったも[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev040401_MSG0050",
+      "style": 1,
+      "name": "心配かけてすまなかったも\nでもみんなでサツを思ってくれてうれしいも[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev040401_MSG0051",
+      "style": 1,
+      "name": "じゃあ弟たちに帰ってきてもらうも[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev040401_MSG0052",
+      "style": 1,
+      "name": "帰ってきてもらうも！\nってどうやって連絡するも？[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev040401_MSG0053",
+      "style": 1,
+      "name": "しまったも！　考えてなかったも！\nどうすればいいも！？[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev040401_JNK0070",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 66,
+      "label": "qev040401_SEL0071",
+      "style": 3,
+      "name": "通信機で連絡しようと言う"
+    },
+    {
+      "$id": 67,
+      "label": "qev040401_JNK0080",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 68,
+      "label": "qev040401_SEL0081",
+      "style": 3,
+      "name": "テレパシーで連絡しようと言う"
+    },
+    {
+      "$id": 69,
+      "label": "qev040401_MSG0054",
+      "style": 1,
+      "name": "通信機は高く売れるから\nノポンはすぐに売っちゃうんだも[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev040401_MSG0055",
+      "style": 1,
+      "name": "どんなもんだも！[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev040401_MSG0056",
+      "style": 1,
+      "name": "連絡が取れないも……[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev040401_MSG0057",
+      "style": 1,
+      "name": "そんな便利なものが使えれば苦労はないも！[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev040401_MSG0058",
+      "style": 1,
+      "name": "ノポンをなめるな！　だも！[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev040401_MSG0059",
+      "style": 1,
+      "name": "いばることじゃないも……[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev040401_JNK0090",
+      "style": 4,
+      "name": "行動"
+    },
+    {
+      "$id": 76,
+      "label": "qev040401_SEL0091",
+      "style": 3,
+      "name": "捜しにいこうと言う"
+    },
+    {
+      "$id": 77,
+      "label": "qev040401_JNK0100",
+      "style": 4,
+      "name": "待機"
+    },
+    {
+      "$id": 78,
+      "label": "qev040401_SEL0101",
+      "style": 3,
+      "name": "また　みんなバラバラになるので\nじっとしていようと言う"
+    },
+    {
+      "$id": 79,
+      "label": "qev040401_MSG0060",
+      "style": 1,
+      "name": "ジツ　サツ急いで捜しにいくも！[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev040401_MSG0061",
+      "style": 1,
+      "name": "そんなこといったって　弟たちが心配だも！\nジツ　サツ　急いで捜しにいくも！[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev040401_MSG0062",
+      "style": 1,
+      "name": "待つも！\nみんなで行ったら　またバラバラになるも！[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev040401_MSG0063",
+      "style": 1,
+      "name": "そうだもそうだも！\nサツ　またどっかで寝る気がするも！[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev040401_MSG0064",
+      "style": 1,
+      "name": "[ST:playername ]さんにもう一度\n弟たちを捜しにいってもらうも！[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev040401_MSG0065",
+      "style": 1,
+      "name": "ジツはサツとここで待ってるも！\n頼むも！\n[ST:playername ]さんだけが頼りだも！[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev040401_MSG0066",
+      "style": 1,
+      "name": "頼みましたも！[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev040401_MSG0067",
+      "style": 1,
+      "name": "頼みましたも！[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev040401_MSG0068",
+      "style": 1,
+      "name": "[ST:playername ]さんだけが\n頼りだもったら頼りだも！\nどうか兄弟たちを全員呼び戻してほしいも！[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev040401_MSG0069",
+      "style": 1,
+      "name": "あ！　トーチャン　これで全員集合だも！[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev040401_MSG0070",
+      "style": 1,
+      "name": "だからトーチャンじゃないも！[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev040401_JNK0110",
+      "style": 4,
+      "name": "謝罪"
+    },
+    {
+      "$id": 91,
+      "label": "qev040401_SEL0111",
+      "style": 3,
+      "name": "遅くなってすまなかったと詫びる"
+    },
+    {
+      "$id": 92,
+      "label": "qev040401_JNK0120",
+      "style": 4,
+      "name": "愚痴"
+    },
+    {
+      "$id": 93,
+      "label": "qev040401_SEL0121",
+      "style": 3,
+      "name": "みんなを捜し出すのは大変だったと言う"
+    },
+    {
+      "$id": 94,
+      "label": "qev040401_MSG0071",
+      "style": 1,
+      "name": "そんなことないも！　ご苦労様だも！[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev040401_MSG0072",
+      "style": 1,
+      "name": "みんなを連れて帰ってきてくれて\nどうもありがとうだも！[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev040401_MSG0073",
+      "style": 1,
+      "name": "悪かったも……ありがとうだも……\nでもおかげで兄弟みんなそろったも[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev040401_MSG0074",
+      "style": 1,
+      "name": "どうもありがとうだも！[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev040401_MSG0075",
+      "style": 1,
+      "name": "トーチャン　いい仲間をもったも[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev040401_MSG0076",
+      "style": 1,
+      "name": "うん……って何度間違えれば気がすむも……\n……とにかく点呼をするも！[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev040401_MSG0077",
+      "style": 1,
+      "name": "ジツ！　サツ！　ヨヨツ！　ゴツ！　ムツツ！[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev040401_MSG0078",
+      "style": 1,
+      "name": "いるも！[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev040401_MSG0079",
+      "style": 1,
+      "name": "いるも！[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev040401_MSG0080",
+      "style": 1,
+      "name": "いるも！[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev040401_MSG0081",
+      "style": 1,
+      "name": "いるも！[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev040401_MSG0082",
+      "style": 1,
+      "name": "いるも！[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev040401_MSG0083",
+      "style": 1,
+      "name": "トーチャンと五人兄弟そろったも！[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev040401_MSG0084",
+      "style": 1,
+      "name": "六人兄弟だも！\n六人そろったも！[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev040401_MSG0085",
+      "style": 1,
+      "name": "そろったも！[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev040401_MSG0086",
+      "style": 1,
+      "name": "そろったも！[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev040401_MSG0087",
+      "style": 1,
+      "name": "そろったも！[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev040401_MSG0088",
+      "style": 1,
+      "name": "そろったも！[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "qev040401_MSG0089",
+      "style": 1,
+      "name": "そろったも！[ST:wait ]"
+    }
+  ]
+}

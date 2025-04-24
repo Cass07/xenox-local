@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093103_MSG0010",
+      "style": 0,
+      "name": "はっ！　いい腕してるじゃないか\nお姫様が頼りにするわけだ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093103_MSG0020",
+      "style": 0,
+      "name": "アレスとここまで渡り合える奴は\n軍でもそうそういなかったぞ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093103_MSG0030",
+      "style": 0,
+      "name": "記憶障害とは聞いてたが[ST:wide ]―\n実はエリートの出身か　お前？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093103_MSG0040",
+      "style": 0,
+      "name": "まあ　何でもいいか[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093103_MSG0050",
+      "style": 0,
+      "name": "いいぜ　認めよう[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093103_MSG0055",
+      "style": 0,
+      "name": "お前は英雄と肩を並べるに相応しい奴だ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093103_MSG0060",
+      "style": 0,
+      "name": "確かにこれなら　オレの背中だけじゃなく\nアレスを任せてやってもいいが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093103_MSG0070",
+      "style": 0,
+      "name": "[ST:wide ]―惜しいな\nアレスに乗るには　もう一押し足りない[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093103_MSG0080",
+      "style": 0,
+      "name": "落ち着けよ　約束を違えようってんじゃない[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093103_MSG0085",
+      "style": 0,
+      "name": "これでも前向きに検討してるんだ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093103_MSG0090",
+      "style": 0,
+      "name": "いいか　アレスに乗るためには\n身体の条件以上に必要なものがある[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093103_MSG0100",
+      "style": 0,
+      "name": "何だと思う？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093103_SEL0110",
+      "style": 4,
+      "name": "器"
+    },
+    {
+      "$id": 14,
+      "label": "qev093103_JNK0120",
+      "style": 3,
+      "name": "英雄としての器と答える"
+    },
+    {
+      "$id": 15,
+      "label": "qev093103_SEL0130",
+      "style": 4,
+      "name": "力"
+    },
+    {
+      "$id": 16,
+      "label": "qev093103_JNK0140",
+      "style": 3,
+      "name": "圧倒的な力と答える"
+    },
+    {
+      "$id": 17,
+      "label": "qev093103_SEL0150",
+      "style": 4,
+      "name": "技"
+    },
+    {
+      "$id": 18,
+      "label": "qev093103_JNK0160",
+      "style": 3,
+      "name": "巧みなドール操縦技術と答える"
+    },
+    {
+      "$id": 19,
+      "label": "qev093103_MSG0170",
+      "style": 0,
+      "name": "ハズレだ\nそんなものは後からついてくるに過ぎない[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093103_MSG0180",
+      "style": 0,
+      "name": "“想い”だよ\n生きようとする強い意志　衝動[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093103_MSG0190",
+      "style": 0,
+      "name": "すなわち“愛”だ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093103_MSG0200",
+      "style": 0,
+      "name": "お前に愛する覚悟はあるか？\n結婚式の誓いとは　わけが違うぞ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093103_MSG0210",
+      "style": 0,
+      "name": "この世のもの全て[ST:wide ]―\n世界をまるごと愛するだけの“愛”だ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev093103_MSG0220",
+      "style": 0,
+      "name": "その覚悟が決まるまでは\nアレスを譲ることはできんな[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev093103_MSG0230",
+      "style": 0,
+      "name": "そう気を落とすな\n見込みがあるだけでも上出来だ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093103_MSG0240",
+      "style": 0,
+      "name": "いずれお前にも理解できるはずさ\nオレが言うんだ　間違いない[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093103_MSG0250",
+      "style": 0,
+      "name": "言っとくがリップサービスじゃないぞ\n割と真剣に言ってるんだぜ？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093103_MSG0260",
+      "style": 0,
+      "name": "ここまでオレをその気にさせたんだ\n見込み違いじゃないって　ぜひ証明してくれよ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev093103_MSG0270",
+      "style": 0,
+      "name": "なあ？　未来のヒーロー[ST:wait ]"
+    }
+  ]
+}

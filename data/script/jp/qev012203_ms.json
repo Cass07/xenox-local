@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012203_MSG0001",
+      "style": 1,
+      "name": "やりましたね！　センパイ！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012203_MSG0002",
+      "style": 1,
+      "name": "戦闘終了と同じタイミングで　わたしも\n修理が終わりました！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012203_MSG0003",
+      "style": 1,
+      "name": "これって　見事な連携ですよね！\n作戦行動っぽいのは\nわたし初めてだったんですけど[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev012203_MSG0004",
+      "style": 1,
+      "name": "ひょっとすると\n結構　才能あったりするのかなあ……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev012203_MSG0005",
+      "style": 1,
+      "name": "さて　砦もやっつけて　ドールも直りました\n今度こそ　冒険を再開できます！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev012203_MSG0006",
+      "style": 1,
+      "name": "次は……　そうですね\n北に向かって　黒鋼の大陸とやらに\n上陸してみようかと思います[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev012203_MSG0007",
+      "style": 1,
+      "name": "センパイには\nまたまたお世話になっちゃいましたね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev012203_MSG0008",
+      "style": 1,
+      "name": "後輩の面倒見がいいセンパイのことは\n本当に尊敬しています[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev012203_MSG0009",
+      "style": 1,
+      "name": "では！　先を急ぐので　わたしはこの辺で！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev012203_MSG0010",
+      "style": 1,
+      "name": "失礼します！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev012203_JNK0010",
+      "style": 4,
+      "name": "見送る"
+    },
+    {
+      "$id": 12,
+      "label": "qev012203_SEL0011",
+      "style": 3,
+      "name": "黙って行かせる"
+    },
+    {
+      "$id": 13,
+      "label": "qev012203_JNK0020",
+      "style": 4,
+      "name": "呼び止める"
+    },
+    {
+      "$id": 14,
+      "label": "qev012203_SEL0021",
+      "style": 3,
+      "name": "報酬を要求する"
+    },
+    {
+      "$id": 15,
+      "label": "qev012203_MSG0011",
+      "style": 1,
+      "name": "さようならー！　センパーイ！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev012203_MSG0012",
+      "style": 1,
+      "name": "どこかで会ったら　また連携しましょうねー！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev012203_MSG0013",
+      "style": 1,
+      "name": "今度は　戦うわたしの勇姿を\n見てくださいねー！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev012203_MSG0014",
+      "style": 1,
+      "name": "さよーならーーーー！"
+    }
+  ]
+}

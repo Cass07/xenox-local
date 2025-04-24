@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085603_MSG0001",
+      "style": 0,
+      "name": "エルマさん\nこの森　こんなに原生生物がいましたか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085603_MSG0002",
+      "style": 0,
+      "name": "明らかに増加しているわね\nこの植物と関係があるのかしら[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085603_MSG0003",
+      "style": 0,
+      "name": "データ収集開始します[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085603_MSG0004",
+      "style": 0,
+      "name": "これで四つ目も　完了です[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085603_MSG0005",
+      "style": 0,
+      "name": "データ収集は終わったけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085603_MSG0006",
+      "style": 0,
+      "name": "どうやら任務は終わりではないようね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085603_MSG0007",
+      "style": 0,
+      "name": "ダグさん達も[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085603_MSG0008",
+      "style": 0,
+      "name": "ええ　この敵に襲われているのでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085603_MSG0009",
+      "style": 0,
+      "name": "かかってこいですも！\nリンさん達が相手になるですも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085603_MSG0010",
+      "style": 0,
+      "name": "他力本願やめて！[ST:wait ]"
+    }
+  ]
+}

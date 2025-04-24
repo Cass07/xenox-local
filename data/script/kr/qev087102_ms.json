@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087102_MSG0001",
+      "style": 0,
+      "name": "……과연, 이건 흥미롭군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087102_MSG0002",
+      "style": 0,
+      "name": "뭔가 도움이 될 만한 정보라도 있어?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087102_MSG0003",
+      "style": 0,
+      "name": "도움이 되는 것이 아니라 되게 만드는 걸세\n그러면 모든 정보를 유익하게 쓸 수 있지[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087102_MSG0004",
+      "style": 0,
+      "name": "지당한 말이네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087102_MSG0005",
+      "style": 0,
+      "name": "듣자 하니 자네들은\n라스인 부대와 교전한 적이 있다던데?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087102_MSG0006",
+      "style": 0,
+      "name": "라스인……\n어디서 들어 본 적이 있는데모?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087102_JNK0010",
+      "style": 4,
+      "name": "인상"
+    },
+    {
+      "$id": 8,
+      "label": "qev087102_SEL0011",
+      "style": 3,
+      "name": "늑대 같은 녀석들이라고 대답한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev087102_JNK0020",
+      "style": 4,
+      "name": "감상"
+    },
+    {
+      "$id": 10,
+      "label": "qev087102_SEL0021",
+      "style": 3,
+      "name": "강적이라고 쓰고 친구라고 읽는다며\n미소 짓는다"
+    },
+    {
+      "$id": 11,
+      "label": "qev087102_JNK0030",
+      "style": 4,
+      "name": "장난"
+    },
+    {
+      "$id": 12,
+      "label": "qev087102_SEL0031",
+      "style": 3,
+      "name": "폭신폭신하고 교활한 녀석들이라고 말한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev087102_MSG0007",
+      "style": 0,
+      "name": "그래…… 적으로 돌리면\n그만큼 무서운 상대는 없지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087102_MSG0008",
+      "style": 0,
+      "name": "음~ 그런 게 있었냐모?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087102_MSG0009",
+      "style": 0,
+      "name": "왠지 어디선가 들어 본 것 같다모\n알아듣기 쉬운 설명이다모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087102_MSG0009_m",
+      "style": 0,
+      "name": "왠지 어디선가 들어 본 것 같다모\n알아듣기 쉬운 설명이다모![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087102_MSG0009_f",
+      "style": 0,
+      "name": "왠지 어디선가 들어 본 것 같다모\n알아듣기 쉬운 설명이다모![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087102_MSG0010",
+      "style": 0,
+      "name": "하지만 그런 걸 어디서 만났냐모?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087102_MSG0011",
+      "style": 0,
+      "name": "와~ 왠지 듣기만 해도\n열받는 녀석들이다모![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087102_MSG0012",
+      "style": 0,
+      "name": "그건 노폰인이잖아![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087102_MSG0013",
+      "style": 0,
+      "name": "어라~?\n그럼 라스인은 어떤 녀석들인가모?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087102_MSG0014",
+      "style": 0,
+      "name": "아, 정말!\n백목의 대륙에서 우리를 습격한 외계인 말이야![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087102_MSG0015",
+      "style": 0,
+      "name": "아, 이 멍멍이라면 안다모[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087102_MSG0016",
+      "style": 0,
+      "name": "프런티어넷이 감지한 교전 기록으로\n최근 빈번하게 일어난 그로우스끼리의 전투가[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087102_MSG0017",
+      "style": 0,
+      "name": "모두 라스인과 다른 외계인이 부딪친\n전투라는 것을 알아냈다네[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087102_MSG0018",
+      "style": 0,
+      "name": "이건 단순한 내부 항쟁이 아닐세[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087102_MSG0019",
+      "style": 0,
+      "name": "아마도 라스인이 그로우스를 배반했다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev087102_MSG0019_2",
+      "style": 0,
+      "name": "난 그렇게 생각하고 있네[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev087102_JNK0040",
+      "style": 4,
+      "name": "평화"
+    },
+    {
+      "$id": 30,
+      "label": "qev087102_SEL0041",
+      "style": 3,
+      "name": "같은 편으로 끌어들이자고 제안한다"
+    },
+    {
+      "$id": 31,
+      "label": "qev087102_JNK0050",
+      "style": 4,
+      "name": "교전"
+    },
+    {
+      "$id": 32,
+      "label": "qev087102_SEL0051",
+      "style": 3,
+      "name": "이 기회에 라스인을 멸망시킨다"
+    },
+    {
+      "$id": 33,
+      "label": "qev087102_MSG0020",
+      "style": 0,
+      "name": "배반한 것이 사실이라면 가능할지도 모르겠네[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087102_MSG0021",
+      "style": 0,
+      "name": "라스인의 행동 원리는\n그로우스의 다른 종족과는 차이가 있는 것 같았어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087102_MSG0022",
+      "style": 0,
+      "name": "그들의 정의가 우리와 같다면……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev087102_MSG0023",
+      "style": 0,
+      "name": "흠, 확실히 그렇게 생각할 수도 있겠군[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev087102_MSG0024",
+      "style": 0,
+      "name": "그럴 수가…… 그로우스와 싸우고 있다면\n이제 우리의 적이 아니잖아요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev087102_MSG0025",
+      "style": 0,
+      "name": "맞아…… 쓸데없이 적을 늘리는 건\n현명한 방법이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev087102_MSG0026",
+      "style": 0,
+      "name": "라스인의 행동 원리는\n그로우스의 다른 종족과는 차이가 있는 것 같았어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev087102_MSG0027",
+      "style": 0,
+      "name": "그들의 정의가 우리와 같다면……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev087102_MSG0028",
+      "style": 0,
+      "name": "지구에는 적의 적은 아군이라는 말도 있지[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev087102_MSG0029",
+      "style": 0,
+      "name": "그들과 우호적인 관계를 맺을 수 있으면\n유의미한 일이 될 걸세[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev087102_MSG0030",
+      "style": 0,
+      "name": "물론이야[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev087102_MSG0031",
+      "style": 0,
+      "name": "적이니 아군이니 하는 공리적인 관점을 떠나서\n우리는 친구를 늘려 가야 한다고 생각해[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev087102_MSG0032",
+      "style": 0,
+      "name": "그럼 새로운 임무를 주겠네[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev087102_MSG0033",
+      "style": 0,
+      "name": "라스인과 그로우스의 교전이\n확인된 에어리어로 가서 데이터를 모아 주게[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev087102_MSG0034",
+      "style": 0,
+      "name": "알겠습니다![ST:wait ]"
+    }
+  ]
+}

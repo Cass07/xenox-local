@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33650100_MSG0010",
+      "style": 0,
+      "name": "あっ！　キミも無事だったんだね！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33650100_MSG0020",
+      "style": 0,
+      "name": "え？　あたし？\nうん平気平気[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33650100_MSG0030",
+      "style": 0,
+      "name": "照明弾があったから\nそれを上げて救助を待ってたの[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33650100_MSG0040",
+      "style": 0,
+      "name": "大事なドールがどっか行っちゃって\nそれで少し困ってたくらい[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33650100_MSG0050",
+      "style": 0,
+      "name": "こんなことなら自動帰還モードでも\n積んでおくべきだったかなぁ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33650100_MSG0060",
+      "style": 0,
+      "name": "[ST:wide ]―って　こんな話してる場合じゃないよ\n帰れなくちゃ意味ないしね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33650100_MSG0070",
+      "style": 0,
+      "name": "ちゃんと勝って\nみんなで戻ろうね！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33650100_MSG0080",
+      "style": 0,
+      "name": "あっ　でも戦闘データぐらいは\n取っておいてもいいよね？[ST:wait ]"
+    }
+  ]
+}

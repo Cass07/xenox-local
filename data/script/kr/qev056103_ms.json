@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev056103_MSG0001",
+      "style": 1,
+      "name": "……당신은 지구인?\n아…… 온오토남의 부탁으로……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev056103_MSG0002",
+      "style": 1,
+      "name": "죄송해요……\n……기껏 와 주셨는데……\n제 오버는 곧…… 사라져요……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev056103_MSG0003",
+      "style": 1,
+      "name": "후후…… 하지만 이로써 처음으로……\n저는, 오버의 굴레에서 벗어나……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev056103_MSG0004",
+      "style": 1,
+      "name": "자유를…… 찾을 수……\n있을지도…… 몰……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev056103_MSG0005",
+      "style": 1,
+      "name": "………………[ST:wait ]"
+    }
+  ]
+}

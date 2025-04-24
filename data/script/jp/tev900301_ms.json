@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev900301_MSG0010",
+      "style": 1,
+      "name": "ヴァンダムがお前の手伝いをしろとさ\n[ST:wide ]―ったく　やっと帰還できたってのに\n人使いが荒いぜ……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev900301_JNK0020",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 3,
+      "label": "tev900301_SEL0030",
+      "style": 3,
+      "name": "アルをメンバーに加える"
+    },
+    {
+      "$id": 4,
+      "label": "tev900301_MSG0040",
+      "style": 1,
+      "name": "オーケー　お仕事の時間だ\nひと働きするとしよう[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev900301_JNK0050",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 6,
+      "label": "tev900301_SEL0060",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 7,
+      "label": "tev900301_MSG0070",
+      "style": 1,
+      "name": "そいつは結構\nならオレは　ゆっくり昼寝でもしてるさ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev900301_MSG0080",
+      "style": 1,
+      "name": "……どうした？　さすがのお前も\n緊張して休むどころじゃないか？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev900301_MSG0090",
+      "style": 1,
+      "name": "まあ　オレも似たようなもんだし\n話し相手が欲しいなら付き合うぜ？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev900301_JNK0100",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 11,
+      "label": "tev900301_SEL0110",
+      "style": 3,
+      "name": "アルをメンバーに加える"
+    },
+    {
+      "$id": 12,
+      "label": "tev900301_MSG0120",
+      "style": 1,
+      "name": "おう　んじゃ行くとするか[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev900301_JNK0130",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 14,
+      "label": "tev900301_SEL0140",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 15,
+      "label": "tev900301_MSG0150",
+      "style": 1,
+      "name": "これが最後の戦いに\nなるかもしれないからな\n休めるうちに休んでおけよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev900301_MSG0160",
+      "style": 1,
+      "name": "地球　そしてNLA[ST:wide ]―\nオレ達の故郷を\nヴォイドは二度も奪いやがった[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev900301_MSG0170",
+      "style": 1,
+      "name": "だが　それも終わりだ\nこの戦いで奴との因縁にケリをつける[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev900301_MSG0180",
+      "style": 1,
+      "name": "勝ち取ってやろうぜ\nオレ達の未来ってやつをな[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08060130_MSG0001",
+      "style": 0,
+      "name": "그로우스군에게 고한다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08060130_MSG0002",
+      "style": 0,
+      "name": "귀군은 NLA 절대 방위 권내에 침입하고 있다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08060130_MSG0003",
+      "style": 0,
+      "name": "당장 진군을 멈추고\n우리 쪽과의 대화에 응하라[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08060130_MSG0004",
+      "style": 0,
+      "name": "10초 후에 전진을 정지하지 않을 경우\n선전 포고로 받아들여 공격을 개시하겠다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08060130_MSG0005",
+      "style": 0,
+      "name": "10 9 8 7 6 5 4……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08060130_MSG0006",
+      "style": 0,
+      "name": "3[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08060130_MSG0007",
+      "style": 0,
+      "name": "2[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs08060130_MSG0008",
+      "style": 0,
+      "name": "1[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs08060130_MSG0009",
+      "style": 0,
+      "name": "공격 개시[ST:wait ]"
+    }
+  ]
+}

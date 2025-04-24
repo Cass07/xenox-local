@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091603_MSG0001",
+      "style": 0,
+      "name": "お帰りなさい　お待ちしてました[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091603_MSG0002",
+      "style": 0,
+      "name": "待ってた？\nあたしも報告したいことがあるんだけどね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091603_MSG0003",
+      "style": 0,
+      "name": "私の方はマードレスさんのことです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091603_MSG0004",
+      "style": 0,
+      "name": "あたしもそれだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091603_MSG0005",
+      "style": 0,
+      "name": "そうでしたか\nマードレスさんにイリーナさん達が来たら[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091603_MSG0006",
+      "style": 0,
+      "name": "報酬を渡してくれとお願いされたんです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091603_MSG0007",
+      "style": 0,
+      "name": "アイツが[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091603_MSG0008",
+      "style": 0,
+      "name": "あれ？　聞いてません？\nマードレスさんの任務に協力したんですよね？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091603_JNK0010",
+      "style": 4,
+      "name": "一応　肯定する"
+    },
+    {
+      "$id": 10,
+      "label": "qev091603_SEL0011",
+      "style": 3,
+      "name": "協力したものの[ST:wide ]―　と\nうやむやにうなずく"
+    },
+    {
+      "$id": 11,
+      "label": "qev091603_JNK0020",
+      "style": 4,
+      "name": "否定する"
+    },
+    {
+      "$id": 12,
+      "label": "qev091603_SEL0021",
+      "style": 3,
+      "name": "はめられたと抗議する"
+    },
+    {
+      "$id": 13,
+      "label": "qev091603_MSG0009",
+      "style": 0,
+      "name": "それはそれはお疲れさまでした\nブレイド同士の協力ってすばらしいですよね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091603_MSG0010",
+      "style": 0,
+      "name": "これが今回の報酬です[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091603_MSG0011",
+      "style": 0,
+      "name": "お金以外はくれてやる[ST:wide ]―\nと言っていましたよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091603_MSG0012",
+      "style": 0,
+      "name": "はぁ[ST:wide ]―　そんなことだろうと思ったよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091603_MSG0013",
+      "style": 0,
+      "name": "報酬もきっちり払われてるから\n抗議は受け付けてくれないんだろうな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091603_MSG0014",
+      "style": 0,
+      "name": "そうですね　問題はないように見受けられます[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091603_MSG0015",
+      "style": 0,
+      "name": "マードレスさんとの間に何か？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091603_MSG0016",
+      "style": 0,
+      "name": "いや　いいんだ\nアイツはそういうヤツだから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091603_MSG0017",
+      "style": 0,
+      "name": "まぁ　はめられたのですか！？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091603_MSG0018",
+      "style": 0,
+      "name": "でも　きちんと報酬は用意されていますし\n見たところ　みなさんに怪我はないようですし[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091603_MSG0019",
+      "style": 0,
+      "name": "契約的には\n問題ないかと思いますが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091603_MSG0020",
+      "style": 0,
+      "name": "それがアイツの計画なんだろうな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091603_MSG0021",
+      "style": 0,
+      "name": "とりあえず今回の報酬　お渡ししますね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091603_MSG0022",
+      "style": 0,
+      "name": "お金だけは全部持っていったんだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091603_MSG0023",
+      "style": 0,
+      "name": "お金以外はくれてやる[ST:wide ]―\nと言っていましたけど[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091603_MSG0024",
+      "style": 0,
+      "name": "何か問題ありましたか？[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091603_MSG0025",
+      "style": 0,
+      "name": "いや　いいんだ\nアイツはそういうヤツだから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091603_MSG0026",
+      "style": 0,
+      "name": "あっ　そうでした\nもうひとつ伝言があったんです[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091603_MSG0027",
+      "style": 0,
+      "name": "まだ人の神経を逆なでするような言伝が？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091603_MSG0028",
+      "style": 0,
+      "name": "イリーナさんにではなく　あなたに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091603_MSG0028_m",
+      "style": 0,
+      "name": "イリーナさんにではなく　あなたに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091603_MSG0028_f",
+      "style": 0,
+      "name": "イリーナさんにではなく　あなたに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091603_MSG0029",
+      "style": 0,
+      "name": "迎えに来てくれるなら\nいつでも一緒に行くわ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091603_MSG0030",
+      "style": 0,
+      "name": "とマードレスさんが言ってましたよ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091603_MSG0031",
+      "style": 0,
+      "name": "アンタ　厄介なのに目を付けられたね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091603_MSG0032",
+      "style": 0,
+      "name": "お帰りなさい[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091603_MSG0033",
+      "style": 0,
+      "name": "よかった\nちゃんと資源回収の任務終わったんですね[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091603_MSG0034",
+      "style": 0,
+      "name": "はい？　何言ってんの？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091603_MSG0035",
+      "style": 0,
+      "name": "マードレスさんと共同で\n任務に就いたんですよね？[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091603_MSG0036",
+      "style": 0,
+      "name": "最初はね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091603_MSG0037",
+      "style": 0,
+      "name": "さっきマードレスさんがやってきて\n報酬だけ持っていっちゃったんですよ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091603_MSG0038",
+      "style": 0,
+      "name": "後から必ずイリーナさんが\n回収物を持ってくるって言って[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091603_MSG0039",
+      "style": 0,
+      "name": "ダメですって言っても　マードレスさんは\n強引だからちっとも聞いてくれなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091603_MSG0040",
+      "style": 0,
+      "name": "回収物が届かなかったら\nどうしようかと思ってたところだったんです[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091603_MSG0041",
+      "style": 0,
+      "name": "いっぺん締め上げたい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091603_MSG0042",
+      "style": 0,
+      "name": "はい？[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091603_MSG0043",
+      "style": 0,
+      "name": "いや　何も[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091603_MSG0044",
+      "style": 0,
+      "name": "まんまとアイツに騙されちまったな\nあたし達もバカなブレイドの男共も[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091603_MSG0045",
+      "style": 0,
+      "name": "今回はくたびれ損だったけど\n次はもっとマトモな任務に行こう[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091603_MSG0046",
+      "style": 0,
+      "name": "あのお嬢様とは関わらない任務にね[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091603_MSG0047",
+      "style": 0,
+      "name": "また人の神経を逆なでするようなことが？[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001495_MSG0001",
+      "style": 1,
+      "name": "よっ　[ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001495_MSG0002",
+      "style": 1,
+      "name": "あたしがこんな場所にいるのは珍しいだろ？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001495_MSG0003",
+      "style": 1,
+      "name": "グインにゴーグルを買ってやろうと思ってね\nこの前の任務で壊れたみたいだから[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001495_MSG0004",
+      "style": 1,
+      "name": "たまにはがんばってるアイツに\n大したものじゃないけど　ご褒美でもあげよう\nと思って[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001495_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 6,
+      "label": "tev001495_SEL0011",
+      "style": 3,
+      "name": "イリーナにとって\nグインとは？"
+    },
+    {
+      "$id": 7,
+      "label": "tev001495_JNK0020",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 8,
+      "label": "tev001495_SEL0021",
+      "style": 3,
+      "name": "一緒に訓練をしてあげる方が\n喜ぶはずだと提案する"
+    },
+    {
+      "$id": 9,
+      "label": "tev001495_JNK0030",
+      "style": 4,
+      "name": "力説"
+    },
+    {
+      "$id": 10,
+      "label": "tev001495_SEL0031",
+      "style": 3,
+      "name": "もっとグインが喜ぶものを\nあげるべきだと強く主張する"
+    },
+    {
+      "$id": 11,
+      "label": "tev001495_MSG0005",
+      "style": 1,
+      "name": "グインは[ST:wide ]―\nんー　弟みたいなものかな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001495_MSG0006",
+      "style": 1,
+      "name": "実際に弟の友達だったし\n仲良かっただけあって\nどこか少しだけ似てたりするんだよな[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001495_MSG0007",
+      "style": 1,
+      "name": "弟が生きてる時に　あたしは姉らしいことを\nもっとしてあげたかったんだけど[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001495_MSG0008",
+      "style": 1,
+      "name": "特に軍に入ってからは\n時間も取れなかったから　話をする機会も\n減らしてしまった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001495_MSG0009",
+      "style": 1,
+      "name": "褒めることも叱ることも\nできなかったんだよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001495_MSG0010",
+      "style": 1,
+      "name": "だから　あいつががんばったときくらいは\n姉らしく褒めてプレゼントくらいしてやりたい\nと思ったんだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001495_MSG0011",
+      "style": 1,
+      "name": "さてと　そろそろ買いに行ってくるよ\nじゃあ　また任務でな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001495_MSG0012",
+      "style": 1,
+      "name": "訓練か[ST:wide ]―\nそれは遠慮したいな[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001495_MSG0013",
+      "style": 1,
+      "name": "たまに教えてあげるんだけど[ST:wide ]―\n厳しくすると喜ぶんだよな[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001495_MSG0014",
+      "style": 1,
+      "name": "ちょっとなんていうか[ST:wide ]―変な嗜好を持ってる\nんじゃないかと思ったりするんだ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001495_MSG0015",
+      "style": 1,
+      "name": "他の人に聞くとグインは普通だっていうけど\nまったくどうして　あたしの時だけ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001495_MSG0016",
+      "style": 1,
+      "name": "まっ　あたしが気にしすぎかも\nしれないけどな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001495_MSG0017",
+      "style": 1,
+      "name": "とにかく今回はゴーグルにしておくよ\nたまには形のあるプレゼントしてやりたいんだ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001495_MSG0018",
+      "style": 1,
+      "name": "弟が生きてる時にあまり\nプレゼントってしたことなかったからな[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001495_MSG0019",
+      "style": 1,
+      "name": "あいつは実の弟じゃないけど[ST:wide ]―\nがんばったときくらいは姉らしく\n褒めてやりたいんだ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001495_MSG0020",
+      "style": 1,
+      "name": "さてと　そろそろ買いに行ってくるよ\nじゃあ　また任務でな[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001495_MSG0021",
+      "style": 1,
+      "name": "と言われてもなぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001495_MSG0022",
+      "style": 1,
+      "name": "グインが今　壊れて不便してるのは\nゴーグルだからな[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001495_MSG0023",
+      "style": 1,
+      "name": "それ以外のものを買っても　意味がないし\n喜ばないんじゃないか？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001495_MSG0024",
+      "style": 1,
+      "name": "ゴーグルよりももっと高級なモノって\nいうなら　エルマ大佐に渡したいな[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001495_MSG0025",
+      "style": 1,
+      "name": "[ST:wide ]―待てよ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001495_MSG0026",
+      "style": 1,
+      "name": "今度任務で一緒になった後に\nお世話になったお礼として\nプレゼントすればいいのか[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001495_MSG0027",
+      "style": 1,
+      "name": "自然に受け取ってくれるに違いないな[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001495_MSG0028",
+      "style": 1,
+      "name": "そうと決まれば　グインにゴーグルを\n買ってやるお金ももったいないな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001495_MSG0029",
+      "style": 1,
+      "name": "あいつにはプラスチックの水中メガネでいいか\nそうしよう[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001495_MSG0030",
+      "style": 1,
+      "name": "ありがとうな\nいいアイディア閃いたよ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001495_MSG0031",
+      "style": 1,
+      "name": "今度の任務が楽しみだ[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

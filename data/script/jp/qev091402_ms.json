@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091402_MSG0001",
+      "style": 0,
+      "name": "ここですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091402_MSG0002",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091402_MSG0003",
+      "style": 0,
+      "name": "確かに見たこともない物体が転がってます[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091402_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―よし[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091402_JNK0010",
+      "style": 4,
+      "name": "見守る"
+    },
+    {
+      "$id": 6,
+      "label": "qev091402_SEL0011",
+      "style": 3,
+      "name": "勇敢にも手を伸ばすフォグを見守る"
+    },
+    {
+      "$id": 7,
+      "label": "qev091402_JNK0020",
+      "style": 4,
+      "name": "制止する"
+    },
+    {
+      "$id": 8,
+      "label": "qev091402_SEL0021",
+      "style": 3,
+      "name": "危険だから安易に触れるなと制止する"
+    },
+    {
+      "$id": 9,
+      "label": "qev091402_MSG0005",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091402_MSG0006",
+      "style": 0,
+      "name": "でも　きっと兄さんなら\n危険を冒してでも調べるはずです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091402_MSG0007",
+      "style": 0,
+      "name": "わぁっ[ST:wide ]―！？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091402_MSG0008",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091402_MSG0009",
+      "style": 0,
+      "name": "いったいなんだったんでしょう？\n不気味な生命体でしたけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091402_JNK0030",
+      "style": 4,
+      "name": "断定する"
+    },
+    {
+      "$id": 15,
+      "label": "qev091402_SEL0031",
+      "style": 3,
+      "name": "グロウスの新兵器に違いないと断定する"
+    },
+    {
+      "$id": 16,
+      "label": "qev091402_JNK0040",
+      "style": 4,
+      "name": "推測する"
+    },
+    {
+      "$id": 17,
+      "label": "qev091402_SEL0041",
+      "style": 3,
+      "name": "この星の数多ある謎のひとつかもしれないと\n推測する"
+    },
+    {
+      "$id": 18,
+      "label": "qev091402_MSG0010",
+      "style": 0,
+      "name": "グロウスがここにトラップを\n仕掛ける意味がわかりませんけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091402_MSG0011",
+      "style": 0,
+      "name": "なるほど　そういった考え方も\nできるかもしれませんけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091402_MSG0013",
+      "style": 0,
+      "name": "ここで考えていても埒が明かないので[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091402_MSG0014",
+      "style": 0,
+      "name": "ひとまず持ち帰って\n研究班に解析してもらいましょう[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091402_MSG0015",
+      "style": 0,
+      "name": "そうだ　知り合いの学者のソランさんなら\n何かわかるかもしれません[ST:wait ]"
+    }
+  ]
+}

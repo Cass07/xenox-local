@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090804_MSG0001",
+      "style": 1,
+      "name": "이미 수많은 노폰인이[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090804_MSG0001_02",
+      "style": 1,
+      "name": "포학왕에게 잡아먹히고 말았어요모……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090804_MSG0002",
+      "style": 1,
+      "name": "더 이상 누군가가 희생되지 않게\n어서 녀석을 퇴치해 주세요모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090804_MSG0003",
+      "style": 1,
+      "name": "이러는 동안에도 포학왕이\n노폰인을 습격하고 있을지도 몰라요모[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090804_MSG0004",
+      "style": 1,
+      "name": "어서 그 프런티어넷의 힘으로\n녀석을 발견해 주세요모[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090804_MSG0005",
+      "style": 1,
+      "name": "이미 수많은 노폰인이\n포학왕에게 잡아먹히고 말았어요……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090804_MSG0006",
+      "style": 1,
+      "name": "더 이상 누군가가 희생되지 않게\n어서 녀석을 퇴치해 주세요모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090804_MSG0007",
+      "style": 0,
+      "name": "엘리트 씨!\n포학왕은 어떻게 됐나요모?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090804_MSG0008",
+      "style": 0,
+      "name": "어서 녀석을 쓰러뜨려서 노폰인이\n안심하고 살 수 있게 해 주세요모[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090804_MSG0009",
+      "style": 0,
+      "name": "더는 그런 비열한 자를\n두려워하며 살 필요 없어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090804_MSG0010",
+      "style": 0,
+      "name": "녀석은 저희가 끝장냈습니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090804_MSG0011",
+      "style": 0,
+      "name": "저…… 정말인가요모!?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090804_MSG0012",
+      "style": 0,
+      "name": "만세~~~~~~~~~~!\n기뻐요모~![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090804_MSG0013",
+      "style": 0,
+      "name": "HB 씨는 대단해요모\n정말로 엘리트예요모! 천재예요모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090804_MSG0014",
+      "style": 0,
+      "name": "그렇게까지 기뻐해 주시니\n어쩐지 저까지 기분이 좋네요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090804_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 17,
+      "label": "qev090804_SEL0011",
+      "style": 3,
+      "name": "그 말이 맞다며 끄덕인다"
+    },
+    {
+      "$id": 18,
+      "label": "qev090804_JNK0020",
+      "style": 4,
+      "name": "지적"
+    },
+    {
+      "$id": 19,
+      "label": "qev090804_SEL0021",
+      "style": 3,
+      "name": "HB답지 않은 감상이라며\n한마디 한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev090804_MSG0015",
+      "style": 0,
+      "name": "저희가 이 미소를 지키기 위해 싸우고 있다는……\n그런 당연한 것을 새삼 떠올리게 되네요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090804_MSG0016",
+      "style": 0,
+      "name": "실례네요, 저도 다른 사람들과 똑같아요……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090804_MSG0017",
+      "style": 0,
+      "name": "이 미소를 지키고 싶어서 싸우는 거라고요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090804_MSG0018",
+      "style": 0,
+      "name": "……다만, 현재의 블레이드 조직은\n너무 비효율적이라 많은 이를 구할 수 없죠[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090804_MSG0019",
+      "style": 0,
+      "name": "그러니 제가 블레이드 사령관이 되어서[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090804_MSG0020",
+      "style": 0,
+      "name": "더 많은 사람을 구할 수 있는\n합리적인 조직으로 바꿀 생각입니다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090804_MSG0021",
+      "style": 0,
+      "name": "당신은 얼마 없는 제 동지니까……\n이 꿈을 실현하는 데 조금은 협력해 주세요[ST:wait ]"
+    }
+  ]
+}

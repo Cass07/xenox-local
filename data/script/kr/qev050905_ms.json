@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050905_MSG0001",
+      "style": 1,
+      "name": "역시……\n역시 강하다……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050905_MSG0002",
+      "style": 1,
+      "name": "설마 했지만……\n가 델그 전하를 꺾었다는 지구인 블레이드는\n바로 그대인 것인가?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050905_MSG0003",
+      "style": 1,
+      "name": "아니, 그런 과거의 경력에 집착하는 건\n내가 약하다는 증거겠지……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050905_MSG0004",
+      "style": 1,
+      "name": "말문이 막힐 정도로 강하군[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev050905_MSG0005",
+      "style": 1,
+      "name": "하지만……\n그래도 대충 요령 같은 걸\n알게 된 것 같기도 하다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev050905_MSG0006",
+      "style": 1,
+      "name": "이 감각을 잊고 싶지 않다![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev050905_MSG0007",
+      "style": 1,
+      "name": "어떤가? 이번엔 돌을 사용한 결투를\n부탁해도 되겠나?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev050905_MSG0008",
+      "style": 1,
+      "name": "지금이라면 드디어 손에 넣은 이 감각을\n돌 조종에 활용할 수 있을 것 같다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev050905_MSG0009",
+      "style": 1,
+      "name": "아무래도 여기서 돌 전투를 할 수는 없으니\n조금 먼 장소로 이동하게 되겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050905_MSG0010",
+      "style": 1,
+      "name": "부탁한다!\n다시 한번 결투를……![ST:wait ]"
+    }
+  ]
+}

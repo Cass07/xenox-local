@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087505_MSG0001",
+      "style": 0,
+      "name": "지금 개발 중인 대형 빔 포 말인데요\n출력을 800기가 더 높이고 싶어요![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087505_MSG0002",
+      "style": 0,
+      "name": "그렇게 하면……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087505_MSG0003",
+      "style": 0,
+      "name": "그로우스가 사용하는 빔 코팅층도\n뚫을 수 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087505_MSG0004",
+      "style": 0,
+      "name": "아마추어의 생각이란, 말할 가치도 없네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087505_MSG0005",
+      "style": 0,
+      "name": "그럴 수가[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087505_MSG0006",
+      "style": 0,
+      "name": "반담 사령관님이 과제를 해결하면\n가능할지도 모른다고 하셨는데요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087505_MSG0007",
+      "style": 0,
+      "name": "사령관님도 참, 직접 설명하기 귀찮다고\n이쪽으로 떠넘기시다니[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087505_MSG0008",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "qev087505_MSG0009",
+      "style": 0,
+      "name": "브레나 씨였지?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087505_MSG0010",
+      "style": 0,
+      "name": "전문가의 시간을 빼앗아 미안하지만\n문제점을 알려 주면 고맙겠어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087505_MSG0011",
+      "style": 0,
+      "name": "들어 봐, 이 장비는 돌의\n등에 장착하는 거잖아?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087505_MSG0012",
+      "style": 0,
+      "name": "맞아요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087505_MSG0013",
+      "style": 0,
+      "name": "그럼 열방사 문제를 해결해야만 해[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087505_MSG0014",
+      "style": 0,
+      "name": "어림잡아서……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087505_MSG0015",
+      "style": 0,
+      "name": "돌의 두부에서 콕피트 블록까지\n온도가 400도를 넘을 거야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087505_MSG0016",
+      "style": 0,
+      "name": "돌의 센서는\n매우 섬세하게 만들어져 있어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087505_MSG0017",
+      "style": 0,
+      "name": "이런 식으로 배치하면 분명 악영향을 주겠지[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087505_MSG0018",
+      "style": 0,
+      "name": "게다가 이 사이즈로는 오프셋 위치를\n완부로 변경할 수도 없어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087505_MSG0019",
+      "style": 0,
+      "name": "그렇다면 배럴 재킷의 전도체를 바꿔서\n해결할 수 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087505_MSG0020",
+      "style": 0,
+      "name": "다행히 사이즈가 커서\n부피적으로도 여유가 있고요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev087505_MSG0021",
+      "style": 0,
+      "name": "이게 그 설명서예요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev087505_MSG0022",
+      "style": 0,
+      "name": "좋은 발상이네\n확실히 이거라면 문제는 해결할 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev087505_MSG0023",
+      "style": 0,
+      "name": "다만 성능을 만족시킬 수 있는 전도체는……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev087505_MSG0024",
+      "style": 0,
+      "name": "NLA 중앙 배전 시스템에\n최우선으로 공급되고 있어[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev087505_MSG0025",
+      "style": 0,
+      "name": "신형 병기를 위해 도시 기능을\n저하시킬 수는 없잖아?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev087505_MSG0026",
+      "style": 0,
+      "name": "그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev087505_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 28,
+      "label": "qev087505_SEL0011",
+      "style": 3,
+      "name": "역시 안 되겠다며 포기한다"
+    },
+    {
+      "$id": 29,
+      "label": "qev087505_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 30,
+      "label": "qev087505_SEL0021",
+      "style": 3,
+      "name": "그런 건 간단하다며 기운 나게 한다"
+    },
+    {
+      "$id": 31,
+      "label": "qev087505_MSG0027",
+      "style": 0,
+      "name": "잠깐만[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev087505_MSG0028",
+      "style": 0,
+      "name": "이 행성에는 발견되지 않은 자원이\n아직도 많이 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev087505_MSG0029",
+      "style": 0,
+      "name": "그중에는 새로운 전도체를 만들 수 있는\n자원이 있을지도 모르잖아?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev087505_MSG0030",
+      "style": 0,
+      "name": "그렇네[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev087505_MSG0031",
+      "style": 0,
+      "name": "이 행성에는 발견되지 않은 자원이\n아직도 많이 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev087505_MSG0032",
+      "style": 0,
+      "name": "그중에는 새로운 전도체를 만들 수 있는\n자원이 있을지도 모르잖아?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev087505_MSG0033",
+      "style": 0,
+      "name": "그렇구나, 새롭게 만들어 버리면 되겠네요![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev087505_MSG0034",
+      "style": 0,
+      "name": "당신들, 너무 쉽게 말하는데\n그렇게 필요한 걸 바로 찾을 수 있을 것 같아?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev087505_MSG0035",
+      "style": 0,
+      "name": "그건 그렇지만\n가능성이 있다면 시험해 보고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev087505_MSG0036",
+      "style": 0,
+      "name": "그러니까 저는 해 볼래요![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev087505_MSG0047",
+      "style": 1,
+      "name": "……뭐야? 나한테 용건이라도 있어?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev087505_MSG0048",
+      "style": 1,
+      "name": "하지만 알란이 당신에게\n뭔가 가져다 달라고 부탁하지 않았어?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev087505_MSG0049",
+      "style": 1,
+      "name": "그럼 먼저 그걸 해결하고 나서 와 줘[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev087505_MSG0037",
+      "style": 1,
+      "name": "백목의 대륙과 흑강의 대륙에서\n채집할 수 있는 광석 중에\n전도체로 사용할 만한 게 있다던데……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev087505_MSG0038",
+      "style": 1,
+      "name": "그런 건 프런티어넷이라도\n잔뜩 깔아 놓지 않는 한 얻을 수 없을걸?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev087505_MSG0039",
+      "style": 1,
+      "name": "헛수고로 끝날 것 같지만\n하고 싶다면 해 보든가[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev087505_MSG0040",
+      "style": 1,
+      "name": "전도체는 이쪽에서 어떻게 한다고 해도\n그 후에는 자기장 트랩 문제를 해결해야 해……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev087505_MSG0041",
+      "style": 1,
+      "name": "……그래, 그 방면의 연구라면\n알란이라는 기술자가 잘 알 거야[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev087505_MSG0042",
+      "style": 1,
+      "name": "조금 착실하지 못한 부분이 있어서\n기술자로서는 무책임한 부분도 있지만[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev087505_MSG0043",
+      "style": 1,
+      "name": "뭐…… 실력은 확실하니까\n한번 상의해 보는 것도 좋을 거야[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev087505_MSG0044",
+      "style": 1,
+      "name": "……알란 쪽은 일은 잘됐어?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev087505_MSG0045",
+      "style": 1,
+      "name": "응, 이거라면 린이 말한 신형 병기……\n만들 수 있을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev087505_MSG0046",
+      "style": 1,
+      "name": "나도 할 수 있는 건 할 테니까\n당신들은 빨리 반담 사령관님에게\n보고하러 가 줘[ST:wait ]"
+    }
+  ]
+}

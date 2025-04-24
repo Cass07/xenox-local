@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08120100_MSG0001",
+      "style": 0,
+      "name": "그오오오오……![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08120100_MSG0002",
+      "style": 0,
+      "name": "이 녀석들, 원시 민족 주제에[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08120100_MSG0003",
+      "style": 0,
+      "name": "그 방심이 패인이라는 걸 깨닫도록 해[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08120100_MSG0004",
+      "style": 0,
+      "name": "남은 건 너희뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08120100_MSG0005",
+      "style": 0,
+      "name": "흥[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08120100_MSG0006",
+      "style": 0,
+      "name": "너희를 인정하고 살아남을 바에야\n비웃으며 죽어 주겠어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08120100_MSG0007",
+      "style": 0,
+      "name": "리즈, 안 돼[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs08120100_JNK0010",
+      "style": 4,
+      "name": "경계"
+    },
+    {
+      "$id": 9,
+      "label": "xs08120100_SEL0011",
+      "style": 3,
+      "name": "방심하지 않고 무기를 계속 겨눈다"
+    },
+    {
+      "$id": 10,
+      "label": "xs08120100_JNK0020",
+      "style": 4,
+      "name": "고민"
+    },
+    {
+      "$id": 11,
+      "label": "xs08120100_SEL0021",
+      "style": 3,
+      "name": "무기를 거두고 상대를 바라본다"
+    },
+    {
+      "$id": 12,
+      "label": "xs08120100_MSG0008",
+      "style": 0,
+      "name": "기다려, 이 이상 싸울 필요 없어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs08120100_MSG0009",
+      "style": 0,
+      "name": "그래, 그렇게 해\n아무것도 할 필요 없어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08120100_MSG0010",
+      "style": 0,
+      "name": "왜 그러는데?\n무서워지기라도 한 거야?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08120100_MSG0011",
+      "style": 0,
+      "name": "착각하고 있는 모양이네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs08120100_MSG0012",
+      "style": 0,
+      "name": "뭐라고?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs08120100_MSG0013",
+      "style": 0,
+      "name": "너를 죽여도 해결되는 건 없어[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs08120100_MSG0014",
+      "style": 0,
+      "name": "돌아가서 상관에게 전해\n지구인은 당신들과의 충돌을 바라지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs08120100_MSG0015",
+      "style": 0,
+      "name": "서로를 존중하며 공존하기를\n희망한다고 말이야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs08120100_MSG0016",
+      "style": 0,
+      "name": "무슨 같잖은 소리를 하는 거야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs08120100_MSG0017",
+      "style": 0,
+      "name": "애초에 너…… 자기가 이겼다고 생각해?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs08120100_MSG0018",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "xs08120100_MSG0019",
+      "style": 0,
+      "name": "아하하하![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs08120100_MSG0020",
+      "style": 0,
+      "name": "저 폭발은……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs08120100_MSG0021",
+      "style": 0,
+      "name": "엘마 대령님[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs08120100_MSG0022",
+      "style": 0,
+      "name": "적 별동대가 침입하여\n격납고의 외계인 돌을 강탈했습니다[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev041407_MSG0001",
+      "style": 1,
+      "name": "무슨 용건인가요모?\n도돈가 카라반에 관해서라면\n카카에게 뭐든지 물어보세요모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev041407_JNK0010",
+      "style": 4,
+      "name": "설명"
+    },
+    {
+      "$id": 3,
+      "label": "qev041407_SEL0011",
+      "style": 3,
+      "name": "웅고고에게 받은 의뢰를 설명한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev041407_JNK0020",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 5,
+      "label": "qev041407_SEL0021",
+      "style": 3,
+      "name": "이 카라반은\n무엇을 생업으로 하는지 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "qev041407_MSG0002",
+      "style": 1,
+      "name": "야광의 숲에서 얻을 수 있는 다양한 꽃가루로\n꽃가루 구슬을 만들어 팔고 있어요모[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev041407_MSG0003",
+      "style": 1,
+      "name": "꽃가루 구슬은 노폰의 대표 간식이에요모\n특히 우리 카라반의 꽃가루 구슬은\n맛있다고 평판이 좋아요모[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev041407_MSG0004",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "qev041407_MSG0005",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "qev041407_MSG0006",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "qev041407_MSG0007",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "qev041407_MSG0008",
+      "style": 1,
+      "name": "도돈가 카라반의 총력을 다해\n근사한 불꽃을 쏘아 올릴게요모![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev041407_MSG0009",
+      "style": 1,
+      "name": "……자, 여기 계약서예요모\n잘 부탁해요모[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev041407_MSG0010",
+      "style": 1,
+      "name": "불꽃놀이라면 맡겨 주세요모[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev041407_MSG0011",
+      "style": 1,
+      "name": "기운 없는 장로를 정신 차리게 할\n멋진 불꽃을 쏘아 올리겠어요모![ST:wait ]"
+    }
+  ]
+}

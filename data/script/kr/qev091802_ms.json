@@ -1,0 +1,624 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091802_MSG0001",
+      "style": 0,
+      "name": "머더레스 씨……\n저기, 이제 곧 컴패니언분들이……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091802_MSG0002",
+      "style": 0,
+      "name": "바로 그 일 때문에 왔어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091802_MSG0003",
+      "style": 0,
+      "name": "어떤 블레이드의 헌신적인 희생 덕분에\n우리가 범인을 찾게 됐거든[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091802_MSG0004",
+      "style": 0,
+      "name": "그런 일이 있었나요!?\n그러면 제게 정보를 들으러 온 거군요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091802_MSG0005",
+      "style": 0,
+      "name": "그 말대로야\n사건의 상세한 정보를 알려 줘[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091802_MSG0006",
+      "style": 0,
+      "name": "죄송하지만, 지금은 정보가 없어요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091802_MSG0007",
+      "style": 0,
+      "name": "머더레스 씨의 과거 경력을\n중점적으로 확인하라는 명령 때문에……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091802_MSG0008",
+      "style": 0,
+      "name": "날 믿지 못하는구나……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091802_MSG0009",
+      "style": 0,
+      "name": "그렇지 않아요!\n전 믿고 있다고요!![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091802_MSG0010",
+      "style": 0,
+      "name": "……지금 바로 사건을 조사해 볼게요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091802_MSG0011",
+      "style": 0,
+      "name": "부탁해, 기다리는 동안\n우리도 도시를 돌며 정보를 모으자[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091802_MSG0012",
+      "style": 0,
+      "name": "그렇게 해 주세요\n저도 가능한 한 서두를 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091802_MSG0013",
+      "style": 0,
+      "name": "정보 수집의 성과는 어땠나요?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091802_MSG0014",
+      "style": 0,
+      "name": "……확인하고 싶은 게 3가지 정도 있어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091802_MSG0015",
+      "style": 0,
+      "name": "살해당한 남성은 전원\n오른쪽 허벅지와 미간에 총을 맞아 죽었어?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091802_MSG0016",
+      "style": 0,
+      "name": "네, 그렇다고 해요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091802_MSG0018",
+      "style": 0,
+      "name": "그리고 여성은 전원\n발등과 관자놀이에 총을 맞아 죽었고요……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091802_MSG0019",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091802_MSG0020",
+      "style": 0,
+      "name": "정말 기묘한 사건이네요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091802_JNK0010",
+      "style": 4,
+      "name": "단정"
+    },
+    {
+      "$id": 21,
+      "label": "qev091802_SEL0011",
+      "style": 3,
+      "name": "범인이 일부러 메시지를 남긴\n특수한 살인이 틀림없다고 단정한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev091802_JNK0020",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 23,
+      "label": "qev091802_SEL0021",
+      "style": 3,
+      "name": "계획적인 범행처럼 보이므로\n그로우스는 범인이 아닐 거라고 추측한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev091802_MSG0021",
+      "style": 0,
+      "name": "그래요, 범인은 무언가를\n나타내려고 하는 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091802_MSG0022",
+      "style": 0,
+      "name": "그게 무엇인지는 전혀 상상이 안 되지만요……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091802_MSG0023",
+      "style": 0,
+      "name": "그렇네요, 그로우스가 범인이라면\n이런 짓을 할 필요가 없어요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091802_MSG0024",
+      "style": 0,
+      "name": "녀석들은 그저 지구인의 숫자만\n줄일 수 있다면 만족할 테니까요……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091802_MSG0025",
+      "style": 0,
+      "name": "그렇다면 범인은 지구인이라는 뜻인데\n대체 무슨 목적으로……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091802_MSG0026",
+      "style": 0,
+      "name": "알겠어……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091802_MSG0027",
+      "style": 0,
+      "name": "범인의 이름까지도 말이야[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091802_MSG0028",
+      "style": 0,
+      "name": "정말인가요?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091802_MSG0029",
+      "style": 0,
+      "name": "데일 기번…… 우리 부모님을 죽인 남자야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091802_MSG0030",
+      "style": 0,
+      "name": "어떻게 알아낸 건가요!?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091802_MSG0031",
+      "style": 0,
+      "name": "옵스를 포함한 남성은\n아버지와 같은 방식으로 죽었어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091802_MSG0032",
+      "style": 0,
+      "name": "그리고 욜란다를 포함한 여성은\n어머니와 같은 방식으로 죽었지[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091802_MSG0033",
+      "style": 0,
+      "name": "게다가 피해자가 8명이라는 점은\n녀석이 지구에서 벌인 연쇄 살인 숫자와 일치해[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091802_MSG0034",
+      "style": 0,
+      "name": "그런 흉악범이\n흰고래에 탔을 것 같지는 않은데요……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091802_MSG0035",
+      "style": 0,
+      "name": "체포되어 사형 판결까지 내려졌지만\n그 녀석이라고밖에 할 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091802_MSG0036",
+      "style": 0,
+      "name": "……후후[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091802_MSG0037",
+      "style": 0,
+      "name": "저기, 머더레스 씨?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091802_MSG0038",
+      "style": 0,
+      "name": "아무리 봐도 날 자극하는 거잖아?\n녀석은 날 도발하는 거야[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091802_MSG0039",
+      "style": 0,
+      "name": "평생 이루지 못할 줄 알았던\n꿈을 이룰 기회가 왔어[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091802_JNK0030",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 44,
+      "label": "qev091802_SEL0031",
+      "style": 3,
+      "name": "데일 기번에게 현상금을\n걸자고 제안한다"
+    },
+    {
+      "$id": 45,
+      "label": "qev091802_JNK0040",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 46,
+      "label": "qev091802_SEL0041",
+      "style": 3,
+      "name": "혹시 복수할 생각이냐며 걱정한다"
+    },
+    {
+      "$id": 47,
+      "label": "qev091802_JNK0050",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 48,
+      "label": "qev091802_SEL0051",
+      "style": 3,
+      "name": "꿈은 가문 부흥이\n아니었냐고 묻는다"
+    },
+    {
+      "$id": 49,
+      "label": "qev091802_MSG0040",
+      "style": 0,
+      "name": "평소의 나였다면\n네 제안에 찬성했겠지[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091802_MSG0041",
+      "style": 0,
+      "name": "하지만 이번만큼은 보수 따위 필요 없어[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091802_MSG0042",
+      "style": 0,
+      "name": "내 손으로 녀석을 죽일 수만 있다면……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091802_MSG0043",
+      "style": 0,
+      "name": "그래, 맞아[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091802_MSG0044",
+      "style": 0,
+      "name": "부모님이 살해당한 날, 난 맹세했어\n반드시 그 남자를 내 손으로 죽이겠다고[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091802_MSG0045",
+      "style": 0,
+      "name": "꿈은 하나만 있는 게 아니야\n많이 있을수록 좋지 않겠어?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091802_MSG0046",
+      "style": 0,
+      "name": "내 꿈은 에핀저 가문의 부흥과\n그 살인자를 내 손으로 죽이는 거야[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091802_MSG0047",
+      "style": 0,
+      "name": "아, 안 돼요\n살인은 블레이드의 임무가 아니잖아요[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091802_MSG0048",
+      "style": 0,
+      "name": "아버님과 어머님의 복수를 할 수 있다면\n블레이드를 그만둬도 상관없어[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091802_MSG0049",
+      "style": 0,
+      "name": "저, 저기 당신도\n머더레스 씨를 말려 주세요![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091802_JNK0060",
+      "style": 4,
+      "name": "설득한다"
+    },
+    {
+      "$id": 60,
+      "label": "qev091802_SEL0061",
+      "style": 3,
+      "name": "이리나를 언급하며 설득한다"
+    },
+    {
+      "$id": 61,
+      "label": "qev091802_JNK0070",
+      "style": 4,
+      "name": "제지한다"
+    },
+    {
+      "$id": 62,
+      "label": "qev091802_SEL0071",
+      "style": 3,
+      "name": "또 하나의 꿈을 언급하며 제지한다"
+    },
+    {
+      "$id": 63,
+      "label": "qev091802_JNK0080",
+      "style": 4,
+      "name": "제안한다"
+    },
+    {
+      "$id": 64,
+      "label": "qev091802_SEL0081",
+      "style": 3,
+      "name": "자신도 따라가겠다고 나선다"
+    },
+    {
+      "$id": 65,
+      "label": "qev091802_MSG0050",
+      "style": 0,
+      "name": "이리나와는 상관없어질 거야[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev091802_MSG0051",
+      "style": 0,
+      "name": "살인범은 따로 있었고\n쫓기는 신세가 되는 건 나뿐이니까[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev091802_MSG0052",
+      "style": 0,
+      "name": "하, 하지만 이리나 씨는\n머더레스 씨를 믿었기에[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev091802_MSG0053",
+      "style": 0,
+      "name": "대신 잡혀 있는 거 아닌가요?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev091802_MSG0054",
+      "style": 0,
+      "name": "그렇네……[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev091802_MSG0055",
+      "style": 0,
+      "name": "그러니 더욱 이 사건을 해결해야지[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev091802_MSG0056",
+      "style": 0,
+      "name": "이리나를 계속 구류된 채로\n놔둘 수는 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev091802_MSG0057",
+      "style": 0,
+      "name": "머더레스 씨……[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev091802_MSG0058",
+      "style": 0,
+      "name": "……윽[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev091802_MSG0059",
+      "style": 0,
+      "name": "맞아요, 지금까지 머더레스 씨가\n저축한 돈을 내다 버릴 셈인가요?[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev091802_MSG0060",
+      "style": 0,
+      "name": "가문이 부흥하면 분명\n아버님과 어머님도 기뻐할 거예요[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev091802_MSG0061",
+      "style": 0,
+      "name": "하지만 살인범을 죽인다고 해서\n두 분의 넋이 평온을 찾을까요?[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev091802_MSG0062",
+      "style": 0,
+      "name": "……모르겠어[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev091802_MSG0063",
+      "style": 0,
+      "name": "하지만 살인범을 만나면 알게 되겠지\n그때 가서 생각하면 돼[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev091802_MSG0064",
+      "style": 0,
+      "name": "고마워[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev091802_MSG0065",
+      "style": 0,
+      "name": "너라면 분명 도와줄 줄 알았어[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev091802_MSG0066",
+      "style": 0,
+      "name": "엘레오노라, 내 의지는 강고해[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev091802_MSG0067",
+      "style": 0,
+      "name": "설득은 포기하고 얌전히\n데일의 위치를 알려 줘[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev091802_MSG0068",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev091802_MSG0069",
+      "style": 0,
+      "name": "……데일이라는 사람인지는 모르겠지만\n용의자의 위치라면 몇 군데로 좁혀집니다[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev091802_MSG0070",
+      "style": 0,
+      "name": "지금 네 눈앞에 있다고 지껄일 생각은 마\n널 죽일지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev091802_MSG0071",
+      "style": 0,
+      "name": "……그, 그러니까[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev091802_MSG0074",
+      "style": 0,
+      "name": "그 두 사람 중 누군가가\n데일일 가능성이 있다는 거네[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev091802_MSG0075",
+      "style": 0,
+      "name": "……네[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev091802_MSG0076",
+      "style": 0,
+      "name": "고마워, 엘레오노라[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev091802_MSG0077",
+      "style": 0,
+      "name": "자, 가자\n내 미래를 빼앗은 남자의 미래를 빼앗으러[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev091802_MSG0079",
+      "style": 0,
+      "name": "인터셉터인 마틴 씨가\n백목의 대륙에 간 후로 돌아오지 않았어요[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev091802_MSG0084",
+      "style": 0,
+      "name": "그리고 랜드뱅크인 다트 씨는 새벽에\n단독으로 망각의 계곡 방면으로 간 것 같고요[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev091802_MSG0085",
+      "style": 1,
+      "name": "저기, 정말로 데일이라는 사람이\n범인인 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev091802_MSG0086",
+      "style": 1,
+      "name": "어쩌면 과거에 그 사건을 담당했던 형사가\n저지른 범행일지도 모르잖아요?[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev091802_MSG0087",
+      "style": 1,
+      "name": "어느 쪽이 됐든\n나를 아는 인간의 범행이라는 건 틀림없어[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev091802_MSG0088",
+      "style": 1,
+      "name": "범인이 데일이든 다른 사람이든\n내가 직접 확인하기 전에는 납득 못 해[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev091802_MSG0089",
+      "style": 1,
+      "name": "그러니, 난 가겠어[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev091802_MSG0090",
+      "style": 1,
+      "name": "머더레스 씨……[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev091802_MSG0091",
+      "style": 1,
+      "name": "내 꿈이 하나, 이루어졌어[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev091802_MSG0092",
+      "style": 1,
+      "name": "그렇……네요[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev091802_MSG0093",
+      "style": 1,
+      "name": "제가 할 수 있는 일은 적지만……\n할 수 있는 만큼은 해 볼게요![ST:wait ]"
+    }
+  ]
+}

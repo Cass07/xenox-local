@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087504_MSG0001",
+      "style": 0,
+      "name": "알란 씨, 찾아 온 커패시터는 어때요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087504_MSG0002",
+      "style": 0,
+      "name": "이거 대단하네요\n그로우스의 기술력은 놀라울 수준입니다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087504_MSG0003",
+      "style": 0,
+      "name": "이걸로 해결할 수 있을 것 같나요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087504_MSG0004",
+      "style": 0,
+      "name": "맡겨 주세요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087504_MSG0005",
+      "style": 0,
+      "name": "그들의 기술과 저희의 기술을 조합하면\n오히려 더 효율이 좋은 것을 만들 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087504_MSG0006",
+      "style": 0,
+      "name": "그래도 곤란할 때는 말해 줘모\n노폰의 기술도 합치면 된다모[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087504_MSG0007",
+      "style": 0,
+      "name": "그, 그렇네요……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087504_MSG0008",
+      "style": 0,
+      "name": "자, 빨리 또 하나의 문제도\n해결해 버려요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087504_MSG0009",
+      "style": 0,
+      "name": "이걸로 전부 해결이네요!\n반담 사령관님께 보고해야겠어요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087504_MSG0010",
+      "style": 1,
+      "name": "그로우스의 고성능 커패시터는\n망각의 계곡에 있는 크무바가 떨어뜨리는[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087504_MSG0011",
+      "style": 1,
+      "name": "크무바 커패시터에서\n입수할 수 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087504_MSG0012",
+      "style": 1,
+      "name": "어디 보자……\n분석용으로 크무바 커패시터를\n3개 정도 찾아 와 주실 수 있을까요?[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087501_MSG0001",
+      "style": 0,
+      "name": "誰か来たですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087501_MSG0002",
+      "style": 0,
+      "name": "いやぁ　疲れた疲れた\nちょっと休ませてもらっていいか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087501_MSG0003",
+      "style": 0,
+      "name": "いいけどあなたここを\n無料休憩所と勘違いしてない？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087501_MSG0004",
+      "style": 0,
+      "name": "おいおい　かわいい部下達を\n労うつもりもあってやってきたんだぜ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087501_MSG0005",
+      "style": 0,
+      "name": "邪険にするなよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087501_MSG0006",
+      "style": 0,
+      "name": "むむ　なんだかウソっぽいですも[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087501_MSG0007",
+      "style": 0,
+      "name": "ほんとはリンさんのご飯が\n目当てなんじゃないですも？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087501_MSG0008",
+      "style": 0,
+      "name": "おっ　見かけによらず鋭いな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087501_MSG0009",
+      "style": 0,
+      "name": "当然ですも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087501_MSG0010",
+      "style": 0,
+      "name": "タツ　今の褒め言葉じゃないわよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087501_MSG0011",
+      "style": 0,
+      "name": "でも司令　[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]の疲労感を取り除くには\n食事じゃ効果ないと思いますけど[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087501_MSG0012",
+      "style": 0,
+      "name": "気の持ちようだよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087501_MSG0013",
+      "style": 0,
+      "name": "なんせ　兵器の開発とか仕切ってると\nどうも気がささくれ立ってくるようでなぁ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087501_MSG0014",
+      "style": 0,
+      "name": "兵器開発！？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087501_MSG0015",
+      "style": 0,
+      "name": "司令　そういうことなら\n私にもお手伝いさせてください[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev087501_MSG0016",
+      "style": 0,
+      "name": "ああ　そうか\nお前さん　こういう類の話に興味が[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev087501_MSG0017",
+      "style": 0,
+      "name": "しんしんです！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev087501_MSG0018",
+      "style": 0,
+      "name": "よっしゃ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev087501_MSG0018_2",
+      "style": 0,
+      "name": "じゃあ　この件は俺からの依頼として\n相談に乗ってもらおうか[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev087501_MSG0019",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    }
+  ]
+}

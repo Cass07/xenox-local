@@ -1,0 +1,402 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev096102_MSG0001",
+      "style": 1,
+      "name": "ヴァンダム司令官から話は聞いている\nドールライセンスの試験だな？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev096102_MSG0002",
+      "style": 1,
+      "name": "8つの認定試験終了証は持ってきたか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev096102_MSG0003",
+      "style": 1,
+      "name": "すべて揃っているな\nよくやった[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev096102_MSG0004",
+      "style": 1,
+      "name": "では最終試験を行う[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev096102_MSG0005",
+      "style": 1,
+      "name": "だがあまり気を張る必要はない\n簡単な口頭試問だ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev096102_MSG0006",
+      "style": 1,
+      "name": "貴様は8つのユニオンの任務をこなしてきた[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev096102_MSG0007",
+      "style": 1,
+      "name": "これには意味があったんだが　なんだと思う？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev096102_JNK0010",
+      "style": 4,
+      "name": "推測する"
+    },
+    {
+      "$id": 9,
+      "label": "qev096102_SEL0011",
+      "style": 3,
+      "name": "各ユニオンの役割を\n一層知るため"
+    },
+    {
+      "$id": 10,
+      "label": "qev096102_JNK0020",
+      "style": 4,
+      "name": "邪推する"
+    },
+    {
+      "$id": 11,
+      "label": "qev096102_SEL0021",
+      "style": 3,
+      "name": "司令官の嫌がらせ？"
+    },
+    {
+      "$id": 12,
+      "label": "qev096102_MSG0008",
+      "style": 1,
+      "name": "そうだな[ST:wide ]―\n貴様は8つのユニオンの特色を今一度理解した[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev096102_MSG0009",
+      "style": 1,
+      "name": "ドールをいかに用いれば　貢献できるかを想像\nできるようになっただろう[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev096102_MSG0010",
+      "style": 1,
+      "name": "私もしょっちゅうあの人の無茶に\n付き合わされているが　\n決して嫌がらせではないぞ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev096102_MSG0011",
+      "style": 1,
+      "name": "貴様は8つのユニオンの特色を\n今一度理解しただろう？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev096102_MSG0012",
+      "style": 1,
+      "name": "ドールをいかに用いれば　貢献できるかを\n想像できるようになったはずだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev096102_MSG0013",
+      "style": 1,
+      "name": "そしてもう一つ理由はある[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev096102_MSG0014",
+      "style": 1,
+      "name": "それぞれのユニオンにドールの数が\n十分あるわけでもない[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev096102_MSG0015",
+      "style": 1,
+      "name": "時には　協力し合って任務を達成しなければ\nならない事態も起こるだろう[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev096102_MSG0016",
+      "style": 1,
+      "name": "その際　互いのユニオンの役割を\n理解し合ったうえでドールを\n運用してもらいたいのだ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev096102_MSG0017",
+      "style": 1,
+      "name": "分かったか？[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev096102_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 23,
+      "label": "qev096102_SEL0031",
+      "style": 3,
+      "name": "分かったと頷く"
+    },
+    {
+      "$id": 24,
+      "label": "qev096102_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 25,
+      "label": "qev096102_SEL0041",
+      "style": 3,
+      "name": "わからないと首を振る"
+    },
+    {
+      "$id": 26,
+      "label": "qev096102_MSG0018",
+      "style": 1,
+      "name": "分からなかったか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev096102_MSG0019",
+      "style": 1,
+      "name": "仕方ない　もう一度説明だ\n貴様が理解するまで延々と続けるぞ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev096102_MSG0020",
+      "style": 1,
+      "name": "一人前でないブレイドがドールを\n所持することは許可できんからな[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev096102_MSG0021",
+      "style": 1,
+      "name": "8つのユニオンには特色がある[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev096102_MSG0022",
+      "style": 1,
+      "name": "貴様が8つの試験を受けて理解しただろうが\n任務も役割もそれぞれ異なるわけだ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev096102_MSG0023",
+      "style": 1,
+      "name": "となれば　もちろんドールの役割も\n変わってくる[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev096102_MSG0024",
+      "style": 1,
+      "name": "ユニオンの特色にあった運用を\n心掛けてほしいのだ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev096102_MSG0025",
+      "style": 1,
+      "name": "そしてもう一つ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev096102_MSG0026",
+      "style": 1,
+      "name": "ドールの数は限られている[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev096102_MSG0027",
+      "style": 1,
+      "name": "協力し合い任務を遂行すべきこともあるだろう[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev096102_MSG0028",
+      "style": 1,
+      "name": "その時にお互いの役割を知っていると連携も\n容易く　成果を上げやすいというわけだ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev096102_MSG0029",
+      "style": 1,
+      "name": "分かったか？[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev096102_JNK0050",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 39,
+      "label": "qev096102_SEL0051",
+      "style": 3,
+      "name": "分かったと頷く"
+    },
+    {
+      "$id": 40,
+      "label": "qev096102_JNK0060",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 41,
+      "label": "qev096102_SEL0061",
+      "style": 3,
+      "name": "まだわからないと首を振る"
+    },
+    {
+      "$id": 42,
+      "label": "qev096102_MSG0030",
+      "style": 1,
+      "name": "よろしい\nこれで貴様はドールを所持する権利を得た[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev096102_MSG0031",
+      "style": 1,
+      "name": "ドールライセンスを交付しよう[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev096102_MSG0032",
+      "style": 1,
+      "name": "そして　ヴァンダム司令の計らいにより\n貴様にはドールも与えられる[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev096102_MSG0033",
+      "style": 1,
+      "name": "奥のドールハンガーに駐機させてあるから\n早速　乗っていくがいい[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev096102_JNK0070",
+      "style": 4,
+      "name": "感謝"
+    },
+    {
+      "$id": 47,
+      "label": "qev096102_SEL0071",
+      "style": 3,
+      "name": "お礼を言う"
+    },
+    {
+      "$id": 48,
+      "label": "qev096102_JNK0080",
+      "style": 4,
+      "name": "挑戦"
+    },
+    {
+      "$id": 49,
+      "label": "qev096102_SEL0081",
+      "style": 3,
+      "name": "人数分用意してほしいと\nねだる"
+    },
+    {
+      "$id": 50,
+      "label": "qev096102_MSG0034",
+      "style": 1,
+      "name": "私は任務をこなしたまでだ\n礼ならヴァンダム司令に言うべきだな[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev096102_MSG0035",
+      "style": 1,
+      "name": "貴様には期待しているのだろう\n新人に無償でドールを与えるなんて\n過去滅多にないことだからな[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev096102_MSG0036",
+      "style": 1,
+      "name": "貴様の活躍を楽しみにしているぞ[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev096102_MSG0037",
+      "style": 1,
+      "name": "なかなか厚かましいな[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev096102_MSG0038",
+      "style": 1,
+      "name": "このドールはヴァンダム司令の\nポケットマネーで用意されたものだ[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev096102_MSG0039",
+      "style": 1,
+      "name": "それなのにまったく[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev096102_MSG0040",
+      "style": 1,
+      "name": "人の厚意を無下にするヤツに\nライセンスは与えることはできん[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev096102_MSG0041",
+      "style": 1,
+      "name": "よって再試験だ！[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev096102_MSG0042",
+      "style": 1,
+      "name": "もう一度最初からやり直してもらうからな！[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev096102_MSG0043",
+      "style": 1,
+      "name": "いや　それだけでは足りないな\n100時間の座学も受けてもらおうか[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev096102_MSG0044",
+      "style": 1,
+      "name": "[ST:wide ]―なんてな[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev096102_MSG0045",
+      "style": 1,
+      "name": "司令が聞いていたら泣くぞ\n言葉には気をつけろ[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev096102_MSG0046",
+      "style": 1,
+      "name": "理解したなら　さっさとドールに乗れ\nヴァンダム司令も私も貴様には\n期待しているのだからな[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev096102_MSG0047",
+      "style": 1,
+      "name": "ドールを乗りこなして\nブレイドとして活躍してみせてくれ[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev096102_MSG0048",
+      "style": 1,
+      "name": "さぁ　ハンガーの奥へと進め\nお前のドールが　主の到着を待っているぞ[ST:wait ]"
+    }
+  ]
+}

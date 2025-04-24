@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev096101_MSG0001",
+      "style": 1,
+      "name": "어떤가?\n블레이드 생활에는 익숙해졌나?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev096101_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 3,
+      "label": "qev096101_SEL0011",
+      "style": 3,
+      "name": "충분히 익숙해졌다고 대답한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev096101_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 5,
+      "label": "qev096101_SEL0021",
+      "style": 3,
+      "name": "아직 익숙하지 않다고 대답한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev096101_JNK0030",
+      "style": 4,
+      "name": "불평"
+    },
+    {
+      "$id": 7,
+      "label": "qev096101_SEL0031",
+      "style": 3,
+      "name": "엘마가 너무 엄격하다고 농담한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev096101_MSG0002",
+      "style": 1,
+      "name": "좋아, 좋아[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev096101_MSG0003",
+      "style": 1,
+      "name": "가혹한 임무가 많았겠지만\n자네는 잘하고 있다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev096101_MSG0004",
+      "style": 1,
+      "name": "그렇군……\n아직 익숙해지진 않은 건가[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev096101_MSG0005",
+      "style": 1,
+      "name": "하지만 원시 생물의 공격으로 죽는 녀석도 있거니와\n힘겨운 임무 끝에 마음이 꺾이는 녀석도 있네……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev096101_MSG0006",
+      "style": 1,
+      "name": "그에 비하면 자네 적응력은 충분해\n잘하고 있다는 뜻이다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev096101_MSG0007",
+      "style": 1,
+      "name": "크핫핫![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev096101_MSG0008",
+      "style": 1,
+      "name": "엘마와도 사이좋게 지내는 것 같아 다행이군[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev096101_MSG0009",
+      "style": 1,
+      "name": "이미 충분히 블레이드에도\n이 별에도 적응한 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev096101_MSG0010",
+      "style": 1,
+      "name": "그건 그렇고 걱정거리든 요청이든\n내게 하고 싶은 말은 없나?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev096101_MSG0011",
+      "style": 1,
+      "name": "아니, 딱히 오늘 기분이 좋아서\n챙겨 주려는 건 아닐세[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev096101_MSG0012",
+      "style": 1,
+      "name": "블레이드 사령관으로서 부하가 어떤 상황인지\n확실하게 파악해 두는 것도 일이라서 말이지[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev096101_MSG0013",
+      "style": 1,
+      "name": "아무튼, 할 말 없나?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev096101_JNK0040",
+      "style": 4,
+      "name": "쉬운 요청"
+    },
+    {
+      "$id": 21,
+      "label": "qev096101_SEL0041",
+      "style": 3,
+      "name": "다음 퀘스트의 보수를\n2배로 달라고 요구한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev096101_JNK0050",
+      "style": 4,
+      "name": "어려운 요청"
+    },
+    {
+      "$id": 23,
+      "label": "qev096101_SEL0051",
+      "style": 3,
+      "name": "돌에 타고 싶다고 탄원한다"
+    },
+    {
+      "$id": 24,
+      "label": "qev096101_JNK0060",
+      "style": 4,
+      "name": "지금처럼만"
+    },
+    {
+      "$id": 25,
+      "label": "qev096101_SEL0061",
+      "style": 3,
+      "name": "아무 불만도 없다며 강하게 끄덕인다"
+    },
+    {
+      "$id": 26,
+      "label": "qev096101_MSG0014",
+      "style": 1,
+      "name": "좋아, 알겠네[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev096101_MSG0015",
+      "style": 1,
+      "name": "보수를 2배로 주겠네[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev096101_MSG0016",
+      "style": 1,
+      "name": "대신, 2배로 위험한 고난도 임무를 맡기지[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev096101_MSG0017",
+      "style": 1,
+      "name": "크핫핫![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev096101_MSG0018",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "qev096101_MSG0019",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev096101_MSG0020",
+      "style": 1,
+      "name": "……그냥 농담한 걸세[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev096101_MSG0021",
+      "style": 1,
+      "name": "그보다 어째서 돈을 원하는 거지?\n돌이라도 새로 장만하려는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev096101_MSG0022",
+      "style": 1,
+      "name": "……아니, 잠깐만[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev096101_MSG0023",
+      "style": 1,
+      "name": "……애초에 돌을 가지고 있지 않았군[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev096101_MSG0024",
+      "style": 1,
+      "name": "아니, 돌은커녕\n돌 라이선스조차도 없지 않나[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev096101_MSG0025",
+      "style": 1,
+      "name": "이런, 미안하다\n내가 신경을 못 썼군[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev096101_MSG0026",
+      "style": 1,
+      "name": "자네 실력에 돌이 추가되면\n날개 달린 호랑이일 텐데 말일세[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev096101_MSG0027",
+      "style": 1,
+      "name": "서둘러 돌 라이선스를\n취득하라고 할 걸 그랬어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev096101_MSG0028",
+      "style": 1,
+      "name": "없는 것보다는 있는 편이 좋지 않겠나?\n이 기회에 따 두게나, 알았지?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev096101_MSG0029",
+      "style": 1,
+      "name": "오오! 그렇군![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev096101_MSG0030",
+      "style": 1,
+      "name": "그러고 보니\n자네는 돌이 없었던 것 같네만[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev096101_MSG0031",
+      "style": 1,
+      "name": "아니, 돌은커녕\n돌 라이선스조차도 없지 않나[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev096101_MSG0032",
+      "style": 1,
+      "name": "이런, 미안하다\n내가 신경을 못 썼군[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev096101_MSG0033",
+      "style": 1,
+      "name": "돌을 타기 위해서는\n돌 라이선스가 필요해[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev096101_MSG0034",
+      "style": 1,
+      "name": "일정 수준의 역량과 실적을 가진\n블레이드에게만 허가하고 있지[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev096101_MSG0035",
+      "style": 1,
+      "name": "자네 실적을 생각해 보면\n그냥 줘도 괜찮을 정도지만\n전통적인 규칙이라는 게 있거든[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev096101_MSG0036",
+      "style": 1,
+      "name": "일단 라이선스 시험을 통과하게나[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev096101_MSG0037",
+      "style": 1,
+      "name": "크핫핫\n정말이지 욕심 없는 녀석이군[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev096101_MSG0038",
+      "style": 1,
+      "name": "하지만 하고 싶은 말이 있을 때는\n사양하지 말고 말하는 게 어떤가?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev096101_MSG0039",
+      "style": 1,
+      "name": "임무에는 늘 죽음이 따라다닌다네[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev096101_MSG0040",
+      "style": 1,
+      "name": "망설임이나 준비 부족…… 한 번의 실수로\n지옥을 보게 될지도 모르는 법이지[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev096101_MSG0041",
+      "style": 1,
+      "name": "설령 돌을 타고 있더라도 말일세[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev096101_MSG0042",
+      "style": 1,
+      "name": "……그러고 보니 자네는\n돌을 가지고 있지 않았지?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev096101_MSG0043",
+      "style": 1,
+      "name": "아니, 돌은커녕\n돌 라이선스조차도 없지 않나[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev096101_MSG0044",
+      "style": 1,
+      "name": "이런, 미안하다\n내가 신경을 못 썼군[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev096101_MSG0045",
+      "style": 1,
+      "name": "자네 실력에 돌이 추가되면\n날개 달린 호랑이일 텐데 말일세[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev096101_MSG0046",
+      "style": 1,
+      "name": "서둘러 돌 라이선스를\n취득하라고 할 걸 그랬어[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev096101_MSG0047",
+      "style": 1,
+      "name": "없는 것보다는 있는 편이 좋지 않겠나?\n이 기회에 따 두게나, 알았지?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev096101_MSG0048",
+      "style": 1,
+      "name": "8개의 합격 증명서를 획득하면\n격납고에 있는 월터에게 가서\n보고하도록 하게[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev096101_MSG0049",
+      "style": 1,
+      "name": "거기서 최종 시험에 합격하면\n정식으로 돌 조종사가 될 수 있다\n기대되지 않나?[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev096101_MSG0050",
+      "style": 1,
+      "name": "자네가 돌 조종사가 된다는 건\n블레이드에 있어서도 상당한 이득이지[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev096101_MSG0051",
+      "style": 1,
+      "name": "그러니 기대하고 있겠네![ST:wait ]"
+    }
+  ]
+}

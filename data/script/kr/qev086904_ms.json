@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086904_MSG0001",
+      "style": 0,
+      "name": "이 정도 양이면 이제 슬슬\n공사를 재개할 수 있지 않을까?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086904_MSG0002",
+      "style": 0,
+      "name": "네, 여러분 덕분이에요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086904_MSG0003",
+      "style": 0,
+      "name": "세리카 씨는 록 씨를\n정말 소중하게 생각하시네요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086904_MSG0004",
+      "style": 0,
+      "name": "록은 저에게 가장 소중한 가족이니까요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086904_MSG0005",
+      "style": 0,
+      "name": "하지만 록이 전에 말했었다모[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086904_MSG0006",
+      "style": 0,
+      "name": "그로우스와 함께\n세리카 씨의 고향에 나쁜 짓을 했다고[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086904_MSG0007",
+      "style": 0,
+      "name": "세리카 씨, 록에게 화나지 않았어모?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086904_MSG0008",
+      "style": 0,
+      "name": "타츠, 쓸데없는 거 묻지 마[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086904_MSG0009",
+      "style": 0,
+      "name": "그렇구나, 록이 그 이야기를 했군요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086904_MSG0010",
+      "style": 0,
+      "name": "미안해, 세리카[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086904_MSG0011",
+      "style": 0,
+      "name": "괜찮아요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086904_MSG0012",
+      "style": 0,
+      "name": "그만큼 록이 여러분을\n믿는다는 뜻이니까요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086904_MSG0013",
+      "style": 0,
+      "name": "록은 그로우스가 만들어 낸\n생체 병기였어요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086904_MSG0015",
+      "style": 0,
+      "name": "제 고향이 그로우스에게 습격당했을 때\n록의 형제들이 많은 사람을 죽였어요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086904_MSG0016",
+      "style": 0,
+      "name": "하지만 전쟁 중에 다정한 마음에 눈뜬 록은\n저를 구해 줬어요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086904_MSG0017",
+      "style": 0,
+      "name": "그런 일이 있었군요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086904_MSG0018",
+      "style": 0,
+      "name": "그래서 너는\n록을 싸우게 하고 싶지 않았던 거구나[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086904_JNK0010",
+      "style": 4,
+      "name": "칭찬"
+    },
+    {
+      "$id": 19,
+      "label": "qev086904_SEL0011",
+      "style": 3,
+      "name": "세리카의 배려를 칭찬한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev086904_JNK0020",
+      "style": 4,
+      "name": "비정"
+    },
+    {
+      "$id": 21,
+      "label": "qev086904_SEL0021",
+      "style": 3,
+      "name": "록의 전투력을 기대한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev086904_MSG0019",
+      "style": 0,
+      "name": "나도 같은 의견이야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086904_MSG0020",
+      "style": 0,
+      "name": "세리카 덕분에 록은 싸우는 게 아닌\n다른 삶의 방식을 발견할 수 있었으니까[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086904_MSG0021",
+      "style": 0,
+      "name": "여러분……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086904_MSG0022",
+      "style": 0,
+      "name": "록이 싸웠으면 한다는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086904_MSG0023",
+      "style": 0,
+      "name": "믿을 수가 없네요!\n무슨 말을 하는 건가요![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086904_MSG0023_m",
+      "style": 0,
+      "name": "믿을 수가 없네요!\n무슨 말을 하는 건가요![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086904_MSG0023_f",
+      "style": 0,
+      "name": "믿을 수가 없네요!\n무슨 말을 하는 건가요![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086904_MSG0024",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "qev086904_MSG0025",
+      "style": 0,
+      "name": "자, 빨리 에어로지움을 가져가서\n다시 공사를 시작할 수 있게 해 주자모[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086904_MSG0026",
+      "style": 0,
+      "name": "그럼 록도 기뻐할 거다모![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086904_MSG0027",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086904_MSG0028",
+      "style": 0,
+      "name": "엘마 씨, 저기![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086904_MSG0029",
+      "style": 0,
+      "name": "여기서 요격한다[ST:wait ]"
+    }
+  ]
+}

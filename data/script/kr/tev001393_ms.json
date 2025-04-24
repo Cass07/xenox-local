@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001393_MSG0001",
+      "style": 1,
+      "name": "안녕하세요, [ST:playername ] 씨\n쇼핑 중인가요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001393_MSG0002",
+      "style": 1,
+      "name": "저와 록은 시간이 생겨서\n상업 에어리어를 산책하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001393_MSG0003",
+      "style": 1,
+      "name": "[ST:playername ] 씨가 추천하는\n재밌는 가게가 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001393_MSG0004",
+      "style": 1,
+      "name": "아, 식당은 빼 주세요……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001393_MSG0005",
+      "style": 1,
+      "name": "록은 많이 먹으니까\n식사는 집에서 하기로 했거든요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001393_JNK0010",
+      "style": 4,
+      "name": "옷 가게"
+    },
+    {
+      "$id": 7,
+      "label": "tev001393_SEL0011",
+      "style": 3,
+      "name": "옷 가게를 추천한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001393_JNK0020",
+      "style": 4,
+      "name": "루의 가게"
+    },
+    {
+      "$id": 9,
+      "label": "tev001393_SEL0021",
+      "style": 3,
+      "name": "루의 가게를 추천한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001393_JNK0030",
+      "style": 4,
+      "name": "장난감 가게"
+    },
+    {
+      "$id": 11,
+      "label": "tev001393_SEL0031",
+      "style": 3,
+      "name": "장난감 가게를 추천한다"
+    },
+    {
+      "$id": 12,
+      "label": "tev001393_MSG0006",
+      "style": 1,
+      "name": "지구인분들은 다들 멋쟁이세요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001393_MSG0007",
+      "style": 1,
+      "name": "가게 창문으로 보이는 옷도 전부 멋져서\n구경만 해도 즐거워요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001393_MSG0008",
+      "style": 1,
+      "name": "저도 한번 입어 보고 싶기는 하지만……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001393_JNK0040",
+      "style": 4,
+      "name": "권유"
+    },
+    {
+      "$id": 16,
+      "label": "tev001393_SEL0041",
+      "style": 3,
+      "name": "분명 어울릴 거라고 권한다"
+    },
+    {
+      "$id": 17,
+      "label": "tev001393_JNK0050",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 18,
+      "label": "tev001393_SEL0051",
+      "style": 3,
+      "name": "록과 맞춰 입을 옷이 없어\n걱정하고 있는지 묻는다"
+    },
+    {
+      "$id": 19,
+      "label": "tev001393_MSG0009",
+      "style": 1,
+      "name": "그럴까요……?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001393_MSG0010",
+      "style": 1,
+      "name": "제게 딱 맞는 사이즈의 옷이\n있으면 좋겠는데……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001393_MSG0011",
+      "style": 1,
+      "name": "그리고 가게에 혼자 들어가는 것도 걱정돼요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001393_MSG0012",
+      "style": 1,
+      "name": "록은 함께 들어갈 수 없고……\n저 혼자서는 어떻게 해야 좋을지……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001393_MSG0013",
+      "style": 1,
+      "name": "그래도 다음에 린 씨도 불러서\n함께 가고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001393_MSG0014",
+      "style": 1,
+      "name": "그때는 [ST:playername ] 씨도\n함께 와 주세요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001393_MSG0015",
+      "style": 1,
+      "name": "그, 그건 걱정하지 않아요~![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001393_MSG0016",
+      "style": 1,
+      "name": "록과 맞춰 입으려면 외투만 입어야 하잖아요?\n부끄럽단 말이에요……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001393_MSG0017",
+      "style": 1,
+      "name": "제가 걱정한 건\n혼자 가게에 들어가는 거예요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001393_MSG0018",
+      "style": 1,
+      "name": "록은 함께 들어갈 수 없고……\n저 혼자서는 어떻게 해야 좋을지……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001393_MSG0019",
+      "style": 1,
+      "name": "그래도 다음에 린 씨도 불러서\n함께 가고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001393_MSG0020",
+      "style": 1,
+      "name": "그때는 [ST:playername ] 씨도\n함께 와 주세요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001393_MSG0021",
+      "style": 1,
+      "name": "루 씨네 가게 말인가요?\n몇 번 방문한 적 있어요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001393_MSG0022",
+      "style": 1,
+      "name": "재밌는 물건이 많죠?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001393_MSG0023",
+      "style": 1,
+      "name": "스타플 전용 껍질 까는 기구가 있어서 놀랐어요\n그런데 사과나 감자 껍질은\n벗길 수 없다나 봐요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001393_MSG0024",
+      "style": 1,
+      "name": "범용성이 없어서 전혀 팔리질 않는다고\n루 씨가 곤란해했어요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001393_MSG0025",
+      "style": 1,
+      "name": "그 외에도 록렌지 탐색기라든가\n유랑 개미 관찰 일기라든가\n이상한 게 잔뜩 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001393_MSG0026",
+      "style": 1,
+      "name": "신상품이 나오면 다시 루 씨와\n수다 떨러 가고 싶네요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001393_MSG0027",
+      "style": 1,
+      "name": "지구제 장남감은 아직 본 적 없어요\n재밌을 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001393_MSG0028",
+      "style": 1,
+      "name": "그런데 이 도시에는 아이가 없잖아요?\n어른용 장난감인가요?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001393_MSG0029",
+      "style": 1,
+      "name": "아니면 노폰인이나 마 논인용?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001393_MSG0030",
+      "style": 1,
+      "name": "……굉장히 흥미가 생겼어요[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001393_MSG0031",
+      "style": 1,
+      "name": "록과 함께 가지고 놀 만한 게\n있다면 좋겠는데……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001393_MSG0032",
+      "style": 1,
+      "name": "바로 보러 가 볼게요[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001393_MSG0033",
+      "style": 1,
+      "name": "……그러고 보니 어디에 있다고 했죠?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001393_JNK0060",
+      "style": 4,
+      "name": "상업 에어리어 남쪽"
+    },
+    {
+      "$id": 45,
+      "label": "tev001393_SEL0061",
+      "style": 3,
+      "name": "노스 제1스트리트에 있다고 알려 준다"
+    },
+    {
+      "$id": 46,
+      "label": "tev001393_JNK0070",
+      "style": 4,
+      "name": "상업 에어리어 북쪽"
+    },
+    {
+      "$id": 47,
+      "label": "tev001393_SEL0071",
+      "style": 3,
+      "name": "모비 스트리트 북쪽에 있다고 알려 준다"
+    },
+    {
+      "$id": 48,
+      "label": "tev001393_MSG0034",
+      "style": 1,
+      "name": "노스 제1스트리트군요\n알겠어요, 감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001393_MSG0035",
+      "style": 1,
+      "name": "모비 스트리트 북쪽이군요\n알겠어요, 감사합니다[ST:wait ]"
+    }
+  ]
+}

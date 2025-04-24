@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001594_MSG0001",
+      "style": 1,
+      "name": "어머, [ST:playername ]\n의외라는 표정이네?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001594_MSG0002",
+      "style": 1,
+      "name": "나 역시 동물을 예뻐하기도 한다고[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001594_MSG0003",
+      "style": 1,
+      "name": "평소 변변치 않은 쓰레기들과\n장난질이나 하러 다니니까\n가끔 이런 편안함도 필요하거든[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001594_MSG0004",
+      "style": 1,
+      "name": "아니면 이런 잡종을 예뻐하는 건\n나랑 안 어울리나?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001594_JNK0010",
+      "style": 4,
+      "name": "긍정[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001594_SEL0011",
+      "style": 3,
+      "name": "머더레스에게는\n기품 있는 고양이가 어울린다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001594_JNK0020",
+      "style": 4,
+      "name": "부정[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001594_SEL0021",
+      "style": 3,
+      "name": "머더레스에게는\n길고양이가 어울린다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001594_MSG0010",
+      "style": 1,
+      "name": "맞아, 혈통서가 있는\n우월한 고급 고양이가 좋아[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001594_MSG0011",
+      "style": 1,
+      "name": "……라고 할 줄 알았지?\n어릴 때는 그렇게 생각했지만\n지금은 그렇지도 않아[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001594_MSG0012",
+      "style": 1,
+      "name": "나에게 보조를 맞출 수 있는 펫이 좋아[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001594_MSG0013",
+      "style": 1,
+      "name": "비싸든 싸든 상관없어\n나에게 맞춰 주는 아이를 예뻐해 주고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001594_MSG0014",
+      "style": 1,
+      "name": "그래서 내 성격으로는\n고양이보다 강아지가 좋은데……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001594_MSG0016",
+      "style": 1,
+      "name": "지금의 나에게는 딱 맞을지도 모르겠네[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001594_MSG0017",
+      "style": 1,
+      "name": "하지만 길고양이는\n날 서운하게 할 거야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001594_MSG0018",
+      "style": 1,
+      "name": "집으로 돌아왔는데\n훌쩍 어디론가 가 버려서 안 보이면\n걱정하게 될 거 아냐[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001594_MSG0019",
+      "style": 1,
+      "name": "그래서 나는\n강아지가 더 좋기는 하지만……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001594_MSG0021",
+      "style": 1,
+      "name": "결국 나는 종복이\n필요할 뿐인지도 모르겠네[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001594_JNK0030",
+      "style": 4,
+      "name": "지적[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001594_SEL0031",
+      "style": 3,
+      "name": "에핀저 가문을 부흥시키려는 것도\n그것 때문인지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001594_JNK0040",
+      "style": 4,
+      "name": "제안[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001594_SEL0041",
+      "style": 3,
+      "name": "그렇다면 내가……라며 입후보한다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001594_MSG0027",
+      "style": 1,
+      "name": "그렇지……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001594_MSG0028",
+      "style": 1,
+      "name": "가문을 부흥시킨다는 건\n권위를 되찾는다는 것[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001594_MSG0029",
+      "style": 1,
+      "name": "누군가에게 존경받으며 두려움의 대상이 되어야\n비로소 부흥했다고 말할 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001594_MSG0030",
+      "style": 1,
+      "name": "그러니까 내가 종복을 원하는 건 필연이야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001594_MSG0031",
+      "style": 1,
+      "name": "언젠가 네가 종복이 되게 해 달라고\n간절히 빌게 만들어 주겠어[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001594_MSG0032",
+      "style": 1,
+      "name": "……농담이야\n그러면 나는 블레이드 에어리어로 돌아갈게[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001594_MSG0035",
+      "style": 1,
+      "name": "그렇게 말해 줄 것 같았어[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001594_MSG0036",
+      "style": 1,
+      "name": "나에게 집이 생기면 들어와서 일하도록 해[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001594_MSG0037",
+      "style": 1,
+      "name": "임무가 있을 땐 같이 가자[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001594_MSG0038",
+      "style": 1,
+      "name": "……농담이지만 그렇게 말해 주는 건 기쁘네\n고마워[ST:wait ]"
+    }
+  ]
+}

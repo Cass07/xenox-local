@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06010100_MSG0090",
+      "style": 0,
+      "name": "뭘 하고 있나!\n응전해…… 가까이 오게 하지 마![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06010100_MSG0001",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "xs06010100_MSG0001_02",
+      "style": 0,
+      "name": "돌 부대로도 무력한 것이냐[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06010100_MSG0002",
+      "style": 0,
+      "name": "이 이상은 병사의 목숨을\n헛되이 할 뿐인 것 같습니다만[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06010100_MSG0003",
+      "style": 0,
+      "name": "겨우 그분에게 이르는 단서를 발견했는데[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs06010100_MSG0004",
+      "style": 0,
+      "name": "하지만 이 행성을 둘러싸고 있는 우주는\n직경 800에그제데[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs06010100_MSG0005",
+      "style": 0,
+      "name": "광속으로 3일이면 사상 공간을\n한 바퀴 돌 수 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs06010100_MSG0006",
+      "style": 0,
+      "name": "서멀 성간 연합의 본국도 그분도\n이 우주 어디에도 없는 것 아닐까요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06010100_MSG0007",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "xs06010100_MSG0008",
+      "style": 0,
+      "name": "지구인가 하는 은하 변두리에서\n녀석들과 전쟁을 하는 것까진 좋았지만[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs06010100_MSG0009",
+      "style": 0,
+      "name": "정체를 알 수 없는 빛에 둘러싸여\n정신을 차려 보니 이 원시 행성 위[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs06010100_MSG0010",
+      "style": 0,
+      "name": "게다가 지구인까지 있는 지경이라니[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs06010100_MSG0011",
+      "style": 0,
+      "name": "여기가 저세상이라고 해도\n전 믿을 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs06010100_MSG0012",
+      "style": 0,
+      "name": "오히려 그렇기 때문이다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs06010100_MSG0013",
+      "style": 0,
+      "name": "사상의 한계를 넘기 위해서라도\n그것을 손에 넣어야만 한다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs06010100_MSG0014",
+      "style": 0,
+      "name": "루크자르 님[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs06010100_MSG0015",
+      "style": 0,
+      "name": "뭐냐[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs06010100_MSG0016",
+      "style": 0,
+      "name": "사실은……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs06010100_MSG0017",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "xs06010100_MSG0018",
+      "style": 0,
+      "name": "그런 자가 있다니[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs06010100_MSG0019",
+      "style": 0,
+      "name": "재미있군[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs06010100_MSG0020",
+      "style": 0,
+      "name": "그 방책을 따라 보는 것도 흥미롭겠어[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs06010100_MSG9000",
+      "style": 0,
+      "name": "~ 그로우스 기함 ~[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086101_MSG0001",
+      "style": 0,
+      "name": "왜 그래?\n요즘 자주 생각에 잠겨 있는 것 같은데[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086101_JNK0010",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 3,
+      "label": "qev086101_SEL0011",
+      "style": 3,
+      "name": "고민이 있느냐고 묻는다"
+    },
+    {
+      "$id": 4,
+      "label": "qev086101_JNK0020",
+      "style": 4,
+      "name": "걱정"
+    },
+    {
+      "$id": 5,
+      "label": "qev086101_MSG0011",
+      "style": 0,
+      "name": "몸 상태라도 안 좋은 거냐고 걱정한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev086101_MSG0002",
+      "style": 0,
+      "name": "아, 죄송해요\n두 분에게도 그렇게 보였나요?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086101_MSG0003",
+      "style": 0,
+      "name": "그런 건 아니에요……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086101_MSG0004",
+      "style": 0,
+      "name": "몸보다는 마음의 문제인가 보네[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086101_MSG0005",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086101_MSG0006",
+      "style": 0,
+      "name": "……잠깐 밖에서 이야기할 수 있을까요?[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08170100_MSG0001",
+      "style": 0,
+      "name": "おお　あの方をお迎えする器が\n今　我がもとに！[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs08170100_MSG0002",
+      "style": 0,
+      "name": "どうか　どうかこの惑星に降誕し\n私をお導きくださいませ[ST:wide ]―！！[ST:wait ]"
+    }
+  ]
+}

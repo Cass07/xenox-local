@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs09040100_MSG0001",
+      "style": 0,
+      "name": "오늘은 좋은 보고가 들어왔다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs09040100_MSG0002",
+      "style": 0,
+      "name": "또 찾아냈어, 라이프 포인트를 말이지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs09040100_MSG0003",
+      "style": 0,
+      "name": "정말인가요!? 만세![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs09040100_MSG0004",
+      "style": 0,
+      "name": "잘됐다모~\n정말 잘됐다모~![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs09040100_MSG0005",
+      "style": 0,
+      "name": "이번 임무는 그 라이프 포인트에 가서\n선행 조사를 진행하는 걸세[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs09040100_MSG0006",
+      "style": 0,
+      "name": "좌표 에어리어는 NLA 북쪽\n통칭, 백목의 대륙이다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs09040100_MSG0007",
+      "style": 0,
+      "name": "하지만 백목의 대륙이라면\n최근 예비 조사 결과에서[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs09040100_MSG0008",
+      "style": 0,
+      "name": "그로우스의 세력 범위일 가능성이\n높은 걸로 나왔는데요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs09040100_MSG0009",
+      "style": 0,
+      "name": "그 말대로다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs09040100_MSG0010",
+      "style": 0,
+      "name": "그렇기에 전투력이 높은 팀에게\n임무를 맡기려는 거지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs09040100_MSG0011",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs09040100_MSG0012",
+      "style": 0,
+      "name": "누군가는 해야 하는 일이야\n바로 진행할게[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs09040100_MSG0013",
+      "style": 0,
+      "name": "미안하군, 덕분에 살았다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs09040100_MSG0014",
+      "style": 0,
+      "name": "실은 선발대로 이미\n라오 팀을 보냈다네[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs09040100_MSG0015",
+      "style": 0,
+      "name": "여기서 녀석들과 합류해 줘\n부탁함세[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs09040100_MSG0016",
+      "style": 0,
+      "name": "가동 시간도 얼마 남지 않았어\n이번 것이 최우선 목표물이라면 고마울 텐데[ST:wait ]"
+    }
+  ]
+}

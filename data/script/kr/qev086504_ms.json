@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086504_MSG0001",
+      "style": 0,
+      "name": "엄마![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086504_MSG0002",
+      "style": 0,
+      "name": "타츠![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086504_MSG0003",
+      "style": 0,
+      "name": "고마워요모!\n여러분 덕분에 살았어요모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086504_MSG0004",
+      "style": 0,
+      "name": "그런데 엄마\n커다란 물고기는 어떻게 됐어모?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086504_MSG0005",
+      "style": 0,
+      "name": "그게 말이지모……\n방금 저 녀석이 먹어 버렸어모[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086504_MSG0006",
+      "style": 0,
+      "name": "으윽, 아깝다모[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086504_MSG0007",
+      "style": 0,
+      "name": "괜찮단다모, 그 대신에 물고기를 먹어 버린\n저 녀석을 가지고 갈 거니까모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086504_JNK0010",
+      "style": 4,
+      "name": "감탄"
+    },
+    {
+      "$id": 9,
+      "label": "qev086504_SEL0011",
+      "style": 3,
+      "name": "끄덕이며 엄마는 강하다고 중얼거린다"
+    },
+    {
+      "$id": 10,
+      "label": "qev086504_JNK0020",
+      "style": 4,
+      "name": "관심"
+    },
+    {
+      "$id": 11,
+      "label": "qev086504_SEL0021",
+      "style": 3,
+      "name": "그 녀석을 바라보며 침을 삼킨다"
+    },
+    {
+      "$id": 12,
+      "label": "qev086504_MSG0008",
+      "style": 0,
+      "name": "그러게요\n저희의 지원이 필요 없었을지도 모르겠어요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086504_MSG0009",
+      "style": 0,
+      "name": "저건……\n아직 조리해 본 적 없는 식재료네요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086504_MSG0010",
+      "style": 0,
+      "name": "다음에 요리할 테니 독은 없나 시식 부탁드려요![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086504_MSG0011",
+      "style": 0,
+      "name": "타츠, 너에게는 반담 사령관에게 지시받은\n임무가 있잖아?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086504_MSG0012",
+      "style": 0,
+      "name": "아, 그랬었지모![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086504_MSG0012_2",
+      "style": 0,
+      "name": "엄마[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086504_MSG0013",
+      "style": 0,
+      "name": "뉴 로스앤젤레스 임시 정부와\n도돈가 카라반이……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086504_MSG0014",
+      "style": 0,
+      "name": "우호 조약을\n체결했으면 한다모![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086504_MSG0015",
+      "style": 0,
+      "name": "우호 조약……이 뭐야모?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086504_MSG0016",
+      "style": 0,
+      "name": "저희 도시와 여러분의 카라반이\n사이좋게 지냈으면 한다는 거예요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086504_MSG0017",
+      "style": 0,
+      "name": "호오~ 그거 좋은 이야기네요모[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086504_MSG0018",
+      "style": 0,
+      "name": "그렇다면 친서에 사인해 줬으면 한다모![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086504_MSG0019",
+      "style": 0,
+      "name": "자, 사인했어모[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086504_MSG0020",
+      "style": 0,
+      "name": "이걸로 NLA와 도돈가 카라반은\n친구란다모![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086504_MSG0021",
+      "style": 0,
+      "name": "해냈다![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086504_MSG0022",
+      "style": 0,
+      "name": "조약을 체결해 줘서 고마워요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086504_MSG0023",
+      "style": 0,
+      "name": "자, 다음은 도리안 카라반이다모!\n빨리 조약을 체결하는 거다모![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086504_MSG0024",
+      "style": 0,
+      "name": "이걸로 임무를 달성했다모!\n반담 아저씨에게 보고하러 가자모![ST:wait ]"
+    }
+  ]
+}

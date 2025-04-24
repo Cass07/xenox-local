@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000391_MSG0001",
+      "style": 1,
+      "name": "よっ　[ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000391_MSG0002",
+      "style": 1,
+      "name": "一休みしようと思ってたんだが\nこんなところに犬がいやがるんだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000391_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 4,
+      "label": "tev000391_SEL0011",
+      "style": 3,
+      "name": "犬は嫌いなのかと尋ねる"
+    },
+    {
+      "$id": 5,
+      "label": "tev000391_JNK0020",
+      "style": 4,
+      "name": "謝罪"
+    },
+    {
+      "$id": 6,
+      "label": "tev000391_SEL0021",
+      "style": 3,
+      "name": "うちの犬が迷惑を掛けた\nと謝る"
+    },
+    {
+      "$id": 7,
+      "label": "tev000391_MSG0003",
+      "style": 1,
+      "name": "別段嫌いってわけじゃない[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000391_MSG0004",
+      "style": 1,
+      "name": "昔[ST:wide ]―俺がガキの頃　飼ってたからな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000391_MSG0005",
+      "style": 1,
+      "name": "だが　俺が大きくなる前に死んじまった[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000391_MSG0006",
+      "style": 1,
+      "name": "生を受けた限り\n死はいつかは来るもんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000391_MSG0011",
+      "style": 1,
+      "name": "どうしようもなかった自分の無力さが\n思い出される点では好きじゃないな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000391_MSG0012",
+      "style": 1,
+      "name": "お前のところの犬だったか\n道理で人懐っこいわけだ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000391_MSG0013",
+      "style": 1,
+      "name": "お前やリンが可愛がって\n大切にしているんだろうな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000391_MSG0014",
+      "style": 1,
+      "name": "俺の家も昔は犬を飼っててな\nけど　ガキの頃に死んじまったんだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000391_MSG0015",
+      "style": 1,
+      "name": "寿命に抗う術はないが　しかし\n何もしてやれなかったことを悔いてな[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000391_MSG0016",
+      "style": 1,
+      "name": "それ以来　犬を見ると　やるせなさが\n勝っちまうんだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000391_MSG0017",
+      "style": 1,
+      "name": "楽しかった時間が多いほど\n離れたときの絶望感は大きくなるもんだ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000391_MSG0018",
+      "style": 1,
+      "name": "お前もそう思わないか？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000391_JNK0030",
+      "style": 4,
+      "name": "同意"
+    },
+    {
+      "$id": 20,
+      "label": "tev000391_SEL0031",
+      "style": 3,
+      "name": "ラオの意見に賛同する"
+    },
+    {
+      "$id": 21,
+      "label": "tev000391_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 22,
+      "label": "tev000391_SEL0041",
+      "style": 3,
+      "name": "ラオの意見には賛同できない"
+    },
+    {
+      "$id": 23,
+      "label": "tev000391_MSG0019",
+      "style": 1,
+      "name": "だよな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000391_MSG0020",
+      "style": 1,
+      "name": "地球に残してきたヤツらのことを考えると\n俺は今でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000391_MSG0021",
+      "style": 1,
+      "name": "いや[ST:wide ]―この話はよそう\n朝っぱらからするもんじゃないよな[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000391_MSG0022",
+      "style": 1,
+      "name": "そうか[ST:wide ]―\nお前は記憶がないからか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000391_MSG0023",
+      "style": 1,
+      "name": "俺は地球に残してきたヤツらのことが\nいつでも脳裏によみがえる[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000391_MSG0024",
+      "style": 1,
+      "name": "あんなことは　もうあっちゃいけねぇって\n思うんだ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000391_MSG0029",
+      "style": 1,
+      "name": "さてと[ST:wide ]―\nここじゃのんびりと休めねぇし\nダイナーにでも行くかな[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000391_MSG0030",
+      "style": 1,
+      "name": "犬につきまとわれっぱなしで\n気が滅入っていた所だが\nまっ　お前と話せてよかったよ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000391_MSG0031",
+      "style": 1,
+      "name": "じゃあ　また任務でな[ST:wait ]"
+    }
+  ]
+}

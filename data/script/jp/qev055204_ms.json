@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055204_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "qev055204_MSG0002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "qev055204_MSG0003",
+      "style": 1,
+      "name": "お風呂に入って　シャワーを浴びて\nリラックスしたら……ああ……\n生きて帰って来られたんだなって思って……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev055204_MSG0004",
+      "style": 1,
+      "name": "大泣きしちゃいましたよ\n本当にNLAに戻って来られて良かった！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev055204_MSG0005",
+      "style": 1,
+      "name": "ありがとうございます！　これも全て\nあなたと　カンオトナムさんのおかげです！[ST:wait ]"
+    }
+  ]
+}

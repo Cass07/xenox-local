@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090104_MSG0001",
+      "style": 0,
+      "name": "すっかり原生生物どもの\n住処にされちまってるみたいだな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090104_MSG0002",
+      "style": 0,
+      "name": "[ST:wide ]―準備はできてるか？\nあそこにあるもんが一体誰のもんか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090104_MSG0003",
+      "style": 0,
+      "name": "きっちり　あのバケモンどもに\n教えてやろうじゃねぇか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090104_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 5,
+      "label": "qev090104_SEL0011",
+      "style": 3,
+      "name": "うなずき　イエルヴと共に戦う"
+    },
+    {
+      "$id": 6,
+      "label": "qev090104_JNK0020",
+      "style": 4,
+      "name": "慎重"
+    },
+    {
+      "$id": 7,
+      "label": "qev090104_SEL0021",
+      "style": 3,
+      "name": "様子を見ようと提案する"
+    },
+    {
+      "$id": 8,
+      "label": "qev090104_MSG0004",
+      "style": 0,
+      "name": "[ST:wide ]―背中は任せたぜ！　相棒！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090104_MSG0005",
+      "style": 0,
+      "name": "ヘッ[ST:wide ]―！　この感じ[ST:wide ]―　アイツと\nコンビを組んでた時のことを思い出すな！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090104_MSG0006",
+      "style": 0,
+      "name": "何言ってんだ！\nんなもん　戦いながら見りゃいいんだよ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090104_MSG0007",
+      "style": 0,
+      "name": "アイツなら[ST:wide ]―\nそんなことを言わなかっただろうな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090104_MSG0008",
+      "style": 0,
+      "name": "[ST:wide ]―それじゃ行くぞ！\n連中をぶっ倒してやろうじゃねぇか！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090104_MSG0009",
+      "style": 0,
+      "name": "残骸の中にゃ　地球の動物達の\n研究サンプルが入ってるみたいだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090104_MSG0010",
+      "style": 0,
+      "name": "肝心のアレはなしか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090104_MSG0011",
+      "style": 0,
+      "name": "はぁ[ST:wide ]―　行こうぜ　相棒\nＮＬＡに戻ってエレオノーラに報告だ[ST:wait ]"
+    }
+  ]
+}

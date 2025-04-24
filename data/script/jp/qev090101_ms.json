@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090101_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―よう　お前のこと探してたんだ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090101_MSG0002",
+      "style": 0,
+      "name": "ちょっとツラ貸せよ[ST:wide ]―\nやってもらいてぇことがあんだよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090101_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 4,
+      "label": "qev090101_SEL0011",
+      "style": 3,
+      "name": "大人しく従う"
+    },
+    {
+      "$id": 5,
+      "label": "qev090101_JNK0020",
+      "style": 4,
+      "name": "無視"
+    },
+    {
+      "$id": 6,
+      "label": "qev090101_SEL0021",
+      "style": 3,
+      "name": "物騒な雰囲気なので\n立ち去ろうとする"
+    },
+    {
+      "$id": 7,
+      "label": "qev090101_MSG0003",
+      "style": 0,
+      "name": "素直じゃねぇか　長生きするぜ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090101_MSG0004",
+      "style": 0,
+      "name": "おいおい　無視するなよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090101_MSG0005",
+      "style": 0,
+      "name": "お前は黙って俺の言うこと\n聞いてりゃいいんだよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090101_MSG0006",
+      "style": 0,
+      "name": "[ST:wide ]―ほら　お前のために\n３つ程任務を受けといてやったんだ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090101_MSG0007",
+      "style": 0,
+      "name": "ひとっ走りいって　こなしてこいよ\nこれくらい朝飯前だろ？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090101_JNK0030",
+      "style": 4,
+      "name": "反論"
+    },
+    {
+      "$id": 13,
+      "label": "qev090101_SEL0031",
+      "style": 3,
+      "name": "自分でやれと反論する"
+    },
+    {
+      "$id": 14,
+      "label": "qev090101_JNK0040",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 15,
+      "label": "qev090101_SEL0041",
+      "style": 3,
+      "name": "大人しく従う"
+    },
+    {
+      "$id": 16,
+      "label": "qev090101_MSG0008",
+      "style": 0,
+      "name": "命知らずな野郎だな[ST:wide ]―\nその度胸は認めてやるよ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090101_MSG0009",
+      "style": 0,
+      "name": "だが[ST:wide ]―　次はないぜ？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090101_MSG0010",
+      "style": 0,
+      "name": "お前の[System:Ruby rt=デバイス ]端末[/System:Ruby]に送っとくから\nとっとと終わらせて俺んとこに戻ってこいや[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090101_MSG0011",
+      "style": 0,
+      "name": "じゃ　お前の[System:Ruby rt=デバイス ]端末[/System:Ruby]に送っとくぜ\n終わったら　俺んとこに来てくれや[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090101_MSG0012",
+      "style": 0,
+      "name": "[ST:wide ]―簡単な任務だろ？\nこんな任務で手こずったら張り倒すからな[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090101_MSG0013",
+      "style": 0,
+      "name": "その面構えがよ[ST:wide ]―　見せかけ\nだけじゃねぇとこ　しっかり見せてくれよな[ST:wait ]"
+    }
+  ]
+}

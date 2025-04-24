@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev006301_MSG0001",
+      "style": 1,
+      "name": "거듭 실례를 범해 미안하다……\n너희가 나누어 준 약이 있으면[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev006301_MSG0002",
+      "style": 1,
+      "name": "쓰러진 동료와 아이들도\n곧 움직일 수 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev006301_MSG0003",
+      "style": 1,
+      "name": "고맙다\n내가 필요한 일이 있다면 무엇이든 말해 줘[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev006301_MSG0004",
+      "style": 1,
+      "name": "수많은 전투를 겪었지만\n너희 같은 강자는 만나 본 적이 없다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev006301_MSG0005",
+      "style": 1,
+      "name": "가능하다면 또 승부를 겨루도록 하자[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev006301_MSG0006",
+      "style": 1,
+      "name": "우리 라스와 너희가 절차탁마하면[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev006301_MSG0007",
+      "style": 1,
+      "name": "지금까지 도달하지 못한 무예의 정상에\n이르는 것도 가능할지 모른다[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085106_MSG0001",
+      "style": 0,
+      "name": "あの二人じゃない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085106_MSG0002",
+      "style": 0,
+      "name": "ほんとだ[ST:wide ]―　グロウスのあの二人と違う[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085106_MSG0003",
+      "style": 0,
+      "name": "ごめんなさい\n驚かせてしまって[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085106_MSG0003_2",
+      "style": 0,
+      "name": "私はエルマ　あなた達は？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085106_MSG0004",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "qev085106_MSG0005",
+      "style": 0,
+      "name": "エルマさん　グロウスが捜してたのって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085106_MSG0006",
+      "style": 0,
+      "name": "そうでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085106_MSG0007",
+      "style": 0,
+      "name": "もしかして\nあなた達はグロウスに追われているの？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085106_MSG0008",
+      "style": 0,
+      "name": "だとしたら 力になれるかもしれない\n私達は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085106_MSG0009",
+      "style": 0,
+      "name": "地球という星から来たの\nグロウスとは敵対している者よ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085106_MSG0010",
+      "style": 0,
+      "name": "ほんとに！？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085106_MSG0011",
+      "style": 0,
+      "name": "信じちゃダメ　ロック！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085106_MSG0012",
+      "style": 0,
+      "name": "でもセリカ[ST:wide ]―\nこの人達　なんだかあいつらと雰囲気違うよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085106_MSG0013",
+      "style": 0,
+      "name": "だとしても　もう騙されるのはイヤ！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085106_MSG0014",
+      "style": 0,
+      "name": "この奥に動体反応があります[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085106_MSG0015",
+      "style": 0,
+      "name": "クリューの女とガウルかも知れんな[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085106_MSG0016",
+      "style": 0,
+      "name": "隊長　捜索目標です！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085106_MSG0017",
+      "style": 0,
+      "name": "なぜ地球人と！？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085106_MSG0018",
+      "style": 0,
+      "name": "ここは撤退する\n本隊に支援を求めるぞ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085106_MSG0019",
+      "style": 0,
+      "name": "あいつら逃げていきますも！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085106_MSG0020",
+      "style": 0,
+      "name": "追いましょう\n増援を呼ばれると面倒だわ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085106_MSG0021",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    }
+  ]
+}

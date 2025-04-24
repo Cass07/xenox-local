@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev078102_MSG0001",
+      "style": 1,
+      "name": "지금 노코체에게\n백팩 수리를 맡겼는데[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev078102_MSG0002",
+      "style": 1,
+      "name": "아까부터 계속\n끙끙 앓는 소리를 내고 있어……\n진짜로 고칠 수 있는 걸까?[ST:wait ]"
+    }
+  ]
+}

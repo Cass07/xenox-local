@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs01080100_MSG0001",
+      "style": 0,
+      "name": "여기가 많은 숍이\n모여 있는 거리예요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs01080100_MSG0002",
+      "style": 0,
+      "name": "우리 블레이드 대원은 여기서 장비를 정비해[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs01080100_MSG0003",
+      "style": 0,
+      "name": "블레이드 대원들은\n매일 위험한 임무를 수행하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs01080100_MSG0004",
+      "style": 0,
+      "name": "그 목숨을 지키기 위해서 빼놓을 수 없는 장소\n그곳이 바로 여기예요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs01080100_MSG0005",
+      "style": 0,
+      "name": "여기서는 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs01080100_MSG0006",
+      "style": 0,
+      "name": "우리가 이너라고 부르는 보병 장비뿐만이 아니라\n돌의 기체와 그 장비도 팔고 있어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs01080100_MSG0007",
+      "style": 0,
+      "name": "돌은 굉장히 비싸지만\n언젠가는 마이 돌을 가질 수 있다면 좋겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs01080100_MSG0008",
+      "style": 0,
+      "name": "다음은 수송기 헬리포트 바로 앞에 있던\n커다란 빌딩……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs01080100_MSG0009",
+      "style": 0,
+      "name": "이 NLA의 중추\n블레이드 타워로 가요[ST:wait ]"
+    }
+  ]
+}

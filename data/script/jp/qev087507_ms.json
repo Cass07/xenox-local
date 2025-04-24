@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087507_MSG0001",
+      "style": 0,
+      "name": "いやぁ　問題点を全てクリアしちまうなんて\n大したもんだ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087507_MSG0007",
+      "style": 0,
+      "name": "さすがはあの二人の娘だな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087507_MSG0009",
+      "style": 0,
+      "name": "リンのご両親は天才と呼ばれる工学者だったの[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087507_MSG0010",
+      "style": 0,
+      "name": "でもね　その理論以上に評価されていたのは\n工学への熱意と理論を実践する行動力だったわ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087507_MSG0011",
+      "style": 0,
+      "name": "あぁ　俺の尊敬する先輩達さ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087507_MSG0012",
+      "style": 0,
+      "name": "あの人達がいりゃ　このＮＬＡも\nもっと住みよい街になってただろうになぁ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087507_MSG0013",
+      "style": 0,
+      "name": "そう言っていただけるのは嬉しいですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087507_MSG0014",
+      "style": 0,
+      "name": "でも　それはこの街に住んでる私達が\nやらなきゃならないんです[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087507_MSG0015",
+      "style": 0,
+      "name": "お父さんやお母さんにはかなわないけど\n私　がんばります！[ST:wait ]"
+    }
+  ]
+}

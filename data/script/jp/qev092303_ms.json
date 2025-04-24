@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092303_MSG0001",
+      "style": 0,
+      "name": "時間通りね！\nえっと[ST:wide ]―　あんたは本物のヒメリだよね？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092303_MSG0002",
+      "style": 0,
+      "name": "はい　ご協力ありがとうございます\nなんとしても　犯人を捕まえましょう[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092303_MSG0003",
+      "style": 0,
+      "name": "うん！　それじゃその辺に隠れてて\nあたしはここでニセモノをおびきだすから[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092303_MSG0004",
+      "style": 0,
+      "name": "ありがとうございます\nそれでは　よろしくお願いしますね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092303_MSG0005",
+      "style": 0,
+      "name": "忙しい中　こんな所まで\nわざわざ来てくれてありがとうね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092303_MSG0006",
+      "style": 0,
+      "name": "いーえ！　いっつもお世話になってるんです\nどこにだって　飛んでいきますよ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092303_MSG0007",
+      "style": 0,
+      "name": "ありがとうございます\nこんな話　あなたにしかできなくて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092303_MSG0008",
+      "style": 0,
+      "name": "ヒメリがそんなことを言うなんて\nなかなかないことだもの　なんだって聞くわ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092303_MSG0009",
+      "style": 0,
+      "name": "[ST:wide ]―あっ　でもその前にさ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092303_MSG0010",
+      "style": 0,
+      "name": "はい　なんでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092303_MSG0011",
+      "style": 0,
+      "name": "あんたって[ST:wide ]―　本物なんだよね？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092303_MSG0012",
+      "style": 0,
+      "name": "[ST:wide ]―本物とは　どういうことでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092303_MSG0013",
+      "style": 0,
+      "name": "あんたのニセモノがいるって噂を聞いてさ\nもしそうだったら[ST:wide ]―　怖いでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092303_MSG0014",
+      "style": 0,
+      "name": "私はこの世界にたった一人しかいません\n妙な噂が流れているのですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092303_MSG0015",
+      "style": 0,
+      "name": "なんか　本物だって\n証拠になるようなものはある？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092303_MSG0016",
+      "style": 0,
+      "name": "[ST:wide ]―オルネラさんとずっと一緒にいました\n私はニセモノなんかじゃありません[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092303_MSG0017",
+      "style": 0,
+      "name": "あっ　当たり前だろ！　あたしが保証するよ！\n何を言い出すんだい　全く[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092303_MSG0018",
+      "style": 0,
+      "name": "そっか　そうだよね\nごめんね　おかしなこと言って[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092303_MSG0019",
+      "style": 0,
+      "name": "それじゃ後ひとつだけいい？\nあんた達に会わせたい人がいるんだ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092303_MSG0020",
+      "style": 0,
+      "name": "[ST:wide ]―もういいわよ　出て来てちょうだい！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092303_MSG0021",
+      "style": 0,
+      "name": "[ST:wide ]―なんだと！？\n何故こいつらがここに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092303_MSG0022",
+      "style": 0,
+      "name": "オルネラ！　アタシをハメたのか？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092303_MSG0023",
+      "style": 0,
+      "name": "そんなことする訳ないでしょ！\n何で[ST:wide ]―　どうしてあんた達　ここにいるの！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092303_MSG0024",
+      "style": 0,
+      "name": "オルネラさんこそ　何故[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092303_MSG0025",
+      "style": 0,
+      "name": "あなたも　そこの私と同じ[ST:wide ]―\nニセモノのオルネラさんなのでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092303_MSG0026",
+      "style": 0,
+      "name": "あたしは[ST:wide ]―　クソッ！\nどこから計画にケチが付いたってんだい！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092303_JNK0010",
+      "style": 4,
+      "name": "激怒"
+    },
+    {
+      "$id": 28,
+      "label": "qev092303_SEL0011",
+      "style": 3,
+      "name": "感情に身を任せオルネラの裏切りを糾弾する"
+    },
+    {
+      "$id": 29,
+      "label": "qev092303_JNK0020",
+      "style": 4,
+      "name": "冷静"
+    },
+    {
+      "$id": 30,
+      "label": "qev092303_SEL0021",
+      "style": 3,
+      "name": "冷静にオルネラに事情を問う"
+    },
+    {
+      "$id": 31,
+      "label": "qev092303_MSG0027",
+      "style": 0,
+      "name": "ここまで来て台無しなんて[ST:wide ]―\nイライラしてんのは　こっちの方だよ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev092303_MSG0028",
+      "style": 0,
+      "name": "ちくしょう！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092303_MSG0028_2",
+      "style": 0,
+      "name": "ヒメリだけなら\n簡単に利用できると思ったのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092303_MSG0029",
+      "style": 0,
+      "name": "事情なんてあるもんか！　たんに金！\n金が欲しいだけだよ！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092303_MSG0030",
+      "style": 0,
+      "name": "その金で贅沢して　うまいもん食って\nこんな辺境の星でも幸せになりたかったんだ！[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092303_MSG0031",
+      "style": 0,
+      "name": "ちっ[ST:wide ]―　せっかく　ヒメリって\n利用しやすいコマを手に入れたと思ったのに[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092303_MSG0032",
+      "style": 0,
+      "name": "あんたが入れ知恵したんだろ！？\nよくもみんな　ぶち壊してくれたね[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092303_MSG0033",
+      "style": 0,
+      "name": "違う[ST:wide ]―　こんなのオルネラさんじゃない[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092303_MSG0034",
+      "style": 0,
+      "name": "オルネラさんは　私のお母さんみたいな人で\nずっとずっと私を助けてくれて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092303_MSG0035",
+      "style": 0,
+      "name": "[ST:wide ]―バカが！　コイツはタダのクズさ！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092303_MSG0036",
+      "style": 0,
+      "name": "金欲しさに　仲間の身体を\n何人も売り渡してた最悪の下等生物だ！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092303_MSG0037",
+      "style": 0,
+      "name": "まぁ　バレちまったら仕方ないさ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092303_MSG0038",
+      "style": 0,
+      "name": "全員まとめてぶっ殺して　あんたらの\n身体のパーツ　いただくまでの話だ！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092303_MSG0039",
+      "style": 0,
+      "name": "安心しな！　明日から　このジサーヌ様が\nヒメリ・アランジをやってやるよ！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092303_MSG0040",
+      "style": 0,
+      "name": "あんたの姿を利用して　お母様の所へ\nたくさんパーツを送ってやるからさ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092303_MSG0041",
+      "style": 0,
+      "name": "オヒトヨシ！　アタシ達のために死にな！[ST:wait ]"
+    }
+  ]
+}

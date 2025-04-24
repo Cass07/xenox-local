@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001711_MSG0010",
+      "style": 1,
+      "name": "……이야기 들었어요\n아직 싸움은 끝나지 않았군요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001711_MSG0020",
+      "style": 1,
+      "name": "주민분들이 불안해하고 있어요\n이런 때야말로 제가 도움이 되어야 해요……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001711_JNK0030",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 4,
+      "label": "tev001711_SEL0040",
+      "style": 3,
+      "name": "히메리를 멤버에 넣는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001711_MSG0050",
+      "style": 1,
+      "name": "네, 물론이에요\n저도 당신에게 도움이 되고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001711_JNK0060",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001711_SEL0070",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001711_MSG0080",
+      "style": 1,
+      "name": "NLA는 저희에게 맡겨 주세요\n여러분도 조심하시길……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001711_MSG0090",
+      "style": 1,
+      "name": "여러분!\n무사하신가요!?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001711_MSG0100",
+      "style": 1,
+      "name": "……그런가요, 저를 찾으러……\n번거롭게 해 드려서 정말 죄송해요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001711_MSG0110",
+      "style": 1,
+      "name": "다른 분들은 괜찮으신가요……\n한시라도 빨리 안부를 확인하러 가요[ST:wait ]"
+    }
+  ]
+}

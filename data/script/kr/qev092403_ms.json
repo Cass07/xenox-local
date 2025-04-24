@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092403_MSG0001",
+      "style": 1,
+      "name": "에이더 씨에게서\n그 물건에 관한 이야기는 들었습니다![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092403_MSG0002",
+      "style": 1,
+      "name": "히메리 씨는 저번에도 노동 환경 개선을 위해\n저 대신 회사와 교섭해 주시는 등……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092403_MSG0003",
+      "style": 1,
+      "name": "아주 큰 도움을 주셨으니까\n저도 할 수 있는 일은 하겠습니다![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092403_MSG0004",
+      "style": 0,
+      "name": "기다리고 있었습니다![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092403_MSG0005",
+      "style": 0,
+      "name": "가능성이 높은 데이터베이스를 실은\n흰고래의 잔해가 있는 위치, 대강 파악했습니다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092403_MSG0006",
+      "style": 0,
+      "name": "아무래도 탐색이\n한참 뒤로 미루어졌던 모양인데요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092403_MSG0007",
+      "style": 0,
+      "name": "정말이지, 철야로 프런티어넷 정보를\n찾아낸 보람이 있었다니까요![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092403_MSG0008",
+      "style": 0,
+      "name": "어머 쿠엔틴 씨, 안녕하세요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092403_MSG0009",
+      "style": 0,
+      "name": "당신도 이번 임무를\n도와주시는 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092403_MSG0010",
+      "style": 0,
+      "name": "네! 이 쿠엔틴, NLA의 천사이신\n당신을 위해서라면 뭐든 할 겁니다![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092403_MSG0011",
+      "style": 0,
+      "name": "어…… 저를 위해서?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092403_JNK0010",
+      "style": 4,
+      "name": "지적한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev092403_SEL0011",
+      "style": 3,
+      "name": "이 일은 극비 임무라며\n쿠엔틴에게 주의를 준다"
+    },
+    {
+      "$id": 14,
+      "label": "qev092403_JNK0020",
+      "style": 4,
+      "name": "얼버무린다"
+    },
+    {
+      "$id": 15,
+      "label": "qev092403_SEL0021",
+      "style": 3,
+      "name": "쿠엔틴의 사적인 화제로\n이야기를 돌린다"
+    },
+    {
+      "$id": 16,
+      "label": "qev092403_MSG0012",
+      "style": 0,
+      "name": "앗…… 죄, 죄송합니다\n그랬었죠[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092403_MSG0013",
+      "style": 0,
+      "name": "……히메리 씨가 관여하는 임무라면\n어떤 일이든 돕겠다![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092403_MSG0014",
+      "style": 0,
+      "name": "그런 마음가짐을 보여 드렸을 뿐입니다![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092403_MSG0015",
+      "style": 0,
+      "name": "그렇군요…… 하지만 저보다도\n당신 자신을 신경 써 주세요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092403_MSG0016",
+      "style": 0,
+      "name": "……네? 요즘 일은 좀 어떠냐고요?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092403_MSG0017",
+      "style": 0,
+      "name": "물론, 히메리 씨가 회사 측과\n교섭해 주신 덕분에 많이 편해졌습니다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092403_MSG0018",
+      "style": 0,
+      "name": "그렇다면 다행이네요, 여러모로\n대화에 힘쓴 보람이 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092403_MSG0019",
+      "style": 0,
+      "name": "감사합니다![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092403_MSG0020",
+      "style": 0,
+      "name": "……아무튼 말이죠\n그 흰고래의 데이터베이스에 관해[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092403_MSG0021",
+      "style": 0,
+      "name": "NLA에 와 있던 루리리타라는\n이상한 노폰인에게 이야기했더니[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092403_MSG0022",
+      "style": 0,
+      "name": "찾아 주겠다모!\n라고 말하면서 멋대로 그쪽에 가 버렸습니다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092403_MSG0023",
+      "style": 0,
+      "name": "어쩌면 무언가 찾았을지도 모르니까\n일단 합류해 보는 게 어떨까요?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092403_MSG0024",
+      "style": 1,
+      "name": "루리리타라는 노폰인도\n히메리 씨에게 도움을 받은 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092403_MSG0025",
+      "style": 1,
+      "name": "저 멀리 있는 카라반의 외계인까지 구하다니\n역시 NLA의 천사, 히메리 씨네요![ST:wait ]"
+    }
+  ]
+}

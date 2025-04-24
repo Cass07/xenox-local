@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086907_MSG0001",
+      "style": 1,
+      "name": "현장 사람들은 내게 일도 가르쳐 주고\n이 도시에 대해서도 친절하게 알려 주면서[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086907_MSG0002",
+      "style": 1,
+      "name": "정~말 잘 대해 줘!\n그러니까 난 은혜를 갚고 싶어![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086907_MSG0003",
+      "style": 1,
+      "name": "에어로지움만 있으면\n전보다 더 열심히 해서\n공사가 늦어진 만큼 공백을 메울 거야![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086907_MSG0004",
+      "style": 1,
+      "name": "그러니까 어떻게든 가져와 줘!\n응? 부탁할게![ST:wait ]"
+    }
+  ]
+}

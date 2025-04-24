@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086004_MSG0042",
+      "style": 1,
+      "name": "ちゃんと点検してみると[ST:wide ]―\n確かに伝送損失が起きているようですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086004_MSG0041",
+      "style": 1,
+      "name": "こんなところまで気付くなんて\nやっぱ　リンさんってすごいですねぇ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086004_MSG0001",
+      "style": 0,
+      "name": "パーツ持ってきました！\nさっそく交換しちゃいますね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086004_MSG0002",
+      "style": 0,
+      "name": "すごいなぁ\n伝送損失が計測できなくなりました[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086004_MSG0003",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "qev086004_MSG0004",
+      "style": 0,
+      "name": "ご飯ですも！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086004_MSG0005",
+      "style": 0,
+      "name": "リンさん　さすがですね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086004_MSG0006",
+      "style": 0,
+      "name": "これでしばらくは保つと思います\nでも　それでいいんでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086004_MSG0007",
+      "style": 0,
+      "name": "え？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086004_MSG0008",
+      "style": 0,
+      "name": "交換したパーツは消耗品なんです\nいずれまた　効率は落ちてきます[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086004_MSG0009",
+      "style": 0,
+      "name": "このまま　作業を終わらせてしまうのは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086004_MSG0010",
+      "style": 0,
+      "name": "そんな～～\nタツのご飯は　まだお預けですも～～[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086004_MSG0011",
+      "style": 0,
+      "name": "リンの気持ちも分かるわね\nでも　タツも限界みたいだし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086004_MSG0012",
+      "style": 0,
+      "name": "どう思う？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086004_JNK0010",
+      "style": 4,
+      "name": "タツ"
+    },
+    {
+      "$id": 16,
+      "label": "qev086004_SEL0011",
+      "style": 3,
+      "name": "自分も腹ペコだと天をあおぐ"
+    },
+    {
+      "$id": 17,
+      "label": "qev086004_JNK0020",
+      "style": 4,
+      "name": "リン"
+    },
+    {
+      "$id": 18,
+      "label": "qev086004_SEL0021",
+      "style": 3,
+      "name": "中途半端はダメだと首を振る"
+    },
+    {
+      "$id": 19,
+      "label": "qev086004_MSG0013",
+      "style": 0,
+      "name": "そうね　これ以上待たせると\nタツが餓死してしまいそうだし[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086004_MSG0014",
+      "style": 0,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086004_MSG0015",
+      "style": 0,
+      "name": "大丈夫よ　リン[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086004_MSG0016",
+      "style": 0,
+      "name": "問題が起きたら　私達が責任をもって\nまたパーツを回収に行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086004_MSG0017",
+      "style": 0,
+      "name": "そう　ですね\n何かあったら　すぐ連絡してくださいね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086004_MSG0018",
+      "style": 0,
+      "name": "はい　もちろんです！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086004_MSG0019",
+      "style": 0,
+      "name": "さあ　待たせちゃってごめんね　タツ\nブレイドホームに帰ってご飯にしよ！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086004_MSG0020",
+      "style": 0,
+      "name": "やったですも～～！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086004_MSG0021",
+      "style": 0,
+      "name": "そうね[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086004_MSG0022",
+      "style": 0,
+      "name": "白鯨で使われていたパーツには限りがある\nいずれは枯渇してしまう[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086004_MSG0023",
+      "style": 0,
+      "name": "そうなんです[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086004_MSG0024",
+      "style": 0,
+      "name": "やっぱり　ＮＬＡでも精度の高いパーツを\n生産できるようにするべきじゃないでしょうか[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086004_MSG0025",
+      "style": 0,
+      "name": "確かに　そうなったら問題が起きても\nすぐに交換できるわけですし[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086004_MSG0026",
+      "style": 0,
+      "name": "今までできなかったのは　どうしてなの？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086004_MSG0027",
+      "style": 0,
+      "name": "原材料の問題ですね[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086004_MSG0028",
+      "style": 0,
+      "name": "白鯨に使われていたパーツを探してくるより\nある意味　難しいからなんですよ[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086004_MSG0029",
+      "style": 0,
+      "name": "必要な材料は三種類　どれもこの惑星ミラでは\n入手しづらいものばかりです[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086004_MSG0030",
+      "style": 0,
+      "name": "でも見つかれば　今後のメンテナンスが\n楽になるんですよね？[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086004_MSG0031",
+      "style": 0,
+      "name": "だったら探すべきですよ！\n昔だったら難しかったけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086004_MSG0032",
+      "style": 0,
+      "name": "今のエルマチームにはみんながそろってるし[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086004_MSG0033",
+      "style": 0,
+      "name": "分かったわ\n確かにリンの言う通り[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086004_MSG0034",
+      "style": 0,
+      "name": "この任務　全うしましょう[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086004_MSG0035",
+      "style": 0,
+      "name": "あああ　タツのご飯がまた後回しですも～～[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086004_MSG0036",
+      "style": 0,
+      "name": "ごめんね　タツ\nでも今はブレイドとしてこっちを優先したいの[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev086004_MSG0037",
+      "style": 0,
+      "name": "その代わり　任務が終わったら\nごちそう作ってあげるから！[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086004_MSG0038",
+      "style": 0,
+      "name": "ごちそうですも！？[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev086004_MSG0039",
+      "style": 0,
+      "name": "そうと聞いたら　タツにもブレイドとしての\n使命感が芽生えてきましたですも！[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev086004_MSG0040",
+      "style": 0,
+      "name": "はやく任務を終わらせるですも！[ST:wait ]"
+    }
+  ]
+}

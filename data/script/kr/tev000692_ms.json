@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000692_MSG0001",
+      "style": 1,
+      "name": "오, [ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000692_MSG0002",
+      "style": 1,
+      "name": "일하는 중에 만날 줄은 몰랐는데[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000692_MSG0003",
+      "style": 1,
+      "name": "지금 무기를 어떻게 조정할지 논의 중이다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000692_MSG0004",
+      "style": 1,
+      "name": "인터셉터로서 원시 생물과 싸우려면\n무기도 방어구도 완벽한 상태를 유지해야 하니까[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000692_JNK0010",
+      "style": 4,
+      "name": "감탄한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev000692_SEL0011",
+      "style": 3,
+      "name": "돌진밖에 모르는 줄 알았다며 감탄한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev000692_JNK0020",
+      "style": 4,
+      "name": "놀린다"
+    },
+    {
+      "$id": 8,
+      "label": "tev000692_SEL0021",
+      "style": 3,
+      "name": "프라이라면 맨손으로도\n쓰러뜨릴 수 있을 것 같다고 말한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev000692_MSG0005",
+      "style": 1,
+      "name": "당연하잖냐? 돌진밖에 몰랐으면\n순식간에 원시 생물한테 잡아먹혔겠지[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000692_MSG0006",
+      "style": 1,
+      "name": "그 녀석들보다 머리를 잘 굴려야 해\n체격에서 밀리니까 기회는 쉽게 오지 않아[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000692_MSG0007",
+      "style": 1,
+      "name": "야, 아무리 나라도 맨손으로\n밀레자우로를 쓰러뜨리지는 못해[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000692_MSG0008",
+      "style": 1,
+      "name": "버설트 정도라면 가능할지도 모르지만[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000692_MSG0009",
+      "style": 1,
+      "name": "내가 아직 햇병아리였을 때, 헌팅 라이플을\n거칠게 다루는 걸 보고 아버지께서 말씀하셨어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000692_MSG0010",
+      "style": 1,
+      "name": "아무리 강력한 무기라고 해도\n정비 불량으로 쓸 수 없게 된다면\n그저 쓰레기일 뿐이라고 말이야[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000692_MSG0012",
+      "style": 1,
+      "name": "그 후로 나는 무기와 방어구를\n착실히 정비하게 되었고……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000692_MSG0014",
+      "style": 1,
+      "name": "이렇게 메카닉과도 대화를 나누며\n만전의 상태를 유지하려고 노력 중이다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000692_MSG0013",
+      "style": 1,
+      "name": "네 무기는 어떻지?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000692_JNK0030",
+      "style": 4,
+      "name": "거칠게"
+    },
+    {
+      "$id": 19,
+      "label": "tev000692_SEL0031",
+      "style": 3,
+      "name": "햇병아리 시절의 프라이와 같다고 대답한다"
+    },
+    {
+      "$id": 20,
+      "label": "tev000692_JNK0040",
+      "style": 4,
+      "name": "완벽하게"
+    },
+    {
+      "$id": 21,
+      "label": "tev000692_SEL0041",
+      "style": 3,
+      "name": "전부 스스로 정비한다고 말한다"
+    },
+    {
+      "$id": 22,
+      "label": "tev000692_MSG0015",
+      "style": 1,
+      "name": "아직 어리군……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000692_MSG0016",
+      "style": 1,
+      "name": "하지만 겉으로 보기에는\n그렇게 상태가 나빠 보이지 않아[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000692_MSG0017",
+      "style": 1,
+      "name": "어쩌면 네가 자는 동안\n린이나 엘마 씨가 관리해 주는 걸지도 모르지[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000692_MSG0018",
+      "style": 1,
+      "name": "동료에게 감사하도록 하라고[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000692_MSG0019",
+      "style": 1,
+      "name": "그러면 난 돌아가서 무기 조정을 마저 해야겠어\n또 보자[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000692_MSG0020",
+      "style": 1,
+      "name": "오호, 잘 알고 있잖냐……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000692_MSG0021",
+      "style": 1,
+      "name": "전부터 정비가 잘되어 있다고 생각했는데\n설마 직접 관리하고 있었을 줄이야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000692_MSG0022",
+      "style": 1,
+      "name": "다시 봤다[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000692_MSG0023",
+      "style": 1,
+      "name": "나도 너한테 질 수는 없지\n얼른 돌아가서 무기를 조정해야겠어\n그럼 또 보자[ST:wait ]"
+    }
+  ]
+}

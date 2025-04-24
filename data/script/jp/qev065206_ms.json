@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065206_MSG0001",
+      "style": 1,
+      "name": "[ST:wide ]―どうだ　三姉妹がいるエリアに\n侵入することはできたか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065206_MSG0002",
+      "style": 1,
+      "name": "[ST:wide ]―なに？　バリアが張られていて\n先に進めない？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065206_MSG0003",
+      "style": 1,
+      "name": "確か　私がいた頃にも\nそういうセキュリティになっていたな……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065206_MSG0004",
+      "style": 1,
+      "name": "3つのキーを探しだしてくれ\nデフィニアとミルサードが\nそれぞれ分担して管理しているんだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev065206_MSG0005",
+      "style": 1,
+      "name": "まさか侵入されるとは思ってないだろうから\n近くに放置されてるかもしれないけどな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev065206_MSG0006",
+      "style": 1,
+      "name": "とにかく3つ集めれば　彼女達の住む場所へ\n辿り着くことができるはずだ\n任せたぞ[ST:wait ]"
+    }
+  ]
+}

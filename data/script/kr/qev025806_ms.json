@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025806_MSG0001",
+      "style": 1,
+      "name": "프레지는 저희에게\n새로운 빛을 주었습니다\n바로 기적의 신을요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025806_MSG0002",
+      "style": 1,
+      "name": "기적의 신을 믿는 자는 누구나\n기적을 선사받을 수 있습니다\n덕분에 수많은 마 논이 목숨을 구했죠[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025806_MSG0003",
+      "style": 1,
+      "name": "……어떠신가요?\n당신도 신자가 되지 않겠습니까?[ST:wait ]"
+    }
+  ]
+}

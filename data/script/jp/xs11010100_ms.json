@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11010100_MSG0001",
+      "style": 0,
+      "name": "今日は何を作ろうかな～[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11010100_JNK0010",
+      "style": 4,
+      "name": "究極の逸品"
+    },
+    {
+      "$id": 3,
+      "label": "xs11010100_SEL0011",
+      "style": 3,
+      "name": "リンリーシェフの自信作"
+    },
+    {
+      "$id": 4,
+      "label": "xs11010100_JNK0012",
+      "style": 4,
+      "name": "至極の逸品"
+    },
+    {
+      "$id": 5,
+      "label": "xs11010100_SEL0013",
+      "style": 3,
+      "name": "リンリー板長の自信作"
+    },
+    {
+      "$id": 6,
+      "label": "xs11010100_MSG0002",
+      "style": 0,
+      "name": "それいいですね！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11010100_MSG0003",
+      "style": 0,
+      "name": "すぐに格納庫に来てくれ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11010100_MSG0004",
+      "style": 0,
+      "name": "どうかしたの？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11010100_MSG0005",
+      "style": 0,
+      "name": "ラオの奴が[ST:wide ]―\nおい　そこを動くな！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs11010100_MSG0005_2",
+      "style": 0,
+      "name": "と　とにかく来てくれ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs11010100_MSG0006",
+      "style": 0,
+      "name": "どうしたんでしょうか？\nラオさんがって聞こえましたけど[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11010100_MSG0007",
+      "style": 0,
+      "name": "声の感じからして　緊急事態のようね\n格納庫に急ぎましょう[ST:wait ]"
+    }
+  ]
+}

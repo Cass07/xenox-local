@@ -1,0 +1,360 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086404_MSG0001",
+      "style": 0,
+      "name": "あんたが生きていてくれたなんて\n思ってもみなかっただも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086404_MSG0002",
+      "style": 0,
+      "name": "バイアスに連れて行かれた時は\nもうダメだと思ったですも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086404_MSG0003",
+      "style": 0,
+      "name": "でも　このオトモダチが助けてくれたんですも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086404_MSG0004",
+      "style": 0,
+      "name": "ご挨拶が遅れましたも　タツの母のカカだも\nタツを助けてくれてありがとうだも！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086404_MSG0005",
+      "style": 0,
+      "name": "初めまして　カカさん\nタツの友人のエルマです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086404_MSG0006",
+      "style": 0,
+      "name": "初めまして　リンです！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086404_JNK0010",
+      "style": 4,
+      "name": "礼節"
+    },
+    {
+      "$id": 8,
+      "label": "qev086404_SEL0011",
+      "style": 3,
+      "name": "カカの目を見て名前を告げる"
+    },
+    {
+      "$id": 9,
+      "label": "qev086404_JNK0020",
+      "style": 4,
+      "name": "食欲"
+    },
+    {
+      "$id": 10,
+      "label": "qev086404_SEL0021",
+      "style": 3,
+      "name": "カカの目を見て唾を飲み込む"
+    },
+    {
+      "$id": 11,
+      "label": "qev086404_MSG0007",
+      "style": 0,
+      "name": "みなさん礼儀ただしいも\nタツはいいオトモダチを持ったも[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086404_MSG0007_m",
+      "style": 0,
+      "name": "みなさん礼儀ただしいも\nタツはいいオトモダチを持ったも[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086404_MSG0007_f",
+      "style": 0,
+      "name": "みなさん礼儀ただしいも\nタツはいいオトモダチを持ったも[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086404_MSG0008",
+      "style": 0,
+      "name": "その目　見たことあるも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086404_MSG0009",
+      "style": 0,
+      "name": "うちのキャラバンを襲ってきた\nあいつらに似てますも！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086404_MSG0010",
+      "style": 0,
+      "name": "トーチャンがいないからってなめるなも！\n子供達は私が守ってみせるも！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086404_MSG0011",
+      "style": 0,
+      "name": "かかってくるも！[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086404_MSG0012",
+      "style": 0,
+      "name": "カカさん　落ち着いてください！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086404_MSG0013",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086404_MSG0014",
+      "style": 0,
+      "name": "でも　カーチャンよく無事だったですも[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086404_MSG0015",
+      "style": 0,
+      "name": "あいつらに襲われた時\n一時は散り散りになったんだも[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086404_MSG0016",
+      "style": 0,
+      "name": "そうだったんですか[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086404_MSG0017",
+      "style": 0,
+      "name": "タツ　もう帰る場所はないと思ってたんですも[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086404_MSG0018",
+      "style": 0,
+      "name": "そっか[ST:wide ]―\nよかったね　タツ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086404_MSG0019",
+      "style": 0,
+      "name": "ありがとですも[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086404_MSG0020",
+      "style": 0,
+      "name": "それでカーチャン[ST:wide ]―\nタツ　こないだ１３歳になりましたですも！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086404_MSG0021",
+      "style": 0,
+      "name": "１３歳といえば一人前のノポン[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086404_MSG0022",
+      "style": 0,
+      "name": "タツが１３歳になったらくれると言っていた\nメガネ　使わせてほしいですも！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086404_MSG0023",
+      "style": 0,
+      "name": "あ　ああ　あれね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086404_MSG0024",
+      "style": 0,
+      "name": "何か　特別なメガネなの？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086404_MSG0025",
+      "style": 0,
+      "name": "トーチャンが若い頃に使ってたメガネ\nなんですも！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086404_MSG0026",
+      "style": 0,
+      "name": "タツがもらったのに　一人前になるまで\nつけないっていう約束だったんですも！[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086404_MSG0027",
+      "style": 0,
+      "name": "タツのお父さんって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086404_MSG0028",
+      "style": 0,
+      "name": "それは聞かないでほしいですも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086404_MSG0029",
+      "style": 0,
+      "name": "ご　ごめんね[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086404_MSG0030",
+      "style": 0,
+      "name": "すまないね　タツ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086404_MSG0031",
+      "style": 0,
+      "name": "カーチャン　お前が食べられてしまった\nと思ったから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086404_MSG0032",
+      "style": 0,
+      "name": "海に流しちまったんだも　メガネ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086404_MSG0033",
+      "style": 0,
+      "name": "な　なんですも～～！？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086404_MSG0034",
+      "style": 0,
+      "name": "ノポンの習わしなんだも[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086404_MSG0035",
+      "style": 0,
+      "name": "旅立ってしまった者に届くようにって\n願いを込めて　海に流すんだも[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086404_MSG0036",
+      "style": 0,
+      "name": "そ　そんな[ST:wide ]―　ですも[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev086404_MSG0037",
+      "style": 0,
+      "name": "あれはトーチャンとタツの\n唯一の思い出の品だったんですのにも[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086404_JNK0030",
+      "style": 4,
+      "name": "捜索"
+    },
+    {
+      "$id": 45,
+      "label": "qev086404_SEL0031",
+      "style": 3,
+      "name": "あきらめずに探すことを提案"
+    },
+    {
+      "$id": 46,
+      "label": "qev086404_JNK0040",
+      "style": 4,
+      "name": "慰安"
+    },
+    {
+      "$id": 47,
+      "label": "qev086404_SEL0041",
+      "style": 3,
+      "name": "思い出よりこれからだと語る"
+    },
+    {
+      "$id": 48,
+      "label": "qev086404_MSG0038",
+      "style": 0,
+      "name": "そうですよ　海に流したんなら\nどっかに流れ着いてるかもしれないし[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev086404_MSG0039",
+      "style": 0,
+      "name": "さすがリンさんですも！\n良いところに気づいてくれましたも！[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev086404_MSG0040",
+      "style": 0,
+      "name": "な　なんてこと言うんですか～！[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev086404_MSG0041",
+      "style": 0,
+      "name": "お父さんとの思い出を簡単に忘れろなんて\nあんまりです！[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev086404_MSG0042",
+      "style": 0,
+      "name": "カカさん[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev086404_MSG0043",
+      "style": 0,
+      "name": "メガネを流した場所を教えてください\n潮の流れから計算してみます[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev086404_MSG0044",
+      "style": 0,
+      "name": "ああ　それなら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev086404_MSG0045",
+      "style": 0,
+      "name": "出ました！\nここですね！[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev086404_MSG0046",
+      "style": 0,
+      "name": "ＮＬＡから近いわね[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev086404_MSG0047",
+      "style": 0,
+      "name": "す　すぐ行ってみるですも！[ST:wait ]"
+    }
+  ]
+}

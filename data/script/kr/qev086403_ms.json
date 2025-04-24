@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086403_MSG0001",
+      "style": 0,
+      "name": "그리운 느낌이다모……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086403_MSG0002",
+      "style": 0,
+      "name": "여기는 타츠의 고향\n도돈가 카라반이 분명하다모[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086403_MSG0003",
+      "style": 0,
+      "name": "너 혹시 타츠냐모?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086403_MSG0004",
+      "style": 0,
+      "name": "타츠라니, 바이어스인에게\n잡아먹힌 게 아니었냐모!?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086403_MSG0005",
+      "style": 0,
+      "name": "어, 아빠다모![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086403_MSG0006",
+      "style": 0,
+      "name": "아빠~![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086403_MSG0007",
+      "style": 0,
+      "name": "아빠, 배고프다모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086403_MSG0008",
+      "style": 0,
+      "name": "아빠, 선물 줘모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086403_MSG0009",
+      "style": 0,
+      "name": "자…… 잠깐 기다려라모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086403_MSG0010",
+      "style": 0,
+      "name": "타츠 너, 자식이 이렇게 많았어?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086403_MSG0011",
+      "style": 0,
+      "name": "너 설마, 실은 아저씨였어?\n올해로 40살이고 그런 거야!?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086403_MSG0013",
+      "style": 0,
+      "name": "오해다모!\n타츠는 아직 13살 미소년이다모![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086403_MSG0014",
+      "style": 0,
+      "name": "얘들아~\n그건 아빠가 아니야모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086403_MSG0015",
+      "style": 0,
+      "name": "너희들의 오빠, 형이란다모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086403_MSG0016",
+      "style": 0,
+      "name": "어, 엄마……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086403_MSG0017",
+      "style": 0,
+      "name": "저 사람이 타츠의 어머니야?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086403_MSG0018",
+      "style": 0,
+      "name": "그렇다모\n엄마인 카카다모[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086403_MSG0019",
+      "style": 0,
+      "name": "그럼 인사해야지\n가자[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001294_MSG0001",
+      "style": 1,
+      "name": "앗, [ST:playername ] 씨\n안녕하세요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001294_MSG0002",
+      "style": 1,
+      "name": "지금 저녁 식사 재료를 사려던 참이에요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001294_MSG0003",
+      "style": 1,
+      "name": "오늘은 뭐가 먹고 싶나요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001294_JNK0010",
+      "style": 4,
+      "name": "입후보"
+    },
+    {
+      "$id": 5,
+      "label": "tev001294_SEL0011",
+      "style": 3,
+      "name": "가끔은 내가 하겠다고 말한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001294_JNK0020",
+      "style": 4,
+      "name": "권유"
+    },
+    {
+      "$id": 7,
+      "label": "tev001294_SEL0021",
+      "style": 3,
+      "name": "식재료보다 옷을 먼저 보자고\n권유한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001294_JNK0030",
+      "style": 4,
+      "name": "비상식량"
+    },
+    {
+      "$id": 9,
+      "label": "tev001294_SEL0031",
+      "style": 3,
+      "name": "이제 슬슬 타츠를 먹자고\n제안한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001294_MSG0004",
+      "style": 1,
+      "name": "와, 정말요?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001294_MSG0005",
+      "style": 1,
+      "name": "뭘 만들어 주려나~\n잘하는 요리가 뭐예요?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001294_JNK0110",
+      "style": 4,
+      "name": "회"
+    },
+    {
+      "$id": 13,
+      "label": "tev001294_SEL0111",
+      "style": 3,
+      "name": "회를 잘 만든다고\n자신 있게 나선다"
+    },
+    {
+      "$id": 14,
+      "label": "tev001294_JNK0120",
+      "style": 4,
+      "name": "바비큐"
+    },
+    {
+      "$id": 15,
+      "label": "tev001294_SEL0121",
+      "style": 3,
+      "name": "바비큐를 잘 만든다고\n자신 있게 나선다"
+    },
+    {
+      "$id": 16,
+      "label": "tev001294_JNK0130",
+      "style": 4,
+      "name": "푸딩"
+    },
+    {
+      "$id": 17,
+      "label": "tev001294_SEL0131",
+      "style": 3,
+      "name": "푸딩을 잘 만든다고\n자신 있게 나선다"
+    },
+    {
+      "$id": 18,
+      "label": "tev001294_JNK0140",
+      "style": 4,
+      "name": "양갱"
+    },
+    {
+      "$id": 19,
+      "label": "tev001294_SEL0141",
+      "style": 3,
+      "name": "양갱을 잘 만든다고\n자신 있게 나선다"
+    },
+    {
+      "$id": 20,
+      "label": "tev001294_JNK0150",
+      "style": 4,
+      "name": "오믈렛"
+    },
+    {
+      "$id": 21,
+      "label": "tev001294_SEL0151",
+      "style": 3,
+      "name": "오믈렛을 잘 만든다고\n자신 있게 나선다"
+    },
+    {
+      "$id": 22,
+      "label": "tev001294_MSG0006",
+      "style": 1,
+      "name": "회인가요~[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001294_MSG0007",
+      "style": 1,
+      "name": "아니, 자르기만 하는 거잖아요\n대단하다면 대단하지만……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001294_MSG0008",
+      "style": 1,
+      "name": "나기 아저씨가 좋아할 것 같고\n전 별로 먹어 본 적이 없어서\n굉장히 흥미롭네요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001294_MSG0009",
+      "style": 1,
+      "name": "오늘은 그걸로 해요\n신선한 생선이 있으면 좋겠는데~[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001294_MSG0010",
+      "style": 1,
+      "name": "바비큐인가요~[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001294_MSG0011",
+      "style": 1,
+      "name": "아니, 굽기만 하는 거잖아요\n요리라고 부를 만한 건 거의 없죠!?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001294_MSG0012",
+      "style": 1,
+      "name": "그래도 왠지 스태미나가 보충될 것 같네요\n반담 사령관님만큼 힘이 세질 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001294_MSG0013",
+      "style": 1,
+      "name": "오늘은 그걸로 해요\n그러면 저는 장 보고 바로 돌아갈게요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001294_MSG0014",
+      "style": 1,
+      "name": "푸딩이요!?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001294_MSG0015",
+      "style": 1,
+      "name": "저 푸딩을 정말 좋아해요\n몇 번 도전해 봤지만\n만들기 꽤 어려워서……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001294_MSG0016",
+      "style": 1,
+      "name": "그렇게 어려운데 잘 만든다니\n감탄했어요~[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001294_MSG0017",
+      "style": 1,
+      "name": "……아, 그래도 역시\n저녁 반찬으로 푸딩은 아니죠?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001294_MSG0018",
+      "style": 1,
+      "name": "오늘 메뉴는 제가 생각할 테니까\n푸딩은 다음에 간식으로 만들어 주세요![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001294_MSG0019",
+      "style": 1,
+      "name": "기대하고 있을게요![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001294_MSG0020",
+      "style": 1,
+      "name": "일본식 과자 장인이었어요!?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001294_MSG0021",
+      "style": 1,
+      "name": "대단하네요\n분명 나기 아저씨나 모리스 장관님이\n엄청나게 좋아할 거예요[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001294_MSG0022",
+      "style": 1,
+      "name": "……하지만 저녁 식사로는\n어울리지 않잖아요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001294_MSG0023",
+      "style": 1,
+      "name": "오늘 메뉴는 제가 생각할 테니까\n양갱은 다음에 간식으로 만들어 주세요![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001294_MSG0024",
+      "style": 1,
+      "name": "기대하고 있을게요![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001294_MSG0025",
+      "style": 1,
+      "name": "오믈렛이요!?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001294_MSG0026",
+      "style": 1,
+      "name": "폭신폭신하고 예쁜 모양으로 마무리하는 게\n어렵단 말이죠[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001294_MSG0027",
+      "style": 1,
+      "name": "하지만 그 여유로운 표정은 왠지\n요리를 잘하는 사람처럼 보이네요[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001294_MSG0028",
+      "style": 1,
+      "name": "전 반숙을 좋아하니까\n레어로 부탁해요![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001294_MSG0029",
+      "style": 1,
+      "name": "그러면 전 계란과 버터를 사 갈게요\n프라이팬을 준비해 놔 주세요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001294_MSG0030",
+      "style": 1,
+      "name": "네에!?\n제 사복이 촌스러워서 그래요!?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001294_MSG0031",
+      "style": 1,
+      "name": "그런데 사복 입은 모습 별로 본 적 없죠?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001294_MSG0032",
+      "style": 1,
+      "name": "움직이기 편해서 이너 슈트만 입다 보니\n사복은 별로 자신이 없어서……[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001294_MSG0033",
+      "style": 1,
+      "name": "그래도 저 혼자서는 부끄러우니까\n다음에 엘마 씨랑 같이 데려가 주세요[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001294_MSG0034",
+      "style": 1,
+      "name": "그리고 먼저 제안해 줬다는 건\n옷은 사 준다는 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev001294_MSG0035",
+      "style": 1,
+      "name": "아, 기대돼~[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev001294_MSG0036",
+      "style": 1,
+      "name": "기뻐할 때가 아니었어요\n오늘 저녁 메뉴를 고민하고 있었다고요[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev001294_MSG0037",
+      "style": 1,
+      "name": "오늘 타츠를 먹는 건 가여워요[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev001294_MSG0038",
+      "style": 1,
+      "name": "좀 더 통통하게 살찌운 후에\n먹지 않으면 아깝잖아요[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001294_MSG0039",
+      "style": 1,
+      "name": "농담은 그만하고~\n중요한 건 오늘 저녁 식사예요[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev001294_MSG0040",
+      "style": 1,
+      "name": "어제는 햄버그였고\n그저께는 나기 아저씨의 수제 메밀국수……[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev001294_MSG0041",
+      "style": 1,
+      "name": "그렇다면 오늘은 역시 그거죠?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev001294_MSG0042",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev001294_MSG0043",
+      "style": 1,
+      "name": "음~ 모르겠어요?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev001294_MSG0044",
+      "style": 1,
+      "name": "카레예요!\n메밀국수에도 햄버그에도 어울릴 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev001294_MSG0045",
+      "style": 1,
+      "name": "기대해 주세요![ST:wait ]"
+    }
+  ]
+}

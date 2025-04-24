@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev036002_MSG0001",
+      "style": 1,
+      "name": "프레지는 제 마음을\n빛으로 가득 채워 줬습니다……\n기적의 신으로 말이죠……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev036002_MSG0002",
+      "style": 1,
+      "name": "기적의 신은 믿는 자에게\n축복을 내려……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev036002_MSG0003",
+      "style": 1,
+      "name": "고통에 빠진 마 논들을\n구원해 주셨습니다……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev036002_MSG0004",
+      "style": 1,
+      "name": "그런 존재를 믿지 않는다니……\n스타카터가 너무나 안타깝습니다……[ST:wait ]"
+    }
+  ]
+}

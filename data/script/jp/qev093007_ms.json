@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093007_MSG0010",
+      "style": 0,
+      "name": "これでもう　彼女達が\n誰かを傷つけることはない[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093007_MSG0020",
+      "style": 0,
+      "name": "巫女の使命は　巫女の手によって正された[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093007_MSG0025",
+      "style": 0,
+      "name": "[ST:wide ]―この一件は　これで落着だ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093007_MSG0030",
+      "style": 0,
+      "name": "ニール様[ST:wide ]―\n本当によかったのでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093007_MSG0040",
+      "style": 0,
+      "name": "たとえ壊れかけの機械でも\nあのドール達はニール様の[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093007_MSG0050",
+      "style": 0,
+      "name": "それは些細な問題だよ　セリカ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093007_MSG0060",
+      "style": 0,
+      "name": "過去に囚われていては\n未来に目を向けることはできない[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093007_MSG0070",
+      "style": 0,
+      "name": "たとえ自分達のしてきたことへの否定でも\n私は正していきたいんだよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev093007_MSG0080",
+      "style": 0,
+      "name": "クリューが歴史の過ちを乗り越えて\nもう一度　遍く宇宙へと羽ばたけるようにね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093007_MSG0090",
+      "style": 0,
+      "name": "[ST:wide ]―神官の中には\nニール様の巫女としての在り方を[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093007_MSG0100",
+      "style": 0,
+      "name": "“異端”と呼ぶ者もいました[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093007_MSG0110",
+      "style": 0,
+      "name": "本当はニール様こそ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093007_MSG0120",
+      "style": 0,
+      "name": "クリューの[ST:wide ]―　私達の行く末を\n案じてくださっていたというのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093007_MSG0130",
+      "style": 0,
+      "name": "クリューを想う気持ちは皆同じだよ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093007_MSG0135",
+      "style": 0,
+      "name": "ただ　道筋が違うというだけでね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093007_MSG0140",
+      "style": 0,
+      "name": "それに　異星文明との接触が\n必ずしも悪い結果を招くとは限らない[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093007_MSG0150",
+      "style": 0,
+      "name": "信仰と技術を用いずとも\n言葉だけで手を取り合うことだってできる[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093007_MSG0160",
+      "style": 0,
+      "name": "地球人とクリュー人が\nそうであるように[ST:wide ]―　ね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093007_MSG0170",
+      "style": 0,
+      "name": "[ST:wide ]―はい[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093007_MSG0180",
+      "style": 0,
+      "name": "さて[ST:wide ]―　ここでの問題は片付いたけど\nまだまだミラでやるべきことはいっぱいだ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093007_MSG0190",
+      "style": 0,
+      "name": "多様な異星文明が一つの惑星に集中するなんて\n宇宙考古学的に見ても普通じゃない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev093007_MSG0200",
+      "style": 0,
+      "name": "この謎に満ちた惑星を調べ尽くすまで\n私の仕事は終わりそうにないよ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev093007_JNK0210",
+      "style": 4,
+      "name": "積極"
+    },
+    {
+      "$id": 24,
+      "label": "qev093007_SEL0220",
+      "style": 3,
+      "name": "依頼ならいつでも受けると伝える"
+    },
+    {
+      "$id": 25,
+      "label": "qev093007_MSG0230",
+      "style": 0,
+      "name": "うん　この星でのフィールドワークには\nもはやキミは欠かせないね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev093007_MSG0240",
+      "style": 0,
+      "name": "あ　いっそ私の助手にならない？\nうん　きっとそれがいいよ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev093007_MSG0250",
+      "style": 0,
+      "name": "あの　ニール様　地球の人達にも\nそれぞれ事情がありますから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev093007_JNK0260",
+      "style": 4,
+      "name": "消極"
+    },
+    {
+      "$id": 29,
+      "label": "qev093007_SEL0270",
+      "style": 3,
+      "name": "少し休もうと提案する"
+    },
+    {
+      "$id": 30,
+      "label": "qev093007_MSG0280",
+      "style": 0,
+      "name": "あはは　そうだね\nさすがの私もちょっと疲れたかな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev093007_MSG0290",
+      "style": 0,
+      "name": "NLAに戻ったら\nみんなで休養がてら食事にでも行こう[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev093007_MSG0300",
+      "style": 0,
+      "name": "もちろん　ガウルの友人も一緒にね[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev093007_MSG0310",
+      "style": 0,
+      "name": "はい　ぜひ[ST:wide ]―！[ST:wait ]"
+    }
+  ]
+}

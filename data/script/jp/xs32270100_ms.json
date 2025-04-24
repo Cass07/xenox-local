@@ -1,0 +1,276 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32270100_MSG0010",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "xs32270100_MSG0020",
+      "style": 0,
+      "name": "アルさん[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32270100_MSG0030",
+      "style": 0,
+      "name": "[ST:wide ]―調子はどうですか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32270100_MSG0040",
+      "style": 0,
+      "name": "もちろん最低だ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32270100_MSG0050",
+      "style": 0,
+      "name": "そっちはどうだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32270100_MSG0060",
+      "style": 0,
+      "name": "最高ではありませんが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32270100_MSG0070",
+      "style": 0,
+      "name": "悪くはないです[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32270100_MSG0080",
+      "style": 0,
+      "name": "そりゃ何よりだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32270100_MSG0090",
+      "style": 0,
+      "name": "私[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32270100_MSG0100",
+      "style": 0,
+      "name": "ずっと不思議だったんです[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32270100_MSG0110",
+      "style": 0,
+      "name": "コアを奪われてなお　どうしてアレスは\n以前と同じように稼働できるのかって[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32270100_MSG0120",
+      "style": 0,
+      "name": "アルさんがいたからなんですね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32270100_MSG0130",
+      "style": 0,
+      "name": "ゾッとしない話だがな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32270100_MSG0140",
+      "style": 0,
+      "name": "アルさんを見ていると[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32270100_MSG0150",
+      "style": 0,
+      "name": "心は人間の体のどこにあるのかっていう[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32270100_MSG0160",
+      "style": 0,
+      "name": "永遠の命題の答えがわかる気がするんです[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32270100_MSG0170",
+      "style": 0,
+      "name": "ほう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32270100_MSG0180",
+      "style": 0,
+      "name": "きっと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32270100_MSG0190",
+      "style": 0,
+      "name": "心は人の体に収まるものじゃないんです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32270100_MSG0200",
+      "style": 0,
+      "name": "[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]にパッケージされた人の意識とは\n別のものです[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32270100_MSG0210",
+      "style": 0,
+      "name": "その人の生き方　考え方を映す\n他の人の心があって[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32270100_MSG0220",
+      "style": 0,
+      "name": "関わるすべての人の中にも\n一人の人間の心は存在している[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32270100_MSG0230",
+      "style": 0,
+      "name": "私は　そんな風に思います[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32270100_MSG0240",
+      "style": 0,
+      "name": "心は単体では存在し得ないってことか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32270100_MSG0250",
+      "style": 0,
+      "name": "アルさんの心は[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32270100_MSG0260",
+      "style": 0,
+      "name": "アルさんを英雄と呼ぶみんなの\n心の中にもあります[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32270100_MSG0270",
+      "style": 0,
+      "name": "私の心も[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32270100_MSG0280",
+      "style": 0,
+      "name": "私を知ってくれるすべての人の心の中に\n存在しているはずです[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32270100_MSG0290",
+      "style": 0,
+      "name": "だから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32270100_MSG0300",
+      "style": 0,
+      "name": "だから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32270100_MSG0310",
+      "style": 0,
+      "name": "最後まで私のことを忘れないでいてくれた\nラオさんの心も[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32270100_MSG0320",
+      "style": 0,
+      "name": "私の中で生き続けます[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32270100_MSG0330",
+      "style": 0,
+      "name": "アルさんが戻ってくれなければ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32270100_MSG0340",
+      "style": 0,
+      "name": "私[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32270100_MSG0350",
+      "style": 0,
+      "name": "気づけないままだったかもしれません[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs32270100_MSG0360",
+      "style": 0,
+      "name": "そんなことはない[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs32270100_MSG0370",
+      "style": 0,
+      "name": "リン[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs32270100_MSG0380",
+      "style": 0,
+      "name": "お前はずっと知っていたさ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs32270100_MSG0390",
+      "style": 0,
+      "name": "えっ？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs32270100_MSG0400",
+      "style": 0,
+      "name": "誰かの心を自分のように\n感じることが出来る[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs32270100_MSG0410",
+      "style": 0,
+      "name": "充分だったんだよ　それで[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs32270100_MSG0420",
+      "style": 0,
+      "name": "お前は最後にラオの希望になったんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs32270100_MSG0430",
+      "style": 0,
+      "name": "誇っていい[ST:wait ]"
+    }
+  ]
+}

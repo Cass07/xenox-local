@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs01020100_MSG0001",
+      "style": 0,
+      "name": "だから何でコクピットの中に\n排気煙が入ってくるんだよ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs01020100_MSG0002",
+      "style": 0,
+      "name": "ダクトまわり　何かおかしくないか？[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs01020100_MSG0003",
+      "style": 0,
+      "name": "えー　そんなはずはないんですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs01020100_MSG0004",
+      "style": 0,
+      "name": "あーっ　吸排気バイパスが逆につながってる！[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs01020100_MSG0005",
+      "style": 0,
+      "name": "もう　誰こんなことしたのー[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs01020100_MSG0006",
+      "style": 0,
+      "name": "誰って[ST:wide ]―　最後に見たメカニック\nお前さんだぜ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs01020100_MSG0007",
+      "style": 0,
+      "name": "何か失敗？\n珍しいわね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs01020100_MSG0008",
+      "style": 0,
+      "name": "でもパイロットが頑丈なダグで\nよかったじゃない　リン[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs01020100_MSG0009",
+      "style": 0,
+      "name": "あっ　エルマさん！\nお帰りなさい！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs01020100_MSG0010",
+      "style": 0,
+      "name": "エルマさん　この人ってもしかして[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs01020100_MSG0010_m",
+      "style": 0,
+      "name": "エルマさん　この人ってもしかして[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs01020100_MSG0010_f",
+      "style": 0,
+      "name": "エルマさん　この人ってもしかして[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs01020100_MSG0011",
+      "style": 0,
+      "name": "すっごーい！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs01020100_MSG0012",
+      "style": 0,
+      "name": "私　リンリー・クー　１３歳\nブレイドでメカニックなんかをやってます！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs01020100_JNK0010",
+      "style": 4,
+      "name": "驚き"
+    },
+    {
+      "$id": 16,
+      "label": "xs01020100_SEL0011",
+      "style": 3,
+      "name": "年齢を聞きなおす"
+    },
+    {
+      "$id": 17,
+      "label": "xs01020100_JNK0020",
+      "style": 4,
+      "name": "関心"
+    },
+    {
+      "$id": 18,
+      "label": "xs01020100_SEL0021",
+      "style": 3,
+      "name": "容姿に見惚れる"
+    },
+    {
+      "$id": 19,
+      "label": "xs01020100_MSG0013",
+      "style": 0,
+      "name": "驚いたようね[ST:wait ]\n"
+    },
+    {
+      "$id": 20,
+      "label": "xs01020100_MSG0014",
+      "style": 0,
+      "name": "でも　この歳でも彼女は選ばれたスタッフよ\n腕は　保証するわ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs01020100_MSG0015",
+      "style": 0,
+      "name": "どうしたんですか？\nオイルとか顔についてます？[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "xs01020100_MSG0016",
+      "style": 0,
+      "name": "そういうことじゃないわよ[ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "xs01020100_MSG0017",
+      "style": 0,
+      "name": "興味を持つのは分かるわ[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "xs01020100_MSG0018",
+      "style": 0,
+      "name": "でもね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs01020100_MSG0019",
+      "style": 0,
+      "name": "こう見えても　彼女は選ばれたスタッフよ\n腕は　保証するわ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs01020100_MSG0020",
+      "style": 0,
+      "name": "まあ　たまにゃ失敗もあるけどな[ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "xs01020100_MSG0021",
+      "style": 0,
+      "name": "これからブレイドホームに戻るんですか？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs01020100_MSG0022",
+      "style": 0,
+      "name": "ええ　そうよ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs01020100_MSG0023",
+      "style": 0,
+      "name": "せっかくですから　輸送機で行きませんか？\nＮＬＡも一望出来ますし　紹介もできますから[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs01020100_MSG0024",
+      "style": 0,
+      "name": "なるほど　それもいいわね[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs01020100_MSG0025",
+      "style": 0,
+      "name": "ダグさん\nそのドール　片付けといてください[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "xs01020100_MSG0026",
+      "style": 0,
+      "name": "私　エルマさん達と一緒に帰ります[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs01020100_MSG0027",
+      "style": 0,
+      "name": "は？[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs01020100_MSG0028",
+      "style": 0,
+      "name": "フライトパックのテストはまた明日\nではでは[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs01020100_MSG0029",
+      "style": 0,
+      "name": "ちょっ　なんで俺が[ST:wide ]―\nお　おいっ　リン　リン！[ST:wait ]\n"
+    }
+  ]
+}

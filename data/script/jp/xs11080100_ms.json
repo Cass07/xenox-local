@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11080100_MSG0001",
+      "style": 0,
+      "name": "さすが　ＮＬＡ１のチームは違うなぁ[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs11080100_MSG0002",
+      "style": 0,
+      "name": "ラオさん！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs11080100_MSG0003",
+      "style": 0,
+      "name": "ルクザール[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs11080100_MSG0003_02",
+      "style": 0,
+      "name": "グロウス総帥の脳みそ野郎は　俺達の生身の\n身体が恐ろしくてしょうがないのさ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs11080100_MSG0004",
+      "style": 0,
+      "name": "なもんで　俺にはここで\nあんたらの足止めをしとけってよ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs11080100_MSG0005",
+      "style": 0,
+      "name": "[System:Ruby rt=デバイス ]端末[/System:Ruby]を持っているのがあなたである以上\n私達はここへ来るしかなかったものね[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs11080100_MSG0006",
+      "style": 0,
+      "name": "奴らがライフを破壊すればこの[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]を\n動かしてる俺達の意識も消える[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs11080100_MSG0007",
+      "style": 0,
+      "name": "あと少しさ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11080100_MSG0008",
+      "style": 0,
+      "name": "あなたはそれが恐ろしくないの？[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs11080100_MSG0009",
+      "style": 0,
+      "name": "恐ろしいどころか　楽しみさ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs11080100_MSG0010",
+      "style": 0,
+      "name": "幽霊として徘徊する\nこの偽りの生から解放されるんだからな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11080100_MSG0011",
+      "style": 0,
+      "name": "偽りの生だなんて[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs11080100_MSG0012",
+      "style": 0,
+      "name": "たとえ[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]だとしても私達は生きてます！\n偽物なんかじゃない！[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs11080100_MSG0013",
+      "style": 0,
+      "name": "いいや　俺達は死んだのさ\nあの時　地球と一緒にな[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs11080100_MSG0014",
+      "style": 0,
+      "name": "悪いけど　会話を楽しんでいる余裕はないの[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs11080100_MSG0015",
+      "style": 0,
+      "name": "話をしたいなら聞いてあげるけど\nこちらからは攻撃させてもらう[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs11080100_MSG0016",
+      "style": 0,
+      "name": "了解だ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs11080100_MSG0017",
+      "style": 0,
+      "name": "じゃあ　対話に付き合ってもらう代わりに\n戦闘にお付き合いするとしようかね[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs11080100_MSG0018",
+      "style": 0,
+      "name": "行くぜ！[ST:wait ]"
+    }
+  ]
+}

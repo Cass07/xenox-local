@@ -1,0 +1,402 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091001_MSG0001",
+      "style": 0,
+      "name": "ううむ[ST:wide ]―　困ったな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091001_JNK0010",
+      "style": 4,
+      "name": "声を掛ける"
+    },
+    {
+      "$id": 3,
+      "label": "qev091001_SEL0011",
+      "style": 3,
+      "name": "声を掛けて　救いの手を差し伸べてみる"
+    },
+    {
+      "$id": 4,
+      "label": "qev091001_JNK0020",
+      "style": 4,
+      "name": "様子見する"
+    },
+    {
+      "$id": 5,
+      "label": "qev091001_SEL0021",
+      "style": 3,
+      "name": "まだ声を掛けず　しばらく様子を伺う"
+    },
+    {
+      "$id": 6,
+      "label": "qev091001_MSG0002",
+      "style": 0,
+      "name": "もしかして　お前さんも俺と同じ口か？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091001_MSG0003",
+      "style": 0,
+      "name": "そりゃちょうどいい　俺がおごってやるから\n一緒に飲んだくれようぜ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091001_MSG0004",
+      "style": 0,
+      "name": "一人で寂しく飲みたくはないが\n連れは誰も空いてねぇ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091001_MSG0005",
+      "style": 0,
+      "name": "どうしたものか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091001_MSG0006",
+      "style": 0,
+      "name": "[ST:wide ]―ちょうどいいヤツがいるじゃないか！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091001_MSG0007",
+      "style": 0,
+      "name": "そこのお前さん　俺がおごってやるから\n一緒に飲んだくれようぜ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091001_MSG0007_m",
+      "style": 0,
+      "name": "そこのお前さん　俺がおごってやるから\n一緒に飲んだくれようぜ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091001_MSG0007_f",
+      "style": 0,
+      "name": "そこのお前さん　俺がおごってやるから\n一緒に飲んだくれようぜ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091001_JNK0030",
+      "style": 4,
+      "name": "つきあう"
+    },
+    {
+      "$id": 15,
+      "label": "qev091001_SEL0031",
+      "style": 3,
+      "name": "ありがたくおごってもらう"
+    },
+    {
+      "$id": 16,
+      "label": "qev091001_JNK0040",
+      "style": 4,
+      "name": "遠慮する"
+    },
+    {
+      "$id": 17,
+      "label": "qev091001_SEL0041",
+      "style": 3,
+      "name": "気分が乗らないからと遠慮する"
+    },
+    {
+      "$id": 18,
+      "label": "qev091001_JNK0050",
+      "style": 4,
+      "name": "断る"
+    },
+    {
+      "$id": 19,
+      "label": "qev091001_SEL0051",
+      "style": 3,
+      "name": "未成年だから飲めないと断る"
+    },
+    {
+      "$id": 20,
+      "label": "qev091001_MSG0008",
+      "style": 0,
+      "name": "いいね　そうこなくっちゃいけねえ\n朝まで飲み明かそうぜ！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091001_MSG0009",
+      "style": 0,
+      "name": "俺の酒が飲めねえって言うのか？\n見上げた根性してるじゃねえか[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091001_MSG0010",
+      "style": 0,
+      "name": "いいからつきあえ！　朝まで飲むぞ！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091001_MSG0011",
+      "style": 0,
+      "name": "問題ないぞ　お前さんは\nジュースでもミルクでも飲んでりゃいいさ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091001_MSG0012",
+      "style": 0,
+      "name": "俺は一緒に飲んでくれるヤツが\n隣にいればいいだけだからな！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091001_MSG0013",
+      "style": 0,
+      "name": "楽しかったなぁ！\n本当にお天道さまが昇っちまいやがった[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091001_MSG0014",
+      "style": 0,
+      "name": "よし　じゃあ　そろそろ本番行くか！！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091001_MSG0014_m",
+      "style": 0,
+      "name": "よし　じゃあ　そろそろ本番行くか！！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091001_MSG0014_f",
+      "style": 0,
+      "name": "よし　じゃあ　そろそろ本番行くか！！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091001_JNK0060",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 30,
+      "label": "qev091001_SEL0061",
+      "style": 3,
+      "name": "どこへ行くのか尋ねる"
+    },
+    {
+      "$id": 31,
+      "label": "qev091001_JNK0070",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 32,
+      "label": "qev091001_SEL0071",
+      "style": 3,
+      "name": "家に帰って寝るべきだと提案する"
+    },
+    {
+      "$id": 33,
+      "label": "qev091001_JNK0080",
+      "style": 4,
+      "name": "同調"
+    },
+    {
+      "$id": 34,
+      "label": "qev091001_SEL0081",
+      "style": 3,
+      "name": "まだまだ飲み足りないと次に誘う"
+    },
+    {
+      "$id": 35,
+      "label": "qev091001_MSG0015",
+      "style": 0,
+      "name": "決まってるだろ？[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091001_MSG0016",
+      "style": 0,
+      "name": "インターセプターの仕事と言えば\n原生生物の討伐だぜ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091001_MSG0018",
+      "style": 0,
+      "name": "今日が休養日ならそうしてたがな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091001_MSG0019",
+      "style": 0,
+      "name": "残念なことに原生生物を討伐する\nって仕事があるんだよな[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091001_MSG0020",
+      "style": 0,
+      "name": "なんだ　きょとんとした顔をして[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091001_MSG0021",
+      "style": 0,
+      "name": "おいおい　とんだ飲んだくれだな[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091001_MSG0022",
+      "style": 0,
+      "name": "日が高いうちはせっせと働いて\nＮＬＡに貢献すべきだろ？[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091001_MSG0023",
+      "style": 0,
+      "name": "なんだ　意外そうな顔をして\n俺だってブレイドの端くれなんだぜ？[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091001_MSG0024",
+      "style": 0,
+      "name": "そうか　自己紹介がまだだったな[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091001_MSG0025",
+      "style": 0,
+      "name": "俺の名はフライ[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091001_MSG0026",
+      "style": 0,
+      "name": "インターセプターのヤツらには\n凶猛の駝鳥って呼ばれてる[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091001_MSG0027",
+      "style": 0,
+      "name": "最高にダサいだろ？[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091001_MSG0028",
+      "style": 0,
+      "name": "けど　割と気に入ってるんだ[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091001_MSG0029",
+      "style": 0,
+      "name": "誰もが受けねえような\nヤバい仕事ばっかりこなしてたら[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091001_MSG0030",
+      "style": 0,
+      "name": "そう呼ばれるようになったんだ[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091001_MSG0031",
+      "style": 0,
+      "name": "勲章みたいなもんだな[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091001_MSG0032",
+      "style": 0,
+      "name": "ってことで　今日も凶悪な任務を\nこなさなきゃならんというわけだ[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091001_MSG0033",
+      "style": 0,
+      "name": "が　何かの縁だ　お前さんも一緒に来るだろ？[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091001_JNK0090",
+      "style": 4,
+      "name": "肯定する"
+    },
+    {
+      "$id": 54,
+      "label": "qev091001_SEL0091",
+      "style": 3,
+      "name": "一緒に行こうと肯定する"
+    },
+    {
+      "$id": 55,
+      "label": "qev091001_JNK0100",
+      "style": 4,
+      "name": "否定する"
+    },
+    {
+      "$id": 56,
+      "label": "qev091001_SEL0101",
+      "style": 3,
+      "name": "一緒に行きたくはないと否定する"
+    },
+    {
+      "$id": 57,
+      "label": "qev091001_MSG0034",
+      "style": 0,
+      "name": "ノリと威勢がいいのは好きだぞ[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091001_MSG0035",
+      "style": 0,
+      "name": "協力し合い\nビシっと任務を達成しようじゃないか！[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091001_MSG0036",
+      "style": 0,
+      "name": "ビビっちまったのか？[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev091001_MSG0037",
+      "style": 0,
+      "name": "問題ないぞ　この俺が付いてるんだからな！[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev091001_MSG0039",
+      "style": 0,
+      "name": "任務の詳細だが\n目的は白樹の大陸一帯の敵性生物の掃討だ[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev091001_MSG0042",
+      "style": 0,
+      "name": "とはいえ　量がハンパじゃない[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev091001_MSG0043",
+      "style": 0,
+      "name": "いちいち説明するのも面倒だから\nお前さんの[System:Ruby rt=デバイス ]端末[/System:Ruby]に送っておくぜ[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev091001_MSG0044",
+      "style": 0,
+      "name": "リストの上から順に片付けていこうぜ[ST:wait ]"
+    }
+  ]
+}

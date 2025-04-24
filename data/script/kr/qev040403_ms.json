@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040403_MSG0001",
+      "style": 1,
+      "name": "사츠~~! 어디 있나모~\n찾다가 지쳐서 배가 꼬르륵거린다모[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040403_JNK0010",
+      "style": 4,
+      "name": "사실"
+    },
+    {
+      "$id": 3,
+      "label": "qev040403_SEL0011",
+      "style": 3,
+      "name": "사츠를 찾았다고 사실을 전한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev040403_JNK0020",
+      "style": 4,
+      "name": "농담"
+    },
+    {
+      "$id": 5,
+      "label": "qev040403_SEL0021",
+      "style": 3,
+      "name": "사츠는 여행을 떠났다고 말한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev040403_MSG0002",
+      "style": 1,
+      "name": "해냈다모![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev040403_MSG0003",
+      "style": 1,
+      "name": "그 얘기를 들으니까 요요츠는\n배가 더 많이 고파졌다모![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev040403_MSG0004",
+      "style": 1,
+      "name": "얼른 돌아가서 다 함께 밥을 먹자모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev040403_MSG0005",
+      "style": 1,
+      "name": "그럴 수가모! 슬픈 일이다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev040403_MSG0006",
+      "style": 1,
+      "name": "하지만 남은 사람들이\n밥을 잔뜩 먹어 주는 게[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev040403_MSG0007",
+      "style": 1,
+      "name": "떠난 사람을 격려하는 길일 거다모[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev040403_MSG0008",
+      "style": 1,
+      "name": "마음이 찢어질 것 같지만 대신\n위장이 찢어질 때까지 밥을 먹겠다모[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev040403_MSG0009",
+      "style": 1,
+      "name": "……그냥 농담한 것뿐이라고모?\n사츠가 카라반으로 돌아온 건가모!?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev040403_MSG0010",
+      "style": 1,
+      "name": "날 속인 건 별로 마음에 안 들지만\n기쁜 일이다모[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev040403_MSG0011",
+      "style": 1,
+      "name": "얼른 돌아가서 축하의 의미로\n밥을 잔뜩 먹어야겠다모![ST:wait ]"
+    }
+  ]
+}

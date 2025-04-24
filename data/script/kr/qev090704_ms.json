@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090704_MSG0001",
+      "style": 0,
+      "name": "……난 목숨을 건진 건가?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090704_MSG0002",
+      "style": 0,
+      "name": "네, 당신이 항상 얕잡아 보던\n저희 블레이드의 힘 덕분이죠[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090704_MSG0003",
+      "style": 0,
+      "name": "너…… HB잖아!\n설마 네가 구하러 올 줄이야![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090704_MSG0004",
+      "style": 0,
+      "name": "역시 자랑스러운 대학 시절 동료만큼\n가치 있는 존재는 또 없지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090704_MSG0005",
+      "style": 0,
+      "name": "그런 이유로 구한 게 아닙니다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090704_MSG0005_02",
+      "style": 0,
+      "name": "그저 당신이 연구에 종사하는 우수한 학자고……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090704_MSG0006",
+      "style": 0,
+      "name": "NLA 사람들에게 당신이 필요하니까\n구했을 뿐이에요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090704_MSG0006_02",
+      "style": 0,
+      "name": "착각하지 말아 주시죠[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090704_MSG0007",
+      "style": 0,
+      "name": "성격은 여전하군!\n하지만 덕분에 살았어, 이 은혜는 잊지 않을게[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090704_MSG0008",
+      "style": 0,
+      "name": "너희 블레이드를 경시하는 말도\n이제 두 번 다시 하지 않겠어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090704_MSG0009",
+      "style": 0,
+      "name": "그렇게 하세요, 당신들이 이 미라에서\n연구를 계속할 수 있는 것도[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090704_MSG0010",
+      "style": 0,
+      "name": "저희의 노력 덕분이니까요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090704_MSG0012",
+      "style": 0,
+      "name": "당신도 이번에 제법 활약했어요\n솔직히 그 원시 생물, 저 혼자서는 못 이겼을 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090704_MSG0013",
+      "style": 0,
+      "name": "무언가 도울 일이 있으면 말해 주세요\n다음에는 제가 협력해 드릴게요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090704_MSG0014",
+      "style": 0,
+      "name": "아무래도 당신은 저와 함께 충분히 임무를\n진행할 수 있는 엘리트인 것 같으니까요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090704_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 17,
+      "label": "qev090704_SEL0011",
+      "style": 3,
+      "name": "일단 잘 부탁한다고\n말해 둔다"
+    },
+    {
+      "$id": 18,
+      "label": "qev090704_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 19,
+      "label": "qev090704_SEL0021",
+      "style": 3,
+      "name": "자신은 엘리트가 아니라며 부정한다"
+    },
+    {
+      "$id": 20,
+      "label": "qev090704_MSG0015",
+      "style": 0,
+      "name": "차기 블레이드 사령관 후보이기도 한\n이 HB에게 인정받았으니[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090704_MSG0016",
+      "style": 0,
+      "name": "더 기뻐하는 게 어때요?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090704_MSG0017",
+      "style": 0,
+      "name": "그야 물론 차기 블레이드 사령관 후보이기도 한\n저와 비견할 정도는 아니지만[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090704_MSG0018",
+      "style": 0,
+      "name": "당신도 그럭저럭 우수한 인간이에요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090704_MSG0019",
+      "style": 0,
+      "name": "……뭐 좋아요, 아무튼 이제부터\n당신은 저와 함께 활동할 수 있어요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090704_MSG0020",
+      "style": 0,
+      "name": "친구로서, 라이벌로서\n더 높은 경지를 향해 나아갑시다![ST:wait ]"
+    }
+  ]
+}

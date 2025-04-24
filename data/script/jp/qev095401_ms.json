@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095401_MSG0001",
+      "style": 1,
+      "name": "ねぇ　時間はある？\n少し世間話をしたいの[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095401_JNK0010",
+      "style": 4,
+      "name": "ある"
+    },
+    {
+      "$id": 3,
+      "label": "qev095401_SEL0011",
+      "style": 3,
+      "name": "世間話に付き合う"
+    },
+    {
+      "$id": 4,
+      "label": "qev095401_JNK0020",
+      "style": 4,
+      "name": "ない"
+    },
+    {
+      "$id": 5,
+      "label": "qev095401_SEL0021",
+      "style": 3,
+      "name": "忙しいのでまた後にしてもらう"
+    },
+    {
+      "$id": 6,
+      "label": "qev095401_MSG0002",
+      "style": 1,
+      "name": "そう[ST:wide ]―\n時間ができれば　声をかけて[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev095401_MSG0003",
+      "style": 1,
+      "name": "重要な世間話があるのよ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095401_MSG0004",
+      "style": 1,
+      "name": "NLAは比較的平和よね\nいろいろな異星人までいるのに[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095401_MSG0005",
+      "style": 1,
+      "name": "覚えてる？\n地球にいたころの人類は\n戦争や紛争ばかりだったじゃない？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095401_MSG0006",
+      "style": 1,
+      "name": "国家間だけでなく　人種の間　あるいは\n民族の間でも争いはつきなかった[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095401_MSG0007",
+      "style": 1,
+      "name": "それから考えると　人類は進歩したといえるの\nかもしれないわね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095401_JNK0030",
+      "style": 4,
+      "name": "同意する"
+    },
+    {
+      "$id": 13,
+      "label": "qev095401_SEL0031",
+      "style": 3,
+      "name": "確かに地球人は成長したと頷く"
+    },
+    {
+      "$id": 14,
+      "label": "qev095401_JNK0040",
+      "style": 4,
+      "name": "否定する"
+    },
+    {
+      "$id": 15,
+      "label": "qev095401_SEL0041",
+      "style": 3,
+      "name": "結局、異星人と争っていると反論する"
+    },
+    {
+      "$id": 16,
+      "label": "qev095401_JNK0050",
+      "style": 4,
+      "name": "質問する"
+    },
+    {
+      "$id": 17,
+      "label": "qev095401_SEL0051",
+      "style": 3,
+      "name": "つまり、何が言いたいのか尋ねる"
+    },
+    {
+      "$id": 18,
+      "label": "qev095401_MSG0008",
+      "style": 1,
+      "name": "だけど　進歩していない連中がいるのもまた\n事実みたいよ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev095401_MSG0009",
+      "style": 1,
+      "name": "これを見て[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev095401_MSG0010",
+      "style": 1,
+      "name": "まさしく[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev095401_MSG0011",
+      "style": 1,
+      "name": "そんなヒューマニストのあなたに\n見てほしいものがあるの[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095401_MSG0012",
+      "style": 1,
+      "name": "つまるところ　こういうことよ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095401_MSG0013",
+      "style": 1,
+      "name": "モーリス行政長官に　極秘の任務なのだから\nもっと秘密裏に伝えるべきだと言われてね[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095401_MSG0014",
+      "style": 1,
+      "name": "グロウスの配下にあるバイアス人は巌窟の一族\nと呼ばれているらしいわね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095401_MSG0015",
+      "style": 1,
+      "name": "私たちの街にいる大樹の一族とは一線を画す\n凶暴なヤツら[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095401_MSG0016",
+      "style": 1,
+      "name": "だけど　行政長官は彼らの技術に興味を\n持っているわ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev095401_MSG0017",
+      "style": 1,
+      "name": "原生生物もいるのに　数々の堅牢な拠点を\nどうやって築き上げたのかをね[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095401_MSG0018",
+      "style": 1,
+      "name": "まずは現地に赴き　調査してみて\nその上で必要とあらば破壊するのよ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev095401_MSG0019",
+      "style": 1,
+      "name": "よろしく頼んだわ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev095401_MSG0028",
+      "style": 1,
+      "name": "多くのブレイドが　あのバイアス人\n巌窟の一族に襲われ命を失っている[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev095401_MSG0029",
+      "style": 1,
+      "name": "十分に注意して　調査を行ってきて\nそしてその上で危険だと判断したら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev095401_MSG0030",
+      "style": 1,
+      "name": "適切な処理を行ってちょうだい\nよろしく頼んだわよ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev095401_MSG0020",
+      "style": 1,
+      "name": "おかえりなさい[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev095401_MSG0021",
+      "style": 1,
+      "name": "とんでもない結果になったわね[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev095401_MSG0022",
+      "style": 1,
+      "name": "さすがのモーリス行政長官も\n絶句してたわよ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev095401_MSG0023",
+      "style": 1,
+      "name": "でも　彼女たちをNLAで保護することを\n決定したみたい[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev095401_MSG0024",
+      "style": 1,
+      "name": "グロウスの情報を提供してもらったり\nバイアス人のことを調べたいんだって[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev095401_MSG0025",
+      "style": 1,
+      "name": "大樹の一族がいるからそんなに堂々と\n生活することはできないかもしれないけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev095401_MSG0026",
+      "style": 1,
+      "name": "グロウスでいるよりは\nマトモな人生を送れるはずよね[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev095401_MSG0027",
+      "style": 1,
+      "name": "あなたの決断がNLAにとっても\nバイアス人にとっても正しければいいわね[ST:wait ]"
+    }
+  ]
+}

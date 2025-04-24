@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001794_MSG0001",
+      "style": 1,
+      "name": "あら　[ST:playername ]さん[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001794_MSG0002",
+      "style": 1,
+      "name": "今　この子に可愛がってもらっていたんです[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001794_MSG0003",
+      "style": 1,
+      "name": "私の足元をすりすりしてくれたんです\n好いてくれているようで嬉しいです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001794_JNK0010",
+      "style": 4,
+      "name": "褒める"
+    },
+    {
+      "$id": 5,
+      "label": "tev001794_SEL0011",
+      "style": 3,
+      "name": "ヒメリが優しい心の\n持ち主だからだと褒める"
+    },
+    {
+      "$id": 6,
+      "label": "tev001794_JNK0020",
+      "style": 4,
+      "name": "茶化す"
+    },
+    {
+      "$id": 7,
+      "label": "tev001794_SEL0021",
+      "style": 3,
+      "name": "ヒメリが脚に食べものを\n隠しているからだと茶化す"
+    },
+    {
+      "$id": 8,
+      "label": "tev001794_MSG0004",
+      "style": 1,
+      "name": "恐縮です[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001794_MSG0005",
+      "style": 1,
+      "name": "さすがにそんなところには隠してません！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001794_MSG0006",
+      "style": 1,
+      "name": "でも　こうやってワンちゃんと\n触れ合っていると\nまるで地球にいた頃のようですね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001794_MSG0007",
+      "style": 1,
+      "name": "NLAも少しずつですけど\n地球人らしい暮らしができる街に\nなりつつあるのですね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001794_MSG0008",
+      "style": 1,
+      "name": "[ST:playername ]さんなら\n何が作られれば\nさらに地球らしい街になると思いますか？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001794_JNK0030",
+      "style": 4,
+      "name": "映画"
+    },
+    {
+      "$id": 14,
+      "label": "tev001794_SEL0031",
+      "style": 3,
+      "name": "映画館やスタジオなどが\n欲しい"
+    },
+    {
+      "$id": 15,
+      "label": "tev001794_JNK0040",
+      "style": 4,
+      "name": "動物園"
+    },
+    {
+      "$id": 16,
+      "label": "tev001794_SEL0041",
+      "style": 3,
+      "name": "動物を見て心を癒したい"
+    },
+    {
+      "$id": 17,
+      "label": "tev001794_JNK0050",
+      "style": 4,
+      "name": "夜の街"
+    },
+    {
+      "$id": 18,
+      "label": "tev001794_SEL0051",
+      "style": 3,
+      "name": "バーやクラブやカジノが\n欲しい"
+    },
+    {
+      "$id": 19,
+      "label": "tev001794_MSG0009",
+      "style": 1,
+      "name": "とてもいいアイディアですね[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001794_MSG0010",
+      "style": 1,
+      "name": "今のNLAには文化的な施設は\nまだまだ建てられていません[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001794_MSG0011",
+      "style": 1,
+      "name": "映画という文化が促進されれば\nよりNLAらしくなりますね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001794_MSG0012",
+      "style": 1,
+      "name": "市民のみなさんの楽しみになると思いますし\nぜひ実現してほしいですね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001794_MSG0013",
+      "style": 1,
+      "name": "でも　映画監督さんはブレイドには\nいなさそうですし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001794_MSG0014",
+      "style": 1,
+      "name": "また一から成長していかないとですね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001794_MSG0015",
+      "style": 1,
+      "name": "動物園ですか[ST:wide ]―\nいいですね[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001794_MSG0016",
+      "style": 1,
+      "name": "ライフが見つかれば　遺伝子を使って\n地球上の動物を作ることができます[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001794_MSG0017",
+      "style": 1,
+      "name": "データでしか見れなかったものが\n実物で見れるようになるんですよね[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001794_MSG0018",
+      "style": 1,
+      "name": "今後　本当の身体を取り戻して\n子供が生まれるようになったなら[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001794_MSG0019",
+      "style": 1,
+      "name": "次の世代に地球にはこういう生物がいたんだと\n肌で感じてもらえますものね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001794_MSG0020",
+      "style": 1,
+      "name": "ライフは無事見つかったんですし\n遺伝子を用いて地球上の動物を作ることが\nできますね[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001794_MSG0021",
+      "style": 1,
+      "name": "データでしか見れなかったものが\n実物で見れるようになるんですよね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001794_MSG0022",
+      "style": 1,
+      "name": "私たち地球人が本当の身体に戻って\n子供が生まれるような生活に戻れたなら[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001794_MSG0023",
+      "style": 1,
+      "name": "次の世代に地球にはこういう生物がいたんだと\n肌で感じてもらえますものね[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001794_MSG0024",
+      "style": 1,
+      "name": "それは絶対にダメです！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001794_MSG0025",
+      "style": 1,
+      "name": "そんないけない施設を作るのでしたら\n様々な宗教の教会を10件ほど建ててほしいです[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001794_MSG0026",
+      "style": 1,
+      "name": "そうすれば　あらゆる地球人の方の\n心の平安に役立てられるのですから[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001794_MSG0027",
+      "style": 1,
+      "name": "もし万が一　そういう施設ができたとしても\n[ST:playername ]さんは\n行ってはダメですよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001794_MSG0028",
+      "style": 1,
+      "name": "そんな時間があるのなら\n教会にいらしてください[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001794_MSG0029",
+      "style": 1,
+      "name": "私と共にお祈りをしましょう\nそういう邪な心を振り払えるように[ST:wide ]―！[ST:wait ]"
+    }
+  ]
+}

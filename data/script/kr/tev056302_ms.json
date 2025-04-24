@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev056302_MSG0101",
+      "style": 1,
+      "name": "자자잔이 너무 늦는다모……\n백목의 대륙에서의 연락을 마지막으로\n통신도 연결이 안 되고……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev056302_MSG0102",
+      "style": 1,
+      "name": "……대체 무슨 일이 생긴 거냐모?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev056302_JNK0010",
+      "style": 4,
+      "name": "질문한다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev056302_SEL0011",
+      "style": 3,
+      "name": "자자잔과 아는 사이인지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev056302_JNK0020",
+      "style": 4,
+      "name": "알려 준다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev056302_SEL0021",
+      "style": 3,
+      "name": "무사히 흑강의 대륙에서\n출발했다고 알려 준다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev056302_MSG0103",
+      "style": 1,
+      "name": "……넌 누구냐모?\n자자잔은…… 소중한 동료다모\n그 이상은 말할 필요 없다모[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev056302_MSG0104",
+      "style": 1,
+      "name": "넌 자자잔과 아는 사이냐모?\n자자잔은 보다보다의 소중한 동료다모[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev056302_MSG0105",
+      "style": 1,
+      "name": "하지만 그렇다 해도 너무 늦는다모\n정말이지…… 뭘 하고 있는 거냐모……[ST:wait ]"
+    }
+  ]
+}

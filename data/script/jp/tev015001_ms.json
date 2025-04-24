@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev015001_JNK0010",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 2,
+      "label": "tev015001_SEL0011",
+      "style": 3,
+      "name": "有用な情報を聞き出す"
+    },
+    {
+      "$id": 3,
+      "label": "tev015001_JNK0020",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 4,
+      "label": "tev015001_SEL0021",
+      "style": 3,
+      "name": "困っていることを尋ねる"
+    },
+    {
+      "$id": 5,
+      "label": "tev015001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev015001_SEL0031",
+      "style": 3,
+      "name": "襲撃時の状況について聞く"
+    },
+    {
+      "$id": 7,
+      "label": "tev015001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev015001_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev015001_SEL1021",
+      "style": 3,
+      "name": "最近の様子を尋ねる"
+    },
+    {
+      "$id": 10,
+      "label": "tev015001_MSG0001",
+      "style": 1,
+      "name": "ビアーノ湖の滝の奥[ST:wide ]―\n水源洞窟で[ST:wide ]―サネラク真珠が取れる[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev015001_MSG0002",
+      "style": 1,
+      "name": "俺の知ってること[ST:wide ]―それだけだ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev015001_MSG0008",
+      "style": 1,
+      "name": "シンゴ[ST:wide ]―ラオさんとザイデンに\n心配をかけている[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev015001_MSG0009",
+      "style": 1,
+      "name": "だが[ST:wide ]―悪いことをしている\n目ではない[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev015001_MSG0010",
+      "style": 1,
+      "name": "俺は[ST:wide ]―静かに見守っているが[ST:wide ]―\n気になるなら商業エリアへ\n行ってみてもいいと思う[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev015001_MSG0015",
+      "style": 1,
+      "name": "ラオさんが先導して発見したあのドールは\n俺達で守るべきだったのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev015001_MSG0016",
+      "style": 1,
+      "name": "他のチームを信頼したからこそ\nやるべきことを優先したとも言えるが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev015001_MSG0017",
+      "style": 1,
+      "name": "持ち場を離れるなんて\nラオさんらしくない行動だった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev015001_MSG0018",
+      "style": 1,
+      "name": "いや[ST:wide ]―考えすぎだな\n何よりも街を守るのが　一番重要だから\nラオさんは[ST:wide ]―あれでよかったんだ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev015001_MSG1011",
+      "style": 1,
+      "name": "俺の言った通りだ[ST:wide ]―\nシンゴのこと[ST:wide ]―心配しなくても良かった\nむしろ　一人前に近づいた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev015001_MSG1012",
+      "style": 1,
+      "name": "家族　か[ST:wide ]―\nラオさんは　どう思っているのだろうな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev015001_MSG1013",
+      "style": 1,
+      "name": "シンゴをきっかけに\n前を向いてくれれば　いいのだが[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001195_MSG0001",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001195_MSG0002",
+      "style": 1,
+      "name": "어머, [ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001195_MSG0003",
+      "style": 1,
+      "name": "미안해, 생각을 좀 하고 있었어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001195_MSG0004",
+      "style": 1,
+      "name": "정확히는 감회에 잠겼다고 해야겠지만[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001195_MSG0005",
+      "style": 1,
+      "name": "이곳이 어느새인가 편안한 장소……\n그러니까 진짜 집처럼 느껴졌거든[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001195_MSG0006",
+      "style": 1,
+      "name": "예상 밖의 일이 정말 많았지만……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001195_MSG0007",
+      "style": 1,
+      "name": "지구인은 이 행성에 뿌리를 내리기 시작했어[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001195_MSG0008",
+      "style": 1,
+      "name": "그래서인지 나도 조금\n생각이 달라진 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001195_MSG0009",
+      "style": 1,
+      "name": "임무를 마치고 이 블레이드 홈에 들어오면\n집에 돌아왔다는 실감이 강하게 느껴져[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001195_JNK0010",
+      "style": 4,
+      "name": "동의"
+    },
+    {
+      "$id": 11,
+      "label": "tev001195_SEL0011",
+      "style": 3,
+      "name": "자신도 엘마와 같은 감상을 느낀다면서\n동의한다"
+    },
+    {
+      "$id": 12,
+      "label": "tev001195_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 13,
+      "label": "tev001195_SEL0021",
+      "style": 3,
+      "name": "자신은 그렇게 느껴지지 않는다면서\n부정한다"
+    },
+    {
+      "$id": 14,
+      "label": "tev001195_MSG0010",
+      "style": 1,
+      "name": "당신도 그렇구나……\n조금 기쁜걸[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001195_MSG0011",
+      "style": 1,
+      "name": "지구에 있던 집이 그리운 거야?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001195_MSG0012",
+      "style": 1,
+      "name": "블레이드 홈에서 안정을 느끼는\n내 감상이 조금 이상한 걸까?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001195_MSG0013",
+      "style": 1,
+      "name": "……잠깐 들어 봐[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001195_MSG0014",
+      "style": 1,
+      "name": "그거 알아?\n이 블레이드 홈은 조금 특별하거든[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001195_MSG0015",
+      "style": 1,
+      "name": "다른 팀보다 방이 크고\n넓은 주방도 있어[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001195_MSG0016",
+      "style": 1,
+      "name": "게다가 신뢰할 수 있는 동료만\n사용할 수 있게 조치를 받았지[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001195_MSG0017",
+      "style": 1,
+      "name": "린과 타츠가 느긋하게 지낼 수 있는 것도\n내가 자유롭게 행동할 수 있는 것도……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001195_MSG0018",
+      "style": 1,
+      "name": "나기와 반담의 배려 덕분이야[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001195_JNK0030",
+      "style": 4,
+      "name": "추측"
+    },
+    {
+      "$id": 24,
+      "label": "tev001195_SEL0031",
+      "style": 3,
+      "name": "엘마가 대령이었기 때문에\n우대받는 거라고 추측한다"
+    },
+    {
+      "$id": 25,
+      "label": "tev001195_JNK0040",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 26,
+      "label": "tev001195_SEL0041",
+      "style": 3,
+      "name": "우대받는 이유를 묻는다"
+    },
+    {
+      "$id": 27,
+      "label": "tev001195_MSG0019",
+      "style": 1,
+      "name": "후훗……\n유감이지만 아니야[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001195_MSG0020",
+      "style": 1,
+      "name": "블레이드에 계급은 없어\n내 계급을 신경 쓰는 건\n이리나와 그윈 정도지[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001195_MSG0021",
+      "style": 1,
+      "name": "주변에서 대령이라고 부르는 사람과\n한 지붕 아래에서 지내면\n린이나 당신도 피곤하지 않겠어?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001195_MSG0022",
+      "style": 1,
+      "name": "그러니 계급은 아무 상관없어[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001195_MSG0023",
+      "style": 1,
+      "name": "……언젠가 기회가 있으면\n나에 대해 더 이야기해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001195_MSG0024",
+      "style": 1,
+      "name": "하지만 오늘은 여기까지만 하자\n당신도 임무 때문에 바쁠 테니까[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001195_MSG0025",
+      "style": 1,
+      "name": "그 이유를 설명하는 건\n간단한 일이 아니야……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001195_MSG0026",
+      "style": 1,
+      "name": "그래……\n센트럴 라이프를 확보한 후에\n시간을 들여서 천천히 이야기하자[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001195_MSG0027",
+      "style": 1,
+      "name": "지금은 느긋하게 옛날이야기나\n할 시간이 없는 데다가……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001195_MSG0028",
+      "style": 1,
+      "name": "당신도 임무 때문에 바쁠 테니까[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001195_MSG0029",
+      "style": 1,
+      "name": "함께 열심히 해 보자[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001195_MSG0030",
+      "style": 1,
+      "name": "이미 알고 있잖아?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001195_MSG0031",
+      "style": 1,
+      "name": "내 정체를 다수의 인간에게\n들키지 않기 위해서였어[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001195_MSG0032",
+      "style": 1,
+      "name": "나도 다른 사람들도 B.B.니까\n들킬 가능성은 한없이 낮았지만……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001195_MSG0033",
+      "style": 1,
+      "name": "나는 지구 문화에 그다지\n해박한 편이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001195_MSG0034",
+      "style": 1,
+      "name": "겉모습은 남들과 다르지 않아도\n지식이나 경험 탓에 들킬 수도 있었거든[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001195_MSG0035",
+      "style": 1,
+      "name": "그래서 내가 신뢰할 수 있는 사람들만 선택해\n같은 팀으로 받아들인 거야[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001195_MSG0036",
+      "style": 1,
+      "name": "물론 이리나도 신뢰할 수 있는 사람이지만\n그 아이는 다른 곳에서 활약해 주었으면 했거든[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001195_MSG0037",
+      "style": 1,
+      "name": "……어디\n과거 이야기는 여기까지만 할까[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001195_MSG0038",
+      "style": 1,
+      "name": "당신도 나도 앞으로 NLA를 위해 할 일이\n산더미처럼 쌓여 있으니 말이야[ST:wait ]"
+    }
+  ]
+}

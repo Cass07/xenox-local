@@ -1,0 +1,624 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32060100_MSG0010",
+      "style": 0,
+      "name": "흰고래가 추락하기 전 싸움에서[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32060100_MSG0015",
+      "style": 0,
+      "name": "여러 고스트에게 몰려[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32060100_MSG0020",
+      "style": 0,
+      "name": "난 고립되고 말았다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32060100_MSG0030",
+      "style": 0,
+      "name": "죽는다고 생각한 그 순간[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32060100_MSG0040",
+      "style": 0,
+      "name": "내 눈앞에서 무언가가 열렸지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32060100_MSG0050",
+      "style": 0,
+      "name": "동시에 엄청나게 생생한 중력을 느끼고[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32060100_MSG0060",
+      "style": 0,
+      "name": "내 몸은 아레스와 함께[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32060100_MSG0065",
+      "style": 0,
+      "name": "그 열린 곳으로 빨려 들어갔다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32060100_MSG0070",
+      "style": 0,
+      "name": "그곳은 처음 보는 장소였어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32060100_MSG0080",
+      "style": 0,
+      "name": "우주의 끝이라는 게 있다면[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32060100_MSG0085",
+      "style": 0,
+      "name": "여기가 그곳인가 싶은 장소였지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32060100_MSG0090",
+      "style": 0,
+      "name": "지금 와서 생각해 보면[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32060100_MSG0100",
+      "style": 0,
+      "name": "난 평행 세계의 개념 그 자체를\n목격한 걸지도 몰라……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32060100_MSG0110",
+      "style": 0,
+      "name": "그곳은……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32060100_MSG0120",
+      "style": 0,
+      "name": "무수히 존재하는 평행 세계의 사이……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32060100_MSG0130",
+      "style": 0,
+      "name": "틈새의 세계라고 부를 만한 장소였어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32060100_MSG0140",
+      "style": 0,
+      "name": "완전히 인지를 초월한 세계라고 할 수 있지만[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32060100_MSG0150",
+      "style": 0,
+      "name": "놀랍게도 아레스의 기능 대부분은\n정상적으로 가동되고 있었다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32060100_MSG0160",
+      "style": 0,
+      "name": "지구의 기술에 맞춰 로컬라이즈된\n센서 같은 건 쓸모없어졌지만……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32060100_MSG0170",
+      "style": 0,
+      "name": "그래도 메인 기록 장치는\n어느 방대한 데이터를 계속 수신하고 있었어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32060100_MSG0180",
+      "style": 0,
+      "name": "꿈이라도 꾼 거 아니냐고 비웃겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32060100_MSG0190",
+      "style": 0,
+      "name": "하지만 난, 그 데이터가 무엇인지 이해했어[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32060100_MSG0200",
+      "style": 0,
+      "name": "지성이 아닌 감성으로 이해했지[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32060100_MSG0210",
+      "style": 0,
+      "name": "아레스에……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32060100_MSG0220",
+      "style": 0,
+      "name": "그리고 내 안에 흘러들어 온 것은[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32060100_MSG0230",
+      "style": 0,
+      "name": "온 우주에 존재하는\n모든 생물의 의식이었어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32060100_MSG0240",
+      "style": 0,
+      "name": "난 본능적으로[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32060100_MSG0250",
+      "style": 0,
+      "name": "그것들 하나하나를\n인식하지 못하도록 의식을 차단했다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32060100_MSG0260",
+      "style": 0,
+      "name": "도저히 사람의 뇌가 처리할 수 있는 게 아니라고[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32060100_MSG0270",
+      "style": 0,
+      "name": "순간적으로 그렇게 느꼈어[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32060100_MSG0280",
+      "style": 0,
+      "name": "오래된 SF 영화에 나온 말이지만\n틀리지 않았던 것 같다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32060100_MSG0290",
+      "style": 0,
+      "name": "그러나[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32060100_MSG0300",
+      "style": 0,
+      "name": "나와 달리 아레스는 우수했어[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32060100_MSG0310",
+      "style": 0,
+      "name": "방대한 데이터의 격류 속에서[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32060100_MSG0320",
+      "style": 0,
+      "name": "내가 가장 원하는 정보를 발견해 내서\n제시해 줬지[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs32060100_MSG0330",
+      "style": 0,
+      "name": "그래……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs32060100_MSG0340",
+      "style": 0,
+      "name": "그 틈새의 세계에서 이쪽 세계로\n돌아올 방법을……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs32060100_MSG0350",
+      "style": 0,
+      "name": "아레스가 그 길을 나에게 알려 준 거다[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs32060100_MSG0360",
+      "style": 0,
+      "name": "그 덕분에 난 돌아올 수 있었지[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs32060100_MSG0370",
+      "style": 0,
+      "name": "아니……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs32060100_MSG0380",
+      "style": 0,
+      "name": "지구가 있던 원래 우주는 소멸했고\n이 미라에 있는 우주는 다른 세계니까[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs32060100_MSG0390",
+      "style": 0,
+      "name": "돌아왔다고 하는 건 이상한가[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs32060100_MSG0400",
+      "style": 0,
+      "name": "그런 경험이 있어서[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs32060100_MSG0410",
+      "style": 0,
+      "name": "이 미라가 있는 우주에서 탈출하는 데에도\n아레스를 사용할 수 있겠다고 생각했구나[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs32060100_MSG0420",
+      "style": 0,
+      "name": "뭐, 그런 거지만……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs32060100_MSG0430",
+      "style": 0,
+      "name": "알……?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs32060100_MSG0440",
+      "style": 0,
+      "name": "나도 모든 걸 이해하고\n돌아온 게 아니야[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs32060100_MSG0450",
+      "style": 0,
+      "name": "잘못하면 의식의 격류에 삼켜져[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs32060100_MSG0460",
+      "style": 0,
+      "name": "영원히 나올 수 없었을지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs32060100_MSG0470",
+      "style": 0,
+      "name": "그 세계는……[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs32060100_MSG0480",
+      "style": 0,
+      "name": "의식의 감옥이다[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs32060100_MSG0490",
+      "style": 0,
+      "name": "……감옥?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs32060100_MSG0500",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "xs32060100_MSG0510",
+      "style": 0,
+      "name": "……보이드 말이야[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs32060100_MSG0520",
+      "style": 0,
+      "name": "아마 녀석의 의식도[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs32060100_MSG0525",
+      "style": 0,
+      "name": "그 감옥에 붙잡혀 있었을 거야[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs32060100_MSG0530",
+      "style": 0,
+      "name": "위터라고 하는 기체는 보이드를\n강림시키기 위한 그릇이라고 했나?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs32060100_MSG0540",
+      "style": 0,
+      "name": "어쩌면 그 감옥에 있는 의식을\n잇는다는 의미일지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs32060100_MSG0550",
+      "style": 0,
+      "name": "의식을 잇는다고?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs32060100_MSG0560",
+      "style": 0,
+      "name": "그건 마치, 우리 B.B. 같은……[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs32060100_MSG0580",
+      "style": 0,
+      "name": "설마……[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs32060100_MSG0590",
+      "style": 0,
+      "name": "모든 인과가[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs32060100_MSG0600",
+      "style": 0,
+      "name": "이어지는 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs32060100_MSG0610",
+      "style": 0,
+      "name": "보이드는[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs32060100_MSG0620",
+      "style": 0,
+      "name": "아레스가 틈새의 세계에서 탈출하는 걸 추적해서\n감옥에서 빠져나온 모양이다[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs32060100_MSG0630",
+      "style": 0,
+      "name": "나와 완전히 같은 타이밍에 말이지[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs32060100_MSG0640",
+      "style": 0,
+      "name": "그리고 이번에는[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs32060100_MSG0645",
+      "style": 0,
+      "name": "의식뿐만 아니라 본체 자체가\n그 위터에 들어갔어[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs32060100_MSG0650",
+      "style": 0,
+      "name": "아레스가 이쪽 세계에 나타난 게\n우리와 만나기 조금 전이라고 한다면……[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs32060100_MSG0660",
+      "style": 0,
+      "name": "소실 현상의 발생과 고스트의 출현도[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs32060100_MSG0670",
+      "style": 0,
+      "name": "그것에서 유발됐다고 생각할 수 있겠네[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs32060100_MSG0680",
+      "style": 0,
+      "name": "잠깐만[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs32060100_MSG0690",
+      "style": 0,
+      "name": "그렇게 뭐든 연결 지으려는 건[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs32060100_MSG0695",
+      "style": 0,
+      "name": "아무래도 성급한 것 같은데[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs32060100_MSG0700",
+      "style": 0,
+      "name": "그렇긴 하지[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs32060100_MSG0710",
+      "style": 0,
+      "name": "하지만[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs32060100_MSG0720",
+      "style": 0,
+      "name": "보이드가 아레스를 찾아\n나의 행성을 습격했을 때……[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs32060100_MSG0730",
+      "style": 0,
+      "name": "역시 그 타이밍에 나타난 것도\n고스트였어[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs32060100_MSG0740",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 80,
+      "label": "xs32060100_MSG0750",
+      "style": 0,
+      "name": "이런 걸 뭐라고 했더라……[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs32060100_MSG0760",
+      "style": 0,
+      "name": "인과율인가?[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs32060100_MSG0770",
+      "style": 0,
+      "name": "보이드는 세계를 조율한다고 말했지만……[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs32060100_MSG0780",
+      "style": 0,
+      "name": "그렇군[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs32060100_MSG0790",
+      "style": 0,
+      "name": "점점 의도가 보이기 시작하는 것 같다[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs32060100_MSG0800",
+      "style": 0,
+      "name": "긴급 상황인가 보네[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs32060100_MSG0810",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "xs32060100_MSG0820",
+      "style": 0,
+      "name": "망각의 계곡에서 마 논인 기술자를\n수색해 줬으면 하네[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "xs32060100_MSG0830",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "xs32060100_MSG0840",
+      "style": 0,
+      "name": "상황을 자세히 알려 줘[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "xs32060100_MSG0850",
+      "style": 0,
+      "name": "그 기술자는\n전이 시스템 구축을 담당하고 있었는데[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "xs32060100_MSG0860",
+      "style": 0,
+      "name": "시스템의 핵심이 되는 장치가\n그로우스의 요새에 있다고 해서[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "xs32060100_MSG0870",
+      "style": 0,
+      "name": "가지고 오게 했다네[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "xs32060100_MSG0880",
+      "style": 0,
+      "name": "상당히 대담한 짓을 했네?[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "xs32060100_MSG0890",
+      "style": 0,
+      "name": "지금 상황으로는 이쪽도 여유가 없어서 말일세[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "xs32060100_MSG0900",
+      "style": 0,
+      "name": "물론 호위는 붙였지만[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "xs32060100_MSG0910",
+      "style": 0,
+      "name": "그로우스 녀석들에게 발각된 이후\n연락이 두절됐네[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "xs32060100_MSG0920",
+      "style": 0,
+      "name": "그렇구나[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "xs32060100_MSG0930",
+      "style": 0,
+      "name": "상황은 알겠어[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "xs32060100_MSG0940",
+      "style": 0,
+      "name": "바로 망각의 계곡으로 갈게[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "xs32060100_MSG0950",
+      "style": 0,
+      "name": "미안하지만 부탁하네[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "xs32060100_MSG0960",
+      "style": 0,
+      "name": "가자[ST:wait ]"
+    }
+  ]
+}

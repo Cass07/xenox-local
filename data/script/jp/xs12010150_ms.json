@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12010150_MSG0001",
+      "style": 0,
+      "name": "モーリス行政長官の言った通りだ\n事は一刻を争う[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs12010150_MSG0002",
+      "style": 0,
+      "name": "細かいことは言わん[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs12010150_MSG0003",
+      "style": 0,
+      "name": "任務は　セントラルライフの確保\nおよび予備システムへの切替[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs12010150_MSG0004",
+      "style": 0,
+      "name": "場所は解析中だが二時間以内に終わる\n判明次第　出撃だ！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12010150_MSG0005",
+      "style": 0,
+      "name": "全ブレイドの参加を希望する\n過酷な任務だが皆頼む！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12010150_MSG0006",
+      "style": 0,
+      "name": "以上だ！[ST:wait ]"
+    }
+  ]
+}

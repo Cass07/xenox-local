@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095207_MSG0001",
+      "style": 1,
+      "name": "그로우스 밑에서 하찮은 병기 개발을\n강요받아 왔지만……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095207_MSG0002",
+      "style": 1,
+      "name": "너는 그런 녀석들과는 다르겠지?\n우리의 기술을 가장 효과적으로\n유용하게 써 주기를 기대하고 있을게[ST:wait ]"
+    }
+  ]
+}

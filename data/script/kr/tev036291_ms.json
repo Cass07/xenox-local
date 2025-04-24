@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev036291_MSG0001",
+      "style": 1,
+      "name": "저기 있잖아, 거기 가는 사람!\n잠깐 가르쳐 줬으면 하는 게 있엉![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev036291_MSG0002",
+      "style": 1,
+      "name": "블레이드 에어리어에 있는 사람이\n외계인에게 프런티어넷에 대해\n가르쳐 주고 있다고 들었는데 말이징[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev036291_MSG0003",
+      "style": 1,
+      "name": "나도 스터디하고 싶은데\n그 사람의 이름을 몰랑![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev036291_MSG0004",
+      "style": 1,
+      "name": "누구에게 물어봐야\n그 베리 베리 편리한 프런티어넷을 알려 줄깡?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev036291_JNK0010",
+      "style": 4,
+      "name": "토비어스[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev036291_SEL0011",
+      "style": 3,
+      "name": "토비어스를 추천한다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev036291_JNK0020",
+      "style": 4,
+      "name": "커스티[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev036291_SEL0021",
+      "style": 3,
+      "name": "커스티를 추천한다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev036291_MSG0005",
+      "style": 1,
+      "name": "흐음~! 프런티어넷을 사용해서\n큰돈을 버는 남자가 있구낭![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev036291_MSG0006",
+      "style": 1,
+      "name": "그런 사람에게 물어보면 여전히 부족한\n도시 보수 재료를 획득할 방법이라든가[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev036291_MSG0007",
+      "style": 1,
+      "name": "미라의 다양한 미스터리 정보를\n효율적으로 모으는 방법 같은 걸 알 수 있을깡?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev036291_MSG0008",
+      "style": 1,
+      "name": "생큐~! 그럼 그 사람에게\n많이 배우고 올겡![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev036291_MSG0009",
+      "style": 1,
+      "name": "응! 앞으로는 마 논인도 점점 더\n프런티어넷을 많이 이용해야 행![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev036291_MSG0010",
+      "style": 1,
+      "name": "프런티어넷을 관리하는 슈퍼 우먼!?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev036291_MSG0011",
+      "style": 1,
+      "name": "오, 그레이트! 그 사람에게 물어보면\n부족한 보수 재료를 획득할 방법이라든가[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev036291_MSG0012",
+      "style": 1,
+      "name": "미라의 다양한 미스터리 정보를\n효율적으로 모으는 방법 같은 걸 알 수 있을깡?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev036291_MSG0013",
+      "style": 1,
+      "name": "생큐~! 그럼 그 사람에게\n많이 배우고 올겡![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev036291_MSG0014",
+      "style": 1,
+      "name": "응! 앞으로는 마 논인도 점점 더\n프런티어넷을 많이 이용해야 행![ST:wait ]"
+    }
+  ]
+}

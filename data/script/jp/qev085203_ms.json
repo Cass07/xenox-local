@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085203_MSG0001",
+      "style": 0,
+      "name": "やったですも～～\nみなさん　さすがですも！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085203_MSG0002",
+      "style": 0,
+      "name": "おかしいわね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085203_MSG0003",
+      "style": 0,
+      "name": "ですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085203_MSG0004",
+      "style": 0,
+      "name": "タ　タツ　なにかおかしいこと言ったですも？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085203_MSG0005",
+      "style": 0,
+      "name": "そうじゃなくて[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085203_MSG0006",
+      "style": 0,
+      "name": "今倒した程度の原生生物じゃ\n大きな被害が出るとはとても思えないってこと[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085203_MSG0007",
+      "style": 0,
+      "name": "そうさ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085203_MSG0008",
+      "style": 0,
+      "name": "わざわざエルマ大佐に依頼に来るくらいだ\n本命はこんなもんじゃないはずだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085203_MSG0009",
+      "style": 0,
+      "name": "エルマよ　何か非常事態？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085203_MSG0010",
+      "style": 0,
+      "name": "はい　そちらから近距離のエリアで高レベルの\n原生生物に襲われているチームがあります[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085203_MSG0011",
+      "style": 0,
+      "name": "分かった　急行するわ[ST:wait ]"
+    }
+  ]
+}

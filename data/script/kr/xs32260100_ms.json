@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32260100_MSG0010",
+      "style": 0,
+      "name": "케일리 씨, 뭐 하고 계세요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32260100_MSG0020",
+      "style": 0,
+      "name": "여러분, 마침 잘 오셨어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32260100_MSG0030",
+      "style": 0,
+      "name": "지금 오모모 씨를 데리러 가려고요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32260100_MSG0040",
+      "style": 0,
+      "name": "네? 오모모 씨를요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32260100_MSG0050",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32260100_MSG0060",
+      "style": 0,
+      "name": "혼자 짐을 옮길 수 없으니 도와 달라고\n조금 전에 연락이 왔어요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32260100_MSG0070",
+      "style": 0,
+      "name": "하지만 오모모 씨는……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32260100_MSG0080",
+      "style": 0,
+      "name": "오모모 씨에게 들었어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32260100_MSG0090",
+      "style": 0,
+      "name": "여기에 남을 생각이었다던데요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32260100_MSG0100",
+      "style": 0,
+      "name": "맞아요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32260100_MSG0110",
+      "style": 0,
+      "name": "그래서 제가, 실례되는 말을 했는데……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32260100_MSG0120",
+      "style": 0,
+      "name": "오모모 씨가[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32260100_MSG0130",
+      "style": 0,
+      "name": "린 씨의 말을 잊을 수 없었나 봐요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32260100_MSG0140",
+      "style": 0,
+      "name": "오모모는 모두에게\n도움을 받아야 한다고 착각해서[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32260100_MSG0150",
+      "style": 0,
+      "name": "스스로 노력하는 것으로부터\n도망치려고 했어요모라고 말했어요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32260100_MSG0160",
+      "style": 0,
+      "name": "오모모 씨……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32260100_MSG0170",
+      "style": 0,
+      "name": "여러분, 죄송해요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32260100_MSG0180",
+      "style": 0,
+      "name": "갑자기 왜 그래?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32260100_MSG0190",
+      "style": 0,
+      "name": "사실은[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32260100_MSG0200",
+      "style": 0,
+      "name": "오모모 씨는 오지 않을 것 같다고\n생각했었어요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32260100_MSG0210",
+      "style": 0,
+      "name": "만나면 언제나 웃고 있고\n왠지 마음을 비운 듯한 느낌이 들어서[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32260100_MSG0220",
+      "style": 0,
+      "name": "그래서 물어보지 못했어요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32260100_MSG0230",
+      "style": 0,
+      "name": "그래서 우리에게 부탁한 거구나[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32260100_MSG0240",
+      "style": 0,
+      "name": "네[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32260100_MSG0250",
+      "style": 0,
+      "name": "그리고 결과는 린 덕분에 대성공이군[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32260100_MSG0260",
+      "style": 0,
+      "name": "그러지 마세요……![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32260100_MSG0270",
+      "style": 0,
+      "name": "아니, 정말 린 씨 덕분이에요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32260100_MSG0280",
+      "style": 0,
+      "name": "저였다면 오모모 씨의 말을 듣기만 하고[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32260100_MSG0290",
+      "style": 0,
+      "name": "제 의견은 말하지 못했을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32260100_MSG0300",
+      "style": 0,
+      "name": "저도 이번 일로[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32260100_MSG0310",
+      "style": 0,
+      "name": "제대로 말로 전하는 것의 중요함을\n다시 알게 됐어요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32260100_MSG0320",
+      "style": 0,
+      "name": "감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32260100_MSG0330",
+      "style": 0,
+      "name": "케일리 씨까지 그러지 마세요……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32260100_MSG0340",
+      "style": 0,
+      "name": "린 씨, 역시 대단하다모![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32260100_MSG0350",
+      "style": 0,
+      "name": "타츠!![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs32260100_MSG0360",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "xs32260100_MSG0370",
+      "style": 0,
+      "name": "오모모 씨를 너무 기다리게 해선 안 되지[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs32260100_MSG0380",
+      "style": 0,
+      "name": "그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs32260100_MSG0390",
+      "style": 0,
+      "name": "여러분, 정말 감사했습니다![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs32260100_MSG0400",
+      "style": 0,
+      "name": "린, 잘됐네[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs32260100_MSG0410",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    }
+  ]
+}

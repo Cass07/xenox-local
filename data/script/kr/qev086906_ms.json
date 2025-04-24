@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086906_MSG0001",
+      "style": 0,
+      "name": "우와, 에어로지움이다!\n그것도 이렇게나 많이![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086906_MSG0002",
+      "style": 0,
+      "name": "고마워, 세리카![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086906_MSG0003",
+      "style": 0,
+      "name": "나 혼자가 아니라 모두가 도와줬어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086906_MSG0004",
+      "style": 0,
+      "name": "다들 고마워![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086906_MSG0005",
+      "style": 0,
+      "name": "그보다 빨리 이걸\n현장 감독님께 전해 드리세요![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086906_MSG0006",
+      "style": 0,
+      "name": "응[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086906_MSG0007",
+      "style": 0,
+      "name": "록, 네가 에어로지움을\n모아 왔구나![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086906_MSG0008",
+      "style": 0,
+      "name": "아니요, 세리카와 친구들이\n모아 줬어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086906_MSG0009",
+      "style": 0,
+      "name": "고마워, 아가씨[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086906_MSG0010",
+      "style": 0,
+      "name": "이제 공사를 재개할 수 있는 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086906_MSG0011",
+      "style": 0,
+      "name": "그럼, 물론이지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086906_MSG0012",
+      "style": 0,
+      "name": "앗싸![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086906_MSG0013",
+      "style": 0,
+      "name": "대단한 아가씨군[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086906_MSG0014",
+      "style": 0,
+      "name": "록, 네 친구들 굉장한데?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086906_MSG0015",
+      "style": 0,
+      "name": "다행이네요\n록 씨도 세리카 씨도 기뻐 보여요[ST:wait ]"
+    }
+  ]
+}

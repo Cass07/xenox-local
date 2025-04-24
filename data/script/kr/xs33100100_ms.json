@@ -1,0 +1,408 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33100100_MSG0010",
+      "style": 0,
+      "name": "미안해, 공주님[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33100100_MSG0020",
+      "style": 0,
+      "name": "원래는 내 역할일지도 모르지만……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33100100_MSG0030",
+      "style": 0,
+      "name": "하지만 블레이드를\n여기까지 이끌어 온 것은[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33100100_MSG0040",
+      "style": 0,
+      "name": "역시 너야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33100100_MSG0050",
+      "style": 0,
+      "name": "너의 목소리가[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33100100_MSG0060",
+      "style": 0,
+      "name": "분명 모두에게 더 잘 전해질 거야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33100100_MSG0070",
+      "style": 0,
+      "name": "……난 지구에서 생을 얻은 생명종이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33100100_MSG0080",
+      "style": 0,
+      "name": "고향 행성을 잃고\n지구에 흘러든, 말하자면 난민이지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33100100_MSG0090",
+      "style": 0,
+      "name": "하지만[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33100100_MSG0100",
+      "style": 0,
+      "name": "당신들의 모성은 자비롭게\n넓은 마음으로 나를 받아들여 줬어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33100100_MSG0110",
+      "style": 0,
+      "name": "그 마음은 지구에 살던 모든 사람의 안에도\n역시 자라나고 있지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33100100_MSG0120",
+      "style": 0,
+      "name": "난[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33100100_MSG0130",
+      "style": 0,
+      "name": "그 사랑으로 인해 구원받았어[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33100100_MSG0140",
+      "style": 0,
+      "name": "우리는 지구를 잃었어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33100100_MSG0150",
+      "style": 0,
+      "name": "그리고 지금도 또[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33100100_MSG0160",
+      "style": 0,
+      "name": "새로운 고향으로 삼은 이 미라를\n잃을 수밖에 없게 됐지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33100100_MSG0170",
+      "style": 0,
+      "name": "솔직히 말하면[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33100100_MSG0180",
+      "style": 0,
+      "name": "난 한 번 비관했었어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33100100_MSG0190",
+      "style": 0,
+      "name": "이대로 언제까지고 새로운 땅을 찾으며\n계속 유랑해야 하는 운명인가 하고……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33100100_MSG0200",
+      "style": 0,
+      "name": "하지만 지금 나는 비관 같은 건 하지 않아[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33100100_MSG0220",
+      "style": 0,
+      "name": "새로운 땅으로 향할 때마다 마음이……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33100100_MSG0230",
+      "style": 0,
+      "name": "영혼이라고 불리는 그것이\n진화했음을 실감하니까[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs33100100_MSG0240",
+      "style": 0,
+      "name": "그래, 영혼[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs33100100_MSG0250",
+      "style": 0,
+      "name": "B.B.의 몸이어도 모두의 안에서\n틀림없이 숨 쉬고 있는 그거 말이야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs33100100_MSG0260",
+      "style": 0,
+      "name": "존재하려는 힘에 대한 의지 그 자체[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs33100100_MSG0270",
+      "style": 0,
+      "name": "아무리 가혹한 환경에 던져져도[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs33100100_MSG0280",
+      "style": 0,
+      "name": "모두 그 의지로 힘을 발전시켜[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs33100100_MSG0290",
+      "style": 0,
+      "name": "정신을 연마하고[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs33100100_MSG0300",
+      "style": 0,
+      "name": "영혼을 진화시켜 왔어[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs33100100_MSG0310",
+      "style": 0,
+      "name": "그렇다면 새로운 땅을 찾는 여행은[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs33100100_MSG0320",
+      "style": 0,
+      "name": "결코 도망 같은 게 아니었어[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs33100100_MSG0330",
+      "style": 0,
+      "name": "모두 진화를 위한 출항이었던 거야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs33100100_MSG0340",
+      "style": 0,
+      "name": "우리는 이 미라에서 탈출할 거야[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs33100100_MSG0350",
+      "style": 0,
+      "name": "그걸 위한 싸움은 쉽지 않겠지[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs33100100_MSG0360",
+      "style": 0,
+      "name": "하지만 한 번 더 말할게[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs33100100_MSG0370",
+      "style": 0,
+      "name": "잊지 마[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs33100100_MSG0380",
+      "style": 0,
+      "name": "이건 도망을 위한 싸움이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs33100100_MSG0390",
+      "style": 0,
+      "name": "살아남아 영혼을 진화시키기 위한 싸움[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs33100100_MSG0400",
+      "style": 0,
+      "name": "미래를 만드는 건 운명이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs33100100_MSG0410",
+      "style": 0,
+      "name": "언제나 존재하려고 하는[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs33100100_MSG0420",
+      "style": 0,
+      "name": "우리의 의지야![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs33100100_MSG0430",
+      "style": 0,
+      "name": "오오오오오~!![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs33100100_MSG0431",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "xs33100100_MSG0432",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "xs33100100_MSG0433",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "xs33100100_MSG0434",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "xs33100100_MSG0435",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "xs33100100_MSG0436",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "xs33100100_MSG0437",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "xs33100100_MSG0438",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 51,
+      "label": "xs33100100_MSG0439",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "xs33100100_MSG0440",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "xs33100100_MSG0441",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "xs33100100_MSG0442",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 55,
+      "label": "xs33100100_MSG0443",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 56,
+      "label": "xs33100100_MSG0444",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "xs33100100_MSG0445",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "xs33100100_MSG0446",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "xs33100100_MSG0447",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "xs33100100_MSG0448",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "xs33100100_MSG0449",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "xs33100100_MSG0450",
+      "style": 0,
+      "name": "……너희 모두 사랑한다고[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs33100100_MSG0460",
+      "style": 0,
+      "name": "자[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs33100100_MSG0470",
+      "style": 0,
+      "name": "갈까![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs33100100_MSG0480",
+      "style": 0,
+      "name": "전군, 진군 개시![ST:wait ]"
+    }
+  ]
+}

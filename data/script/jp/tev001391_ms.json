@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001391_MSG0001",
+      "style": 1,
+      "name": "こんにちは　[ST:playername ]さん\n様子を見に来てくれたのですか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001391_MSG0002",
+      "style": 1,
+      "name": "おかげさまでロックも働かせてもらって\nこうしてこの街で平和に暮らせてます[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001391_MSG0003",
+      "style": 1,
+      "name": "感謝の気持ちでいっぱいです\nありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001391_JNK0010",
+      "style": 4,
+      "name": "謙遜"
+    },
+    {
+      "$id": 5,
+      "label": "tev001391_SEL0011",
+      "style": 3,
+      "name": "セリカの努力の結果だと\n返答する"
+    },
+    {
+      "$id": 6,
+      "label": "tev001391_JNK0020",
+      "style": 4,
+      "name": "褒める"
+    },
+    {
+      "$id": 7,
+      "label": "tev001391_SEL0021",
+      "style": 3,
+      "name": "ロックの勇気のおかげだと\n褒め称える"
+    },
+    {
+      "$id": 8,
+      "label": "tev001391_JNK0030",
+      "style": 4,
+      "name": "自慢"
+    },
+    {
+      "$id": 9,
+      "label": "tev001391_SEL0031",
+      "style": 3,
+      "name": "もっと感謝してくれていいと\n答える"
+    },
+    {
+      "$id": 10,
+      "label": "tev001391_MSG0004",
+      "style": 1,
+      "name": "そんな……私なんて……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001391_MSG0005",
+      "style": 1,
+      "name": "一人だけの努力じゃ大したことはできません[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001391_MSG0006",
+      "style": 1,
+      "name": "みなさんのおかげで私たちはこの街に\n馴染めたんです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001391_MSG0007",
+      "style": 1,
+      "name": "そうですね\n私はまたロックの勇気に助けてもらいました[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001391_MSG0008",
+      "style": 1,
+      "name": "すごくすごく頼りになる存在なんです[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001391_MSG0009",
+      "style": 1,
+      "name": "いてくれて本当に良かった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001391_MSG0010",
+      "style": 1,
+      "name": "ふふっ　やはり面白い方ですね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001391_MSG0011",
+      "style": 1,
+      "name": "この街にはあなたみたいに陽気な[ST:wide ]―\n前向きな人が多いです[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001391_MSG0012",
+      "style": 1,
+      "name": "だから私たちもNLAに馴染めたんだと思います[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001391_MSG0013",
+      "style": 1,
+      "name": "これまで私たちはずっとサマールに\n追われていましたし　緊張の連続でした[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001391_MSG0014",
+      "style": 1,
+      "name": "もうずっと辛いことばかりなのかもしれないと\n思ってましたけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001391_MSG0015",
+      "style": 1,
+      "name": "ロックがあんな表情をして他の人と\n関われるなんて　夢にも思っていませんでした[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001391_MSG0016",
+      "style": 1,
+      "name": "私自身もこの街のみなさんといられると\n心が休まります[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001391_MSG0017",
+      "style": 1,
+      "name": "夜光の森でみなさんに会えて本当に良かった[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001391_MSG0018",
+      "style": 1,
+      "name": "この感謝の気持ちをNLAの一員として\nがんばることで返していきたいと\n思ってるんです[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001391_MSG0019",
+      "style": 1,
+      "name": "ロックもきっと同じ想いだと思います[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001391_MSG0020",
+      "style": 1,
+      "name": "だから　これからもよろしくお願いしますね[ST:wait ]"
+    }
+  ]
+}

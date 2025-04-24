@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085609_MSG0001",
+      "style": 0,
+      "name": "아무래도 이 식물에서\nU.M 반응이 검출됐나 보네[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085609_MSG0002",
+      "style": 0,
+      "name": "데이터 수집 완료예요\n프런티어넷에 등록했어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085609_MSG0003",
+      "style": 0,
+      "name": "그럼, 다음으로 갈까?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085609_MSG0004",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085609_MSG0005",
+      "style": 0,
+      "name": "두 번째 장소 데이터 수집 완료예요\n프런티어넷에 등록했어요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085609_MSG0006",
+      "style": 0,
+      "name": "다음이 마지막이구나[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085609_MSG0007",
+      "style": 0,
+      "name": "빨리 끝내 버려요![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085609_MSG0008",
+      "style": 0,
+      "name": "프런티어넷에 등록 확인했어요\n완료예요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085609_MSG0009",
+      "style": 0,
+      "name": "이걸로 끝이네요![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085609_MSG0010",
+      "style": 0,
+      "name": "고생했어\n더그에게 연락할게[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085609_MSG0011",
+      "style": 0,
+      "name": "오, 엘마구나[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085609_MSG0012",
+      "style": 0,
+      "name": "이쪽은 좀 바빠서\n화면 없이 받는 걸 이해해 줘[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085609_MSG0013",
+      "style": 0,
+      "name": "전투 중이야!?\n바로 지원하러 갈게![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085609_MSG0014",
+      "style": 0,
+      "name": "됐어, 도움받을 정도는 아니야\n우리 팀만으로도 충분해[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085609_MSG0015",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085609_MSG0016",
+      "style": 0,
+      "name": "그래, 알겠어……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085609_MSG0016_2",
+      "style": 0,
+      "name": "그럼 네 번째 데이터 수집을\n그쪽에 맡겨도 될까?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085609_MSG0017",
+      "style": 0,
+      "name": "알겠어요\n조심하세요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085609_MSG0018",
+      "style": 0,
+      "name": "그래, 보너스로 초콜릿도 사 줄 테니까\n부탁 좀 할게[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085609_MSG0019",
+      "style": 0,
+      "name": "아 정말, 저한테도 한잔 사 주세요![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085609_MSG0020",
+      "style": 0,
+      "name": "뭐!?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085609_MSG0021",
+      "style": 0,
+      "name": "비싸고 맛있기로 소문난\n코코아 가게가 있거든요![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085609_MSG0022",
+      "style": 0,
+      "name": "아, 그런 뜻이군\n오케이, 알았다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085609_MSG0023",
+      "style": 0,
+      "name": "그럼, 임무 끝나고 만나자[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085609_MSG0024",
+      "style": 0,
+      "name": "엘마 씨……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085609_MSG0025",
+      "style": 0,
+      "name": "약속을 늘린 건 잘한 일이야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085609_MSG0026",
+      "style": 0,
+      "name": "더그 같은 사람은 지켜야 할 약속이 늘어날수록\n살아남을 확률이 높아진다는……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085609_MSG0027",
+      "style": 0,
+      "name": "그런 느낌이 드니까[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085609_MSG0028",
+      "style": 0,
+      "name": "그럼 라오 씨와는 정반대네요\n약속을 전혀 안 지키는 사람이잖아요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085609_MSG0029",
+      "style": 0,
+      "name": "정말 그렇네\n자, 빨리 데이터를 수집하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085609_MSG0030",
+      "style": 0,
+      "name": "우리의 한잔을 위해서[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085609_MSG0031",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    }
+  ]
+}

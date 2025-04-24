@@ -1,0 +1,324 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001793_MSG0001",
+      "style": 1,
+      "name": "안녕하세요, [ST:playername ] 씨\n이런 곳에서 만나다니……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001793_MSG0002",
+      "style": 1,
+      "name": "방금 막 임무를 마쳤어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001793_JNK0010",
+      "style": 4,
+      "name": "걱정한다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001793_SEL0011",
+      "style": 3,
+      "name": "임무가 힘들지 않았냐고 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001793_JNK0020",
+      "style": 4,
+      "name": "묻는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001793_SEL0021",
+      "style": 3,
+      "name": "보수는 얼마였는지\n거리낌 없이 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001793_MSG0009",
+      "style": 1,
+      "name": "아니요\n그렇게 힘든 임무는 아니었어요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001793_MSG0010",
+      "style": 1,
+      "name": "아침 일찍부터\n외벽 메인터넌스를 도왔어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001793_MSG0011",
+      "style": 1,
+      "name": "다행히 근처에 원시 생물도 없었고\n무사히 마쳐서 다행이에요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001793_MSG0012",
+      "style": 1,
+      "name": "다만 저는 허수아비처럼\n서 있었을 뿐이니까\n보수도 받을 수 없었어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001793_MSG0014",
+      "style": 1,
+      "name": "보수는 받을 수 없었어요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001793_MSG0015",
+      "style": 1,
+      "name": "아침 일찍부터\n외벽 메인터넌스를 도왔는데……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001793_MSG0016",
+      "style": 1,
+      "name": "근처에 원시 생물도 없었고\n저는 허수아비처럼\n서 있었을 뿐이니까요……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001793_MSG0018",
+      "style": 1,
+      "name": "저는 한 달 생활할 수 있는 보수를 받으면\n그 이상은 받지 않도록 하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001793_MSG0019",
+      "style": 1,
+      "name": "전에는 일주일 치였지만\n오르넬라 씨가 만약의 경우를 위해\n저축도 필요하다고 해서……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001793_MSG0020",
+      "style": 1,
+      "name": "다만 저는 그렇게 돈을 쓰지도 않고\n돈 때문에 곤란한 사람을\n돕는 게 아니니까요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001793_MSG0021",
+      "style": 1,
+      "name": "가능한 한 보수를 받지 않고\n하고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001793_JNK0030",
+      "style": 4,
+      "name": "칭찬한다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001793_SEL0031",
+      "style": 3,
+      "name": "히메리의 행동은 옳다고 칭찬한다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001793_JNK0040",
+      "style": 4,
+      "name": "반론한다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001793_SEL0041",
+      "style": 3,
+      "name": "돈을 받아 저축해야 한다고 반론한다[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001793_JNK0050",
+      "style": 4,
+      "name": "설득한다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001793_SEL0051",
+      "style": 3,
+      "name": "블레이드 규칙에 따르도록 설득한다[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001793_MSG0029",
+      "style": 1,
+      "name": "감사합니다\n인정해 주시는 분은 그다지 없는데……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001793_MSG0030",
+      "style": 1,
+      "name": "제가 틀렸다고 생각하지는 않지만……\n그래도 지지해 주시는 분이 있으면 마음이 든든해요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001793_MSG0031",
+      "style": 1,
+      "name": "돈은 돌고 도는 거라고 하잖아요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001793_MSG0032",
+      "style": 1,
+      "name": "반대로 생각하면 저에게 돈이 없다는 건\n다른 사람에게 있다는 뜻이에요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001793_MSG0033",
+      "style": 1,
+      "name": "돈이 있으면 도움이 되는 것도 많겠죠[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001793_MSG0034",
+      "style": 1,
+      "name": "당신도 꼭 무보수로\n임무를 맡아 보면 좋을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001793_MSG0035",
+      "style": 1,
+      "name": "저도 최대한 함께할게요![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001793_MSG0040",
+      "style": 1,
+      "name": "오르넬라 씨와 같은 생각이군요[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001793_MSG0041",
+      "style": 1,
+      "name": "저축이 중요한 건 맞아요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001793_MSG0042",
+      "style": 1,
+      "name": "돈으로 해결할 수 있는 문제도 있겠죠[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001793_MSG0043",
+      "style": 1,
+      "name": "하지만 돈은 돌고 도는 거라고 하잖아요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001793_MSG0044",
+      "style": 1,
+      "name": "반대로 생각하면 저에게 없다는 건\n다른 사람에게 있다는 뜻이에요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001793_MSG0045",
+      "style": 1,
+      "name": "블레이드의 임무는 곤란한 분에게\n보수를 받는 경우가 많아요[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001793_MSG0046",
+      "style": 1,
+      "name": "그 사람이 또 곤란해졌을 땐\n어떻게 해야 할까요?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001793_MSG0047",
+      "style": 1,
+      "name": "그때는 지급할 보수가\n수중에 없을지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001793_MSG0048",
+      "style": 1,
+      "name": "즉, 제가 보수를 받지 않으면\n그 사람이 만약 또 곤란한 상황에 처했을 때\n누군가에게 도움을 받을 수 있다는 거예요[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001793_MSG0049",
+      "style": 1,
+      "name": "제 개인적인 생각을\n길게 이야기해 버려서 죄송해요[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001793_MSG0050",
+      "style": 1,
+      "name": "이제 주택 에어리어로 돌아갈게요\n에이더 씨와 만나기로 했거든요[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001793_MSG0054",
+      "style": 1,
+      "name": "그건……\n확실히 제가 보수를 받지 않으면[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001793_MSG0055",
+      "style": 1,
+      "name": "의뢰인분은 블레이드분들이\n무료로 일해 준다고\n착각할지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001793_MSG0056",
+      "style": 1,
+      "name": "하지만 보수를 지급하는 걸\n달갑지 않아 한다는 이야기는\n아직 못 들어 봤어요[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001793_MSG0057",
+      "style": 1,
+      "name": "NLA 여러분은 좋은 사람들뿐이에요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001793_MSG0058",
+      "style": 1,
+      "name": "블레이드 사람들의 고생을\n잘 이해해 주고 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001793_MSG0059",
+      "style": 1,
+      "name": "임무에 정당한 대가를\n지급하고 있는 거겠죠[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001793_MSG0060",
+      "style": 1,
+      "name": "……하지만 당신의 말도 일리가 있어요[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001793_MSG0061",
+      "style": 1,
+      "name": "블레이드 여러분이 불이익을 받는 건\n저도 바라는 바가 아니에요[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001793_MSG0062",
+      "style": 1,
+      "name": "블레이드 여러분이 NLA 사람들에게서\n존경을 잃게 된다면\n제가 그에 맞는 책임을 질게요[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev001793_MSG0063",
+      "style": 1,
+      "name": "……하지만 그러지 않도록\n계속 좋은 세상이 이어졌으면 좋겠네요[ST:wait ]"
+    }
+  ]
+}

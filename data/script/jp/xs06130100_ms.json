@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06130100_MSG0001",
+      "style": 0,
+      "name": "[ST:wide ]―というのが　今回の指令だ\nご理解いただけたかな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06130100_MSG0002",
+      "style": 0,
+      "name": "[ST:wide ]―承知した[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs06130100_MSG0003",
+      "style": 0,
+      "name": "面白くなさそうだな　ガ・デルグ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06130100_MSG0004",
+      "style": 0,
+      "name": "ラース王国の英雄と謳われた身が\n今やグロウスにこき使われる立場[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs06130100_MSG0005",
+      "style": 0,
+      "name": "面白くないのも当然か[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs06130100_MSG0006",
+      "style": 0,
+      "name": "[ST:wide ]―そのような感情はとうに捨てた[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs06130100_MSG0007",
+      "style": 0,
+      "name": "声に悔しさが滲み出ているぞ\n処世の術くらい心得んとな[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs06130100_MSG0008",
+      "style": 0,
+      "name": "そんなことだから[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06130100_MSG0008_2",
+      "style": 0,
+      "name": "私なんぞに使役されることになるのでは\nありませんか　ガ・デルグ殿下[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs06130100_MSG0009",
+      "style": 0,
+      "name": "おっと失礼　元殿下[ST:wide ]―でしたな[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs06130100_MSG0010",
+      "style": 0,
+      "name": "そなたの言う通りだな　ルクザール下級領事[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs06130100_MSG0011",
+      "style": 0,
+      "name": "総帥と呼べ！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs06130100_MSG0012",
+      "style": 0,
+      "name": "今は私がグロウス総帥\n貴様は使い捨ての駒に過ぎぬ[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs06130100_MSG0013",
+      "style": 0,
+      "name": "以前もそう言ったはずだ！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs06130100_MSG0014",
+      "style": 0,
+      "name": "そうであったな\n物覚えが悪くてすまぬ　下級領事[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs06130100_MSG0015",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs06130100_MSG0016",
+      "style": 0,
+      "name": "まあいい　貴様が失敗したところでラース人\nなどいくらでも使い捨てるだけの数はいる[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs06130100_MSG0017",
+      "style": 0,
+      "name": "地球人などに遅れをとらぬよう　励めよ[ST:wide ]―\nこの私のためにな[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs06130100_MSG0018",
+      "style": 0,
+      "name": "[ST:wide ]―承知した[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs06130100_MSG0019",
+      "style": 0,
+      "name": "覚えておけ　貴様が役に立てなければ\n祖国の民がさらに窮乏するのだと[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs06130100_MSG0020",
+      "style": 0,
+      "name": "そう　貴様は私のために働けばよい\n私があの方のもとに近づくために[ST:wide ]―[ST:wait ]\n"
+    }
+  ]
+}

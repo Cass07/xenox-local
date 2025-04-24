@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001201_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ] 씨\n어디 외출하세요?\n저도 데려가 주세요![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001201_MSG0002",
+      "style": 1,
+      "name": "돌 플라이트 커스텀을 만드는 중인데\n잘 안 풀려서……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001201_MSG0003",
+      "style": 1,
+      "name": "가끔은 블레이드 일을 했으면 좋겠다고\n생각하고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001201_JNK0010",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 5,
+      "label": "tev001201_SEL0011",
+      "style": 3,
+      "name": "린을 멤버에 넣는다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001201_JNK0020",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001201_SEL0021",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001201_MSG0004",
+      "style": 1,
+      "name": "고마워요!\n저 힘낼게요![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001201_MSG0005",
+      "style": 1,
+      "name": "배려해 줘서 고마워요\n분명 엄청 힘든 임무겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001201_MSG0010",
+      "style": 1,
+      "name": "[ST:playername ] 씨\n돌 플라이트 커스텀의 상태는 어때요?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001201_MSG0011",
+      "style": 1,
+      "name": "현장에서 도움이 되고 있는지 확인하고 싶기도 하고……\n저도 데려가 주지 않을래요?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001201_JNK0150",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 13,
+      "label": "tev001201_SEL0151",
+      "style": 3,
+      "name": "린을 멤버에 넣는다"
+    },
+    {
+      "$id": 14,
+      "label": "tev001201_JNK0160",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 15,
+      "label": "tev001201_SEL0161",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 16,
+      "label": "tev001201_MSG0012",
+      "style": 1,
+      "name": "고마워요!\n저 힘낼게요![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001201_MSG0013",
+      "style": 1,
+      "name": "그러면 식사 준비를 하고 있을 테니까\n배고파지면 돌아오세요![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001201_MSG0018",
+      "style": 1,
+      "name": "드디어 센트럴 라이프를 찾을 수 있어……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001201_MSG0019",
+      "style": 1,
+      "name": "저도 정말 열심히 할 테니까\n모두가 행복하게 살 수 있는 미래를\n반드시 손에 넣자고요![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001201_JNK0150",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev001201_SEL0151",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev001201_JNK0160",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev001201_SEL0161",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev001201_MSG0020",
+      "style": 1,
+      "name": "고마워요!\n저 힘낼게요![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001201_MSG0021",
+      "style": 1,
+      "name": "그럼 다녀오세요\n꼭 무사히 돌아와 주세요![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001201_MSG0026",
+      "style": 1,
+      "name": "어디 외출하세요?\n저도 마침 밖에 나가고 싶다~ 하고\n생각하고 있었거든요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001201_MSG0027",
+      "style": 1,
+      "name": "부탁이에요, 어디든 좋으니까\n데려가 주세요![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001201_JNK0170",
+      "style": 4,
+      "name": "데려간다"
+    },
+    {
+      "$id": 29,
+      "label": "tev001201_SEL0171",
+      "style": 3,
+      "name": "린을 멤버에 넣는다"
+    },
+    {
+      "$id": 30,
+      "label": "tev001201_JNK0180",
+      "style": 4,
+      "name": "데려가지 않는다"
+    },
+    {
+      "$id": 31,
+      "label": "tev001201_SEL0181",
+      "style": 3,
+      "name": "지금은 멤버에 넣지 않는다"
+    },
+    {
+      "$id": 32,
+      "label": "tev001201_MSG0028",
+      "style": 1,
+      "name": "고마워요!\n저 힘낼게요![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001201_MSG0029",
+      "style": 1,
+      "name": "그러면 여기를 지키고 있을게요\n선물로 식재료라도 가져다주세요![ST:wait ]"
+    }
+  ]
+}

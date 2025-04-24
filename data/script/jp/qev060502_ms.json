@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060502_MSG0001",
+      "style": 1,
+      "name": "おや……[ST:playername ]？\nこんな所で何をしているのですか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060502_MSG0002",
+      "style": 1,
+      "name": "私とアラセニカンは久しぶりに\n沢山のボルタントをリボルタントした所です[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060502_MSG0003",
+      "style": 1,
+      "name": "ふふっ　ゴルボッガが与えてくれた\n幸運に感謝……ですね[ST:wait ]"
+    }
+  ]
+}

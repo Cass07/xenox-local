@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092805_MSG0010",
+      "style": 0,
+      "name": "やはりこうなってしまったか[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092805_MSG0015",
+      "style": 0,
+      "name": "実に残念だよ　アリシャ君[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092805_MSG0020",
+      "style": 0,
+      "name": "部長[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092805_MSG0030",
+      "style": 0,
+      "name": "君は共犯者だ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092805_MSG0040",
+      "style": 0,
+      "name": "常に見張られているという自覚を\n持ったほうがいい[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092805_MSG0050",
+      "style": 0,
+      "name": "なら認めるんだな？\nお前がこれまでしてきたことを[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092805_MSG0060",
+      "style": 0,
+      "name": "今になって私を糾弾したところで\n何も変わりやしない[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092805_MSG0070",
+      "style": 0,
+      "name": "このあたりで手を引け　リーゼル[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092805_MSG0080",
+      "style": 0,
+      "name": "それはできない[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092805_MSG0090",
+      "style": 0,
+      "name": "身内は見逃すが\n私は許さないということか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092805_MSG0100",
+      "style": 0,
+      "name": "いや　二人とも罪を償うべきだ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092805_MSG0110",
+      "style": 0,
+      "name": "残酷だな　友を見捨てるのか[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092805_MSG0120",
+      "style": 0,
+      "name": "間違いを悔いているのなら\nおれは誰だろうと手を差し伸べる[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092805_MSG0130",
+      "style": 0,
+      "name": "お前はどうだ？\n自分のしてきたことに後悔はあるか？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092805_MSG0140",
+      "style": 0,
+      "name": "なるほど　君は[ST:wide ]―\n呆れるほど正しい人間なんだな[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092805_MSG0150",
+      "style": 0,
+      "name": "[ST:wide ]―反吐が出る[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092805_MSG0160",
+      "style": 0,
+      "name": "私欲のために人を殺める奴よりマシだ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092805_JNK0170",
+      "style": 4,
+      "name": "決意"
+    },
+    {
+      "$id": 19,
+      "label": "qev092805_SEL0180",
+      "style": 3,
+      "name": "戦うしかないと伝える"
+    },
+    {
+      "$id": 20,
+      "label": "qev092805_MSG0190",
+      "style": 0,
+      "name": "同感だ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092805_MSG0195",
+      "style": 0,
+      "name": "こいつは正真正銘の[ST:wide ]―　外道だ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092805_JNK0200",
+      "style": 4,
+      "name": "冗談"
+    },
+    {
+      "$id": 23,
+      "label": "qev092805_SEL0210",
+      "style": 3,
+      "name": "報酬の増額を求める"
+    },
+    {
+      "$id": 24,
+      "label": "qev092805_MSG0220",
+      "style": 0,
+      "name": "すまない\nお前には助けられてばかりだな[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092805_MSG0230",
+      "style": 0,
+      "name": "だが[ST:wide ]―　今はとても心強い[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092805_MSG0240",
+      "style": 0,
+      "name": "もはや交渉の余地はない[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092805_MSG0250",
+      "style": 0,
+      "name": "君達は独断行動の末に　ミラの大地に散った[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092805_MSG0255",
+      "style": 0,
+      "name": "そういう筋書きで上には報告しよう[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev092805_MSG0260",
+      "style": 0,
+      "name": "終わりだ　クレマン[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev092805_MSG0265",
+      "style": 0,
+      "name": "[ST:wide ]―罪を精算する時だ[ST:wait ]"
+    }
+  ]
+}

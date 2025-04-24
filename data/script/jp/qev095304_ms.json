@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095304_MSG0030",
+      "style": 1,
+      "name": "ひっ……！　地球の方\nどうか　我々をお助け下さい！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095304_MSG0001",
+      "style": 1,
+      "name": "ありがとうございました\n地球の方[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095304_MSG0002",
+      "style": 1,
+      "name": "グロウスで偉そうにしているヤツらより\nよほど強いですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev095304_MSG0003",
+      "style": 1,
+      "name": "この人ならば\n我々を保護してくれるのではないだろうか？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev095304_MSG0004",
+      "style": 1,
+      "name": "試す価値はありそうです[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev095304_MSG0005",
+      "style": 1,
+      "name": "地球の方　ひとつ願いをお聞きください[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev095304_MSG0006",
+      "style": 1,
+      "name": "我々ザルボッガ人は戦闘向きではないため\nグロウスの中でも下級中の下級の\n扱いを受けています[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095304_MSG0007",
+      "style": 1,
+      "name": "ただ我々はこのスーツのおかげで\nいかなる環境にも適応できます[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095304_MSG0008",
+      "style": 1,
+      "name": "この星に到着してから　あらゆる危険な場所の\n調査を強いられているのです[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095304_MSG0009",
+      "style": 1,
+      "name": "狂暴な原生生物どもが闊歩する洞窟や\n足を滑らせれば命がないような断崖絶壁……\n多くの仲間が　調査中に死んでいきました……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095304_MSG0010",
+      "style": 1,
+      "name": "もうグロウスに従属する\n生活にはこりごりなんです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095304_MSG0011",
+      "style": 1,
+      "name": "どうかあなたがたの街に\n保護してもらえないでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095304_JNK0010",
+      "style": 4,
+      "name": "保護する"
+    },
+    {
+      "$id": 14,
+      "label": "qev095304_SEL0011",
+      "style": 3,
+      "name": "ザルボッガ人をNLAに迎え入れる"
+    },
+    {
+      "$id": 15,
+      "label": "qev095304_JNK0020",
+      "style": 4,
+      "name": "保護しない"
+    },
+    {
+      "$id": 16,
+      "label": "qev095304_SEL0021",
+      "style": 3,
+      "name": "ザルボッガ人をこのまま放置する"
+    },
+    {
+      "$id": 17,
+      "label": "qev095304_MSG0012",
+      "style": 1,
+      "name": "おお[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev095304_MSG0013",
+      "style": 1,
+      "name": "ゴルボッガの神々よ　感謝いたします[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev095304_MSG0014",
+      "style": 1,
+      "name": "我々は十数人の大所帯ですが\nすぐにでもあなた方の街へ向かいます[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev095304_MSG0015",
+      "style": 1,
+      "name": "よろしくお願いします！[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev095304_MSG0016",
+      "style": 1,
+      "name": "そうですか[ST:wide ]―\n残念です[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095304_MSG0017",
+      "style": 1,
+      "name": "しかし　我々は根気強い性格をしています[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095304_MSG0018",
+      "style": 1,
+      "name": "何百年でもこの場所で待ちますよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095304_MSG0019",
+      "style": 1,
+      "name": "どうせ戻る場所はないのだからな[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095304_MSG0020",
+      "style": 1,
+      "name": "もうグロウスに従属する生活には\nこりごりなんです[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095304_MSG0021",
+      "style": 1,
+      "name": "どうかあなたがたの街に\n保護してもらえないでしょうか？[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013203_MSG0001",
+      "style": 1,
+      "name": "……어이, 상황은 어때?\n비홍천은 찾았어?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev013203_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 3,
+      "label": "qev013203_SEL0011",
+      "style": 3,
+      "name": "그 장소에 있다고 보고한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev013203_JNK0020",
+      "style": 4,
+      "name": "확인"
+    },
+    {
+      "$id": 5,
+      "label": "qev013203_SEL0021",
+      "style": 3,
+      "name": "여기가 그 장소인지 확인한다"
+    },
+    {
+      "$id": 6,
+      "label": "qev013203_MSG0002",
+      "style": 1,
+      "name": "……그런가, 역시 대단하군\n이렇게 빨리 발견하다니[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev013203_MSG0003",
+      "style": 1,
+      "name": "……틀림없어\n거긴 분명히 비홍천이야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev013203_MSG0004",
+      "style": 1,
+      "name": "콜론더스 팀의 대장으로서는 분한 일이지만\n아무래도 이 대결은 너의……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev013203_MSG0005",
+      "style": 1,
+      "name": "……이런, 미안하군\n마침 그 햇병아리에게서\n연락이 온 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev013203_MSG0007",
+      "style": 1,
+      "name": "……어이, 왜 그래! 대답해!\n뭐? 지금 뭐라고 했어?\n뭐가 있다는 거야![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev013203_MSG0008",
+      "style": 1,
+      "name": "어이!\n쳇…… 통신이 끊어졌어![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev013203_MSG0009",
+      "style": 1,
+      "name": "……미안하군, 사정이 좀 바뀌었어\n너도 거기에 있으면 위험할지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev013203_MSG0010",
+      "style": 1,
+      "name": "당장 NLA로 돌아와 줘\n젠장! 검은 돌이라는 게\n대체 무슨 소리야![ST:wait ]"
+    }
+  ]
+}

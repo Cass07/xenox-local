@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091201_MSG0001",
+      "style": 0,
+      "name": "フライ　フォグ[ST:wide ]―\n本当に引き受けてくれるんだな？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091201_MSG0002",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091201_MSG0003",
+      "style": 0,
+      "name": "俺達にぴったりな任務だからな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091201_MSG0004",
+      "style": 0,
+      "name": "強力な仲間もいるんだ\n大丈夫だよ　なぁ？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091201_JNK0010",
+      "style": 4,
+      "name": "肯定する"
+    },
+    {
+      "$id": 6,
+      "label": "qev091201_SEL0011",
+      "style": 3,
+      "name": "任せてほしいと力強くうなずく"
+    },
+    {
+      "$id": 7,
+      "label": "qev091201_JNK0020",
+      "style": 4,
+      "name": "肯定しない"
+    },
+    {
+      "$id": 8,
+      "label": "qev091201_SEL0021",
+      "style": 3,
+      "name": "内容が分からないので安易に肯定できない"
+    },
+    {
+      "$id": 9,
+      "label": "qev091201_MSG0005",
+      "style": 0,
+      "name": "まるで兄さんみたいに無鉄砲ですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091201_MSG0005_m",
+      "style": 0,
+      "name": "まるで兄さんみたいに無鉄砲ですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091201_MSG0005_f",
+      "style": 0,
+      "name": "まるで兄さんみたいに無鉄砲ですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091201_MSG0006",
+      "style": 0,
+      "name": "それでも成功させるから頼りになるんだろ？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091201_MSG0007",
+      "style": 0,
+      "name": "それを自分で言うかなぁ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091201_MSG0008",
+      "style": 0,
+      "name": "なんだ　フォグみたいに慎重派だな[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091201_MSG0009",
+      "style": 0,
+      "name": "賢明な判断だと思います[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091201_MSG0010",
+      "style": 0,
+      "name": "それは俺がバカってことか？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091201_MSG0011",
+      "style": 0,
+      "name": "い　いや[ST:wide ]―　そうじゃないけど[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091201_MSG0012",
+      "style": 0,
+      "name": "何人で行こうと構わんが\n任務の内容はしっかりと説明しておいてくれ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091201_MSG0013",
+      "style": 0,
+      "name": "はいはい　フォグ[ST:wide ]―　頼んだぞ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091201_MSG0014",
+      "style": 0,
+      "name": "わかったよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091201_MSG0015",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091201_MSG0016",
+      "style": 0,
+      "name": "白樹の大陸に　これまで確認されたことがない\n資源のようなものが観測されたんです[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091201_MSG0017",
+      "style": 0,
+      "name": "他のチームが回収に向かったのですが\n悉く失敗に終わってしまいました[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091201_MSG0018",
+      "style": 0,
+      "name": "ボクは改めてそれの調査と確保する任務を\n受けたのですが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091201_MSG0019",
+      "style": 0,
+      "name": "その一帯は　手ごわい原生生物も多いみたいで[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091201_MSG0020",
+      "style": 0,
+      "name": "兄さんに手伝ってもらうことになったんです[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091201_MSG0021",
+      "style": 0,
+      "name": "インターセプターの俺が化物を倒し[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091201_MSG0022",
+      "style": 0,
+      "name": "ランドバンクのフォグが資源を確保するって\n連携プレーだな[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091201_MSG0023",
+      "style": 0,
+      "name": "そういうことです\nどうでしょう　協力してくれますか？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091201_MSG0024",
+      "style": 0,
+      "name": "聞くまでもねえだろ　俺達は運命共同体\n一緒に行くに決まってるだろうが[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091201_MSG0025",
+      "style": 0,
+      "name": "そうだね　聞くまでもなかったよ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091201_MSG0026",
+      "style": 0,
+      "name": "では出発しましょう　目的地は白樹の大陸\n未確認資源の調査と確保です[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091201_MSG0027",
+      "style": 0,
+      "name": "いっちょ大暴れしてやろうぜ！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08110100_MSG0001",
+      "style": 0,
+      "name": "グアアアアッ[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs08110100_MSG0002",
+      "style": 0,
+      "name": "あああ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08110100_MSG0003",
+      "style": 0,
+      "name": "ふン　怯えてやがる\nまずはアイツから[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs08110100_MSG0004",
+      "style": 0,
+      "name": "リン　落ち着いて\n今までの戦闘を思い出して[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs08110100_MSG0005",
+      "style": 0,
+      "name": "私達で出来なかったことがあって\n大丈夫　あなたには私達がついている[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08110100_MSG0006",
+      "style": 0,
+      "name": "エルマさん[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs08110100_JNK0010",
+      "style": 4,
+      "name": "激励"
+    },
+    {
+      "$id": 8,
+      "label": "xs08110100_SEL0011",
+      "style": 3,
+      "name": "必ず勝てると無言でうなずく"
+    },
+    {
+      "$id": 9,
+      "label": "xs08110100_JNK0020",
+      "style": 4,
+      "name": "逃避"
+    },
+    {
+      "$id": 10,
+      "label": "xs08110100_SEL0021",
+      "style": 3,
+      "name": "一緒に逃げようと手を伸ばす"
+    },
+    {
+      "$id": 11,
+      "label": "xs08110100_MSG0007",
+      "style": 0,
+      "name": "そうですよね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs08110100_MSG0008",
+      "style": 0,
+      "name": "みなさんと一緒だったらやれる気がします[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs08110100_MSG0009",
+      "style": 0,
+      "name": "ありがとうございます\n私のために[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08110100_MSG0010",
+      "style": 0,
+      "name": "でも　ここで逃げちゃダメですよ\n私達で街を護らないと[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs08110100_MSG0011",
+      "style": 0,
+      "name": "ごめんなさい　動転して[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs08110100_MSG0012",
+      "style": 0,
+      "name": "もう大丈夫です\nさっさとやっつけちゃいましょう[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs08110100_MSG0013",
+      "style": 0,
+      "name": "へェー　なんか偉そうなのがいるじゃなイ\nアイツが指揮官ネ[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs08110100_MSG0014",
+      "style": 0,
+      "name": "ほらダガン　やっつけるヨ\n突っ込めェ！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs08110100_MSG0015",
+      "style": 0,
+      "name": "わかった　リーズ[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33500100_MSG0010",
+      "style": 0,
+      "name": "お二人とも　無事だったんですね！\nよかった[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33500100_MSG0020",
+      "style": 0,
+      "name": "やっと見つけましたも！\nあちこち探しましたも～[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33500100_MSG0032",
+      "style": 0,
+      "name": "エルマ、元気そうな二人を見て微笑む"
+    },
+    {
+      "$id": 4,
+      "label": "xs33500100_MSG0025",
+      "style": 0,
+      "name": "その様子だと　二人も大事ないようね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33500100_MSG0026",
+      "style": 0,
+      "name": "エルマさん[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33500100_MSG0027",
+      "style": 0,
+      "name": "もう一度\nヴォイドのいる場所に向かうんですよね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33500100_MSG0030",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "xs33500100_MSG0035",
+      "style": 0,
+      "name": "その前に　ちょっといいですか？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33500100_MSG0040",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "xs33500100_MSG0045",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "xs33500100_MSG0050",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "xs33500100_MSG0060",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "xs33500100_MSG0061",
+      "style": 0,
+      "name": "あれを見てください[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33500100_MSG0062",
+      "style": 0,
+      "name": "塔[ST:wide ]―　ですかね？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33500100_MSG0063",
+      "style": 0,
+      "name": "何かの遺跡のようにも見えますけど[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs33500100_MSG0064",
+      "style": 0,
+      "name": "こんな場所に巨大な人工の構造物[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs33500100_MSG0065",
+      "style": 0,
+      "name": "何らかの意味があって\nあそこにあるのだとすれば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs33500100_MSG0066",
+      "style": 0,
+      "name": "あるいは[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs33500100_MSG0067",
+      "style": 0,
+      "name": "ヴォイドに関係している可能性も[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs33500100_MSG0068",
+      "style": 0,
+      "name": "はい　私も同じことを考えていました[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs33500100_MSG0070",
+      "style": 0,
+      "name": "タツも気になりますも\nちょっとヨリ道して調べてみますも！[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs33500100_MSG0080",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "xs33500100_MSG0090",
+      "style": 0,
+      "name": "そうね\n今は少しでも情報が欲しい[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs33500100_MSG0100",
+      "style": 0,
+      "name": "念のため調査しておきましょう[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs33500100_MSG0110",
+      "style": 0,
+      "name": "はい！[ST:wait ]"
+    }
+  ]
+}

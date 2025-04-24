@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev041502_MSG0001",
+      "style": 1,
+      "name": "어라…… 당신들은……?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev041502_MSG0002",
+      "style": 1,
+      "name": "안녕하세요! 언니![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev041502_MSG0003",
+      "style": 1,
+      "name": "아앗! 예전의 그 노폰인!\n우와, 그때 생각이 나네……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev041502_MSG0004",
+      "style": 1,
+      "name": "오랜만에 뵙습니다모…………\n아니, 어라!? 언니![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev041502_MSG0005",
+      "style": 1,
+      "name": "머리카락 자랐습니다모!?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev041502_MSG0006",
+      "style": 1,
+      "name": "……응?\n아~ 이거?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev041502_MSG0007",
+      "style": 1,
+      "name": "잘 생각해 보면\n우리는 B.B.잖아~[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev041502_MSG0008",
+      "style": 1,
+      "name": "솔직히 머리카락 정도는 어떻게든 된단 말이지\n가발 같은 느낌? 이랄까?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev041502_MSG0009",
+      "style": 1,
+      "name": "오히려 매끈매끈하게 해 준 덕분에\n새로운 머리 스타일에 도전할\n계기가 생겼달까? 싶은?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev041502_MSG0010",
+      "style": 1,
+      "name": "우우…… 좀 충격입니다모……\n약을 만드는 법을 찾아내고……\n상당히 레어한 재료도 죽기 살기로 모았는데……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev041502_MSG0011",
+      "style": 1,
+      "name": "미, 미안……\n뭔지 잘 모르겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev041502_MSG0012",
+      "style": 1,
+      "name": "끄응…………\n하지만! 역시 언니에게는\n제대로 보상하고 싶습니다모![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev041502_MSG0013",
+      "style": 1,
+      "name": "성의와 사과, 보상은\n장사의 기본입니다모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev041502_MSG0014",
+      "style": 1,
+      "name": "약을 만들기 위해 모은 재료를 팔고 오겠습니다모!\n10000G는 안 될지도 모르지만\n나름 큰돈이 될 겁니다모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev041502_MSG0015",
+      "style": 1,
+      "name": "응? 자, 잠깐……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev041502_MSG0016",
+      "style": 1,
+      "name": "언니, 조금만 더\n기다려 주셨으면 합니다모![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev041502_MSG0017",
+      "style": 1,
+      "name": "바로 돈으로 바꿔 오겠습니다모~![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev041502_MSG0018",
+      "style": 1,
+      "name": "기다려 보라니까![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev041502_MSG0019",
+      "style": 1,
+      "name": "모?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev041502_MSG0020",
+      "style": 1,
+      "name": "돈 같은 건 이제 됐어……\n너의 성의는 이미 충분히 전해졌으니까[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev041502_MSG0021",
+      "style": 1,
+      "name": "모모못?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev041502_MSG0022",
+      "style": 1,
+      "name": "고생하면서 여기저기 찾아다녀 준 거지?\n그리고 그렇게 고생해서 모아 온 걸\n바로 팔아 버릴 생각을 하다니……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev041502_MSG0023",
+      "style": 1,
+      "name": "언니……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev041502_MSG0024",
+      "style": 1,
+      "name": "노폰인을 다시 봤어!\n제법 상인 근성이 있잖아?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev041502_MSG0025",
+      "style": 1,
+      "name": "그 근성을 봐서 이번에는 없던 일로 해 줄게![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev041502_MSG0026",
+      "style": 1,
+      "name": "저, 정말입니까모!?\n감사합니다모~![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev041502_MSG0027",
+      "style": 1,
+      "name": "열심히 해서 훌륭한 상인이 되어야 해![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev041502_MSG0028",
+      "style": 1,
+      "name": "알겠습니다모!\n그때는…… 또 찾아 주세요모~~~![ST:wait ]"
+    }
+  ]
+}

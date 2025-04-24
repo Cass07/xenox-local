@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095202_MSG0001",
+      "style": 1,
+      "name": "우리의 구조 신호를 수신해 주었나[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095202_MSG0002",
+      "style": 1,
+      "name": "그로우스의 눈을 피하기 위해\n미약한 신호만을 보내야 했지만\n성공한 모양이군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095202_JNK0010",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "qev095202_SEL0011",
+      "style": 3,
+      "name": "상대에 관해 자세히 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "qev095202_JNK0020",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 6,
+      "label": "qev095202_SEL0021",
+      "style": 3,
+      "name": "도움이 필요한지 묻는다"
+    },
+    {
+      "$id": 7,
+      "label": "qev095202_MSG0003",
+      "style": 1,
+      "name": "……우리 정체를 확인하지도 않고\n여기까지 왔다는 말인가[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095202_MSG0004",
+      "style": 1,
+      "name": "지구인은 참으로 기묘한 외계인이지만\n지금 같은 기이한 행동을 하는 생물도\n있다는 것을 받아들여야겠지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095202_MSG0005",
+      "style": 1,
+      "name": "결과적으로 구조 신호를 보낸 것은\n올바른 선택이었으니 말일세[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095202_MSG0006",
+      "style": 1,
+      "name": "자네의 행동은 다소 비논리적으로 보이지만\n전투 능력은 높을 것으로 판단되는군[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095202_MSG0007",
+      "style": 1,
+      "name": "지구인이 그로우스를 분쇄할 가능성은 51%\n우리는 강자의 편에 서고 싶네[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095202_MSG0008",
+      "style": 1,
+      "name": "그렇기에 지구인에게 도움을 요청한 걸세\n그것이야말로 합리적인 행동이기 때문이지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095202_MSG0009",
+      "style": 1,
+      "name": "하지만……\n그로우스에 있어 우리의 이용 가치는 높다[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095202_MSG0010",
+      "style": 1,
+      "name": "그로우스는 우리의 뛰어난 기술력을\n포기할 생각이 없어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095202_MSG0011",
+      "style": 1,
+      "name": "우리를 되찾기 위해 그로우스가\n지구인을 향해 집중 공격을 가하겠지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev095202_MSG0026",
+      "style": 1,
+      "name": "음, 그렇네\n우리가 구조 신호를 보냈지[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev095202_JNK0030",
+      "style": 4,
+      "name": "제안"
+    },
+    {
+      "$id": 18,
+      "label": "qev095202_SEL0031",
+      "style": 3,
+      "name": "서둘러 도시로 돌아가자고 재촉한다"
+    },
+    {
+      "$id": 19,
+      "label": "qev095202_JNK0040",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 20,
+      "label": "qev095202_SEL0041",
+      "style": 3,
+      "name": "눈앞의 외계인에게\n종족 명칭이 무엇인지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev095202_JNK0050",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 22,
+      "label": "qev095202_SEL0051",
+      "style": 3,
+      "name": "스스로를 우리라고 부른 이유를 묻는다"
+    },
+    {
+      "$id": 23,
+      "label": "qev095202_MSG0012",
+      "style": 1,
+      "name": "……아주 논리적인 판단이군[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095202_MSG0013",
+      "style": 1,
+      "name": "다만 잠시 기다리게[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095202_MSG0014",
+      "style": 1,
+      "name": "나 이외에도 동료들이 있네\n함께 구출해 주게[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095202_MSG0015",
+      "style": 1,
+      "name": "한가하게 자기소개를 할 시간은 없지만\n우리는 오르페라 불리는 자들일세[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev095202_MSG0016",
+      "style": 1,
+      "name": "시간이 없다는 말은 빈말이 아닐세\n나 이외에도 동료들이 있네\n다수를 구출할 때는 시간이 걸리는 법[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095202_MSG0017",
+      "style": 1,
+      "name": "뛰어난 통찰력이군[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev095202_MSG0018",
+      "style": 1,
+      "name": "나 이외에도 동료들이 있네\n함께 구출해 주게[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev095202_MSG0019",
+      "style": 1,
+      "name": "이들이 현시점의 우리 오르페 총인원일세[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev095202_MSG0020",
+      "style": 1,
+      "name": "이제 NLA까지\n데리고 가 주면 된다네[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev095202_MSG0021",
+      "style": 1,
+      "name": "이런……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev095202_MSG0022",
+      "style": 1,
+      "name": "역시 눈치챈 모양이군[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev095202_MSG0023",
+      "style": 1,
+      "name": "우리는 기술자이기에 전투에는 익숙하지 않네[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev095202_MSG0024",
+      "style": 1,
+      "name": "그러니 자네가 그로우스와 싸우며\n우리를 지켜 주어야 해[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev095202_MSG0025",
+      "style": 1,
+      "name": "……부탁하네[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev095202_MSG1001",
+      "style": 1,
+      "name": "……흠, 적의 섬멸을 확인했다[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev095202_MSG1002",
+      "style": 1,
+      "name": "잘해 주었네\n자, 이 틈에 우리를 NLA로\n데리고 가 주시게[ST:wait ]"
+    }
+  ]
+}

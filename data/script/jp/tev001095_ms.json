@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001095_MSG0001",
+      "style": 1,
+      "name": "……あ　[ST:playername ]さん\nこんにちは[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001095_MSG0002",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001095_MSG0003",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001095_MSG0004",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001095_MSG0005",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001095_MSG0006",
+      "style": 1,
+      "name": "……この浄水場には\nいっぱい水があるなぁって見てたんです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001095_MSG0007",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001095_MSG0008",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001095_MSG0009",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001095_MSG0010",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001095_MSG0011",
+      "style": 1,
+      "name": "……兄さんがお酒好きなのを知ってますよね？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001095_JNK0010",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 13,
+      "label": "tev001095_SEL0011",
+      "style": 3,
+      "name": "水割りのための水が\n欲しいのかと尋ねる"
+    },
+    {
+      "$id": 14,
+      "label": "tev001095_JNK0020",
+      "style": 4,
+      "name": "主張"
+    },
+    {
+      "$id": 15,
+      "label": "tev001095_SEL0021",
+      "style": 3,
+      "name": "自分の方が実はお酒が好きだ\nと主張する"
+    },
+    {
+      "$id": 16,
+      "label": "tev001095_MSG0017",
+      "style": 1,
+      "name": "いえ　もっと壮大で深刻な問題なんです[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001095_MSG0018",
+      "style": 1,
+      "name": "もうすぐ兄さんの誕生日なので\n何かしてあげたいと思ってるんです[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001095_MSG0019",
+      "style": 1,
+      "name": "今となっては唯一の家族ですし\n和解して初めての誕生日ですし……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001095_MSG0020",
+      "style": 1,
+      "name": "ここの水をすべてスコッチにすると\n喜んでくれるだろうと思ったんですが……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001095_MSG0021",
+      "style": 1,
+      "name": "さすがにNLAの皆さんが\nお怒りになりそうなので\n別のアイディアを考えていたんです[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001095_MSG0023",
+      "style": 1,
+      "name": "へぇ　そうなんですか……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001095_MSG0024",
+      "style": 1,
+      "name": "それでですね……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001095_MSG0025",
+      "style": 1,
+      "name": "もうすぐ兄さんの誕生日なので\n何かしてあげたいと思ってるんです[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001095_MSG0026",
+      "style": 1,
+      "name": "今となっては唯一の家族ですし\n和解して初めての誕生日ですし……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001095_MSG0027",
+      "style": 1,
+      "name": "ここの水をすべてスコッチにしようだなんて\n計画はよくないなと思ったので\n別のアイディアを考えているんです[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001095_MSG0029",
+      "style": 1,
+      "name": "何かないでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001095_JNK0030",
+      "style": 4,
+      "name": "妙案"
+    },
+    {
+      "$id": 28,
+      "label": "tev001095_SEL0031",
+      "style": 3,
+      "name": "ルーにスペシャルな酒を\n作ってもらう"
+    },
+    {
+      "$id": 29,
+      "label": "tev001095_JNK0040",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 30,
+      "label": "tev001095_SEL0041",
+      "style": 3,
+      "name": "みんなを呼んでパーティーを\n開くことを提案する"
+    },
+    {
+      "$id": 31,
+      "label": "tev001095_MSG0035",
+      "style": 1,
+      "name": "それは妙案ですね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001095_MSG0036",
+      "style": 1,
+      "name": "ルーさんならきっと兄さんを驚かせるような\nお酒を作ってくれるに違いありません[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001095_MSG0037",
+      "style": 1,
+      "name": "すばらしいアイディアをありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001095_MSG0038",
+      "style": 1,
+      "name": "あなたのおかげで兄さんと仲直りできた上に\nまだアドバイスももらえるなんて……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001095_MSG0039",
+      "style": 1,
+      "name": "これからもぜひ　クリストフ兄弟の\nよき友人でいてくださいね[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001095_MSG0042",
+      "style": 1,
+      "name": "そうですね……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001095_MSG0043",
+      "style": 1,
+      "name": "兄さんはお酒の味なんか\n分かっていそうにありませんし……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001095_MSG0044",
+      "style": 1,
+      "name": "ただただ　たくさんのお酒を\n呑める機会があれば満足しますよね[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001095_MSG0045",
+      "style": 1,
+      "name": "ボクが料理を作って\n友人の方をたくさんお呼びして\nわいわい騒げるパーティーを用意します[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001095_MSG0046",
+      "style": 1,
+      "name": "あなたも絶対にいらしてください[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001095_MSG0047",
+      "style": 1,
+      "name": "クリストフ兄弟の一番の友人なんですから[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091706_MSG0001",
+      "style": 1,
+      "name": "유감이네…… 아무래도 여기에는\n랑크로드의 연구 데이터가 없는 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091706_MSG0002",
+      "style": 1,
+      "name": "어라?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091706_MSG0003",
+      "style": 1,
+      "name": "하지만…… 운이 좋은걸\n현상 수배자의 위치를 알아내다니[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091706_MSG0004",
+      "style": 1,
+      "name": "자, 머리를 사냥하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091706_MSG0005",
+      "style": 1,
+      "name": "랑크로드의 연구 데이터는 여기에 없나 봐[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091706_MSG0006",
+      "style": 1,
+      "name": "아까 정보를 불게 할 걸 그랬어\n그로우스의 거점을 닥치는 대로\n뒤져 봐야 하잖아[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091706_MSG0007",
+      "style": 1,
+      "name": "진짜 귀찮네……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091706_MSG0008",
+      "style": 1,
+      "name": "랑크로드는 어디 숨었으려나[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091706_MSG0009",
+      "style": 1,
+      "name": "이 콘솔에 무언가 정보가\n있으면 좋겠는데……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091706_MSG0010",
+      "style": 1,
+      "name": "……빙고야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091706_MSG0011",
+      "style": 1,
+      "name": "술래잡기 시간은 끝……\n자, 사냥하러 가자[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091706_MSG0012",
+      "style": 1,
+      "name": "랑크로드의 연구 데이터는 획득했고\n녀석의 위치도 파악했어……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091706_MSG0013",
+      "style": 1,
+      "name": "남은 건 감동적인 만남뿐이야\n기대되는걸[ST:wait ]"
+    }
+  ]
+}

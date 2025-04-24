@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev075302_MSG0001",
+      "style": 1,
+      "name": "으아아아앗!!\n받아라! 장그 크래~시!![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev075302_MSG0002",
+      "style": 1,
+      "name": "스…… 스승님에게 배운\n장그 크래시를 맞고도 무사하다니\n튼튼한 녀석이다아![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev075302_MSG0003",
+      "style": 1,
+      "name": "위험하다아, 위험하다고오!\n이대로는 먹히고 말 거다아![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev075302_MSG0004",
+      "style": 1,
+      "name": "……앗! 지구인![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev075302_MSG0005",
+      "style": 1,
+      "name": "지구인! 저 녀석들은\n내 장그 크래시를 맞고\n상당히 약해졌다아![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev075302_MSG0006",
+      "style": 1,
+      "name": "뒷일은 너희에게 맡긴다!\n녀석들을 영원히 잠들게 해 줘라아![ST:wait ]"
+    }
+  ]
+}

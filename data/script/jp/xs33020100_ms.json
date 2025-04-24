@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33020100_MSG0010",
+      "style": 0,
+      "name": "どうした！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33020100_MSG0020",
+      "style": 0,
+      "name": "周囲の消失現象よりゴーストの出現を確認！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33020100_MSG0030",
+      "style": 0,
+      "name": "こちらに向かって来ています！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33020100_MSG0040",
+      "style": 0,
+      "name": "ついに来たか[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33020100_MSG0050",
+      "style": 0,
+      "name": "新白鯨　エンジン始動[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33020100_MSG0060",
+      "style": 0,
+      "name": "分かったヨ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33020100_MSG0070",
+      "style": 0,
+      "name": "緊急避難のサイレンを鳴らせ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33020100_MSG0080",
+      "style": 0,
+      "name": "合わせて全隊員にゴーストの迎撃と\n住人の避難誘導を指示[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33020100_MSG0090",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    }
+  ]
+}

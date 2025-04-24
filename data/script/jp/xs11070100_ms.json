@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11070100_MSG0001",
+      "style": 0,
+      "name": "何でしょう　これ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11070100_MSG0002",
+      "style": 0,
+      "name": "鍵のようだけど[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs11070100_MSG0003",
+      "style": 0,
+      "name": "さっきの開かなかった入口の\nカギじゃないですかも[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs11070100_MSG0003_m",
+      "style": 0,
+      "name": "さっきの開かなかった入口の\nカギじゃないですかも[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs11070100_MSG0003_f",
+      "style": 0,
+      "name": "さっきの開かなかった入口の\nカギじゃないですかも[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs11070100_MSG0004",
+      "style": 0,
+      "name": "そうかもしれないわね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11070100_MSG0005",
+      "style": 0,
+      "name": "タツ　さえてるね！[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs11070100_MSG0006",
+      "style": 0,
+      "name": "これでドールでも来れますね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11070100_MSG0007",
+      "style": 0,
+      "name": "そうね[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev016801_MSG0001",
+      "style": 1,
+      "name": "뭘 하길래 줄 서서 기다리고 있냐고요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev016801_MSG0002",
+      "style": 1,
+      "name": "……네!?\n당신, 그녀를 모르는 겁니까!?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev016801_MSG0003",
+      "style": 1,
+      "name": "그녀는 천사예요!\n이 고통으로 가득한 세상에 핀\n한 송이의 아름다운 꽃입니다![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev016801_MSG0004",
+      "style": 1,
+      "name": "저만 해도 그녀에게 상담받으려고\n아침부터 계속 줄 서 있다고요![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev016001_MSG0001",
+      "style": 1,
+      "name": "……당신\n[ST:playername ] 맞지?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev016001_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 3,
+      "label": "qev016001_SEL0011",
+      "style": 3,
+      "name": "솔직하게 그렇다고 말한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev016001_JNK0020",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 5,
+      "label": "qev016001_SEL0021",
+      "style": 3,
+      "name": "갑작스러운 질문을 수상히 여기며\n이름을 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "qev016001_MSG0002",
+      "style": 1,
+      "name": "다행이네, 당신을 찾고 있었거든[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev016001_MSG0003",
+      "style": 1,
+      "name": "동료를 상대할 때도 경계를 풀지 않는구나……\n좋은 마음가짐이네, 신입[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev016001_MSG0004",
+      "style": 1,
+      "name": "나는 커스티[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev016001_MSG0005",
+      "style": 1,
+      "name": "프런티어넷의\n오퍼레이션 매니저를 맡고 있어[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev016001_MSG0006",
+      "style": 1,
+      "name": "나기 장관에게 부탁받았거든\n당신에게 프런티어넷 강의를\n해 달라고 말이야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev016001_JNK0030",
+      "style": 4,
+      "name": "반론"
+    },
+    {
+      "$id": 12,
+      "label": "qev016001_SEL0031",
+      "style": 3,
+      "name": "이미 연수를 마쳤다고 말한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev016001_JNK0040",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 14,
+      "label": "qev016001_SEL0041",
+      "style": 3,
+      "name": "커스티의 말에 흥미가 생겨\n이야기를 듣는다"
+    },
+    {
+      "$id": 15,
+      "label": "qev016001_MSG0007",
+      "style": 1,
+      "name": "엘마 대령과 함께 데이터 프로브를\n설치하고 왔다던데[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev016001_MSG0008",
+      "style": 1,
+      "name": "하지만 그것만으로는\n아직 프런티어넷을 전부\n이해했다고 할 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev016001_MSG0009",
+      "style": 1,
+      "name": "좋은 마음가짐이야\n우리와 미라를 잇는 프런티어넷……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev016001_MSG0010",
+      "style": 1,
+      "name": "적극적으로 배우지 않으면\n전부 이해하는 건 불가능하지[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev016001_MSG0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "qev016001_MSG0012",
+      "style": 1,
+      "name": "프런티어넷 스폿에는\n다양한 데이터 프로브를 설치할 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev016001_MSG0013",
+      "style": 1,
+      "name": "데이터 프로브의 종류에 따라\n얻을 수 있는 효과도 다르니까\n목적에 따라 분류해야 하지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev016001_MSG0014",
+      "style": 1,
+      "name": "그리고 인접한 스폿에\n같은 종류의 데이터 프로브를 설치하면\n더욱 큰 효과를 얻을 수 있는데……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev016001_MSG0015",
+      "style": 1,
+      "name": "뭐, 말로 길게 설명하는 것보다\n실제로 하나씩 해 나가는 게 좋겠네[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev016001_MSG0016",
+      "style": 1,
+      "name": "당신이 전에\n이스트 게이트 평원에 설치한\n데이터 프로브, 기억나?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev016001_JNK0050",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 26,
+      "label": "qev016001_SEL0051",
+      "style": 3,
+      "name": "제대로 기억한다고 말한다"
+    },
+    {
+      "$id": 27,
+      "label": "qev016001_JNK0060",
+      "style": 4,
+      "name": "불명"
+    },
+    {
+      "$id": 28,
+      "label": "qev016001_SEL0061",
+      "style": 3,
+      "name": "어디였는지 잊었다고 말한다"
+    },
+    {
+      "$id": 29,
+      "label": "qev016001_MSG0017",
+      "style": 1,
+      "name": "역시 나기 장관이 주목하는 인물답네[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev016001_MSG0018",
+      "style": 1,
+      "name": "정확한 위치를 확인하고 싶다면\n당신의 단말기에 있는\n세그먼트 맵을 보면 돼[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev016001_MSG0019",
+      "style": 1,
+      "name": "그렇다면 당신의 단말기에 표시된\n세그먼트 맵을 보도록 해[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev016001_MSG0020",
+      "style": 1,
+      "name": "데이터 프로브를 설치한 장소가\n밝게 표시되고 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev016001_MSG0021",
+      "style": 1,
+      "name": "이스트 게이트 평원의 프런티어넷과\n연결 가능한 장소를 두 곳 알려 줄 테니[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev016001_MSG0022",
+      "style": 1,
+      "name": "일단 그 스폿에 가서\n데이터 프로브를 설치해[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev016001_MSG0023",
+      "style": 1,
+      "name": "하지만 설치만 하면 안 돼\n동일한 종류의 데이터 프로브로\n변경해서 연결해야 하거든[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev016001_MSG0105",
+      "style": 1,
+      "name": "데이터 프로브를 교환하려면\n당신의 단말기에서 설치한 스폿을\n선택한 다음……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev016001_MSG0106",
+      "style": 1,
+      "name": "『데이터 프로브 교환』을 선택하면\n가진 프로브 중에서 마음대로 고를 수 있어\n……가지고 있는 프로브가 없다고?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev016001_MSG0107",
+      "style": 1,
+      "name": "자, 채굴 프로브야\n처음이니 특별히 선물로 줄게[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev016001_MSG0108",
+      "style": 1,
+      "name": "이번 임무는\n두 곳의 스폿에 데이터 프로브를 설치하고\n세 곳의 프로브를 채굴 프로브로 만드는 거야[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev016001_MSG0109",
+      "style": 1,
+      "name": "……뭐, 아무튼 직접 해 봐\n이런 건 하다 보면 익숙해져[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev016001_MSG0024",
+      "style": 1,
+      "name": "알려 준 프런티어넷 스폿 두 곳에\n데이터 프로브를 설치했어?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev016001_MSG0025",
+      "style": 1,
+      "name": "설치했다면 당신의 단말기에 있는\n맵을 살펴보도록 해[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev016001_MSG0110",
+      "style": 1,
+      "name": "설치한 스폿은 밝게 빛날 테니\n그 부분을 선택해서……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev016001_MSG0111",
+      "style": 1,
+      "name": "『데이터 프로브 교환』을 선택하고\n내가 준 채굴 프로브로\n변경하기만 하면 돼[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev016001_MSG0026",
+      "style": 1,
+      "name": "데이터 프로브 설치와\n채굴 프로브로 변경…… 확인했어[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev016001_MSG0027",
+      "style": 1,
+      "name": "일 처리가 빠르네\n역시 나기 장관이 기대하는 신입이야[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev016001_JNK0070",
+      "style": 4,
+      "name": "자부"
+    },
+    {
+      "$id": 48,
+      "label": "qev016001_SEL0071",
+      "style": 3,
+      "name": "이 정도 임무는\n별것 아니라며 뽐낸다"
+    },
+    {
+      "$id": 49,
+      "label": "qev016001_JNK0080",
+      "style": 4,
+      "name": "겸손"
+    },
+    {
+      "$id": 50,
+      "label": "qev016001_SEL0081",
+      "style": 3,
+      "name": "어쩌다 보니 일이 잘 풀렸을 뿐이라며\n겸허한 태도를 취한다"
+    },
+    {
+      "$id": 51,
+      "label": "qev016001_MSG0028",
+      "style": 1,
+      "name": "그렇게 나와야지\n아직 첫걸음에 지나지 않으니 말이야[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev016001_MSG0029",
+      "style": 1,
+      "name": "언제나 그 마음을 잊지 마\n하지만 조금 더 자신을 가져도 돼[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev016001_MSG0030",
+      "style": 1,
+      "name": "단말기의 표시를\n프런티어넷 모드로 하면……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev016001_MSG0112",
+      "style": 1,
+      "name": "붉은 동그라미가 있는 3개의 스폿이\n연결 라인으로 이어져 있어[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev016001_MSG0031",
+      "style": 1,
+      "name": "이 상태가 3연 콤보야\n각 데이터 프로브의 효과가 30% 향상되지[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev016001_MSG0032",
+      "style": 1,
+      "name": "데이터 프로브 5개가 이어지면 5연 콤보\n효과가 50% 향상돼[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev016001_MSG0033",
+      "style": 1,
+      "name": "그리고 데이터 프로브 8개를 연결하면\n80%의 효과 상승을 기대할 수 있지![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev016001_MSG0034",
+      "style": 1,
+      "name": "다시 말해서 가까운 스폿에\n동일한 데이터 프로브를 설치하면\n더욱 효율적인 임무 수행이 가능하다는 거야[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev016001_MSG0035",
+      "style": 1,
+      "name": "어때?\n이게 바로 연결 콤보야, 이해됐을까?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev016001_JNK0090",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 61,
+      "label": "qev016001_SEL0091",
+      "style": 3,
+      "name": "이해했다며 고개를 끄덕인다"
+    },
+    {
+      "$id": 62,
+      "label": "qev016001_JNK0100",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 63,
+      "label": "qev016001_SEL0101",
+      "style": 3,
+      "name": "아직 잘 모르겠다며\n곤란한 표정을 짓는다"
+    },
+    {
+      "$id": 64,
+      "label": "qev016001_MSG0036",
+      "style": 1,
+      "name": "우수한 신입이라 가르치기도 편하네[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev016001_MSG0037",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 66,
+      "label": "qev016001_MSG0038",
+      "style": 1,
+      "name": "그렇다면 걱정하지 말고\n하나씩 하나씩 시험해 보도록 해[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev016001_MSG0039",
+      "style": 1,
+      "name": "데이터 프로브 설치와 프로브 변경에\n정해진 룰 같은 건 없으니까[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev016001_MSG0040",
+      "style": 1,
+      "name": "아무튼 이걸로 첫 번째 임무는 종료야[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev016001_MSG0041",
+      "style": 1,
+      "name": "상으로 리서치 데이터 프로브를\n선물해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev016001_MSG0042",
+      "style": 1,
+      "name": "다음으로는 이 리서치 데이터 프로브에 대해\n공부할 거야[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev016001_MSG0043",
+      "style": 1,
+      "name": "이번에도 우선 내가 지정하는\n프런티어넷 스폿에\n데이터 프로브를 설치하고……[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev016001_MSG0044",
+      "style": 1,
+      "name": "단말기에서 데이터 프로브를\n리서치 데이터 프로브로 변경하는 거야[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev016001_MSG0045",
+      "style": 1,
+      "name": "……그리고 바위 동굴이라고 하는\n비경도 찾아 주었으면 해[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev016001_MSG0046",
+      "style": 1,
+      "name": "부탁할게[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev016001_MSG0047",
+      "style": 1,
+      "name": "내가 지정한 프런티어넷 스폿에\n데이터 프로브를 설치한 다음\n리서치 데이터 프로브로 변경하는 거야[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev016001_MSG0048",
+      "style": 1,
+      "name": "그리고 바위 동굴이라는 이름의 비경을\n당신의 눈으로 직접 발견하고 와 줘[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev016001_MSG0049",
+      "style": 1,
+      "name": "바위 동굴……\n대체 어떤 곳이려나[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev016001_MSG0050",
+      "style": 1,
+      "name": "어서 와, [ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev016001_MSG0051",
+      "style": 1,
+      "name": "바위 동굴……\n정말 신기한 장소네[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev016001_MSG0052",
+      "style": 1,
+      "name": "도시 사람들도 미지의 동굴 내부를 보고\n감동했다나 봐[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev016001_MSG0053",
+      "style": 1,
+      "name": "……어째서 바위 동굴의 풍경을\n도시 사람들이 볼 수 있는지 의아하지?[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev016001_MSG0054",
+      "style": 1,
+      "name": "당신이 설치한 리서치 데이터 프로브에\nNLA 사람들이 접속하면\n축적된 데이터를 열람할 수 있거든[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev016001_MSG0055",
+      "style": 1,
+      "name": "벽 바깥으로 나갈 수 없는\n비전투원에게는 오직 그것만이\n바깥세상을 알 수 있는 수단인 거야[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev016001_MSG0056",
+      "style": 1,
+      "name": "당신의 데이터 프로브 설치는\n라이프 포인트 발견이라는\n미래만을 위한 일이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev016001_MSG0057",
+      "style": 1,
+      "name": "이 도시에 사는 사람들의 오늘을 지탱하고\n희망을 보여 주는 일이기도 해[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev016001_MSG0058",
+      "style": 1,
+      "name": "어때? 당신이 앞으로 해야 할 일이\n얼마나 중요한지 깨달았을까?[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev016001_JNK0110",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 88,
+      "label": "qev016001_SEL0111",
+      "style": 3,
+      "name": "커스티의 말을 곱씹으며\n고개를 끄덕인다"
+    },
+    {
+      "$id": 89,
+      "label": "qev016001_JNK0120",
+      "style": 4,
+      "name": "의문"
+    },
+    {
+      "$id": 90,
+      "label": "qev016001_SEL0121",
+      "style": 3,
+      "name": "그 일에서 자신의 이익은\n발생하지 않느냐고 묻는다"
+    },
+    {
+      "$id": 91,
+      "label": "qev016001_MSG0059",
+      "style": 1,
+      "name": "좋은 눈빛이네[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev016001_MSG0060",
+      "style": 1,
+      "name": "아, 그리고 리서치 데이터 프로브에\n접속하는 사람이 많아지면\n관광 수입을 얻을 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev016001_MSG0061",
+      "style": 1,
+      "name": "신입 블레이드라 돈 드는 일이 많지?\n보태서 쓰도록 해[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev016001_MSG0062",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 95,
+      "label": "qev016001_MSG0063",
+      "style": 1,
+      "name": "후후…… 안심해[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev016001_MSG0064",
+      "style": 1,
+      "name": "리서치 데이터 프로브에\n접속하는 사람이 많아지면\n관광 수입을 얻을 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev016001_MSG0065",
+      "style": 1,
+      "name": "리서치 데이터 프로브를\n잔뜩 설치하면…… 부자가 될지도 모르지[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev016001_MSG0066",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 99,
+      "label": "qev016001_MSG0067",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 100,
+      "label": "qev016001_MSG0068",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 101,
+      "label": "qev016001_MSG0069",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 102,
+      "label": "qev016001_MSG0070",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 103,
+      "label": "qev016001_MSG0071",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 104,
+      "label": "qev016001_MSG0072",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 105,
+      "label": "qev016001_MSG0073",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 106,
+      "label": "qev016001_MSG0074",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 107,
+      "label": "qev016001_MSG0075",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 108,
+      "label": "qev016001_MSG0076",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 109,
+      "label": "qev016001_MSG0077",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 110,
+      "label": "qev016001_MSG0078",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 111,
+      "label": "qev016001_MSG0079",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 112,
+      "label": "qev016001_MSG0080",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 113,
+      "label": "qev016001_MSG0081",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 114,
+      "label": "qev016001_MSG0082",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 115,
+      "label": "qev016001_MSG0083",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 116,
+      "label": "qev016001_JNK0130",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 117,
+      "label": "qev016001_SEL0131",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 118,
+      "label": "qev016001_JNK0140",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 119,
+      "label": "qev016001_SEL0141",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 120,
+      "label": "qev016001_MSG0084",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 121,
+      "label": "qev016001_MSG0085",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 122,
+      "label": "qev016001_MSG0086",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 123,
+      "label": "qev016001_MSG0087",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 124,
+      "label": "qev016001_MSG0088",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 125,
+      "label": "qev016001_MSG0089",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 126,
+      "label": "qev016001_MSG0090",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 127,
+      "label": "qev016001_MSG0091",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 128,
+      "label": "qev016001_MSG0092",
+      "style": 1,
+      "name": "……이번처럼 비경을 발견하면\n리서치 데이터 프로브에 접속하는 사람을\n늘릴 수 있으니까 계속 탐색하도록 해[ST:wait ]"
+    },
+    {
+      "$id": 129,
+      "label": "qev016001_MSG0093",
+      "style": 1,
+      "name": "어디 보자, 가르치지 않은 게\n……아[ST:wait ]"
+    },
+    {
+      "$id": 130,
+      "label": "qev016001_MSG0097",
+      "style": 1,
+      "name": "데이터 프로브를 잔뜩 설치해서\n미라늄 채굴을 진행하다 보면[ST:wait ]"
+    },
+    {
+      "$id": 131,
+      "label": "qev016001_MSG0098",
+      "style": 1,
+      "name": "소지할 수 있는 미라늄이\n상한에 도달하게 될 거야[ST:wait ]"
+    },
+    {
+      "$id": 132,
+      "label": "qev016001_MSG0099",
+      "style": 1,
+      "name": "그럴 때는 저장 프로브라는\n특수한 데이터 프로브를 설치해서[ST:wait ]"
+    },
+    {
+      "$id": 133,
+      "label": "qev016001_MSG0100",
+      "style": 1,
+      "name": "미라늄의 소지 수 상한을\n높이는 걸로 대처할 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 134,
+      "label": "qev016001_MSG0101",
+      "style": 1,
+      "name": "멋진 비경을 찾아내 준 상으로\n그 저장 프로브를 1개 선물해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 135,
+      "label": "qev016001_MSG0102",
+      "style": 1,
+      "name": "저장 프로브도 다른 데이터 프로브가 그렇듯\n가지고 있기만 해서는 효과가 없어[ST:wait ]"
+    },
+    {
+      "$id": 136,
+      "label": "qev016001_MSG0103",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 137,
+      "label": "qev016001_MSG0104",
+      "style": 1,
+      "name": "단말기를 써서 저장 프로브로\n변경해야 한다는 뜻이야[ST:wait ]"
+    },
+    {
+      "$id": 138,
+      "label": "qev016001_MSG0094",
+      "style": 1,
+      "name": "……기본적인 사용 방법은 가르쳐 줬어[ST:wait ]"
+    },
+    {
+      "$id": 139,
+      "label": "qev016001_MSG0095",
+      "style": 1,
+      "name": "프런티어넷 관련 임무가 생기면\n그때도 당신에게 부탁할 생각이야[ST:wait ]"
+    },
+    {
+      "$id": 140,
+      "label": "qev016001_MSG0096",
+      "style": 1,
+      "name": "이 미라에 우리의 뿌리를\n퍼뜨리도록 하자![ST:wait ]"
+    }
+  ]
+}

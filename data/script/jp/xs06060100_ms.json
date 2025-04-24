@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06060100_MSG0001",
+      "style": 0,
+      "name": "準備は出来たのか？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06060100_MSG0002",
+      "style": 0,
+      "name": "はい！　がんばりますよ！[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs06060100_MSG0003",
+      "style": 0,
+      "name": "頼もしいな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06060100_MSG0004",
+      "style": 0,
+      "name": "まかせてください！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06060100_MSG0005",
+      "style": 0,
+      "name": "その歳で白鯨のクルーに\n選ばれるとは珍しいよな[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs06060100_MSG0006",
+      "style": 0,
+      "name": "リン　家族は？[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs06060100_MSG0007",
+      "style": 0,
+      "name": "死にました\nお父さんもお母さんも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs06060100_MSG0008",
+      "style": 0,
+      "name": "地球が異星人達に襲われたあの日[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06060100_MSG0009",
+      "style": 0,
+      "name": "もっと前[ST:wide ]―　事故だったんです[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs06060100_MSG0010",
+      "style": 0,
+      "name": "そうか[ST:wide ]―　すまなかった[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs06060100_MSG0011",
+      "style": 0,
+      "name": "いいんです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs06060100_MSG0012",
+      "style": 0,
+      "name": "私のお父さんとお母さん\n白鯨の設計技師だったんです[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs06060100_MSG0013",
+      "style": 0,
+      "name": "でも　主機関の試験中に事故があって[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs06060100_MSG0014",
+      "style": 0,
+      "name": "だけど　お父さんやお母さんや\n他の沢山の人達ががんばったから[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs06060100_MSG0015",
+      "style": 0,
+      "name": "白鯨は宇宙へ飛び立てた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs06060100_MSG0015_2",
+      "style": 0,
+      "name": "人類は滅びなかったんだって\n今は思ってるから[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs06060100_MSG0016",
+      "style": 0,
+      "name": "なるほどな[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs06060100_MSG0017",
+      "style": 0,
+      "name": "偉大なご両親の働きに報いるために\n君をスタッフとして迎え入れたわけか[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs06060100_MSG0018",
+      "style": 0,
+      "name": "おかげで今はすっごく充実してます！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs06060100_MSG0019",
+      "style": 0,
+      "name": "みんなを護れる仕事ができるから[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs06060100_MSG0020",
+      "style": 0,
+      "name": "ラオ　それは少し違うわ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs06060100_MSG0021",
+      "style": 0,
+      "name": "彼女が若くしてクルーになれたのは\n白鯨の運行に関する知識と才能があったから[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs06060100_MSG0022",
+      "style": 0,
+      "name": "資料に触れやすい環境にあったのは\nご両親の影響だけど[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs06060100_MSG0023",
+      "style": 0,
+      "name": "彼女の能力に対する評価とは無関係よ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs06060100_MSG0024",
+      "style": 0,
+      "name": "エルマさん[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs06060100_MSG0025",
+      "style": 0,
+      "name": "こいつは無神経だったようだ\nすまん　赦してくれ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs06060100_MSG0026",
+      "style": 0,
+      "name": "何言ってるんです\n私なんてまだまだ半人前ですよ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs06060100_MSG0027",
+      "style": 0,
+      "name": "さあ　出発しましょう！[ST:wait ]"
+    }
+  ]
+}

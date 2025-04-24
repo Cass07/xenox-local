@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040406_MSG0001",
+      "style": 1,
+      "name": "어머나, 우리 애들은 모험을 떠났나요모?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040406_MSG0002",
+      "style": 1,
+      "name": "야광의 숲에서 노폰을 찾는 건\n굉장히 어렵답니다모[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev040406_MSG0003",
+      "style": 1,
+      "name": "붙잡히거나 잡아먹히는 일은 거의 없으니까\n위험하지는 않을 거예요모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev040406_MSG0004",
+      "style": 1,
+      "name": "……타츠는 어쩌다 잡힌 걸까요……[ST:wait ]"
+    }
+  ]
+}

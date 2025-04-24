@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025805_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "qev025805_MSG0002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "qev025805_MSG0003",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "qev025805_MSG0004",
+      "style": 1,
+      "name": "저희 활동을 비난하시는 분도 계십니다\n하지만 그분들이 병으로 고통스러워하는\n마 논들을 구할 수 있나요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev025805_MSG0005",
+      "style": 1,
+      "name": "못 구하잖아요?\n백 마디 말보다 한 번의 기적……\n그것이 저희의 신조랍니다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev025805_MSG0006",
+      "style": 1,
+      "name": "혹시 당신도 신의 기적이 필요하다면\n언제든 교회의 문을 두드리세요[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev030102_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]!\n라다를 구해 줘서 고마워![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev030102_MSG0002",
+      "style": 1,
+      "name": "우리와 달리 살아남지 못한 동료들을 위해서도\n둘이 함께 정진하며 더욱 강해져서\n암굴의 일족에게 복수할 거야아![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev030102_MSG0005",
+      "style": 1,
+      "name": "그 녀석은 겁쟁이니까\n불안에 빠져 울고 있을 게 틀림없어어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev030102_MSG0006",
+      "style": 1,
+      "name": "부탁이야, 이 못난 형을 대신해서\n그 녀석을 구해 줘[ST:wait ]"
+    }
+  ]
+}

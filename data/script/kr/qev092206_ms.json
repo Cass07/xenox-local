@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092206_MSG0001",
+      "style": 1,
+      "name": "프런티어넷의 시스템 구축이\n얼마나 중요한지…… 그런 건 저도 알아요![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092206_MSG0002",
+      "style": 1,
+      "name": "하지만 연이은 잔업, 채울 수 없는 할당량……!\n전 이제 한계라고요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092206_MSG0003",
+      "style": 1,
+      "name": "이 고통에서 절 구해 줄 사람은\nNLA의 성모……! 히메리 씨뿐![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092206_MSG0004",
+      "style": 1,
+      "name": "제발! 빨리 돌아와 주세요~~~~![ST:wait ]"
+    }
+  ]
+}

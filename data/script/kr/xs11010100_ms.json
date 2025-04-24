@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11010100_MSG0001",
+      "style": 0,
+      "name": "오늘은 뭘 만들까~[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11010100_JNK0010",
+      "style": 4,
+      "name": "궁극의 걸작"
+    },
+    {
+      "$id": 3,
+      "label": "xs11010100_SEL0011",
+      "style": 3,
+      "name": "린리 셰프의 야심작"
+    },
+    {
+      "$id": 4,
+      "label": "xs11010100_JNK0012",
+      "style": 4,
+      "name": "최고의 걸작"
+    },
+    {
+      "$id": 5,
+      "label": "xs11010100_SEL0013",
+      "style": 3,
+      "name": "린리 주방장의 야심작"
+    },
+    {
+      "$id": 6,
+      "label": "xs11010100_MSG0002",
+      "style": 0,
+      "name": "그거 좋네요![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11010100_MSG0003",
+      "style": 0,
+      "name": "당장 격납고로 와 주게[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11010100_MSG0004",
+      "style": 0,
+      "name": "무슨 일 있어?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11010100_MSG0005",
+      "style": 0,
+      "name": "라오 녀석이……\n이봐, 거기서 움직이지 마![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs11010100_MSG0005_2",
+      "style": 0,
+      "name": "아, 아무튼 와 줘![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs11010100_MSG0006",
+      "style": 0,
+      "name": "무슨 일일까요?\n라오 씨 이름이 들리던데요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11010100_MSG0007",
+      "style": 0,
+      "name": "다급한 목소리였으니 긴급 사태겠지\n어서 격납고로 가자[ST:wait ]"
+    }
+  ]
+}

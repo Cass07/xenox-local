@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs02030100_MSG0001",
+      "style": 0,
+      "name": "やりましたね　エルマさん[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs02030100_MSG0002",
+      "style": 0,
+      "name": "よくやったわ　リン\nそれに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs02030100_MSG0003",
+      "style": 0,
+      "name": "あなたもね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs02030100_MSG0004",
+      "style": 0,
+      "name": "早速　データプローブの設置を始めましょう[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs02030100_MSG0005",
+      "style": 0,
+      "name": "ぐずぐずしているとまた新たな原生生物に\n遭遇する危険がある[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs02030100_MSG0006",
+      "style": 0,
+      "name": "この光のオブジェクトが\nフロンティアネットスポット[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs02030100_MSG0007",
+      "style": 0,
+      "name": "データプローブを設置するのに最適な場所よ[ST:wait ]"
+    }
+  ]
+}

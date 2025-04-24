@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091701_MSG0001",
+      "style": 0,
+      "name": "오랜만이야, 욜란다\n뭔가 재밌는 일거리 없어?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091701_MSG0002",
+      "style": 0,
+      "name": "네가 좋아하는 일확천금의 일거리는 없어\n임무도 안전한 것뿐이고[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091701_MSG0003",
+      "style": 0,
+      "name": "뭐야, 따분하네[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091701_MSG0004",
+      "style": 0,
+      "name": "그건 그렇고 머더레스\n요즘 그거 안 하지?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091701_MSG0005",
+      "style": 0,
+      "name": "그거?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091701_MSG0006",
+      "style": 0,
+      "name": "도박판에서 대장이 빠진 탓에\n심심풀이로 할 만한 건 카드 게임밖에 없단 말이야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091701_MSG0007",
+      "style": 0,
+      "name": "아 그거, 마침 좋은 인재도 있으니까\n오랜만에 해 볼까[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091701_MSG0007_m",
+      "style": 0,
+      "name": "아 그거, 마침 좋은 인재도 있으니까\n오랜만에 해 볼까[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091701_MSG0007_f",
+      "style": 0,
+      "name": "아 그거, 마침 좋은 인재도 있으니까\n오랜만에 해 볼까[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091701_MSG0008",
+      "style": 0,
+      "name": "좋아, 거기 있는 녀석 맞지?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091701_MSG0008_m",
+      "style": 0,
+      "name": "좋아, 거기 있는 녀석 맞지?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091701_MSG0008_f",
+      "style": 0,
+      "name": "좋아, 거기 있는 녀석 맞지?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091701_MSG0009",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091701_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 15,
+      "label": "qev091701_SEL0011",
+      "style": 3,
+      "name": "뭘 시키려는 건지 묻는다"
+    },
+    {
+      "$id": 16,
+      "label": "qev091701_JNK0020",
+      "style": 4,
+      "name": "저항"
+    },
+    {
+      "$id": 17,
+      "label": "qev091701_SEL0021",
+      "style": 3,
+      "name": "악행에는 가담하지 않겠다고 단언한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev091701_JNK0030",
+      "style": 4,
+      "name": "여유"
+    },
+    {
+      "$id": 19,
+      "label": "qev091701_SEL0031",
+      "style": 3,
+      "name": "머더레스에게 멋진 모습을\n보여 주겠다며 의욕을 보인다"
+    },
+    {
+      "$id": 20,
+      "label": "qev091701_MSG0010",
+      "style": 0,
+      "name": "불안해하지 마\n실력에 자신이 있는 너한테 딱 어울리는 일이야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091701_MSG0011",
+      "style": 0,
+      "name": "괜찮아, 소소한 심심풀이일 뿐이니까\n누구에게도 민폐 끼칠 일 없어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091701_MSG0012",
+      "style": 0,
+      "name": "기쁜걸, 내 기대에 보답하기를 바랄게[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091701_MSG0013",
+      "style": 0,
+      "name": "욜란다, 설명해 줘[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091701_MSG0014",
+      "style": 0,
+      "name": "거기 있는 더럽게 약한 무기를 써서\n밖에 있는 더럽게 강한 괴물을 쓰러뜨리면 돼[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091701_MSG0015",
+      "style": 0,
+      "name": "여기 있는 하잘것없는 녀석들이\n그걸 성공할지 말지로 돈을 걸 거야[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091701_MSG0016",
+      "style": 0,
+      "name": "죽음을 각오해야 하는 최고의 내기라고[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091701_MSG0017",
+      "style": 0,
+      "name": "뭐, 우리는 목숨을 거는 쪽이 아니니까\n멀리서 구경만 할 거지만……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091701_MSG0018",
+      "style": 0,
+      "name": "하고 싶은지 어떤지는 묻지 않겠어\n얌전히 도전해 줘[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091701_MSG0019",
+      "style": 0,
+      "name": "OK, 하는 걸로 결정됐으면\n먼저 저기 있는 트럼프 카드를 뽑아[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091701_MSG0020",
+      "style": 0,
+      "name": "그걸로 사냥감을 정하는 거야[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091701_MSG0021",
+      "style": 0,
+      "name": "도저히 이길 가능성이 없는 괴물을\n뽑을 수도 있으니까 신중하게 골라[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091701_JNK0040",
+      "style": 4,
+      "name": "왼쪽"
+    },
+    {
+      "$id": 33,
+      "label": "qev091701_SEL0041",
+      "style": 3,
+      "name": "왼쪽에 있는 트럼프 카드를 뽑는다"
+    },
+    {
+      "$id": 34,
+      "label": "qev091701_JNK0050",
+      "style": 4,
+      "name": "중앙"
+    },
+    {
+      "$id": 35,
+      "label": "qev091701_SEL0051",
+      "style": 3,
+      "name": "중앙에 있는 트럼프 카드를 뽑는다"
+    },
+    {
+      "$id": 36,
+      "label": "qev091701_JNK0060",
+      "style": 4,
+      "name": "오른쪽"
+    },
+    {
+      "$id": 37,
+      "label": "qev091701_SEL0061",
+      "style": 3,
+      "name": "오른쪽에 있는 트럼프 카드를 뽑는다"
+    },
+    {
+      "$id": 38,
+      "label": "qev091701_MSG0022",
+      "style": 0,
+      "name": "오, 조커다[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091701_MSG0023",
+      "style": 0,
+      "name": "대박을 뽑아 버렸네\n네 사냥감은 최강 최악의 괴물이야[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091701_MSG0024",
+      "style": 0,
+      "name": "지금까지 이 녀석한테 도전한 블레이드가 8명!\n그리고 죽은 사람 숫자도 8명![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091701_MSG0025",
+      "style": 0,
+      "name": "너, 운이 어지간히도 좋네[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091701_MSG0026",
+      "style": 0,
+      "name": "어차피 3장 다 똑같은 카드잖아……\n야비한 짓이나 하기는[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091701_MSG0027",
+      "style": 0,
+      "name": "네가 할 소리는 아니지[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091701_MSG0028",
+      "style": 0,
+      "name": "반드시 실패할 일이라면\n내기가 성립이 안 되잖아?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091701_MSG0029",
+      "style": 0,
+      "name": "불가능한 수준은 아니라고 보는데?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091701_MSG0030",
+      "style": 0,
+      "name": "말은 그렇게 하지만, 성공에 거는 사람은 없지?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091701_MSG0031",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091701_MSG0032",
+      "style": 0,
+      "name": "그러면 성공하는 쪽에 10만 G 걸겠어[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091701_MSG0032_m",
+      "style": 0,
+      "name": "그러면 성공하는 쪽에 10만 G 걸겠어[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091701_MSG0032_f",
+      "style": 0,
+      "name": "그러면 성공하는 쪽에 10만 G 걸겠어[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091701_MSG0033",
+      "style": 0,
+      "name": "그리고 나도 따라갈 거야\n9번이나 찍으면 나무도 넘어가겠지[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091701_MSG0034",
+      "style": 0,
+      "name": "잠깐, 너답지 않은 짓을 하네\n진짜 괜찮겠어?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091701_MSG0035",
+      "style": 0,
+      "name": "난 돈을 더 많이 벌 방법을 선택했을 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091701_MSG0036",
+      "style": 0,
+      "name": "그리고 쓰레기들한테서\n돈을 뜯어내는 것도 기대되거든[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091701_MSG0037",
+      "style": 0,
+      "name": "흥, 말은 잘해[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091701_MSG0038",
+      "style": 0,
+      "name": "머더레스, 규칙을 무시하지는 마[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091701_MSG0039",
+      "style": 0,
+      "name": "포기하고 싶을 때는 나한테 말하면 돼\n그러면, 굿 럭[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091701_MSG0040",
+      "style": 0,
+      "name": "마음에도 없는 말 고마워\n자, 가자[ST:wait ]"
+    }
+  ]
+}

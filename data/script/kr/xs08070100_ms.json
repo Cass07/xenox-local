@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08070100_MSG0001",
+      "style": 0,
+      "name": "다, 다음은[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08070100_MSG0002",
+      "style": 0,
+      "name": "진정해\n이 주변의 적은 처리했어[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08070100_MSG0003",
+      "style": 0,
+      "name": "주위에 적이 포착되지 않습니다\n구역 내의 적 기체, 소탕 완료했습니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08070100_MSG0004",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08070100_MSG0005",
+      "style": 0,
+      "name": "해냈네요, 엘마 씨[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08070100_JNK0010",
+      "style": 4,
+      "name": "신중"
+    },
+    {
+      "$id": 7,
+      "label": "xs08070100_SEL0011",
+      "style": 3,
+      "name": "아직 전초전이라며 마음을 다잡는다"
+    },
+    {
+      "$id": 8,
+      "label": "xs08070100_JNK0020",
+      "style": 4,
+      "name": "낙관"
+    },
+    {
+      "$id": 9,
+      "label": "xs08070100_SEL0021",
+      "style": 3,
+      "name": "승리 파티를 기대하며 린을 본다"
+    },
+    {
+      "$id": 10,
+      "label": "xs08070100_MSG0006",
+      "style": 0,
+      "name": "맞는 말이야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs08070100_MSG0007",
+      "style": 0,
+      "name": "NLA를 함락시킬 작정으로 왔다기에는\n수가 너무 적어[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs08070100_MSG0008",
+      "style": 0,
+      "name": "타츠가 무서워서 꽁지 빠지게 도망친 거다모[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs08070100_MSG0009",
+      "style": 0,
+      "name": "타츠도 열심히 했지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08070100_MSG0010",
+      "style": 0,
+      "name": "오늘은 진수성찬을 차릴 거예요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08070100_MSG0011",
+      "style": 0,
+      "name": "만세다모!\n파티다모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs08070100_MSG0012",
+      "style": 0,
+      "name": "아직이야[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs08070100_MSG0013",
+      "style": 0,
+      "name": "NLA를 함락시킬 작정으로 왔다기에는\n수가 너무 적어[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs08070100_MSG0014",
+      "style": 0,
+      "name": "새로운 적 항공 전력 확인\n바로 위에 있습니다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs08070100_MSG0015",
+      "style": 0,
+      "name": "NLA 상공에서 고속으로 접근 중입니다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs08070100_MSG0016",
+      "style": 0,
+      "name": "역시 지상의 적은 양동 부대였어\n내부에서 요격하자[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs08070100_MSG0017",
+      "style": 0,
+      "name": "시가지에서 싸우는 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs08070100_MSG0018",
+      "style": 0,
+      "name": "린, 심정은 이해해[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs08070100_MSG0019",
+      "style": 0,
+      "name": "하지만 이렇게 된 이상 시가전은 피할 수 없어\n도시 피해를 막으려다 모든 걸 잃으면 의미가 없잖아[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs08070100_MSG0020",
+      "style": 0,
+      "name": "적 항공 전력, 방어 라인 돌파\nNLA에 침입합니다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs08070100_MSG0021",
+      "style": 0,
+      "name": "큰일이다모, 큰일이다모![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs08070100_MSG0022",
+      "style": 0,
+      "name": "서두르자[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs08070100_MSG0023",
+      "style": 0,
+      "name": "알겠습니다[ST:wait ]"
+    }
+  ]
+}

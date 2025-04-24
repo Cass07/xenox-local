@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999909_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999909_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999909_JNK0030",
+      "style": 4,
+      "name": "バトルメンバーに加える[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999909_SEL0031",
+      "style": 3,
+      "name": "活動中のブレイド隊員[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999909_MSG0001",
+      "style": 1,
+      "name": "ム[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999909_MSG0101",
+      "style": 1,
+      "name": "フム[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999909_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999909_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999909_MSG2001",
+      "style": 1,
+      "name": "承った\n戦闘支援は我がユニオンに任せてくれ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999909_MSG2101",
+      "style": 1,
+      "name": "しかと承った\n死力を尽くして戦闘を支援する[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999909_MSG3001",
+      "style": 1,
+      "name": "血が沸き立つな[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999909_MSG3101",
+      "style": 1,
+      "name": "いよいよ出陣のときが来たか\n背中は任せてくれ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999909_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999909_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999909_MSG5001",
+      "style": 1,
+      "name": "今は話すときではない\nしばし待たれよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999909_MSG5101",
+      "style": 1,
+      "name": "今　精神統一をしているのだ\n話はまた後程[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

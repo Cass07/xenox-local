@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086501_MSG0001",
+      "style": 0,
+      "name": "誰か来たですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086501_MSG0002",
+      "style": 0,
+      "name": "新しい任務があるんだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086501_MSG0003",
+      "style": 0,
+      "name": "ん　おっちゃん　タツに御用ですも？\nなんでも言ってみるですも！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086501_MSG0004",
+      "style": 0,
+      "name": "こら　タツ！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086501_MSG0005",
+      "style": 0,
+      "name": "ヴァンダム司令は任務の話をしにきてるのよ\nあなたに用があるわけないじゃない！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086501_MSG0006",
+      "style": 0,
+      "name": "いや　それがなぁ[ST:wide ]―\nその任務ってのはこいつに頼みたいんだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086501_MSG0007",
+      "style": 0,
+      "name": "えええ～～！？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086501_MSG0008",
+      "style": 0,
+      "name": "で　タツに頼みたい任務って\nどういうことなの？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086501_MSG0009",
+      "style": 0,
+      "name": "実はな[ST:wide ]―\nこいつに親善大使をやってもらいたい[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086501_MSG0010",
+      "style": 0,
+      "name": "シンゼンタイシ[ST:wide ]―\nそ　それは　美味しいんですも？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086501_MSG0011",
+      "style": 0,
+      "name": "食べものじゃないわよ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086501_MSG0012",
+      "style": 0,
+      "name": "あなた方と仲良くしたい[ST:wide ]―\nそういう提案を持って行く役目のことよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086501_MSG0013",
+      "style": 0,
+      "name": "タツのような愛らしい美少年なら\n平和の使者としてピッタリというわけですも[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086501_MSG0014",
+      "style": 0,
+      "name": "いや　相手がお前の母ちゃんだからだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086501_MSG0015",
+      "style": 0,
+      "name": "なんだ　それだけのことですか[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086501_MSG0016",
+      "style": 0,
+      "name": "それだけなんて思ってもらっちゃ困る\nうちの政府はノポン人を高く評価してるんだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086501_JNK0010",
+      "style": 4,
+      "name": "推測"
+    },
+    {
+      "$id": 18,
+      "label": "qev086501_SEL0011",
+      "style": 3,
+      "name": "高い交易力が理由だと指摘"
+    },
+    {
+      "$id": 19,
+      "label": "qev086501_JNK0020",
+      "style": 4,
+      "name": "憶測"
+    },
+    {
+      "$id": 20,
+      "label": "qev086501_SEL0021",
+      "style": 3,
+      "name": "もふもふかわいい点だと主張"
+    },
+    {
+      "$id": 21,
+      "label": "qev086501_MSG0017",
+      "style": 0,
+      "name": "おう　その通りだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086501_MSG0018",
+      "style": 0,
+      "name": "ＮＬＡから遠く離れた場所の資源や\n付き合いがない種族の生産品も扱ってるからな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086501_MSG0019",
+      "style": 0,
+      "name": "それに　都市に定住してる俺らにとって\nミラの情報を広く把握した連中は貴重だよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086501_MSG0020",
+      "style": 0,
+      "name": "ですよね　タツはともかくノポンの\n子ども達のかわいさったら[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086501_MSG0021",
+      "style": 0,
+      "name": "まぁ　彼らの外見がその　非常に魅力的な\n側面を有しているのを否定はせんが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086501_MSG0022",
+      "style": 0,
+      "name": "いやっ　そういう理由じゃなくてだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev086501_MSG0023",
+      "style": 0,
+      "name": "我々人類としては　この星での彼らの\n交易力の高さを評価しているんだ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086501_MSG0024",
+      "style": 0,
+      "name": "そうね\n交易種族である彼らは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086501_MSG0025",
+      "style": 0,
+      "name": "このミラという惑星上に一つの社会を築く上で\n重要な存在だと思う[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086501_MSG0026",
+      "style": 0,
+      "name": "そういうことだ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086501_MSG0027",
+      "style": 0,
+      "name": "あちこちを渡り歩き　様々な種族と交流を\n持つが故の知識も馬鹿にできんというわけだな[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086501_MSG0028",
+      "style": 0,
+      "name": "なんだかよくわからないですも[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086501_MSG0029",
+      "style": 0,
+      "name": "でも　ノポンがエラいということは\nわかりましたですも！[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev086501_MSG0030",
+      "style": 0,
+      "name": "これからもＮＬＡには\nたくさんのノポンに来てもらいたい[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev086501_MSG0031",
+      "style": 0,
+      "name": "そのためには　ノポンのキャラバンと\n友好条約を結びたいというわけだ[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev086501_MSG0032",
+      "style": 0,
+      "name": "それでカカさんの所へ[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev086501_MSG0033",
+      "style": 0,
+      "name": "ああ　だが行ってもらうのは\nそこだけじゃねぇんだ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086501_MSG0034",
+      "style": 0,
+      "name": "夜光の森にあるドドンガ・キャラバンは\nもう知っていると思うが　もう一つ[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086501_MSG0035",
+      "style": 0,
+      "name": "忘却の渓谷のドリアン・キャラバンにも\n行って欲しいんだ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086501_MSG0036",
+      "style": 0,
+      "name": "わかったですも！[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086501_MSG0037",
+      "style": 0,
+      "name": "順番は　どちらからでもかまわねえ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086501_MSG0038",
+      "style": 0,
+      "name": "モーリス行政長官からの親書を\nキャラバンのリーダーに手渡して[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev086501_MSG0039",
+      "style": 0,
+      "name": "友好条約への合意をとりつけてきてくれ\n頼んだぞ[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086501_MSG0040",
+      "style": 0,
+      "name": "まかせるですも！[ST:wait ]"
+    }
+  ]
+}

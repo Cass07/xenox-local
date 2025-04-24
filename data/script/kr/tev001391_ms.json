@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001391_MSG0001",
+      "style": 1,
+      "name": "안녕하세요, [ST:playername ] 씨\n어떻게 지내나 보러 와 준 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001391_MSG0002",
+      "style": 1,
+      "name": "덕분에 록도 일을 하게 되고\n이렇게 이 도시에서 평화롭게 지내고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001391_MSG0003",
+      "style": 1,
+      "name": "정말 감사한 마음뿐이에요\n고맙습니다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001391_JNK0010",
+      "style": 4,
+      "name": "겸손"
+    },
+    {
+      "$id": 5,
+      "label": "tev001391_SEL0011",
+      "style": 3,
+      "name": "세리카가 노력한 결과라고 대답한다"
+    },
+    {
+      "$id": 6,
+      "label": "tev001391_JNK0020",
+      "style": 4,
+      "name": "칭찬"
+    },
+    {
+      "$id": 7,
+      "label": "tev001391_SEL0021",
+      "style": 3,
+      "name": "록의 용기 덕분이라고 극찬한다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001391_JNK0030",
+      "style": 4,
+      "name": "자랑"
+    },
+    {
+      "$id": 9,
+      "label": "tev001391_SEL0031",
+      "style": 3,
+      "name": "더 고마워해도 좋다고 대답한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001391_MSG0004",
+      "style": 1,
+      "name": "그런…… 저는 딱히……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001391_MSG0005",
+      "style": 1,
+      "name": "혼자만의 노력으로는 대단한 일을 할 수 없어요[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001391_MSG0006",
+      "style": 1,
+      "name": "여러분 덕분에 저희가\n이 도시에 적응할 수 있었던 거예요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001391_MSG0007",
+      "style": 1,
+      "name": "그렇네요\n저는 또 록의 용기에 도움을 받았어요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001391_MSG0008",
+      "style": 1,
+      "name": "너무나 의지가 되는 존재예요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001391_MSG0009",
+      "style": 1,
+      "name": "곁에 있어 줘서 정말 다행이에요……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001391_MSG0010",
+      "style": 1,
+      "name": "후훗, 역시 재밌는 분이네요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001391_MSG0011",
+      "style": 1,
+      "name": "이 도시에는 당신처럼 밝은……\n긍정적인 사람이 많아요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001391_MSG0012",
+      "style": 1,
+      "name": "그래서 저희도 NLA에 적응할 수 있었다고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001391_MSG0013",
+      "style": 1,
+      "name": "지금까지 저희는 계속\n서멀에게 쫓기고 있어서 긴장의 연속이었어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001391_MSG0014",
+      "style": 1,
+      "name": "앞으로는 괴로운 일뿐일지도 모른다고\n생각했는데……[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001391_MSG0015",
+      "style": 1,
+      "name": "록이 저런 표정으로 다른 사람과 지낼 수 있게 될 줄은\n꿈에도 생각지 못했어요[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001391_MSG0016",
+      "style": 1,
+      "name": "저도 이 도시분들과 있으면\n마음이 편해져요[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001391_MSG0017",
+      "style": 1,
+      "name": "야광의 숲에서 여러분을 만나서 정말 다행이에요[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001391_MSG0018",
+      "style": 1,
+      "name": "이 감사의 마음을 NLA의 일원으로서\n열심히 활동하는 걸로 갚아 나갈게요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001391_MSG0019",
+      "style": 1,
+      "name": "록도 분명 같은 마음일 거예요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001391_MSG0020",
+      "style": 1,
+      "name": "그러니까 앞으로도 잘 부탁드려요[ST:wait ]"
+    }
+  ]
+}

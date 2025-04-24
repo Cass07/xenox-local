@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085406_MSG0001",
+      "style": 0,
+      "name": "아이샤가 돌아와서 다행이다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085406_MSG0002",
+      "style": 0,
+      "name": "여러분 덕분이에요\n감사합니다![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085406_MSG0003",
+      "style": 0,
+      "name": "이제 도망치지 못하게 해야겠네요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085406_MSG0004",
+      "style": 0,
+      "name": "아니, 그럴 수는 없어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085406_MSG0005",
+      "style": 0,
+      "name": "네?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085406_MSG0006",
+      "style": 0,
+      "name": "우리에게는 우리의 임무가 있듯이\n아이샤에게도 임무가 있거든[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085406_MSG0007",
+      "style": 0,
+      "name": "이 미라 대지를 뛰어다니는……\n그런 중대한 임무가 말이지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085406_MSG0008",
+      "style": 0,
+      "name": "그렇구나\n그렇게 해서 데이터를 모아 오는 거군요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085406_MSG0009",
+      "style": 0,
+      "name": "그래, 맞아[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085406_MSG0010",
+      "style": 0,
+      "name": "데이터를 회수할 수 없게 되면 곤란하지만\n그 외엔 자유롭게 해 줄 거야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085406_MSG0011",
+      "style": 0,
+      "name": "거짓말하지 마, 데이터를 얻는 거라면\n프런티어넷으로 충분하잖아[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085406_MSG0012",
+      "style": 0,
+      "name": "사실은 걱정했으면서[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085406_MSG0013",
+      "style": 0,
+      "name": "서, 선배![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085406_MSG0014",
+      "style": 0,
+      "name": "아~~ 가 버렸다모![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085406_MSG0015",
+      "style": 0,
+      "name": "신나게 뛰어놀다 와![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085406_MSG0016",
+      "style": 0,
+      "name": "기분 좋아 보여요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085406_MSG0017",
+      "style": 0,
+      "name": "그렇네[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085406_MSG0018",
+      "style": 0,
+      "name": "언젠가는 우리도 B.B.가 아닌 자기 몸으로\n이 행성의 대지를 달려 보고 싶네[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085406_JNK0010",
+      "style": 4,
+      "name": "찬성"
+    },
+    {
+      "$id": 20,
+      "label": "qev085406_SEL0011",
+      "style": 3,
+      "name": "미소를 지으며 강하게 끄덕인다"
+    },
+    {
+      "$id": 21,
+      "label": "qev085406_JNK0020",
+      "style": 4,
+      "name": "나약"
+    },
+    {
+      "$id": 22,
+      "label": "qev085406_SEL0021",
+      "style": 3,
+      "name": "그날이 올지에 대한 불안함을 말한다"
+    },
+    {
+      "$id": 23,
+      "label": "qev085406_MSG0019",
+      "style": 0,
+      "name": "만약 그렇게 되면\n너희들을 놀라게 하겠지만[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085406_MSG0020",
+      "style": 0,
+      "name": "어째서요?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085406_MSG0021",
+      "style": 0,
+      "name": "언젠가 알게 될 거야[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085406_MSG0022",
+      "style": 0,
+      "name": "무슨 말을 하는 거예요!\n우리 손으로 만들어 내야죠![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085406_MSG0023",
+      "style": 0,
+      "name": "린의 말이 맞아\n그날이 올 때까지 힘내자[ST:wait ]"
+    }
+  ]
+}

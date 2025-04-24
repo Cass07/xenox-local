@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev022901_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev022901_SEL0011",
+      "style": 3,
+      "name": "돌에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev022901_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev022901_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev022901_MSG0001",
+      "style": 1,
+      "name": "사쿠라바에 그라나다……\n좀처럼 내 심금을 울리는\n돌 장비는 없었지만[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev022901_MSG0002",
+      "style": 1,
+      "name": "미라에 온 후로 생긴\n메레디스&코라고 있잖아?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev022901_MSG0003",
+      "style": 1,
+      "name": "거기 상품은 다른 곳에는 없는 멋이 있어서\n굉장히 마음에 들었단 말이지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev022901_MSG0004",
+      "style": 1,
+      "name": "시라톤과의 비즈니스로\n저축도 점점 늘어 가고 있고……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev022901_MSG0005",
+      "style": 1,
+      "name": "온몸에 메레디스&코 제품을 두른\n『뉴 골드 브레이브』라도\n만들까 생각 중이야![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev022901_MSG0010",
+      "style": 1,
+      "name": "위험한 물건을 처리해 달라는 녀석들이\n계속해서 찾아오고 있어[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev022901_MSG0011",
+      "style": 1,
+      "name": "자르보가 식으로 말하면……\n볼턴트와 거금을 놓고 가 주는 거야![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev022901_MSG0012",
+      "style": 1,
+      "name": "그 뒤에는 이 녀석을 시라톤에게 넘겨서\n깨끗하게 해 주기를 기다리기만 할 뿐……\n정말 쉬운 장사라니까![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev022901_MSG0013",
+      "style": 1,
+      "name": "후후훗, 전부 당신이 시라톤과의 작은 소동을\n모른 척해 준 덕분이야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev022901_MSG0014",
+      "style": 1,
+      "name": "다음에 하룻밤 동안 가게를 통째로 빌려서\n자르보가인과 지구인의 미래를 축복하기 위해\n밤새도록 마셔 보자![ST:wait ]"
+    }
+  ]
+}

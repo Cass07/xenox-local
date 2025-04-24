@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32280100_MSG0010",
+      "style": 0,
+      "name": "다음은 누굴 찾으면 돼?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32280100_MSG0020",
+      "style": 0,
+      "name": "그게, 대원 한 명이 NLA에서 나가\n돌아오지 않고 있네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32280100_MSG0030",
+      "style": 0,
+      "name": "그 녀석을 데려와 줬으면 한다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32280100_MSG0040",
+      "style": 0,
+      "name": "데려오라는 건[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32280100_MSG0050",
+      "style": 0,
+      "name": "어디에 있는지 알고 있다는 거네?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32280100_MSG0060",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32280100_MSG0070",
+      "style": 0,
+      "name": "에릭, 자세히 설명해 주게[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32280100_MSG0080",
+      "style": 0,
+      "name": "알겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32280100_MSG0090",
+      "style": 0,
+      "name": "저는 컬렉피디언의\n에릭 팀 대장, 에릭입니다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32280100_MSG0100",
+      "style": 0,
+      "name": "부끄럽지만 데려와 줬으면 하는 건\n제 부대의 대원 테드입니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32280100_MSG0110",
+      "style": 0,
+      "name": "테드는 이번 탈출 계획을 납득하지 못하고[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32280100_MSG0120",
+      "style": 0,
+      "name": "여기에 남겠다는 말을 남기고\n뛰쳐나가 버렸습니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32280100_MSG0130",
+      "style": 0,
+      "name": "걱정했던 일이 벌어졌네[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32280100_MSG0140",
+      "style": 0,
+      "name": "지구를 떠나자마자 미라도 이런 상황이니까[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32280100_MSG0150",
+      "style": 0,
+      "name": "그 밖에도 갈등하고 있는 녀석은\n많이 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32280100_MSG0160",
+      "style": 0,
+      "name": "그렇네요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32280100_MSG0170",
+      "style": 0,
+      "name": "저도 솔직히 말하자면 아직 복잡해요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32280100_JNK0010",
+      "style": 4,
+      "name": "분노"
+    },
+    {
+      "$id": 19,
+      "label": "xs32280100_SEL0010",
+      "style": 3,
+      "name": "제멋대로라고 주장한다"
+    },
+    {
+      "$id": 20,
+      "label": "xs32280100_MSG0180",
+      "style": 0,
+      "name": "본인도 그만큼\n궁지에 몰려 있는 걸지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32280100_JNK0020",
+      "style": 4,
+      "name": "동정"
+    },
+    {
+      "$id": 22,
+      "label": "xs32280100_SEL0020",
+      "style": 3,
+      "name": "자신도 그렇다며 끄덕인다"
+    },
+    {
+      "$id": 23,
+      "label": "xs32280100_MSG0190",
+      "style": 0,
+      "name": "하지만 말없이 가면 안 된다모![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32280100_MSG0200",
+      "style": 0,
+      "name": "테드의 마음도 이해해요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32280100_MSG0210",
+      "style": 0,
+      "name": "저희는 컬렉피디언이라서 일 특성상[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32280100_MSG0220",
+      "style": 0,
+      "name": "동식물과 접하는 일이 많아요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32280100_MSG0230",
+      "style": 0,
+      "name": "그래서 자연스럽게 애정이 생겨 버리죠[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32280100_MSG0240",
+      "style": 0,
+      "name": "그렇구나……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32280100_MSG0250",
+      "style": 0,
+      "name": "이민 계획에 동식물은 포함되지 않아[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32280100_MSG0260",
+      "style": 0,
+      "name": "네……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32280100_MSG0270",
+      "style": 0,
+      "name": "어려운 문제네[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32280100_MSG0280",
+      "style": 0,
+      "name": "뭐, 일단 본인과 만나서\n이야기해 볼 수밖에 없겠군[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32280100_MSG0290",
+      "style": 0,
+      "name": "그렇네[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32280100_MSG0300",
+      "style": 0,
+      "name": "테드는 분명 야광의 숲에 있는\n영원한 밤의 수해에 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32280100_MSG0310",
+      "style": 0,
+      "name": "저희의 첫 임무지였어요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs32280100_MSG0320",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs32280100_MSG0330",
+      "style": 0,
+      "name": "잘 부탁드립니다[ST:wait ]"
+    }
+  ]
+}

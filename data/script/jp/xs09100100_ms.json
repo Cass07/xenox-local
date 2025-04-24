@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs09100100_MSG0001",
+      "style": 0,
+      "name": "くっくくく[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs09100100_MSG0002",
+      "style": 0,
+      "name": "デルグ殿下　楽しそうですね[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs09100100_MSG0003",
+      "style": 0,
+      "name": "いや　残念でたまらぬ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs09100100_MSG0004",
+      "style": 0,
+      "name": "俺のメッセージを聞いた\nルクザールの顔を見てやれぬのがな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs09100100_MSG0005",
+      "style": 0,
+      "name": "殿下　お人柄が悪くなられましたね[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs09100100_MSG0006",
+      "style": 0,
+      "name": "嫌になったか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs09100100_MSG0007",
+      "style": 0,
+      "name": "いいえ　もっと悪い方が好みでございます[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs09100100_MSG0008",
+      "style": 0,
+      "name": "そうか　ならば期待しておけ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs09100100_MSG0009",
+      "style": 0,
+      "name": "我ら今日から\n無法の傭兵団に身を落としたのだからな[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs09100100_MSG0010",
+      "style": 0,
+      "name": "そうだろう　ラースの落ち武者達よ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs09100100_MSG0011",
+      "style": 0,
+      "name": "おおおおっ[ST:wide ]―！[ST:wait ]\n"
+    }
+  ]
+}

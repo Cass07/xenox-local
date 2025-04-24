@@ -1,0 +1,276 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085601_MSG0001",
+      "style": 0,
+      "name": "오, 엘마\n라오 못 봤어?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085601_MSG0002",
+      "style": 0,
+      "name": "응, 한동안 만난 적 없는데[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085601_MSG0003",
+      "style": 0,
+      "name": "만나기로 약속하셨어요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085601_MSG0004",
+      "style": 0,
+      "name": "약속이라기보단\n공동 임무를 수행할 예정이었는데 연락이 안 돼[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085601_MSG0005",
+      "style": 0,
+      "name": "네? 그거 너무하네요!\n무책임해요![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085601_MSG0006",
+      "style": 0,
+      "name": "뭐, 그런 말을 들어도 싸긴 하지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085601_MSG0007",
+      "style": 0,
+      "name": "하지만 악의가 있어서 그러는 건 아닐 거야\n미안, 나쁘게 말하지 말아 줘[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085601_MSG0008",
+      "style": 0,
+      "name": "왜 바람맞은 더그 씨가 사과하세요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085601_MSG0009",
+      "style": 0,
+      "name": "그건 그렇군[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085601_MSG0010",
+      "style": 0,
+      "name": "정말, 더그 씨도 이상하다니까[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085601_MSG0010_2",
+      "style": 0,
+      "name": "그런데 더그 씨와 라오 씨는\n사이가 좋죠?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085601_MSG0011",
+      "style": 0,
+      "name": "그 녀석과는 엘마의 교도대에 들어가기 전\n같은 부대에 있었어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085601_MSG0012",
+      "style": 0,
+      "name": "네? 그랬나요?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085601_MSG0013",
+      "style": 0,
+      "name": "내가 척후병, 녀석이 저격수였고[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085601_MSG0014",
+      "style": 0,
+      "name": "통합 정부가 생기기 전에는\n여기저기 분쟁 지역에 다녔지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085601_MSG0015",
+      "style": 0,
+      "name": "말하자면 전우라는 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085601_MSG0016",
+      "style": 0,
+      "name": "악연이라고 하는 게 좋을지도[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085601_MSG0017",
+      "style": 0,
+      "name": "엘마 씨, 라오 씨 대신에\n저희가 맡는 건 어때요?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085601_MSG0018",
+      "style": 0,
+      "name": "그래, 상관은 없지만\n우리도 할 수 있는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085601_MSG0019",
+      "style": 0,
+      "name": "응, 패스파인더만이\n할 수 있는 임무는 아니야[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085601_MSG0020",
+      "style": 0,
+      "name": "너희들이 도와준다면 정말 고맙지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085601_MSG0021",
+      "style": 0,
+      "name": "결정됐다모, 타츠에게 맡기고\n두 다리 쭉 뻗고 있어라모[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085601_MSG0022",
+      "style": 0,
+      "name": "그거 믿음직스럽군[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085601_MSG0023",
+      "style": 0,
+      "name": "이건 야광의 숲이네[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085601_MSG0024",
+      "style": 0,
+      "name": "그래, 3일 전부터 숲 여기저기에\nU.M 반응이 관측됐는데[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085601_MSG0025",
+      "style": 0,
+      "name": "이게 그 지점이야[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085601_MSG0025_2",
+      "style": 0,
+      "name": "프런티어넷 조사만으로는\n분석 진행이 안 되는 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085601_MSG0026",
+      "style": 0,
+      "name": "현지에 가서\n데이터를 수집해 오면 되는 거군요![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085601_MSG0027",
+      "style": 0,
+      "name": "정말 고마워[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085601_MSG0028",
+      "style": 0,
+      "name": "반은 우리 팀이 맡을 테니까\n이 세 군데를 부탁하고 싶다[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085601_MSG0033",
+      "style": 0,
+      "name": "알겠어요![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085601_MSG0034",
+      "style": 0,
+      "name": "데이터가 모이면\n한번 연락할게[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085601_MSG0035",
+      "style": 0,
+      "name": "그래, 그렇게 해 줘[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085601_MSG0036",
+      "style": 0,
+      "name": "본부에서 주는 보수는 물론이고\n끝나면 나도 한잔 사도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085601_JNK0010",
+      "style": 4,
+      "name": "만족"
+    },
+    {
+      "$id": 36,
+      "label": "qev085601_SEL0011",
+      "style": 3,
+      "name": "좋은 가게를 기대한다며 미소 짓는다"
+    },
+    {
+      "$id": 37,
+      "label": "qev085601_JNK0020",
+      "style": 4,
+      "name": "불만"
+    },
+    {
+      "$id": 38,
+      "label": "qev085601_SEL0021",
+      "style": 3,
+      "name": "술보다 돈이라며 고개를 젓는다"
+    },
+    {
+      "$id": 39,
+      "label": "qev085601_MSG0037",
+      "style": 0,
+      "name": "그래, 맡겨 두라고\n아주 좋은 곳을 알고 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev085601_MSG0038",
+      "style": 0,
+      "name": "기대하고 있을게[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev085601_MSG0039",
+      "style": 0,
+      "name": "이봐, 좀 참아 줘라\n너 생긴 거랑 달리 욕심이 많구나[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev085601_MSG0040",
+      "style": 0,
+      "name": "자, 그런 말 마시고\n그만큼 일할 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev085601_MSG0041",
+      "style": 0,
+      "name": "린이 그렇게 말한다면 어쩔 수 없지[ST:wait ]"
+    }
+  ]
+}

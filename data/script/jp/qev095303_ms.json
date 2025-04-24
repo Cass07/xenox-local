@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095303_MSG0001",
+      "style": 1,
+      "name": "地球人[ST:wide ]―噂以上の強さのようですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095303_MSG0002",
+      "style": 1,
+      "name": "落ち着いている場合じゃないですよ！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095303_MSG0003",
+      "style": 1,
+      "name": "もう生き残るすべはない\n諦めたというわけです[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev095303_MSG0004",
+      "style": 1,
+      "name": "ゴルボッガの神々よ……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev095303_MSG0005",
+      "style": 1,
+      "name": "皆　我々の任務を放棄していいものだろうか？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev095303_MSG0006",
+      "style": 1,
+      "name": "グロウスの任務ではなく\n我々の生きる目的を[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev095303_MSG0007",
+      "style": 1,
+      "name": "私も全うしたいとは思いますが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095303_MSG0008",
+      "style": 1,
+      "name": "ならば　少しでも生き延びる確率の高い方に\n賭けるべきではないのか？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095303_MSG0009",
+      "style": 1,
+      "name": "それもそうですね[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095303_MSG0010",
+      "style": 1,
+      "name": "私は生き延びるぞ……！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095303_MSG0013",
+      "style": 1,
+      "name": "さぁ　我々も急ぎましょう！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095303_MSG0014",
+      "style": 1,
+      "name": "ううむ　しかし[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095303_MSG0015",
+      "style": 1,
+      "name": "ぐああああッ！！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095303_MSG0011",
+      "style": 1,
+      "name": "ああっ[ST:wide ]―！！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095303_MSG0012",
+      "style": 1,
+      "name": "地球の方！\n我々を助けてください！！[ST:wait ]"
+    }
+  ]
+}

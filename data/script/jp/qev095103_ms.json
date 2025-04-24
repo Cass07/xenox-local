@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095103_MSG0001",
+      "style": 1,
+      "name": "ありがたい！　\nわしはお前の恩は決して忘れぬ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095103_MSG0002",
+      "style": 1,
+      "name": "……何を驚いているのダ？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095103_JNK0010",
+      "style": 4,
+      "name": "攻撃する"
+    },
+    {
+      "$id": 4,
+      "label": "qev095103_SEL0011",
+      "style": 3,
+      "name": "お前はバイアスだろう　と攻撃する"
+    },
+    {
+      "$id": 5,
+      "label": "qev095103_JNK0020",
+      "style": 4,
+      "name": "話す"
+    },
+    {
+      "$id": 6,
+      "label": "qev095103_SEL0021",
+      "style": 3,
+      "name": "バイアスがなぜここで捕らわれていた？\nと尋ねる"
+    },
+    {
+      "$id": 7,
+      "label": "qev095103_MSG0003",
+      "style": 1,
+      "name": "待て！　わしらは巌窟の一族とは違う\n大樹の一族ダ！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095103_MSG0004",
+      "style": 1,
+      "name": "巌窟の一族は長年の仇敵なのダ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095103_MSG0005",
+      "style": 1,
+      "name": "わしは大樹一族を率いる\n首長セヴィ・ベルガザス[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095103_MSG0006",
+      "style": 1,
+      "name": "一族の名誉にかけて誓う！\nわしらは　お前を傷つけるつもりなどないゾ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095103_MSG0007",
+      "style": 1,
+      "name": "わしらは大樹の一族ダ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095103_MSG0008",
+      "style": 1,
+      "name": "巌窟の一族は長年の仇敵なのダ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095103_MSG0009",
+      "style": 1,
+      "name": "わしは大樹一族を率いる\n首長セヴィ・ベルガザス[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095103_MSG0010",
+      "style": 1,
+      "name": "一族の名誉にかけて誓う！\nわしらは　お前を傷つけるつもりなどないゾ！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095103_MSG0011",
+      "style": 1,
+      "name": "わかってくれたか\n大樹の魂が　\nお前とわしたちを結びつけてくれたのダ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev095103_MSG0012",
+      "style": 1,
+      "name": "これは運命ダ！[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev095103_JNK0030",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 18,
+      "label": "qev095103_SEL0031",
+      "style": 3,
+      "name": "これからどうするつもりだと聞く"
+    },
+    {
+      "$id": 19,
+      "label": "qev095103_JNK0040",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 20,
+      "label": "qev095103_SEL0041",
+      "style": 3,
+      "name": "過去のいきさつを聞く"
+    },
+    {
+      "$id": 21,
+      "label": "qev095103_MSG0013",
+      "style": 1,
+      "name": "わしら大樹の一族は見ての通り数が少ない[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095103_MSG0014",
+      "style": 1,
+      "name": "他にも捕らわれている一族の者たちが\nいるのだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095103_MSG0015",
+      "style": 1,
+      "name": "ひとまずは巌窟の一族から身を隠したい\nかくまってはくれないか？[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095103_MSG0016",
+      "style": 1,
+      "name": "巌窟の一族と大樹の一族は元々　\n他の惑星で戦い続ける民族だった[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095103_MSG0017",
+      "style": 1,
+      "name": "それは長い長い戦いだった！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095103_MSG0018",
+      "style": 1,
+      "name": "だがある時　グロウスが\nわしらの星にやってきて\n巌窟の一族と手を結んだのだ！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev095103_MSG0019",
+      "style": 1,
+      "name": "技術力の低いわしらは巌窟の一族に\n支配されてしまった！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095103_MSG0020",
+      "style": 1,
+      "name": "それから強制労働の毎日だ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev095103_MSG0021",
+      "style": 1,
+      "name": "だが　お前さんのおかげで自由になれそうだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev095103_MSG0022",
+      "style": 1,
+      "name": "他にも捕らわれている一族の者たちが\nいるのだが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev095103_MSG0023",
+      "style": 1,
+      "name": "ひとまずは巌窟の一族から身を隠したい\nかくまってはくれないか？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev095103_JNK0050",
+      "style": 4,
+      "name": "了解"
+    },
+    {
+      "$id": 33,
+      "label": "qev095103_SEL0051",
+      "style": 3,
+      "name": "すぐにNLAに行こうと言う"
+    },
+    {
+      "$id": 34,
+      "label": "qev095103_JNK0060",
+      "style": 4,
+      "name": "保留"
+    },
+    {
+      "$id": 35,
+      "label": "qev095103_SEL0061",
+      "style": 3,
+      "name": "NLAで他の人間と\n相談してみると言う"
+    },
+    {
+      "$id": 36,
+      "label": "qev095103_MSG0024",
+      "style": 1,
+      "name": "ありがたい\nNLAとやらにも興味がある！[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev095103_MSG0025",
+      "style": 1,
+      "name": "それでいい\n当面の居場所さえ確保できればいいのだ[ST:wait ]"
+    }
+  ]
+}

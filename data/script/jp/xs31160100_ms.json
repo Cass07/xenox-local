@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31160100_MSG0010",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs31160100_MSG0020",
+      "style": 0,
+      "name": "アルの身体検査が終わったらしいわ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31160100_MSG0030",
+      "style": 0,
+      "name": "司令室に行きましょう[ST:wait ]"
+    }
+  ]
+}

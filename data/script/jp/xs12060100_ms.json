@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12060100_MSG0001",
+      "style": 0,
+      "name": "中に入ったら引き返している余裕はない\n準備はいい？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12060100_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 3,
+      "label": "xs12060100_SEL0011",
+      "style": 3,
+      "name": "覚悟を決めてうなずく"
+    },
+    {
+      "$id": 4,
+      "label": "xs12060100_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 5,
+      "label": "xs12060100_SEL0021",
+      "style": 3,
+      "name": "やり残したことを伝える"
+    },
+    {
+      "$id": 6,
+      "label": "xs12060100_MSG0002",
+      "style": 0,
+      "name": "しっかり準備しましょう[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12060100_MSG0003",
+      "style": 0,
+      "name": "本当にいいのね？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12060100_SEL0031",
+      "style": 3,
+      "name": "強くうなずき覚悟を示す"
+    },
+    {
+      "$id": 9,
+      "label": "xs12060100_SEL0041",
+      "style": 3,
+      "name": "やり残したことを思い出す"
+    }
+  ]
+}

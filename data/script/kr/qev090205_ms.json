@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090205_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "qev090205_MSG0002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "qev090205_MSG0003",
+      "style": 0,
+      "name": "어서 오세요\n이번 토벌 임무는 어땠나요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090205_MSG0004",
+      "style": 0,
+      "name": "우리 둘이 모였잖냐, 손쉽게 이겼지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090205_MSG0005",
+      "style": 0,
+      "name": "어쩐지 요즘 들어\n이엘브가 즐겁게 일하는 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090205_MSG0006",
+      "style": 0,
+      "name": "이번에도 굳이 스스로\n임무를 찾아서 해결했잖아요?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090205_MSG0007",
+      "style": 0,
+      "name": "새 파트너가 그렇게 마음에 드나요?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090205_MSG0007_m",
+      "style": 0,
+      "name": "새 파트너가 그렇게 마음에 드나요?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090205_MSG0007_f",
+      "style": 0,
+      "name": "새 파트너가 그렇게 마음에 드나요?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090205_MSG0008",
+      "style": 0,
+      "name": "……쫑알쫑알 말이 많아\n그보다 다른 일은 뭐 없어?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090205_MSG0009",
+      "style": 0,
+      "name": "의욕이 있어서 좋네요\n어디 보자…… 이엘브가 좋아할 일이면……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090205_MSG0010",
+      "style": 0,
+      "name": "……이건 어떤가요?\n망각의 계곡에서의 조사입니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090205_MSG0011",
+      "style": 0,
+      "name": "흰고래의 일부가 떨어져 있었다는\n보고가 들어왔습니다만……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090205_MSG0012",
+      "style": 0,
+      "name": "아직 아무도 조사하러 가지 않았어요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090205_MSG0013",
+      "style": 0,
+      "name": "호오, 그거 재미있겠는데……\n너치고는 나쁘지 않은 선택이야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090205_MSG0014",
+      "style": 0,
+      "name": "……어때?\n누가 새치기하기 전에 가 볼까?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090205_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 18,
+      "label": "qev090205_SEL0011",
+      "style": 3,
+      "name": "어서 가자며 활기차게 끄덕인다"
+    },
+    {
+      "$id": 19,
+      "label": "qev090205_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 20,
+      "label": "qev090205_SEL0021",
+      "style": 3,
+      "name": "일단 준비를 마친 후에\n가지 않겠냐고 제안한다"
+    },
+    {
+      "$id": 21,
+      "label": "qev090205_MSG0015",
+      "style": 0,
+      "name": "그렇게 나와야지![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090205_MSG0016",
+      "style": 0,
+      "name": "이봐, 그렇게 꾸물거리다가는\n다른 블레이드가 가로챈다니까![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090205_MSG0017",
+      "style": 0,
+      "name": "그러면 가자고![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090205_MSG0018",
+      "style": 0,
+      "name": "엘레오노라\n좌표 데이터를 단말기에 집어넣어 줘![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090205_MSG0019",
+      "style": 0,
+      "name": "네, 그러면 열심히 하세요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090205_MSG0020",
+      "style": 0,
+      "name": "이번에야말로 이엘브가 찾는\n무언가를 발견하면 좋겠네요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090205_MSG0021",
+      "style": 0,
+      "name": "설마……\n너, 그것 때문에 이 일을 내게 준 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090205_MSG0022",
+      "style": 0,
+      "name": "……젠장! 참견 많은 녀석……\n고맙다는 말은 안 할 거야……[ST:wait ]"
+    }
+  ]
+}

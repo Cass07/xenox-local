@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999927_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999927_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999927_JNK0030",
+      "style": 4,
+      "name": "バトルメンバーに加える[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999927_SEL0031",
+      "style": 3,
+      "name": "活動中のブレイド隊員[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999927_MSG0001",
+      "style": 1,
+      "name": "やあ！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999927_MSG0101",
+      "style": 1,
+      "name": "やあやあ！\nがんばってる？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999927_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999927_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999927_MSG2001",
+      "style": 1,
+      "name": "了解！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999927_MSG2002",
+      "style": 1,
+      "name": "これで戦闘中は\nユニオンの支援を受けられるよ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999927_MSG2101",
+      "style": 1,
+      "name": "皆まで言わずともわかってる！\nユニオンの支援なら今　要請したよ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999927_MSG2102",
+      "style": 1,
+      "name": "ケガに気を付けて　戦ってね！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999927_MSG3001",
+      "style": 1,
+      "name": "あたしの力が必要？\nよーっし　ガンバるよ！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev999927_MSG3101",
+      "style": 1,
+      "name": "どこまでもついていくよ！\nあたしのガンバりが続く限り！！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev999927_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev999927_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev999927_MSG5001",
+      "style": 1,
+      "name": "ゴメンなさい\n今　取り込み中なんだ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev999927_MSG5101",
+      "style": 1,
+      "name": "ゴメンね\n今はゆっくり話せないんだ\nまた後でね[ST:wait ]"
+    }
+  ]
+}

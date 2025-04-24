@@ -1,0 +1,564 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12150100_MSG0001",
+      "style": 0,
+      "name": "ラオ！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12150100_MSG0002",
+      "style": 0,
+      "name": "ルクザール達　創られた生命体には\n非常停止キーが仕込まれていた[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs12150100_MSG0003",
+      "style": 0,
+      "name": "強靱な生命体である彼らが暴走した時に備えて[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12150100_MSG0004",
+      "style": 0,
+      "name": "それはサマールの　地球人の肉体だ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12150100_MSG0005",
+      "style": 0,
+      "name": "連綿と受け継がれてきた地球人の遺伝子こそが\nグロウスの暴走を止める鍵[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12150100_MSG0006",
+      "style": 0,
+      "name": "だから　ルクザールらは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12150100_MSG0006_02",
+      "style": 0,
+      "name": "[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]の俺達ではなくライフで再生される\n地球人の方をこそ怖れたのさ[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs12150100_MSG0007",
+      "style": 0,
+      "name": "ラオさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12150100_MSG0008",
+      "style": 0,
+      "name": "これでいいのさ[ST:wide ]―\nよくやったな　お前達[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12150100_MSG0009",
+      "style": 0,
+      "name": "これで人類の望みは叶う\n未来は続いていくんだ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12150100_MSG0010",
+      "style": 0,
+      "name": "忘れるな[ST:wide ]―　俺達が肉体を取り戻せば[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs12150100_MSG0011",
+      "style": 0,
+      "name": "もうグロウスを怖れる必要は[ST:wide ]―　ない[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs12150100_MSG0012",
+      "style": 0,
+      "name": "どうなってる？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12150100_MSG0013",
+      "style": 0,
+      "name": "まだ稼働しているのか？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12150100_MSG0014",
+      "style": 0,
+      "name": "無事です[ST:wide ]―\nなんとか持ちこたえています！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12150100_MSG0015",
+      "style": 0,
+      "name": "よかったぁ[ST:wide ]―\n僕達　護りきったんですね！[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs12150100_MSG0016",
+      "style": 0,
+      "name": "でも　ラオさんは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12150100_MSG0017",
+      "style": 0,
+      "name": "悲しむことはない[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs12150100_MSG0018",
+      "style": 0,
+      "name": "私達はシステムを護りきっただけじゃない\nラオも救ったのよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12150100_MSG0019",
+      "style": 0,
+      "name": "そうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs12150100_MSG0020",
+      "style": 0,
+      "name": "ヤツの記憶も遺伝子情報も\nライフのクラウドデータに保存されている[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs12150100_MSG0021",
+      "style": 0,
+      "name": "ええ\n彼もまた　新しい身体で蘇ることができるわ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12150100_MSG0022",
+      "style": 0,
+      "name": "でもそれって[ST:wide ]―\nラオさんは納得できるんでしょうか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12150100_MSG0023",
+      "style": 0,
+      "name": "自分がやったこと\n全部覚えてるんですもんね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs12150100_MSG0024",
+      "style": 0,
+      "name": "それでいいんだよ\n死んじまったら罪滅ぼしも後悔もできない[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs12150100_MSG0025",
+      "style": 0,
+      "name": "あいつには生きてもらって\nやったことに見合う分　働いてもらうさ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs12150100_MSG0026",
+      "style": 0,
+      "name": "そうだな[ST:wide ]―　その通りだ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs12150100_MSG0027",
+      "style": 0,
+      "name": "ですよね\nでは急いでシステムの復旧を！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs12150100_MSG0029",
+      "style": 0,
+      "name": "エルマ大佐？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs12150100_MSG0030",
+      "style": 0,
+      "name": "皆に一つ\n話しておかなければならないことがある[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "xs12150100_MSG0031",
+      "style": 0,
+      "name": "なんだ急に[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs12150100_MSG0032",
+      "style": 0,
+      "name": "ＮＬＡの[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]の中でたった一人だけ[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs12150100_MSG0033",
+      "style": 0,
+      "name": "コールドカプセルで眠っている身体から\n意識が転送されている者がいるわ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs12150100_MSG0034",
+      "style": 0,
+      "name": "えっ？\n地球種汎移民計画では乗せてないんじゃ[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs12150100_MSG0035",
+      "style": 0,
+      "name": "ええ　でもその一人だけは違う[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs12150100_MSG0036",
+      "style": 0,
+      "name": "どういうことだ？[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "xs12150100_MSG0037",
+      "style": 0,
+      "name": "こういうことよ[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs12150100_MSG0038",
+      "style": 0,
+      "name": "エルマ大佐！[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs12150100_MSG0039",
+      "style": 0,
+      "name": "エ　エルマさん　死んでしまったですも！？[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs12150100_MSG0040",
+      "style": 0,
+      "name": "ううん　これは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs12150100_MSG0041",
+      "style": 0,
+      "name": "[ST:wide ]―死んではいないわ\n意識を本体の方へ戻しただけ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs12150100_MSG0042",
+      "style": 0,
+      "name": "エルマ[ST:wide ]―　その姿[ST:wide ]―！？[ST:wait ]\n"
+    },
+    {
+      "$id": 43,
+      "label": "xs12150100_MSG0043",
+      "style": 0,
+      "name": "そう　これが私の本当の姿[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs12150100_MSG0044",
+      "style": 0,
+      "name": "コールドカプセルで運ばれてきた唯一の異星人[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs12150100_MSG0045",
+      "style": 0,
+      "name": "エルマ大佐[ST:wide ]―\n地球人じゃなかったんですか！[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs12150100_MSG0046",
+      "style": 0,
+      "name": "そんな[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 47,
+      "label": "xs12150100_MSG0047",
+      "style": 0,
+      "name": "おおっ　美しい[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs12150100_MSG0048",
+      "style": 0,
+      "name": "この姿を見ても[ST:wide ]―\n私をあなた達の仲間だと思ってもらえるかしら[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs12150100_MSG0050",
+      "style": 0,
+      "name": "当たり前じゃないですか！[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs12150100_MSG0051",
+      "style": 0,
+      "name": "私達は　エルマさんの見かけじゃない[ST:wide ]―\n行動を信じて　ここまでついてきたんです！[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs12150100_MSG0052",
+      "style": 0,
+      "name": "そうですも！[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs12150100_MSG0062",
+      "style": 0,
+      "name": "[ST:wide ]―リンの言う通りだ[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs12150100_MSG0063",
+      "style": 0,
+      "name": "エルマ大佐　あなたは意味もなく\nあたし達を偽るような人じゃない[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs12150100_MSG0064",
+      "style": 0,
+      "name": "そうだな　俺も信じよう[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs12150100_MSG0065",
+      "style": 0,
+      "name": "僕もです[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs12150100_MSG0066",
+      "style": 0,
+      "name": "ありがとう　嬉しく思う\n[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs12150100_MSG0067",
+      "style": 0,
+      "name": "あなた達の信頼に応えるためにも\n私が知る限りの真実を話すわ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs12150100_MSG0068",
+      "style": 0,
+      "name": "でもその前にやることをやらないとね[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs12150100_MSG0069",
+      "style": 0,
+      "name": "私にしかできないことを[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 60,
+      "label": "xs12150100_MSG0070",
+      "style": 0,
+      "name": "これで　予備の動力システムに切り替わる[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs12150100_MSG0071",
+      "style": 0,
+      "name": "生体認証コード　確認[ST:wait ]\n"
+    },
+    {
+      "$id": 62,
+      "label": "xs12150100_MSG0072",
+      "style": 0,
+      "name": "予備動力システムへの切替\n完了しました[ST:wait ]\n"
+    },
+    {
+      "$id": 63,
+      "label": "xs12150100_MSG0073",
+      "style": 0,
+      "name": "本当に　切り替わってるのか？\nいきなりプスンなんてことはないだろうな？[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs12150100_MSG0074",
+      "style": 0,
+      "name": "ええ　大丈夫よ[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs12150100_MSG0075",
+      "style": 0,
+      "name": "エルマさん　ナギおじさまです[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs12150100_MSG0076",
+      "style": 0,
+      "name": "つないで[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs12150100_MSG0077",
+      "style": 0,
+      "name": "稼働限界時間の回復を確認した\n皆　ありがとう[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs12150100_MSG0078",
+      "style": 0,
+      "name": "ヴァンダムから外のグロウス部隊は\n制圧したとの報告も受けた[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs12150100_MSG0079",
+      "style": 0,
+      "name": "メインの動力システムは数日内に\nテスタメントに復旧させる[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs12150100_MSG0080",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs12150100_MSG0081",
+      "style": 0,
+      "name": "ご苦労だった\n帰還したら祝杯をあげよう[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs12150100_MSG0082",
+      "style": 0,
+      "name": "これで俺達の寿命はしばらく延びたわけだ[ST:wait ]\n"
+    },
+    {
+      "$id": 73,
+      "label": "xs12150100_MSG0083",
+      "style": 0,
+      "name": "そうですね[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs12150100_MSG0084",
+      "style": 0,
+      "name": "メインの動力が回復すれば\nバッテリー切れの心配もなくなります[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs12150100_MSG0085",
+      "style": 0,
+      "name": "生身に戻ったらそれも必要なくなりますね[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs12150100_MSG0086",
+      "style": 0,
+      "name": "ああ　その通りさ[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs12150100_MSG0087",
+      "style": 0,
+      "name": "そのためにはまず制御コンピュータの\n修理が必要ね[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs12150100_MSG0088",
+      "style": 0,
+      "name": "下層にあるあなた達の記憶[ST:wide ]―\nデータベースも確認しないと[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs12150100_MSG0089",
+      "style": 0,
+      "name": "ちょっと待ってくれ[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "xs12150100_MSG0090",
+      "style": 0,
+      "name": "その前にエルマの言ってた\n真実を聞くのが先だろ[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs12150100_MSG0091",
+      "style": 0,
+      "name": "そういえば[ST:wide ]―\n色々ありすぎてすっかり忘れてた[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs12150100_MSG0092",
+      "style": 0,
+      "name": "なぁに　焦らなくても大丈夫だろ\n今のあたし達にはたっぷり時間があるんだしさ[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs12150100_MSG0093",
+      "style": 0,
+      "name": "それに長い話になるわ[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs12150100_MSG0094",
+      "style": 0,
+      "name": "どうかしら？[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs12150100_MSG0095",
+      "style": 0,
+      "name": "一度ＮＬＡに戻ってリンの手料理でも\n食べながら聞くっていうのは？[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs12150100_MSG0096",
+      "style": 0,
+      "name": "賛成ですも！\nタツ　おなかグーグーですも！[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "xs12150100_MSG0097",
+      "style": 0,
+      "name": "ちょうどそこに　まるまると太った\n食材もあることですし[ST:wide ]―　ね！[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "xs12150100_MSG0098",
+      "style": 0,
+      "name": "もっ！　ももももーっ！？[ST:wait ]\n"
+    },
+    {
+      "$id": 89,
+      "label": "xs12150100_MSG0099",
+      "style": 0,
+      "name": "ははははは\nそうだな　うん　そうしよう[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "xs12150100_MSG0100",
+      "style": 0,
+      "name": "では　皆さん帰りましょう[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "xs12150100_MSG0101",
+      "style": 0,
+      "name": "はい\n帰還しましょう　私達の街[ST:wide ]―　ＮＬＡへ[ST:wait ]\n"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev070302_MSG0001",
+      "style": 1,
+      "name": "……어때?\n닥으로 보이는 사람은 찾았어?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev070302_MSG0002",
+      "style": 1,
+      "name": "……뭐?\n미라리안만 남아 있다고?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev070302_MSG0008",
+      "style": 1,
+      "name": "닥…… 백목의 대륙 같은 위험한 곳에서\n어디를 함부로 돌아다니는 거야……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev070302_MSG0003",
+      "style": 1,
+      "name": "……있잖아\n미라리안 내부에 녹색 패널이 있어\n거기 버튼 좀 눌러 줄래?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev070302_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 6,
+      "label": "qev070302_SEL0011",
+      "style": 3,
+      "name": "얌전히 버튼을 누른다"
+    },
+    {
+      "$id": 7,
+      "label": "qev070302_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 8,
+      "label": "qev070302_SEL0021",
+      "style": 3,
+      "name": "수상하니까 버튼을 누르지 않는다"
+    },
+    {
+      "$id": 9,
+      "label": "qev070302_MSG0004",
+      "style": 1,
+      "name": "뭔데? 사춘기야?\n무슨 일이든 다 반항하고 싶고 그래?\n괜찮으니까 눌러 줘……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev070302_MSG0005",
+      "style": 1,
+      "name": "……어때? 이제 닥의 위치가\n뿅하고 나타났지?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev070302_MSG0006",
+      "style": 1,
+      "name": "이전처럼 무슨 사건에\n휘말렸을 수도 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev070302_MSG0007",
+      "style": 1,
+      "name": "서둘러 그 장소로 가 봐\n부탁할게, 반드시 닥을 데리고 와 줘![ST:wait ]"
+    }
+  ]
+}

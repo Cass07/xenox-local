@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086803_MSG0002",
+      "style": 0,
+      "name": "エルマさん！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086803_MSG0003",
+      "style": 0,
+      "name": "ロック　どうしたの？\nセリカのこと？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086803_MSG0004",
+      "style": 0,
+      "name": "そうなんだ\nセリカ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086803_MSG0004_2",
+      "style": 0,
+      "name": "ブレイドになって\nＮＬＡの市民権を手に入れるって[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086803_MSG0005",
+      "style": 0,
+      "name": "そうしたら　ボクの分まで\n働いたことになるって言い出して[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086803_MSG0006",
+      "style": 0,
+      "name": "やっぱり[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086803_MSG0007",
+      "style": 0,
+      "name": "どうしよう[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086803_MSG0008",
+      "style": 0,
+      "name": "白樹の大陸って所でセレネハーブを\nとってくるって一人で行っちゃったんだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086803_MSG0009",
+      "style": 0,
+      "name": "ええっ　白樹の大陸って強い原生生物が\nうようよしてるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086803_MSG0010",
+      "style": 0,
+      "name": "グロウスと接触する可能性も高い[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086803_MSG0011",
+      "style": 0,
+      "name": "お願い　セリカを助けて[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086803_MSG0012",
+      "style": 0,
+      "name": "もちろんよ\n彼女はロックだけの友人じゃないもの[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086803_MSG0001",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "qev086803_MSG0101",
+      "style": 1,
+      "name": "待っててって言われたけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086803_MSG0102",
+      "style": 1,
+      "name": "ねえ[ST:playername ]\nセリカがどこへ行って何をしようとしてるか\nちょっと見てきてよ[ST:wait ]"
+    }
+  ]
+}

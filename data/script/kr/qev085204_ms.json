@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085204_MSG0001",
+      "style": 0,
+      "name": "저게 진짜 표적이구나[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085204_MSG0002",
+      "style": 0,
+      "name": "저 사람들, 이리나 씨에게 시비 걸었던\n못된 블레이드예요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085204_JNK0010",
+      "style": 4,
+      "name": "정의감"
+    },
+    {
+      "$id": 4,
+      "label": "qev085204_SEL0011",
+      "style": 3,
+      "name": "구하러 갈 것을 제안한다"
+    },
+    {
+      "$id": 5,
+      "label": "qev085204_JNK0020",
+      "style": 4,
+      "name": "무관심"
+    },
+    {
+      "$id": 6,
+      "label": "qev085204_SEL0021",
+      "style": 3,
+      "name": "구해 줄 이유는 없다며 고개를 젓는다"
+    },
+    {
+      "$id": 7,
+      "label": "qev085204_MSG0003",
+      "style": 0,
+      "name": "네? 저런 사람들을요?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085204_MSG0004",
+      "style": 0,
+      "name": "무슨 소리를 하는 거야?\n꾸물거리지 말고 저 원시 생물을 쓰러뜨리자[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085204_MSG0005",
+      "style": 0,
+      "name": "앗…… 네![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085204_MSG0006",
+      "style": 0,
+      "name": "그렇죠? 저런 사람들을\n굳이 구해 줄 필요 없어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085204_MSG0007",
+      "style": 0,
+      "name": "그럼 여기 있어\n하지만 난 간다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085204_MSG0008",
+      "style": 0,
+      "name": "이리나 씨![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085204_MSG0009",
+      "style": 0,
+      "name": "사적인 감정은 버리도록 해[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085204_MSG0010",
+      "style": 0,
+      "name": "무슨 일이 있었든 같은 블레이드 대원이야\n구하는 게 당연해[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085204_MSG0011",
+      "style": 0,
+      "name": "아…… 네!"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33610100_MSG0010",
+      "style": 0,
+      "name": "……아, 선배![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33610100_MSG0020",
+      "style": 0,
+      "name": "일부러 절 찾으러 와 주셨군요\n감동, 감동이에요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33610100_MSG0030",
+      "style": 0,
+      "name": "저는 돌은 망가지고 그로우스에게 습격당하고\n정말 엉망이었어요……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33610100_MSG0040",
+      "style": 0,
+      "name": "자, 선배, 빨리 가요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33610100_MSG0050",
+      "style": 0,
+      "name": "이런 신기한 공간을 탐색하지 않으면\n모험가로서 손해잖아요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33610100_MSG0060",
+      "style": 0,
+      "name": "……네? 그럴 때가 아니라고요?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33610100_MSG0065",
+      "style": 0,
+      "name": "아, 정말~ 선배도 따지시긴[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33610100_MSG0070",
+      "style": 0,
+      "name": "어차피 대보스가 있는 곳까지 돌아갈 거고\n어느 쪽이든 똑같잖아요~[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33610100_MSG0080",
+      "style": 0,
+      "name": "자, 선배, 결정된 거죠?\n레츠 고예요! 뒤처지면 안 돼요[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000493_MSG0001",
+      "style": 1,
+      "name": "これは[ST:playername ]さん\nいいタイミングに来てくれました[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000493_MSG0002",
+      "style": 1,
+      "name": "僕を連れ去ってはくれないでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000493_JNK0010",
+      "style": 4,
+      "name": "肯定[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000493_SEL0011",
+      "style": 3,
+      "name": "HBを連れ去る[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000493_JNK0020",
+      "style": 4,
+      "name": "否定[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000493_SEL0021",
+      "style": 3,
+      "name": "きっぱりと断る[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000493_MSG0008",
+      "style": 1,
+      "name": "すばらしい機転です[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000493_MSG0009",
+      "style": 1,
+      "name": "よくあることなんですが\n女性に言い寄られていまして\n困っているところなんです[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000493_MSG0010",
+      "style": 1,
+      "name": "僕が　並のパスファインダーに\n収まっているような器でしたら\nこうはならなかったでしょう[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000493_MSG0011",
+      "style": 1,
+      "name": "エリートゆえの罪ともいえますね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000493_MSG0012",
+      "style": 1,
+      "name": "君も僕と同じ境遇に陥ることが\nよくあるでしょう？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000493_MSG0013",
+      "style": 1,
+      "name": "頻繁に異性に言い寄られはしませんか？[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000493_JNK0110",
+      "style": 4,
+      "name": "肯定[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000493_SEL0111",
+      "style": 3,
+      "name": "確かに異性に人気があると頷く[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000493_JNK0120",
+      "style": 4,
+      "name": "否定[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000493_SEL0121",
+      "style": 3,
+      "name": "そんなことはないと否定する[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000493_MSG0019",
+      "style": 1,
+      "name": "そうでしょう　そうでしょう[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000493_MSG0020",
+      "style": 1,
+      "name": "僕にとっては君は悩みを共有できる\n稀有な存在ですね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000493_MSG0022",
+      "style": 1,
+      "name": "それは残念ですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000493_MSG0023",
+      "style": 1,
+      "name": "NLAの市民は何を考えているのでしょうか\n僕以外にも素晴らしい人がいるというのに[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000493_MSG0025",
+      "style": 1,
+      "name": "[ST:wide ]―ここで長々と話している場合では\nありませんでしたね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000493_MSG0026",
+      "style": 1,
+      "name": "さあ　どこへでも連れて行ってください[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000493_MSG0027",
+      "style": 1,
+      "name": "彼女たちに恨まれるのは僕ではなく君だ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000493_MSG0028",
+      "style": 1,
+      "name": "その穴埋めくらいはさせていただきますよ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000493_MSG0032",
+      "style": 1,
+      "name": "なっ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000493_MSG0033",
+      "style": 1,
+      "name": "信じられない判断をする人だ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000493_MSG0034",
+      "style": 1,
+      "name": "ここにいる女性たちは僕が将来有望だから\nおべっかを使っているだけの人たちなんです[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000493_MSG0035",
+      "style": 1,
+      "name": "とはいえ　冷たくあしらうとたちまち\n僕の悪評が流れてしまいます[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000493_MSG0036",
+      "style": 1,
+      "name": "ブレイド司令になろうとする立場として\n絶対に避けたいことです[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000493_JNK0210",
+      "style": 4,
+      "name": "考え直す[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000493_SEL0211",
+      "style": 3,
+      "name": "HBを連れ去る[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000493_JNK0220",
+      "style": 4,
+      "name": "指摘[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000493_SEL0221",
+      "style": 3,
+      "name": "本当に好いてくれているかも\nしれないと指摘する[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000493_MSG0042",
+      "style": 1,
+      "name": "すばらしい決断です[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000493_MSG0043",
+      "style": 1,
+      "name": "これで彼女たちから不平不満を言われるのは\n僕ではなく君になりますね[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000493_MSG0044",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000493_MSG0045",
+      "style": 1,
+      "name": "さあ　小さいことは気にせずに\n任務でもどこへでも行こうじゃないですか[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000493_MSG0048",
+      "style": 1,
+      "name": "[ST:wide ]―む[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000493_MSG0049",
+      "style": 1,
+      "name": "彼女たちは本気だというのですか……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000493_MSG0050",
+      "style": 1,
+      "name": "ますます厄介になりますね……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000493_MSG0051",
+      "style": 1,
+      "name": "僕は女性にかまけるつもりはありません[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000493_MSG0052",
+      "style": 1,
+      "name": "どうあっても彼女たちの希望を\n叶えられそうにないんです[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000493_MSG0053",
+      "style": 1,
+      "name": "[ST:wide ]―それに君と一緒にいることも\n何かの火種になってしまうかもしれませんね[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000493_MSG0054",
+      "style": 1,
+      "name": "僕はすぐにブレイドエリアに戻ります\n何か対策を練らなければ[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

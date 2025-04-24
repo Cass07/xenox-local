@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092604_MSG0001",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092604_MSG0002",
+      "style": 0,
+      "name": "……토톤은 알이다모\n새들아, 먹으면 안 된다모[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092604_MSG0003",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092604_MSG0004",
+      "style": 0,
+      "name": "……어라? 그 새 녀석이 아니잖아모?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092604_MSG0004_m",
+      "style": 0,
+      "name": "……어라? 그 새 녀석이 아니잖아모?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092604_MSG0004_f",
+      "style": 0,
+      "name": "……어라? 그 새 녀석이 아니잖아모?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092604_MSG0005",
+      "style": 0,
+      "name": "혹시 구하러 와 준 건가모?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092604_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 9,
+      "label": "qev092604_SEL0011",
+      "style": 3,
+      "name": "구하러 왔다고 대답한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev092604_JNK0020",
+      "style": 4,
+      "name": "설명"
+    },
+    {
+      "$id": 11,
+      "label": "qev092604_SEL0021",
+      "style": 3,
+      "name": "토라의 의뢰로 왔다고 전한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev092604_MSG0006",
+      "style": 0,
+      "name": "우와아~ 살았다모~![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092604_MSG0007",
+      "style": 0,
+      "name": "오오! 토라도 성장했구나모……!\n대견해서 눈물 난다모!![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092604_MSG0008",
+      "style": 0,
+      "name": "아무리 전설의 행상인 토톤이라도\n여기서 끝이라고 생각했지만……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092604_MSG0009",
+      "style": 0,
+      "name": "알인 척하면서\n지금 이 순간까지 살아남았다모![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092604_MSG0010",
+      "style": 0,
+      "name": "모든 건 사랑하는 아내와 아들을\n다시 한번 만나기 위해서![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092604_MSG0011",
+      "style": 0,
+      "name": "그러면 서둘러 사랑하는\n가족들 곁으로 돌아가겠다모![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092604_MSG0011_m",
+      "style": 0,
+      "name": "그러면 서둘러 사랑하는\n가족들 곁으로 돌아가겠다모![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092604_MSG0011_f",
+      "style": 0,
+      "name": "그러면 서둘러 사랑하는\n가족들 곁으로 돌아가겠다모![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092604_MSG0012",
+      "style": 0,
+      "name": "고맙다모! 이름 모를 사람들!![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092604_MSG0012_m",
+      "style": 0,
+      "name": "고맙다모! 이름 모를 사람들!![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092604_MSG0012_f",
+      "style": 0,
+      "name": "고맙다모! 이름 모를 사람들!![ST:wait ]"
+    }
+  ]
+}

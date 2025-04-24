@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev200701_MSG0001",
+      "style": 1,
+      "name": "너는…… 그렇군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev200701_MSG0002",
+      "style": 1,
+      "name": "이렇게 여기에 왔다는 건\n내가 부과한 모든 시험을 돌파했다는 거겠지?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev200701_MSG0003",
+      "style": 1,
+      "name": "훌륭해, 너야말로 내가 개발한 최고의 걸작……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev200701_MSG0004",
+      "style": 1,
+      "name": "미지로 가득 찬 세계의 수수께끼를\n전부 풀어낼 수 있는 필드 스킬 서치를\n보유하기에 걸맞은 블레이드야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev200701_MSG0005",
+      "style": 1,
+      "name": "곧장 너의 B.B.에\n필드 스킬 서치를\n설치해 주지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev200701_MSG0006",
+      "style": 1,
+      "name": "어때, 괜찮겠어?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev200701_JNK0010",
+      "style": 4,
+      "name": "긍정[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev200701_SEL0011",
+      "style": 3,
+      "name": "필드 스킬 서치를\n설치해 달라고 한다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev200701_JNK0020",
+      "style": 4,
+      "name": "부정[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev200701_SEL0021",
+      "style": 3,
+      "name": "마음의 준비가 되지 않았다며\n거절한다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev200701_MSG0007",
+      "style": 1,
+      "name": "그래, 모든 걸 볼 수 있게 된다는 건\n안 봐도 되는 것까지 보게 된다는 뜻이지……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev200701_MSG0008",
+      "style": 1,
+      "name": "알겠다, 지식의 무거운 짐을 짊어질\n각오가 생기면 다시 나에게 와 줘[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev200701_MSG0009",
+      "style": 1,
+      "name": "그러면 시작하지[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev200701_MSG0010",
+      "style": 1,
+      "name": "이제 너는 이 세계 도처에 존재하는\n모든 수수께끼를 밝혀낼 힘을 얻게 된다![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev200701_MSG0011",
+      "style": 1,
+      "name": "……설치 완료다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev200701_MSG0012",
+      "style": 1,
+      "name": "그러면 실례하지\n앞으로도 너의 활약을 기대하고 있겠어[ST:wait ]"
+    }
+  ]
+}

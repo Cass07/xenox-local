@@ -1,0 +1,342 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000494_MSG0001",
+      "style": 1,
+      "name": "っ[ST:playername ]さん！？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000494_MSG0002",
+      "style": 1,
+      "name": "まさか秘密の特訓がバレてしまうとは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000494_MSG0003",
+      "style": 1,
+      "name": "君には見られたくなかったですね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000494_MSG0004",
+      "style": 1,
+      "name": "ただ見られてしまったからには仕方がない\n別の有意義な時間に切り替えるとしましょう[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000494_MSG0005",
+      "style": 1,
+      "name": "[ST:playername ]さんは\n成功を収めるためには\n何が必要だと思いますか？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000494_JNK0010",
+      "style": 4,
+      "name": "運"
+    },
+    {
+      "$id": 7,
+      "label": "tev000494_SEL0011",
+      "style": 3,
+      "name": "運が必要だと回答する"
+    },
+    {
+      "$id": 8,
+      "label": "tev000494_JNK0020",
+      "style": 4,
+      "name": "力"
+    },
+    {
+      "$id": 9,
+      "label": "tev000494_SEL0021",
+      "style": 3,
+      "name": "実力が必要だと回答する"
+    },
+    {
+      "$id": 10,
+      "label": "tev000494_JNK0030",
+      "style": 4,
+      "name": "心"
+    },
+    {
+      "$id": 11,
+      "label": "tev000494_SEL0031",
+      "style": 3,
+      "name": "諦めない心が必要だと\n回答する"
+    },
+    {
+      "$id": 12,
+      "label": "tev000494_MSG0006",
+      "style": 1,
+      "name": "運ですか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000494_MSG0007",
+      "style": 1,
+      "name": "確かに重要なファクターの一つですね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000494_MSG0008",
+      "style": 1,
+      "name": "無能であっても運が良ければ\nそれなりの立場にいる場合がありますからね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000494_MSG0009",
+      "style": 1,
+      "name": "き[ST:wide ]―\n君のことを言っているのではないですよ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000494_MSG0010",
+      "style": 1,
+      "name": "しかし　必ず運があるとは限らない[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000494_MSG0011",
+      "style": 1,
+      "name": "だから　少しでも実力を上げないといけないと\n僕は考えます[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000494_MSG0012",
+      "style": 1,
+      "name": "珍しく僕と同意見ですね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000494_MSG0013",
+      "style": 1,
+      "name": "運で成功を掴んだとしても\n一時的なものにすぎません[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000494_MSG0014",
+      "style": 1,
+      "name": "実力がなければ　確実性が伴わない[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000494_MSG0015",
+      "style": 1,
+      "name": "実力を底上げしない限り\n成功はやってこないんですよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000494_MSG0016",
+      "style": 1,
+      "name": "フッ[ST:wide ]―\n甘いですね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000494_MSG0017",
+      "style": 1,
+      "name": "確かに諦めない心は大切です[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000494_MSG0018",
+      "style": 1,
+      "name": "しかし　往生際悪く何度も\n無策で挑戦することが\n成功への近道だと言えますか？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000494_MSG0019",
+      "style": 1,
+      "name": "もっと頭を使いましょうよ\n実力を高めれば　成功する確率は高まる[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000494_MSG0020",
+      "style": 1,
+      "name": "だから　僕はこうして特訓をしているのです[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000494_MSG0021",
+      "style": 1,
+      "name": "僕が思うにNLAは休息する場所ではなく\n自分を鍛える場所です[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000494_MSG0022",
+      "style": 1,
+      "name": "僕のライバルもがんばっているようです[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000494_MSG0023",
+      "style": 1,
+      "name": "だから　それに応えるためにも\n僕はもっともっと頑張る必要があるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000494_MSG0024",
+      "style": 1,
+      "name": "[ST:wide ]―ところで君はどのようにして\n成功を収めることができたんですか？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000494_JNK0040",
+      "style": 4,
+      "name": "天才的な回答"
+    },
+    {
+      "$id": 32,
+      "label": "tev000494_SEL0041",
+      "style": 3,
+      "name": "特に何もしていないと\n回答する"
+    },
+    {
+      "$id": 33,
+      "label": "tev000494_JNK0050",
+      "style": 4,
+      "name": "殊勝な回答"
+    },
+    {
+      "$id": 34,
+      "label": "tev000494_SEL0051",
+      "style": 3,
+      "name": "エルマのおかげだと回答する"
+    },
+    {
+      "$id": 35,
+      "label": "tev000494_JNK0060",
+      "style": 4,
+      "name": "素直な回答"
+    },
+    {
+      "$id": 36,
+      "label": "tev000494_SEL0061",
+      "style": 3,
+      "name": "依頼をたくさん受けたからと\n回答する"
+    },
+    {
+      "$id": 37,
+      "label": "tev000494_MSG0025",
+      "style": 1,
+      "name": "フッ[ST:wide ]―\nはぐらかされてしまいましたか[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000494_MSG0026",
+      "style": 1,
+      "name": "ライバルに塩を送りたくない\nということですね[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000494_MSG0027",
+      "style": 1,
+      "name": "いいですよ[ST:wide ]―\n君の助けなど借りずとも\n僕自身の力で成功してみせますから[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000494_MSG0028",
+      "style": 1,
+      "name": "君らしい回答ですね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000494_MSG0029",
+      "style": 1,
+      "name": "確かに君にはエルマさんという\n偉大な味方がいます[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000494_MSG0030",
+      "style": 1,
+      "name": "ただ　エルマさんは君を認めている\nはずです[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000494_MSG0031",
+      "style": 1,
+      "name": "あれだけの人が何もできない人間を\n支持するなんてことはないでしょう[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000494_MSG0032",
+      "style": 1,
+      "name": "僕が言うのもヘンですけれど\n君自身の努力もあったから\n今の君があるんですよ[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev000494_MSG0033",
+      "style": 1,
+      "name": "[ST:wide ]―今日　僕が学んだのは君の謙虚さです[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev000494_MSG0034",
+      "style": 1,
+      "name": "成功するために僕も見習うとしましょう\nではまた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev000494_MSG0035",
+      "style": 1,
+      "name": "なるほど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev000494_MSG0036",
+      "style": 1,
+      "name": "様々な任務をこなし　経験を積んだと\nいうわけですか[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev000494_MSG0037",
+      "style": 1,
+      "name": "確かに君と初めて会った時に\n僕が押し付けた任務も\nあっさりとこなしていましたね[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev000494_MSG0038",
+      "style": 1,
+      "name": "自分が持っている力を生かすためには\n経験も必要ってことですね[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev000494_MSG0039",
+      "style": 1,
+      "name": "有用なアドバイス　ありがとうございました[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev000494_MSG0040",
+      "style": 1,
+      "name": "秘密の特訓はこれまでにして\n僕も君に負けないように\n任務を受けてきますよ[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev000494_MSG0041",
+      "style": 1,
+      "name": "手始めに10くらい同時にこなしてみますか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev000494_MSG0042",
+      "style": 1,
+      "name": "ではまた[ST:wide ]―[ST:wait ]"
+    }
+  ]
+}

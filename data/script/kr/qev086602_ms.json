@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086602_MSG0001",
+      "style": 0,
+      "name": "꽤 많이 모았다모~~[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086602_MSG0002",
+      "style": 0,
+      "name": "이 주변에서 회수할 수 있는 건\n이게 전부인 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086602_MSG0003",
+      "style": 0,
+      "name": "뭔가 도움 될 만한 정보가\n들어오면 좋겠는데 말이죠[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086602_MSG0004",
+      "style": 0,
+      "name": "이런, 한발 늦었군[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086602_MSG0005",
+      "style": 0,
+      "name": "더그 씨![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086602_MSG0006",
+      "style": 0,
+      "name": "역시 엘마야, 행동이 빨라[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086602_MSG0007",
+      "style": 0,
+      "name": "사령관이 말해 둔다는 게\n당신 팀이었구나[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086602_MSG0008",
+      "style": 0,
+      "name": "다른 팀도 있는 모양이야[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086602_MSG0009",
+      "style": 0,
+      "name": "가장 먼저 도착할 생각이었는데\n엘마에게는 당해 낼 수가 없네[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086602_MSG0010",
+      "style": 0,
+      "name": "그거 알아?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086602_MSG0011",
+      "style": 0,
+      "name": "지구 사변 때도 외계인 부대의 본진에\n맨 먼저 돌입한 게……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086602_MSG0011_2",
+      "style": 0,
+      "name": "엘마의 돌이었어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086602_MSG0012",
+      "style": 0,
+      "name": "네? 그랬나요!?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086602_MSG0013",
+      "style": 0,
+      "name": "옛날 일이야\n게다가 아무 의미 없는 짓이었고[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086602_MSG0014",
+      "style": 0,
+      "name": "그러고 보니 그 돌\n2인용이었지? 분명……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086602_MSG0015",
+      "style": 0,
+      "name": "이건 구조 신호예요!\n발신자는……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086602_MSG0016",
+      "style": 0,
+      "name": "이리나잖아![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086602_MSG0017",
+      "style": 0,
+      "name": "여기서 가깝네[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086602_MSG0018",
+      "style": 0,
+      "name": "먼저 간다, 엘마\n현장에서 합류하자![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086602_MSG0019",
+      "style": 0,
+      "name": "우리도 서두르자모![ST:wait ]"
+    }
+  ]
+}

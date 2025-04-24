@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev102602_MSG0001",
+      "style": 1,
+      "name": "申し訳ありませんが　輸送機は調整中です[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev102602_MSG0002",
+      "style": 1,
+      "name": "しばらくすれば飛行可能になりますので\n少々お待ちください[ST:wait ]"
+    }
+  ]
+}

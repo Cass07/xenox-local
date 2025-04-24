@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04090100_MSG0001",
+      "style": 0,
+      "name": "게티아 님, 저 녀석들 지구인입니다아[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04090100_MSG0002",
+      "style": 0,
+      "name": "흐음~[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs04090100_MSG0003",
+      "style": 0,
+      "name": "이 눈으로 보기 전까지는 믿을 수 없었지만\n아무래도 진짜였던 모양이구나[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs04090100_MSG0004",
+      "style": 0,
+      "name": "큭……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs04090100_MSG0005",
+      "style": 0,
+      "name": "바이어스인과는 다른 외계인이……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs04090100_MSG0006",
+      "style": 0,
+      "name": "지구인이라면 어쩔 건데요![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs04090100_MSG0007",
+      "style": 0,
+      "name": "섬멸할 것이다\n그것이 우리 그로우스의 의무[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs04090100_MSG0008",
+      "style": 0,
+      "name": "그로우스?\n그게 당신들 조직이란 말이지?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs04090100_MSG0009",
+      "style": 0,
+      "name": "그렇다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs04090100_MSG0010",
+      "style": 0,
+      "name": "네 녀석들 지구인은\n이 우주의 암세포 같은 존재[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs04090100_MSG0011",
+      "style": 0,
+      "name": "멸망시켜야 하는 것이다![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs04090100_MSG0012",
+      "style": 0,
+      "name": "상당히 제멋대로인 논리네\n그러기 위해 라이프를 파괴한 거야?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs04090100_MSG0013",
+      "style": 0,
+      "name": "이게 라이프라고 하는 건가[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs04090100_MSG0014",
+      "style": 0,
+      "name": "마치 원시인 같군\n상당히 시대에 뒤처진 기술을 사용하고 있어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs04090100_MSG0015",
+      "style": 0,
+      "name": "뭐, 좋다\n이것도 네 녀석들 지구인도 모두 없애 주겠다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs04090100_MSG0016",
+      "style": 0,
+      "name": "그게 우리 그로우스의 논리\n그로우스의 정의다![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs04090100_MSG0017",
+      "style": 0,
+      "name": "그렇다면 우리는 우리의 논리를 관철할 뿐이야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs04090100_MSG0018",
+      "style": 0,
+      "name": "좋다, 죽이는 보람이 있겠어\n잠만 자고 있는 녀석들보다 훨씬 말이지![ST:wait ]"
+    }
+  ]
+}

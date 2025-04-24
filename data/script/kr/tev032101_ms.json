@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev032101_MSG1001",
+      "style": 1,
+      "name": "우리의 우주선을 노리고 있는\n그로우스의 방공 병기는 세 군데 있으니까\n브레이크 부탁행![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev032101_MSG1002",
+      "style": 1,
+      "name": "그런 것쯤이야 평소라면 아무것도 아니지만\n불시착 때문에 우주선의 상태가\n안 좋단 말이징……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev032101_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev032101_SEL0011",
+      "style": 3,
+      "name": "마 논인에 관해 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev032101_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev032101_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev032101_SEL0071",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev032101_MSG0001",
+      "style": 1,
+      "name": "미와 르탄탄과 투투라가\n마 논인의 대표가 됐엉[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev032101_MSG0002",
+      "style": 1,
+      "name": "르탄탄은 기술 제공을 관리하고\n누구를 어디로 파견할지 정하는……\n매니지먼트가 특기양![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev032101_MSG0003",
+      "style": 1,
+      "name": "투투라는 마 논 기술로 만든 것을\n정직한 진심당에서 판매하는……\n장사의 달인이징![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev032101_MSG0004",
+      "style": 1,
+      "name": "그리고 미는 지구인과 이야기하면서\n피자를 먹는 외계인 문화 교류를\n적극적으로 하고 있엉![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev032101_MSG0008",
+      "style": 1,
+      "name": "오! [ST:playername ]!\n유의 정신에 미는 감동했엉![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev032101_MSG0009",
+      "style": 1,
+      "name": "유에게는 마 논 우주선을\n자유롭게 돌아다닐 권리를 줄 테니까[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev032101_MSG0010",
+      "style": 1,
+      "name": "곤란해하는 마 논이 있으면\n이야기를 들어 주라공!\n……친구잖앙!?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev032101_MSG0011",
+      "style": 1,
+      "name": "바이어스인이 NLA에 왔넹![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev032101_MSG0012",
+      "style": 1,
+      "name": "그들이 살 곳을 제공하기 위해서\n마 논 우주선의 좌현을 개방했엉[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev032101_MSG0013",
+      "style": 1,
+      "name": "짐을 놓던 곳이었으니까\n컨테이너가 정신없이 떠다니고 있어서\n좀 답답할지도 모르지만……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev032101_MSG0014",
+      "style": 1,
+      "name": "오르페인이 NLA에 왔넹![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev032101_MSG0015",
+      "style": 1,
+      "name": "식물이 없으면 불안하다고 하니까\n지구인의 화분이라는 걸 받아서 놔 봤엉![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev032101_MSG0016",
+      "style": 1,
+      "name": "그린이 있으니 뭔가 좋넹!\n마 논 우주선에도 커다란 나무를\n심을 수 없으려나?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev032101_MSG0017",
+      "style": 1,
+      "name": "자르보가인이 NLA에 왔넹![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev032101_MSG0018",
+      "style": 1,
+      "name": "쓰레기나 폐기물 같은\n우리에게 성가신 것이 음식이라니\n훌륭한 종족이넹[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev032101_MSG0019",
+      "style": 1,
+      "name": "덕분에 수고스러웠던 처리가 필요 없어져서\n모두 해피해졌엉![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev032101_MSG0020",
+      "style": 1,
+      "name": "라스인이 NLA에 왔넹![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev032101_MSG0021",
+      "style": 1,
+      "name": "전투를 해 온 사람들이니까\n마 논 우주선에 가만히 있으면\n심심하진 않을까 걱정했었는데[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev032101_MSG0022",
+      "style": 1,
+      "name": "수행이라든가 단련이라는 걸 하느라\n계속 바쁜 것 같앙[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev032101_MSG0023",
+      "style": 1,
+      "name": "우리도 구경하다 보면 살짝 즐거워![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev032101_MSG0024",
+      "style": 1,
+      "name": "마 논 우주선에 다양한 외계인이 와 줘서\n매우 떠들썩해졌넹![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev032101_MSG0025",
+      "style": 1,
+      "name": "처음에는 모두 불안해했지만\n같은 마음을 가진 동지끼리\n서로 격려하면서 여기까지 왔엉[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev032101_MSG0026",
+      "style": 1,
+      "name": "이것도 모두\n[ST:playername ] 덕분이양![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev032101_MSG0027",
+      "style": 1,
+      "name": "아무런 보상도 못 해 주지만\n감사의 마음을 프레젠트 포 유![ST:wait ]"
+    }
+  ]
+}

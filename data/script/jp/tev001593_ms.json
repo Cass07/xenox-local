@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001593_MSG0001",
+      "style": 1,
+      "name": "あら　[ST:playername ]\nもしかして　今の話って聞こえてたかしら？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001593_JNK0010",
+      "style": 4,
+      "name": "否定[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001593_SEL0011",
+      "style": 3,
+      "name": "聞こえなかったと否定する[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001593_JNK0020",
+      "style": 4,
+      "name": "推測[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001593_SEL0021",
+      "style": 3,
+      "name": "金儲けの話だったのでは\nないかと尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001593_MSG0008",
+      "style": 1,
+      "name": "なんだ　聞こえなかったの\n説明するのが面倒じゃない[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001593_MSG0009",
+      "style": 1,
+      "name": "あなたも知っておくといいわ\n真っ当なお金儲けの話よ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001593_MSG0011",
+      "style": 1,
+      "name": "その通りよ\nあなたは構わないけど\n他の人に聞かれたりしなかったわよね？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001593_MSG0013",
+      "style": 1,
+      "name": "人類はライフを確保して　NLAは完成するわ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001593_MSG0014",
+      "style": 1,
+      "name": "そうなったとき　経済の規模は\n今の何倍にもなる[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001593_MSG0015",
+      "style": 1,
+      "name": "今の企業の大半は政府の援助が\n入ってるけど　独立できる[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001593_MSG0016",
+      "style": 1,
+      "name": "ようやく地球時代のような自由な競争が始まり\n金儲けのチャンスが到来するわけね[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001593_MSG0017",
+      "style": 1,
+      "name": "こんな商機みすみす逃す手はないでしょ？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001593_JNK0030",
+      "style": 4,
+      "name": "質問[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001593_SEL0031",
+      "style": 3,
+      "name": "具体的にはどうやって\n儲けるのか尋ねる[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001593_JNK0040",
+      "style": 4,
+      "name": "助言[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001593_SEL0041",
+      "style": 3,
+      "name": "失敗して被害を\nこうむらないように注意する[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001593_MSG0023",
+      "style": 1,
+      "name": "ミラニウムは採り尽くせないほどに\nこの星にあふれてるからよくはないわね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001593_MSG0024",
+      "style": 1,
+      "name": "人口が増えれば　住む場所は\n問題になるでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001593_MSG0025",
+      "style": 1,
+      "name": "それからNLAのエネルギーも問題になりそう[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001593_MSG0026",
+      "style": 1,
+      "name": "食糧も心配よね\n今はB.B.だけど生身の身体になったとき\nここの食材を受け付けるかどうか……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001593_MSG0027",
+      "style": 1,
+      "name": "という感じで考えて行けば　何に投資すれば\nどうお金が儲けられるか分かるのじゃなくて？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001593_MSG0028",
+      "style": 1,
+      "name": "私はそのチャンスを活かして\n一気に夢に近づくつもりよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001593_MSG0029",
+      "style": 1,
+      "name": "時にはあなたの力を\n貸してもらうかもしれないけどね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001593_MSG0032",
+      "style": 1,
+      "name": "ありがたいお言葉ね\n重々承知してるわ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001593_MSG0033",
+      "style": 1,
+      "name": "私の夢のこと　知ってるでしょ？\nそれを叶えるまでは慎重に進めるわ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001593_MSG0034",
+      "style": 1,
+      "name": "あなたも　うますぎる話には\n引っかからないようにね[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33550100_MSG0010",
+      "style": 0,
+      "name": "무사했군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33550100_MSG0020",
+      "style": 0,
+      "name": "나 말인가? 보다시피 난 문제없다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33550100_MSG0030",
+      "style": 0,
+      "name": "혼자 돌아다니는 건 좋은 생각이 아닌 것 같아\n주위를 살펴보기만 했다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33550100_MSG0040",
+      "style": 0,
+      "name": "하지만 자네가 와 줬으니\n더 이상 기다릴 필요는 없겠군[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33550100_MSG0050",
+      "style": 0,
+      "name": "알과 아레스를 되찾고\n이 싸움을 끝내도록 하지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33550100_MSG0060",
+      "style": 0,
+      "name": "빼앗기기만 할 순 없어……\n살아남는 건 우리다[ST:wait ]"
+    }
+  ]
+}

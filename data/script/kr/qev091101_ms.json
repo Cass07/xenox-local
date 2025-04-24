@@ -1,0 +1,504 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091101_MSG0001",
+      "style": 0,
+      "name": "제군을 여기 모은 것에는 이유가 있다[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091101_MSG0002",
+      "style": 0,
+      "name": "최근 그로우스가 원초의 황야에 있는 거점에\n세력을 집결시키고 있다는 정보가 들어 왔다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091101_MSG0003",
+      "style": 0,
+      "name": "그러니 녀석들이 선수를 치기 전에 소수 정예로\n암반 요새를 공격하는 전격전을 벌일 생각이다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091101_MSG0004",
+      "style": 0,
+      "name": "나한테 딱 맞는 임무군[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091101_MSG0005",
+      "style": 0,
+      "name": "음, 크게 기대하고 있다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091101_MSG0006",
+      "style": 0,
+      "name": "프라이는 암반 요새를 기습할 부대를\n이끌어 주었으면 한다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091101_MSG0007",
+      "style": 0,
+      "name": "그래, 맡겨 줘![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091101_MSG0008",
+      "style": 0,
+      "name": "그리고 여기 있는 인원 절반은\nNLA 외곽의 방위를 맡아 주었으면 한다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091101_MSG0009",
+      "style": 0,
+      "name": "뭐야, 전원이 쳐들어가는 게 아니야?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091101_MSG0010",
+      "style": 0,
+      "name": "그랬다가는 이 도시의 방비가 허술해질 거다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091101_MSG0011",
+      "style": 0,
+      "name": "그로우스의 별동대가 습격이라도 하면\n순식간에 격파당하겠지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091101_MSG0012",
+      "style": 0,
+      "name": "그렇군……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091101_MSG0013",
+      "style": 0,
+      "name": "그러면, 저는 도시를 지킬게요……\n공격은 잘 못하니까요……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091101_MSG0014",
+      "style": 0,
+      "name": "알았다\n포그는 NLA 방위를 맡아라[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091101_MSG0015",
+      "style": 0,
+      "name": "랜드뱅크니까, 공격에 참가하는 것보다는\n방위가 적임이겠지[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091101_MSG0016",
+      "style": 0,
+      "name": "그리고…… 너는 어떻게 할 거지?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091101_JNK0010",
+      "style": 4,
+      "name": "공격"
+    },
+    {
+      "$id": 18,
+      "label": "qev091101_SEL0011",
+      "style": 3,
+      "name": "프라이와 함께 암반 요새를 급습한다"
+    },
+    {
+      "$id": 19,
+      "label": "qev091101_JNK0020",
+      "style": 4,
+      "name": "방위"
+    },
+    {
+      "$id": 20,
+      "label": "qev091101_SEL0021",
+      "style": 3,
+      "name": "포그와 함께 NLA를 방어한다"
+    },
+    {
+      "$id": 21,
+      "label": "qev091101_MSG0017",
+      "style": 0,
+      "name": "역시 너는 그쪽을 고르는군[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091101_MSG0018",
+      "style": 0,
+      "name": "날 믿고 따라와라!![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091101_MSG0019",
+      "style": 0,
+      "name": "아니, 너랑 같이 있으면\n내가 따라가는 경우가 많지[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091101_MSG0020",
+      "style": 0,
+      "name": "좋아, 내 모든 걸 너한테 맡기겠어![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091101_MSG0021",
+      "style": 0,
+      "name": "그러면 작전 내용을 설명하지[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091101_MSG0022",
+      "style": 0,
+      "name": "프라이와 공격 팀은 암반 요새로 향해라[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091101_MSG0023",
+      "style": 0,
+      "name": "그곳에서 NLA 습격을 준비 중인 전력을\n철저하게 파괴해 주었으면 한다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091101_MSG0024",
+      "style": 0,
+      "name": "녀석들을 쓰러뜨리면\n작전도 중지될 테지[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091101_MSG0025",
+      "style": 0,
+      "name": "무언가 질문 있나?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091101_MSG0026",
+      "style": 0,
+      "name": "그로우스 거점에는 그 녀석들 말고\n다른 적도 있잖아? 그쪽은 어떻게 하지?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091101_MSG0027",
+      "style": 0,
+      "name": "이번 작전의 목표는 앞서 언급한 적을 격파하는 것이다\n무리해서 졸개들까지 잡을 필요는 없다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091101_MSG0028",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091101_MSG0029",
+      "style": 0,
+      "name": "다른 질문은 없나?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091101_MSG0030",
+      "style": 0,
+      "name": "포그와 잔류 블레이드에게는 이후에 지시를 내리겠다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091101_MSG0031",
+      "style": 0,
+      "name": "이상, 각 대원의 건투를 빈다![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091101_MSG0032",
+      "style": 0,
+      "name": "당신이 있어 준다면 든든하죠……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091101_MSG0033",
+      "style": 0,
+      "name": "그렇군, NLA 방위는\n포그와 너라면 충분하겠지[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091101_MSG0034",
+      "style": 0,
+      "name": "나머지 멤버들은\n프라이와 함께 작전을 수행하도록[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091101_MSG0035",
+      "style": 0,
+      "name": "그러면 작전 내용을 설명하지[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091101_MSG0036",
+      "style": 0,
+      "name": "프라이와 공격 팀은 암반 요새로 향하여\n적 전력을 철저하게 파괴해 주었으면 한다[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091101_MSG0037",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091101_MSG0038",
+      "style": 0,
+      "name": "포그와 너는 도시 동쪽에서 방어 태세를 갖춰라[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091101_MSG0039",
+      "style": 0,
+      "name": "하지만 우리가 공격하는 건 서쪽이잖아?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091101_MSG0040",
+      "style": 0,
+      "name": "그래, 서쪽의 적은 공격에 대응하는 게 고작이겠지[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091101_MSG0041",
+      "style": 0,
+      "name": "하지만 NLA 동쪽에도 적진이 있어\n적들은 서쪽을 돕는 것보다 도시 공격을 우선할 거다[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091101_MSG0042",
+      "style": 0,
+      "name": "……암반 요새보다도\nNLA가 더 가까우니까요[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev091101_MSG0043",
+      "style": 0,
+      "name": "그래, 적이 오면 우리는 선수를 빼앗기고 만다[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev091101_MSG0044",
+      "style": 0,
+      "name": "도시를 지키기 위해 암반 요새 공격을\n포기해야만 하는 상황에 놓일 수도 있다[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev091101_MSG0045",
+      "style": 0,
+      "name": "아하, 적의 작전을 예상해서 짠 책략이군[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091101_MSG0046",
+      "style": 0,
+      "name": "하지만 만약 형네 팀의 배후에\n적의 지원군이 들이닥치기라도 하면……[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091101_MSG0047",
+      "style": 0,
+      "name": "걱정하지 마, 지금까지 그로우스와 교전했던\n경험을 고려하면 가능성은 0에 가까워[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091101_MSG0048",
+      "style": 0,
+      "name": "그렇구나……\n그래도 형…… 조심해[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091101_MSG0049",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091101_MSG0050",
+      "style": 0,
+      "name": "저기……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091101_MSG0051",
+      "style": 0,
+      "name": "너 말이야\n포그랑 같이 임무 수행한 적 있지?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091101_MSG0052",
+      "style": 0,
+      "name": "그 녀석은 어땠어?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091101_JNK0030",
+      "style": 4,
+      "name": "칭찬"
+    },
+    {
+      "$id": 58,
+      "label": "qev091101_SEL0031",
+      "style": 3,
+      "name": "우수했다며 칭찬한다"
+    },
+    {
+      "$id": 59,
+      "label": "qev091101_JNK0040",
+      "style": 4,
+      "name": "친밀감"
+    },
+    {
+      "$id": 60,
+      "label": "qev091101_SEL0041",
+      "style": 3,
+      "name": "천연덕스럽고 특이한 성격이었다고\n미소 지으며 끄덕인다"
+    },
+    {
+      "$id": 61,
+      "label": "qev091101_JNK0050",
+      "style": 4,
+      "name": "솔직"
+    },
+    {
+      "$id": 62,
+      "label": "qev091101_SEL0051",
+      "style": 3,
+      "name": "조금 껄끄럽다고 솔직하게 말한다"
+    },
+    {
+      "$id": 63,
+      "label": "qev091101_MSG0053",
+      "style": 0,
+      "name": "그렇군……[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev091101_MSG0054",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev091101_MSG0055",
+      "style": 0,
+      "name": "난 동생이 박정한 녀석이라고 생각해\n가족조차 지키려 하지 않는 냉혈한 말이야[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev091101_MSG0056",
+      "style": 0,
+      "name": "말수가 적은 것도 천연덕스러운 것도\n내가 보기에는 꺼림칙해[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev091101_MSG0057",
+      "style": 0,
+      "name": "무슨 생각을 하는 건지 전혀 알 수가 없어[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev091101_JNK0060",
+      "style": 4,
+      "name": "반론"
+    },
+    {
+      "$id": 69,
+      "label": "qev091101_SEL0061",
+      "style": 3,
+      "name": "포그가 말한 진실을 알려 준다"
+    },
+    {
+      "$id": 70,
+      "label": "qev091101_JNK0070",
+      "style": 4,
+      "name": "침묵"
+    },
+    {
+      "$id": 71,
+      "label": "qev091101_SEL0071",
+      "style": 3,
+      "name": "프라이의 말을 가만히 듣는다"
+    },
+    {
+      "$id": 72,
+      "label": "qev091101_MSG0058",
+      "style": 0,
+      "name": "아버지가 지구에 남은 건 본인의 선택이라고……?[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev091101_MSG0059",
+      "style": 0,
+      "name": "흥, 난 그런 말 안 믿어[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev091101_MSG0060",
+      "style": 0,
+      "name": "아버지는 사람들의 생명을 지키는 일에\n그 누구보다도 최선을 다했어[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev091101_MSG0061",
+      "style": 0,
+      "name": "흰고래의 일원이 되어\n이 우주선을 지키는 일에 적임이잖아?[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev091101_MSG0062",
+      "style": 0,
+      "name": "사명감 넘치는 아버지가\n탑승을 거절했을 리 없다고[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev091101_MSG0063",
+      "style": 0,
+      "name": "포그는 나와 달리 천재적인 재능이 있어서\n아무렇지도 않게 엄청난 일을 해내는 녀석이었지[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev091101_MSG0064",
+      "style": 0,
+      "name": "하지만…… 이해할 수가 없어\n녀석은 아버지 목숨을 아무렇지도 않게 여긴다고[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev091101_MSG0065",
+      "style": 0,
+      "name": "아무튼 됐어, 지금은 임무가 먼저지[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev091101_MSG0066",
+      "style": 0,
+      "name": "이럴 때는 얼른 일 끝내고\n다이너에서 한잔[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev091101_MSG0067",
+      "style": 0,
+      "name": "……아니, 천 잔 정도는 마셔야겠는데[ST:wait ]"
+    }
+  ]
+}

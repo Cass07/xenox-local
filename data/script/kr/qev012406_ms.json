@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012406_MSG0001",
+      "style": 1,
+      "name": "고마워\n너를 평생 잊을 수 없을 거야\n내 역사 안에 이름이 새겨졌으니까 말이지[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012406_MSG0002",
+      "style": 1,
+      "name": "시스카의 건성으로 일하는 면이\n정말 너무 싫지만\n앞으로도 어떻게든 해 볼게[ST:wait ]"
+    }
+  ]
+}

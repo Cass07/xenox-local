@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085801_MSG0001",
+      "style": 0,
+      "name": "誰か来たですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085801_MSG0002",
+      "style": 0,
+      "name": "いやあ　助かるぜ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085801_MSG0003",
+      "style": 0,
+      "name": "途中　危険地帯も通らなきゃならないんでな\n腕利きのチームに受けてもらいたかったんだ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085801_MSG0004",
+      "style": 0,
+      "name": "パスファインダーが補給物資の不足で\n孤立するなんて　間の抜けた話ね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085801_MSG0005",
+      "style": 0,
+      "name": "誰のチーム？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085801_MSG0006",
+      "style": 0,
+      "name": "それが　ラオのだ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085801_MSG0007",
+      "style": 0,
+      "name": "ラオさんの　信じられない\nいかにも切れ者って感じなのに[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085801_MSG0008",
+      "style": 0,
+      "name": "全くですも\nタツと同じくらい切れ味鋭い感じですも！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085801_MSG0009",
+      "style": 0,
+      "name": "まあ　あいつ本人は\nできるヤツなんだがなぁ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085801_MSG0010",
+      "style": 0,
+      "name": "どうかしたの？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085801_MSG0011",
+      "style": 0,
+      "name": "最近あの野郎　任務をチームメンバーに\n任せたままいなくなる事が多いんだ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085801_MSG0012",
+      "style": 0,
+      "name": "全くどこで遊び呆けているんだか[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085801_MSG0019",
+      "style": 0,
+      "name": "心配"
+    },
+    {
+      "$id": 14,
+      "label": "qev085801_MSG0020",
+      "style": 0,
+      "name": "何か事情があるのか尋ねる"
+    },
+    {
+      "$id": 15,
+      "label": "qev085801_MSG0021",
+      "style": 0,
+      "name": "不満"
+    },
+    {
+      "$id": 16,
+      "label": "qev085801_MSG0022",
+      "style": 0,
+      "name": "ひどい奴だとラオをなじる"
+    },
+    {
+      "$id": 17,
+      "label": "qev085801_MSG0013",
+      "style": 0,
+      "name": "だったら俺に相談してくれても\nよさそうなもんだよな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085801_MSG0014",
+      "style": 0,
+      "name": "おっちゃん\nジンボーがないからしょうがないですも[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085801_MSG0015",
+      "style": 0,
+      "name": "そうか　人望がなぁ[ST:wide ]―\nって　なんだとぉ！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085801_MSG0016",
+      "style": 0,
+      "name": "まあ　そう言われてもしょうがないわな\n俺の方からも注意してやらんとなぁ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085801_MSG0017",
+      "style": 0,
+      "name": "ラオの問題はともかく\n彼のチームを放ってはおけないわね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085801_MSG0018",
+      "style": 0,
+      "name": "ああ　急いでくれ\n頼んだぜ[ST:wait ]"
+    }
+  ]
+}

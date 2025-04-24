@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev100901_MSG0001",
+      "style": 1,
+      "name": "귀하께서 저의 의뢰를 받아 주신\n블레이드분이시군요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev100901_MSG0002",
+      "style": 1,
+      "name": "이번에 제게 필요한 미라늄의 양은 900gm\n아무래도 귀하께서는……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev100901_MSG0003",
+      "style": 1,
+      "name": "그 정도의 미라늄은 없으신 것 같군요\n부디 미라늄을 모으신 후에\n다시 방문해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev100901_MSG0004",
+      "style": 1,
+      "name": "귀하께서 저의 의뢰를 받아 주신\n블레이드분이시군요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev100901_MSG0005",
+      "style": 1,
+      "name": "이번에 제게 필요한 미라늄의 양은 900gm\n흐음, 귀하께서는……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev100901_MSG0006",
+      "style": 1,
+      "name": "900gm을 가지고 계신 것 같군요\n부디 그것을 양보해 주실 수 없겠습니까?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev100901_JNK0010",
+      "style": 4,
+      "name": "건네준다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev100901_SEL0011",
+      "style": 3,
+      "name": "미라늄 900gm을 건네준다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev100901_JNK0020",
+      "style": 4,
+      "name": "건네주지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev100901_SEL0021",
+      "style": 3,
+      "name": "아직은 건네주지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev100901_MSG0007",
+      "style": 1,
+      "name": "미라늄 900gm……\n확실히 받았습니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev100901_MSG0008",
+      "style": 1,
+      "name": "이건 곧장 자원 부족에 허덕이는\n암즈 컴퍼니에 보내도록 하겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev100901_MSG0009",
+      "style": 1,
+      "name": "협력해 주셔서 감사합니다\n앞으로도 NLA의 발전을 위해\n더 많은 미라늄을 채굴해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev100901_MSG0010",
+      "style": 1,
+      "name": "그런가요……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev100901_MSG0011",
+      "style": 1,
+      "name": "그러면 건네주어도 될 만큼의 미라늄이\n확보된 후에 다시 방문해 주세요[ST:wait ]"
+    }
+  ]
+}

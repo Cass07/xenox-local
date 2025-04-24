@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12120100_MSG0001",
+      "style": 0,
+      "name": "ルクザール！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12120100_MSG0002",
+      "style": 0,
+      "name": "まだ生きていたのか！[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs12120100_MSG0003",
+      "style": 0,
+      "name": "地球人どもめ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12120100_MSG0004",
+      "style": 0,
+      "name": "例え貴様らが安全装置だとしても\nデクのうちに根絶やしにしてしまえば！[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs12120100_MSG0005",
+      "style": 0,
+      "name": "セントラルライフ制御システムより\n通達します[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs12120100_MSG0006",
+      "style": 0,
+      "name": "本基は敵対行動による攻撃にさらされています\nこれより内部防衛システムを起動します[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12120100_MSG0007",
+      "style": 0,
+      "name": "あの脳みそ野郎\n制御システムを破壊する気か！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12120100_MSG0008",
+      "style": 0,
+      "name": "やめろ　ルクザール[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12120100_MSG0009",
+      "style": 0,
+      "name": "気安く呼ぶな！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12120100_MSG0010",
+      "style": 0,
+      "name": "我らこそ　癌細胞だとでも言うつもりか！\n滅びてたまるかぁっ！[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12120100_MSG0011",
+      "style": 0,
+      "name": "皆　あいつを止めて！\nこのままでは制御システムが[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs12120100_MSG0012",
+      "style": 0,
+      "name": "了解！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs12120100_MSG0013",
+      "style": 0,
+      "name": "待ってください！\nあそこ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12120100_MSG0014",
+      "style": 0,
+      "name": "防衛システム　起動します[ST:wide ][ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs12120100_MSG0015",
+      "style": 0,
+      "name": "あれってまさか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12120100_MSG0016",
+      "style": 0,
+      "name": "おおお[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs12120100_MSG0017",
+      "style": 0,
+      "name": "地球からの移民を培養するシステムが\n生体兵器を生み出す防衛機構を兼ねているの[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12120100_MSG0018",
+      "style": 0,
+      "name": "でも　あれは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs12120100_MSG0019",
+      "style": 0,
+      "name": "あんな[ST:wide ]―　あんなバケモノが\n防衛機構だっていうの[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12120100_MSG0020",
+      "style": 0,
+      "name": "システムが暴走してるんだわ\n早く止めないと！[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs12120100_MSG0021",
+      "style": 0,
+      "name": "醜い　実に醜い[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs12120100_MSG0022",
+      "style": 0,
+      "name": "貴様ら地球人のように醜い姿をしておるわ！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12120100_MSG0023",
+      "style": 0,
+      "name": "てめえに言われたくねえ！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12120100_MSG0024",
+      "style": 0,
+      "name": "ラオ！[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs12120100_MSG0025",
+      "style": 0,
+      "name": "ラオさん！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs12120100_MSG0026",
+      "style": 0,
+      "name": "貴様ぁ！[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs12120100_MSG0027",
+      "style": 0,
+      "name": "こいつは俺に任せろ！\nお前らは防衛システムを止めろ！[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs12120100_MSG0028",
+      "style": 0,
+      "name": "分かったわ[ST:wait ]\n"
+    }
+  ]
+}

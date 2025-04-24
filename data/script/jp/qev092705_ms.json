@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092705_MSG0010",
+      "style": 0,
+      "name": "もう集め終えたのか？\nさすがブレイドは仕事が早いな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092705_MSG0020",
+      "style": 0,
+      "name": "ああ　これだけあれば十分だ\nありがとう[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092705_MSG0030",
+      "style": 0,
+      "name": "さっきの戦闘で熱を持ちすぎたな\n基盤が耐えきれなかったらしい[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092705_MSG0040",
+      "style": 0,
+      "name": "冷却装置にこの素材を取り付けて\n取り急ぎ処置をすれば[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092705_MSG0050",
+      "style": 0,
+      "name": "[ST:wide ]―よし　この程度なら\nおれでもなんとかなりそうだ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092705_MSG0060",
+      "style": 0,
+      "name": "少し待っていてくれ\nすぐに修理する[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092705_MSG0070",
+      "style": 0,
+      "name": "よし　これで動くはずだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092705_MSG0080",
+      "style": 0,
+      "name": "しかし[ST:wide ]―\nここまで安定性を欠くなんてな[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092705_MSG0090",
+      "style": 0,
+      "name": "ロールアウトも目前だっていうのに\n今になって不備が[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092705_JNK0100",
+      "style": 4,
+      "name": "称賛"
+    },
+    {
+      "$id": 11,
+      "label": "qev092705_SEL0110",
+      "style": 3,
+      "name": "いいドールだと伝える"
+    },
+    {
+      "$id": 12,
+      "label": "qev092705_MSG0120",
+      "style": 0,
+      "name": "ああ　おれもそう思うよ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092705_MSG0130",
+      "style": 0,
+      "name": "そうでなくちゃ困るぐらいさ\nようやく完成にこぎつけたんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092705_JNK0140",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 15,
+      "label": "qev092705_SEL0150",
+      "style": 3,
+      "name": "壊れた理由を聞く"
+    },
+    {
+      "$id": 16,
+      "label": "qev092705_MSG0160",
+      "style": 0,
+      "name": "そうだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092705_MSG0170",
+      "style": 0,
+      "name": "ここでそれを調べるのは難しい\n専門家の手を借りないとな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092705_MSG0180",
+      "style": 0,
+      "name": "だが[ST:wide ]―\n操縦に難があるのは確かだ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev092705_MSG0190",
+      "style": 0,
+      "name": "ピーキーというべきか\nどうにも直感的じゃないというか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev092705_MSG0200",
+      "style": 0,
+      "name": "熱に耐えきれないということは\n操縦時に想定外の負荷が[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev092705_MSG0210",
+      "style": 0,
+      "name": "[ST:wide ]―あとで\nアリシャに報告しておかないとな[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev092705_MSG0220",
+      "style": 0,
+      "name": "NLAに戻ろう\nお前もついてきてくれないか？[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092705_MSG0230",
+      "style": 0,
+      "name": "お前の依頼主は　おそらくおれの知り合いだ\n改めて紹介するよ[ST:wait ]"
+    }
+  ]
+}

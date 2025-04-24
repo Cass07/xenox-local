@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev002411_MSG0010",
+      "style": 1,
+      "name": "드디어 최종 결전이다모!\n타츠도 마지막까지 모두와 함께할 거다모![ST:wait ]"
+    }
+  ]
+}

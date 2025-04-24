@@ -1,0 +1,618 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32020100_MSG0010",
+      "style": 0,
+      "name": "보이드의 출현 이후[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32020100_MSG0020",
+      "style": 0,
+      "name": "각지에서 모습을 숨기고 있던 그로우스 잔당이\n다시 움직임을 보이고 있다네[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32020100_MSG0030",
+      "style": 0,
+      "name": "소실 현상이나 고스트는\n그들에게도 위협일 테지만[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32020100_MSG0040",
+      "style": 0,
+      "name": "새로운 목적을 얻어\n사기가 오른 거겠지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32020100_MSG0050",
+      "style": 0,
+      "name": "목적……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32020100_MSG0060",
+      "style": 0,
+      "name": "보이드가 있는 부유 대륙인가[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32020100_MSG0070",
+      "style": 0,
+      "name": "그 장소를 성지로 삼아 보이드의 목소리를\n들은 자들의 순례가 시작됐다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32020100_MSG0080",
+      "style": 0,
+      "name": "창조주와 함께 신세계로 향하기 위해……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32020100_MSG0090",
+      "style": 0,
+      "name": "그건 잔당으로 전락한 채[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32020100_MSG0100",
+      "style": 0,
+      "name": "은둔자 같은 나날을 보내던 그로우스에게는[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32020100_MSG0110",
+      "style": 0,
+      "name": "최고의 동기가 되지[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32020100_MSG0120",
+      "style": 0,
+      "name": "그럼 조용히 집결하면 될 텐데[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32020100_MSG0130",
+      "style": 0,
+      "name": "왜 여기저기서 분쟁을 일으키는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32020100_MSG0140",
+      "style": 0,
+      "name": "활기가 도는 걸 기회 삼아[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32020100_MSG0150",
+      "style": 0,
+      "name": "폭동이니 약탈이니, 아주 제멋대로 굴죠[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32020100_MSG0160",
+      "style": 0,
+      "name": "참을 수가 없네요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32020100_MSG0170",
+      "style": 0,
+      "name": "원래는 서멀의 후예인 우리를\n제거할 목적으로 활동했던 군대다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32020100_MSG0180",
+      "style": 0,
+      "name": "그게 본성이기 때문이겠지[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32020100_MSG0190",
+      "style": 0,
+      "name": "이것도 살아남기 위한 투쟁이라는 건가[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32020100_MSG0200",
+      "style": 0,
+      "name": "이 미라에서 살아가려고[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32020100_MSG0210",
+      "style": 0,
+      "name": "이곳을 안주의 땅, 제2의 고향으로 삼으려고\n여기까지 힘써 왔건만……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32020100_MSG0220",
+      "style": 0,
+      "name": "소실 현상, 고스트, 그로우스……\n온갖 위협으로부터 동포를 지켜야만 한다……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32020100_MSG0240",
+      "style": 0,
+      "name": "그러기 위해서는……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32020100_MSG0250",
+      "style": 0,
+      "name": "보이드에게서 코어를 되찾아\n다른 세계로 전이해야 한다[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32020100_MSG0260",
+      "style": 0,
+      "name": "즉, 이 미라를 버리는 것 외에 방법이 없다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32020100_MSG0270",
+      "style": 0,
+      "name": "결국[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32020100_MSG0280",
+      "style": 0,
+      "name": "제2차 범이민 계획이라는 거로군[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32020100_MSG0290",
+      "style": 0,
+      "name": "모처럼 루크자르 녀석을 쫓아내고\n구역을 넓히면서 상황이 좋아지고 있었는데……[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32020100_MSG0300",
+      "style": 0,
+      "name": "그러게요[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32020100_MSG0310",
+      "style": 0,
+      "name": "이곳 생활도 익숙해지기 시작했는데 말이죠……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32020100_JNK0010",
+      "style": 4,
+      "name": "슬퍼한다"
+    },
+    {
+      "$id": 32,
+      "label": "xs32020100_SEL0010",
+      "style": 3,
+      "name": "버리고 싶지 않다고 개탄한다"
+    },
+    {
+      "$id": 33,
+      "label": "xs32020100_MSG0320",
+      "style": 0,
+      "name": "그야말로 단장지애로군요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32020100_JNK0020",
+      "style": 4,
+      "name": "포기한다"
+    },
+    {
+      "$id": 35,
+      "label": "xs32020100_SEL0020",
+      "style": 3,
+      "name": "어쩔 수 없다며 마음을 정리한다"
+    },
+    {
+      "$id": 36,
+      "label": "xs32020100_MSG0330",
+      "style": 0,
+      "name": "뭐, 그렇지[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs32020100_MSG0340",
+      "style": 0,
+      "name": "알고는 있지만……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs32020100_MSG0350",
+      "style": 0,
+      "name": "모두의 마음은 잘 안다[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs32020100_MSG0360",
+      "style": 0,
+      "name": "하지만[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs32020100_MSG0370",
+      "style": 0,
+      "name": "현실을 직시해야 해[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs32020100_MSG0380",
+      "style": 0,
+      "name": "소실 현상은 멈추지 않고 영역을 넓혀 가며\n꾸준히 이 행성을 삼키고 있다[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs32020100_MSG0390",
+      "style": 0,
+      "name": "이 사실은 변하지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs32020100_MSG0400",
+      "style": 0,
+      "name": "이번에는 지구종만으로 한정하지 않는다[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs32020100_MSG0410",
+      "style": 0,
+      "name": "미라에 사는 『모든 종족』을 탈출시킨다[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs32020100_MSG0420",
+      "style": 0,
+      "name": "모든 종족……[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs32020100_MSG0430",
+      "style": 0,
+      "name": "물론 우리 제안에 동의한\n『모든 종족』이다[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs32020100_MSG0440",
+      "style": 0,
+      "name": "안타깝지만[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs32020100_MSG0450",
+      "style": 0,
+      "name": "의사소통이 불가능한 생명종은\n기본적으로 포함되지 않아[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs32020100_MSG0460",
+      "style": 0,
+      "name": "그건 참……[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs32020100_MSG0470",
+      "style": 0,
+      "name": "뭐랄까, 이기적이군요[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs32020100_JNK0030",
+      "style": 4,
+      "name": "분노"
+    },
+    {
+      "$id": 52,
+      "label": "xs32020100_SEL0030",
+      "style": 3,
+      "name": "생명을 선별해서는 안 된다고 항의한다"
+    },
+    {
+      "$id": 53,
+      "label": "xs32020100_MSG0480",
+      "style": 0,
+      "name": "자네 마음은 알아[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs32020100_MSG0490",
+      "style": 0,
+      "name": "나도 이러고 싶지 않다[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs32020100_MSG0500",
+      "style": 0,
+      "name": "하지만 현실적으로 어렵다[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs32020100_MSG0510",
+      "style": 0,
+      "name": "유해한 것, 흉포한 것 등 다양한 종이 있지[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs32020100_MSG0520",
+      "style": 0,
+      "name": "남은 시간과 지금 있는 대원만으로는\n모두를 거둘 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs32020100_JNK0040",
+      "style": 4,
+      "name": "포기"
+    },
+    {
+      "$id": 59,
+      "label": "xs32020100_SEL0040",
+      "style": 3,
+      "name": "현실적으로 어렵다며 납득한다"
+    },
+    {
+      "$id": 60,
+      "label": "xs32020100_MSG0530",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs32020100_MSG0540",
+      "style": 0,
+      "name": "가능하다면 이러고 싶지 않다[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs32020100_MSG0550",
+      "style": 0,
+      "name": "하지만 인류는 지금까지 몇 번이고\n자신들의 상황에 따라 생명을 선별해 왔다[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs32020100_MSG0560",
+      "style": 0,
+      "name": "신이 아니야[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs32020100_MSG0570",
+      "style": 0,
+      "name": "이기적인 죄를 짊어지고 사는\n하나의 생명체일 뿐이지[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs32020100_MSG0580",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs32020100_MSG0590",
+      "style": 0,
+      "name": "그렇다고 해도 모든 종족이라는 게[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs32020100_MSG0595",
+      "style": 0,
+      "name": "가능한 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs32020100_MSG0600",
+      "style": 0,
+      "name": "맞아요[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs32020100_MSG0610",
+      "style": 0,
+      "name": "지금부터 탈출용 우주선을 만들려면[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs32020100_MSG0620",
+      "style": 0,
+      "name": "우주선 크기도 그렇고\n상당한 시간이 필요할 겁니다[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs32020100_MSG0630",
+      "style": 0,
+      "name": "우주선에 관해서는 마 논인과의\n협력 관계를 맺었네[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs32020100_MSG0640",
+      "style": 0,
+      "name": "NLA에 떠 있는\n저 마 논 우주선을 사용하는 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs32020100_MSG0650",
+      "style": 0,
+      "name": "그런 거지[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs32020100_MSG0660",
+      "style": 0,
+      "name": "계산상으로 저 우주선이라면\n모든 종족을 수용할 수 있을 걸세[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs32020100_MSG0670",
+      "style": 0,
+      "name": "아레스를 사용한 전이 시스템 구축이나[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs32020100_MSG0680",
+      "style": 0,
+      "name": "센트럴 라이프의 원형질 용액 반입을 포함한\n여러 가지 개조는 필요하지만[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs32020100_MSG0690",
+      "style": 0,
+      "name": "서로 협력해 나가면\n소실 현상이 오기 전에 끝날 걸세[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs32020100_MSG0700",
+      "style": 0,
+      "name": "옛말에 이르기를 일석삼조라 했죠[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs32020100_MSG0710",
+      "style": 0,
+      "name": "그래, 모두 만사형통이라는 거지[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "xs32020100_MSG0720",
+      "style": 0,
+      "name": "확인 가능한 종족의 지역 사회에도\n계획 내용을 전달했네[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs32020100_MSG0730",
+      "style": 0,
+      "name": "미라와 운명을 함께하겠다고\n거절한 자들도 있는 듯하지만[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs32020100_MSG0740",
+      "style": 0,
+      "name": "대부분은 NLA를 향해 이동을 시작했네[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs32020100_MSG0750",
+      "style": 0,
+      "name": "느긋하게 있을 시간이 없군[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs32020100_MSG0760",
+      "style": 0,
+      "name": "그렇네[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs32020100_MSG0770",
+      "style": 0,
+      "name": "지금부터 소속된 모든 블레이드 대원은[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs32020100_MSG0780",
+      "style": 0,
+      "name": "이 계획을 성공시키는 게 최우선 사항이다[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "xs32020100_MSG0790",
+      "style": 0,
+      "name": "현 단계에서 할 일은 2가지[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "xs32020100_MSG0800",
+      "style": 0,
+      "name": "탈출선 건조 협력과\nNLA 이주 희망자 보조다[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "xs32020100_MSG0810",
+      "style": 0,
+      "name": "지금은 비상사태다[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "xs32020100_MSG0820",
+      "style": 0,
+      "name": "소속 유니언과 관련 없는 임무를\n수행할 수도 있네[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "xs32020100_MSG0830",
+      "style": 0,
+      "name": "준비해 두게[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "xs32020100_MSG0840",
+      "style": 0,
+      "name": "알겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "xs32020100_MSG0841",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 94,
+      "label": "xs32020100_MSG0842",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 95,
+      "label": "xs32020100_MSG0843",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 96,
+      "label": "xs32020100_MSG0844",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 97,
+      "label": "xs32020100_MSG0845",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 98,
+      "label": "xs32020100_MSG0846",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 99,
+      "label": "xs32020100_MSG0847",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 100,
+      "label": "xs32020100_MSG0848",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

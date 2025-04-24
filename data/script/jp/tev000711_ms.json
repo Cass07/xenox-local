@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000711_MSG0010",
+      "style": 1,
+      "name": "やれやれ……\n一気に問題が山積みになっちまったな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000711_MSG0020",
+      "style": 1,
+      "name": "ま　とにもかくにも\n現場は俺達でなんとかするしかないな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000711_MSG0030",
+      "style": 1,
+      "name": "お前さんは相変わらず任務か？\nそっちがよければ付き合うぜ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000711_JNK0040",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 5,
+      "label": "tev000711_SEL0050",
+      "style": 3,
+      "name": "ダグをメンバーに加える"
+    },
+    {
+      "$id": 6,
+      "label": "tev000711_MSG0060",
+      "style": 1,
+      "name": "よし　いざ出撃といくか！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000711_JNK0070",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 8,
+      "label": "tev000711_SEL0080",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 9,
+      "label": "tev000711_MSG0090",
+      "style": 1,
+      "name": "大変なのはお互い様だが……\nあんまり背負い込むなよ？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000711_MSG0100",
+      "style": 1,
+      "name": "やっぱり大一番の戦いには\nこのメンツじゃないとな[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000711_MSG0110",
+      "style": 1,
+      "name": "過酷な任務になるだろうが\nエルマやお前さんがいると\n何となく大丈夫って気がするんだよ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000711_MSG0120",
+      "style": 1,
+      "name": "こういう時の勘はよく当たるんだ\nま　お互い気張っていこうや[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs31110100_MSG0005",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "xs31110100_MSG0010",
+      "style": 0,
+      "name": "다들 모여 있군[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs31110100_MSG0020",
+      "style": 0,
+      "name": "모르는 얼굴도 있지만……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs31110100_MSG0030",
+      "style": 0,
+      "name": "SF 모임은 싫어하지 않는다고?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs31110100_MSG0040",
+      "style": 0,
+      "name": "응? 무슨 말인가모?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs31110100_MSG0050",
+      "style": 0,
+      "name": "너희를 만나서 반갑대[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs31110100_MSG0060",
+      "style": 0,
+      "name": "멋져요! 사교적인 분이군요![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs31110100_MSG0080",
+      "style": 0,
+      "name": "걱정을 끼쳤네……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs31110100_MSG0090",
+      "style": 0,
+      "name": "공주님[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs31110100_MSG0100",
+      "style": 0,
+      "name": "그렇게 조심스럽게 굴지 마[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs31110100_MSG0110",
+      "style": 0,
+      "name": "감동의 재회잖냐[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs31110100_MSG0120",
+      "style": 0,
+      "name": "위터는 어째서\n아레스의 코어를 빼앗아 간 거야?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs31110100_MSG0130",
+      "style": 0,
+      "name": "뭐야, 섭섭하게[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs31110100_MSG0140",
+      "style": 0,
+      "name": "얼버무리지 마[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs31110100_MSG0150",
+      "style": 0,
+      "name": "자세히 알려 줘[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs31110100_MSG0160",
+      "style": 0,
+      "name": "……알겠어[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs31110100_MSG0170",
+      "style": 0,
+      "name": "순서대로 말할게[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs31110100_MSG0180",
+      "style": 0,
+      "name": "다만, 우선 그쪽에 대해서도 알려 줘[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs31110100_MSG0190",
+      "style": 0,
+      "name": "많은 일이 있었던 건 마찬가지잖아[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs31110100_MSG0200",
+      "style": 0,
+      "name": "그리고 아레스 말인데, 분석을 부탁할 수 있을까?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs31110100_MSG0210",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs31110100_MSG0220",
+      "style": 0,
+      "name": "이야기는 나중에 하자[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs31110100_MSG0230",
+      "style": 0,
+      "name": "여기에 있으면 또 습격당할지도 몰라[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs31110100_MSG0240",
+      "style": 0,
+      "name": "당신과 아레스를 운송할 걸 준비할게[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs31110100_MSG0250",
+      "style": 0,
+      "name": "부끄러워하지 않아도 되는데 말이야[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs31110100_MSG0260",
+      "style": 0,
+      "name": "저 사람이 영웅……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs31110100_MSG0270",
+      "style": 0,
+      "name": "알로이스 브루놀트……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs31110100_MSG0280",
+      "style": 0,
+      "name": "맞나요?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs31110100_MSG0290",
+      "style": 0,
+      "name": "직접 만나는 건 처음인가?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs31110100_MSG0300",
+      "style": 0,
+      "name": "우리가 대령님 팀에 배속됐을 때는[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs31110100_MSG0310",
+      "style": 0,
+      "name": "이미 승진해 있어서\n실제로 만날 일은 없었지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs31110100_MSG0320",
+      "style": 0,
+      "name": "정부 홍보에서 본 이미지랑 상당히 다른데……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs31110100_MSG0330",
+      "style": 0,
+      "name": "뭐랄까……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs31110100_MSG0340",
+      "style": 0,
+      "name": "가볍네요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs31110100_MSG0350",
+      "style": 0,
+      "name": "저게 저 녀석의 진짜 모습이야[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs31110100_MSG0360",
+      "style": 0,
+      "name": "어이[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs31110100_MSG0370",
+      "style": 0,
+      "name": "영웅이라는 게 설마 나 말하는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs31110100_MSG0380",
+      "style": 0,
+      "name": "그래, 맞아[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs31110100_MSG0390",
+      "style": 0,
+      "name": "자신의 생명을 바쳐서[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs31110100_MSG0395",
+      "style": 0,
+      "name": "인류의 미래를 밝힌 위대한 영웅……[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs31110100_MSG0400",
+      "style": 0,
+      "name": "알로이스 브루놀트[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs31110100_MSG0410",
+      "style": 0,
+      "name": "그게 너야[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs31110100_MSG0420",
+      "style": 0,
+      "name": "그게 뭐야……[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs31110100_MSG0430",
+      "style": 0,
+      "name": "그럴 의도는 아니었는데……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs31110100_MSG0440",
+      "style": 0,
+      "name": "그 영웅이 살아 있다고 하면[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs31110100_MSG0450",
+      "style": 0,
+      "name": "NLA는 세상이 뒤집힌 듯한\n소동이 나겠는걸[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs31110100_MSG0460",
+      "style": 0,
+      "name": "NLA?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs31110100_MSG0470",
+      "style": 0,
+      "name": "흰고래의 거주 유닛이야[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs31110100_MSG0480",
+      "style": 0,
+      "name": "지금은 그렇게 부르고 있어[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs31110100_MSG0490",
+      "style": 0,
+      "name": "그렇군……[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs31110100_MSG0500",
+      "style": 0,
+      "name": "무사히 살아남았구나……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs31110100_MSG0510",
+      "style": 0,
+      "name": "영웅님 덕분이야[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs31110100_MSG0520",
+      "style": 0,
+      "name": "그렇지[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs31110100_MSG0530",
+      "style": 0,
+      "name": "맞아요[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs31110100_MSG0540",
+      "style": 0,
+      "name": "그만들 해[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs31110100_MSG0550",
+      "style": 0,
+      "name": "아하하하하[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs31110100_MSG0551",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "xs31110100_MSG0552",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "xs31110100_MSG0553",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "xs31110100_MSG0560",
+      "style": 0,
+      "name": "린……[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs31110100_MSG0570",
+      "style": 0,
+      "name": "너도 무사해서 다행이다[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs31110100_MSG0580",
+      "style": 0,
+      "name": "……네[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs31110100_MSG0585",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "xs31110100_MSG0590",
+      "style": 0,
+      "name": "정말이지, 떠들썩해졌군……[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs31110100_MSG0600",
+      "style": 0,
+      "name": "이봐[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs31110100_MSG0610",
+      "style": 0,
+      "name": "컨디션은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs31110100_JNK0010",
+      "style": 4,
+      "name": "보통"
+    },
+    {
+      "$id": 68,
+      "label": "xs31110100_SEL0010",
+      "style": 3,
+      "name": "그럭저럭이라고 대답한다"
+    },
+    {
+      "$id": 69,
+      "label": "xs31110100_MSG0620",
+      "style": 0,
+      "name": "한참 멀었네[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs31110100_MSG0630",
+      "style": 0,
+      "name": "처음 만난 녀석에게 뭘 원하는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs31110100_MSG0640",
+      "style": 0,
+      "name": "나중에 인사하는 법을 알려 주마[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs31110100_MSG0650",
+      "style": 0,
+      "name": "난 알로이스 브루놀트다[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs31110100_MSG0660",
+      "style": 0,
+      "name": "알이라고 불러[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs31110100_MSG0670",
+      "style": 0,
+      "name": "잘 부탁해[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs31110100_JNK0020",
+      "style": 4,
+      "name": "긴장"
+    },
+    {
+      "$id": 76,
+      "label": "xs31110100_SEL0020",
+      "style": 3,
+      "name": "긴장한 채 바라본다"
+    },
+    {
+      "$id": 77,
+      "label": "xs31110100_MSG0680",
+      "style": 0,
+      "name": "뭐야, 긴장했냐?[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs31110100_MSG0690",
+      "style": 0,
+      "name": "B.B. 상태가 좋지 않아서 기억 장애가 있어[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs31110100_MSG0700",
+      "style": 0,
+      "name": "이 행성에 오기 전의 일을 기억하지 못해[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "xs31110100_MSG0710",
+      "style": 0,
+      "name": "그거 미안하군[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs31110100_MSG0720",
+      "style": 0,
+      "name": "만나서 반가워[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs31110100_MSG0730",
+      "style": 0,
+      "name": "알로이스 브루놀트다[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs31110100_MSG0740",
+      "style": 0,
+      "name": "알이라고 불러[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs31110100_MSG0750",
+      "style": 0,
+      "name": "잘 부탁한다[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs31110100_MSG0760",
+      "style": 0,
+      "name": "왔나 보네[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs31110100_MSG0770",
+      "style": 0,
+      "name": "그럼 NLA라는 곳으로\n날 데려가 주실까[ST:wait ]"
+    }
+  ]
+}

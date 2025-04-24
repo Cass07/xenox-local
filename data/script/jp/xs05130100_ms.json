@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05130100_MSG0001",
+      "style": 0,
+      "name": "やったですも！\nさすがですも！[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs05130100_MSG0002",
+      "style": 0,
+      "name": "しまった[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs05130100_MSG0003",
+      "style": 0,
+      "name": "大丈夫ですか[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs05130100_MSG0005",
+      "style": 0,
+      "name": "ももも　ロボットでしたも！？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs05130100_MSG0005_m",
+      "style": 0,
+      "name": "ももも　ロボットでしたも！？[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs05130100_MSG0005_f",
+      "style": 0,
+      "name": "ももも　ロボットでしたも！？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs05130100_MSG0006",
+      "style": 0,
+      "name": "神経サーキットへのフィードバック遮断します[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs05130100_MSG0007",
+      "style": 0,
+      "name": "痛みは？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs05130100_MSG0008",
+      "style": 0,
+      "name": "あなた　もしかして[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs05130100_MSG0009",
+      "style": 0,
+      "name": "自分の身体が[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]だという\n記憶までなくしていたの？[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs05130100_MSG0010",
+      "style": 0,
+      "name": "生体循環液が漏れ出ている[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs05130100_MSG0010_m",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "xs05130100_MSG0010_f",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "xs05130100_MSG0011",
+      "style": 0,
+      "name": "とにかく応急処置をします[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs05130100_MSG0012",
+      "style": 0,
+      "name": "エルマさん[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs05130100_MSG0013",
+      "style": 0,
+      "name": "ＮＬＡの[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]メンテナンスセンターに\n連絡をお願いします！[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs05130100_MSG0014",
+      "style": 0,
+      "name": "タイプ０８５の[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]上腕スペアと\n輸液の準備を！[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs05130100_MSG0015",
+      "style": 0,
+      "name": "分かったわ[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs05130100_MSG0016",
+      "style": 0,
+      "name": "ちゃんとした再生作業はＮＬＡでしますから\nそれまでの間は眠っててください[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs05130100_MSG0017",
+      "style": 0,
+      "name": "大丈夫　心配しないで\n必ず助けます！[ST:wait ]"
+    }
+  ]
+}

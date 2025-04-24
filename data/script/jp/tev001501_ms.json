@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001501_MSG0001",
+      "style": 1,
+      "name": "[ST:wide ]―なに　あなた？\nうまい儲け話でも教えに来てくれたの？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001501_MSG0002",
+      "style": 1,
+      "name": "それならいいけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001501_MSG0003",
+      "style": 1,
+      "name": "ロクでもない話をしに来たってんなら\n命の保証はしないからね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001501_MSG1001",
+      "style": 1,
+      "name": "[ST:playername ]　良く来てくれたわね[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001501_MSG1002",
+      "style": 1,
+      "name": "あなたみたいに腕の立つブレイドと一緒に\nまた仕事がしたいと思ってたの[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001501_MSG1003",
+      "style": 1,
+      "name": "[ST:wide ]―ふふっ　本当よ　[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001501_JNK0010",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 8,
+      "label": "tev001501_SEL0011",
+      "style": 3,
+      "name": "マードレスをメンバーに\n加える"
+    },
+    {
+      "$id": 9,
+      "label": "tev001501_JNK0020",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 10,
+      "label": "tev001501_SEL0021",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 11,
+      "label": "tev001501_MSG1004",
+      "style": 1,
+      "name": "大丈夫　いきなり背中から撃ったりしないから\n安心してちょうだい[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001501_MSG1005",
+      "style": 1,
+      "name": "あら残念\nまた一儲けさせてもらおうと思ったのに[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001501_MSG1010",
+      "style": 1,
+      "name": "なに　異星人の機動兵器なんて取りに\nわざわざあんな危険な場所まで行くの？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001501_MSG1011",
+      "style": 1,
+      "name": "ふぅん……そんな割に合わない任務\n私はごめんね[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001501_MSG1016",
+      "style": 1,
+      "name": "へぇ　あのいい子ちゃんがピンチねぇ……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001501_MSG1017",
+      "style": 1,
+      "name": "グロウスなんかにやられるのも癪だし\n助けに行くなら　手を貸してあげてもいいわよ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001501_JNK0070",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 18,
+      "label": "tev001501_SEL0071",
+      "style": 3,
+      "name": "マードレスをメンバーに\n加える"
+    },
+    {
+      "$id": 19,
+      "label": "tev001501_JNK0080",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 20,
+      "label": "tev001501_SEL0081",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 21,
+      "label": "tev001501_MSG1018",
+      "style": 1,
+      "name": "すぐに出発しましょう\n死んでしまったら　貸しも作れないしね[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001501_MSG1019",
+      "style": 1,
+      "name": "あら　せっかく貸しを作れる\nチャンスだったのに　残念ね[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001501_MSG1024",
+      "style": 1,
+      "name": "白樹の大陸まで行けば　まだ未発見の\nお宝が見つかる可能性も高い[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001501_MSG1025",
+      "style": 1,
+      "name": "そうね　人手が欲しいならついて行ってあげる\n感謝しなさい？[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001501_JNK0090",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 26,
+      "label": "tev001501_SEL0091",
+      "style": 3,
+      "name": "マードレスをメンバーに\n加える"
+    },
+    {
+      "$id": 27,
+      "label": "tev001501_JNK0100",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 28,
+      "label": "tev001501_SEL0101",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 29,
+      "label": "tev001501_MSG1026",
+      "style": 1,
+      "name": "さてと　あんな危なっかしい所に行くんだから\nそれなりに稼いでこないとね[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001501_MSG1027",
+      "style": 1,
+      "name": "随分と強気じゃない？\nまぁ今回だけは　許してあげるわ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001501_MSG1032",
+      "style": 1,
+      "name": "またヴァンダム司令絡みの任務？[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001501_MSG1033",
+      "style": 1,
+      "name": "何をやるのか知らないけど\n報酬も良さそうだし　手を貸してもいいわよ？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001501_JNK0110",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 34,
+      "label": "tev001501_SEL0111",
+      "style": 3,
+      "name": "マードレスをメンバーに\n加える"
+    },
+    {
+      "$id": 35,
+      "label": "tev001501_JNK0120",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 36,
+      "label": "tev001501_SEL0121",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 37,
+      "label": "tev001501_MSG1034",
+      "style": 1,
+      "name": "ふふっ　任務に成功したら　私にも良い仕事を\nよこすように司令に言っておいてね[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001501_MSG1035",
+      "style": 1,
+      "name": "あら残念\nまた一儲けさせてもらおうと思ったのに[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001501_MSG1040",
+      "style": 1,
+      "name": "ああいうタイプは思いつめると\n何をするか分からないからね[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001501_MSG1041",
+      "style": 1,
+      "name": "とんでもないことをしでかす前に\nやるしかないわね[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001501_JNK0130",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 42,
+      "label": "tev001501_SEL0131",
+      "style": 3,
+      "name": "マードレスをメンバーに\n加える"
+    },
+    {
+      "$id": 43,
+      "label": "tev001501_JNK0140",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 44,
+      "label": "tev001501_SEL0141",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 45,
+      "label": "tev001501_MSG1042",
+      "style": 1,
+      "name": "さてと……久しぶりに腕が鳴るわ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001501_MSG1043",
+      "style": 1,
+      "name": "へぇ……あなたみたいな甘ちゃんだけで\nあの男を　どうこうできるかしらね？[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001501_MSG1048",
+      "style": 1,
+      "name": "いくらお金を貯めたって\n生きてけなけりゃ　夢は見れない……[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001501_MSG1049",
+      "style": 1,
+      "name": "この任務　必ず成功させるわ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001501_JNK0150",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 50,
+      "label": "tev001501_SEL0151",
+      "style": 3,
+      "name": "マードレスをメンバーに\n加える"
+    },
+    {
+      "$id": 51,
+      "label": "tev001501_JNK0160",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 52,
+      "label": "tev001501_SEL0161",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 53,
+      "label": "tev001501_MSG1051",
+      "style": 1,
+      "name": "セントラルライフは天国か地獄か[ST:wide ]―\n楽しみね[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev001501_MSG1052",
+      "style": 1,
+      "name": "いいわ　それなら必ず任務を成功させなさい\nもし失敗したら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001501_MSG1053",
+      "style": 1,
+      "name": "ふふっ　地獄でもう一度　殺してやるから[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev001501_MSG1058",
+      "style": 1,
+      "name": "今日もミラには　儲け話が溢れてるわ[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev001501_MSG1059",
+      "style": 1,
+      "name": "この好機を逃す手はないわよ\nさぁ　一緒に行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev001501_JNK0170",
+      "style": 4,
+      "name": "連れて行く"
+    },
+    {
+      "$id": 59,
+      "label": "tev001501_SEL0171",
+      "style": 3,
+      "name": "マードレスをメンバーに\n加える"
+    },
+    {
+      "$id": 60,
+      "label": "tev001501_JNK0180",
+      "style": 4,
+      "name": "連れて行かない"
+    },
+    {
+      "$id": 61,
+      "label": "tev001501_SEL0181",
+      "style": 3,
+      "name": "今はメンバーに加えない"
+    },
+    {
+      "$id": 62,
+      "label": "tev001501_MSG1060",
+      "style": 1,
+      "name": "安心して\n邪魔する奴は片っ端から消してやるから[ST:wide ]―ね[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev001501_MSG1061",
+      "style": 1,
+      "name": "あら残念\nまた一儲けさせてもらおうと思ったのに[ST:wait ]"
+    }
+  ]
+}

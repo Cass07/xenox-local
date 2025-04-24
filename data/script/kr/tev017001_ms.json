@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev017001_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 2,
+      "label": "tev017001_SEL0011",
+      "style": 3,
+      "name": "블레이드에 관해 묻는다"
+    },
+    {
+      "$id": 3,
+      "label": "tev017001_JNK0020",
+      "style": 4,
+      "name": "흥미"
+    },
+    {
+      "$id": 4,
+      "label": "tev017001_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 5,
+      "label": "tev017001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev017001_SEL0031",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev017001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev017001_SEL0041",
+      "style": 3,
+      "name": "최근 상황을 묻는다"
+    },
+    {
+      "$id": 9,
+      "label": "tev017001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev017001_SEL0051",
+      "style": 3,
+      "name": "B.B.에 관해 묻는다"
+    },
+    {
+      "$id": 11,
+      "label": "tev017001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev017001_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev017001_SEL1021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev017001_MSG0001",
+      "style": 1,
+      "name": "군인 출신 블레이드 중에는\n좀 고상하게 구는 녀석이 많아[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev017001_MSG0002",
+      "style": 1,
+      "name": "이제 아무 상관 없는데 굳이 계급으로 부른다든가\n그런 거 나는 이해가 안 된다고[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev017001_MSG0003",
+      "style": 1,
+      "name": "규율이 어쩌고 하는 것도 짜증 나고……\n이런 행성에서 있지도 않은 군대에 기댄다고\n뭐가 되겠냐? 안 그래?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev017001_MSG0008",
+      "style": 1,
+      "name": "보면 모르겠냐, 누구 힘이\n더 센지 겨루는 거다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev017001_MSG0009",
+      "style": 1,
+      "name": "가장 강한 블레이드가\n저 사람과 함께 임무에 나갈 수 있어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev017001_MSG0010",
+      "style": 1,
+      "name": "힘든 임무에 나가는 건데\n기왕이면 미인 동료가 좋잖아?\n하하하하![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev017001_MSG0015",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev017001_MSG0016",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev017001_MSG0017",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev017001_MSG0025",
+      "style": 1,
+      "name": "잡아야 하는 현상금 수배자를\n빈사 상태로 만들어 붙잡다니\n역시 머더레스 씨라니까[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev017001_MSG0026",
+      "style": 1,
+      "name": "죽여 버리면 간단하겠지만\n신경 써서 절묘하게 힘 조절을 하는 거지[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev017001_MSG0027",
+      "style": 1,
+      "name": "너도 현상금 붙지 않게 조심해라[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev017001_MSG0028",
+      "style": 1,
+      "name": "동료로 들어오는 척한 다음\n대열 후방에서…… 탕! 이니까[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev017001_MSG0035",
+      "style": 1,
+      "name": "B.B.도 술에 취할 수 있다니\n대단하지 않냐?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev017001_MSG0036",
+      "style": 1,
+      "name": "이런 상황에 이런 몸인데……\n맨정신으로는 못 견디지![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev017001_MSG0037",
+      "style": 1,
+      "name": "그래도…… 숙취까지\n재현하진 않아도 됐을 텐데…… 웁……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev017001_MSG0038",
+      "style": 1,
+      "name": "몸에 악영향이 없어서 그런지\n무심코 과음하게 되거든……\n해…… 해장술이 필요해, 젠장![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev017001_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev017001_MSG1002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev017001_MSG1003",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "tev017001_MSG1010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "tev017001_MSG1011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "tev017001_MSG1012",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

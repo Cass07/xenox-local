@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001892_MSG0001",
+      "style": 1,
+      "name": "지금 생각 중이니까\n방해하지 말아 주세요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001892_MSG0002",
+      "style": 1,
+      "name": "……어떻게 하면 사쿠라바 중공업에 침입해서\n훔쳐 낼 수 있을까[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001892_MSG0003",
+      "style": 1,
+      "name": "심야에는 보안이 철저할 테니까\n대낮에 당당히 청소부 모습을 하고\n건물에 들어가면……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001892_MSG0004",
+      "style": 1,
+      "name": "이런, 선배가 왜![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001892_MSG0005",
+      "style": 1,
+      "name": "제 혼잣말을 들어 버렸군요!?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001892_JNK0010",
+      "style": 4,
+      "name": "설교한다"
+    },
+    {
+      "$id": 7,
+      "label": "tev001892_SEL0011",
+      "style": 3,
+      "name": "미아에게 설교하여\n악행에 가담하는 걸 막는다"
+    },
+    {
+      "$id": 8,
+      "label": "tev001892_JNK0020",
+      "style": 4,
+      "name": "부정한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001892_SEL0021",
+      "style": 3,
+      "name": "못 들은 척한다"
+    },
+    {
+      "$id": 10,
+      "label": "tev001892_MSG0006",
+      "style": 1,
+      "name": "하아~ 선배의 긴 이야기는 이제 충분해요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001892_MSG0007",
+      "style": 1,
+      "name": "절 포기시켜서 대신 선배가\n이 의뢰를 가로챌 속셈이죠?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001892_MSG0008",
+      "style": 1,
+      "name": "이 건만큼은 양보할 수 없어요\n의뢰를 받은 제가 해내야 해요……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001892_MSG0009",
+      "style": 1,
+      "name": "절대 물러나지 않을 거예요![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001892_MSG0010",
+      "style": 1,
+      "name": "거짓말![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001892_MSG0011",
+      "style": 1,
+      "name": "이번에도 지난번에도\n타이밍이 너무 딱 맞잖아요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001892_MSG0012",
+      "style": 1,
+      "name": "분명 이야기를 듣고 있다가\n상황을 대충 알겠으니까\n말을 건 게 틀림없어요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001892_MSG0013",
+      "style": 1,
+      "name": "이 건만큼은 양보할 수 없어요\n의뢰를 받은 제가 해내야 해요……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001892_MSG0014",
+      "style": 1,
+      "name": "절대 물러나지 않을 거예요![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001892_JNK0030",
+      "style": 4,
+      "name": "조력"
+    },
+    {
+      "$id": 20,
+      "label": "tev001892_SEL0031",
+      "style": 3,
+      "name": "그러면 뭔가 도울 게 없는지 묻는다"
+    },
+    {
+      "$id": 21,
+      "label": "tev001892_JNK0040",
+      "style": 4,
+      "name": "강제"
+    },
+    {
+      "$id": 22,
+      "label": "tev001892_SEL0041",
+      "style": 3,
+      "name": "미아를 기절시켜\n악행에 가담하는 것을 막는다"
+    },
+    {
+      "$id": 23,
+      "label": "tev001892_MSG0015",
+      "style": 1,
+      "name": "호, 혹하는 말이네요……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001892_MSG0016",
+      "style": 1,
+      "name": "물론 조금 도와줬으면 좋겠다 싶은 생각은 있지만……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001892_MSG0017",
+      "style": 1,
+      "name": "그래도 저 혼자서 열심히 해 볼게요[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001892_MSG0018",
+      "style": 1,
+      "name": "혼자서는 불안하지만\n리스크가 적어요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001892_MSG0019",
+      "style": 1,
+      "name": "만약 선배가 도와주겠다면\n절 믿고 응원해 주세요\n그것만으로 충분해요[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001892_MSG0020",
+      "style": 1,
+      "name": "……그럼 지금부터\n플랜B랑 C랑 D를 짜야 하니까 실례할게요![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001892_MSG0021",
+      "style": 1,
+      "name": "또 어디선가 만나요![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001892_MSG0022",
+      "style": 1,
+      "name": "자, 잠깐만요![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001892_MSG0023",
+      "style": 1,
+      "name": "지금 저를 죽일 듯한\n눈빛을 하고 있었죠!?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001892_MSG0024",
+      "style": 1,
+      "name": "안 돼요, 절대 안 돼요![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001892_MSG0025",
+      "style": 1,
+      "name": "절 기절시켜 버리면\n지금까지의 계획이\n다 무너져 버릴 거예요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001892_MSG0026",
+      "style": 1,
+      "name": "그렇게 되면 전 인류가 곤란할 게 틀림없어요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001892_MSG0027",
+      "style": 1,
+      "name": "지금은 절 믿고 지켜봐 주세요[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001892_MSG0028",
+      "style": 1,
+      "name": "괜찮아요, 범죄를 저지르지 않고도\n가볍게 물건을 입수할 계획이니까[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001892_MSG0029",
+      "style": 1,
+      "name": "……그럼 지금부터 플랜A를\n더 꼼꼼히 짜야 하니까 이만 실례할게요![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001892_MSG0030",
+      "style": 1,
+      "name": "또 어디선가 만나요![ST:wait ]"
+    }
+  ]
+}

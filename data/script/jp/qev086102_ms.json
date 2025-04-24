@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086102_MSG0001",
+      "style": 0,
+      "name": "そう　そんなことを[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086102_MSG0002",
+      "style": 0,
+      "name": "タツには聞かれたくなくて[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086102_MSG0003",
+      "style": 0,
+      "name": "いいわ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086102_MSG0004",
+      "style": 0,
+      "name": "この件は　あなたからの依頼として\nエルマチームで引き受ける[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086102_MSG0005",
+      "style": 0,
+      "name": "ありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086102_MSG0006",
+      "style": 0,
+      "name": "みなさん　お外でなにしてるですも？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086102_MSG0007",
+      "style": 0,
+      "name": "タツ！？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086102_MSG0008",
+      "style": 0,
+      "name": "え　えーと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086102_MSG0009",
+      "style": 0,
+      "name": "もしかして　新しい任務ですも？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086102_MSG0010",
+      "style": 0,
+      "name": "それはその[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086102_MSG0011",
+      "style": 0,
+      "name": "そうよ　コンパニオンからの依頼\nタツも手伝ってくれる？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086102_MSG0012",
+      "style": 0,
+      "name": "もちろんですも！\nタツにおまかせですも[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086102_MSG0013",
+      "style": 0,
+      "name": "エルマさん　タツには[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086102_MSG0014",
+      "style": 0,
+      "name": "無理に隠そうとしたら怪しまれるわ\nいっそ　堂々としましょう[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086102_MSG0015",
+      "style": 0,
+      "name": "はい[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086102_MSG0016",
+      "style": 0,
+      "name": "それで今回はどんな任務なんですも？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086102_MSG0017",
+      "style": 0,
+      "name": "タツにはぴったりの内容かもしれない[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086102_MSG0017_02",
+      "style": 0,
+      "name": "このＮＬＡにいるノポン人達に話を聞いて\nノポンの郷土料理のレシピを集めたいの[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086102_MSG0018",
+      "style": 0,
+      "name": "ももも　それはタツにふさわしいですも！\nやる気出てきましたですも！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086102_MSG0019",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

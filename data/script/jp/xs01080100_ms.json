@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs01080100_MSG0001",
+      "style": 0,
+      "name": "ここがたくさんのショップが\n集まっている通りです[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs01080100_MSG0002",
+      "style": 0,
+      "name": "私達ブレイド隊員は　ここで装備を整えるのよ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs01080100_MSG0003",
+      "style": 0,
+      "name": "ブレイド隊員達は\n日々危険な任務に就いています[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs01080100_MSG0004",
+      "style": 0,
+      "name": "その命を護るために欠かせない場所\nそれがここなんです[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs01080100_MSG0005",
+      "style": 0,
+      "name": "ここではね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs01080100_MSG0006",
+      "style": 0,
+      "name": "私たちがインナーと呼ぶ歩兵装備だけでなく\nドールの機体やその装備も売っているのよ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs01080100_MSG0007",
+      "style": 0,
+      "name": "ドールは　すごく高価ですけど\nいつかはマイドール欲しいですよね[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs01080100_MSG0008",
+      "style": 0,
+      "name": "次は　輸送機の発着場の目の前にあった\n大きなビル[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs01080100_MSG0009",
+      "style": 0,
+      "name": "このＮＬＡの中枢\nブレイドタワーに行きましょう[ST:wait ]\n"
+    }
+  ]
+}

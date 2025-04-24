@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086804_MSG0001",
+      "style": 0,
+      "name": "이 동굴이지?\n셀레네 허브를 채취할 수 있는 건[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086804_MSG0002",
+      "style": 0,
+      "name": "세리카 씨는 벌써 안으로 들어간 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086804_MSG0003",
+      "style": 0,
+      "name": "왜 그래모?\n록, 무서운 거야모?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086804_MSG0004",
+      "style": 0,
+      "name": "그, 그렇지 않아[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086804_MSG0005",
+      "style": 0,
+      "name": "무리하지 않아도 괜찮아요\n이런 어두운 동굴은 저도 싫어요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086804_MSG0006",
+      "style": 0,
+      "name": "나, 예전에 나쁜 녀석들에게 혹사당한 적이 있어……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086804_MSG0007",
+      "style": 0,
+      "name": "그때 항상 어둡고 좁은 곳에\n갇혀서 옮겨졌어[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086804_MSG0008",
+      "style": 0,
+      "name": "그때의 일이 떠올라서 그렇구나\n여기서 기다리고 있어도 괜찮아[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086804_MSG0009",
+      "style": 0,
+      "name": "아니야, 난 갈래\n세리카를 구하고 싶은걸[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086804_JNK0010",
+      "style": 4,
+      "name": "반대"
+    },
+    {
+      "$id": 11,
+      "label": "qev086804_SEL0011",
+      "style": 3,
+      "name": "록은 남을 것을 권한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev086804_JNK0020",
+      "style": 4,
+      "name": "응원"
+    },
+    {
+      "$id": 13,
+      "label": "qev086804_SEL0021",
+      "style": 3,
+      "name": "여차하면 지켜 주겠다고 가슴을 두드린다"
+    },
+    {
+      "$id": 14,
+      "label": "qev086804_MSG0010",
+      "style": 0,
+      "name": "안 돼, 분명 세리카도\n무서워하고 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086804_MSG0011",
+      "style": 0,
+      "name": "그런데 나만 도망칠 수는 없어![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086804_MSG0012",
+      "style": 0,
+      "name": "말 한번 잘했어, 록[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086804_MSG0013",
+      "style": 0,
+      "name": "전투를 해야 할 땐 우리가 지켜 줄게\n넌 세리카를 구하는 것만 생각해[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086804_MSG0014",
+      "style": 0,
+      "name": "응[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086804_MSG0015",
+      "style": 0,
+      "name": "안 돼, 분명 세리카도\n무서워하고 있을 거야[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086804_MSG0016",
+      "style": 0,
+      "name": "나도 내 힘으로\n세리카를 구하고 싶어![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086804_MSG0017",
+      "style": 0,
+      "name": "록, 네가 세리카를 구하고 싶듯이\n우리도 너희의 힘이 되고 싶어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086804_MSG0018",
+      "style": 0,
+      "name": "동료의 도움을 받는 걸\n부끄러워할 필요는 없어[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086804_MSG0019",
+      "style": 0,
+      "name": "그렇구나\n응, 알겠어![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086804_MSG0020",
+      "style": 0,
+      "name": "헤헷[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086804_MSG0021",
+      "style": 0,
+      "name": "듬직하다모!\n자, 힘내서 가자모![ST:wait ]"
+    }
+  ]
+}

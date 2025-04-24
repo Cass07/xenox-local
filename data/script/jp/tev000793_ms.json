@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000793_MSG0001",
+      "style": 1,
+      "name": "よう　[ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000793_MSG0002",
+      "style": 1,
+      "name": "テニスコートにいるアイツら[ST:wide ]―\n使い方間違ってるよな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000793_MSG0003",
+      "style": 1,
+      "name": "バランスとる勝負じゃねぇんだから……\nなんで大盛り上がりしてるかわからねぇな[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000793_JNK0010",
+      "style": 4,
+      "name": "提案する"
+    },
+    {
+      "$id": 5,
+      "label": "tev000793_SEL0011",
+      "style": 3,
+      "name": "ダグが正しい使い方を教えて\nはどうかと提案する"
+    },
+    {
+      "$id": 6,
+      "label": "tev000793_JNK0020",
+      "style": 4,
+      "name": "受け入れる"
+    },
+    {
+      "$id": 7,
+      "label": "tev000793_SEL0021",
+      "style": 3,
+      "name": "ある意味正しい使い方だと\n異星人の考えを受け入れる"
+    },
+    {
+      "$id": 8,
+      "label": "tev000793_MSG0004",
+      "style": 1,
+      "name": "遠慮するよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000793_MSG0005",
+      "style": 1,
+      "name": "もし俺が教えたら\n一躍人気者になりそうだろ？[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000793_MSG0006",
+      "style": 1,
+      "name": "そういうのはガラじゃない\nお前に任せるよ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000793_MSG0007",
+      "style": 1,
+      "name": "ふむ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000793_MSG0008",
+      "style": 1,
+      "name": "トランプみたいなもんだな　道具は一つだが\nいろんな遊び方があるってことか[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000793_MSG0009",
+      "style": 1,
+      "name": "彼らが楽しんでるなら\nそれでいいのかもしれないな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000793_MSG0010",
+      "style": 1,
+      "name": "ところで[ST:playername ]は\nここに何しに来たんだ？[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000793_JNK0030",
+      "style": 4,
+      "name": "見学"
+    },
+    {
+      "$id": 16,
+      "label": "tev000793_SEL0031",
+      "style": 3,
+      "name": "ダグがスポーツするところを\n見に来たと答える"
+    },
+    {
+      "$id": 17,
+      "label": "tev000793_JNK0040",
+      "style": 4,
+      "name": "スポーツ"
+    },
+    {
+      "$id": 18,
+      "label": "tev000793_SEL0041",
+      "style": 3,
+      "name": "ダグと一緒に汗を流そうと\n思って来たと答える"
+    },
+    {
+      "$id": 19,
+      "label": "tev000793_JNK0050",
+      "style": 4,
+      "name": "応援"
+    },
+    {
+      "$id": 20,
+      "label": "tev000793_SEL0051",
+      "style": 3,
+      "name": "実は異星人たちのバランス\n競争の応援に来たと答える"
+    },
+    {
+      "$id": 21,
+      "label": "tev000793_MSG0011",
+      "style": 1,
+      "name": "そりゃ残念だったな\nさっきクールダウンも終わったところだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000793_MSG0012",
+      "style": 1,
+      "name": "たまにブレイドの連中とバスケをやることが\nあるんだが　今日はジョギングだけだったな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000793_MSG0013",
+      "style": 1,
+      "name": "今度バスケやるときは誘うから来いよ[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000793_MSG0014",
+      "style": 1,
+      "name": "俺のブロックをかいくぐって\nポイントをきめたら何かおごってやるよ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000793_MSG0015",
+      "style": 1,
+      "name": "悪いな\nさっきクールダウンも終わったところだ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000793_MSG0016",
+      "style": 1,
+      "name": "さきに言ってくれてりゃ　待ってたのによ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000793_MSG0017",
+      "style": 1,
+      "name": "黙々とジョギングするのもつまらなくはないが\n二人の方が楽しくなるからな[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000793_MSG0018",
+      "style": 1,
+      "name": "今度は誘うよ\nヒマがあったら来てくれよな[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000793_MSG0019",
+      "style": 1,
+      "name": "マジか！？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000793_MSG0020",
+      "style": 1,
+      "name": "俺がバカにしてただけで\n実はNLAでは主流になりつつあるのか[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000793_MSG0021",
+      "style": 1,
+      "name": "いや　まさかな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000793_MSG0022",
+      "style": 1,
+      "name": "でも　俺たちは遠征に出てることも多いから\nNLAの流行に疎いのは確かだ[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000793_MSG0023",
+      "style": 1,
+      "name": "よし　帰ったらブレイドの連中に教えてやろう[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000793_MSG0024",
+      "style": 1,
+      "name": "今NLAではネットポストの上に立って\nバランスを取るスポーツがアツいってな[ST:wait ]"
+    }
+  ]
+}

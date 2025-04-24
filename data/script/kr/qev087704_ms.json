@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087704_MSG0001",
+      "style": 0,
+      "name": "엘마 공인가[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087704_MSG0002",
+      "style": 0,
+      "name": "그래, 여기는 돌을 5대 파괴했어\n그쪽은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087704_MSG0003",
+      "style": 0,
+      "name": "제법이군, 우리는 4대를 파괴했다\n마지막 1대가 배치된 장소는 알고 있다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087704_MSG0004",
+      "style": 0,
+      "name": "그럼 그걸로 끝이겠네[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087704_MSG0005",
+      "style": 0,
+      "name": "그렇다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087704_MSG0006",
+      "style": 0,
+      "name": "어때, 마지막 1대를 누가 처리할지\n승부를 겨루어 보지 않겠나?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087704_MSG0007",
+      "style": 0,
+      "name": "재미있겠네\n봐주지 않을 거야[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087704_MSG0008",
+      "style": 0,
+      "name": "당연하다\n그렇지 않으면 경쟁하는 의미가 없지[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087704_MSG0009",
+      "style": 0,
+      "name": "좌표를 보내 줄래?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087704_MSG0010",
+      "style": 0,
+      "name": "알겠다\n서로에게 무신의 가호가 있기를[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087704_MSG0011",
+      "style": 0,
+      "name": "데이터가 왔다모[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087704_MSG0012",
+      "style": 0,
+      "name": "엘마 씨[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev087704_MSG0013",
+      "style": 0,
+      "name": "저 보우라는 사람\n분위기가 많이 바뀌었네요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev087704_MSG0014",
+      "style": 0,
+      "name": "우리를 친구로 인정해 준 걸지도 모르지[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev087704_MSG0017",
+      "style": 0,
+      "name": "그럴지도 모르겠네요[ST:wait ]"
+    }
+  ]
+}

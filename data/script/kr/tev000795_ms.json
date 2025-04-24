@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000795_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]인가……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000795_MSG0002",
+      "style": 1,
+      "name": "지금 라오가 두고 간 물건을\n어떻게 할지 의논하는 중이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000795_MSG0003",
+      "style": 1,
+      "name": "라이플과 슈트……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000795_MSG0004",
+      "style": 1,
+      "name": "셔츠에 코트, 침대와 이불……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000795_MSG0005",
+      "style": 1,
+      "name": "그리고 값비싼 술……\n가족사진이 들어 있는 액자도 있어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000795_MSG0006",
+      "style": 1,
+      "name": "자이덴이나 신고는 언젠가 원래 몸을\n되찾으면 돌아올 수 있으니까 문제없지만……[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000795_MSG0007",
+      "style": 1,
+      "name": "그 녀석은……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000795_MSG0008",
+      "style": 1,
+      "name": "아무튼 넌 어떻게 생각해?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000795_JNK0010",
+      "style": 4,
+      "name": "처분"
+    },
+    {
+      "$id": 10,
+      "label": "tev000795_SEL0011",
+      "style": 3,
+      "name": "모조리 버린다"
+    },
+    {
+      "$id": 11,
+      "label": "tev000795_JNK0020",
+      "style": 4,
+      "name": "그대로"
+    },
+    {
+      "$id": 12,
+      "label": "tev000795_SEL0021",
+      "style": 3,
+      "name": "아무것도 손대지 않은 채\n그대로 둔다"
+    },
+    {
+      "$id": 13,
+      "label": "tev000795_JNK0030",
+      "style": 4,
+      "name": "술"
+    },
+    {
+      "$id": 14,
+      "label": "tev000795_SEL0031",
+      "style": 3,
+      "name": "술만은 가져가고 싶다"
+    },
+    {
+      "$id": 15,
+      "label": "tev000795_MSG0009",
+      "style": 1,
+      "name": "무자비한 의견이군[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000795_MSG0010",
+      "style": 1,
+      "name": "행정장관님도 그렇게 말하더라……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000795_MSG0011",
+      "style": 1,
+      "name": "그 녀석 물건에 그로우스 것이\n섞여 있을지도 모르니 위험하다고 말이야[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000795_MSG0012",
+      "style": 1,
+      "name": "게다가 새로운 블레이드 대원이 올 때를 대비해\n방을 비워 두어야 한다고 했지[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000795_MSG0013",
+      "style": 1,
+      "name": "하지만 그건 너무 쓸쓸하잖아?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000795_MSG0014",
+      "style": 1,
+      "name": "난 일단 어디 다른 곳에\n보관해야 한다고 생각해[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000795_MSG0015",
+      "style": 1,
+      "name": "반담 아저씨도 그렇게 말했어[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000795_MSG0016",
+      "style": 1,
+      "name": "액자 정도는 내가 보관해 둘 거지만[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000795_MSG0017",
+      "style": 1,
+      "name": "그러게……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000795_MSG0018",
+      "style": 1,
+      "name": "그럴 수 있다면 좋겠지[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000795_MSG0019",
+      "style": 1,
+      "name": "……혹시 그 녀석이 돌아왔을 때\n방이 그대로라면 기뻐할 거라고 생각해[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000795_MSG0020",
+      "style": 1,
+      "name": "하지만 블레이드 홈에\n공간을 놀릴 여유는 없어[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000795_MSG0021",
+      "style": 1,
+      "name": "새로운 블레이드 대원이 오면\n방을 내주어야만 하니까[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000795_MSG0022",
+      "style": 1,
+      "name": "사라져 버린 녀석의 방을 그대로 두는 건\n어려운 일이지[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000795_MSG0023",
+      "style": 1,
+      "name": "전부 압수해서 어딘가에 보관하는 게\n무난한 선택일 거다[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000795_MSG0024",
+      "style": 1,
+      "name": "그래도 액자 정도는 내가 보관할 생각이야[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000795_MSG0025",
+      "style": 1,
+      "name": "너 진짜……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000795_MSG0026",
+      "style": 1,
+      "name": "이럴 때 농담하지 말라고……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000795_MSG0027",
+      "style": 1,
+      "name": "술은 내가 가져갈 생각이었단 말이다![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000795_MSG0028",
+      "style": 1,
+      "name": "농담이야……[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000795_MSG0029",
+      "style": 1,
+      "name": "그런데 진짜로 술은 내가 보관하면 안 될까?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000795_MSG0030",
+      "style": 1,
+      "name": "다른 건 분명 압수 후에\n처분될 게 뻔하다고[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000795_MSG0031",
+      "style": 1,
+      "name": "하지만 술이라면 내가 보관할 수도 있고\n혹시 그 녀석이 돌아오면……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000795_MSG0032",
+      "style": 1,
+      "name": "그때는 같이 한잔할 수도 있으니까[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000795_MSG0033",
+      "style": 1,
+      "name": "그리고…… 액자도[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000795_MSG0034",
+      "style": 1,
+      "name": "그 녀석의 아내와 딸이\n행복하게 찍혀 있잖아[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000795_MSG0035",
+      "style": 1,
+      "name": "우리는 수많은 가족을\n지구에 둔 채 흰고래에 탔어……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000795_MSG0036",
+      "style": 1,
+      "name": "그게 잘못이라는 건 아니지만\n우리가 어떤 희생과 책임을 지고\n지금 이 별에 있는지 잊어선 안 돼[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000795_MSG0037",
+      "style": 1,
+      "name": "너도……\n라오와 그의 가족의 몫까지 열심히 하라고[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000795_MSG0038",
+      "style": 1,
+      "name": "그러기 위해서……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev000795_MSG0039",
+      "style": 1,
+      "name": "라오의 무기와 방어구는 너한테 맡길게\n그러는 편이 좋겠지?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev000795_MSG0040",
+      "style": 1,
+      "name": "괜찮아, 물건이 몇 개 빠져도\n내가 혼나면 끝날 문제니까[ST:wait ]"
+    }
+  ]
+}

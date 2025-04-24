@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12180100_MSG0001",
+      "style": 0,
+      "name": "これは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12180100_MSG0002",
+      "style": 0,
+      "name": "先の戦闘による破壊じゃない[ST:wide ]―\nもっと以前の　ミラ落着時の破損だわ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12180100_MSG0003",
+      "style": 0,
+      "name": "確かに　かなり損傷が激しいな\n外からでは全く分からなかったが[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs12180100_MSG0004",
+      "style": 0,
+      "name": "ナギ　これよりデータベースの中へと入るわ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12180100_MSG0005",
+      "style": 0,
+      "name": "くれぐれも注意してくれ\n我々の命の源だからな[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs12180100_MSG0006",
+      "style": 0,
+      "name": "了解[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12180100_MSG0007",
+      "style": 0,
+      "name": "こ　これは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12180100_MSG0008",
+      "style": 0,
+      "name": "どうした　エルマ\nデータベースに何かあったのか？[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs12180100_MSG0009",
+      "style": 0,
+      "name": "こんな[ST:wide ]―　こんなことって[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12180100_MSG0010",
+      "style": 0,
+      "name": "エルマ　状況を報告してくれ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12180100_MSG0011",
+      "style": 0,
+      "name": "エルマ！[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs12180100_MSG0012",
+      "style": 0,
+      "name": "ナギ[ST:wide ]―　事実だけを伝えるわ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs12180100_MSG0013",
+      "style": 0,
+      "name": "データベースは　あなた達の意識が\n保存されているはずのシステムは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs12180100_MSG0014",
+      "style": 0,
+      "name": "ずっと以前に壊れていた[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12180100_MSG0015",
+      "style": 0,
+      "name": "壊れていただって？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12180100_MSG0016",
+      "style": 0,
+      "name": "どういうことだ？\n詳しく説明してくれ！[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs12180100_MSG0017",
+      "style": 0,
+      "name": "データベースは稼働停止している\n昨日今日　壊れたわけではない[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12180100_MSG0018",
+      "style": 0,
+      "name": "ミラ落着の時に　すでに失われていたのよ！[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs12180100_MSG0019",
+      "style": 0,
+      "name": "そんな馬鹿な！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12180100_MSG0020",
+      "style": 0,
+      "name": "で　では我々は[ST:wide ]―\n今　ここにこうしている我々は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs12180100_MSG0021",
+      "style": 0,
+      "name": "そう[ST:wide ]―　皆は何故　動いていられるの？[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "xs12180100_MSG0022",
+      "style": 0,
+      "name": "システムは壊れているのに[ST:wide ]―\n意識も記憶も存在しないはずなのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12180100_MSG0023",
+      "style": 0,
+      "name": "何かあるというの[ST:wide ]―　この星に[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12180100_MSG9000",
+      "style": 0,
+      "name": "[ST:wide ]―　データベース区画　[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "xs12180100_MSG9001",
+      "style": 0,
+      "name": "This story is never ending..."
+    }
+  ]
+}

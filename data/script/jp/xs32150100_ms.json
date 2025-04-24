@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32150100_MSG0010",
+      "style": 0,
+      "name": "サンキューだヨ[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32150100_MSG0020",
+      "style": 0,
+      "name": "仲間を失ったのはザンネンだけど\n彼は任務を達成したんだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32150100_MSG0030",
+      "style": 0,
+      "name": "褒めてあげないとだヨ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32150100_MSG0040",
+      "style": 0,
+      "name": "くそっ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32150100_MSG0050",
+      "style": 0,
+      "name": "ヴォイドの野郎[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32150100_MSG0060",
+      "style": 0,
+      "name": "司令　勝ちましょう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32150100_MSG0070",
+      "style": 0,
+      "name": "ヴォイドとの戦いに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32150100_MSG0080",
+      "style": 0,
+      "name": "必ず[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32150100_MSG0090",
+      "style": 0,
+      "name": "リン[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32150100_MSG0100",
+      "style": 0,
+      "name": "あったりめぇだ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32150100_MSG0110",
+      "style": 0,
+      "name": "命を無駄にしてたまるか[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32150100_MSG0120",
+      "style": 0,
+      "name": "熱くなっているところ悪いが[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32150100_MSG0130",
+      "style": 0,
+      "name": "アレスの分析はどうなっている？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32150100_MSG0140",
+      "style": 0,
+      "name": "ユーたちのおかげでベリベリ進んだヨ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32150100_MSG0150",
+      "style": 0,
+      "name": "伝えたい事があるから\nアフターで隔離格納庫に来てほしいんだヨ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32150100_MSG0160",
+      "style": 0,
+      "name": "分かった　後で行く[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32150100_MSG0170",
+      "style": 0,
+      "name": "色々あったが任務は完了だ[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32150100_MSG0180",
+      "style": 0,
+      "name": "お疲れさん[ST:wait ]"
+    }
+  ]
+}

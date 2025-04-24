@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086702_MSG0001",
+      "style": 0,
+      "name": "うわぁ　ここってＮＬＡがよく見えるんですね[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086702_MSG0002",
+      "style": 0,
+      "name": "どれですも？\nタツ達の街がどこに見えるんですも？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086702_MSG0003",
+      "style": 0,
+      "name": "目の前にあるじゃない[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086702_MSG0004",
+      "style": 0,
+      "name": "みなさん　タツがジュンシンムクだからって\nダマしちゃダメですも[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086702_MSG0005",
+      "style": 0,
+      "name": "ＮＬＡはあんなお皿の上に乗ってないですも[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086702_MSG0006",
+      "style": 0,
+      "name": "お皿の上[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086702_MSG0007",
+      "style": 0,
+      "name": "確かに　ここからだとそんな風に見えるわね\nでもあれが私達の街よ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086702_MSG0008",
+      "style": 0,
+      "name": "外から見ると　こんなに小さいんですね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086702_MSG0009",
+      "style": 0,
+      "name": "ＮＬＡが小さいわけではないわ\nミラの大地が広大なだけ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086702_MSG0010",
+      "style": 0,
+      "name": "そっか　でも　宇宙はもっと広くて\n地球はずっと遠くにある[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086702_MSG0011",
+      "style": 0,
+      "name": "ううん　あったんですよね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086702_MSG0012",
+      "style": 0,
+      "name": "そう　そして地球人類は\nその距離を越えてあの街を運んできた[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086702_MSG0013",
+      "style": 0,
+      "name": "それは偉大な行為よ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086702_MSG0014",
+      "style": 0,
+      "name": "そうですも！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086702_MSG0015",
+      "style": 0,
+      "name": "だからこそ　ノポンも他の種族も\nあの街で仲良く暮らせるんですも！[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086702_MSG0016",
+      "style": 0,
+      "name": "そうね　そしていつか　また白鯨で\n宇宙に飛び立てる日が来たら素晴らしいわね[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev086702_MSG0017",
+      "style": 0,
+      "name": "ミラで出逢った友人達と一緒に[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev086702_MSG0018",
+      "style": 0,
+      "name": "うわぁ　それって素敵ですね[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev086702_MSG0019",
+      "style": 0,
+      "name": "でもエルマさん\nどうしてこの時間にこの場所だったんですか？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev086702_MSG0020",
+      "style": 0,
+      "name": "ここはね\n白鯨がミラへと不時着したあの日[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev086702_MSG0021",
+      "style": 0,
+      "name": "ドールで護衛に出ていた私が\n初めて降り立った場所なのよ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev086702_MSG0022",
+      "style": 0,
+      "name": "今日のように夕日が綺麗だったわ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev086702_MSG0023",
+      "style": 0,
+      "name": "ライフの件が一段落した今\nもう一度　あの日のことを心に刻み[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev086702_MSG0024",
+      "style": 0,
+      "name": "そして　これからのことを考えたくてね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev086702_MSG0025",
+      "style": 0,
+      "name": "皆に付き合ってもらったの[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev086702_MSG0026",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "qev086702_MSG0027",
+      "style": 0,
+      "name": "皆　後方警戒[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev086702_MSG0028",
+      "style": 0,
+      "name": "こんな所で出逢えるなんて[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev086702_MSG0029",
+      "style": 0,
+      "name": "エルマさん！？[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev086702_MSG0030",
+      "style": 0,
+      "name": "リン　皆と一緒に逃げなさい\nこの原生生物は強い[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev086702_MSG0031",
+      "style": 0,
+      "name": "じゃあ　エルマさんも一緒に！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev086702_MSG0032",
+      "style": 0,
+      "name": "できないわ\nこいつは　こいつだけは私が倒さないと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev086702_JNK0010",
+      "style": 4,
+      "name": "協調"
+    },
+    {
+      "$id": 34,
+      "label": "qev086702_SEL0011",
+      "style": 3,
+      "name": "それなら共に戦おうと告げる"
+    },
+    {
+      "$id": 35,
+      "label": "qev086702_JNK0020",
+      "style": 4,
+      "name": "静観"
+    },
+    {
+      "$id": 36,
+      "label": "qev086702_SEL0021",
+      "style": 3,
+      "name": "まずは落ち着くようなだめる"
+    },
+    {
+      "$id": 37,
+      "label": "qev086702_MSG0033",
+      "style": 0,
+      "name": "だめよ　さっきも言ったでしょ\nこいつは強いと[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev086702_MSG0034",
+      "style": 0,
+      "name": "エルマさん　どうしたんですか？[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev086702_MSG0035",
+      "style": 0,
+      "name": "落ち着いているわ\n私は冷静よ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev086702_MSG0036",
+      "style": 0,
+      "name": "冷静じゃないですよ\n急に一人で戦うなんて[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev086702_MSG0037",
+      "style": 0,
+      "name": "今までもずっとみんなで\n戦ってきたじゃないですか！[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev086702_MSG0038",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "qev086702_MSG0039",
+      "style": 0,
+      "name": "ごめんなさい\n皆　力を貸してくれる？[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev086702_MSG0040",
+      "style": 0,
+      "name": "もちろんです！[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev086702_MSG0041",
+      "style": 0,
+      "name": "まかせるですも！[ST:wait ]"
+    }
+  ]
+}

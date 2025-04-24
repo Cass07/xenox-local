@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000193_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]か[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000193_MSG0002",
+      "style": 1,
+      "name": "お前はもうすっかりこの街の光景を\n見慣れたんだろうな[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000193_MSG0003",
+      "style": 1,
+      "name": "久しぶりにこの商業エリアをゆっくりと\n眺めていると大きな感銘を受けたよ[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000193_MSG0004",
+      "style": 1,
+      "name": "[ST:playername ]は\nこの街をみてどう思う？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000193_JNK0010",
+      "style": 4,
+      "name": "感心する"
+    },
+    {
+      "$id": 6,
+      "label": "tev000193_SEL0011",
+      "style": 3,
+      "name": "まるで地球にいるようだと答える"
+    },
+    {
+      "$id": 7,
+      "label": "tev000193_JNK0020",
+      "style": 4,
+      "name": "素直に答える"
+    },
+    {
+      "$id": 8,
+      "label": "tev000193_SEL0021",
+      "style": 3,
+      "name": "地球人と異星人がいると答える"
+    },
+    {
+      "$id": 9,
+      "label": "tev000193_JNK0030",
+      "style": 4,
+      "name": "質問する"
+    },
+    {
+      "$id": 10,
+      "label": "tev000193_SEL0031",
+      "style": 3,
+      "name": "いつ完成するのだろうと疑問を投げかける"
+    },
+    {
+      "$id": 11,
+      "label": "tev000193_MSG0005",
+      "style": 1,
+      "name": "ははっ[ST:wide ]―\n記憶はなくとも故郷のように\n感じてくれているのかな？[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000193_MSG0006",
+      "style": 1,
+      "name": "しかし　地球にあった街と同じ規模まで\n発展させるにはまだまだ時間が掛かるだろうな[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000193_MSG0007",
+      "style": 1,
+      "name": "俺が感銘を受けていたのは\nそういうノスタルジーではなく\nまったく新しい部分なんだ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000193_MSG0008",
+      "style": 1,
+      "name": "我々が他の星に入植したのはミラが初めてだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000193_MSG0009",
+      "style": 1,
+      "name": "ライフにグロウス[ST:wide ]―いろいろな問題を\n抱えながらも異星人と手を取り合って\n立派に暮らしているだろう？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000193_MSG0010",
+      "style": 1,
+      "name": "街を行きかう地球人と異星人[ST:wide ]―\nこの自然な光景を見ていると\n希望を再確認できたんだ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000193_MSG0011",
+      "style": 1,
+      "name": "宇宙も捨てたもんじゃないとな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000193_MSG0012",
+      "style": 1,
+      "name": "嬉しいことだ\n目の付け所が俺と同じだな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000193_MSG0013",
+      "style": 1,
+      "name": "我々が他の星に入植したのはミラが初めてだ[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000193_MSG0014",
+      "style": 1,
+      "name": "ライフにグロウス[ST:wide ]―いろいろな問題を\n抱えながらも異星人と手を取り合って\n立派に暮らしているだろう？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000193_MSG0015",
+      "style": 1,
+      "name": "街を行きかう地球人と異星人[ST:wide ]―\nこの自然な光景を見ていると\n希望を再確認できたんだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000193_MSG0016",
+      "style": 1,
+      "name": "宇宙も捨てたもんじゃないとな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000193_MSG0017",
+      "style": 1,
+      "name": "ぐっ[ST:wide ]―\nなかなか辛辣な意見だな[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000193_MSG0018",
+      "style": 1,
+      "name": "行政長官にはあまりストレートに\n言わんようにな[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000193_MSG0019",
+      "style": 1,
+      "name": "NLAの人員の多くはブレイドに\n回している\n建築に充てる人員は十分ではないんだ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000193_MSG0020",
+      "style": 1,
+      "name": "よって遅々として進まないのも\n現状ではいたしかたあるまいといったところだ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000193_MSG0021",
+      "style": 1,
+      "name": "しかし　我々が生身の身体を取り戻したら\nこの街は全員が住むには少々狭すぎる[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000193_MSG0022",
+      "style": 1,
+      "name": "異星人の力も借りて急ピッチで完成を\n目指す予定だ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000193_MSG0023",
+      "style": 1,
+      "name": "さて　俺はこの辺りを散歩してみるとするか[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000193_MSG0024",
+      "style": 1,
+      "name": "[ST:playername ]のブレイドホームに\n置いておく湯呑が欲しくてな\n雑貨屋を回ってみようと思う[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000193_MSG0025",
+      "style": 1,
+      "name": "では　またな[ST:wait ]"
+    }
+  ]
+}

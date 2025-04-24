@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092301_MSG0001",
+      "style": 0,
+      "name": "……안녕, 히메리\n잠깐만 시간을 내 줄 수 있을까?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092301_MSG0002",
+      "style": 0,
+      "name": "어머 선배, 무슨 일인가요?\n곤란한 일이 있다면 뭐든 말씀해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092301_MSG0003",
+      "style": 0,
+      "name": "그게 말이지, 요즘 들어서\n블레이드 실종 사건이 연이어 벌어지고 있어[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092301_MSG0004",
+      "style": 0,
+      "name": "결국 3번째 희생자까지 나왔는데\n그들에게 이상한 공통점이 발견됐거든……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev092301_MSG0005",
+      "style": 0,
+      "name": "조사해 보니까, 그 세 사람……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev092301_MSG0006",
+      "style": 0,
+      "name": "한스, 엘버트, 티비는\n모두 여기 단골이라던데?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev092301_MSG0007",
+      "style": 0,
+      "name": "네!?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev092301_MSG0008",
+      "style": 0,
+      "name": "말씀대로……\n자주 상담하러 오시기는 했지만……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev092301_MSG0009",
+      "style": 0,
+      "name": "히메리, 무언가 단서가 될 만한 걸\n알고 있다면 알려 주지 않겠어?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev092301_MSG0010",
+      "style": 0,
+      "name": "죄송합니다\n상담 일은 요즘 오르넬라 씨가 전담하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev092301_MSG0011",
+      "style": 0,
+      "name": "다른 임무 때문에 바깥에 나갈 일도 많아져서……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev092301_MSG0012",
+      "style": 0,
+      "name": "그러고 보니 조수 아주머니도\n보이지 않는 것 같네[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev092301_MSG0013",
+      "style": 0,
+      "name": "네, 아무래도 몸 상태가\n좋지 않은 것 같다고 해서요……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev092301_MSG0014",
+      "style": 0,
+      "name": "그렇군…… 그러면 어쩔 수 없지\n아무튼, 무언가 알게 되면 말해 줘[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev092301_MSG0015",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev092301_MSG0016",
+      "style": 0,
+      "name": "……죄송하지만\n부탁을 드려도 괜찮을까요?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev092301_MSG0017",
+      "style": 0,
+      "name": "이 사건, 저희 쪽에서도 조사하고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev092301_JNK0010",
+      "style": 4,
+      "name": "긍정"
+    },
+    {
+      "$id": 19,
+      "label": "qev092301_SEL0011",
+      "style": 3,
+      "name": "조사하자며 끄덕인다"
+    },
+    {
+      "$id": 20,
+      "label": "qev092301_JNK0020",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 21,
+      "label": "qev092301_SEL0021",
+      "style": 3,
+      "name": "자신들의 일이 아니라며 설득한다"
+    },
+    {
+      "$id": 22,
+      "label": "qev092301_MSG0018",
+      "style": 0,
+      "name": "감사합니다……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev092301_MSG0019",
+      "style": 0,
+      "name": "저…… 가까운 사람이 실종됐다는 소식에……\n옛날 일이 떠올라 버렸거든요……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev092301_MSG0020",
+      "style": 0,
+      "name": "아마 이 상태로는\n다른 임무에도 집중할 수 없겠죠……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev092301_MSG0021",
+      "style": 0,
+      "name": "죄송해요……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev092301_MSG0022",
+      "style": 0,
+      "name": "저…… 가까운 사람이 실종됐다는 소식에……\n옛날 일이 떠올라 버렸거든요……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev092301_MSG0023",
+      "style": 0,
+      "name": "아마 이 상태로는\n다른 임무에도 집중할 수 없겠죠……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev092301_JNK0030",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 29,
+      "label": "qev092301_SEL0031",
+      "style": 3,
+      "name": "히메리의 과거에 관해 묻는다"
+    },
+    {
+      "$id": 30,
+      "label": "qev092301_JNK0040",
+      "style": 4,
+      "name": "응원"
+    },
+    {
+      "$id": 31,
+      "label": "qev092301_SEL0041",
+      "style": 3,
+      "name": "침울해하는 히메리를 격려한다"
+    },
+    {
+      "$id": 32,
+      "label": "qev092301_MSG0024",
+      "style": 0,
+      "name": "남들에게 들려줄 만한 이야기는 아니지만……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev092301_MSG0025",
+      "style": 0,
+      "name": "……저는 고아였어요\n그래서 어릴 때 작은 교회에 맡겨졌죠[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev092301_MSG0026",
+      "style": 0,
+      "name": "그곳에는 아버지로서, 교사로서\n절 키워 주신 신부님이 계셨어요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev092301_MSG0027",
+      "style": 0,
+      "name": "하지만 아버지께서는 어느 날……\n갑자기 행방불명됐고, 시신만이 발견됐죠……[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev092301_MSG0028",
+      "style": 0,
+      "name": "전 아버지의 갑작스러운 죽음에\n그저 떨면서 기도할 수밖에 없었어요……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev092301_MSG0029",
+      "style": 0,
+      "name": "저, 그런 슬픔을 다시 겪는 건 싫어요……[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev092301_MSG0030",
+      "style": 0,
+      "name": "그러니 이번 사건을\n어떻게 해서든 해결하고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev092301_MSG0031",
+      "style": 0,
+      "name": "언제나 감사합니다……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev092301_MSG0032",
+      "style": 0,
+      "name": "뭐라고 해야 할까요[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev092301_MSG0032_2",
+      "style": 0,
+      "name": "당신이 그런 식으로 격려해 줄 때면[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev092301_MSG0033",
+      "style": 0,
+      "name": "아버지와 함께 살던 시절이 떠올라요[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev092301_MSG0034",
+      "style": 0,
+      "name": "제가 혼자 침울해하고 있으면\n따뜻한 코코아를 가지고 와서[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev092301_MSG0035",
+      "style": 0,
+      "name": "상냥하게 말을 걸어 주셨어요……[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev092301_MSG0036",
+      "style": 0,
+      "name": "저도 최선을 다해 노력할 테니\n어떻게 해서든 이 사건을 해결해 봐요[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev092301_MSG0041",
+      "style": 0,
+      "name": "……그러면 일단 탐문 수사부터네요[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev092301_MSG0042",
+      "style": 0,
+      "name": "도시 사람들의 소문에 귀 기울이며\n행방불명자의 정보를 모아 봐요[ST:wait ]"
+    }
+  ]
+}

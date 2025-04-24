@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087305_MSG0001",
+      "style": 0,
+      "name": "역시 엘마 팀이군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087305_MSG0002",
+      "style": 0,
+      "name": "린, 오르트는 어떤가?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087305_MSG0003",
+      "style": 0,
+      "name": "괜찮아요, 하지만 서둘러야 해요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087305_MSG0004",
+      "style": 0,
+      "name": "NLA로 돌아가자[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087305_MSG0005",
+      "style": 0,
+      "name": "내가 오르트를 업지\n엘마는 선두에서 길을 만들어 다오[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087305_MSG0006",
+      "style": 0,
+      "name": "안 돼, 내가 업겠다\n내가 업어야만 해[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087305_MSG0007",
+      "style": 0,
+      "name": "당신은 선두에서 길을 만들어\n난 후방 경계를 맡을게[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087305_MSG0008",
+      "style": 0,
+      "name": "알겠어, 난 후방 경계를 맡을게[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087305_MSG0009",
+      "style": 0,
+      "name": "부탁한다, 죽어 간 녀석들을 위해서라도\n오르트만은 반드시 살려야 해[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087305_MSG0010",
+      "style": 0,
+      "name": "NLA의 메인터넌스 센터까지\n단숨에 달려가는 거야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev087305_MSG0011",
+      "style": 0,
+      "name": "네![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev087305_JNK0010",
+      "style": 4,
+      "name": "부정"
+    },
+    {
+      "$id": 13,
+      "label": "qev087305_SEL0011",
+      "style": 3,
+      "name": "말없이 오르트에게 다가간다"
+    },
+    {
+      "$id": 14,
+      "label": "qev087305_JNK0020",
+      "style": 4,
+      "name": "정정"
+    },
+    {
+      "$id": 15,
+      "label": "qev087305_SEL0021",
+      "style": 3,
+      "name": "선두는 자신이라며 앞으로 나선다"
+    }
+  ]
+}

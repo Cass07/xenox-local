@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs10090100_MSG0001",
+      "style": 0,
+      "name": "そんなッ　何で地球人なんかにィ[ST:wide ]―！[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs10090100_MSG0002",
+      "style": 0,
+      "name": "リーズッ[ST:wide ]―！！[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs10090100_MSG0003",
+      "style": 0,
+      "name": "恐ろしい敵でしたも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs10090100_MSG0004",
+      "style": 0,
+      "name": "でも　グロウスもタツ達を敵にまわす\n恐ろしさを知ったに違いないですも！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs10090100_MSG0005",
+      "style": 0,
+      "name": "皆のおかげで　破壊することは出来たけど[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs10090100_MSG0006",
+      "style": 0,
+      "name": "このクラスの機動兵器は\nもう存在しないと思いたいわね[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs10090100_MSG0007",
+      "style": 0,
+      "name": "こんなのに数で来られたら\n私たちの街なんて一瞬で[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs10090100_MSG0008",
+      "style": 0,
+      "name": "そうね[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs10090100_MSG0009",
+      "style": 0,
+      "name": "それだけに一刻も早く\nセントラルライフを見つけないと[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs10090100_MSG0010",
+      "style": 0,
+      "name": "エルマさん？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs10090100_MSG0011",
+      "style": 0,
+      "name": "白樹の大陸で出会った\nガ・デルグというラース人が語った言葉[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs10090100_MSG0012",
+      "style": 0,
+      "name": "グロウスは地球人本来の身体を恐れている[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs10090100_MSG0013",
+      "style": 0,
+      "name": "その理由は分からないけれど\n私達に勝機があるとしたら[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs10090100_MSG0014",
+      "style": 0,
+      "name": "私たちの　身体[ST:wide ]―[ST:wait ]\n"
+    }
+  ]
+}

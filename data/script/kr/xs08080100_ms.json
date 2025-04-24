@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08080100_MSG0001",
+      "style": 0,
+      "name": "시가지에 적이 침입했다고?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs08080100_MSG0002",
+      "style": 0,
+      "name": "수비 부대는 당장 요격해라\n예비 전력도 투입해![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs08080100_MSG0003",
+      "style": 0,
+      "name": "이봐, 우리도 적을 요격하러 간다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08080100_MSG0004",
+      "style": 0,
+      "name": "하지만 이 돌의 경비는요?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08080100_MSG0005",
+      "style": 0,
+      "name": "웡 팀이 남아 있잖아\n우리만이라도 도시를 지키자고[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08080100_MSG0006",
+      "style": 0,
+      "name": "아, 알겠습니다[ST:wait ]"
+    }
+  ]
+}

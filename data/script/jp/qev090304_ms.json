@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090304_MSG0001",
+      "style": 0,
+      "name": "これが[ST:wide ]―　アイツ[ST:wide ]―？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090304_MSG0002",
+      "style": 0,
+      "name": "アイツの最後の身体[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090304_MSG0003",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090304_JNK0030",
+      "style": 4,
+      "name": "慰める"
+    },
+    {
+      "$id": 5,
+      "label": "qev090304_SEL0031",
+      "style": 3,
+      "name": "友の死を前にしたイエルヴに\n慰めの言葉をかける"
+    },
+    {
+      "$id": 6,
+      "label": "qev090304_JNK0040",
+      "style": 4,
+      "name": "諭す"
+    },
+    {
+      "$id": 7,
+      "label": "qev090304_SEL00241",
+      "style": 3,
+      "name": "友の死を認めなければ\n前には進めないと諭す"
+    },
+    {
+      "$id": 8,
+      "label": "qev090304_MSG0004",
+      "style": 0,
+      "name": "ずっと現実から　目を背けてた俺なんかに\nそんな優しい言葉をかけないでくれよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090304_MSG0005",
+      "style": 0,
+      "name": "[ST:wide ]―わかってるんだ　[ST:wide ]―だけどよ\nどうやって受け止めたらいいんだ[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090304_MSG0006",
+      "style": 0,
+      "name": "アイツは　もう戻ってこないんだ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090304_MSG0007",
+      "style": 0,
+      "name": "ずっと二人でやってきたのにこれから俺は\n一人でやってかなきゃならねぇ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev090304_JNK0010",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 13,
+      "label": "qev090304_SEL0011",
+      "style": 3,
+      "name": "一人で生きていく強さが\nイエルヴには必要だと言う"
+    },
+    {
+      "$id": 14,
+      "label": "qev090304_JNK0020",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 15,
+      "label": "qev090304_SEL0021",
+      "style": 3,
+      "name": "相棒ならここにいると\nイエルヴに訴えかける"
+    },
+    {
+      "$id": 16,
+      "label": "qev090304_MSG0008",
+      "style": 0,
+      "name": "アイツも　そんなことを\n言ってたような気がする[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090304_MSG0009",
+      "style": 0,
+      "name": "自分がこの戦場で倒れても\n涙なんか見せずに笑って生きろ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090304_MSG0010",
+      "style": 0,
+      "name": "強い兵士は　よりかかることも一人で\n歩いていくこともできるんだから[ST:wide ]―　って[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090304_MSG0011",
+      "style": 0,
+      "name": "思えばアイツは　自分がいなくなった時\n俺がやってけるか　ずっと心配だったのかもな[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090304_MSG0012",
+      "style": 0,
+      "name": "[ST:wide ]―お前の言う通りだ　俺は強くなって\nアイツの言葉に応えなきゃならねぇ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090304_MSG0013",
+      "style": 0,
+      "name": "[ST:wide ]―そうだったな　悪かった\n今の俺には　お前がいるんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090304_MSG0014",
+      "style": 0,
+      "name": "きっとアイツも　お前みたいな\n新しい相棒がいてくれてほっとしてると思うぜ[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090304_MSG0015",
+      "style": 0,
+      "name": "なんせ　とことん心配性で[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090304_MSG0016",
+      "style": 0,
+      "name": "いつも俺が一人でやってけるか\n気にかけてたような奴だからな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090304_MSG0017",
+      "style": 0,
+      "name": "[ST:wide ]―アイツにこれ以上心配かけないためにも\n俺は　強くならなきゃならねぇ[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090304_MSG0018",
+      "style": 0,
+      "name": "[ST:wide ]―俺のダチは　死んだんだ\nこの身体もすぐに弔ってやらねぇとな[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090304_MSG0019",
+      "style": 0,
+      "name": "行こうぜ　相棒\nこんな所で立ち止まってるヒマはねぇ[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090304_MSG0020",
+      "style": 0,
+      "name": "俺達テスタメントが見つけてくる残骸にゃ[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090304_MSG0021",
+      "style": 0,
+      "name": "ＮＬＡの連中にとって\n大切なものが山ほど埋もれてるんだ[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090304_MSG0022",
+      "style": 0,
+      "name": "ミラ中に落ちた白鯨の残骸から\n地球の思い出　全部持ち帰ってやらなきゃよ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090304_MSG0023",
+      "style": 0,
+      "name": "[ST:wide ]―きっとアイツだったら\nそんな風に駆け回ってたと思うんだ[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090304_MSG0024",
+      "style": 0,
+      "name": "なっ？　これからも頼むぜ　相棒\n一緒にデカイ仕事　成し遂げてやろうぜ？[ST:wait ]"
+    }
+  ]
+}

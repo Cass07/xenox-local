@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs04060100_MSG0001",
+      "style": 0,
+      "name": "여, 여러분, 누가 있다모![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs04060100_JNK0010",
+      "style": 4,
+      "name": "경계"
+    },
+    {
+      "$id": 3,
+      "label": "xs04060100_SEL0011",
+      "style": 3,
+      "name": "린을 감싸며 앞으로 나선다"
+    },
+    {
+      "$id": 4,
+      "label": "xs04060100_JNK0020",
+      "style": 4,
+      "name": "나약"
+    },
+    {
+      "$id": 5,
+      "label": "xs04060100_SEL0021",
+      "style": 3,
+      "name": "린 뒤로 살며시 물러난다"
+    },
+    {
+      "$id": 6,
+      "label": "xs04060100_MSG0002",
+      "style": 0,
+      "name": "자, 잠깐만요, 걸리적거려요!\n앞이 안 보인다고요![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs04060100_MSG0003",
+      "style": 0,
+      "name": "맡겨 주세요\n제가 지키겠어요![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs04060100_MSG0004",
+      "style": 0,
+      "name": "외계인?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs04060100_MSG0005",
+      "style": 0,
+      "name": "바이어스인은…… 아닌 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs04060100_MSG0006",
+      "style": 0,
+      "name": "오오, 그런 야만적인 분들과 같은 취급이라니\n너무합니다, 정말 너무합니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs04060100_MSG0008",
+      "style": 0,
+      "name": "당신은?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs04060100_MSG0009",
+      "style": 0,
+      "name": "제 개체명은 루 시르페\n편하게 루라고 불러 주세요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs04060100_MSG0010",
+      "style": 0,
+      "name": "저 노폰분과 마찬가지로\n이 행성에서 오래전부터 살아온 자입니다[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051507_MSG0001",
+      "style": 1,
+      "name": "やっと来たか！\nずーいぶん　待ち侘びたぜ！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051507_MSG0002",
+      "style": 1,
+      "name": "まっ　俺達の間にゃ\nもう御託はいらないだろ？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051507_MSG0003",
+      "style": 1,
+      "name": "いつだってこうして　やりあって来たんだ！\nなっ？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051507_MSG0004",
+      "style": 1,
+      "name": "早速[ST:wide ]―やろうぜ！[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33080100_MSG0010",
+      "style": 0,
+      "name": "ＮＬＡが[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33080100_MSG0020",
+      "style": 0,
+      "name": "全乗員に告ぐ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33080100_MSG0030",
+      "style": 0,
+      "name": "本艦はこれより２時間後に\n敵の拠点に向けて発進する[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33080100_MSG0040",
+      "style": 0,
+      "name": "各員　出撃準備！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33080100_MSG0050",
+      "style": 0,
+      "name": "最後の任務よ[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33080100_MSG0060",
+      "style": 0,
+      "name": "行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs33080100_MSG0070",
+      "style": 0,
+      "name": "いよいよだな[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs33080100_MSG0080",
+      "style": 0,
+      "name": "ヴォイドのヤロウに\nどっちが敗者か分からせてやる[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs33080100_MSG0090",
+      "style": 0,
+      "name": "ソースイと同じ目にあわせてやるですも！[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs33080100_MSG0100",
+      "style": 0,
+      "name": "故事に言う　肉を斬らせて骨を断つ　ですね[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs33080100_MSG0110",
+      "style": 0,
+      "name": "いや　もっといい言葉あるでしょ[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs33080100_MSG0120",
+      "style": 0,
+      "name": "最初の一発は俺だぜ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs33080100_MSG0130",
+      "style": 0,
+      "name": "んじゃ　最後はあたしだな[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs33080100_MSG0140",
+      "style": 0,
+      "name": "ラオさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs33080100_MSG0150",
+      "style": 0,
+      "name": "必ず生き残ります[ST:wait ]"
+    }
+  ]
+}

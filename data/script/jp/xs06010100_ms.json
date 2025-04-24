@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs06010100_MSG0090",
+      "style": 0,
+      "name": "何をしている！\n応戦しろ[ST:wide ]―近づけるな！[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs06010100_MSG0001",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "xs06010100_MSG0001_02",
+      "style": 0,
+      "name": "ドール部隊でも無力だというのか[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs06010100_MSG0002",
+      "style": 0,
+      "name": "これ以上は　兵士を無駄に\n損耗するだけだと思いますけどねぇ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs06010100_MSG0003",
+      "style": 0,
+      "name": "ようやく見つけた　あの方へ通じる\n手がかりだというのに[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs06010100_MSG0004",
+      "style": 0,
+      "name": "でも　この惑星を取り囲む宇宙は\n直径８００エグゼデ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs06010100_MSG0005",
+      "style": 0,
+      "name": "光速で三日も進めば事象空間が\n一周しちまうんでしょう[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs06010100_MSG0006",
+      "style": 0,
+      "name": "サマール星間連合の本国もあの方もこの宇宙の\nどこにもいないんじゃないですかぁ？[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs06010100_MSG0007",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "xs06010100_MSG0008",
+      "style": 0,
+      "name": "地球とかいう銀河の辺境で\n奴らとドンパチしたはいいものの[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs06010100_MSG0009",
+      "style": 0,
+      "name": "何だかよく分からない光に包まれて\n気づいてみたらこの原始惑星の上[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs06010100_MSG0010",
+      "style": 0,
+      "name": "おまけに地球人まで居る始末[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs06010100_MSG0011",
+      "style": 0,
+      "name": "ここがあの世だって言われても\nあたしは信じますよ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs06010100_MSG0012",
+      "style": 0,
+      "name": "だからこそだ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs06010100_MSG0013",
+      "style": 0,
+      "name": "事象の限界を越えるためにも\nアレを手に入れなくてはならぬ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs06010100_MSG0014",
+      "style": 0,
+      "name": "ルクザール様[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs06010100_MSG0015",
+      "style": 0,
+      "name": "何だ[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs06010100_MSG0016",
+      "style": 0,
+      "name": "実は[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs06010100_MSG0017",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "xs06010100_MSG0018",
+      "style": 0,
+      "name": "そのような者がおるのか[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs06010100_MSG0019",
+      "style": 0,
+      "name": "面白い[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs06010100_MSG0020",
+      "style": 0,
+      "name": "その献策　乗ってみるのも一興かもしれんな[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs06010100_MSG9000",
+      "style": 0,
+      "name": "[ST:wide ]―　グロウス旗艦　[ST:wide ]―[ST:wait ]\n"
+    }
+  ]
+}

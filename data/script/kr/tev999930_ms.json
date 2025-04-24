@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev999930_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tev999930_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tev999930_JNK0030",
+      "style": 4,
+      "name": "배틀 멤버에 넣는다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev999930_SEL0031",
+      "style": 3,
+      "name": "활동 중인 블레이드 대원[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev999930_MSG0001",
+      "style": 1,
+      "name": "하이~[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev999930_MSG0101",
+      "style": 1,
+      "name": "하이~ 만나고 싶었어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev999930_MSG1001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev999930_MSG1111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev999930_MSG2001",
+      "style": 1,
+      "name": "내 유니언의 지원……\n기대해도 좋아[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev999930_MSG2101",
+      "style": 1,
+      "name": "전투 중 지원이라면 의지해도 좋아……\n채찍질해서라도 내 유니언에 시킬 테니까[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev999930_MSG3001",
+      "style": 1,
+      "name": "날 동료로 영입하고 싶은 거지?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev999930_MSG3101",
+      "style": 1,
+      "name": "자, 함께 가자\n어떤 곳이라도 따라가겠어[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev999930_MSG4001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev999930_MSG4101",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev999930_MSG5001",
+      "style": 1,
+      "name": "후훗, 지금은 말 걸지 말아 줘\n조금 바쁘거든[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev999930_MSG5101",
+      "style": 1,
+      "name": "나중에 다시 말 걸어 줄래?\n조금만 더 있으면 끝날 것 같아[ST:wait ]"
+    }
+  ]
+}

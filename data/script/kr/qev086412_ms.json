@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086412_MSG0001",
+      "style": 1,
+      "name": "형도 아빠처럼\n용사가 되는 건가모?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086412_MSG0002",
+      "style": 1,
+      "name": "고츠, 이야기 만드는 걸 좋아하니까\n형의 무용담을 들려줬으면 한다모![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086412_MSG0003",
+      "style": 1,
+      "name": "아빠 안경 멋있다모[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086412_MSG0004",
+      "style": 1,
+      "name": "형의 무용담을 책으로 만들게 되면\n안경 쓴 모습을 표지로 하겠다모![ST:wait ]"
+    }
+  ]
+}

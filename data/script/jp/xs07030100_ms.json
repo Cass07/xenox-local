@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs07030100_MSG0001",
+      "style": 0,
+      "name": "救援要請？\nイリーナのチームが？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs07030100_MSG0002",
+      "style": 0,
+      "name": "ああ　そうなんだ[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs07030100_MSG0003",
+      "style": 0,
+      "name": "どういうことなの？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs07030100_MSG0004",
+      "style": 0,
+      "name": "実は　忘却の渓谷で\nライフポイントが見つかってな[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs07030100_MSG0005",
+      "style": 0,
+      "name": "えっ　ライフポイント見つかったんですか？[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs07030100_MSG0006",
+      "style": 0,
+      "name": "私達には何も知らされていないわ[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs07030100_MSG0007",
+      "style": 0,
+      "name": "ほぼ無傷の状態でな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs07030100_MSG0008",
+      "style": 0,
+      "name": "本命ではなかったんで\nイリーナのチームに頼んだんだ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs07030100_MSG0009",
+      "style": 0,
+      "name": "情報は多い方がいいと思ってな[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs07030100_MSG0011",
+      "style": 0,
+      "name": "イリーナさん達に何があったんですか？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs07030100_MSG0012",
+      "style": 0,
+      "name": "それがな\n付近にグロウスの拠点があったらしい[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs07030100_MSG0013",
+      "style": 0,
+      "name": "なるほど　そこからグロウスの大部隊が現れて\nイリーナ達に攻撃を[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs07030100_MSG0014",
+      "style": 0,
+      "name": "ああ　そうだ　至急[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs07030100_MSG0015",
+      "style": 0,
+      "name": "時間が惜しいわね\nすぐに出発する[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs07030100_MSG0016",
+      "style": 0,
+      "name": "詳細はフロンティアネットにあげておいて[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs07030100_MSG0017",
+      "style": 0,
+      "name": "もうダウンロード可能になってます[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs07030100_MSG0018",
+      "style": 0,
+      "name": "チーム全員の[System:Ruby rt=デバイス ]端末[/System:Ruby]に転送します[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs07030100_MSG0019",
+      "style": 0,
+      "name": "頼む[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs07030100_MSG0020",
+      "style": 0,
+      "name": "稼働時間も減っている今\n貴重な戦力を失うわけにはいかん[ST:wait ]"
+    }
+  ]
+}

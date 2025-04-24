@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08120100_MSG0001",
+      "style": 0,
+      "name": "グオォォォ[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs08120100_MSG0002",
+      "style": 0,
+      "name": "コイツら　原始民族のクセにッ[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs08120100_MSG0003",
+      "style": 0,
+      "name": "その侮りこそが敗因だと気づくべきね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs08120100_MSG0004",
+      "style": 0,
+      "name": "残ったのは　あなた達だけよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs08120100_MSG0005",
+      "style": 0,
+      "name": "はン[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs08120100_MSG0006",
+      "style": 0,
+      "name": "オマエ達を認めてやって生き延びるくらいなら\nあざ笑いながら死ンでやるよ[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs08120100_MSG0007",
+      "style": 0,
+      "name": "リーズ　だめだ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs08120100_JNK0010",
+      "style": 4,
+      "name": "警戒"
+    },
+    {
+      "$id": 9,
+      "label": "xs08120100_SEL0011",
+      "style": 3,
+      "name": "油断なく武器を構え続ける"
+    },
+    {
+      "$id": 10,
+      "label": "xs08120100_JNK0020",
+      "style": 4,
+      "name": "思案"
+    },
+    {
+      "$id": 11,
+      "label": "xs08120100_SEL0021",
+      "style": 3,
+      "name": "武器を下ろし相手を見つめる"
+    },
+    {
+      "$id": 12,
+      "label": "xs08120100_MSG0008",
+      "style": 0,
+      "name": "待って　これ以上戦う必要はないわ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs08120100_MSG0009",
+      "style": 0,
+      "name": "そう　それでいい\n何もする必要はないわ[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs08120100_MSG0010",
+      "style": 0,
+      "name": "どうしたのさ\n怖じ気づいたのかい[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs08120100_MSG0011",
+      "style": 0,
+      "name": "勘違いしているようね[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs08120100_MSG0012",
+      "style": 0,
+      "name": "なんだと？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs08120100_MSG0013",
+      "style": 0,
+      "name": "あなたを殺しても解決にはならないもの[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs08120100_MSG0014",
+      "style": 0,
+      "name": "帰還して上位者に伝えなさい\n地球人はあなた方との衝突を望んでいない[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs08120100_MSG0015",
+      "style": 0,
+      "name": "互いを尊重しつつ　共存することを\n希望する　と[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs08120100_MSG0016",
+      "style": 0,
+      "name": "何くだらないコト言ってンだよ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs08120100_MSG0017",
+      "style": 0,
+      "name": "だいたい　オマエ[ST:wide ]―　勝ったつもりかい[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "xs08120100_MSG0018",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "xs08120100_MSG0019",
+      "style": 0,
+      "name": "アハハハッ！[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "xs08120100_MSG0020",
+      "style": 0,
+      "name": "あの爆発は[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "xs08120100_MSG0021",
+      "style": 0,
+      "name": "エルマ大佐[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs08120100_MSG0022",
+      "style": 0,
+      "name": "別働隊が潜入して格納庫の\n異星人ドールが強奪されました[ST:wait ]"
+    }
+  ]
+}

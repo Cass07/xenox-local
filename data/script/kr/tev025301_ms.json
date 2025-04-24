@@ -1,0 +1,906 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev025301_SEL0011",
+      "style": 3,
+      "name": "이 장소에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev025301_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev025301_SEL0031",
+      "style": 3,
+      "name": "퀘스트 보드에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev025301_SEL0041",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev025301_SEL0051",
+      "style": 3,
+      "name": "블레이드의 임무에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev025301_SEL0041",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev025301_SEL0061",
+      "style": 3,
+      "name": "블레이드의 임무에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": "소문에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev025301_SEL0071",
+      "style": 3,
+      "name": "블레이드의 임무에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev025301_SEL0081",
+      "style": 3,
+      "name": "루에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev025301_SEL0091",
+      "style": 3,
+      "name": "마 논 우주선에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev025301_SEL0101",
+      "style": 3,
+      "name": "야광의 숲에서 발견된\n돌에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "tev025301_SEL0111",
+      "style": 3,
+      "name": "그로우스에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev025301_SEL0121",
+      "style": 3,
+      "name": "습격의 피해에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev025301_SEL0131",
+      "style": 3,
+      "name": "라스인에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev025301_SEL0141",
+      "style": 3,
+      "name": "블레이드 타워의 숫자에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "tev025301_SEL0151",
+      "style": 3,
+      "name": "센트럴 라이프에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "tev025301_SEL0161",
+      "style": 3,
+      "name": "센트럴 라이프에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 56,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "tev025301_SEL0171",
+      "style": 3,
+      "name": "센트럴 라이프에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "tev025301_SEL0181",
+      "style": 3,
+      "name": "블레이드의 임무에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "tev025301_MSG0001",
+      "style": 1,
+      "name": "이건 퀘스트 보드예요\n블레이드로 등록하면…… 어라?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev025301_MSG0002",
+      "style": 1,
+      "name": "[ST:playername ] 씨는\n블레이드로 등록하지 않으신 것 같네요[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev025301_MSG0003",
+      "style": 1,
+      "name": "블레이드로 등록해서 유니언에 소속되면\n이 퀘스트 보드에서 언제든지\n임무를 받을 수 있게 된답니다[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev025301_MSG0004",
+      "style": 1,
+      "name": "[ST:playername ] 씨는\n아직 이 도시에서 어떤 역할을 맡고 살아갈지\n결정하지 않았겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev025301_MSG0005",
+      "style": 1,
+      "name": "분명 훌륭한 블레이드가 될 거라고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev025301_MSG0006",
+      "style": 1,
+      "name": "……후훗, 이곳에서 많은 블레이드를\n배웅해 온 저는 알 수 있답니다[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev025301_MSG0008",
+      "style": 1,
+      "name": "저는 블레이드의 접수 업무를 담당하는\n엘레오노라라고 해요[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev025301_MSG0009",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 73,
+      "label": "tev025301_MSG0010",
+      "style": 1,
+      "name": "임무와 관련해서 궁금한 점이 있으면\n뭐든지 물어봐 주세요[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev025301_MSG0011",
+      "style": 1,
+      "name": "제가 알고 있는 것, 알아볼 수 있는 것이라면\n최대한 도와드릴게요[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev025301_MSG0012",
+      "style": 1,
+      "name": "……그럼 열심히 해 주세요\n[ST:playername ] 씨의 활약 기대하고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev025301_MSG0020",
+      "style": 1,
+      "name": "이 퀘스트 보드 말인데요\n유니언에 소속되어 있지 않으면\n사용할 수 없어요……[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev025301_MSG0021",
+      "style": 1,
+      "name": "[ST:playername ] 씨\n데이터 프로브 설치 임무를 끝내면\n소속 유니언을 정하게 될 테니[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev025301_MSG0022",
+      "style": 1,
+      "name": "그때 다시 와 주세요\n분명 흥미를 끄는 임무가 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev025301_MSG0027",
+      "style": 1,
+      "name": "절 걱정해 주시는 건가요?\n……감사합니다, 괜찮아요[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev025301_MSG0028",
+      "style": 1,
+      "name": "그거, 꼭 도시 사람들에게도\n물어봐 주세요[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "tev025301_MSG0029",
+      "style": 1,
+      "name": "뭔가 마음에 걸리는 일이 있어도\n블레이드에게 의뢰할 정도는 아니야……라고\n생각하는 분도 분명 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "tev025301_MSG0039",
+      "style": 1,
+      "name": "이제 막 연수가 끝났다 싶었는데\n갑자기 행방불명된 넬슨 일행 수색인가요……[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev025301_MSG0040",
+      "style": 1,
+      "name": "반담 사령관님은 당신이\n어지간히도 마음에 들었나 보네요[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "tev025301_MSG0041",
+      "style": 1,
+      "name": "그 사람은 무리한 요구를 많이 하지만\n할 수 있다고 믿는 사람에게만 그러거든요[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev025301_MSG0042",
+      "style": 1,
+      "name": "넬슨 씨 일행이 행방불명된 포인트는\n원초의 황야 남동부랍니다\n첫 임무 힘내세요![ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "tev025301_MSG0043",
+      "style": 1,
+      "name": "……앗, 맞다……\n만약 간단한 임무도 함께 맡아 주시겠다면\n퀘스트 보드를 열람해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "tev025301_MSG0058",
+      "style": 1,
+      "name": "어서 오세요, [ST:playername ] 씨\n수색 임무는 잘됐나요?[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "tev025301_MSG0059",
+      "style": 1,
+      "name": "보고라면 블레이드 홈에 있는\n반담 씨에게 부탁드려요[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "tev025301_MSG0060",
+      "style": 1,
+      "name": "이번에는 자신의 눈으로 신입을 확인하겠다며\n잔뜩 힘이 들어가 계셨거든요[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "tev025301_MSG0077",
+      "style": 1,
+      "name": "어서 오세요, [ST:playername ] 씨\n블레이드 일은 조금 익숙해지셨나요?[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "tev025301_MSG0078",
+      "style": 1,
+      "name": "만약 자신감이 생겼다면\nNLA 서쪽에 펼쳐진 야광의 숲까지\n가 보는 건 어떠세요?[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "tev025301_MSG0079",
+      "style": 1,
+      "name": "그 주변은 아직 데이터 프로브 설치가\n진행되지 않았고……[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "tev025301_MSG0080",
+      "style": 1,
+      "name": "프런티어넷을 넓게 깔아 두면\n사태의 진전을 볼 수 있을지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "tev025301_MSG0081",
+      "style": 1,
+      "name": "만약 아직 불안한 점이 있다면\n퀘스트 보드의 임무를 해결해 가면서\n일에 점점 익숙해지면 돼요[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "tev025301_MSG0086",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 96,
+      "label": "tev025301_MSG0087",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 97,
+      "label": "tev025301_MSG0088",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 98,
+      "label": "tev025301_MSG0089",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 99,
+      "label": "tev025301_MSG0090",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 100,
+      "label": "tev025301_MSG0091",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 101,
+      "label": "tev025301_MSG0092",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 102,
+      "label": "tev025301_MSG0093",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 103,
+      "label": "tev025301_MSG0098",
+      "style": 1,
+      "name": "새로 오신 루 씨는\n상점가를 빠져나가면 나오는 곳에 계세요[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "tev025301_MSG0099",
+      "style": 1,
+      "name": "미라에 사는 분이 함께 싸워 준다는 건\n든든한 일이네요![ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "tev025301_MSG0100",
+      "style": 1,
+      "name": "……그러고 보니 루 씨\n다른 친구는 없는 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "tev025301_MSG0101",
+      "style": 1,
+      "name": "네……? 혼자?\n그런가요…… NLA에서 많은 친구를\n만들었으면 좋겠네요[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "tev025301_MSG0106",
+      "style": 1,
+      "name": "마 논 우주선에는 이미 승선해 보셨나요?[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "tev025301_MSG0107",
+      "style": 1,
+      "name": "블레이드 본부 정면에 설치된\n전송 장치를 통해 갈 수 있답니다[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "tev025301_MSG0108",
+      "style": 1,
+      "name": "그 전송 장치가 어떤 구조인지\n메카닉분들이 달라붙어 조사했어요[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "tev025301_MSG0109",
+      "style": 1,
+      "name": "결국 인체에 영향은 없다는 것밖에\n알 수 없었지만……[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "tev025301_MSG0110",
+      "style": 1,
+      "name": "혹시 워프하는 순간에 다른 생물이 있으면……\n융합되거나 그러는 걸까요……?[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "tev025301_MSG0115",
+      "style": 1,
+      "name": "회수된 기체는 현재 블레이드 에어리어 하층의\n격리 격납고에서 조사 중이라고 해요[ST:wait ]"
+    },
+    {
+      "$id": 113,
+      "label": "tev025301_MSG0116",
+      "style": 1,
+      "name": "대체 왜 그런 곳에\n방치되어 있었는지는 불명이에요……[ST:wait ]"
+    },
+    {
+      "$id": 114,
+      "label": "tev025301_MSG0117",
+      "style": 1,
+      "name": "하지만 그 기체를 조사하면\n적의 목적을 알 수 있을지도 몰라요[ST:wait ]"
+    },
+    {
+      "$id": 115,
+      "label": "tev025301_MSG0118",
+      "style": 1,
+      "name": "빨리 분석이 끝났으면 좋겠네요[ST:wait ]"
+    },
+    {
+      "$id": 116,
+      "label": "tev025301_MSG0125",
+      "style": 1,
+      "name": "망각의 계곡의 데이터베이스 유닛……\n안타깝게 됐네요[ST:wait ]"
+    },
+    {
+      "$id": 117,
+      "label": "tev025301_MSG0126",
+      "style": 1,
+      "name": "대체 어떤 데이터가 기록되어 있었는지……\n앗, 딱히 뭐라고 하는 건 아니에요[ST:wait ]"
+    },
+    {
+      "$id": 118,
+      "label": "tev025301_MSG0127",
+      "style": 1,
+      "name": "그건 그렇고 그로우스라는 조직은\n우리 지구인에 대해\n어디까지 알고 있는 걸까요……[ST:wait ]"
+    },
+    {
+      "$id": 119,
+      "label": "tev025301_MSG0128",
+      "style": 1,
+      "name": "우리는 상대를 모르는데……\n상대만 우리를 알고 있다는 게 불안하네요[ST:wait ]"
+    },
+    {
+      "$id": 120,
+      "label": "tev025301_MSG0135",
+      "style": 1,
+      "name": "희생된 분들은\nB.B. 메인터넌스 센터에 보관되어 있어요[ST:wait ]"
+    },
+    {
+      "$id": 121,
+      "label": "tev025301_MSG0136",
+      "style": 1,
+      "name": "어쩌면 수리할 수 있을지도 모른다면서\n반담 사령관님이 그렇게 지시하셨지만\n……기대하긴 어려워요[ST:wait ]"
+    },
+    {
+      "$id": 122,
+      "label": "tev025301_MSG0137",
+      "style": 1,
+      "name": "미라에 안전하게 불시착했다면……\n흰고래를 잃지 않았다면……[ST:wait ]"
+    },
+    {
+      "$id": 123,
+      "label": "tev025301_MSG0138",
+      "style": 1,
+      "name": "아니지, 이러쿵저러쿵\n과거 일을 후회해도 아무 의미 없죠[ST:wait ]"
+    },
+    {
+      "$id": 124,
+      "label": "tev025301_MSG0139",
+      "style": 1,
+      "name": "센트럴 라이프 발견이 유일한 희망이에요……\n열심히 해 주세요\n[ST:playername ] 씨![ST:wait ]"
+    },
+    {
+      "$id": 125,
+      "label": "tev025301_MSG0145",
+      "style": 1,
+      "name": "라스인의 리더분, 어디선가 본 듯한……[ST:wait ]"
+    },
+    {
+      "$id": 126,
+      "label": "tev025301_MSG0146",
+      "style": 1,
+      "name": "아! 격리 격납고에서 그 돌을\n빼앗아 간 사람이잖아요![ST:wait ]"
+    },
+    {
+      "$id": 127,
+      "label": "tev025301_MSG0147",
+      "style": 1,
+      "name": "그때 반담 사령관님과 감시 카메라를 확인하다가……\n고양이라고 말했더니 개가 아니냐고 받아치셔서……\n설전을……[ST:wait ]"
+    },
+    {
+      "$id": 128,
+      "label": "tev025301_MSG0148",
+      "style": 1,
+      "name": "……죄송해요, 쓸데없는 이야기였네요……\n임무 힘내세요![ST:wait ]"
+    },
+    {
+      "$id": 129,
+      "label": "tev025301_MSG0153",
+      "style": 1,
+      "name": "센트럴 라이프의 가동 시간이\n얼마 남지 않았네요……[ST:wait ]"
+    },
+    {
+      "$id": 130,
+      "label": "tev025301_MSG0154",
+      "style": 1,
+      "name": "비전투원인 스스로가 답답하지만\n저는 싸워 봤자 폐만 끼칠 거예요……[ST:wait ]"
+    },
+    {
+      "$id": 131,
+      "label": "tev025301_MSG0155",
+      "style": 1,
+      "name": "블레이드에게…… [ST:playername ] 씨에게\n전부 맡길 수밖에 없어요[ST:wait ]"
+    },
+    {
+      "$id": 132,
+      "label": "tev025301_MSG0156",
+      "style": 1,
+      "name": "부디 카운트다운이 제로가 되기 전에\n센트럴 라이프를 발견해 주세요![ST:wait ]"
+    },
+    {
+      "$id": 133,
+      "label": "tev025301_MSG0161",
+      "style": 1,
+      "name": "센트럴 라이프가 있는 장소는\n분석 중이에요[ST:wait ]"
+    },
+    {
+      "$id": 134,
+      "label": "tev025301_MSG0162",
+      "style": 1,
+      "name": "시간이 좀 걸릴 것 같으니\n퀘스트 보드 임무를 해 보시는 건 어떠세요?[ST:wait ]"
+    },
+    {
+      "$id": 135,
+      "label": "tev025301_MSG0163",
+      "style": 1,
+      "name": "……맞다\n돌 비행 실험이 시작될 것 같다고\n반담 사령관님에게 들었어요[ST:wait ]"
+    },
+    {
+      "$id": 136,
+      "label": "tev025301_MSG0164",
+      "style": 1,
+      "name": "싱글벙글 웃으시면서\n암즈 성능 시험장으로 가셨으니\n가 보시는 건 어때요?[ST:wait ]"
+    },
+    {
+      "$id": 137,
+      "label": "tev025301_MSG0170",
+      "style": 1,
+      "name": "센트럴 라이프의 위치 분석이\n거의 끝나 간다고 해요[ST:wait ]"
+    },
+    {
+      "$id": 138,
+      "label": "tev025301_MSG0171",
+      "style": 1,
+      "name": "모리스 행정장관님이 여러분에게 이야기하겠다고\n아까 준비하고 계셨어요[ST:wait ]"
+    },
+    {
+      "$id": 139,
+      "label": "tev025301_MSG0172",
+      "style": 1,
+      "name": "바로 새로운 미션을 받을 수 있을 거예요\n자, 블레이드 홈으로 가세요![ST:wait ]"
+    },
+    {
+      "$id": 140,
+      "label": "tev025301_MSG0177",
+      "style": 1,
+      "name": "센트럴 라이프가 있는 좌표로 가기 위해서는\n돌 비행이 필수예요[ST:wait ]"
+    },
+    {
+      "$id": 141,
+      "label": "tev025301_MSG0178",
+      "style": 1,
+      "name": "……혹시\n날지 못해서 갈 수 없었던 곳들이\n신경 쓰이나요?[ST:wait ]"
+    },
+    {
+      "$id": 142,
+      "label": "tev025301_MSG0179",
+      "style": 1,
+      "name": "센트럴 라이프를 확보한 후에라도\n천천히 미라를 탐색할 수 있을 테니\n지금은 임무를 우선시해 주세요[ST:wait ]"
+    },
+    {
+      "$id": 143,
+      "label": "tev025301_MSG0180",
+      "style": 1,
+      "name": "……막지는 않겠지만요[ST:wait ]"
+    },
+    {
+      "$id": 144,
+      "label": "tev025301_MSG0185",
+      "style": 1,
+      "name": "[ST:playername ] 씨, 어서 오세요![ST:wait ]"
+    },
+    {
+      "$id": 145,
+      "label": "tev025301_MSG0186",
+      "style": 1,
+      "name": "길고 어려운 임무였을 텐데\n일단락됐네요! 고생하셨어요![ST:wait ]"
+    },
+    {
+      "$id": 146,
+      "label": "tev025301_MSG0187",
+      "style": 1,
+      "name": "……설마 이제 할 일이 없다면서\n블레이드 홈에서 멍멍이, 야옹이와\n뒹굴뒹굴하거나 그러지는 않겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 147,
+      "label": "tev025301_MSG0188",
+      "style": 1,
+      "name": "NLA에는…… 미라에는\n여전히 임무가 기다리고 있어요![ST:wait ]"
+    },
+    {
+      "$id": 148,
+      "label": "tev025301_MSG0189",
+      "style": 1,
+      "name": "무모한 일을 할 수 있는 건 B.B.일 때뿐이니까……\n다양한 임무에 도전해 주세요[ST:wait ]"
+    }
+  ]
+}

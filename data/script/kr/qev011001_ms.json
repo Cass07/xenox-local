@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev011001_MSG0001",
+      "style": 1,
+      "name": "어이, 동업자[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev011001_MSG0002",
+      "style": 1,
+      "name": "요즘 좀 어때?\n……이쪽은 최악이야[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev011001_MSG0003",
+      "style": 1,
+      "name": "평소와 같은 토벌 임무였어\n그런데……[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev011001_MSG0004",
+      "style": 1,
+      "name": "운 나쁘게 그로우스와 마주쳐서 말이지[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev011001_MSG0005",
+      "style": 1,
+      "name": "팀은 바로 뿔뿔이 흩어지고\n각자 혼자서 맞설 수밖에 없는\n사태에 처한 거야[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev011001_MSG0006",
+      "style": 1,
+      "name": "패배는…… 뻔한 상황이었어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev011001_MSG0007",
+      "style": 1,
+      "name": "결코 준비를 게을리한 게 아니야\n불확실한 요소와 불운이 겹쳤을 뿐이지[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev011001_MSG0008",
+      "style": 1,
+      "name": "하지만……\n결과적으로 두 명의 결원을 냈으니[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev011001_MSG0009",
+      "style": 1,
+      "name": "나도 팀 리더로서는\n끝물인 것 같군[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev011001_JNK0010",
+      "style": 4,
+      "name": "묻는다"
+    },
+    {
+      "$id": 11,
+      "label": "qev011001_SEL0011",
+      "style": 3,
+      "name": "로라는 멤버에 대해\n묻는다"
+    },
+    {
+      "$id": 12,
+      "label": "qev011001_JNK0020",
+      "style": 4,
+      "name": "동정한다"
+    },
+    {
+      "$id": 13,
+      "label": "qev011001_SEL0021",
+      "style": 3,
+      "name": "자신도 운이 없었던 적이\n있다고 말한다"
+    },
+    {
+      "$id": 14,
+      "label": "qev011001_MSG0010",
+      "style": 1,
+      "name": "로?\n로는 우리 팀 멤버가 맞긴 하지만……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev011001_MSG0011",
+      "style": 1,
+      "name": "타이밍이 좋지 않네[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev011001_MSG0012",
+      "style": 1,
+      "name": "두 명의 결원 중 한 명이\n다른 누구도 아닌 그 로야[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev011001_MSG0013",
+      "style": 1,
+      "name": "동정은 하지 말아 줘\n동업자의 동정이 제일 가슴 아프다고[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev011001_MSG0014",
+      "style": 1,
+      "name": "내 입으로 그렇게 말해 놓고 이런 이야기는 좀 그렇지만\n전부 불운 탓으로 돌려 버리면 거기 있는 타오파와\n……그리고 로에게 면목이 없어[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev011001_MSG0015",
+      "style": 1,
+      "name": "……뭐라고?\n넌 로에게 볼일이 있었던 거야?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev011001_MSG0016",
+      "style": 1,
+      "name": "유감스럽지만 타이밍이 좋지 않네[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev011001_MSG0017",
+      "style": 1,
+      "name": "로는 이번 임무에서 적에게 당해서 말이지……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev011001_MSG0018",
+      "style": 1,
+      "name": "물론 최소한의 응급 처치는 했지만\n로의 상처는 버틸 수 없을 만큼 깊어서[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev011001_MSG0019",
+      "style": 1,
+      "name": "다른 멤버를 구하기 위해서는\n녀석을 거기에 두고 올 수밖에 없었어[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev011001_MSG0020",
+      "style": 1,
+      "name": "마르나크뿐만이 아니야, 베르델로도 있었어\n이너로는 도저히 대항할 수 없었어……[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev011001_MSG0021",
+      "style": 1,
+      "name": "그래서 나는 적진의 한복판에\n로를 그대로 두고 온 거야……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev011001_MSG0022",
+      "style": 1,
+      "name": "………………[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev011001_MSG0023",
+      "style": 1,
+      "name": "……?\n로와 헤어진 장소?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev011001_MSG0024",
+      "style": 1,
+      "name": "무너진 다리 아래에 있는 동굴 같은 장소였는데[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev011001_MSG0025",
+      "style": 1,
+      "name": "……설마\n구하러 가려고!?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev011001_MSG0026",
+      "style": 1,
+      "name": "그야…… 더할 나위 없이 반가운 이야기지만……[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev011001_MSG0027",
+      "style": 1,
+      "name": "적은 강하다고, 정말 괜찮겠어?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev011001_MSG0028",
+      "style": 1,
+      "name": "……그런가\n뭐, 동업자에게 「괜찮겠어?」라는 건\n어리석은 질문이었군[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev011001_MSG0029",
+      "style": 1,
+      "name": "우리는 항상 자신의 역량을 파악하고 행동하지\n……그게 제1의 철칙이야[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev011001_MSG0030",
+      "style": 1,
+      "name": "미안……\n그럼 정식으로 의뢰할게[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev011001_MSG0031",
+      "style": 1,
+      "name": "동료 로를 구출해 줘[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev011001_MSG0032",
+      "style": 1,
+      "name": "그러려면 우선 그로우스 녀석들을\n어느 정도 정리하고 안전을 확보해야 해[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev011001_MSG0033",
+      "style": 1,
+      "name": "장소는 여기서 북서쪽……\n무너진 다리 아래에 있는 동굴이야[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev011001_MSG0034",
+      "style": 1,
+      "name": "그로우스와 조우하는 건 예상 못 한 일이었어[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev011001_MSG0035",
+      "style": 1,
+      "name": "장소는 여기에서 북서쪽\n무너진 다리 아래에 있는 동굴 같은 장소인데……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev011001_MSG0036",
+      "style": 1,
+      "name": "얕보고 덤비지 말라고\n적은 상당한 숙련자들이니까[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev011001_MSG0037",
+      "style": 1,
+      "name": "무사했구나……\n그 모습을 보아하니 로는 이미\n시체가 되어 있었나 보네……[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev011001_MSG0038",
+      "style": 1,
+      "name": "명랑하고 가벼웠지만\n뚝심 있고 좋은 녀석이었어……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev011001_MSG0039",
+      "style": 1,
+      "name": "아니, 아무튼 미안했다\n고마워[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev011001_MSG0040",
+      "style": 1,
+      "name": "그로우스를 쓰러뜨려 준 걸로\n원수를 갚은 것으로 치고 싶지는 않지만\n어느 정도는 속이 시원하군[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev011001_MSG0041",
+      "style": 1,
+      "name": "……그래서?\n당신은 로에게 무슨 용건이 있었던 거야?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev011001_MSG0042",
+      "style": 1,
+      "name": "이런 결과가 되어 버렸지만\n내가 알고 있는 거라면 협력할게[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev011001_JNK0030",
+      "style": 4,
+      "name": "묻는다"
+    },
+    {
+      "$id": 48,
+      "label": "qev011001_SEL0031",
+      "style": 3,
+      "name": "키에 관해 묻는다"
+    },
+    {
+      "$id": 49,
+      "label": "qev011001_JNK0040",
+      "style": 4,
+      "name": "확인한다"
+    },
+    {
+      "$id": 50,
+      "label": "qev011001_SEL0041",
+      "style": 3,
+      "name": "로에 관해 확인한다"
+    },
+    {
+      "$id": 51,
+      "label": "qev011001_MSG0043",
+      "style": 1,
+      "name": "키?\n아아, 그러고 보니……[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev011001_MSG0044",
+      "style": 1,
+      "name": "엄청난 가치가 있는 거라고\n자랑하면서 보여 준 게 있었지……[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev011001_MSG0045",
+      "style": 1,
+      "name": "딱 봐도 낡아 빠진 키였으니까\n어디서 사기라도 당했거니 생각했는데……[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev011001_MSG0046",
+      "style": 1,
+      "name": "사실은 진짜였던 걸지도[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev011001_MSG0047",
+      "style": 1,
+      "name": "로가……\n보물에 관한 정보를 갖고 있었냐고?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev011001_MSG0048",
+      "style": 1,
+      "name": "혹시 그 키 말하는 건가?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev011001_MSG0049",
+      "style": 1,
+      "name": "전에 엄청난 가치가 있는 거라고\n뽐내듯이 보여 준 게 있었는데……[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev011001_MSG0050",
+      "style": 1,
+      "name": "로가 보물에 관한 정보를 갖고 있다고 하면\n분명 그 정도뿐일 거야[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev011001_MSG0051",
+      "style": 1,
+      "name": "이게…… 로가 늘 지니고 다녔던\n펜던트야[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev011001_MSG0052",
+      "style": 1,
+      "name": "펜던트 헤드를 봐 줘\n열쇠처럼 되어 있지?[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev011001_MSG0053",
+      "style": 1,
+      "name": "녀석은 끝까지\n진짜 열쇠라고 주장했지만\n우리는 농담이라고만 생각했어[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev011001_MSG0054",
+      "style": 1,
+      "name": "솔직히 지금도 좀 반신반의하지만……[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev011001_MSG0055",
+      "style": 1,
+      "name": "확인해 보고 싶으면 가져가 줘[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev011001_MSG0056",
+      "style": 1,
+      "name": "뭐, 유품이 될 만한 건 또 있고\n로 입장에서도 자신의 시신을 옮겨 준 사람에게\n뭔가 보답이라도 하고 싶을 테니까[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev011001_MSG0057",
+      "style": 1,
+      "name": "그럼 또 보자, 정말 신세 많았어[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev011001_MSG0058",
+      "style": 1,
+      "name": "만약 그 열쇠로 정말 보물을 얻게 된다면……[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev011001_MSG0059",
+      "style": 1,
+      "name": "녀석의 무덤에\n제일 호화로운 꽃을 바쳐 줘[ST:wait ]"
+    }
+  ]
+}

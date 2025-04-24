@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040906_MSG0001",
+      "style": 1,
+      "name": "여…… 여기는 반응이 더 크다모!\n무이무이에게 맡겨 줘모!![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040906_MSG0002",
+      "style": 1,
+      "name": "모모모모모모모모모모모모모모모!!!!\n……모!?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev040906_MSG0003",
+      "style": 1,
+      "name": "이…… 이건! 드디어 찾아냈다모!\n이게 바로 전설의 검이다모!![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev040906_JNK0010",
+      "style": 4,
+      "name": "확인"
+    },
+    {
+      "$id": 5,
+      "label": "qev040906_SEL0011",
+      "style": 3,
+      "name": "이번엔 진짜냐고 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "qev040906_JNK0020",
+      "style": 4,
+      "name": "자부"
+    },
+    {
+      "$id": 7,
+      "label": "qev040906_SEL0021",
+      "style": 3,
+      "name": "주로 자신 덕분이라며\n가슴을 편다"
+    },
+    {
+      "$id": 8,
+      "label": "qev040906_MSG0004",
+      "style": 1,
+      "name": "보여? 코등이 부분에 확실히\n기묘한 문양이 나타났다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev040906_MSG0005",
+      "style": 1,
+      "name": "모이모이가 말한 대로다모……\n이번에야말로 분명 진짜다모![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev040906_MSG0006",
+      "style": 1,
+      "name": "모~~~! 아니다모!\n무이무이와 모이모이 덕분이기도 하다모![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev040906_MSG0007",
+      "style": 1,
+      "name": "이제 이걸 상관인 월터에게 전하면\n제대로 일확천금 버는 거다모![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev040906_MSG0008",
+      "style": 1,
+      "name": "후후, 돈을 듬뿍 받아서\n음식을 이것저것 다 먹어 치울 거다모~![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev040906_MSG0009",
+      "style": 1,
+      "name": "모이모이한테 파티 준비를 시켜 둘 테니\n자! 서둘러서 컴백 NLA다모![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001392_MSG0001",
+      "style": 1,
+      "name": "안녕하세요, [ST:playername ] 씨[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001392_MSG0002",
+      "style": 1,
+      "name": "여기서 록과 함께 쉬고 있었어요[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001392_MSG0003",
+      "style": 1,
+      "name": "공원에는 식물만 조금 있을 뿐이지만\n마음이 진정돼요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001392_MSG0004",
+      "style": 1,
+      "name": "제가 살던 별은 나무가 많고\n자연이 풍부한 곳이었어요[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001392_MSG0005",
+      "style": 1,
+      "name": "그래서 고향이 생각난달까……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001392_MSG0006",
+      "style": 1,
+      "name": "당신의 고향……\n지구는 어떤 곳이었나요?\n괜찮다면 가르쳐 주세요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001392_JNK0010",
+      "style": 4,
+      "name": "사진"
+    },
+    {
+      "$id": 8,
+      "label": "tev001392_SEL0011",
+      "style": 3,
+      "name": "사진에는 자연도 있고\n인공물도 많이 찍혀 있었다고 대답한다"
+    },
+    {
+      "$id": 9,
+      "label": "tev001392_JNK0020",
+      "style": 4,
+      "name": "기록"
+    },
+    {
+      "$id": 10,
+      "label": "tev001392_SEL0021",
+      "style": 3,
+      "name": "자연을 점점 파괴했다는 기록을\n읽었다고 대답한다"
+    },
+    {
+      "$id": 11,
+      "label": "tev001392_JNK0030",
+      "style": 4,
+      "name": "틈새 지식"
+    },
+    {
+      "$id": 12,
+      "label": "tev001392_SEL0031",
+      "style": 3,
+      "name": "육지와 바다의 비율이 3 대 7이었다고\n가르쳐 준다"
+    },
+    {
+      "$id": 13,
+      "label": "tev001392_MSG0007",
+      "style": 1,
+      "name": "그렇군요\n원초의 황야 같은 느낌이었나요?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001392_MSG0008",
+      "style": 1,
+      "name": "식물이 많고 그 안에 이렇게\n큰 도시가 있는 듯한……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001392_MSG0009",
+      "style": 1,
+      "name": "자연과 잘 공존하고 지냈다면\n분명 멋진 별이었겠죠[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001392_MSG0010",
+      "style": 1,
+      "name": "만약 지구에 갈 수 있다면 가 보고 싶어요\n그리고 관광해 보고 싶어요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001392_MSG0011",
+      "style": 1,
+      "name": "록이 잘 만한 곳이 있을지\n걱정되지만요[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001392_MSG0012",
+      "style": 1,
+      "name": "그런가요……\n슬픈 일이네요[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001392_MSG0013",
+      "style": 1,
+      "name": "저희는 별 위에 살고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001392_MSG0014",
+      "style": 1,
+      "name": "다시 말해 자연 속에 살고 있다고\n할 수도 있어요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001392_MSG0015",
+      "style": 1,
+      "name": "그 기반을 스스로 망가뜨리는 건\n자신을 괴롭히는 것과 마찬가지[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001392_MSG0016",
+      "style": 1,
+      "name": "분명 어쩔 수 없는 사정은 있었겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001392_MSG0017",
+      "style": 1,
+      "name": "아뇨……\n제가 이런 말을 해 봤자 소용없겠죠?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001392_MSG0018",
+      "style": 1,
+      "name": "앞으로 이 별을 소중히 대하면 돼요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001392_MSG0019",
+      "style": 1,
+      "name": "아하~[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001392_MSG0020",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001392_MSG0021",
+      "style": 1,
+      "name": "……어라? 그것뿐인가요?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001392_MSG0022",
+      "style": 1,
+      "name": "그래서 어떤 별이었는지는\n제가 상상해야 한다는 거군요![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001392_MSG0023",
+      "style": 1,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001392_MSG0024",
+      "style": 1,
+      "name": "……바다가 7할이라면\n분명 푸른 별이었을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001392_MSG0025",
+      "style": 1,
+      "name": "육지는 녹색이었나요?\n아니면 온통 흙이었나요?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001392_MSG0026",
+      "style": 1,
+      "name": "지구인분들의 성격을 생각해 보면\n분명 자연은 풍부했을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001392_MSG0027",
+      "style": 1,
+      "name": "작물이 자라지 않는 토지였다면\n분명 바이어스인처럼\n다툼이 끊이지 않았을 테니까요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001392_MSG0028",
+      "style": 1,
+      "name": "제 상상이 맞는지는 모르겠지만\n분명 아름다운 별이었겠죠[ST:wait ]"
+    }
+  ]
+}

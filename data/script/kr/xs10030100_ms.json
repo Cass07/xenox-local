@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs10030100_MSG0001",
+      "style": 0,
+      "name": "이야~ 린의 요리는 언제 먹어도 맛있군[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs10030100_MSG0002",
+      "style": 0,
+      "name": "재료 손질을 철저히 했으니까요![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040406_MSG0001",
+      "style": 1,
+      "name": "おやおや　うちの子たちは　冒険ですかも？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040406_MSG0002",
+      "style": 1,
+      "name": "夜光の森でノポンを見つけるのは\nとっても難しいんですも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev040406_MSG0003",
+      "style": 1,
+      "name": "捕まったり食べられたりすることは\nそうそう無いから\n危ないだなんて思ってないんですも[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev040406_MSG0004",
+      "style": 1,
+      "name": "……どうしてタツは\n捕まったんだろうねぇ……[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091804_MSG0001",
+      "style": 0,
+      "name": "ん？　どうしたんだ姉ちゃん\n今にも人を殺すような目をしてるな[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091804_MSG0002",
+      "style": 0,
+      "name": "あなた　デイル・ギボンね？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091804_MSG0003",
+      "style": 0,
+      "name": "は？　誰だそりゃ？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091804_MSG0004",
+      "style": 0,
+      "name": "しらばっくれるのはやめてくれる？\nさっさと白状しないと問答無用で殺すわよ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091804_MSG0005",
+      "style": 0,
+      "name": "ちょっ　待ってくれ！\n俺はデイルなんとかじゃない！！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091804_MSG0006",
+      "style": 0,
+      "name": "神に誓って！\n俺は生まれてこの方ずっとダートなんだ！！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091804_MSG0007",
+      "style": 0,
+      "name": "[ST:wide ]―どうやらハズレみたいね[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091804_MSG0008",
+      "style": 0,
+      "name": "デイル・ギボンは\nこんなに肝っ玉の小さい男じゃないわ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091804_MSG0009",
+      "style": 0,
+      "name": "マーティンの方へ行ってみましょう[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091804_MSG0010",
+      "style": 1,
+      "name": "くそっ……俺一人じゃなけりゃ\n強く言い返してやれるのに……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091804_MSG0011",
+      "style": 1,
+      "name": "肝っ玉の小さい男で悪かったな……[ST:wait ]"
+    }
+  ]
+}

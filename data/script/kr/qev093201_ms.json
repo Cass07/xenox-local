@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093201_MSG0010",
+      "style": 0,
+      "name": "이봐, 나 왔다\n컨디션은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093201_JNK0020",
+      "style": 4,
+      "name": "평범하게 대답한다"
+    },
+    {
+      "$id": 3,
+      "label": "qev093201_SEL0030",
+      "style": 3,
+      "name": "최고다, 그쪽은?\n이라고 대답한다"
+    },
+    {
+      "$id": 4,
+      "label": "qev093201_MSG0040",
+      "style": 0,
+      "name": "너보다는 낫지, 다시 말해……[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093201_MSG0050",
+      "style": 0,
+      "name": "슈퍼 울트라 최고다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093201_MSG0060",
+      "style": 0,
+      "name": "……이건 별로 재미없군\n잊어버려[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093201_JNK0070",
+      "style": 4,
+      "name": "늘 하는 농담"
+    },
+    {
+      "$id": 8,
+      "label": "qev093201_SEL0080",
+      "style": 3,
+      "name": "최악이다, 그쪽은?\n이라고 대답한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev093201_MSG0090",
+      "style": 0,
+      "name": "너보다는 낫지, 다시 말해 최고다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev093201_MSG0100",
+      "style": 0,
+      "name": "하하, 역시 이런 게 재미있지[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev093201_MSG0110",
+      "style": 0,
+      "name": "뭐, 농담은 이쯤 하고\n너 지금 한가한 것 같은데[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev093201_MSG0120",
+      "style": 0,
+      "name": "기왕 쉬는 날이니 피자나 먹으러 가자\nNLA에도 피자 가게는 있겠지?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093201_MSG0130",
+      "style": 0,
+      "name": "뭐? 왜 하필 피자냐고?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093201_MSG0140",
+      "style": 0,
+      "name": "그야 뻔하잖냐\n……내가 먹고 싶으니까다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093201_MSG0150",
+      "style": 0,
+      "name": "미국에서 살던 시절에는\n진짜 매일같이 먹었거든[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093201_MSG0160",
+      "style": 0,
+      "name": "주말에도 더그랑 라오와 함께 바에 몰려가서\n맥주잔을 들고 갓 구운 피자를 먹었지……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093201_MSG0170",
+      "style": 0,
+      "name": "아아…… 그 짭짤한 살라미와\n껌 같은 식감의 치즈가 그립다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093201_MSG0180",
+      "style": 0,
+      "name": "지구를 떠난 뒤로 오랫동안 못 먹었지만\n기다리는 시간은 이제 끝이야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093201_MSG0190",
+      "style": 0,
+      "name": "자, 얼른 가자[ST:wait ]"
+    }
+  ]
+}

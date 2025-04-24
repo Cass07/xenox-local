@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085605_MSG0001",
+      "style": 0,
+      "name": "아무래도 이 식물에는 비밀이 있는 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085605_MSG0002",
+      "style": 0,
+      "name": "그래, 난 먼저 본부로 돌아가서\n이 일을 보고하지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085605_MSG0003",
+      "style": 0,
+      "name": "보수는 내가 받아서 나눠 주면 될까?\n그때 같이 한턱낼게[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085605_MSG0004",
+      "style": 0,
+      "name": "알겠어, 조심해[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085605_MSG0005",
+      "style": 0,
+      "name": "그럼, 카페에서 만나자고[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085605_MSG0006",
+      "style": 0,
+      "name": "라오 녀석도 부를 테니까\n원하는 만큼 얻어먹어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085605_MSG0007",
+      "style": 0,
+      "name": "물론이죠![ST:wait ]"
+    }
+  ]
+}

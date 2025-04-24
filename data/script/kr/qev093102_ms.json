@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev093102_MSG0010",
+      "style": 0,
+      "name": "늦었잖아, 목 빠지게 기다렸다고[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev093102_MSG0020",
+      "style": 0,
+      "name": "바로 시작해도 상관없지만……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev093102_MSG0025",
+      "style": 0,
+      "name": "그냥 싸우는 건 별로 재미없잖냐[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev093102_MSG0030",
+      "style": 0,
+      "name": "……좋아, 이렇게 하자[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev093102_MSG0040",
+      "style": 0,
+      "name": "만약 날 상대로 이기면\n네 부탁을 딱 하나 들어주지[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev093102_MSG0050",
+      "style": 0,
+      "name": "먼저 싸우자고 한 건 나니까\n특별히 서비스해 줄게[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev093102_MSG0060",
+      "style": 0,
+      "name": "어때, 뭐 바라는 거라도 있어?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev093102_JNK0070",
+      "style": 4,
+      "name": "오만"
+    },
+    {
+      "$id": 9,
+      "label": "qev093102_SEL0080",
+      "style": 3,
+      "name": "아레스를 받겠다고 말한다"
+    },
+    {
+      "$id": 10,
+      "label": "qev093102_JNK0090",
+      "style": 4,
+      "name": "요구"
+    },
+    {
+      "$id": 11,
+      "label": "qev093102_SEL0100",
+      "style": 3,
+      "name": "아레스를 타 보고 싶다고 말한다"
+    },
+    {
+      "$id": 12,
+      "label": "qev093102_MSG0110",
+      "style": 0,
+      "name": "잠깐만……\n진심으로 하는 소리냐?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev093102_MSG0120",
+      "style": 0,
+      "name": "다른 것도 아니고 \"아레스를 내놔\"라니\n내가 지면 사랑하는 이 녀석을 바치라고?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev093102_MSG0130",
+      "style": 0,
+      "name": "일단 확인하는 건데[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev093102_MSG0140",
+      "style": 0,
+      "name": "아레스는 살아 있는 몸이 아니면\n탈 수 없는 물건이야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev093102_MSG0150",
+      "style": 0,
+      "name": "그걸 알고도 하는 말이냐?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev093102_MSG0160",
+      "style": 0,
+      "name": "너 말이야…… 생각보다 엉뚱한 녀석이군\n의외로 고집이 센 점도 공주님 못지않아[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev093102_MSG0170",
+      "style": 0,
+      "name": "하지만…… 재미있군[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev093102_MSG0180",
+      "style": 0,
+      "name": "그렇게까지 큰소리를 치면\n싫어도 마음에 불이 붙는 법이지[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev093102_MSG0190",
+      "style": 0,
+      "name": "다만, 나한테서 아레스를 빼앗을 작정이라면\n그에 어울리는 각오를 하고 덤벼라[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev093102_MSG0200",
+      "style": 0,
+      "name": "너의 모든 걸 내게 보여 봐[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs09050100_MSG0001",
+      "style": 0,
+      "name": "ラオさん！？[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs09050100_MSG0002",
+      "style": 0,
+      "name": "よう[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs09050100_MSG0003",
+      "style": 0,
+      "name": "そんな[ST:wide ]―\nラオさんのチームの人たちはみんな[ST:wide ]―[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs09050100_MSG0004",
+      "style": 0,
+      "name": "ああ　グロウスの奴らの手にかかってな\n俺のミスだ[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs09050100_MSG0005",
+      "style": 0,
+      "name": "私達がもっと早く到着していれば[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs09050100_MSG0006",
+      "style": 0,
+      "name": "あいつらはやられずにすんだってか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs09050100_MSG0007",
+      "style": 0,
+      "name": "別にいいじゃねぇか[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs09050100_MSG0008",
+      "style": 0,
+      "name": "ライフを見つけたら好きなだけ\n蘇ってこられるんだからよ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs09050100_MSG0009",
+      "style": 0,
+      "name": "ラオさん[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs09050100_MSG0010",
+      "style": 0,
+      "name": "幸運だよな　俺達は[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs09050100_MSG0011",
+      "style": 0,
+      "name": "人類の大部分は　地球と共に\n消えちまったっていうのに[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs09050100_MSG0012",
+      "style": 0,
+      "name": "俺達は何度でも復活できる身体を手に入れて\nのうのうと生きている[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs09050100_MSG0013",
+      "style": 0,
+      "name": "セントラルライフを確保できなければ\nその幸運も全て無意味になるわ[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs09050100_MSG0014",
+      "style": 0,
+      "name": "もういいわ　ラオ\nまずは　あなたの治療が先決よ[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs09050100_MSG0015",
+      "style": 0,
+      "name": "私達と一緒に　一度ＮＬＡに戻りましょう[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs09050100_MSG0016",
+      "style": 0,
+      "name": "いや　駄目だ[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs09050100_MSG0017",
+      "style": 0,
+      "name": "グロウスに本命を渡すことになったら\n取り返しがつかない[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs09050100_MSG0018",
+      "style": 0,
+      "name": "あんた達は先を急いでくれ[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs09050100_MSG0019",
+      "style": 0,
+      "name": "ラオさんを置いてなんて行けません！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs09050100_MSG0020",
+      "style": 0,
+      "name": "心配しなさんな\nテスタメントの奴らにでも拾ってもらうさ[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs09050100_MSG0021",
+      "style": 0,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs09050100_MSG0022",
+      "style": 0,
+      "name": "ライフの座標を転送した[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs09050100_MSG0023",
+      "style": 0,
+      "name": "ここから北の方角だ\n悪いが　よろしく頼む[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs09050100_MSG0024",
+      "style": 0,
+      "name": "了解したわ　引き受ける[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs09050100_MSG0025",
+      "style": 0,
+      "name": "急ぎましょう　グロウスに見つかる前に\n任務をすませてしまいたい[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs09050100_MSG0026",
+      "style": 0,
+      "name": "リン[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs09050100_MSG0027",
+      "style": 0,
+      "name": "はい？[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs09050100_MSG0028",
+      "style": 0,
+      "name": "この先はグロウスが多くて危険だ\n君はどこかで待っていた方がいいんじゃないか[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs09050100_MSG0029",
+      "style": 0,
+      "name": "ありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs09050100_MSG0029_2",
+      "style": 0,
+      "name": "でも[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs09050100_MSG0030",
+      "style": 0,
+      "name": "私　エルマさん達と一緒に行きますね[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs09050100_MSG0031",
+      "style": 0,
+      "name": "この先が危険なエリアなら\nそれこそ　いつも以上にがんばらなきゃ！[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs09050100_MSG0032",
+      "style": 0,
+      "name": "私　もっとみんなの役に立ちたいんです！[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs09050100_MSG0033",
+      "style": 0,
+      "name": "心配してくださって\nありがとうございます！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs09050100_MSG0034",
+      "style": 0,
+      "name": "あいつらだって　[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]を失うだけだ\n死ぬわけじゃない[ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "xs09050100_MSG0035",
+      "style": 0,
+      "name": "気にすることはないんだ[ST:wait ]"
+    }
+  ]
+}

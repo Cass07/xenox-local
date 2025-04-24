@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev030601_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev030601_SEL0011",
+      "style": 3,
+      "name": "일에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev030601_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev030601_SEL0021",
+      "style": 3,
+      "name": "곤란한 일이 있는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev030601_MSG0001",
+      "style": 1,
+      "name": "스타카터의 일은\n마 논의 몸을 메인터넌스하는 겁니다\n……다시 말해 의사죠[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev030601_MSG0002",
+      "style": 1,
+      "name": "앗…… 혹시 진찰받으러 오신 분인가요?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev030601_MSG0003",
+      "style": 1,
+      "name": "죄송합니다, 당신 같은 기계 몸은\n전문이 아니라서……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev030601_MSG0004",
+      "style": 1,
+      "name": "……어디 보자, 만약 몸이 안 좋으면\n메카닉에게 부탁하는 게 좋을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev030601_MSG0012",
+      "style": 1,
+      "name": "최근 스타카터에게\n복통을 호소하는 환자가\n갑자기 늘어났습니다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev030601_MSG0013",
+      "style": 1,
+      "name": "여러 가지로 알아봐도 원인은 불명\n……이었지만[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev030601_MSG0014",
+      "style": 1,
+      "name": "환자 중에 기적의 신 덕분에 나았다고\n말하는 분이 있어서 말이죠[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev030601_MSG0017",
+      "style": 1,
+      "name": "치료에 참고할까 해서\n기적의 신을 만나러 왔는데\n아무래도 지구인이 아닌 것 같습니다[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev030601_MSG0018",
+      "style": 1,
+      "name": "음…… 실재하지 않는 분이 치료를?\n잘 모르겠네요……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev030601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev030601_SEL0031",
+      "style": 3,
+      "name": "마 논인의 생태에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev030601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev030601_SEL0041",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev030601_SEL1031",
+      "style": 3,
+      "name": "B.B.에 관해 묻는다"
+    },
+    {
+      "$id": 19,
+      "label": "tev030601_MSG0019",
+      "style": 1,
+      "name": "우리 마 논은 매우 오래 살지만\n아이는 잘 태어나지 않습니다[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev030601_MSG0020",
+      "style": 1,
+      "name": "마 논 우주선에도 없었죠?\n모성에서 소중히 키우고 있기 때문이에요[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev030601_MSG0021",
+      "style": 1,
+      "name": "……만약 미라에서 돌아갈 수 없게 된다면\n여기서 자손을 남길 각오를 해야겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev030601_MSG0022",
+      "style": 1,
+      "name": "그로우스의 위협을 제거한 후에라도 늦지 않아요\n오래 사니까 말이죠[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev030601_MSG0028",
+      "style": 1,
+      "name": "프레지가 떠나갈 때 마 논 몇 명이\n따라가는 걸 봤습니다……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev030601_MSG0031",
+      "style": 1,
+      "name": "이제 말도 안 되는 일은 벌일 수 없겠지만\n좀 신경 쓰이네요[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev030601_MSG0032",
+      "style": 1,
+      "name": "그 여자의 독에 당한 마 논들을\n모두 치료하고 나면 한번 조사해 보고 싶습니다[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev030601_MSG0033",
+      "style": 1,
+      "name": "만약 뭔가 알아내면\n또 도와주세요[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev030601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev030601_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev030601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev030601_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev030601_MSG2010",
+      "style": 1,
+      "name": "프레지는 마지막까지\n기적의 신이 구하러 와 줄 거라고\n믿었던 것 같습니다[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev030601_MSG2011",
+      "style": 1,
+      "name": "그 외계인에게 속았다는 건 명백한데\n불쌍한 지구인이에요……[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev030601_MSG2012",
+      "style": 1,
+      "name": "그 외계인…… 어쩌면 이미 도시 안에\n잠입해 있을지도 모릅니다……\n스타카터도 경계해 두겠어요[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev030601_MSG2013",
+      "style": 1,
+      "name": "어떤 모습으로 변한 건지……\n조그마한 이상한 점도 놓치지 않게\n경계하도록 해요[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev030601_MSG2018",
+      "style": 1,
+      "name": "……어라?\n당신은 아직 기계의 몸인가요?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev030601_MSG2019",
+      "style": 1,
+      "name": "센트럴 라이프로 갔다고 들어서\n당연히 원래 몸으로 돌아올 줄 알았습니다[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev030601_MSG2020",
+      "style": 1,
+      "name": "지구인의 몸을 의사의 시점으로\n구석구석 조사해 보고 싶었는데……\n조금 아쉽네요[ST:wait ]"
+    }
+  ]
+}

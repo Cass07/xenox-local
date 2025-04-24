@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs02030100_MSG0001",
+      "style": 0,
+      "name": "해냈네요, 엘마 씨[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs02030100_MSG0002",
+      "style": 0,
+      "name": "잘했어, 린\n그리고……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs02030100_MSG0003",
+      "style": 0,
+      "name": "당신도 말이지[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs02030100_MSG0004",
+      "style": 0,
+      "name": "바로 데이터 프로브를 설치하자[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs02030100_MSG0005",
+      "style": 0,
+      "name": "꾸물거리다간\n다른 원시 생물과 마주칠 위험이 있어[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs02030100_MSG0006",
+      "style": 0,
+      "name": "이 빛나는 오브젝트가\n프런티어넷 스폿이야[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs02030100_MSG0007",
+      "style": 0,
+      "name": "데이터 프로브를 설치하는 데 최적의 장소지[ST:wait ]"
+    }
+  ]
+}

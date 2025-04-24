@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev086001_MSG0001",
+      "style": 0,
+      "name": "リンさん　どうしたですも？\n手が止まってるですも[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev086001_MSG0002",
+      "style": 0,
+      "name": "はやくご飯ですも！\nタツ　お腹すきましたも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev086001_MSG0003",
+      "style": 0,
+      "name": "あっ　ごめんね\nちょっと待っててね[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev086001_MSG0004",
+      "style": 0,
+      "name": "リン　どうしたの？\n具合でも悪いの？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev086001_MSG0005",
+      "style": 0,
+      "name": "いえ　違います[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev086001_MSG0006",
+      "style": 0,
+      "name": "実は　工業エリアのエネルギー供給システムに\n伝送損失が確認されたんです[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev086001_MSG0007",
+      "style": 0,
+      "name": "以前　あなたが修復した所ね\n損失率は？[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev086001_MSG0008",
+      "style": 0,
+      "name": "昨日から５パーセントを超えてます[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev086001_MSG0009",
+      "style": 0,
+      "name": "それならまだ　安全係数以下のはずだけど[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev086001_MSG0010",
+      "style": 0,
+      "name": "それはそうなんですけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev086001_MSG0011",
+      "style": 0,
+      "name": "でも　この間の修復で\nロスは全部つぶしたはずなんです[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev086001_MSG0012",
+      "style": 0,
+      "name": "計測値未満が一年は続くと思ってたのに[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev086001_MSG0013",
+      "style": 0,
+      "name": "メカニックとしての　あなたのプライドね[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev086001_MSG0014",
+      "style": 0,
+      "name": "いいでしょう　この件は任務として引き受ける\n再点検に行きましょう[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev086001_MSG0015",
+      "style": 0,
+      "name": "はい[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev086001_MSG0016",
+      "style": 0,
+      "name": "タツのご飯～～[ST:wait ]"
+    }
+  ]
+}

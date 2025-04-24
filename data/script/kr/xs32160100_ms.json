@@ -1,0 +1,792 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs32160100_MSG0010",
+      "style": 0,
+      "name": "이봐, 컨디션은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs32160100_MSG0020",
+      "style": 0,
+      "name": "최악이당, 넌 어떠냥?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs32160100_MSG0030",
+      "style": 0,
+      "name": "너보다는 낫지, 다시 말해 최고다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs32160100_MSG0040",
+      "style": 0,
+      "name": "다행이양![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs32160100_MSG0050",
+      "style": 0,
+      "name": "알 씨, 이곳 생활에 완전히 익숙해졌네요[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs32160100_MSG0060",
+      "style": 0,
+      "name": "저렇게 허물없이 대하면\n금방 친해질 수 있는 게 좋은 점이지[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs32160100_MSG0080",
+      "style": 0,
+      "name": "이봐, 컨디션은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs32160100_MSG0090",
+      "style": 0,
+      "name": "물론 최악이다모![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs32160100_MSG0100",
+      "style": 0,
+      "name": "그쪽은 어떤가모?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs32160100_MSG0110",
+      "style": 0,
+      "name": "더 최악인 기분이야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs32160100_MSG0120",
+      "style": 0,
+      "name": "알 씨, 그거 아니다모~![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs32160100_MSG0130",
+      "style": 0,
+      "name": "매번 똑같으면 재미없잖냐[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs32160100_MSG0140",
+      "style": 0,
+      "name": "치사하다모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs32160100_MSG0150",
+      "style": 0,
+      "name": "엘마……[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs32160100_MSG0160",
+      "style": 0,
+      "name": "이 귀찮은 녀석 조용히 좀 시켜 줘[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs32160100_MSG0170",
+      "style": 0,
+      "name": "그래서?\n새로운 정보는?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs32160100_MSG0180",
+      "style": 0,
+      "name": "엘마[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs32160100_MSG0190",
+      "style": 0,
+      "name": "아레스는 너의 행성에서 재생됐다고 들었는데[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs32160100_MSG0195",
+      "style": 0,
+      "name": "그 기체에 대해 어디까지 알고 있어?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs32160100_MSG0200",
+      "style": 0,
+      "name": "재생이라고 하면 말은 그럴듯하지만, 실상은[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs32160100_MSG0210",
+      "style": 0,
+      "name": "발굴된 초고대 프레임에\n보조 동력이나 장갑을 더해서[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs32160100_MSG0220",
+      "style": 0,
+      "name": "어떻게든 움직일 수 있는 상태로 만들었다는 게\n맞는 말이겠네[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs32160100_MSG0230",
+      "style": 0,
+      "name": "즉, 코어에 관해서는\n아무것도 몰랐군[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs32160100_MSG0240",
+      "style": 0,
+      "name": "알고 있었으면\n내가 지구에 가져갔을 때 설명했을 거야[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs32160100_MSG0250",
+      "style": 0,
+      "name": "그건 그렇지……[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs32160100_MSG0260",
+      "style": 0,
+      "name": "상당히 뜸 들이네[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs32160100_MSG0270",
+      "style": 0,
+      "name": "아레스의 코어는……[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs32160100_MSG0280",
+      "style": 0,
+      "name": "아무래도 초고대에 존재했던 장치를\n기반으로 한 것 같다[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs32160100_MSG0290",
+      "style": 0,
+      "name": "장치?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs32160100_MSG0300",
+      "style": 0,
+      "name": "시공을 뒤틀어\n대상을 다른 세계로 전이시키는 장치야[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs32160100_MSG0310",
+      "style": 0,
+      "name": "멀티버스라든가……[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs32160100_MSG0320",
+      "style": 0,
+      "name": "옛날 영화에 그런 이야기 자주 나왔잖아[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs32160100_MSG0330",
+      "style": 0,
+      "name": "그게 현실이 되다니……[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs32160100_MSG0340",
+      "style": 0,
+      "name": "아레스가 코어를 매개로 발생시킨 에너지는\n차원이 달랐어[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs32160100_MSG0350",
+      "style": 0,
+      "name": "시뮬레이션에 의하면\n최대로 발휘할 경우[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs32160100_MSG0360",
+      "style": 0,
+      "name": "가볍게 시공을 뒤틀 수 있지[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs32160100_MSG0370",
+      "style": 0,
+      "name": "그렇구나[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs32160100_MSG0380",
+      "style": 0,
+      "name": "다시 말하자면[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs32160100_MSG0390",
+      "style": 0,
+      "name": "코어를 손에 넣은 보이드는 이미……[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs32160100_JNK0010",
+      "style": 4,
+      "name": "절박"
+    },
+    {
+      "$id": 41,
+      "label": "xs32160100_SEL0010",
+      "style": 3,
+      "name": "출격하자고 주장한다"
+    },
+    {
+      "$id": 42,
+      "label": "xs32160100_MSG0400",
+      "style": 0,
+      "name": "진정해, 아직 괜찮아[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs32160100_MSG0410",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs32160100_MSG0420",
+      "style": 0,
+      "name": "일부러 우리를 도발한 건\n아직 준비 중이라는 뜻이니까[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs32160100_JNK0020",
+      "style": 4,
+      "name": "여유"
+    },
+    {
+      "$id": 46,
+      "label": "xs32160100_SEL0020",
+      "style": 3,
+      "name": "괜찮다고 말한다"
+    },
+    {
+      "$id": 47,
+      "label": "xs32160100_MSG0430",
+      "style": 0,
+      "name": "어째서죠?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs32160100_MSG0440",
+      "style": 0,
+      "name": "일부러 우리를 도발한 건\n아직 준비 중이라는 뜻이니까[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs32160100_MSG0450",
+      "style": 0,
+      "name": "뭐, 만약 준비가 다 됐어도[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs32160100_MSG0455",
+      "style": 0,
+      "name": "탈출할 수는 없겠지만[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs32160100_MSG0460",
+      "style": 0,
+      "name": "무슨 말이야?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs32160100_MSG0470",
+      "style": 0,
+      "name": "녀석은 아레스의 코어만 있으면\n이 세계에서 탈출할 수 있고[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs32160100_MSG0480",
+      "style": 0,
+      "name": "그게 이루어지면\n세계를 조율할 수도 있다고 으스댔지[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs32160100_MSG0490",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs32160100_MSG0500",
+      "style": 0,
+      "name": "코어만으로는 안 돼[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs32160100_MSG0510",
+      "style": 0,
+      "name": "기체를 분석해 보고 알았는데……[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs32160100_MSG0520",
+      "style": 0,
+      "name": "내가 아레스와 함께 틈새의 세계로\n전이한 것 때문에[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs32160100_MSG0530",
+      "style": 0,
+      "name": "그 기능과 의식은 융합되어\n분리할 수 없는 존재가 됐어[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs32160100_MSG0540",
+      "style": 0,
+      "name": "이론은 모르겠지만[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs32160100_MSG0550",
+      "style": 0,
+      "name": "그렇지 않으면 살아 있는 인간이 그 세계에서\n자아를 유지하는 건 불가능했겠지……[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs32160100_MSG0560",
+      "style": 0,
+      "name": "즉……[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs32160100_MSG0570",
+      "style": 0,
+      "name": "나와 아레스 없이[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs32160100_MSG0575",
+      "style": 0,
+      "name": "코어는 본래의 힘을 발휘할 수 없다는 거다[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs32160100_MSG0580",
+      "style": 0,
+      "name": "아레스와 분리할 수 없다는 게\n그런 건가요?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs32160100_MSG0590",
+      "style": 0,
+      "name": "물리적으로 떨어질 수 없는 게 아니라……[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs32160100_MSG0600",
+      "style": 0,
+      "name": "그러니까, 엔진과 차체 같은 관계여서……[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs32160100_MSG0620",
+      "style": 0,
+      "name": "이해가 빠르구나, 린[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs32160100_MSG0630",
+      "style": 0,
+      "name": "……그리고 분석을 진행하면서[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs32160100_MSG0635",
+      "style": 0,
+      "name": "더 알아낸 게 있어[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs32160100_MSG0640",
+      "style": 0,
+      "name": "난 틈새의 세계에서[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs32160100_MSG0650",
+      "style": 0,
+      "name": "의식의 격류가 집중되는 장소를 봤어[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "xs32160100_MSG0660",
+      "style": 0,
+      "name": "그건 온갖 세계의 결절점이라고\n할 수 있는 무언가였어[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs32160100_MSG0670",
+      "style": 0,
+      "name": "설령 아레스와 코어의 힘을 사용한다 해도[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs32160100_MSG0680",
+      "style": 0,
+      "name": "거기에 합쳐질 수 없으면[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs32160100_MSG0685",
+      "style": 0,
+      "name": "세계에서 탈출하는 것은[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs32160100_MSG0690",
+      "style": 0,
+      "name": "아마도 불가능할 거다[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs32160100_MSG0700",
+      "style": 0,
+      "name": "타이밍을 맞춰야 한다는 거야?[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs32160100_MSG0710",
+      "style": 0,
+      "name": "간단하게 말하면 그래[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs32160100_MSG0720",
+      "style": 0,
+      "name": "그리고[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "xs32160100_MSG0730",
+      "style": 0,
+      "name": "이건 아레스와 틈새의 세계를 분석한 결과\n추가로 알게 된 건데……[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs32160100_MSG0740",
+      "style": 0,
+      "name": "세계의 결절점에 수렴하는 의식의 격류[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs32160100_MSG0750",
+      "style": 0,
+      "name": "그 구조는 센트럴 라이프의 그것과\n굉장히 비슷한 것 같다[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs32160100_MSG0760",
+      "style": 0,
+      "name": "……뭐, 뭐라고?[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs32160100_MSG0780",
+      "style": 0,
+      "name": "위터에게 의식을 보낸 보이드의 구조가[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs32160100_MSG0790",
+      "style": 0,
+      "name": "B.B.를 통해 살고 있는 지구인과\n비슷하다는 이야기를 한 적이 있잖냐?[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs32160100_MSG0800",
+      "style": 0,
+      "name": "센트럴 라이프가 없어져도……[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "xs32160100_MSG0810",
+      "style": 0,
+      "name": "의식을 보존하는 곳은 있었던 거다[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "xs32160100_MSG0820",
+      "style": 0,
+      "name": "과학의 힘이 아니라[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "xs32160100_MSG0830",
+      "style": 0,
+      "name": "더 커다란 세계의 구조로 말이지[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "xs32160100_MSG0840",
+      "style": 0,
+      "name": "그런 일이……[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "xs32160100_MSG0850",
+      "style": 0,
+      "name": "당신이 말하는 세계의 구조라는 건……[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "xs32160100_MSG0860",
+      "style": 0,
+      "name": "대체 뭐야?[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "xs32160100_MSG0870",
+      "style": 0,
+      "name": "글쎄다……[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "xs32160100_MSG0880",
+      "style": 0,
+      "name": "다만 난 그 세계에 있으면서 느꼈어[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "xs32160100_MSG0890",
+      "style": 0,
+      "name": "너희들의[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "xs32160100_MSG0900",
+      "style": 0,
+      "name": "사람들의 존재를[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "xs32160100_MSG0910",
+      "style": 0,
+      "name": "항상 \"그것에\" 둘러싸인 듯한\n신기한 감각이었어[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "xs32160100_MSG0920",
+      "style": 0,
+      "name": "의식이 모이는 장소……[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "xs32160100_MSG0930",
+      "style": 0,
+      "name": "아레스는 그곳에 연결하는 것이 가능해……[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "xs32160100_MSG0940",
+      "style": 0,
+      "name": "오히려 영혼에 가까운 듯한데……[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "xs32160100_MSG0950",
+      "style": 0,
+      "name": "과연 어떨는지[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "xs32160100_MSG0960",
+      "style": 0,
+      "name": "뭐, 이 세계에서 탈출하는 데 성공하면[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "xs32160100_MSG0970",
+      "style": 0,
+      "name": "언젠가 알게 되지 않을까?[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "xs32160100_MSG0980",
+      "style": 0,
+      "name": "어쨌든……[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "xs32160100_MSG0990",
+      "style": 0,
+      "name": "보이드에게 빼앗긴 6개의 코어[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "xs32160100_MSG0995",
+      "style": 0,
+      "name": "아레스와 나[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "xs32160100_MSG1000",
+      "style": 0,
+      "name": "그리고 세계의 결절점에 합쳐지는 타이밍……[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "xs32160100_MSG1010",
+      "style": 0,
+      "name": "이 요소들이 모이지 않고서는\n탈출은 할 수 없다[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "xs32160100_MSG1020",
+      "style": 0,
+      "name": "그 사실은……[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "xs32160100_MSG1030",
+      "style": 0,
+      "name": "슬슬 보이드도 깨달았겠지[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "xs32160100_MSG1040",
+      "style": 0,
+      "name": "하지만 그렇다면……[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "xs32160100_MSG1050",
+      "style": 0,
+      "name": "어째서 NLA를 공격하지 않는 거죠?[ST:wait ]"
+    },
+    {
+      "$id": 113,
+      "label": "xs32160100_MSG1060",
+      "style": 0,
+      "name": "그러다가 알이 죽게 되거나[ST:wait ]"
+    },
+    {
+      "$id": 114,
+      "label": "xs32160100_MSG1070",
+      "style": 0,
+      "name": "아레스를 파괴해 버릴까 봐\n걱정하는 거야[ST:wait ]"
+    },
+    {
+      "$id": 115,
+      "label": "xs32160100_MSG1080",
+      "style": 0,
+      "name": "하지만……[ST:wait ]"
+    },
+    {
+      "$id": 116,
+      "label": "xs32160100_MSG1090",
+      "style": 0,
+      "name": "머지않아 대책을 짜서\n어떤 식으로든 개입하겠지[ST:wait ]"
+    },
+    {
+      "$id": 117,
+      "label": "xs32160100_MSG1100",
+      "style": 0,
+      "name": "그렇다면……\n우리는 어떻게 할까?[ST:wait ]"
+    },
+    {
+      "$id": 118,
+      "label": "xs32160100_MSG1120",
+      "style": 0,
+      "name": "네 의견은 어때?[ST:wait ]"
+    },
+    {
+      "$id": 119,
+      "label": "xs32160100_MSG1130",
+      "style": 0,
+      "name": "짜릿한 대답을 기대하고 있다고[ST:wait ]"
+    },
+    {
+      "$id": 120,
+      "label": "xs32160100_JNK0030",
+      "style": 4,
+      "name": "선제"
+    },
+    {
+      "$id": 121,
+      "label": "xs32160100_SEL0030",
+      "style": 3,
+      "name": "당하기 전에 공격하겠다며 투지를 보인다"
+    },
+    {
+      "$id": 122,
+      "label": "xs32160100_MSG1140",
+      "style": 0,
+      "name": "……기대한 대로군[ST:wait ]"
+    },
+    {
+      "$id": 123,
+      "label": "xs32160100_MSG1150",
+      "style": 0,
+      "name": "역시 닮았어, 너는……[ST:wait ]"
+    },
+    {
+      "$id": 124,
+      "label": "xs32160100_MSG1160",
+      "style": 0,
+      "name": "바로 나를[ST:wait ]"
+    },
+    {
+      "$id": 125,
+      "label": "xs32160100_JNK0040",
+      "style": 4,
+      "name": "여유"
+    },
+    {
+      "$id": 126,
+      "label": "xs32160100_SEL0040",
+      "style": 3,
+      "name": "알이 자는 사이에 끝날 거라며 자신감을 보인다"
+    },
+    {
+      "$id": 127,
+      "label": "xs32160100_MSG1170",
+      "style": 0,
+      "name": "아하하하![ST:wait ]"
+    },
+    {
+      "$id": 128,
+      "label": "xs32160100_MSG1180",
+      "style": 0,
+      "name": "짜릿하군![ST:wait ]"
+    },
+    {
+      "$id": 129,
+      "label": "xs32160100_MSG1190",
+      "style": 0,
+      "name": "기대 이상의 대답이다[ST:wait ]"
+    }
+  ]
+}

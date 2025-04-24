@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev035103_MSG0001",
+      "style": 1,
+      "name": "……이쪽은 자하!\n왜 그래, 오드센트를 찾은 거야!?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev035103_MSG0002",
+      "style": 1,
+      "name": "……뭐!?\n그런 곳에 있었구나……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev035103_MSG0003",
+      "style": 1,
+      "name": "좋아! 당장 그쪽으로 갈 테니까\n어떻게든 녀석을 막아 줘![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev035103_JNK0010",
+      "style": 4,
+      "name": "질문"
+    },
+    {
+      "$id": 5,
+      "label": "qev035103_SEL0011",
+      "style": 3,
+      "name": "어떻게 막으면 될지 묻는다"
+    },
+    {
+      "$id": 6,
+      "label": "qev035103_JNK0020",
+      "style": 4,
+      "name": "수락"
+    },
+    {
+      "$id": 7,
+      "label": "qev035103_SEL0021",
+      "style": 3,
+      "name": "무력으로 막는다"
+    },
+    {
+      "$id": 8,
+      "label": "qev035103_MSG0004",
+      "style": 1,
+      "name": "넌 바이어스처럼 짐승의 뇌를\n지배할 수 없다아![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev035103_MSG0005",
+      "style": 1,
+      "name": "기절할 정도로 혼쭐을 내 줘!\n그러면 조련하기도 쉬워지니까\n……부탁한다아![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev035103_MSG0006",
+      "style": 1,
+      "name": "넌 정말 믿음직스러운 전사다아!\n일단 기절할 정도로 혼쭐을 내 줘!\n그러면 조련하기도 쉬워진다아![ST:wait ]"
+    }
+  ]
+}

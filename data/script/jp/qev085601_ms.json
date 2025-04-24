@@ -1,0 +1,276 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085601_MSG0001",
+      "style": 0,
+      "name": "よう　エルマじゃないか\nラオ見なかったかい？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085601_MSG0002",
+      "style": 0,
+      "name": "ええ　しばらく会ってないけれど[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085601_MSG0003",
+      "style": 0,
+      "name": "待ち合わせですか？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085601_MSG0004",
+      "style": 0,
+      "name": "待ち合わせっていうか\n共同任務に就くはずだったんだが連絡がとれん[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085601_MSG0005",
+      "style": 0,
+      "name": "ええっ　そんなひどい！\n無責任です！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085601_MSG0006",
+      "style": 0,
+      "name": "まあ　そう言われても仕方ないよな[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085601_MSG0007",
+      "style": 0,
+      "name": "だが　悪気があってのことじゃないと思う\nすまん　悪く言わないでやってくれ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085601_MSG0008",
+      "style": 0,
+      "name": "何ですっぽかされたダグさんが謝るんですかぁ[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085601_MSG0009",
+      "style": 0,
+      "name": "そういやそうだな[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085601_MSG0010",
+      "style": 0,
+      "name": "もう　ダグさんって変[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085601_MSG0010_2",
+      "style": 0,
+      "name": "ところで　ダグさんとラオさんって\n仲いいですよね[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085601_MSG0011",
+      "style": 0,
+      "name": "あいつとは　エルマの教導隊に入る前\n同じ部隊にいたんだ[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085601_MSG0012",
+      "style": 0,
+      "name": "えっ　そうだったんですか？[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085601_MSG0013",
+      "style": 0,
+      "name": "俺が[System:Ruby rt=ポイントマン ]斥候[/System:Ruby]で　あいつが[System:Ruby rt=スナイパー ]狙撃手[/System:Ruby][ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085601_MSG0014",
+      "style": 0,
+      "name": "統合政府が出来る前は\nあちこちの紛争地域に行ったもんさ[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085601_MSG0015",
+      "style": 0,
+      "name": "いわゆる戦友ってやつですか？[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085601_MSG0016",
+      "style": 0,
+      "name": "腐れ縁って言った方がいいかもな[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085601_MSG0017",
+      "style": 0,
+      "name": "エルマさん　ラオさんの代わりに\n私達が引き受けるってどうですか？[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085601_MSG0018",
+      "style": 0,
+      "name": "ええ　かまわないけれど\n私達でも出来そうなこと？[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085601_MSG0019",
+      "style": 0,
+      "name": "ああ　パスファインダーでなきゃ\n無理な任務ってわけじゃない[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085601_MSG0020",
+      "style": 0,
+      "name": "あんた達が手伝ってくれるなら　大助かりだ[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085601_MSG0021",
+      "style": 0,
+      "name": "決まりですも　タツにまかせて\n大船に乗ったつもりになるですも[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085601_MSG0022",
+      "style": 0,
+      "name": "こいつは頼もしいや[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085601_MSG0023",
+      "style": 0,
+      "name": "これは　夜光の森ね[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev085601_MSG0024",
+      "style": 0,
+      "name": "ああ　三日前から　森のあちこちに\nＵ．Ｍ反応が観測されていてな[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev085601_MSG0025",
+      "style": 0,
+      "name": "これがその地点だ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev085601_MSG0025_2",
+      "style": 0,
+      "name": "フロンティアネットでの調査だけじゃ\n解析が進まないらしい[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev085601_MSG0026",
+      "style": 0,
+      "name": "現地に行って\nデータ収集してくればいいんですね！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085601_MSG0027",
+      "style": 0,
+      "name": "助かるよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085601_MSG0028",
+      "style": 0,
+      "name": "俺のチームで半分は引き受けるから\nこの三箇所を頼みたい[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085601_MSG0033",
+      "style": 0,
+      "name": "わかりました！[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085601_MSG0034",
+      "style": 0,
+      "name": "データがそろったところで\n一度連絡を入れる[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev085601_MSG0035",
+      "style": 0,
+      "name": "ああ　そうしてくれ[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085601_MSG0036",
+      "style": 0,
+      "name": "本部からの報酬だけじゃなくて\n終わったら俺からも一杯奢らせてもらう[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085601_JNK0010",
+      "style": 4,
+      "name": "満足"
+    },
+    {
+      "$id": 36,
+      "label": "qev085601_SEL0011",
+      "style": 3,
+      "name": "いい店を期待していると微笑む"
+    },
+    {
+      "$id": 37,
+      "label": "qev085601_JNK0020",
+      "style": 4,
+      "name": "不満"
+    },
+    {
+      "$id": 38,
+      "label": "qev085601_SEL0021",
+      "style": 3,
+      "name": "酒より金だと首を振る"
+    },
+    {
+      "$id": 39,
+      "label": "qev085601_MSG0037",
+      "style": 0,
+      "name": "おう　任せといてくれ\nとっておきの店があるからよ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev085601_MSG0038",
+      "style": 0,
+      "name": "楽しみにしているわ[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev085601_MSG0039",
+      "style": 0,
+      "name": "おい　勘弁してくれよ\n見かけによらずがめついな　お前[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev085601_MSG0040",
+      "style": 0,
+      "name": "まあ　そう言わないで\nその分　働きますから[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev085601_MSG0041",
+      "style": 0,
+      "name": "リンにそう言われちゃ　しょうがないな[ST:wait ]"
+    }
+  ]
+}

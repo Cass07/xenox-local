@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085706_MSG0001",
+      "style": 0,
+      "name": "해치웠나……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085706_MSG0002",
+      "style": 0,
+      "name": "이걸로 이제 무리는 통솔력을 잃었어\n소탕도 간단하겠지[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085706_MSG0003",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085706_MSG0004",
+      "style": 0,
+      "name": "왜 그러세요……?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085706_MSG0005",
+      "style": 0,
+      "name": "[ST:undisp ][ST:wait ]\n      "
+    },
+    {
+      "$id": 6,
+      "label": "qev085706_JNK0010",
+      "style": 4,
+      "name": "임무"
+    },
+    {
+      "$id": 7,
+      "label": "qev085706_SEL0011",
+      "style": 3,
+      "name": "조용히 방아쇠에 손가락을 건다"
+    },
+    {
+      "$id": 8,
+      "label": "qev085706_JNK0020",
+      "style": 4,
+      "name": "주저"
+    },
+    {
+      "$id": 9,
+      "label": "qev085706_SEL0021",
+      "style": 3,
+      "name": "망설인 후에 총을 내린다"
+    },
+    {
+      "$id": 10,
+      "label": "qev085706_MSG0006",
+      "style": 0,
+      "name": "아직 아이예요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085706_MSG0007",
+      "style": 0,
+      "name": "감사합니다[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085706_MSG0008",
+      "style": 0,
+      "name": "더그 씨[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085706_MSG0009",
+      "style": 0,
+      "name": "자, 그럼 임무는 끝이야[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085706_MSG0009_2",
+      "style": 0,
+      "name": "난 먼저 돌아갈게\nNLA에서 합류하자고[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085706_MSG0010",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

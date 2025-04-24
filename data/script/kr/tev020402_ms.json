@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev020402_MSG0001",
+      "style": 1,
+      "name": "웨스트 게이트 건너편에서\n총격 소리와 무언가의 단말마가 들렸는데요……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev020402_MSG0002",
+      "style": 1,
+      "name": "어떤 팀과 원시 생물 사이에\n교전이 있었던 걸까요?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev020402_MSG0003",
+      "style": 1,
+      "name": "최근 문제가 된 NLA 주변의\n흉악한 원시 생물을 쓰러뜨려 준 거라면[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev020402_MSG0004",
+      "style": 1,
+      "name": "바로 웨스트 게이트도 개방할 수 있게 될 테고……\n도움이 될 텐데 말이죠[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00120100_MSG0001",
+      "style": 0,
+      "name": "어때? 꽤 괜찮지?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs00120100_MSG0001_2",
+      "style": 0,
+      "name": "이게 흰고래의 거주 유닛[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs00120100_MSG0002",
+      "style": 0,
+      "name": "아니, 지금은 이곳이 우리의 도시[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs00120100_MSG0003",
+      "style": 0,
+      "name": "모델이 된 도시에서 따와서\n이렇게 부르고 있어[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs00120100_MSG0004",
+      "style": 0,
+      "name": "뉴 로스앤젤레스라고[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs00120100_MSG0005",
+      "style": 0,
+      "name": "NLA에 온 걸 환영해[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs00120100_MSG0006",
+      "style": 0,
+      "name": "이렇게 최후의 지구 인류를\n동료로 맞이한 우리는[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs00120100_MSG0006_m",
+      "style": 0,
+      "name": "이렇게 최후의 지구 인류를\n동료로 맞이한 우리는[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs00120100_MSG0006_f",
+      "style": 0,
+      "name": "이렇게 최후의 지구 인류를\n동료로 맞이한 우리는[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs00120100_MSG0007",
+      "style": 0,
+      "name": "이 미지의 행성 미라에서\n살아갈 결의를 굳혔습니다[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs00120100_MSG0008",
+      "style": 0,
+      "name": "빛에 둘러싸여 사라져 간 고향 행성\n지구……[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs00120100_MSG0008_2",
+      "style": 0,
+      "name": "돌아갈 수도 없는 영원한 여행[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs00120100_MSG0009",
+      "style": 0,
+      "name": "맑게 갠 뉴 로스앤젤레스의 하늘과는 반대로[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs00120100_MSG0010",
+      "style": 0,
+      "name": "우리의 미래는\n여전히 진한 안개에 둘러싸여 있었습니다[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs00120100_MSG0011",
+      "style": 0,
+      "name": "그래도 우리는……[ST:wait ]"
+    }
+  ]
+}

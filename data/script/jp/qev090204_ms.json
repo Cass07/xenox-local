@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090204_MSG0001",
+      "style": 0,
+      "name": "さてと[ST:wide ]―　今回の残骸にゃ\nどんなものがあんのやら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090204_MSG0002",
+      "style": 0,
+      "name": "[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090204_MSG0003",
+      "style": 0,
+      "name": "なっ！？　これは[ST:wide ]―！！[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090204_MSG0004",
+      "style": 0,
+      "name": "アイツの左腕じゃねぇか[ST:wide ]―！\n見つけたっ！　やっと見つけたぞ！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090204_MSG0005",
+      "style": 0,
+      "name": "そうだ[ST:wide ]―　やっぱりアイツは\nミラのどこかに落下してたんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090204_MSG0006",
+      "style": 0,
+      "name": "なぁ！[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090204_MSG0006_2",
+      "style": 0,
+      "name": "アイツはまだどこかで生きてるんだよ！！[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090204_JNK0010",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 9,
+      "label": "qev090204_SEL0011",
+      "style": 3,
+      "name": "左腕について尋ねる"
+    },
+    {
+      "$id": 10,
+      "label": "qev090204_JNK0020",
+      "style": 4,
+      "name": "冷静"
+    },
+    {
+      "$id": 11,
+      "label": "qev090204_SEL0021",
+      "style": 3,
+      "name": "取り乱しているイエルヴを落ち着かせる"
+    },
+    {
+      "$id": 12,
+      "label": "qev090204_MSG0007",
+      "style": 0,
+      "name": "そっか[ST:wide ]―\nまだお前には話してなかったっけな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev090204_MSG0008",
+      "style": 0,
+      "name": "そんなっ[ST:wide ]―　これが落ち着いてられるかよ！[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev090204_MSG0009",
+      "style": 0,
+      "name": "だってアイツの腕が[ST:wide ]―\nあいつが生きていた証が[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev090204_MSG0010",
+      "style": 0,
+      "name": "ああ[ST:wide ]―　そうか[ST:wide ]―\nまだお前には話してなかったっけな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090204_MSG0011",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090204_MSG0012",
+      "style": 0,
+      "name": "お前になら　いいよな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090204_MSG0013",
+      "style": 0,
+      "name": "[ST:wide ]―聞いてくれるか？\n俺の一番大切なダチのこと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090204_JNK0030",
+      "style": 4,
+      "name": "肯定"
+    },
+    {
+      "$id": 20,
+      "label": "qev090204_SEL0031",
+      "style": 3,
+      "name": "聞かせてくれとうなずく"
+    },
+    {
+      "$id": 21,
+      "label": "qev090204_JNK0040",
+      "style": 4,
+      "name": "否定"
+    },
+    {
+      "$id": 22,
+      "label": "qev090204_SEL0041",
+      "style": 3,
+      "name": "ムリして話さなくてもいいと気遣う"
+    },
+    {
+      "$id": 23,
+      "label": "qev090204_MSG0014",
+      "style": 0,
+      "name": "もっと前に話しておくべきだった\n俺は　お前ともコンビなんだからよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090204_MSG0015",
+      "style": 0,
+      "name": "いや　話させてくれよ[ST:wide ]―\nこいつはお前にも関係のある話なんだ[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090204_MSG0016",
+      "style": 0,
+      "name": "[ST:wide ]―アイツと俺は　生まれた病院も学校も\n軍の部隊も何もかも同じでな[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090204_MSG0017",
+      "style": 0,
+      "name": "ダチ同士　ずっとコンビを組んできたんだ\nこの惑星ミラに来るまでは[ST:wide ]―　よ[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090204_MSG0018",
+      "style": 0,
+      "name": "だけど　白鯨墜落の日[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090204_MSG0019",
+      "style": 0,
+      "name": "アイツは最後までクルーを避難させてて[ST:wide ]―\nそのまま爆炎の中に消えちまった[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090204_MSG0020",
+      "style": 0,
+      "name": "フッ[ST:wide ]―　俺みたいなひねくれ者を\nずっと見捨てなかった[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090204_MSG0021",
+      "style": 0,
+      "name": "面倒見の良いアイツらしい行動だよ[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090204_MSG0022",
+      "style": 0,
+      "name": "[ST:wide ]―でも\nミラに落ちて行った数多くの残骸の中で[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090204_MSG0023",
+      "style": 0,
+      "name": "まだ生きてるんじゃないかって\n希望を持って捜してたら[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090204_MSG0024",
+      "style": 0,
+      "name": "こうして見つかったんだ　左腕が[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev090204_MSG0025",
+      "style": 0,
+      "name": "[System:Ruby rt=ビービー ]Ｂ．Ｂ．[/System:Ruby]だってのに　幼い頃についた\n十字の傷まで　きっちり再現されてやがる[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev090204_JNK0050",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 36,
+      "label": "qev090204_SEL0051",
+      "style": 3,
+      "name": "イエルヴの幼馴染について尋ねる"
+    },
+    {
+      "$id": 37,
+      "label": "qev090204_JNK0060",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 38,
+      "label": "qev090204_SEL0061",
+      "style": 3,
+      "name": "もう死んでいるのではないかと疑問を口にする"
+    },
+    {
+      "$id": 39,
+      "label": "qev090204_MSG0026",
+      "style": 0,
+      "name": "アイツは　半端者で周りに馴染めない俺を\nいつも気にしてくれてたよ[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev090204_MSG0027",
+      "style": 0,
+      "name": "ハイスクールでも人気者だったくせに\nつまはじき者の俺とばっかいて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev090204_MSG0028",
+      "style": 0,
+      "name": "軍に入ってからは\nずっと戦友として背中を預けあってきたんだ[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev090204_MSG0029",
+      "style": 0,
+      "name": "頭は良いくせにバカがつくほどお人好しで\n熱くて　ダチ想いで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev090204_MSG0030",
+      "style": 0,
+      "name": "最高のパートナーだった[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev090204_MSG0031",
+      "style": 0,
+      "name": "お前だって　この間まで発見されずにいて\nこうして生きてたんだろ？[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev090204_MSG0032",
+      "style": 0,
+      "name": "だから　アイツは生きてる[ST:wide ]―\n俺はそう信じてるよ[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev090204_MSG0033",
+      "style": 0,
+      "name": "面倒見のいいアイツのことだ[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev090204_MSG0034",
+      "style": 0,
+      "name": "どっかでミラの原住民のやっかいごとでも\n引き受けて走り回ってるのさ[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev090204_MSG0035",
+      "style": 0,
+      "name": "新しい腕で[ST:wide ]―　よ[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev090204_MSG0036",
+      "style": 0,
+      "name": "[ST:wide ]―俺は　何があろうと\nアイツを見つけださなきゃならねぇ[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev090204_MSG0037",
+      "style": 0,
+      "name": "その為に　ミラ中の残骸漁りに駆け回れる\nテスタメントにだって入ったんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev090204_MSG0038",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev090204_MSG0039",
+      "style": 0,
+      "name": "[ST:wide ]―長々と話しちまってすまねぇな[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev090204_MSG0040",
+      "style": 0,
+      "name": "どうしても　お前の姿を見てると\nアイツと話してるみたいで[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev090204_MSG0041",
+      "style": 0,
+      "name": "余計なことまで喋っちまう[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev090204_JNK0070",
+      "style": 4,
+      "name": "興味"
+    },
+    {
+      "$id": 56,
+      "label": "qev090204_SEL0071",
+      "style": 3,
+      "name": "自分とアイツの関係性について\n詳しく聞く"
+    },
+    {
+      "$id": 57,
+      "label": "qev090204_JNK0080",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 58,
+      "label": "qev090204_SEL0081",
+      "style": 3,
+      "name": "アイツの容姿について尋ねる"
+    },
+    {
+      "$id": 59,
+      "label": "qev090204_MSG0042",
+      "style": 0,
+      "name": "なんていうか似てるんだよ\n存在感[ST:wide ]―　みたいなもんがな[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev090204_MSG0043",
+      "style": 0,
+      "name": "よく見りゃ全然別人なのに[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev090204_MSG0044",
+      "style": 0,
+      "name": "アイツがそこにいるような\n妙な気分になっちまうんだ[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev090204_MSG0045",
+      "style": 0,
+      "name": "いや　顔形が似てるってわけじゃないんだ\nよく見りゃお前とアイツは全くの別人さ[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev090204_MSG0046",
+      "style": 0,
+      "name": "[ST:wide ]―だけどよ　空気ってか存在感ってか\nそういうのが同じでよ[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev090204_MSG0047",
+      "style": 0,
+      "name": "お前といると　アイツがそこにいるような\n妙な気分になっちまうんだ[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev090204_MSG0048",
+      "style": 0,
+      "name": "[ST:wide ]―絶対　アイツは\nこの惑星のどこかで生きてるはずだ[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev090204_MSG0049",
+      "style": 0,
+      "name": "今回みたいな仕事　また一緒にやろうぜ！\nそれでよ　いつか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev090204_MSG0050",
+      "style": 0,
+      "name": "連絡もしねぇで　心配かけやがったバカを\n一発ぶん殴ってやらねぇとな！[ST:wait ]"
+    }
+  ]
+}

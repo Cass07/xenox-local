@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33670100_MSG0010",
+      "style": 0,
+      "name": "이건…… 우주 역사가\n뒤집힐 정도의 발견이야![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33670100_MSG0020",
+      "style": 0,
+      "name": "설마 이런 곳에서[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33670100_MSG0030",
+      "style": 0,
+      "name": "진짜 고대 서멀의 유물을\n보게 되다니![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33670100_MSG0040",
+      "style": 0,
+      "name": "그리고 이 불가사의한 공간……\n틈새의 세계라는 것의 일부인가?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33670100_MSG0050",
+      "style": 0,
+      "name": "아아, 정말 궁금한 것투성이야!\n아무튼 최대한 조사해야지![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33670100_MSG0060",
+      "style": 0,
+      "name": "자, 가자!\n이런 기회는 두 번 다시 없으니까![ST:wait ]"
+    }
+  ]
+}

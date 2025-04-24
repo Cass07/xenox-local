@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000794_MSG0001",
+      "style": 1,
+      "name": "오, [ST:playername ][ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000794_MSG0002",
+      "style": 1,
+      "name": "이것 좀 봐\n드디어 새 차를 샀다고![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000794_MSG0003",
+      "style": 1,
+      "name": "어때? 멋있지?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000794_JNK0010",
+      "style": 4,
+      "name": "강하게 끄덕인다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000794_SEL0011",
+      "style": 3,
+      "name": "아주 멋지다며 부러워한다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000794_JNK0020",
+      "style": 4,
+      "name": "질문한다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000794_SEL0021",
+      "style": 3,
+      "name": "뭘 위해서 샀는지 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000794_JNK0030",
+      "style": 4,
+      "name": "농담한다[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000794_SEL0031",
+      "style": 3,
+      "name": "이걸 타고 애벌란시 임무라도 할 거냐고 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000794_MSG0004",
+      "style": 1,
+      "name": "그렇지~?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000794_MSG0005",
+      "style": 1,
+      "name": "게다가 보기보다 싼 편이라고[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000794_MSG0006",
+      "style": 1,
+      "name": "그레이엄 녀석이 나한테 빚진 게 있거든\n덕분에 정말 싸게 살 수 있었지[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000794_MSG0007",
+      "style": 1,
+      "name": "뭘 위해서냐니……\n생각해 봐……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000794_MSG0008",
+      "style": 1,
+      "name": "앞으로 NLA도 계속 발전해 나갈 텐데\n차가 없으면 쇼핑할 때 불편하지 않겠냐?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000794_MSG0009",
+      "style": 1,
+      "name": "도시 한복판에서 돌을 타고 달릴 순 없는 노릇이고\n무엇보다 연비가 문제야[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000794_MSG0010",
+      "style": 1,
+      "name": "할 리가 없잖아!?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000794_MSG0011",
+      "style": 1,
+      "name": "이걸 타고 NLA 바깥에 나가면\n5분 만에 고철이 될 거다[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000794_MSG0012",
+      "style": 1,
+      "name": "당연히 임무 때는 돌을 쓸 거야[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000794_MSG0013",
+      "style": 1,
+      "name": "그보다 너라면 어떤 차를 사고 싶어?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000794_JNK0040",
+      "style": 4,
+      "name": "스포츠카[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000794_SEL0041",
+      "style": 3,
+      "name": "속력이 빠른 2인승 차[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000794_JNK0050",
+      "style": 4,
+      "name": "SUV[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000794_SEL0051",
+      "style": 3,
+      "name": "야외 활동용 다목적 차[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000794_JNK0060",
+      "style": 4,
+      "name": "버스[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000794_SEL0061",
+      "style": 3,
+      "name": "40명쯤 탈 수 있는 대형 버스[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000794_MSG0014",
+      "style": 1,
+      "name": "나랑 취향이 같구나[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000794_MSG0015",
+      "style": 1,
+      "name": "역시 드라이브를 만끽할 때는\n스포츠카가 제격이지[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000794_MSG0016",
+      "style": 1,
+      "name": "하지만 속도위반은 조심해야 해[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000794_MSG0017",
+      "style": 1,
+      "name": "블레이드는 특히 단속이 엄격하거든\n벌금도 어지간히 내야 한다고[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000794_MSG0018",
+      "style": 1,
+      "name": "내 취향은 아니지만\n제법 좋은 선택이라고 생각해[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000794_MSG0019",
+      "style": 1,
+      "name": "오프로드에서도 잘 달리니까\n엘마나 린을 태우고 원초의 황야에\n드라이브하러 갈 수도 있겠지[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000794_MSG0020",
+      "style": 1,
+      "name": "물론 10분 만에 고철이 될 게 뻔하지만\n하하하~[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000794_MSG0021",
+      "style": 1,
+      "name": "버스!?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000794_MSG0022",
+      "style": 1,
+      "name": "엘마와 린과 함께 외출하려고?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000794_MSG0023",
+      "style": 1,
+      "name": "아니, 그래도 자리가 한참 남잖아\n지인들을 전부 태우기라도 할 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000794_MSG0024",
+      "style": 1,
+      "name": "[ST:playername ][KR:Particle char=ha ] 진짜\n사람 많은 걸 좋아하나 보네……[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000794_MSG0025",
+      "style": 1,
+      "name": "재미있는걸\n차 고르는 것만 봐도 상대방의 인생을\n알 수 있으니까 말이야[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000794_MSG0026",
+      "style": 1,
+      "name": "그 녀석이라면……\n라오라면 SUV를 골랐을 거야[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000794_MSG0027",
+      "style": 1,
+      "name": "그걸 타고 가족 3명이서\n여행이나 캠핑을 하는 거지[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000794_MSG0028",
+      "style": 1,
+      "name": "……그런 평화로운 세상이었으면 좋았겠지만\n슬프게도 지금은 그럴 수 없어[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000794_MSG0029",
+      "style": 1,
+      "name": "난 그저 잠깐의 휴식을 만끽할 뿐이지\n그럼 이만[ST:wait ]"
+    }
+  ]
+}

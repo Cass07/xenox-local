@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091305_MSG0001",
+      "style": 0,
+      "name": "あれは[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091305_MSG0002",
+      "style": 0,
+      "name": "グロウスが掘り出してたんですね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091305_MSG0003",
+      "style": 0,
+      "name": "ボクはてっきり地面の下に\n１００メートルくらいの大ミミズがいて[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091305_MSG0004",
+      "style": 0,
+      "name": "上に押し出してるんだと思ってました[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091305_MSG0006",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091305_MSG0007",
+      "style": 0,
+      "name": "えっと　ボクの妄想はさておき[ST:wide ]―\nあいつら[ST:wide ]―　どうしましょうか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091305_JNK0040",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 8,
+      "label": "qev091305_SEL0041",
+      "style": 3,
+      "name": "ここで倒すべきだと提案する"
+    },
+    {
+      "$id": 9,
+      "label": "qev091305_JNK0050",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 10,
+      "label": "qev091305_SEL0051",
+      "style": 3,
+      "name": "どうすべきと思うか尋ね返す"
+    },
+    {
+      "$id": 11,
+      "label": "qev091305_MSG0008",
+      "style": 0,
+      "name": "やっぱり　ここで倒すしかないですよね[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091305_MSG0009",
+      "style": 0,
+      "name": "あいつらを倒せば\nデータプローブの被害はここで止まるはず[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091305_MSG0010",
+      "style": 0,
+      "name": "戦闘は好きではありませんが[ST:wide ]―\nがんばります[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091305_MSG0011",
+      "style": 0,
+      "name": "正直なところ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091305_MSG0012",
+      "style": 0,
+      "name": "ボクは逃げ帰りたいです[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091305_MSG0013",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091305_MSG0014",
+      "style": 0,
+      "name": "ですけど　ここで叩くべきなんでしょうね[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091305_MSG0015",
+      "style": 0,
+      "name": "あいつらを見逃せば　被害は広がるでしょうし\n次に遭遇できるとは限らない[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091305_MSG0016",
+      "style": 0,
+      "name": "やりましょう\n力を合わせれば　勝てるはずです[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091305_MSG0017",
+      "style": 0,
+      "name": "ケガはありませんでしたか？[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091305_MSG0018",
+      "style": 0,
+      "name": "ボクは何と言いますか\n久々に本気で戦ったので疲れました[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091305_MSG0019",
+      "style": 0,
+      "name": "でも　これで任務は完了です[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev091305_MSG0020",
+      "style": 0,
+      "name": "本当に助かりました　ありがとうございます[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev091305_MSG0021",
+      "style": 0,
+      "name": "あなたは[ST:wide ]―　あの[ST:wide ]―\n兄さんのように頼りになる心強い存在でした[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091305_MSG0022",
+      "style": 0,
+      "name": "いえ　兄さん以上かもしれません[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091305_MSG0023",
+      "style": 0,
+      "name": "ボクが初めての人に\nこれだけ打ち解けられるなんて滅多になくて[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091305_JNK0010",
+      "style": 4,
+      "name": "提案"
+    },
+    {
+      "$id": 28,
+      "label": "qev091305_SEL0011",
+      "style": 3,
+      "name": "また一緒に任務を受けようと言う"
+    },
+    {
+      "$id": 29,
+      "label": "qev091305_JNK0020",
+      "style": 4,
+      "name": "褒める"
+    },
+    {
+      "$id": 30,
+      "label": "qev091305_SEL0021",
+      "style": 3,
+      "name": "フォグも強かったと褒める"
+    },
+    {
+      "$id": 31,
+      "label": "qev091305_JNK0030",
+      "style": 4,
+      "name": "否定する"
+    },
+    {
+      "$id": 32,
+      "label": "qev091305_SEL0031",
+      "style": 3,
+      "name": "そこまで打ち解けてないと軽く否定する"
+    },
+    {
+      "$id": 33,
+      "label": "qev091305_MSG0024",
+      "style": 0,
+      "name": "その言葉[ST:wide ]―　とても嬉しいです[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091305_MSG0025",
+      "style": 0,
+      "name": "人に頼られるのは久しぶりなんです[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091305_MSG0026",
+      "style": 0,
+      "name": "具体的には２１歳のころ　兄にスコッチを\n買ってきてくれと頼まれて以来です[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091305_MSG0027",
+      "style": 0,
+      "name": "ありがとうございます\n人に褒められるなんて　本当に久しぶりです[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091305_MSG0028",
+      "style": 0,
+      "name": "具体的には１５歳のころ　フットボールで\n逆転のタッチダウンを決めて以来です[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091305_MSG0029",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091305_MSG0030",
+      "style": 0,
+      "name": "よければ　でいいんですけど[ST:wide ]―\nまた一緒に任務をさせてください[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091305_MSG0031",
+      "style": 0,
+      "name": "そんなっ！？[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091305_MSG0032",
+      "style": 0,
+      "name": "ボク一人で喜んでたなんて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091305_MSG0033",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091305_MSG0034",
+      "style": 0,
+      "name": "そんなボクがお願いするのは\n図々しいことだと思いますけど[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev091305_MSG0035",
+      "style": 0,
+      "name": "また一緒の任務に就かせてください[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev091305_MSG0036",
+      "style": 0,
+      "name": "ボクはいつも一人ぼっちなので\nいつでも一緒に行けます[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev091305_MSG0038",
+      "style": 0,
+      "name": "これからも　よろしくお願いします[ST:wait ]"
+    }
+  ]
+}

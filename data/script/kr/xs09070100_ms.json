@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs09070100_MSG0001",
+      "style": 0,
+      "name": "유쾌하구나, 참으로 유쾌해[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs09070100_MSG0002",
+      "style": 0,
+      "name": "나, 가 델그[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs09070100_MSG0002_2",
+      "style": 0,
+      "name": "다른 무기로 네 녀석과\n더 싸워 보고 싶어졌다[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs09070100_MSG0003",
+      "style": 0,
+      "name": "네 녀석도 사양하지 말고\n선호하는 무기를 들어라[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs09070100_MSG0003_2",
+      "style": 0,
+      "name": "제2막을 시작하지[ST:wait ]"
+    }
+  ]
+}

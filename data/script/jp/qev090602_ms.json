@@ -1,0 +1,306 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090602_MSG0001",
+      "style": 0,
+      "name": "ああっ！　あの[ST:wide ]―　あなた達は[ST:wide ]―\nブレイドの方々ナ？[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev090602_MSG0002",
+      "style": 0,
+      "name": "何者だ？[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev090602_MSG0003",
+      "style": 0,
+      "name": "ああっ　私は大樹の一族だから敵じゃないナ？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev090602_MSG0004",
+      "style": 0,
+      "name": "敵でなければ　どうしてかような場所にいる？[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev090602_MSG0005",
+      "style": 0,
+      "name": "家族がグロウスに襲われ\nこの先で囚われてしまっていて[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev090602_MSG0006",
+      "style": 0,
+      "name": "お願いします！　どうか奴らを倒し\n皆を助けてはくれないでしょうか？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev090602_MSG0007",
+      "style": 0,
+      "name": "すまないが仕事の途中でな\nそういう話はお仲間にでも頼んでくれ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev090602_MSG0008",
+      "style": 0,
+      "name": "[ST:wide ]―おい　行くぞ！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev090602_MSG0009",
+      "style": 0,
+      "name": "どうしてもこいつらを見ると\nクラリッサのことを思い出してしまうのよ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev090602_MSG0010",
+      "style": 0,
+      "name": "なぁ？　倒すべきバケモンを成敗し\nアヴァランチとしての使命を果たそうや？[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev090602_JNK0010",
+      "style": 4,
+      "name": "助ける"
+    },
+    {
+      "$id": 12,
+      "label": "qev090602_SEL0011",
+      "style": 3,
+      "name": "バイアスを助けるべきだと提案する"
+    },
+    {
+      "$id": 13,
+      "label": "qev090602_JNK0020",
+      "style": 4,
+      "name": "助けない"
+    },
+    {
+      "$id": 14,
+      "label": "qev090602_SEL0021",
+      "style": 3,
+      "name": "ボゼの言葉を受けてバイアスを見捨てて行く"
+    },
+    {
+      "$id": 15,
+      "label": "qev090602_MSG0011",
+      "style": 0,
+      "name": "こやつらの銃弾を受け　地に伏した\nクラリッサの呻き声　オヌシは忘れたか？[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev090602_MSG0012",
+      "style": 0,
+      "name": "俺は　バイアス人を絶対に許せん\n大樹の一族でも巌窟の一族でもな[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev090602_MSG0013",
+      "style": 0,
+      "name": "それでもオヌシは[ST:wide ]―　助けろと？[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev090602_MSG0014",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev090602_MSG0015",
+      "style": 0,
+      "name": "[ST:wide ]―耐えろと言うのか？\n僧であるならば心を[ST:wide ]―　殺せと[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev090602_MSG0016",
+      "style": 0,
+      "name": "わかったよ[ST:wide ]―　確かに　このような者を\n見捨てるのは人の道に外れよう[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev090602_MSG0017",
+      "style": 0,
+      "name": "そうだ！　俺は忘れんぞ[ST:wide ]―　こやつらの\n銃弾を受け　地に伏したクラリッサの断末魔を[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev090602_MSG0018",
+      "style": 0,
+      "name": "そんなこと言わずに　お願いしますナ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev090602_MSG0019",
+      "style": 0,
+      "name": "アイツラに　生まれたばかりの赤ちゃんも\nさらわれてしまって[ST:wide ]―　このままじゃ[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev090602_MSG0020",
+      "style": 0,
+      "name": "[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev090602_MSG0021",
+      "style": 0,
+      "name": "クソッ　外道どもめ\n赤子の命まで　弄ぼうというのか[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev090602_MSG0022",
+      "style": 0,
+      "name": "これを見捨てては[ST:wide ]―\n俺は　もうボウズではいられぬ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev090602_MSG0023",
+      "style": 0,
+      "name": "クッ[ST:wide ]―　わかったよ！　助けてやる\n罪なき命のため[ST:wide ]―　私情は捨てるさ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev090602_MSG0024",
+      "style": 0,
+      "name": "ありがとうございます！\nどうか　皆の命[ST:wide ]―　助けてくださいナ！[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev090602_MSG0025",
+      "style": 0,
+      "name": "この先を進めば\nグロウスどもがいる場所に着くはずですナ！[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev090602_MSG0026",
+      "style": 0,
+      "name": "ありがとうございました\nそれでは　家族がさらわれた場所へ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev090602_MSG0027",
+      "style": 0,
+      "name": "[ST:wide ]―なんだこれは！？　何かが光ってる[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev090602_MSG0028",
+      "style": 0,
+      "name": "ナッ[ST:wide ]―！　なんだと！？[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev090602_MSG0029",
+      "style": 0,
+      "name": "なぜ　こんな強力なジャミング装置を\n地球人が[ST:wide ]―！？[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev090602_MSG0030",
+      "style": 0,
+      "name": "これは[ST:wide ]―　いつぞやのマ・ノン人めに\n渡された発信機か[ST:wide ]―！[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev090602_MSG0031",
+      "style": 0,
+      "name": "[ST:wide ]―なるほどねこりゃあ\nあの小賢しいマ・ノン人どもの知恵か[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev090602_MSG0032",
+      "style": 0,
+      "name": "よくもまぁ　このスタリオ様の芝居を\n台無しにしてくれたもんだ[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev090602_JNK0030",
+      "style": 4,
+      "name": "質問"
+    },
+    {
+      "$id": 38,
+      "label": "qev090602_SEL0031",
+      "style": 3,
+      "name": "スタリオの正体について尋ねる"
+    },
+    {
+      "$id": 39,
+      "label": "qev090602_JNK0040",
+      "style": 4,
+      "name": "疑問"
+    },
+    {
+      "$id": 40,
+      "label": "qev090602_SEL0041",
+      "style": 3,
+      "name": "今の光について尋ねる"
+    },
+    {
+      "$id": 41,
+      "label": "qev090602_MSG0033",
+      "style": 0,
+      "name": "下等生物　そんなに私のことが知りたいの？\nなら特別に一つだけ教えてあげる[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev090602_MSG0034",
+      "style": 0,
+      "name": "これから私はあんたを殺す\nありとあらゆる方法でいたぶってね[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev090602_MSG0035",
+      "style": 0,
+      "name": "あんた達がしかけたことだろう！？[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev090602_MSG0036",
+      "style": 0,
+      "name": "そのちょこざいなマ・ノン人の\nオモチャを使ってさ[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev090602_MSG0037",
+      "style": 0,
+      "name": "まぁいい[ST:wide ]―　バレちまったんなら\nここで殺しちまうだけの話さ！[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev090602_MSG0038",
+      "style": 0,
+      "name": "行くよ　下等生物！[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev090602_MSG0039",
+      "style": 0,
+      "name": "マ・ノン人の知恵に頼ろうが　\nあんたらなんか私達には勝てないんだ！[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev090602_MSG0040",
+      "style": 0,
+      "name": "グロウス達はまだこの先にいるはずです\nどうか家族の命をお助けくださいナ！[ST:wait ]"
+    }
+  ]
+}

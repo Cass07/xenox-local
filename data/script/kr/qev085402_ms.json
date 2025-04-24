@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085402_MSG0001",
+      "style": 0,
+      "name": "어땠어요?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085402_MSG0002",
+      "style": 0,
+      "name": "정보는 들었지만……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085402_MSG0003",
+      "style": 0,
+      "name": "아이샤에게 무슨 일이라도 있었나요?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085402_MSG0004",
+      "style": 0,
+      "name": "아니, 그게 아니야[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085402_MSG0005",
+      "style": 0,
+      "name": "사실은 컬렉피디언 한 명이……[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085402_MSG0005_2",
+      "style": 0,
+      "name": "절벽 해안 근처에서 아이샤 같은 고양이를\n본 것 같다고 했어[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085402_MSG0006",
+      "style": 0,
+      "name": "네? NLA 밖으로 나가 버린 건가요!?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085402_MSG0007",
+      "style": 0,
+      "name": "그런 것 같아요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085402_MSG0008",
+      "style": 0,
+      "name": "그래서 안 보였던 거군요\n데리러 다녀오겠습니다[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085402_MSG0009",
+      "style": 0,
+      "name": "여러분, 도와주셔서 감사했습니다![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085402_MSG0010",
+      "style": 0,
+      "name": "앗, 어이, 미토스![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085402_MSG0011",
+      "style": 0,
+      "name": "큰일이네\n그 주변에는 위험한 원시 생물이 많아[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085402_MSG0012",
+      "style": 0,
+      "name": "빨리 가자모!\n원시 생물에게 잡아먹히면 불쌍하다모![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085402_MSG0013",
+      "style": 0,
+      "name": "그렇네, 여기까지 왔으니\n아이샤를 보호하는 것까지 함께하자[ST:wait ]"
+    }
+  ]
+}

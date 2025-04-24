@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev036001_JNK0010",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev036001_SEL0011",
+      "style": 3,
+      "name": "마 논인에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev036001_JNK0020",
+      "style": 4,
+      "name": "흥미[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev036001_SEL0021",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev036001_SEL0031",
+      "style": 3,
+      "name": "최근 상황을 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev036001_MSG0001",
+      "style": 1,
+      "name": "마 논인은 언제나 밝잖아요?\n그러니까 누구도 이런 변방의 행성에\n불시착한 것에 신경 쓰지 않아요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev036001_MSG0002",
+      "style": 1,
+      "name": "다시는 태어난 행성으로\n돌아갈 수 없을지도 모르는데\n이상하다고 생각해요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev036001_MSG0003",
+      "style": 1,
+      "name": "마 논 우주선에 있으면 우울해져서\n매일 이곳에 와서\n프레지의 이야기를 듣고 있어요[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev036001_MSG0004",
+      "style": 1,
+      "name": "아아…… 프레지의 이야기를\n듣고만 있어도 마음이 가득 채워져요……\n더 많은 사람에게 전하고 싶어요……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev036001_MSG0011",
+      "style": 1,
+      "name": "바로 근처에 정수장이 있는데\n그것만으로는 이 거대한 도시의 물을\n확보할 수 없는 모양이네요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev036001_MSG0012",
+      "style": 1,
+      "name": "분명…… NLA 서쪽에\n수질이 좋은 호수가 있을 텐데[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev036001_MSG0013",
+      "style": 1,
+      "name": "그곳에서 물을 끌어온다면\n더 안정적으로 공급할 수 있을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev036001_MSG0016",
+      "style": 1,
+      "name": "……이 말을 정수장에 있던\n직원분에게 전했더니\n찬성해 주셨어요[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev036001_MSG0017",
+      "style": 1,
+      "name": "무사히 공사가 시작되면 좋겠네요[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev036001_MSG0034",
+      "style": 1,
+      "name": "새로운 정수장이\n비아노 호수에 건설됐네요[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev036001_MSG0035",
+      "style": 1,
+      "name": "마 논 우주선에도 지원 물자로서\n호수의 물이 끊임없이 공급되고 있어서\n많은 도움이 됐다고 들었어요[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev036001_MSG0036",
+      "style": 1,
+      "name": "우리 마 논도 지구인도\n물 없이는 살아갈 수 없으니까요……[ST:wait ]"
+    }
+  ]
+}

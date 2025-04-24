@@ -1,0 +1,372 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12020100_MSG0001",
+      "style": 0,
+      "name": "린 스페셜, 완성이에요![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12020100_MSG0002",
+      "style": 0,
+      "name": "잔뜩 있으니까\n많이 드세요![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs12020100_MSG0003",
+      "style": 0,
+      "name": "타츠도 도와줬다모![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs12020100_MSG0004",
+      "style": 0,
+      "name": "우와, 맛있겠다![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs12020100_MSG0005",
+      "style": 0,
+      "name": "좋은 냄새가 나는걸\n그윈, 과식하지 마라[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs12020100_MSG0006",
+      "style": 0,
+      "name": "중위님이 할 말은 아닌데요[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12020100_MSG0007",
+      "style": 0,
+      "name": "이것이 옛말에 이르는, 한솥밥 먹는 사이군요[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12020100_MSG0008",
+      "style": 0,
+      "name": "뭐 하는 건가 싶어서 와 봤더니……\n곧 싸움이 시작될 거라고[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs12020100_MSG0009",
+      "style": 0,
+      "name": "그래서 준비한 거예요!\n어디어디도 식후경이니까요[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs12020100_MSG0010",
+      "style": 0,
+      "name": "센트럴 라이프의 가동 시간이 얼마 안 남았어\n그 숫자가 0이 되면 모든 게 끝이야[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs12020100_MSG0011",
+      "style": 0,
+      "name": "게다가 적이 이미 센트럴 라이프에\n들어갔을지도 모른다고[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs12020100_MSG0012",
+      "style": 0,
+      "name": "알고 있는 거냐?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs12020100_MSG0013",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "xs12020100_MSG0014",
+      "style": 0,
+      "name": "이 싸움에 인류의 존망이 걸렸어[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs12020100_MSG0015",
+      "style": 0,
+      "name": "왜 그렇게 열을 올리고 그래, 더그?\n나기도 이야기했잖아[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs12020100_MSG0016",
+      "style": 0,
+      "name": "센트럴 라이프의 좌표 분석에\n2시간은 걸릴 거라고 말이야[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs12020100_MSG0017",
+      "style": 0,
+      "name": "나도 알아!\n그래도 이런 식으로 한가하게……[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs12020100_MSG0018",
+      "style": 0,
+      "name": "아무것도 모르네~[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs12020100_MSG0019",
+      "style": 0,
+      "name": "뭐라고![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs12020100_MSG0020",
+      "style": 0,
+      "name": "너만 그런 게 아니야\n다들 초조해, 다들 불안하다고[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs12020100_MSG0021",
+      "style": 0,
+      "name": "그래서 여기에 있는 거야[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs12020100_MSG0022",
+      "style": 0,
+      "name": "안 그래?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs12020100_MSG0023",
+      "style": 0,
+      "name": "난……[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs12020100_MSG0024",
+      "style": 0,
+      "name": "린도 린 나름대로\n모두의 불안을 덜어 주려고 한 거잖아[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs12020100_MSG0025",
+      "style": 0,
+      "name": "린 씨를 곤란하게 하면 타츠가 혼낼 거다모![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs12020100_MSG0026",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "xs12020100_MSG0027",
+      "style": 0,
+      "name": "린, 짜증 내서 미안하다[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs12020100_MSG0028",
+      "style": 0,
+      "name": "이리나 말이 맞아\n확실히 난 초조하고 불안했었던 거야[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs12020100_MSG0029",
+      "style": 0,
+      "name": "용서해 주겠어?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs12020100_MSG0030",
+      "style": 0,
+      "name": "용서 못 해요!\n벌로 특제 코코아 10잔 사 주세요![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs12020100_MSG0031",
+      "style": 0,
+      "name": "그 가게 물건 말이군\n오케이, 알았다![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs12020100_JNK0010",
+      "style": 4,
+      "name": "평온"
+    },
+    {
+      "$id": 33,
+      "label": "xs12020100_SEL0011",
+      "style": 3,
+      "name": "동료들과 함께하는 지금을 즐긴다"
+    },
+    {
+      "$id": 34,
+      "label": "xs12020100_JNK0020",
+      "style": 4,
+      "name": "대담"
+    },
+    {
+      "$id": 35,
+      "label": "xs12020100_SEL0021",
+      "style": 3,
+      "name": "한눈팔지 않고 요리에 손을 뻗는다"
+    },
+    {
+      "$id": 36,
+      "label": "xs12020100_MSG0032",
+      "style": 0,
+      "name": "자, 기껏 린이 요리를\n만들어 줬으니 다 같이 먹자[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs12020100_MSG0033",
+      "style": 0,
+      "name": "맞다모!\n배고파 죽겠다모![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs12020100_MSG0034",
+      "style": 0,
+      "name": "좋아, 먹어 볼까![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs12020100_MSG0035",
+      "style": 0,
+      "name": "자, 잠깐, 갑자기!?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs12020100_MSG0036",
+      "style": 0,
+      "name": "너 말이야, 치사하다고![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs12020100_MSG0037",
+      "style": 0,
+      "name": "그건 타츠 거다모![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs12020100_MSG0038",
+      "style": 0,
+      "name": "더그 씨도 드세요![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs12020100_MSG0039",
+      "style": 0,
+      "name": "그래[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs12020100_MSG0040",
+      "style": 0,
+      "name": "잘 먹었다![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs12020100_MSG0041",
+      "style": 0,
+      "name": "배가 가득 찼어[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs12020100_MSG0042",
+      "style": 0,
+      "name": "타츠, 못 움직이겠다모[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs12020100_MSG0043",
+      "style": 0,
+      "name": "린, 맛있었어\n고마워[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs12020100_MSG0044",
+      "style": 0,
+      "name": "처음 먹는 거지만 반담 사령관이나 이리나가\n자주 먹으러 오는 이유를 알 것 같아[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs12020100_MSG0045",
+      "style": 0,
+      "name": "맛있었다, 린[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs12020100_MSG0046",
+      "style": 0,
+      "name": "에헤헤……[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs12020100_MSG0047",
+      "style": 0,
+      "name": "그렇게 눈앞에서 칭찬하면\n쑥스럽잖아요[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs12020100_MSG0048",
+      "style": 0,
+      "name": "자, 난 이만 돌아갈게\n요리 고마웠다[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs12020100_MSG0049",
+      "style": 0,
+      "name": "중위님, 저희도[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs12020100_MSG0050",
+      "style": 0,
+      "name": "응, 그래야지\n린, 즐거웠어[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs12020100_MSG0051",
+      "style": 0,
+      "name": "린, 고마워![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs12020100_MSG0052",
+      "style": 0,
+      "name": "그러면 저도 이만\n즐거운 축제였습니다[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs12020100_MSG0053",
+      "style": 0,
+      "name": "여러분, 열심히 해요![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs12020100_MSG0054",
+      "style": 0,
+      "name": "엘마, 좌표 분석이 끝났다\n팀 멤버와 함께 바로 와 주게[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs12020100_MSG0055",
+      "style": 0,
+      "name": "알겠어[ST:wait ]"
+    }
+  ]
+}

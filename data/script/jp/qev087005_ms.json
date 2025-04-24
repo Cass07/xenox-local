@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087005_MSG0001",
+      "style": 0,
+      "name": "これがグロウスのデータパッドか[ST:wide ]―\nよくやってくれた　感謝する[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087005_MSG0002",
+      "style": 0,
+      "name": "お気持ちだけじゃダメですも\n感謝はちゃんと形にしてほしいですも[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087005_MSG0003",
+      "style": 0,
+      "name": "もちろんだ\nできる限りのことはさせてもらおう[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev087005_MSG0004",
+      "style": 0,
+      "name": "しかし　次の難関は\n記録されているデータを解析することか[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev087005_MSG0005",
+      "style": 0,
+      "name": "エルマ　君ならもしや[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev087005_MSG0006",
+      "style": 0,
+      "name": "残念だけど私にも無理よ\nそれよりもマ・ノン人に依頼してみたらどう？[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev087005_MSG0007",
+      "style": 0,
+      "name": "よかったら\n知り合いのところへ持ち込んでみるわ[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087005_MSG0008",
+      "style": 0,
+      "name": "そうか　では手配を頼む[ST:wait ]"
+    }
+  ]
+}

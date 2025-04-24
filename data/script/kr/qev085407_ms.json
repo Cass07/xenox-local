@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085407_MSG1001",
+      "style": 1,
+      "name": "아이샤는 B.B.인 우리와 달리\n살아 있는 몸을 가지고 있는 고양이예요[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085407_MSG1002",
+      "style": 1,
+      "name": "죽어 버리면 되살릴 수 없어요\n근처의 괴물들에게 공격당하기 전에\n빨리 NLA로 데려가야 해요……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085407_MSG1003",
+      "style": 1,
+      "name": "키란 개다래나무는\n원초의 황야 북서부나 비아노 초원에\n자생하고 있는 것 같으니[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085407_MSG1004",
+      "style": 1,
+      "name": "부디 서둘러서 가져와 주세요\n죄송하지만 잘 부탁드립니다……[ST:wait ]"
+    }
+  ]
+}

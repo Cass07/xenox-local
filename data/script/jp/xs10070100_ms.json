@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs10070100_MSG0001",
+      "style": 0,
+      "name": "なんですも　あれ？[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs10070100_MSG0002",
+      "style": 0,
+      "name": "まさか[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs10070100_MSG0003",
+      "style": 0,
+      "name": "動体接近警報\nこんな大質量物体が！？[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs10070100_MSG0004",
+      "style": 0,
+      "name": "大きいですも！[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs10070100_MSG0005",
+      "style": 0,
+      "name": "ノポンの伝説の聖地\nサイハテ村よりも大きいですも！！[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs10070100_MSG0006",
+      "style": 0,
+      "name": "地球規格のＩＦＦ発信は行われていない[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs10070100_MSG0007",
+      "style": 0,
+      "name": "敵性物体とみなす　退避して[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs10070100_MSG0008",
+      "style": 0,
+      "name": "こんな場所で再会するなんてねェ！[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs10070100_MSG0009",
+      "style": 0,
+      "name": "街を灼く前にこの間のお礼を\nたっぷりしてやろうジャないか[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs10070100_MSG0010",
+      "style": 0,
+      "name": "あれだけの巨体　殲滅兵器と見て間違いないわ\n目的地は恐らくＮＬＡ[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs10070100_MSG0011",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "xs10070100_MSG0012",
+      "style": 0,
+      "name": "あいつにＮＬＡを灼かせるわけにはいかない\n皆　ここで食い止める！[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs10070100_JNK0010",
+      "style": 4,
+      "name": "賛成"
+    },
+    {
+      "$id": 14,
+      "label": "xs10070100_SEL0011",
+      "style": 3,
+      "name": "絶対にここで斃すと誓う"
+    },
+    {
+      "$id": 15,
+      "label": "xs10070100_JNK0020",
+      "style": 4,
+      "name": "畏怖"
+    },
+    {
+      "$id": 16,
+      "label": "xs10070100_SEL0021",
+      "style": 3,
+      "name": "辺りを見回して逃げ道を探す"
+    },
+    {
+      "$id": 17,
+      "label": "xs10070100_MSG0013",
+      "style": 0,
+      "name": "あなたなら　そう言ってくれると思ってたわ\n頼りにしてるわよ[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs10070100_MSG0014",
+      "style": 0,
+      "name": "私たちで護りましょう　ＮＬＡを！[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs10070100_MSG0015",
+      "style": 0,
+      "name": "もう逃げ場なんてないですよ！\n戦いましょう！[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs10070100_MSG0016",
+      "style": 0,
+      "name": "私達が護るのよ　ＮＬＡを[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs10070100_MSG0017",
+      "style": 0,
+      "name": "アイツらけなげだネェ\n必死の決意ってヤツ！？[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "xs10070100_MSG0018",
+      "style": 0,
+      "name": "リーズ　侮るの　良くない[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs10070100_MSG0019",
+      "style": 0,
+      "name": "っるさいネェ\n木偶の坊は黙って見てりゃいいんだヨ！[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "xs10070100_MSG0020",
+      "style": 0,
+      "name": "さぁ　地球人ども　消し炭になっちまいなッ！[ST:wait ]"
+    }
+  ]
+}

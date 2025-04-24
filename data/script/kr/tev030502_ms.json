@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev030502_MSG0001",
+      "style": 1,
+      "name": "으으…… 괴로워……\n온몸에서 기분 나쁜 땀이 나왕……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev030502_MSG0002",
+      "style": 1,
+      "name": "빨리 『기적의 물』을 마시지 않으면\n큰일이…… 날 것 같앙……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev030502_JNK0010",
+      "style": 4,
+      "name": "걱정[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev030502_SEL0011",
+      "style": 3,
+      "name": "안색이 안 좋은 자림보를 걱정한다[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev030502_JNK0020",
+      "style": 4,
+      "name": "질문[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev030502_SEL0021",
+      "style": 3,
+      "name": "『기적의 물』에 관해 묻는다[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev030502_MSG0009",
+      "style": 1,
+      "name": "요즘 계속 이런 상태양……\n주치의인 스타카터 선생님에게 진찰을 받아도\n원인 불명이라 전혀 나아지지 않고……[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev030502_MSG0010",
+      "style": 1,
+      "name": "너무 괴로워서……\n『기적의 물』을 받으러 왔잖앙……[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev030502_MSG0011",
+      "style": 1,
+      "name": "이 고통이 낫는다면\n신이든 뭐든 믿을 거양……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev030502_MSG0014",
+      "style": 1,
+      "name": "『기적의 신』 신자인 프레지 일행이\n나눠 주고 있엉……[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev030502_MSG0015",
+      "style": 1,
+      "name": "그 물을 마시면 어떤 병도 낫는다고……\n다들 말하고 있잖앙?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev030502_MSG0016",
+      "style": 1,
+      "name": "신이라든지 기적 같은 건 잘 모르겠지만\n이 고통을 어떻게든 해 준다면 전부 믿을 거양……[ST:wait ]"
+    }
+  ]
+}

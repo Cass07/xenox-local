@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091402_MSG0001",
+      "style": 0,
+      "name": "여기군요……[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091402_MSG0002",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091402_MSG0003",
+      "style": 0,
+      "name": "확실히 본 적 없는 물체가 널려 있네요[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091402_MSG0004",
+      "style": 0,
+      "name": "……좋아[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091402_JNK0010",
+      "style": 4,
+      "name": "지켜본다"
+    },
+    {
+      "$id": 6,
+      "label": "qev091402_SEL0011",
+      "style": 3,
+      "name": "용감하게 손을 뻗는 포그를 지켜본다"
+    },
+    {
+      "$id": 7,
+      "label": "qev091402_JNK0020",
+      "style": 4,
+      "name": "제지한다"
+    },
+    {
+      "$id": 8,
+      "label": "qev091402_SEL0021",
+      "style": 3,
+      "name": "위험하니까 함부로 만지지 말라며 제지한다"
+    },
+    {
+      "$id": 9,
+      "label": "qev091402_MSG0005",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091402_MSG0006",
+      "style": 0,
+      "name": "하지만 형이었다면 분명\n위험을 감수해서라도 조사했을 거예요[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091402_MSG0007",
+      "style": 0,
+      "name": "으앗……!?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091402_MSG0008",
+      "style": 0,
+      "name": "……[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091402_MSG0009",
+      "style": 0,
+      "name": "대체 뭐였을까요?\n기분 나쁜 생명체였는데요……[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091402_JNK0030",
+      "style": 4,
+      "name": "단정한다"
+    },
+    {
+      "$id": 15,
+      "label": "qev091402_SEL0031",
+      "style": 3,
+      "name": "그로우스의 신형 병기가 틀림없다고 단정한다"
+    },
+    {
+      "$id": 16,
+      "label": "qev091402_JNK0040",
+      "style": 4,
+      "name": "추측한다"
+    },
+    {
+      "$id": 17,
+      "label": "qev091402_SEL0041",
+      "style": 3,
+      "name": "이 별의 수많은 수수께끼 중\n하나일지도 모른다고 추측한다"
+    },
+    {
+      "$id": 18,
+      "label": "qev091402_MSG0010",
+      "style": 0,
+      "name": "그로우스가 여기에 함정을 설치해도\n아무 의미 없을 것 같은데요……[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091402_MSG0011",
+      "style": 0,
+      "name": "그렇군요, 그렇게 생각할 수도 있겠지만……[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091402_MSG0013",
+      "style": 0,
+      "name": "여기서 고민해 봤자 답은 나오지 않으니[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev091402_MSG0014",
+      "style": 0,
+      "name": "일단 이것을 가지고 돌아가서\n연구반에 분석을 의뢰하죠[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev091402_MSG0015",
+      "style": 0,
+      "name": "그래요, 제 지인 중 학자인 솔란 씨라면\n무언가 알지도 몰라요[ST:wait ]"
+    }
+  ]
+}
