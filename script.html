@@ -204,9 +204,9 @@
                 let script = row.name.replace(/\n/g, "<br>");
                 script = script.replace(/\[ST:gender p1=([^\]]*) p2=([^\]]*) \]/gm, "[$1/$2]");
                 dictionary.forEach(item => {
-                    script = script.replace(item.script, item[lang]);
+                    script = script.replaceAll(item.script, item[lang]);
                 });
-                script = script.replace("[ST:wait ]", "");
+                script = script.replaceAll("[ST:wait ]", "");
 
                 if(lang === "kr") {
                     script = script.replace(/(.?)(.?)\[KR:Particle char=([^\]]*) \]/gm, function (match, p1, p2, p3) {
