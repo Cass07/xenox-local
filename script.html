@@ -161,14 +161,77 @@
     function updateTable(jsonName, lang) {
         let dir = `data/script/${lang}/${jsonName}.json`;
 
+        const dictionary = [
+            {
+                "script": "[ST:playername ]",
+                "kr" : "[플레이어]",
+                "us" : "[Player]",
+                "jp" : "[プレイヤー]"
+            }
+        ];
+
+        const korParticle = [
+            {
+                "key" : "ya",
+                "withoutCoda" : "",
+                "withCoda" : "이"
+            },
+            {
+                "key" : "ha",
+                "withoutCoda" : "는",
+                "withCoda" : "은"
+            },
+            {
+                "key" : "ga",
+                "withoutCoda" : "가",
+                "withCoda" : "이"
+            },
+            {
+                "key" : "wo",
+                "withoutCoda" : "를",
+                "withCoda" : "을"
+            },
+            {
+                "key" : "to",
+                "withoutCoda" : "와",
+                "withCoda" : "과"
+            }
+        ];
+
         $.getJSON(dir, jsonDataTable => {
             let bodyTable = jsonDataTable.rows;
             bodyTable.forEach((row, index, array) => {
-                array[index].name = row.name.replace(/\n/g, "<br>");
+                let script = row.name.replace(/\n/g, "<br>");
+                script = script.replace(/\[ST:gender p1=([^\]]*) p2=([^\]]*) \]/gm, "[$1/$2]");
+                dictionary.forEach(item => {
+                    script = script.replace(item.script, item[lang]);
+                });
+                script = script.replace("[ST:wait ]", "");
+
+                if(lang === "kr") {
+                    script = script.replace(/(.?)(.?)\[KR:Particle char=([^\]]*) \]/gm, function (match, p1, p2, p3) {
+                        let particle = korParticle.find(p => p.key === p3);
+                        if (particle) {
+                            let lastChar = p2;
+                            if(lastChar === "]") {
+                                lastChar = p1;
+                            }
+                            let isCodaChar = isCoda(lastChar);
+                            return `${p1}${p2}${isCodaChar ? particle.withCoda : particle.withoutCoda}`;
+                        }
+                        return match;
+                    });
+                }
+
+                array[index].name = script;
             });
 
             $table.bootstrapTable('load', bodyTable);
         });
+    }
+
+    function isCoda(char) {
+        return (char.charCodeAt(0) - 0xAC00) % 28 !== 0;
     }
 
     $scriptDropdown.on('select2:select', function (e) {
