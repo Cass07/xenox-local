@@ -167,7 +167,20 @@
                 "kr" : "[플레이어]",
                 "us" : "[Player]",
                 "jp" : "[プレイヤー]"
+            },
+            {
+                "script": "[ST:wait ]",
+                "kr" : "",
+                "us" : "",
+                "jp" : ""
+            },
+            {
+                "script": "[ST:wide ]―",
+                "kr" : "",
+                "us" : "",
+                "jp" : "⸻"
             }
+
         ];
 
         const korParticle = [
@@ -206,7 +219,6 @@
                 dictionary.forEach(item => {
                     script = script.replaceAll(item.script, item[lang]);
                 });
-                script = script.replaceAll("[ST:wait ]", "");
 
                 if(lang === "kr") {
                     script = script.replace(/(.?)(.?)\[KR:Particle char=([^\]]*) \]/gm, function (match, p1, p2, p3) {
