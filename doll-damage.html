@@ -57,11 +57,6 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item"><a class="nav-link" href="index.html">단어사전</a></li>
-                <li class="nav-item"><a class="nav-link" href="doll-weapon-arts.html">돌 웨펀 정보</a></li>
-                <li class="nav-item"><a class="nav-link" href="enemy-wikipage.html">에너미 리스트</a></li>
-                <li class="nav-item"><a class="nav-link active" href="doll-damage.html">돌 대미지 계산기</a></li>
-                <li class="nav-item"><a class="nav-link" href="script.html">스크립트</a></li>
             </ul>
         </div>
     </div>
@@ -230,6 +225,7 @@
 
 </body>
 </html>
+<script src="nav.js"></script>
 <script>
     const dollDir = "data/doll.json";
     const weaponDir = "data/doll_weapons_arts_cal.json";
@@ -247,6 +243,7 @@
     let DAMAGEUP100;
 
     $(document).ready(function () {
+        NavInitiator.initiate();
 
         $table.bootstrapTable();
 
